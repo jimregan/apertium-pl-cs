@@ -8795,43 +8795,49 @@
       <e>
         <p>
           <l>íze</l>
-          <r>íze<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+          <r>íze<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ěz</l>
-          <r>íze<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+          <r>íze<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ězům</l>
-          <r>íze<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+          <r>íze<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>íze</l>
-          <r>íze<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+          <r>íze<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>íze</l>
-          <r>íze<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+          <r>íze<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ězích</l>
-          <r>íze<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+          <r>íze<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ězi</l>
-          <r>íze<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+          <r>íze<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ězma</l>
+          <r>íze<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
     </pardef>
