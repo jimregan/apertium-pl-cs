@@ -17,6 +17,7 @@
 /apertium-pl-cs.pl.dix -text
 /apertium-pl-cs.pl.tsx -text
 /apertium-pl-cs.post-cs.dix -text
+/apertium-pl-cs.post-pl.dix -text
 /autogen.sh -text
 /configure.ac -text
 /cs-pl.prob -text
