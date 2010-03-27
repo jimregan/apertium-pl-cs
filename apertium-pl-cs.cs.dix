@@ -5,6 +5,11 @@
     <sdef n="n"/>
     <sdef n="num"/>
     <sdef n="det"/>
+    <sdef n="adv"/>
+
+    <sdef n="adj"/>
+    <sdef n="sint"/>
+    <sdef n="comp"/>
 
     <sdef n="ma"     c="mužský životný"/>
     <sdef n="mi"     c="mužský neživotný"/>

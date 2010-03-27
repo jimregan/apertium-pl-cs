@@ -19,4 +19,6 @@
 /apertium-pl-cs.post-cs.dix -text
 /autogen.sh -text
 /configure.ac -text
+/cs-pl.prob -text
 /modes.xml -text
+/pl-cs.prob -text svneol=unset#unset
