@@ -1,6 +1,10 @@
 * text=auto !eol
+/AUTHORS -text
 /COPYING -text
+/ChangeLog -text
 /Makefile.am -text
+/NEWS -text
+/README -text
 /apertium-pl-cs.cs-pl.t1x -text
 /apertium-pl-cs.cs-pl.t2x -text
 /apertium-pl-cs.cs-pl.t3x -text
