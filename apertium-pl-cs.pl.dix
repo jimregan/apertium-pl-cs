@@ -3555,6 +3555,110 @@
         </p>
       </e>
     </pardef>
+    <pardef n="przed/dzień__n">
+      <e>
+        <p>
+          <l>dzień</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ednia</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edniowi</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dzień</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edniem</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edniu</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edniu</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edni</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ednie</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edni</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edniom</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edni</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ednie</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edniami</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edniach</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>edni</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ednie</l>
+          <r>dzień<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="miesi/ąc__n">
       <e>
         <p>
@@ -10201,6 +10305,9 @@
     <e lm="język"><i>język</i><par n="kajak__n"/></e>
     <e lm="kajak"><i>kajak</i><par n="kajak__n"/></e>
     <e lm="dzięgiel"><i>dzięg</i><par n="dzięg/iel__n"/></e>
+    <e lm="dzień"><i>d</i><par n="d/zień__n"/></e>
+    <e lm="tydzień"><i>ty</i><par n="ty/dzień__n"/></e>
+    <e lm="przeddzień"><i>przed</i><par n="przed/dzień__n"/></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
