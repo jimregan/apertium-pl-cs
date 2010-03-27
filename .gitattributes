@@ -1,3 +1,17 @@
 * text=auto !eol
+/COPYING -text
+/Makefile.am -text
+/apertium-pl-cs.cs-pl.t1x -text
+/apertium-pl-cs.cs-pl.t2x -text
+/apertium-pl-cs.cs-pl.t3x -text
 /apertium-pl-cs.cs.dix -text
+/apertium-pl-cs.cs.tsx -text
+/apertium-pl-cs.pl-cs.t1x -text
+/apertium-pl-cs.pl-cs.t2x -text
+/apertium-pl-cs.pl-cs.t3x -text
 /apertium-pl-cs.pl.dix -text
+/apertium-pl-cs.pl.tsx -text
+/apertium-pl-cs.post-cs.dix -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text
