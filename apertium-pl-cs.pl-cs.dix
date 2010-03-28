@@ -12,6 +12,7 @@
     <sdef n="nt"/>
     <sdef n="vbser"/>
     <sdef n="adj"/>
+    <sdef n="det"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -259,5 +260,39 @@
     <e><p><l>materializacja<s n="n"/><s n="f"/></l><r>materializace<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maksymalizacja<s n="n"/><s n="f"/></l><r>maximalizace<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mechanizacja<s n="n"/><s n="f"/></l><r>mechanizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>medializacja<s n="n"/><s n="f"/></l><r>medializace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>melodyzacja<s n="n"/><s n="f"/></l><r>melodizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>metabolizacja<s n="n"/><s n="f"/></l><r>metabolizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>metalizacja<s n="n"/><s n="f"/></l><r>metalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>militaryzacja<s n="n"/><s n="f"/></l><r>militarizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mineralizacja<s n="n"/><s n="f"/></l><r>mineralizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>miniaturyzacja<s n="n"/><s n="f"/></l><r>miniaturizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>minimalizacja<s n="n"/><s n="f"/></l><r>minimalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mobilizacja<s n="n"/><s n="f"/></l><r>mobilizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>modernizacja<s n="n"/><s n="f"/></l><r>modernizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>monoftongizacja<s n="n"/><s n="f"/></l><r>monoftongizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>monopolizacja<s n="n"/><s n="f"/></l><r>monopolizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>motoryzacja<s n="n"/><s n="f"/></l><r>motorizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>municypalizacja<s n="n"/><s n="f"/></l><r>municipalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nazalizacja<s n="n"/><s n="f"/></l><r>nasalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>naturalizacja<s n="n"/><s n="f"/></l><r>naturalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nazalizacja<s n="n"/><s n="f"/></l><r>nazalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>neutralizacja<s n="n"/><s n="f"/></l><r>neutralizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nominalizacja<s n="n"/><s n="f"/></l><r>nominalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>normalizacja<s n="n"/><s n="f"/></l><r>normalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nowelizacja<s n="n"/><s n="f"/></l><r>novelizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>obiektywizacja<s n="n"/><s n="f"/></l><r>objektivizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>odoryzacja<s n="n"/><s n="f"/></l><r>odorizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>operacjonalizacja<s n="n"/><s n="f"/></l><r>operacionalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>optymalizacja<s n="n"/><s n="f"/></l><r>optimalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>organizacja<s n="n"/><s n="f"/></l><r>organizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ortogonalizacja<s n="n"/><s n="f"/></l><r>ortogonalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ozonizacja<s n="n"/><s n="f"/></l><r>ozonizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pakietyzacja<s n="n"/><s n="f"/></l><r>paketizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>palatalizacja<s n="n"/><s n="f"/></l><r>palatalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paletyzacja<s n="n"/><s n="f"/></l><r>paletizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>panelizacja<s n="n"/><s n="f"/></l><r>panelizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parametryzacja<s n="n"/><s n="f"/></l><r>parametrizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>partykularyzacja<s n="n"/><s n="f"/></l><r>partikularizace<s n="n"/><s n="f"/></r></p></e>
   </section>
 </dictionary>
