@@ -13,6 +13,7 @@
     <sdef n="vbser"/>
     <sdef n="adj"/>
     <sdef n="det"/>
+    <sdef n="adv"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -29,7 +30,9 @@
     <e><p><l>listopad<s n="n"/><s n="mi"/></l><r>listopad<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>prosinec<s n="n"/><s n="mi"/></r></p></e>
 
+    <e><p><l>kiedyś<s n="adv"/></l><r>jednou<s n="adv"/></r></p></e>
     <e><p><l>warstwica<s n="n"/><s n="f"/></l><r>vrstevnice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>herbata<s n="n"/><s n="f"/></l><r>čaj<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ciasto<s n="n"/><s n="f"/></l><r>těsto<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>język<s n="n"/><s n="mi"/></l><r>jazyk<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>izoterma<s n="n"/><s n="f"/></l><r>izoterma<s n="n"/><s n="f"/></r></p></e>
