@@ -11,6 +11,7 @@
     <sdef n="mp"/>
     <sdef n="nt"/>
     <sdef n="vbser"/>
+    <sdef n="adj"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -61,7 +62,8 @@
     <e><p><l>proces<s n="n"/><s n="mi"/></l><r>proces<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>piwo<s n="n"/><s n="nt"/></l><r>pivo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>nos<s n="n"/><s n="mi"/></l><r>nos<s n="n"/><s n="mi"/></r></p></e>
-
+    <e><p><l>papieros<s n="n"/><s n="mi"/></l><r>cigareta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cena<s n="n"/><s n="f"/></l><r>cena<s n="n"/><s n="f"/></r></p></e>
 
    <!-- Autocognates -->
     <e><p><l>absolutyzacja<s n="n"/><s n="f"/></l><r>absolutizace<s n="n"/><s n="f"/></r></p></e>

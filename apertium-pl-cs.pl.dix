@@ -15,8 +15,6 @@
     <sdef n="pr"      c="przyimek"/>
     <sdef n="prn"     c="zaimek"/>
     <sdef n="det"     c="określnik"/>
-    <sdef n="cnjcoo"  c="spójnik"/>
-    <sdef n="cnjsub"  c="spójnik"/>
     <sdef n="ij"      c="wykrzyknik"/>
 
     <sdef n="cnjadv"  c="spójnik przysłówkowy"/>
@@ -32,6 +30,12 @@
     <sdef n="nt"      c="nijaki"/>
     <sdef n="mf"      c="męski albo/i żeński"/>
     <sdef n="nm"      c="niemęski (np 'Polaki' a nie 'Polacy')"/>
+
+    <sdef n="np"      c="nazwa własna"/>
+    <sdef n="hyd"     c="hydronim"/>
+    <sdef n="top"     c="miejsce"/>
+    <sdef n="ant"     c="imię"/>
+    <sdef n="cog"     c="nazwisko"/>
 
     <!-- osoby -->
     <sdef n="p1"      c="pierwsza osoba"/>
@@ -77,6 +81,24 @@
     <sdef n="sint"    c="przymiotnik albo przysłówek mający stopień wyższy/najwyższy"/>
     <sdef n="comp"    c="stopień wyższy"/>
     <sdef n="sup"     c="stopień najwyższy"/>
+    <sdef n="emph"    c="wymowny"/>
+    <sdef n="acr"     c="akronim"/>
+    <sdef n="percent"/>
+    <sdef n="lpar"/>
+    <sdef n="rpar"/>
+    <sdef n="sent"/>
+    <sdef n="guio"/>
+    <sdef n="apos"/>
+    <sdef n="cm"/>
+    <sdef n="indecl"/>
+    <sdef n="rel"/>
+    <sdef n="an"/>
+    <sdef n="cpd"/>
+    <sdef n="po"/>
+    <sdef n="ord"/>
+    <sdef n="ppr"/>
+    <sdef n="lquot"/>
+    <sdef n="rquot"/>
   </sdefs>
   
   <pardefs>
