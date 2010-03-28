@@ -17,7 +17,7 @@
     <sdef n="det"     c="określnik"/>
     <sdef n="cnjcoo"  c="spójnik"/>
     <sdef n="cnjsub"  c="spójnik"/>
-    <sdef n="ij"      c="wtrącenie"/>
+    <sdef n="ij"      c="wykrzyknik"/>
 
     <!-- rodzaje -->
     <sdef n="m"       c="męski (nazwa własna)"/>
@@ -44,6 +44,7 @@
     <!-- liczby -->
     <sdef n="sg"      c="liczba pojedyncza"/>
     <sdef n="pl"      c="liczba mnoga"/>
+    <sdef n="sp"      c="pojedyncza albo/i mnoga"/>
     <sdef n="cnt"     c="policzalne"/>
     <sdef n="unc"     c="niepoliczalne"/>
     
@@ -65,7 +66,7 @@
     <sdef n="ref"     c="zaimek zwrotny"/>
     <sdef n="imperf"  c="czasownik niedokonany"/>
     <sdef n="perf"    c="czasownik dokonany"/>   
-    <sdef n="sint"    c="przymiotnik stopniowany nieregularnie"/>
+    <sdef n="sint"    c="przymiotnik albo przysłówek mający stopień wyższy/najwyższy"/>
   </sdefs>
   
   <pardefs>
