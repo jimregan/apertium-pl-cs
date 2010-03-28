@@ -10,6 +10,7 @@
     <sdef n="ma"/>
     <sdef n="mp"/>
     <sdef n="nt"/>
+    <sdef n="vbser"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -37,5 +38,6 @@
     <e><p><l>gdyby<s n="cnjsub"/></l><r>kdyby<s n="cnjsub"/></r></p></e>
     <e><p><l>i<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
     <e><p><l>czy<s n="cnjcoo"/></l><r>či<s n="cnjcoo"/></r></p></e>
+    <e><p><l>być<s n="vbser"/></l><r>být<s n="vbser"/></r></p></e>
   </section>
 </dictionary>
