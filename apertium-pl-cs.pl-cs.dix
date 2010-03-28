@@ -33,11 +33,41 @@
     <e><p><l>izoterma<s n="n"/><s n="f"/></l><r>izoterma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>izoglosa<s n="n"/><s n="f"/></l><r>izoglosa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>izobara<s n="n"/><s n="f"/></l><r>izobara<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dziewczyna<s n="n"/><s n="f"/></l><r>dívka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dzięgiel<s n="n"/><s n="mi"/></l><r>andělika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aby<s n="cnjsub"/></l><r>aby<s n="cnjsub"/></r></p></e>
     <e><p><l>gdyby<s n="cnjsub"/></l><r>kdyby<s n="cnjsub"/></r></p></e>
     <e><p><l>i<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
     <e><p><l>czy<s n="cnjcoo"/></l><r>či<s n="cnjcoo"/></r></p></e>
     <e><p><l>być<s n="vbser"/></l><r>být<s n="vbser"/></r></p></e>
+
+
+   <!-- Autocognates -->
+    <e><p><l>absolutyzacja<s n="n"/><s n="f"/></l><r>absolutizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adiektywizacja<s n="n"/><s n="f"/></l><r>adjektivizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>afrykanizacja<s n="n"/><s n="f"/></l><r>afrikanizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aklimatyzacja<s n="n"/><s n="f"/></l><r>aklimatizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aktywizacja<s n="n"/><s n="f"/></l><r>aktivizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aktualizacja<s n="n"/><s n="f"/></l><r>aktualizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alergizacja<s n="n"/><s n="f"/></l><r>alergizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alfabetyzacja<s n="n"/><s n="f"/></l><r>alfabetizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>algorytmizacja<s n="n"/><s n="f"/></l><r>algoritmizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alkalizacja<s n="n"/><s n="f"/></l><r>alkalizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>amerykanizacja<s n="n"/><s n="f"/></l><r>amerikanizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>amortyzacja<s n="n"/><s n="f"/></l><r>amortizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>animizacja<s n="n"/><s n="f"/></l><r>animizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anodyzacja<s n="n"/><s n="f"/></l><r>anodizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>antropomorfizacja<s n="n"/><s n="f"/></l><r>antropomorfizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>arabizacja<s n="n"/><s n="f"/></l><r>arabizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aromatyzacja<s n="n"/><s n="f"/></l><r>aromatizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>atomizacja<s n="n"/><s n="f"/></l><r>atomizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autodesensybilizacja<s n="n"/><s n="f"/></l><r>autodesenzibilizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>automatyzacja<s n="n"/><s n="f"/></l><r>automatizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autoorganizacja<s n="n"/><s n="f"/></l><r>autoorganizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autoryzacja<s n="n"/><s n="f"/></l><r>autorizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autostabilizacja<s n="n"/><s n="f"/></l><r>autostabilizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autostylizacja<s n="n"/><s n="f"/></l><r>autostylizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>awizacja<s n="n"/><s n="f"/></l><r>avizace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aksjomatyzacja<s n="n"/><s n="f"/></l><r>axiomatizace<s n="n"/><s n="f"/></r></p></e>
   </section>
 </dictionary>
