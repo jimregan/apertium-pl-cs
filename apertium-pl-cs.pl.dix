@@ -2,37 +2,37 @@
 <dictionary>
   <alphabet>AaÁáÄäBbCcČčDdĎďEeÉéFfGgHhIiÍíJjKkLlĽľĹĺMmNnŇňOoÓóÔôPpQqRrŔŕSsŠšTtŤťUuÚúVvWwXxYyÝýZzŽžĄąĆćĘęŁłŃńÓóŚśQqŻżŹź</alphabet>
   <sdefs>
-    <sdef n="vblex"/>
-    <sdef n="vbser"/>
-    <sdef n="vbhaver"/>
-    <sdef n="perf"/>
-    <sdef n="imperf"/>
-    <sdef n="inf"/>
-    <sdef n="pres"/>
-    <sdef n="past"/>
-    <sdef n="fut"/>
-    <sdef n="imp"/>
-    <sdef n="p1"/>
-    <sdef n="p2"/>
-    <sdef n="p3"/>
-    <sdef n="sg"/>
-    <sdef n="pl"/>
-    <sdef n="m"/>
-    <sdef n="mp"/>
-    <sdef n="ma"/>
-    <sdef n="mi"/>
+    <sdef n="vblex"   c="czasownik"/>
+    <sdef n="vbser"   c="być"/>
+    <sdef n="vbhaver" c="mieć"/>
+    <sdef n="perf"    c="aspekt dokonany"/>
+    <sdef n="imperf"  c="aspekt niedokonany"/>
+    <sdef n="inf"     c="bezokolicznik"/>
+    <sdef n="pres"    c="czas teraźniejszy"/>
+    <sdef n="past"    c="czas przeszły"/>
+    <sdef n="fut"     c="czas przyszły"/>
+    <sdef n="imp"     c="tryb rozkazujący"/>
+    <sdef n="p1"      c="pierwsza osoba"/>
+    <sdef n="p2"      c="druga osoba"/>
+    <sdef n="p3"      c="trzecia osoba"/>
+    <sdef n="sg"      c="liczba pojedyncza"/>
+    <sdef n="pl"      c="liczba mnoga"/>
+    <sdef n="m"       c="rodzaj męski (nazwa własna)"/>
+    <sdef n="mp"      c="rodzaj męski męskoosobowy"/>
+    <sdef n="ma"      c="rodzaj męski męskożywotny"/>
+    <sdef n="mi"      c="rodzaj męski męskonieżywotny"/>
     <sdef n="f"/>
     <sdef n="nt"/>
-    <sdef n="mf"/>
+    <sdef n="mf"      c="męski albo/i żeński"/>
     <sdef n="nm"/>
     <sdef n="sp"/>
-    <sdef n="n"/>
+    <sdef n="n"       c="rzeczownik"/>
     <sdef n="acr"/>
-    <sdef n="np"/>
-    <sdef n="hyd"/>
-    <sdef n="top"/>
-    <sdef n="ant"/>
-    <sdef n="cog"/>
+    <sdef n="np"      c="nazwa własna"/>
+    <sdef n="hyd"     c="nazwa własna wodna"/>
+    <sdef n="top"     c="miejsce (nazwa własna)"/>
+    <sdef n="ant"     c="imię (nazwa własna)"/>
+    <sdef n="cog"     c="nazwisko (nazwa własna)"/>
     <sdef n="adj"/>
     <sdef n="det"/>
     <sdef n="dem"/>
@@ -44,8 +44,8 @@
     <sdef n="ins"/>
     <sdef n="loc"/>
     <sdef n="voc"/>
-    <sdef n="cnjcoo"/>
-    <sdef n="cnjsub"/>
+    <sdef n="cnjcoo"  c="spójnik współrzędny"/>
+    <sdef n="cnjsub"  c="spójnik podrzędny"/>
     <sdef n="pr"/>
     <sdef n="adv"/>
     <sdef n="itg"/>
