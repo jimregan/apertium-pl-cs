@@ -2,85 +2,70 @@
 <dictionary>
   <alphabet>AaÁáÄäBbCcČčDdĎďEeÉéFfGgHhIiÍíJjKkLlĽľĹĺMmNnŇňOoÓóÔôPpQqRrŔŕSsŠšTtŤťUuÚúVvWwXxYyÝýZzŽžĄąĆćĘęŁłŃńÓóŚśQqŻżŹź</alphabet>
   <sdefs>
-    <sdef n="vblex"   c="czasownik"/>
-    <sdef n="vbser"   c="być"/>
-    <sdef n="vbhaver" c="mieć"/>
-    <sdef n="perf"    c="aspekt dokonany"/>
-    <sdef n="imperf"  c="aspekt niedokonany"/>
-    <sdef n="inf"     c="bezokolicznik"/>
-    <sdef n="pres"    c="czas teraźniejszy"/>
-    <sdef n="past"    c="czas przeszły"/>
-    <sdef n="fut"     c="czas przyszły"/>
-    <sdef n="imp"     c="tryb rozkazujący"/>
+    <!-- części mowy -->
+    <sdef n="n"       c="rzeczownik"/>   
+    <sdef n="num"     c="liczebnik"/>
+    <sdef n="adj"     c="przymiotnik"/>
+    <sdef n="adv"     c="przysłówek"/>
 
+    <sdef n="vblex"   c="czasownik"/>
+    <sdef n="vbser"   c="czasownik być"/>
+    <sdef n="vbhaver" c="czasownik mieć"/>
+
+    <sdef n="pr"      c="przyimek"/>
+    <sdef n="prn"     c="zaimek"/>
+    <sdef n="det"     c="określnik"/>
+    <sdef n="cnjcoo"  c="spójnik"/>
+    <sdef n="cnjsub"  c="spójnik"/>
+    <sdef n="ij"      c="wtrącenie"/>
+
+    <!-- rodzaje -->
+    <sdef n="m"       c="męski (nazwa własna)"/>
+    <sdef n="mp"      c="męski"/>
+    <sdef n="ma"      c="męski żywotny"/>
+    <sdef n="mi"      c="męski nieżywotny"/>
+    <sdef n="f"       c="żeński"/>
+    <sdef n="nt"      c="nijaki"/>
+
+    <!-- osoby -->
     <sdef n="p1"      c="pierwsza osoba"/>
     <sdef n="p2"      c="druga osoba"/>
     <sdef n="p3"      c="trzecia osoba"/>
 
-    <sdef n="sg"      c="liczba pojedyncza"/>
-    <sdef n="pl"      c="liczba mnoga"/>
-
-    <sdef n="m"       c="rodzaj męski (nazwa własna)"/>
-    <sdef n="mp"      c="rodzaj męski męskoosobowy"/>
-    <sdef n="ma"      c="rodzaj męski męskożywotny"/>
-    <sdef n="mi"      c="rodzaj męski męskonieżywotny"/>
-    <sdef n="f"       c="rodzaj żeński"/>
-    <sdef n="nt"      c="rodzaj nijaki"/>
-    <sdef n="mf"      c="męski albo/i żeński"/>
-    <sdef n="nm"      c="niemęski (np 'Polaki' a nie 'Polacy')"/>
-
-    <sdef n="sp"/>
-    <sdef n="n"       c="rzeczownik"/>
-    <sdef n="acr"     c="akronim"/>
-    <sdef n="np"      c="nazwa własna"/>
-    <sdef n="hyd"     c="hydronim"/>
-    <sdef n="top"     c="miejsce (nazwa własna)"/>
-    <sdef n="ant"     c="imię (nazwa własna)"/>
-    <sdef n="cog"     c="nazwisko (nazwa własna)"/>
-    <sdef n="adj"/>
-    <sdef n="det"/>
-    <sdef n="dem"     c="wskazujący"/>
-    <sdef n="pos"/>
+    <!-- przypadki -->
     <sdef n="nom"     c="mianownik"/>
-    <sdef n="dat"     c="celownik"/>
     <sdef n="gen"     c="dopełniacz"/>
+    <sdef n="dat"     c="celownik"/>
     <sdef n="acc"     c="biernik"/>
     <sdef n="ins"     c="narzędnik"/>
     <sdef n="loc"     c="miejscownik"/>
     <sdef n="voc"     c="wołacz"/>
 
-    <sdef n="cnjadv"  c="spójnik przysłówkowy"/>
-    <sdef n="cnjcoo"  c="spójnik współrzędny"/>
-    <sdef n="cnjsub"  c="spójnik podrzędny"/>
+    <!-- liczby -->
+    <sdef n="sg"      c="liczba pojedyncza"/>
+    <sdef n="pl"      c="liczba mnoga"/>
+    <sdef n="cnt"     c="policzalne"/>
+    <sdef n="unc"     c="niepoliczalne"/>
+    
+    <!-- czasy -->   
+    <sdef n="past"    c="czas przeszły"/>
+    <sdef n="pres"    c="czas teraźniejszy"/>
+    <sdef n="fut"     c="czas przyszły"/>
 
-    <sdef n="pr"      c="przyimek"/>
-    <sdef n="adv"     c="przysłówek"/>
-    <sdef n="itg"/>
-    <sdef n="prn"     c="zaimek"/>
-    <sdef n="num"/>
-    <sdef n="ind"/>
-    <sdef n="percent"/>
-    <sdef n="lpar"/>
-    <sdef n="rpar"/>
-    <sdef n="sent"/>
-    <sdef n="guio"/>
-    <sdef n="apos"/>
-    <sdef n="cm"/>
-    <sdef n="indecl"/>
-    <sdef n="rel"/>
-    <sdef n="an"/>
-    <sdef n="cpd"/>
-    <sdef n="po"/>
-    <sdef n="comp"    c="stopień wyższy"/>
-    <sdef n="sup"     c="stopień najwyższy"/>
-    <sdef n="sint"/>
-    <sdef n="ord"/>
-    <sdef n="ij"/>
-    <sdef n="ppr"/>
-    <sdef n="emph"    c="wymowny"/>
-    <sdef n="lquot"/>
-    <sdef n="rquot"/>
-    <sdef n="ref"     c="zwrotny"/>
+    <!-- tryby -->
+    <sdef n="imp"     c="tryb rozkazujący"/>
+    <sdef n="pri"     c="tryb oznajmujący"/>
+    <sdef n="inf"     c="bezokolicznik"/>
+
+    <!-- inne -->
+    <sdef n="dem"     c="rodzajnik określony (wskazujący)"/>
+    <sdef n="pos"     c="zaimek dzierżawczy"/>
+    <sdef n="itg"     c="zaimek pytający"/>
+    <sdef n="ind"     c="rodzajnik nieokreślony"/>
+    <sdef n="ref"     c="zaimek zwrotny"/>
+    <sdef n="imperf"  c="czasownik niedokonany"/>
+    <sdef n="perf"    c="czasownik dokonany"/>   
+    <sdef n="sint"    c="przymiotnik stopniowany nieregularnie"/>
   </sdefs>
   
   <pardefs>
