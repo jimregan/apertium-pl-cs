@@ -66,11 +66,12 @@
     <sdef n="cni"     c="tryb przypuszczający"/>
 
     <!-- inne -->
+    <sdef n="ger"     c="rzeczownik odczasownikowy"/>
     <sdef n="dem"     c="rodzajnik określony (wskazujący)"/>
-    <sdef n="pos"     c="zaimek dzierżawczy"/>
-    <sdef n="itg"     c="zaimek pytający"/>
+    <sdef n="pos"     c="dzierżawczy"/>
+    <sdef n="itg"     c="pytający"/>
     <sdef n="ind"     c="rodzajnik nieokreślony"/>
-    <sdef n="ref"     c="zaimek zwrotny"/>
+    <sdef n="ref"     c="zwrotny"/>
     <sdef n="imperf"  c="czasownik niedokonany"/>
     <sdef n="perf"    c="czasownik dokonany"/>   
     <sdef n="sint"    c="przymiotnik albo przysłówek mający stopień wyższy/najwyższy"/>
