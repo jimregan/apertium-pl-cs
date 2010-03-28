@@ -96,6 +96,7 @@ apertium_pl_cs_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 		    $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(BASENAME).$(PREFIX1).t3x\
 		    $(BASENAME).$(PREFIX2).t1x $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX2).t3x\
 		    $(PREFIX2).autopgen.bin \
+		    $(PREFIX1).autopgen.bin \
 		    $(PREFIX1).mode
 		  
 install-data-local:

@@ -42,6 +42,7 @@
     <sdef n="p2"     c="druhá osoba"/>
     <sdef n="p3"     c="třetí osoba"/>
     <sdef n="pri"    c="přítomný čas"/>
+    <sdef n="pres"   c="přítomný čas"/>
     <sdef n="past"   c="minulý čas"/>
     <sdef n="imp"    c="rozkazovací způsob"/>
     
