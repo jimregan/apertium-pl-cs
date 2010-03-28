@@ -57,12 +57,13 @@
     <!-- czasy -->   
     <sdef n="past"    c="czas przeszły"/>
     <sdef n="pres"    c="czas teraźniejszy"/>
+    <sdef n="pri"     c="czas teraźniejszy - nieużywany"/>
     <sdef n="fut"     c="czas przyszły"/>
 
     <!-- tryby -->
     <sdef n="imp"     c="tryb rozkazujący"/>
-    <sdef n="pri"     c="tryb oznajmujący"/>
     <sdef n="inf"     c="bezokolicznik"/>
+    <sdef n="cni"     c="tryb przypuszczający"/>
 
     <!-- inne -->
     <sdef n="dem"     c="rodzajnik określony (wskazujący)"/>
