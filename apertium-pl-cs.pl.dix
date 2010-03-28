@@ -19,6 +19,10 @@
     <sdef n="cnjsub"  c="spójnik"/>
     <sdef n="ij"      c="wykrzyknik"/>
 
+    <sdef n="cnjadv"  c="spójnik przysłówkowy"/>
+    <sdef n="cnjcoo"  c="spójnik współrzędny"/>
+    <sdef n="cnjsub"  c="spójnik podrzędny"/>
+
     <!-- rodzaje -->
     <sdef n="m"       c="męski (nazwa własna)"/>
     <sdef n="mp"      c="męski"/>
@@ -26,6 +30,8 @@
     <sdef n="mi"      c="męski nieżywotny"/>
     <sdef n="f"       c="żeński"/>
     <sdef n="nt"      c="nijaki"/>
+    <sdef n="mf"      c="męski albo/i żeński"/>
+    <sdef n="nm"      c="niemęski (np 'Polaki' a nie 'Polacy')"/>
 
     <!-- osoby -->
     <sdef n="p1"      c="pierwsza osoba"/>
@@ -67,6 +73,8 @@
     <sdef n="imperf"  c="czasownik niedokonany"/>
     <sdef n="perf"    c="czasownik dokonany"/>   
     <sdef n="sint"    c="przymiotnik albo przysłówek mający stopień wyższy/najwyższy"/>
+    <sdef n="comp"    c="stopień wyższy"/>
+    <sdef n="sup"     c="stopień najwyższy"/>
   </sdefs>
   
   <pardefs>
