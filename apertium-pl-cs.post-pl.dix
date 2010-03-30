@@ -160,6 +160,9 @@
       <e>
         <i>lw</i>
       </e>
+      <e>
+        <i>wsch</i>
+      </e>
     </pardef>
     <pardef n="ze">
       <e>
@@ -167,6 +170,30 @@
       </e>
       <e>
         <i>str</i>
+      </e>
+      <e>
+        <i>zb</i>
+      </e>
+      <e>
+        <i>sp</i>
+      </e>
+      <e>
+        <i>szl</i>
+      </e>
+      <e>
+        <i>wsch</i>
+      </e>
+      <e>
+        <i>wzg</i>
+      </e>
+      <e>
+        <i>zm</i>
+      </e>
+      <e>
+        <i>zg</i>
+      </e>
+      <e>
+        <i>św</i>
       </e>
     </pardef>
     <pardef n="przede">
