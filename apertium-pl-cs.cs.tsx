@@ -39,6 +39,7 @@
     <tags-item lemma="vedle" tags="pr"/>
     <tags-item lemma="místo" tags="pr"/>
     <tags-item lemma="krome" tags="pr"/>
+    <tags-item lemma="s výjimkou" tags="pr"/>
   </def-label> 
   <def-label name="DATPR" closed="true">
     <tags-item lemma="k" tags="pr"/>

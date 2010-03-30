@@ -54,6 +54,7 @@
     <tags-item lemma="około" tags="pr"/>
     <tags-item lemma="podczas" tags="pr"/>
     <tags-item lemma="zamiast" tags="pr"/>
+    <tags-item lemma="z wyjątkiem" tags="pr"/>
   </def-label> 
   <def-label name="DATPR" closed="true">
     <tags-item lemma="ku" tags="pr"/>
