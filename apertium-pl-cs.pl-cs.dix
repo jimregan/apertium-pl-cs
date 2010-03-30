@@ -14,9 +14,29 @@
     <sdef n="adj"/>
     <sdef n="det"/>
     <sdef n="adv"/>
+    <sdef n="pr"/>
   </sdefs>
 
   <section id="main" type="standard">
+     <e><p><l>między<s n="pr"/></l><r>mezi<s n="pr"/></r></p></e>
+     <e><p><l>przed<s n="pr"/></l><r>před<s n="pr"/></r></p></e>
+     <e><p><l>nad<s n="pr"/></l><r>nad<s n="pr"/></r></p></e>
+     <e><p><l>bez<s n="pr"/></l><r>bez<s n="pr"/></r></p></e>
+     <e><p><l>dla<s n="pr"/></l><r>pro<s n="pr"/></r></p></e>
+     <e><p><l>do<s n="pr"/></l><r>do<s n="pr"/></r></p></e>
+     <e><p><l>o<s n="pr"/></l><r>o<s n="pr"/></r></p></e>
+     <e><p><l>od<s n="pr"/></l><r>od<s n="pr"/></r></p></e>
+     <e><p><l>po<s n="pr"/></l><r>po<s n="pr"/></r></p></e>
+     <e><p><l>pod<s n="pr"/></l><r>pod<s n="pr"/></r></p></e>
+     <e><p><l>dzięki<s n="pr"/></l><r>díky<s n="pr"/></r></p></e>
+     <e><p><l>u<s n="pr"/></l><r>u<s n="pr"/></r></p></e>
+     <e><p><l>w<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
+     <e><p><l>z<s n="pr"/></l><r>z<s n="pr"/></r></p></e>
+     <e><p><l>z<s n="pr"/></l><r>s<s n="pr"/></r></p></e>
+     <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
+     <e><p><l>znad<s n="pr"/></l><r>znad<s n="pr"/></r></p></e>
+
+     <e><p><l>dzięki<s n="ij"/></l><r>díky<s n="ij"/></r></p></e>
     <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>luty<s n="n"/><s n="mi"/></l><r>únor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>marzec<s n="n"/><s n="mi"/></l><r>březen<s n="n"/><s n="mi"/></r></p></e>
