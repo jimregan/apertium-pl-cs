@@ -60,6 +60,7 @@
     <tags-item lemma="nad" tags="pr"/>
     <tags-item lemma="za" tags="pr"/>
     <tags-item lemma="mezi" tags="pr"/>
+    <tags-item lemma="bez ohledu na" tags="pr"/>
   </def-label> 
   <def-label name="LOCPR" closed="true">
     <tags-item lemma="v" tags="pr"/>

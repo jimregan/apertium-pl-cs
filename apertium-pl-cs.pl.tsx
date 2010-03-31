@@ -70,6 +70,7 @@
     <tags-item lemma="nad" tags="pr"/>
     <tags-item lemma="przed" tags="pr"/>
     <tags-item lemma="za" tags="pr"/>
+    <tags-item lemma="bez względu na" tags="pr"/>
   </def-label> 
   <def-label name="LOCPR" closed="true">
     <tags-item lemma="w" tags="pr"/>
