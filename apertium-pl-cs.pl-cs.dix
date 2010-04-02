@@ -16,6 +16,7 @@
     <sdef n="adv"/>
     <sdef n="pr"/>
     <sdef n="ij"/>
+    <sdef n="itg"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -63,6 +64,8 @@
      <e><p><l>listopad<s n="n"/><s n="mi"/></l><r>listopad<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>prosinec<s n="n"/><s n="mi"/></r></p></e>
  
+     <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>jak<s n="adv"/><s n="itg"/></r></p></e>
+
      <e><p><l>kiedyś<s n="adv"/></l><r>jednou<s n="adv"/></r></p></e>
      <e><p><l>warstwica<s n="n"/><s n="f"/></l><r>vrstevnice<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>herbata<s n="n"/><s n="f"/></l><r>čaj<s n="n"/><s n="mi"/></r></p></e>
