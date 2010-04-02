@@ -50,6 +50,7 @@
     <sdef n="p3"     c="třetí osoba"/>
     <sdef n="pres"   c="přítomný čas"/>
     <sdef n="past"   c="minulý čas"/>
+    <sdef n="fti"    c=""/>
     <sdef n="inf"    c=""/>
     <sdef n="imp"    c="rozkazovací způsob"/>
     
@@ -15599,6 +15600,31 @@
 
     <!-- Verbs -->
 
+    <pardef n="/být__vbser">
+      <e><p>          <l>být</l><r>být<s n="vbser"/><s n="inf"/></r></p></e>
+
+      <e><p>          <l>jsem</l><r>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jseš</l><r>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>je</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jsme</l><r>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jste</l><r>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jsou</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+
+      <e><p>          <l>budu</l><r>být<s n="vbser"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>budeš</l><r>být<s n="vbser"/><s n="fti"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>bude</l><r>být<s n="vbser"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>budeme</l><r>být<s n="vbser"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>budete</l><r>být<s n="vbser"/><s n="fti"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>budou</l><r>být<s n="vbser"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
+
+      <e><p>          <l>byl</l><r>být<s n="vbser"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>byla</l><r>být<s n="vbser"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>bylo</l><r>být<s n="vbser"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>byli</l><r>být<s n="vbser"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>byly</l><r>být<s n="vbser"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>byla</l><r>být<s n="vbser"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="č/íst__vblex">
       <e><p>          <l>íst</l><r>íst<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
 
@@ -15615,6 +15641,24 @@
       <e><p>          <l>etli</l><r>íst<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p>          <l>etly</l><r>íst<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>etla</l><r>íst<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="v/ědět__vblex">
+      <e><p>          <l>ědět</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+
+      <e><p>          <l>ím</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íš</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>í</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íme</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íte</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ědí</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+
+      <e><p>          <l>ěděl</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ěděla</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ědělo</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ěděli</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ěděly</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ěděla</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
 
     <!-- Prepositions -->
@@ -19978,7 +20022,9 @@
 
     <!-- Verbs -->
 
+    <e lm="být"><i></i><par n="/být__vbser"/></e>
     <e lm="číst"><i>č</i><par n="č/íst__vblex"/></e>
+    <e lm="vědět"><i>v</i><par n="v/ědět__vblex"/></e>
 
     <!-- Proper nouns -->
   
