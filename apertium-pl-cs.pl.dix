@@ -11247,12 +11247,19 @@
     <e lm="z" r="LR"><p><l>z</l><r>z<s n="pr"/><s n="ins"/></r></p></e>
     <e lm="ze" r="LR"><p><l>ze</l><r>z<s n="pr"/><s n="ins"/></r></p></e>
     <e lm="z" r="RL"><p><l><a/>z</l><r>z<s n="pr"/><s n="ins"/></r></p></e>
+    <e lm="bez" r="LR"><p><l>bez</l><r>bez<s n="pr"/></r></p></e>
+    <e lm="beze" r="LR"><p><l>beze</l><r>bez<s n="pr"/></r></p></e>
+    <e lm="bez" r="RL"><p><l><a/>bez</l><r>bez<s n="pr"/></r></p></e>
     <e lm="nad" r="LR"><p><l>nad</l><r>nad<s n="pr"/></r></p></e>
     <e lm="nade" r="LR"><p><l>nade</l><r>nad<s n="pr"/></r></p></e>
     <e lm="nad" r="RL"><p><l><a/>nad</l><r>nad<s n="pr"/></r></p></e>
+    <e lm="znad" r="LR"><p><l>znad</l><r>znad<s n="pr"/></r></p></e>
+    <e lm="znade" r="LR"><p><l>znade</l><r>znad<s n="pr"/></r></p></e>
+    <e lm="znad" r="RL"><p><l><a/>znad</l><r>znad<s n="pr"/></r></p></e>
     <e lm="o"><p><l>o</l><r>o<s n="pr"/></r></p></e>
     <e lm="po"><p><l>po</l><r>po<s n="pr"/></r></p></e>
     <e lm="za"><p><l>za</l><r>za<s n="pr"/></r></p></e>
+    <e lm="dla"><p><l>dla</l><r>dla<s n="pr"/></r></p></e>
     <e lm="aż do"><p><l>aż<b/>do</l><r>aż<b/>do<s n="pr"/></r></p></e>
     <e lm="podczas"><p><l>podczas</l><r>podczas<s n="pr"/></r></p></e>
     <e lm="u"><p><l>u</l><r>u<s n="pr"/></r></p></e>
@@ -11267,8 +11274,18 @@
     <e lm="poza"><p><l>poza</l><r>poza<s n="pr"/></r></p></e>
     <e lm="spoza"><p><l>spoza</l><r>spoza<s n="pr"/></r></p></e>
     <e lm="mimo"><p><l>mimo</l><r>mimo<s n="pr"/></r></p></e>
+    <e lm="między"><p><l>między</l><r>między<s n="pr"/></r></p></e>
+    <e lm="blisko"><p><l>blisko</l><r>blisko<s n="pr"/></r></p></e>
+    <e lm="przeciw"><p><l>przeciw</l><r>przeciw<s n="pr"/></r></p></e>
     <e lm="jako"><p><l>jako</l><r>jako<s n="pr"/></r></p></e>
+    <e lm="przy"><p><l>przy</l><r>przy<s n="pr"/></r></p></e>
+    <e lm="niedaleko"><p><l>niedaleko</l><r>niedaleko<s n="pr"/></r></p></e>
     <e lm="zamiast"><p><l>zamiast</l><r>zamiast<s n="pr"/></r></p></e>
+    <e lm="według"><p><l>według</l><r>według<s n="pr"/></r></p></e>
+    <e lm="z wyjątkiem"><p><l>z<b/>wyjątkiem</l><r>z<b/>wyjątkiem<s n="pr"/></r></p></e>
+    <e lm="bez względu na"><p><l>bez<b/>względu<b/>na</l><r>bez<b/>względu<b/>na<s n="pr"/></r></p></e>
+    <e lm="wzdłuż"><p><l>wzdłuż</l><r>wzdłuż<s n="pr"/></r></p></e>
+    <e lm="obok"><p><l>obok</l><r>obok<s n="pr"/></r></p></e>
     <e lm="dlań"><p><l>dlań</l><r>dla<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
     <e lm="doń"><p><l>doń</l><r>do<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
     <e lm="weń"><p><l>weń</l><r>w<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -11277,6 +11294,8 @@
     <e lm="doń"><p><l>doń</l><r>do<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/><s n="gen"/></r></p></e>
     <e lm="weń"><p><l>weń</l><r>w<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/><s n="acc"/></r></p></e>
     <e lm="nań"><p><l>nań</l><r>na<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="bezeń"><p><l>bezeń</l><r>bez<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e lm="bezeń"><p><l>bezeń</l><r>bez<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/><s n="gen"/></r></p></e>
 
     <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
     <e lm="aż"><i>aż</i><par n="że__cnjsub"/></e>
@@ -11407,6 +11426,12 @@
     <e lm="jak"><i>jak</i><par n="gdzie__adv"/></e>
     <e lm="kiedy"><i>kiedy</i><par n="gdzie__adv"/></e>
     <e lm="czy"><i>czy</i><par n="gdzie__adv"/></e>
+
+    <e lm="niedaleko"><i>niedaleko</i><par n="tu__adv"/></e>
+    <e lm="blisko"><i>blisko</i><par n="tu__adv"/></e>
+    <e lm="tu"><i>tu</i><par n="tu__adv"/></e>
+    <e lm="tutaj"><i>tutaj</i><par n="tu__adv"/></e>
+    <e lm="tam"><i>tam</i><par n="tu__adv"/></e>
 
     <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
