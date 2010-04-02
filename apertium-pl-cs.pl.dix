@@ -2599,6 +2599,62 @@
       </e>
     </pardef>
 
+    <pardef n="/być__vbser">
+      <e>
+        <p>
+          <l>być</l>
+          <r>być<s n="vbser"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>jestem</l>
+          <r>być<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jesteś</l>
+          <r>być<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jest</l>
+          <r>być<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jesteśmy</l>
+          <r>być<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jesteście</l>
+          <r>być<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>są</l>
+          <r>być<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>by</l>
+          <r>być<s n="vbser"/></r>
+        </p>
+        <par n="BASE__czytać-past"/>
+      </e>
+
+    </pardef>
+
 
     <pardef n="czyt/ać__vblex">
       <e>
@@ -2656,6 +2712,66 @@
         <p>
           <l>a</l>
           <r>ać<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytać-past"/>
+      </e>
+    </pardef>
+    <pardef n="przeczyt/ać__vblex">
+      <e>
+         <p>
+          <l>ać</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>am</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>asz</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>amy</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>acie</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ają</l>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>aj</l>
+          <r>ać<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__imperative"/>
+      </e>
+
+      <e>
+        <p>
+          <l>a</l>
+          <r>ać<s n="vblex"/><s n="perf"/></r>
         </p>
         <par n="BASE__czytać-past"/>
       </e>
@@ -10554,7 +10670,9 @@
     <e lm="kiedy"><i>kiedy</i><par n="gdzie__adv"/></e>
     <e lm="czy"><i>czy</i><par n="gdzie__adv"/></e>
 
+    <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
+    <e lm="przeczytać"><i>przeczyt</i><par n="przeczyt/ać__vblex"/></e>
 
     <e lm="ojciec"><i>ojc</i><par n="ojc/iec__n"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
