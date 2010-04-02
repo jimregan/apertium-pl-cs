@@ -18760,10 +18760,10 @@
     <e lm="skrz"><i>skrz</i><par n="za__pr"/></e>
     <e lm="stran"><i>stran</i><par n="za__pr"/></e>
     <e lm="u"><i>u</i><par n="za__pr"/></e>
-    <e lm="v"><i>v</i><par n="/v__pr"/></e>
+    <e lm="v"><i></i><par n="/v__pr"/></e>
     <e lm="vedle"><i>vedle</i><par n="za__pr"/></e>
     <e lm="vyjma"><i>vyjma</i><par n="za__pr"/></e>
-    <e lm="z"><i>z</i><par n="/z__pr"/></e>
+    <e lm="z"><i></i><par n="/z__pr"/></e>
     <e lm="za"><i>za</i><par n="za__pr"/></e>
 
     <!-- Numbers -->
