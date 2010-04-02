@@ -2972,6 +2972,236 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__ciąć-past">
+      <e>
+        <p>
+          <l>ąłem</l>
+          <r><s n="past"/><s n="p1"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłam</l>
+          <r><s n="past"/><s n="p1"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłeś</l>
+          <r><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłaś</l>
+          <r><s n="past"/><s n="p2"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ął</l>
+          <r><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąła</l>
+          <r><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąło</l>
+          <r><s n="past"/><s n="p3"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>ąłom</l>
+          <r><s n="past"/><s n="p1"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>ąłoś</l>
+          <r><s n="past"/><s n="p2"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ęliśmy</l>
+          <r><s n="past"/><s n="p1"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>ęlimy</l>
+          <r><s n="past"/><s n="p1"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ęliście</l>
+          <r><s n="past"/><s n="p2"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>ęlicie</l>
+          <r><s n="past"/><s n="p2"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ęli</l>
+          <r><s n="past"/><s n="p3"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłyśmy</l>
+          <r><s n="past"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>ąłymy</l>
+          <r><s n="past"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłyście</l>
+          <r><s n="past"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>ąłycie</l>
+          <r><s n="past"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąły</l>
+          <r><s n="past"/><s n="p3"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłbym</l>
+          <r><s n="cni"/><s n="p1"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłabym</l>
+          <r><s n="cni"/><s n="p1"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłbyś</l>
+          <r><s n="cni"/><s n="p2"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłabyś</l>
+          <r><s n="cni"/><s n="p2"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłby</l>
+          <r><s n="cni"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłaby</l>
+          <r><s n="cni"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłoby</l>
+          <r><s n="cni"/><s n="p3"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>ąłobym</l>
+          <r><s n="cni"/><s n="p1"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>ąłobyś</l>
+          <r><s n="cni"/><s n="p2"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ęlibyśmy</l>
+          <r><s n="cni"/><s n="p1"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>ęlibymy</l>
+          <r><s n="cni"/><s n="p1"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ęlibyście</l>
+          <r><s n="cni"/><s n="p2"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>ęlibycie</l>
+          <r><s n="cni"/><s n="p2"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ęliby</l>
+          <r><s n="cni"/><s n="p3"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłybyśmy</l>
+          <r><s n="cni"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>ąłybymy</l>
+          <r><s n="cni"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłybyście</l>
+          <r><s n="cni"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>ąłybycie</l>
+          <r><s n="cni"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąłyby</l>
+          <r><s n="cni"/><s n="p3"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="/być__vbser">
       <e>
@@ -11181,6 +11411,7 @@
     <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
     <e lm="przeczytać"><i>przeczyt</i><par n="przeczyt/ać__vblex"/></e>
+    <e lm="wiedzieć"><i>wie</i><par n="wie/dzieć__vblex"/></e>
 
     <e lm="ojciec"><i>ojc</i><par n="ojc/iec__n"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
