@@ -15,6 +15,7 @@
     <sdef n="det"/>
     <sdef n="adv"/>
     <sdef n="pr"/>
+    <sdef n="ij"/>
   </sdefs>
 
   <section id="main" type="standard">
