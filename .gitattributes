@@ -21,6 +21,7 @@
 /autogen.sh -text
 /configure.ac -text
 /cs-pl.prob -text
+dev/inconsistency.sh -text
 misc/bort.xsl -text
 /modes.xml -text
 /pending-tests.sh -text
