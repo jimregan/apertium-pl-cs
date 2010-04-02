@@ -2653,6 +2653,80 @@
         <par n="BASE__czytać-past"/>
       </e>
 
+      <e>
+        <p>
+    	  <l>będę</l>
+          <r>być<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>będziesz</l>
+          <r>być<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+    	  <l>będzie</l>
+	  <r>być<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+      	  <l>będziemy</l>
+  	  <r>być<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+      	  <l>będziecie</l>
+  	  <r>być<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+      	  <l>będą</l>
+      	  <r>być<s n="vbser"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>bądź</l>
+          <r>być<s n="vbser"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>bądźmy</l>
+          <r>być<s n="vbser"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>bądźcie</l>
+          <r>być<s n="vbser"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>bądźże</l>
+          <r>być<s n="vbser"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>bądźmyż</l>
+          <r>być<s n="vbser"/><s n="imp"/><s n="emph"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>bądźcież</l>
+          <r>być<s n="vbser"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+
     </pardef>
 
 
