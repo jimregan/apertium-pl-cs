@@ -15360,6 +15360,18 @@
         </p>
       </e>
     </pardef>
+
+    <!-- Adverbs -->
+    <pardef n="jak__adv">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adv"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+
     <!-- Determiners -->
     <pardef n="co__det">
       <e>
@@ -18604,6 +18616,10 @@
     <e lm="evropský"><par n="nej__adv"/><i>evrop</i><par n="evrop/ský__adj"/></e>
     <e lm="exotermický"><par n="nej__adv"/><i>exotermi</i><par n="exotermi/cký__adj"/></e>
     <e lm="celý"><i>cel</i><par n="cel/ý__adj"/></e>
+
+    <!-- Adverbs -->
+    <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
+    <e lm="kde"><i>kde</i><par n="jak__adv"/></e>
 
     <!-- Nouns -->
     <e lm="kuňka"><i>ku</i><par n="bu/ňka__n"/></e>
