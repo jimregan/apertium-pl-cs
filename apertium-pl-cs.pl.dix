@@ -11432,6 +11432,12 @@
     <e lm="tu"><i>tu</i><par n="tu__adv"/></e>
     <e lm="tutaj"><i>tutaj</i><par n="tu__adv"/></e>
     <e lm="tam"><i>tam</i><par n="tu__adv"/></e>
+    <e lm="dzisiaj"><i>dzisiaj</i><par n="tu__adv"/></e>
+    <e lm="dziś"><i>dziś</i><par n="tu__adv"/></e>
+    <e lm="jutro"><i>jutro</i><par n="tu__adv"/></e>
+    <e lm="pojutrze"><i>pojutrze</i><par n="tu__adv"/></e>
+    <e lm="wczoraj"><i>wczoraj</i><par n="tu__adv"/></e>
+    <e lm="kiedyś"><i>kiedyś</i><par n="tu__adv"/></e>
 
     <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
