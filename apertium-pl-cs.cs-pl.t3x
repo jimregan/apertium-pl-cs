@@ -2,6 +2,9 @@
 <!-- -*- nxml -*- -->
 <postchunk>
   <section-def-cats>
+    <def-cat n="verb">
+      <cat-item name="verb"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item name="nom"/>
     </def-cat>
@@ -22,6 +25,12 @@
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
       <attr-item tags="ND"/>
+    </def-attr>
+    <def-attr n="pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+      <attr-item tags="PD"/>
     </def-attr>
     <def-attr n="defnes">
       <attr-item tags="ind"/>
@@ -46,6 +55,34 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="CHUNK: verb">
+      <pattern>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" part="pers"/>
+                <lit-tag v="PD"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" part="pers"/>
+              <lit-tag v="p3"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <lu>
+            <clip pos="1" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
 
   </section-rules>
 </postchunk>
