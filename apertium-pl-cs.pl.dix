@@ -2474,6 +2474,131 @@
       </e>
     </pardef>
 
+    <pardef n="BASE__imperative">
+       <e>
+         <p>
+           <l></l>
+           <r><s n="imp"/><s n="p2"/><s n="sg"/></r>
+         </p>
+       </e>
+       <e>
+         <p>
+           <l>my</l>
+           <r><s n="imp"/><s n="p1"/><s n="pl"/></r>
+         </p>
+       </e>
+       <e>
+         <p>
+           <l>cie</l>
+           <r><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+       </e>
+      <e>
+         <p>
+           <l>że</l>
+           <r><s n="imp"/><s n="emph"/><s n="p2"/><s n="sg"/></r>
+         </p>
+       </e>
+      <e>
+         <p>
+           <l>myż</l>
+           <r><s n="imp"/><s n="emph"/><s n="p1"/><s n="pl"/></r>
+         </p>
+       </e>
+      <e>
+         <p>
+           <l>cież</l>
+           <r><s n="imp"/><s n="emph"/><s n="p2"/><s n="pl"/></r>
+        </p>
+       </e>
+    </pardef>
+    <pardef n="BASE__czytać-past">
+      <e>
+        <p>
+          <l>łem</l>
+          <r><s n="past"/><s n="p1"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łam</l>
+          <r><s n="past"/><s n="p1"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łeś</l>
+          <r><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łaś</l>
+          <r><s n="past"/><s n="p2"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ł</l>
+          <r><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ło</l>
+          <r><s n="past"/><s n="p3"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>łom</l>
+          <r><s n="past"/><s n="p1"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>łoś</l>
+          <r><s n="past"/><s n="p2"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>liśmy</l>
+          <r><s n="past"/><s n="p1"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>limy</l>
+          <r><s n="past"/><s n="p1"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>liście</l>
+          <r><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>licie</l>
+          <r><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>li</l>
+          <r><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+
 
     <pardef n="czyt/ać__vblex">
       <e>
@@ -2517,6 +2642,22 @@
           <l>ają</l>
           <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
+      </e>
+
+      <e>
+        <p>
+          <l>aj</l>
+          <r>ać<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__imperative"/>
+      </e>
+
+      <e>
+        <p>
+          <l>a</l>
+          <r>ać<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytać-past"/>
       </e>
     </pardef>
 
@@ -10412,6 +10553,8 @@
     <e lm="jak"><i>jak</i><par n="gdzie__adv"/></e>
     <e lm="kiedy"><i>kiedy</i><par n="gdzie__adv"/></e>
     <e lm="czy"><i>czy</i><par n="gdzie__adv"/></e>
+
+    <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
 
     <e lm="ojciec"><i>ojc</i><par n="ojc/iec__n"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
