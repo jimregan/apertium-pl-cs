@@ -3,6 +3,7 @@
   <alphabet>AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž</alphabet>
   <sdefs>
     <sdef n="n"/>
+    <sdef n="np"/>
     <sdef n="num"/>
     <sdef n="prn"/>
     <sdef n="det"/>
@@ -38,6 +39,8 @@
     <sdef n="itg"/>
     <sdef n="ind"/>
     <sdef n="ref"/>
+
+    <sdef n="ant"/>
 
     <sdef n="vblex"  c="časování"/>
     <sdef n="imperf" c="nedokonavé"/>
@@ -15571,6 +15574,29 @@
       </e>
     </pardef>
 
+    <!-- Proper nouns -->
+
+    <pardef n="Pet/r__np">
+      <e><p>          <l>r</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p>          <l>ra</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p>          <l>ra</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p>          <l>rovi</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p>          <l>ru</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p>          <l>rovi</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p>          <l>ru</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p>          <l>rem</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p>          <l>ře</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p>          <l>ři</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p>          <l>ry</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p>          <l>rů</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p>          <l>rum</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p>          <l>rům</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p>          <l>rech</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p>          <l>rama</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p>          <l>ry</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p>          <l>ři</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
 
 
     <!-- Prepositions -->
@@ -19929,6 +19955,10 @@
     <e lm="lůžko"><i>lůž</i><par n="lůž/ko__n"/></e>
     <e lm="epigrafika"><i>epigrafi</i><par n="dý/ka__n"/></e>
     <e lm="stůl"><i>st</i><par n="st/ůl__n"/></e>
+
+    <!-- Proper nouns -->
+  
+    <e lm="Petr"><i>Pet</i><par n="Pet/r__np"/></e>
   </section>
 
   <section id="final" type="inconditional">
