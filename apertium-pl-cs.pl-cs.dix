@@ -11,6 +11,9 @@
     <sdef n="mp"/>
     <sdef n="nt"/>
     <sdef n="vbser"/>
+    <sdef n="vblex"/>
+    <sdef n="perf"/>
+    <sdef n="imperf"/>
     <sdef n="adj"/>
     <sdef n="det"/>
     <sdef n="adv"/>
@@ -86,6 +89,8 @@
      <e><p><l>swój<s n="det"/></l><r>svůj<s n="det"/></r></p></e>
      <e><p><l>czy<s n="cnjcoo"/></l><r>či<s n="cnjcoo"/></r></p></e>
      <e><p><l>być<s n="vbser"/></l><r>být<s n="vbser"/></r></p></e>
+
+     <e><p><l>czytać<s n="vblex"/><s n="imperf"/></l><r>císt<s n="vblex"/><s n="imperf"/></r></p></e>
 
      <e><p><l>zło<s n="n"/><s n="nt"/></l><r>zlo<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>mleko<s n="n"/><s n="nt"/></l><r>mléko<s n="n"/><s n="nt"/></r></p></e>
