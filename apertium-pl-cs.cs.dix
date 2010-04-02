@@ -15606,16 +15606,16 @@
       <e><p>          <l>jsem</l><r>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p>          <l>jseš</l><r>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p>          <l>je</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p>          <l>jsme</l><r>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p>          <l>jste</l><r>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p>          <l>jsou</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jsme</l><r>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>jste</l><r>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>jsou</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
       <e><p>          <l>budu</l><r>být<s n="vbser"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p>          <l>budeš</l><r>být<s n="vbser"/><s n="fti"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p>          <l>bude</l><r>být<s n="vbser"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p>          <l>budeme</l><r>být<s n="vbser"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p>          <l>budete</l><r>být<s n="vbser"/><s n="fti"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p>          <l>budou</l><r>být<s n="vbser"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>budeme</l><r>být<s n="vbser"/><s n="fti"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>budete</l><r>být<s n="vbser"/><s n="fti"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>budou</l><r>být<s n="vbser"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
 
       <e><p>          <l>byl</l><r>být<s n="vbser"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>byla</l><r>být<s n="vbser"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
