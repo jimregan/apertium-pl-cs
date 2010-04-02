@@ -62,7 +62,7 @@
     <sdef n="past"    c="czas przeszły"/>
     <sdef n="pres"    c="czas teraźniejszy"/>
     <sdef n="pri"     c="czas teraźniejszy - nieużywany"/>
-    <sdef n="fut"     c="czas przyszły"/>
+    <sdef n="fti"     c="czas przyszły"/>
 
     <!-- tryby -->
     <sdef n="imp"     c="tryb rozkazujący"/>
@@ -2656,37 +2656,37 @@
       <e>
         <p>
     	  <l>będę</l>
-          <r>być<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+          <r>być<s n="vbser"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>będziesz</l>
-          <r>być<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+          <r>być<s n="vbser"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
     	  <l>będzie</l>
-	  <r>być<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+	  <r>być<s n="vbser"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
       	  <l>będziemy</l>
-  	  <r>być<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+  	  <r>być<s n="vbser"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
       	  <l>będziecie</l>
-  	  <r>być<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+  	  <r>być<s n="vbser"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
       	  <l>będą</l>
-      	  <r>być<s n="vbser"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+      	  <r>być<s n="vbser"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
@@ -2794,43 +2794,43 @@
       <e>
          <p>
           <l>ać</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/></r>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>am</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>asz</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>amy</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>acie</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ają</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
