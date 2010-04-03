@@ -4436,6 +4436,76 @@
         <par n="BASE__piwo"/>
       </e>
     </pardef>
+    <pardef n="jut/ro__n">
+      <e>
+        <p>
+          <l>rze</l>
+          <r>ro<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <!-- http://slowniki.pwn.pl/poradnia/lista.php?szukaj=juter&kat=18 -->
+      <e r="LR">
+        <p>
+          <l>r</l>
+          <r>ro<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>er</l>
+          <r>ro<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>r</l>
+          <r>ro<s n="n"/></r>
+        </p>
+        <par n="BASE__piwo"/>
+      </e>
+    </pardef>
+    <pardef n="sł/owo__n">
+      <e>
+        <p>
+          <l>owie</l>
+          <r>owo<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>owo<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ow</l>
+          <r>owo<s n="n"/></r>
+        </p>
+        <par n="BASE__piwo"/>
+      </e>
+    </pardef>
+    <pardef n="au/to__n">
+      <e>
+        <p>
+          <l>cie</l>
+          <r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>t</l>
+          <r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>t</l>
+          <r>to<s n="n"/></r>
+        </p>
+        <par n="BASE__piwo"/>
+      </e>
+    </pardef>
 
     <pardef n="ojc/iec__n">
       <e>
@@ -12484,6 +12554,9 @@
     <e lm="ojciec"><i>ojc</i><par n="ojc/iec__n"/></e>
     <e lm="wojsko"><i>wojsk</i><par n="wojsk/o__n"/></e>
     <e lm="mleko"><i>mlek</i><par n="wojsk/o__n"/></e>
+    <e lm="auto"><i>au</i><par n="au/to__n"/></e>
+    <e lm="piwo"><i>piw</i><par n="piw/o__n"/></e>
+    <e lm="słowo"><i>sł</i><par n="sł/owo__n"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
     <e lm="książka"><i>książ</i><par n="mat/ka__n"/></e>
     <e lm="woda"><i>w</i><par n="w/oda__n"/></e>
