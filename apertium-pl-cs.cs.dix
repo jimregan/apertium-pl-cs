@@ -737,12 +737,12 @@
     </pardef>
 
     <pardef n="k/do__prn">
-      <e><p>          <l>do</l><r>do<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/><s n="nom"/></r></p></e>
-      <e><p>          <l>oho</l><r>do<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/><s n="acc"/></r></p></e>
-      <e><p>          <l>oho</l><r>do<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/><s n="gen"/></r></p></e>
-      <e><p>          <l>omu</l><r>do<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/><s n="dat"/></r></p></e>
-      <e><p>          <l>om</l><r>do<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/><s n="loc"/></r></p></e>
-      <e><p>          <l>ým</l><r>do<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/><s n="ins"/></r></p></e>
+      <e><p>          <l>do</l><r>do<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p>          <l>oho</l><r>do<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p>          <l>oho</l><r>do<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p>          <l>omu</l><r>do<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p>          <l>om</l><r>do<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p>          <l>ým</l><r>do<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="ins"/></r></p></e>
     </pardef>
 
 
