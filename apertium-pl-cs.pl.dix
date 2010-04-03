@@ -3836,7 +3836,7 @@
       <e>
         <p>
           <l>ieć</l>
-          <r>ieć<s n="vbhaver"/><s n="inf"/></r>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
         </p>
       </e>
 
@@ -3844,46 +3844,54 @@
       <e>
         <p>
           <l>am</l>
-          <r>ieć<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>asz</l>
-          <r>ieć<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>ieć<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>amy</l>
-          <r>ieć<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>acie</l>
-          <r>ieć<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ają</l>
-          <r>ieć<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>i</l>
-          <r>ieć<s n="vbhaver"/></r>
+          <r>ieć<s n="vblex"/><s n="imperf"/></r>
         </p>
         <par n="BASE__wiedzieć-past"/>
+      </e>
+
+      <e>
+        <p>
+          <l>iej</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__imperative"/>
       </e>
 
     </pardef>
