@@ -521,6 +521,7 @@
      <!-- Proper nouns -->
 
      <e><p><l>Petr<s n="np"/><s n="ant"/><s n="mp"/></l><r>Petr<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+     <e><p><l>Piotr<s n="np"/><s n="ant"/><s n="mp"/></l><r>Piotr<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
 
 
      <!-- Interjections -->
