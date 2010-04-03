@@ -16019,6 +16019,11 @@
 
     <!-- Verbs -->
 
+    <pardef n="v_neg">
+      <e><p><l/><r/></p></e>
+      <e><p><l>ne</l><r>ne<s n="adv"/><j/></r></p></e>
+    </pardef>
+
     <pardef n="/být__vbser">
       <e><p>          <l>být</l><r>být<s n="vbser"/><s n="inf"/></r></p></e>
 
@@ -16042,6 +16047,24 @@
       <e><p>          <l>byli</l><r>být<s n="vbser"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p>          <l>byly</l><r>být<s n="vbser"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>byla</l><r>být<s n="vbser"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="m/ít__vblex">
+      <e><p>          <l>ít</l><r>ít<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+
+      <e><p>          <l>ám</l><r>ít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>áš</l><r>ít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>á</l><r>ít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>áme</l><r>ít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>áte</l><r>ít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ájí</l><r>ít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ěl</l><r>ít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ěla</l><r>ít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ělo</l><r>ít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ěli</l><r>ít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ěly</l><r>ít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ěla</l><r>ít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="č/íst__vblex">
@@ -20441,9 +20464,10 @@
 
     <!-- Verbs -->
 
-    <e lm="být"><i></i><par n="/být__vbser"/></e>
-    <e lm="číst"><i>č</i><par n="č/íst__vblex"/></e>
-    <e lm="vědět"><i>v</i><par n="v/ědět__vblex"/></e>
+    <e lm="být"><par n="v_neg"/><i></i><par n="/být__vbser"/></e>
+    <e lm="mít"><par n="v_neg"/><i>m</i><par n="m/ít__vblex"/></e>
+    <e lm="číst"><par n="v_neg"/><i>č</i><par n="č/íst__vblex"/></e>
+    <e lm="vědět"><par n="v_neg"/><i>v</i><par n="v/ědět__vblex"/></e>
 
     <!-- Proper nouns -->
   
