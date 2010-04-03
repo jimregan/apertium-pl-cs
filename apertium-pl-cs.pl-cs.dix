@@ -520,7 +520,7 @@
 
      <!-- Proper nouns -->
 
-     <e><p><l>Petr<s n="np"/><s n="ant"/><s n="m"/></l><r>Petr<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Petr<s n="np"/><s n="ant"/><s n="mp"/></l><r>Petr<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
 
 
      <!-- Interjections -->
