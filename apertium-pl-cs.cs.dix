@@ -47,6 +47,7 @@
     <sdef n="ant"/>
 
     <sdef n="vblex"  c="časování"/>
+    <sdef n="vaux"/>
     <sdef n="imperf" c="nedokonavé"/>
     <sdef n="perf"   c="dokonavé"/>
     <sdef n="p1"     c="první osoba"/>
@@ -16119,6 +16120,25 @@
       <e><p>          <l>ěly</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>ěla</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="m/oci__vaux">
+      <e><p>          <l>oci</l><r>oci<s n="vaux"/><s n="imperf"/><s n="inf"/></r></p></e>
+
+      <e><p>          <l>ůžu</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e r="LR"><p>          <l>ohu</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ůžeš</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ůže</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ůžeme</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ůžete</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ůžou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e r="LR"><p>          <l>ohou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+
+      <e><p>          <l>ohl</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ohla</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ohlo</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ohli</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ohly</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ohla</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+    </pardef>
 
     <pardef n="č/íst__vblex">
       <e><p>          <l>íst</l><r>íst<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
@@ -20554,6 +20574,7 @@
 
     <e lm="být"><par n="v_neg"/><i></i><par n="/být__vbser"/></e>
     <e lm="mít"><par n="v_neg"/><i>m</i><par n="m/ít__vbhaver"/></e>
+    <e lm="moci"><par n="v_neg"/><i>m</i><par n="m/oci__vaux"/></e>
 
     <e lm="číst"><par n="v_neg"/><i>č</i><par n="č/íst__vblex"/></e>
     <e lm="vědět"><par n="v_neg"/><i>v</i><par n="v/ědět__vblex"/></e>
