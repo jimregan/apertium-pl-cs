@@ -5,6 +5,7 @@
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
     <sdef n="n"/>
+    <sdef n="np"/>
     <sdef n="num"/>
     <sdef n="f"/>
     <sdef n="m"/>
@@ -43,6 +44,7 @@
     <sdef n="cm"/>
     <sdef n="lpar"/>
     <sdef n="rpar"/>
+    <sdef n="ant"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -515,6 +517,11 @@
      <e><p><l>wulgaryzacja<s n="n"/><s n="f"/></l><r>vulgarizace<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>wulkanizacja<s n="n"/><s n="f"/></l><r>vulkanizace<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>czechizacja<s n="n"/><s n="f"/></l><r>čechizace<s n="n"/><s n="f"/></r></p></e>
+
+     <!-- Proper nouns -->
+
+     <e><p><l>Petr<s n="np"/><s n="ant"/><s n="m"/></l><r>Petr<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+
 
      <!-- Interjections -->
 
