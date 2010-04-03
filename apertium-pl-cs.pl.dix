@@ -65,7 +65,7 @@
     <sdef n="pri"     c="czas teraźniejszy - nieużywany"/>
     <sdef n="fti"     c="czas przyszły"/>
     <sdef n="pp"      c=""/>
-    <sdef n="ppres"    c=""/>
+    <sdef n="pprs"    c=""/>
 
     <!-- tryby -->
     <sdef n="imp"     c="tryb rozkazujący"/>
@@ -3871,7 +3871,7 @@
       <e>
         <p>
           <l>będąc</l>
-          <r>być<s n="vbser"/><s n="ppres"/></r>
+          <r>być<s n="vbser"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -3942,7 +3942,7 @@
       <e>
         <p>
           <l>ając</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="ppres"/></r>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
@@ -4013,7 +4013,7 @@
       <e>
         <p>
           <l>ając</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="ppres"/></r>
+          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
