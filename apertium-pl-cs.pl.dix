@@ -2855,6 +2855,27 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__kochany">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="PBASE__pierwszy"/>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__pierwszy">
       <e>
         <p>
@@ -4203,6 +4224,13 @@
           <r>ać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>an</l>
+          <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__kochany"/>
       </e>
     </pardef>
     <pardef n="przeczyt/ać__vblex">
