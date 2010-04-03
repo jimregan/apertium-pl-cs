@@ -184,5 +184,6 @@
   <prefer tags="prn.emph.p3.ma.pl.acc"/>
   <prefer tags="prn.emph.p3.ma.pl.ins"/>
   <prefer tags="prn.emph.p3.ma.pl.loc"/>
+  <prefer tags="prn.emph.p3.f.sg.nom"/>
 </preferences>
 </tagger>

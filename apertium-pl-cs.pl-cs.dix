@@ -21,6 +21,21 @@
     <sdef n="pr"/>
     <sdef n="ij"/>
     <sdef n="itg"/>
+    <sdef n="prn"/>
+
+    <sdef n="nom"/>
+    <sdef n="gen"/>
+    <sdef n="dat"/>
+    <sdef n="acc"/>
+    <sdef n="ins"/>
+    <sdef n="loc"/>
+    <sdef n="voc"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+    <sdef n="mf"/>
+    <sdef n="p1"/>
+    <sdef n="p2"/>
+    <sdef n="p3"/>
     <sdef n="sent"/>
     <sdef n="cm"/>
     <sdef n="lpar"/>
@@ -74,6 +89,14 @@
  
      <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>jak<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>gdzie<s n="adv"/><s n="itg"/></l><r>kde<s n="adv"/><s n="itg"/></r></p></e>
+
+     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+     <e r="RL"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+     <e r="LR"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+     <e><p><l>kto<s n="prn"/><s n="itg"/></l><r>kdo<s n="prn"/><s n="itg"/></r></p></e>
 
      <e><p><l>kiedyś<s n="adv"/></l><r>jednou<s n="adv"/></r></p></e>
      <e><p><l>warstwica<s n="n"/><s n="f"/></l><r>vrstevnice<s n="n"/><s n="f"/></r></p></e>
