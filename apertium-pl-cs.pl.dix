@@ -4332,6 +4332,13 @@
         </p>
         <par n="BASE__wiedzieć-past"/>
       </e>
+      <e>
+        <p>
+          <l>dze</l>
+          <r>dzieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
     </pardef>
     <pardef n="chc/ieć__vblex">
       <e>
@@ -4405,6 +4412,13 @@
           <l>ąc</l>
           <r>ieć<s n="vblex"/><s n="imperf"/><s n="adv"/></r>
         </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
       </e>
     </pardef>
 
