@@ -102,6 +102,7 @@
     <sdef n="ppr"/>
     <sdef n="lquot"/>
     <sdef n="rquot"/>
+    <sdef n="dim"/>
   </sdefs>
   
   <pardefs>
@@ -4184,6 +4185,68 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__Marek">
+      <e>
+        <p>
+          <l>ek</l>
+          <r><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kowi</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ku</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiem</l>
+          <r><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ku</l>
+          <r><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>k</l>
+          <r><s n="mp"/></r>
+        </p>
+        <par n="PBASE__mp_pl"/>
+      </e>
+    </pardef>
+
+    <pardef n="Piotr/ek__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="ant"/><s n="dim"/></r>
+        </p>
+        <par n="BASE__Marek"/>
+      </e>
+    </pardef>
+
     <pardef n="ojc/iec__n">
       <e>
         <p>
@@ -11983,52 +12046,10 @@
     <pardef n="Mar/ek__np">
       <e>
         <p>
-          <l>ek</l>
-          <r>ek<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <l></l>
+          <r>ek<s n="np"/><s n="ant"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>ka</l>
-          <r>ek<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>kowi</l>
-          <r>ek<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ka</l>
-          <r>ek<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ku</l>
-          <r>ek<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>kiem</l>
-          <r>ek<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ku</l>
-          <r>ek<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>k</l>
-          <r>ek<s n="np"/><s n="ant"/><s n="mp"/></r>
-        </p>
-        <par n="PBASE__mp_pl"/>
+        <par n="BASE__Marek"/>
       </e>
       <e r="LR" c="stary">
         <p>
@@ -12553,7 +12574,9 @@
     <e lm="Keri"><i>Keri</i><par n="Britney__np"/></e>
     <e lm="Jamie"><i>Jamie</i><par n="Britney__np"/></e>
     <e lm="Piotr"><i>Piotr</i><par n="Piotr__np"/></e>
+    <e lm="Piotrek"><i>Piotr</i><par n="Piotr/ek__np"/></e>
     <e lm="Petr"><i>Petr</i><par n="Piotr__np"/></e>
+    <e lm="Marek"><i>Mar</i><par n="Mar/ek__np"/></e>
   </section>
   <section id="tokens" type="inconditional">
     <e><par n="numeros"/></e>
