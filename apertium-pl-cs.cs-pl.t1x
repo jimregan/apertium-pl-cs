@@ -135,7 +135,27 @@
 <section-def-vars>
   <def-var n="number"/>
   <def-var n="genere"/>
+  <def-var n="case_chunk"/>
 </section-def-vars>
+<section-def-lists>
+  <def-list n="dat_prep">
+    <list-item v="ku"/>
+    <list-item v="dzięki"/>
+  </def-list>
+  <def-list n="ins_prep">
+    <list-item v="między"/>
+  </def-list>
+  <def-list n="insacc_prep">
+    <list-item v="nad"/>
+    <list-item v="pod"/>
+    <list-item v="przed"/>
+  </def-list>
+  <def-list n="locacc_prep">
+    <list-item v="o"/>
+    <list-item v="w"/>
+    <list-item v="na"/>
+  </def-list>
+</section-def-lists>
 
 <section-rules>
 

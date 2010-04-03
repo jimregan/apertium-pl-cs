@@ -82,7 +82,7 @@
     <tags-item lemma="międzi" tags="pr"/>
     <tags-item lemma="nad" tags="pr"/>
     <tags-item lemma="pod" tags="pr"/>
-    <tags-item lemma="pred" tags="pr"/>
+    <tags-item lemma="przed" tags="pr"/>
     <tags-item lemma="za" tags="pr"/>
   </def-label> 
   <def-label name="P3DETPOS" closed="true">
