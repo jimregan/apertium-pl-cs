@@ -16203,6 +16203,15 @@
       </e>
     </pardef>
 
+    <pardef n="daleko__adv">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+
 
     <!-- Determiners -->
     <pardef n="co__det">
@@ -19473,6 +19482,9 @@
     <!-- Adverbs -->
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="kde"><i>kde</i><par n="jak__adv"/></e>
+
+    <e lm="daleko"><i>daleko</i><par n="daleko__adv"/></e>
+    <e lm="odtud"><i>odtud</i><par n="daleko__adv"/></e>
 
     <!-- Nouns -->
 

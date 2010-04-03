@@ -538,6 +538,8 @@
 
      <e><p><l>nie<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
      <e><p><l>kiedyś<s n="adv"/></l><r>jednou<s n="adv"/></r></p></e>
+     <e><p><l>daleko<s n="adv"/></l><r>daleko<s n="adv"/></r></p></e>
+     <e><p><l>stąd<s n="adv"/></l><r>odtud<s n="adv"/></r></p></e>
 
 
      <!-- Verbs -->
@@ -548,8 +550,6 @@
      <e><p><l>czytać<s n="vblex"/><s n="imperf"/></l><r>číst<s n="vblex"/><s n="imperf"/></r></p></e>
      <e><p><l>wiedzieć<s n="vblex"/><s n="imperf"/></l><r>vědět<s n="vblex"/><s n="imperf"/></r></p></e>
      <e><p><l>chcieć<s n="vblex"/><s n="imperf"/></l><r>chtít<s n="vblex"/><s n="imperf"/></r></p></e>
-
-
 
      <!-- Interjections -->
 
