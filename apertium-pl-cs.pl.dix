@@ -13552,6 +13552,14 @@
     <e lm="dzień"><i>d</i><par n="d/zień__n"/></e>
     <e lm="tydzień"><i>ty</i><par n="ty/dzień__n"/></e>
     <e lm="przeddzień"><i>przed</i><par n="przed/dzień__n"/></e>
+    
+    <e lm="barometr"><i>barometr</i><par n="mur__n"/></e>    
+    <e lm="żargon"><i>żargon</i><par n="sklep__n"/></e>
+    <e lm="atom"><i>atom</i><par n="sklep__n"/></e>
+    <e lm="czas"><i>czas</i><par n="sklep__n"/></e>
+    <e lm="alkohol"><i>alkohol</i><par n="hotel__n"/></e>
+    <e lm="bank"><i>bank</i><par n="brzeg__n"/></e>
+    <e lm="buk"><i>buk</i><par n="brzeg__n"/></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
