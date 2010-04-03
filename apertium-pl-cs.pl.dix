@@ -2660,6 +2660,27 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__będący">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="PBASE__pierwszy"/>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__pierwszy">
       <e>
         <p>
@@ -3845,6 +3866,15 @@
           <r>być<s n="vbser"/><s n="adv"/></r>
         </p>
       </e>
+
+      <e>
+        <p>
+          <l>będąc</l>
+          <r>być<s n="vbser"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+
     </pardef>
     <pardef n="m/ieć__vbhaver">
       <e>
@@ -3906,6 +3936,14 @@
           <r>ieć<s n="vbhaver"/><s n="imperf"/></r>
         </p>
         <par n="BASE__imperative"/>
+      </e>
+
+      <e>
+        <p>
+          <l>ając</l>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
       </e>
 
     </pardef>
@@ -3970,6 +4008,15 @@
         </p>
         <par n="BASE__czytać-past"/>
       </e>
+
+      <e>
+        <p>
+          <l>ając</l>
+          <r>ać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+
     </pardef>
     <pardef n="przeczyt/ać__vblex">
       <e>
