@@ -107,6 +107,12 @@
   <def-label name="MOCI" closed="true">
     <tags-item lemma="moci" tags="vaux.*"/>
   </def-label> 
+  <def-label name="IMPERF">
+    <tags-item tags="vblex.imperf.*"/>
+  </def-label> 
+  <def-label name="PERF">
+    <tags-item tags="vblex.perf.*"/>
+  </def-label> 
 <!--
   <def-label name="SERFUT" closed="true">
     <tags-item lemma="byť" tags="vbser.fut.*"/>
@@ -120,6 +126,18 @@
     <sequence>
       <label-item label="NE"/>
       <label-item label="MOCI"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEIMPERF" closed="true">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="IMPERF"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEPERF" closed="true">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="PERF"/>
     </sequence>
   </def-mult>
   <def-mult name="PRNEHOEMPHNT" closed="true">  
