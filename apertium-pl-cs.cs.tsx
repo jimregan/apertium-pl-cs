@@ -105,7 +105,7 @@
     <tags-item lemma="ne" tags="adv"/>
   </def-label> 
   <def-label name="MOCI" closed="true">
-    <tags-item lemma="moci" tags="vaux.*"/>
+    <tags-item lemma="moci" tags="vaux.imperf.*.*.*"/>
   </def-label> 
   <def-label name="IMPERF">
     <tags-item tags="vblex.imperf.*"/>
@@ -121,6 +121,30 @@
   <def-label name="VBLEXPERF" closed="true">
     <tags-item tags="vblex.perf.*"/>
   </def-label> 
+
+
+  <def-label name="NOMNOM">
+    <tags-item tags="n.*.*.nom"/>
+  </def-label> 
+  <def-label name="NOMGEN">
+    <tags-item tags="n.*.*.gen"/>
+  </def-label> 
+  <def-label name="NOMDAT">
+    <tags-item tags="n.*.*.dat"/>
+  </def-label> 
+  <def-label name="NOMACC">
+    <tags-item tags="n.*.*.acc"/>
+  </def-label> 
+  <def-label name="NOMINS">
+    <tags-item tags="n.*.*.ins"/>
+  </def-label> 
+  <def-label name="NOMLOC">
+    <tags-item tags="n.*.*.loc"/>
+  </def-label> 
+  <def-label name="NOMVOC">
+    <tags-item tags="n.*.*.voc"/>
+  </def-label> 
+
 
   <def-mult name="NEMOCI" closed="true">  
     <sequence>
@@ -214,4 +238,10 @@
   <prefer tags="prn.emph.p3.f.sg.nom"/>
   <prefer tags="vbhaver.imperf.pres.p3.sg"/>
 </preferences>
+
+ <discard-on-ambiguity>
+   <discard tags="n.nt.sg.voc"/>
+   <discard tags="n.nt.pl.voc"/>
+ </discard-on-ambiguity>
+
 </tagger>
