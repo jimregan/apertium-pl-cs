@@ -49,6 +49,16 @@
   </sdefs>
 
   <section id="main" type="standard">
+     <!-- Conjunctions -->
+
+     <e><p><l>by<s n="cnjsub"/></l><r>by<s n="cnjsub"/></r></p></e>
+     <e><p><l>aby<s n="cnjsub"/></l><r>aby<s n="cnjsub"/></r></p></e>
+     <e><p><l>gdyby<s n="cnjsub"/></l><r>kdyby<s n="cnjsub"/></r></p></e>
+     <e><p><l>i<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
+     <e><p><l>czy<s n="cnjcoo"/></l><r>či<s n="cnjcoo"/></r></p></e>
+
+     <!-- Prepositions -->
+
      <e><p><l>między<s n="pr"/></l><r>mezi<s n="pr"/></r></p></e>
      <e><p><l>przed<s n="pr"/></l><r>před<s n="pr"/></r></p></e>
      <e><p><l>nad<s n="pr"/></l><r>nad<s n="pr"/></r></p></e>
@@ -93,6 +103,11 @@
      <e><p><l>kto<s n="prn"/><s n="itg"/><s n="mp"/></l><r>kdo<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
      <e><p><l>który<s n="prn"/><s n="itg"/></l><r>který<s n="prn"/><s n="itg"/></r></p></e>
 
+     <!-- Determiners -->
+     <e><p><l>inny<s n="det"/></l><r>jiný<s n="det"/></r></p></e>
+     <e><p><l>mój<s n="det"/></l><r>můj<s n="det"/></r></p></e>
+     <e><p><l>twój<s n="det"/></l><r>tvůj<s n="det"/></r></p></e>
+     <e><p><l>swój<s n="det"/></l><r>svůj<s n="det"/></r></p></e>
 
 
      <!-- Numerals -->
@@ -127,25 +142,19 @@
      <e><p><l>izobara<s n="n"/><s n="f"/></l><r>izobara<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>dziewczyna<s n="n"/><s n="f"/></l><r>dívka<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>dzięgiel<s n="n"/><s n="mi"/></l><r>andělika<s n="n"/><s n="f"/></r></p></e>
-     <e><p><l>by<s n="cnjsub"/></l><r>by<s n="cnjsub"/></r></p></e>
-     <e><p><l>aby<s n="cnjsub"/></l><r>aby<s n="cnjsub"/></r></p></e>
-     <e><p><l>gdyby<s n="cnjsub"/></l><r>kdyby<s n="cnjsub"/></r></p></e>
-     <e><p><l>i<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
-     <e><p><l>inny<s n="det"/></l><r>jiný<s n="det"/></r></p></e>
-     <e><p><l>mój<s n="det"/></l><r>můj<s n="det"/></r></p></e>
-     <e><p><l>twój<s n="det"/></l><r>tvůj<s n="det"/></r></p></e>
-     <e><p><l>swój<s n="det"/></l><r>svůj<s n="det"/></r></p></e>
-     <e><p><l>czy<s n="cnjcoo"/></l><r>či<s n="cnjcoo"/></r></p></e>
+     <e><p><l>mężczyzna<s n="n"/><s n="ma"/></l><r>muž<s n="n"/><s n="ma"/></r></p></e>
 
 
      <e><p><l>zło<s n="n"/><s n="nt"/></l><r>zlo<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>mleko<s n="n"/><s n="nt"/></l><r>mléko<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>auto<s n="n"/><s n="nt"/></l><r>auto<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>wnuk<s n="n"/><s n="mp"/></l><r>vnuk<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>miasto<s n="n"/><s n="nt"/></l><r>město<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>tur<s n="n"/><s n="ma"/></l><r>tur<s n="n"/><s n="ma"/></r></p></e>
      <e><p><l>ojciec<s n="n"/><s n="mp"/></l><r>otec<s n="n"/><s n="ma"/></r></p></e>
      <e><p><l>testosteron<s n="n"/><s n="mi"/></l><r>testosteron<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>międzynarodowy<s n="adj"/></l><r>mezinárodní<s n="adj"/></r></p></e>
+     <e><p><l>nowy<s n="adj"/></l><r>nový<s n="adj"/></r></p></e>
      <e><p><l>sektor<s n="n"/><s n="mi"/></l><r>sektor<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>projekt<s n="n"/><s n="mi"/></l><r>projekt<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>program<s n="n"/><s n="mi"/></l><r>program<s n="n"/><s n="mi"/></r></p></e>
@@ -538,6 +547,7 @@
 
      <e><p><l>czytać<s n="vblex"/><s n="imperf"/></l><r>číst<s n="vblex"/><s n="imperf"/></r></p></e>
      <e><p><l>wiedzieć<s n="vblex"/><s n="imperf"/></l><r>vědět<s n="vblex"/><s n="imperf"/></r></p></e>
+     <e><p><l>chcieć<s n="vblex"/><s n="imperf"/></l><r>chtít<s n="vblex"/><s n="imperf"/></r></p></e>
 
 
 
