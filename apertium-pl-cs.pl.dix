@@ -259,14 +259,26 @@
       </e>
       <e>
         <p>
-          <l>mnie</l>
+          <l>mię</l>
           <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ciebie</l>
+          <l>mnie</l>
+          <r>prpers<s n="prn"/><s n="emph"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cię</l>
           <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciebie</l>
+          <r>prpers<s n="prn"/><s n="emph"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
@@ -505,6 +517,12 @@
       </e>
       <e>
         <p>
+          <l>nią</l>
+          <r>prpers<s n="prn"/><s n="ppr"/><s n="p3"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>go</l>
           <r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
@@ -602,7 +620,7 @@
       <e>
         <p>
           <l>nich</l>
-          <r>prpers<s n="prn"/><s n="p3"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
@@ -635,6 +653,18 @@
           <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
+      <e r="RL">
+        <p>
+          <l>nim</l>
+          <r>prpers<s n="prn"/><s n="ppr"/><s n="p3"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>nią</l>
+          <r>prpers<s n="prn"/><s n="ppr"/><s n="p3"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>nim</l>
@@ -656,13 +686,19 @@
       <e>
         <p>
           <l>nimi</l>
-          <r>prpers<s n="prn"/><s n="p3"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>nimi</l>
           <r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>nimi</l>
+          <r>prpers<s n="prn"/><s n="ppr"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
     </pardef>
