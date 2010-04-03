@@ -107,6 +107,9 @@
   <def-label name="MOCI" closed="true">
     <tags-item lemma="moci" tags="vaux.imperf.*.*.*"/>
   </def-label> 
+  <def-label name="MIT" closed="true">
+    <tags-item lemma="mít" tags="vbhaver.imperf.*.*.*"/>
+  </def-label> 
   <def-label name="IMPERF">
     <tags-item tags="vblex.imperf.*"/>
   </def-label> 
@@ -150,6 +153,12 @@
     <sequence>
       <label-item label="NE"/>
       <label-item label="MOCI"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEMIT" closed="true">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="MIT"/>
     </sequence>
   </def-mult>
   <def-mult name="NEIMPERF" closed="true">  
