@@ -41,6 +41,7 @@
     <sdef n="p1"      c="pierwsza osoba"/>
     <sdef n="p2"      c="druga osoba"/>
     <sdef n="p3"      c="trzecia osoba"/>
+    <sdef n="impers"  c=""/>
 
     <!-- przypadki -->
     <sdef n="nom"     c="mianownik"/>
@@ -63,6 +64,7 @@
     <sdef n="pres"    c="czas teraźniejszy"/>
     <sdef n="pri"     c="czas teraźniejszy - nieużywany"/>
     <sdef n="fti"     c="czas przyszły"/>
+    <sdef n="pp"      c=""/>
 
     <!-- tryby -->
     <sdef n="imp"     c="tryb rozkazujący"/>
