@@ -79,6 +79,22 @@
      <e><p><l>znad<s n="pr"/></l><r>z<b/>nad<s n="pr"/></r></p></e>
      <e><p><l>bez<b/>względu<b/>na<s n="pr"/></l><r>bez<b/>ohledu<b/>na<s n="pr"/></r></p></e>
 
+     <!-- Pronouns -->
+ 
+     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="m"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="m"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="f"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="nt"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="nt"/></r></p></e>
+     <e r="RL"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+     <e r="LR"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+     <e><p><l>kto<s n="prn"/><s n="itg"/><s n="mp"/></l><r>kdo<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
+     <e><p><l>który<s n="prn"/><s n="itg"/></l><r>který<s n="prn"/><s n="itg"/></r></p></e>
+
+
+
      <!-- Numerals -->
      <e><p><l>jeden<s n="num"/></l><r>jeden<s n="num"/></r></p></e>
      <e><p><l>dwa<s n="num"/></l><r>dva<s n="num"/></r></p></e>
@@ -100,17 +116,6 @@
      <e><p><l>październik<s n="n"/><s n="mi"/></l><r>říjen<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>listopad<s n="n"/><s n="mi"/></l><r>listopad<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>prosinec<s n="n"/><s n="mi"/></r></p></e>
- 
-     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
-     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
-     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
-     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="m"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="m"/></r></p></e>
-     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="f"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/></r></p></e>
-     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="nt"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="nt"/></r></p></e>
-     <e r="RL"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
-     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-     <e r="LR"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-     <e><p><l>kto<s n="prn"/><s n="itg"/><s n="mp"/></l><r>kdo<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
 
      <e><p><l>warstwica<s n="n"/><s n="f"/></l><r>vrstevnice<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>herbata<s n="n"/><s n="f"/></l><r>čaj<s n="n"/><s n="mi"/></r></p></e>
