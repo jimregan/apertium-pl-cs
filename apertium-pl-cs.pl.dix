@@ -3832,7 +3832,7 @@
       </e>
 
     </pardef>
-    <pardef n="m/ieć__vbhaver">
+    <pardef n="m/ieć__vblex">
       <e>
         <p>
           <l>ieć</l>
@@ -12072,6 +12072,7 @@
     <e lm="kiedy bądź"><i>kiedy<b/>bądź</i><par n="tu__adv"/></e>
 
     <e lm="być"><i></i><par n="/być__vbser"/></e>
+    <e lm="mieć"><i>m</i><par n="m/ieć__vblex"/></e>
     <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
     <e lm="przeczytać"><i>przeczyt</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="wiedzieć"><i>wie</i><par n="wie/dzieć__vblex"/></e>
