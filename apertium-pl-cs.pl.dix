@@ -4346,13 +4346,13 @@
       <e>
         <p>
           <l>ógł</l>
-          <r>óc<s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+          <r>óc<s n="vaux"/><s n="imperf"/><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ógłby</l>
-          <r>óc<s n="cni"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+          <r>óc<s n="vaux"/><s n="imperf"/><s n="cni"/><s n="p3"/><s n="m"/><s n="sg"/></r>
         </p>
       </e>
 
