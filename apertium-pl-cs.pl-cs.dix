@@ -76,7 +76,15 @@
      <e><p><l>znad<s n="pr"/></l><r>z<b/>nad<s n="pr"/></r></p></e>
      <e><p><l>bez<b/>względu<b/>na<s n="pr"/></l><r>bez<b/>ohledu<b/>na<s n="pr"/></r></p></e>
 
-     <e><p><l>dzięki<s n="ij"/></l><r>díky<s n="ij"/></r></p></e>
+     <!-- Numerals -->
+     <e><p><l>jeden<s n="num"/></l><r>jeden<s n="num"/></r></p></e>
+     <e><p><l>dwa<s n="num"/></l><r>dva<s n="num"/></r></p></e>
+     <e><p><l>trzy<s n="num"/></l><r>tři<s n="num"/></r></p></e>
+     <e><p><l>cztery<s n="num"/></l><r>čtyři<s n="num"/></r></p></e>
+     <e><p><l>pięć<s n="num"/></l><r>pět<s n="num"/></r></p></e>
+     <e><p><l>szóstka<s n="num"/></l><r>šest<s n="num"/></r></p></e>
+
+
      <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>luty<s n="n"/><s n="mi"/></l><r>únor<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>marzec<s n="n"/><s n="mi"/></l><r>březen<s n="n"/><s n="mi"/></r></p></e>
@@ -508,14 +516,18 @@
      <e><p><l>wulkanizacja<s n="n"/><s n="f"/></l><r>vulkanizace<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>czechizacja<s n="n"/><s n="f"/></l><r>čechizace<s n="n"/><s n="f"/></r></p></e>
 
+     <!-- Interjections -->
+
+     <e><p><l>dzięki<s n="ij"/></l><r>díky<s n="ij"/></r></p></e>
+
      <!-- Punctuation -->
 
-    <e><re>[.\?;:!·]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-    <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
-    <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
-    <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
-    <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-
+     <e><re>[.\?;:!·]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+     <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
+     <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
+     <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
+     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+ 
 
   </section>
 </dictionary>
