@@ -104,6 +104,9 @@
   <def-label name="NE" closed="true">
     <tags-item lemma="ne" tags="adv"/>
   </def-label> 
+  <def-label name="MOCI" closed="true">
+    <tags-item lemma="moci" tags="vaux.*"/>
+  </def-label> 
 <!--
   <def-label name="SERFUT" closed="true">
     <tags-item lemma="byť" tags="vbser.fut.*"/>
@@ -113,6 +116,12 @@
     <tags-item tags="vblex.perf.*"/>
   </def-label> 
 
+  <def-mult name="NEMOCI" closed="true">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="MOCI"/>
+    </sequence>
+  </def-mult>
   <def-mult name="PRNEHOEMPHNT" closed="true">  
     <sequence>
       <label-item label="PR"/>
