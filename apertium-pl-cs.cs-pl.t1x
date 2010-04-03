@@ -8,12 +8,18 @@
   </def-cat>
   <def-cat n="vblex">
      <cat-item tags="vblex.*"/>
+     <cat-item tags="vbhaver.*"/>
+     <cat-item tags="vaux.*"/>
   </def-cat>
   <def-cat n="verbpast">
      <cat-item tags="vblex.imperf.past"/>
      <cat-item tags="vblex.imperf.past.*"/>
      <cat-item tags="vblex.perf.past"/>
      <cat-item tags="vblex.perf.past.*"/>
+     <cat-item tags="vbhaver.imperf.past"/>
+     <cat-item tags="vbhaver.imperf.past.*"/>
+     <cat-item tags="vaux.imperf.past"/>
+     <cat-item tags="vaux.imperf.past.*"/>
   </def-cat>
   <def-cat n="bytpast">
      <cat-item lemma="být" tags="vbser.past"/>
@@ -68,6 +74,8 @@
   <def-attr n="a_vrb">
      <attr-item tags="vblex"/>
      <attr-item tags="vbser"/>
+     <attr-item tags="vbhaver"/>
+     <attr-item tags="vaux"/>
   </def-attr>
 
   <def-attr n="a_adj">
