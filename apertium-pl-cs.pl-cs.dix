@@ -7,6 +7,7 @@
     <sdef n="n"/>
     <sdef n="num"/>
     <sdef n="f"/>
+    <sdef n="m"/>
     <sdef n="mi"/>
     <sdef n="ma"/>
     <sdef n="mp"/>
@@ -93,6 +94,9 @@
      <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
      <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
      <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="m"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="m"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="f"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/></r></p></e>
+     <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="nt"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="nt"/></r></p></e>
      <e r="RL"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
      <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
      <e r="LR"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
