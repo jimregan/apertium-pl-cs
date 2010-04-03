@@ -184,5 +184,7 @@
   <prefer tags="prn.emph.p3.mp.pl.acc"/>
   <prefer tags="prn.emph.p3.mp.pl.ins"/>
   <prefer tags="prn.emph.p3.mp.pl.loc"/>
+  <prefer tags="vbhaver.imperf.pres.p3.sg"/>
+  <prefer tags="vbhaver.imperf.pres.p3.pl"/>
 </preferences>
 </tagger>

@@ -3832,11 +3832,11 @@
       </e>
 
     </pardef>
-    <pardef n="m/ieć__vblex">
+    <pardef n="m/ieć__vbhaver">
       <e>
         <p>
           <l>ieć</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="inf"/></r>
         </p>
       </e>
 
@@ -3844,44 +3844,44 @@
       <e>
         <p>
           <l>am</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>asz</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>amy</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>acie</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ają</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>i</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/></r>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/></r>
         </p>
         <par n="BASE__wiedzieć-past"/>
       </e>
@@ -3889,7 +3889,7 @@
       <e>
         <p>
           <l>iej</l>
-          <r>ieć<s n="vblex"/><s n="imperf"/></r>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/></r>
         </p>
         <par n="BASE__imperative"/>
       </e>
@@ -12072,7 +12072,7 @@
     <e lm="kiedy bądź"><i>kiedy<b/>bądź</i><par n="tu__adv"/></e>
 
     <e lm="być"><i></i><par n="/być__vbser"/></e>
-    <e lm="mieć"><i>m</i><par n="m/ieć__vblex"/></e>
+    <e lm="mieć"><i>m</i><par n="m/ieć__vbhaver"/></e>
     <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
     <e lm="przeczytać"><i>przeczyt</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="wiedzieć"><i>wie</i><par n="wie/dzieć__vblex"/></e>
