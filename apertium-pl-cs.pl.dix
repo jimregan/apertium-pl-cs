@@ -5779,6 +5779,33 @@
         <par n="PBASE__woda"/>
       </e>
     </pardef>
+    <pardef n="BASE__analiza">
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="PBASE__woda"/>
+      </e>
+    </pardef>
     <pardef n="BASE__viagra">
       <e>
         <p>
@@ -5869,6 +5896,15 @@
         <par n="BASE__oda"/>
       </e>
     </pardef>
+    <pardef n="analiz/a__n">
+      <e>
+        <p>
+	  <l></l>
+          <r>a<s n="n"/></r>
+        </p>
+        <par n="BASE__analiza"/>
+      </e>
+    </pardef>
     <pardef n="viagr/a__n">
       <e>
         <p>
@@ -5887,7 +5923,6 @@
         <par n="BASE__pasta"/>
       </e>
     </pardef>
-
     <pardef n="noc__n">
       <e>
         <p>
@@ -13565,6 +13600,9 @@
     <e lm="alkohol"><i>alkohol</i><par n="hotel__n"/></e>
     <e lm="bank"><i>bank</i><par n="brzeg__n"/></e>
     <e lm="buk"><i>buk</i><par n="brzeg__n"/></e>
+    <e lm="analiza"><i>analiz</i><par n="analiz/a__n"/></e>
+    <e lm="antena"><i>anten</i><par n="analiz/a__n"/></e>
+    <e lm="barwa"><i>barw</i><par n="analiz/a__n"/></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
