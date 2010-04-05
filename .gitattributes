@@ -25,6 +25,7 @@ dev/czech-top1000 -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/testvoc-summary.txt -text
+dev/todo -text
 misc/bort.xsl -text
 /modes.xml -text
 /pending-tests.sh -text
