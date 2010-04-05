@@ -747,7 +747,7 @@
 	</p>
       </e>
     </pardef>
-    <pardef n="preto__cnjadv">
+    <pardef n="jeśli__cnjadv">
       <e>
         <p>
 	  <l></l>
@@ -13382,6 +13382,8 @@
     <e lm="oraz"><i>oraz</i><par n="i__cnjcoo"/></e>
     <e lm="albo"><i>albo</i><par n="i__cnjcoo"/></e>
     <e lm="czy"><i>czy</i><par n="i__cnjcoo"/></e>
+    <e lm="jeśli"><i>jeśli</i><par n="jeśli__cnjadv"/></e>
+    <e lm="jeżeli"><i>jeżeli</i><par n="jeśli__cnjadv"/></e>
 
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
     <e lm="kto"><i>k</i><par n="k/to__prn"/></e>

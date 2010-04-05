@@ -4,6 +4,7 @@
   <sdefs>
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
+    <sdef n="cnjadv"/>
     <sdef n="n"/>
     <sdef n="np"/>
     <sdef n="num"/>
@@ -57,6 +58,8 @@
      <e><p><l>gdyby<s n="cnjsub"/></l><r>kdyby<s n="cnjsub"/></r></p></e>
      <e><p><l>i<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
      <e><p><l>czy<s n="cnjcoo"/></l><r>či<s n="cnjcoo"/></r></p></e>
+     <e><p><l>jeśli<s n="cnjadv"/></l><r>jestli<s n="cnjadv"/></r></p></e>
+     <e><p><l>jeżeli<s n="cnjadv"/></l><r>jestliže<s n="cnjadv"/></r></p></e>
 
      <!-- Prepositions -->
 

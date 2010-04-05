@@ -64,6 +64,7 @@
     <sdef n="vbser"  c="být"/>
     <sdef n="cnjcoo" c="spojka"/>
     <sdef n="cnjsub" c="spojka"/>
+    <sdef n="cnjadv" c="spojka"/>
   </sdefs>
   <pardefs>
 
@@ -241,6 +242,14 @@
         <p>
           <l></l>
           <r><s n="cnjcoo"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="jestli__cnjadv">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="cnjadv"/></r>
         </p>
       </e>
     </pardef>
@@ -19419,6 +19428,8 @@
     <e lm="by"><i>by</i><par n="aby__cnjsub"/></e>
     <e lm="aby"><i>aby</i><par n="aby__cnjsub"/></e>
     <e lm="kdyby"><i>kdyby</i><par n="aby__cnjsub"/></e>
+    <e lm="jestli"><i>jestli</i><par n="jestli__cnjadv"/></e>
+    <e lm="jestliže"><i>jestliže</i><par n="jestli__cnjadv"/></e>
 
     <!-- Prepositions -->
     <e lm="bez"><i>bez</i><par n="za__pr"/></e>
