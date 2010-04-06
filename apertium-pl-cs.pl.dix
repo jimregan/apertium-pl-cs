@@ -2383,6 +2383,491 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__niebieski">
+      <e>
+        <p>
+          <l>ki</l>
+          <r><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cy</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>kie</l>
+          <r><s n="nm"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiego</l>
+          <r><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiego</l>
+          <r><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiego</l>
+          <r><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiej</l>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiego</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>kich</l>
+          <r><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiemu</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiemu</l>
+          <r><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiemu</l>
+          <r><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiej</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiemu</l>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>kim</l>
+          <r><s n="nm"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiego</l>
+          <r><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiego</l>
+          <r><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ką</l>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>kie</l>
+          <r><s n="nm"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ką</l>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kimi</l>
+          <r><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kimi</l>
+          <r><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kimi</l>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kimi</l>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kimi</l>
+          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>kimi</l>
+          <r><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiej</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>kich</l>
+          <r><s n="nm"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cy</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>kie</l>
+          <r><s n="nm"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="pols/ki__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>ki<s n="adj"/></r>
+        </p>
+        <par n="BASE__drugi"/>
+      </e>
+      <e>
+        <p>
+          <l>ko</l>
+          <r>ki<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ku</l>
+          <r>ki<s n="adj"/><s n="po"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="PBASE__pierwszy">
       <e>
         <p>
@@ -3006,12 +3491,48 @@
           <l></l>
           <r>ły<s n="adj"/><s n="sint"/></r>
         </p>
-        <par n="BASE__dobry"/>
+        <par n="BASE__mały"/>
       </e>
       <e>
         <p>
           <l>ło</l>
           <r>ły<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__nowy">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="PBASE__pierwszy"/>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="now/y__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>y<s n="adj"/><s n="sint"/></r>
+        </p>
+        <par n="BASE__nowy"/>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>y<s n="adj"/><s n="sint"/><s n="cpd"/></r>
         </p>
       </e>
     </pardef>
@@ -13526,8 +14047,12 @@
     <e lm="czysty"><i>czy</i><par n="czy/sty__adj"/></e>
     <e lm="czysty"><p><l>czyst</l><r>czysty</r></p><par n="lep/szy__adj"/></e>
     <e lm="czysty"><p><l>najczyst</l><r>czysty</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="nowy"><i>now</i><par n="now/y__adj"/></e>
+    <e lm="nowy"><p><l>now</l><r>nowy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="nowy"><p><l>najnow</l><r>nowy</r></p><par n="najlep/szy__adj"/></e>
 
     <e lm="dorosły"><i>doro</i><par n="doro/sły__adj"/></e>
+    <e lm="polski"><i>pols</i><par n="pols/ki__adj"/></e>
 
     <e lm="cześć"><i>cześć</i><par n="cześć__ij"/></e>
     <e lm="ach"><i>ach</i><par n="cześć__ij"/></e>
