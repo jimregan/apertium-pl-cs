@@ -24,6 +24,7 @@
     <sdef n="det"/>
     <sdef n="adv"/>
     <sdef n="pr"/>
+    <sdef n="sint"/>
     <sdef n="ij"/>
     <sdef n="itg"/>
     <sdef n="prn"/>
