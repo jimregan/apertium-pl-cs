@@ -181,7 +181,8 @@
     <e><p><l>wegetariański<s n="adj"/></l><r>vegetariánský<s n="adj"/></r></p></e>
     <e><p><l>szatański<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
 
-     <e><p><l>nowy<s n="adj"/></l><r>nový<s n="adj"/></r></p></e>
+     <e><p><l>nowy<s n="adj"/><s n="sint"/></l><r>nový<s n="adj"/><s n="sint"/></r></p></e>
+     <e><p><l>jasny<s n="adj"/><s n="sint"/></l><r>jasný<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>sektor<s n="n"/><s n="mi"/></l><r>sektor<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>projekt<s n="n"/><s n="mi"/></l><r>projekt<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>program<s n="n"/><s n="mi"/></l><r>program<s n="n"/><s n="mi"/></r></p></e>

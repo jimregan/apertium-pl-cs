@@ -3608,6 +3608,42 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__jasny">
+      <e>
+        <p>
+          <l>sn</l>
+          <r></r>
+        </p>
+        <par n="PBASE__pierwszy"/>
+      </e>
+      <e>
+        <p>
+          <l>śni</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śni</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ja/sny__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>sny<s n="adj"/><s n="sint"/></r>
+        </p>
+        <par n="BASE__dorosły"/>
+      </e>
+      <e>
+        <p>
+          <l>sno</l>
+          <r>sny<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__czwarty">
       <e>
         <p>
@@ -14050,9 +14086,13 @@
     <e lm="nowy"><i>now</i><par n="now/y__adj"/></e>
     <e lm="nowy"><p><l>now</l><r>nowy</r></p><par n="lep/szy__adj"/></e>
     <e lm="nowy"><p><l>najnow</l><r>nowy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="jasny"><i>ja</i><par n="ja/sny__adj"/></e>
+    <e lm="jasny"><p><l>jaśniej</l><r>jasny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="jasny"><p><l>najjaśniej</l><r>jasny</r></p><par n="najlep/szy__adj"/></e>
 
     <e lm="dorosły"><i>doro</i><par n="doro/sły__adj"/></e>
     <e lm="polski"><i>pols</i><par n="pols/ki__adj"/></e>
+    <e lm="czeski"><i>czes</i><par n="pols/ki__adj"/></e>
 
     <e lm="cześć"><i>cześć</i><par n="cześć__ij"/></e>
     <e lm="ach"><i>ach</i><par n="cześć__ij"/></e>
