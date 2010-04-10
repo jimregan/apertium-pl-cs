@@ -589,6 +589,12 @@
      <e><p><l>jeść<s n="vblex"/><s n="imperf"/></l><r>jíst<s n="vblex"/><s n="imperf"/></r></p></e>
      <e><p><l>brać<s n="vblex"/><s n="imperf"/></l><r>brát<s n="vblex"/><s n="imperf"/></r></p></e>
      <e><p><l>wziąć<s n="vblex"/><s n="perf"/></l><r>vzít<s n="vblex"/><s n="perf"/></r></p></e>
+     <e><p><l>odpowiadać<s n="vblex"/><s n="imperf"/></l><r>odpovídat<s n="vblex"/><s n="imperf"/></r></p></e>
+     <e><p><l>odpowiedzieć<s n="vblex"/><s n="perf"/></l><r>odpovědět<s n="vblex"/><s n="perf"/></r></p></e>
+     <e><p><l>oddać<s n="vblex"/><s n="perf"/></l><r>oddát<s n="vblex"/><s n="perf"/></r></p></e>
+     <e><p><l>dać<s n="vblex"/><s n="perf"/></l><r>dát<s n="vblex"/><s n="perf"/></r></p></e>
+     <e><p><l>obiecywać<s n="vblex"/><s n="imperf"/></l><r>slibovat<s n="vblex"/><s n="imperf"/></r></p></e>
+     <e><p><l>obiecać<s n="vblex"/><s n="perf"/></l><r>slíbit<s n="vblex"/><s n="perf"/></r></p></e>
 
      <!-- Interjections -->
 
