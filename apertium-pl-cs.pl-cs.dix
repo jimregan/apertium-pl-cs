@@ -587,6 +587,8 @@
      <e><p><l>wiedzieć<s n="vblex"/><s n="imperf"/></l><r>vědět<s n="vblex"/><s n="imperf"/></r></p></e>
      <e><p><l>chcieć<s n="vblex"/><s n="imperf"/></l><r>chtít<s n="vblex"/><s n="imperf"/></r></p></e>
      <e><p><l>jeść<s n="vblex"/><s n="imperf"/></l><r>jíst<s n="vblex"/><s n="imperf"/></r></p></e>
+     <e><p><l>brać<s n="vblex"/><s n="imperf"/></l><r>brát<s n="vblex"/><s n="imperf"/></r></p></e>
+     <e><p><l>wziąć<s n="vblex"/><s n="perf"/></l><r>vzít<s n="vblex"/><s n="perf"/></r></p></e>
 
      <!-- Interjections -->
 
