@@ -6833,28 +6833,28 @@
       <e>
         <p>
           <l>ąc</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+          <r>yć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
       </e>
       <e>
         <p>
           <l>ąc</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="adv"/></r>
+          <r>yć<s n="vblex"/><s n="imperf"/><s n="adv"/></r>
         </p>
       </e>
 
       <e>
         <p>
           <l>e</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+          <r>yć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
       </e>
       <e>
         <p>
           <l></l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+          <r>yć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -6862,9 +6862,203 @@
       <e>
         <p>
           <l>ono</l>
-          <r>ć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>yć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
+    </pardef>
+    <pardef n="karm/ić__vblex">
+      <e>
+         <p>
+          <l>ić</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ię</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>isz</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>imy</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>icie</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ią</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l></l>
+          <r>ić<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__imperative"/>
+      </e>
+
+      <e>
+        <p>
+          <l>i</l>
+          <r>ić<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytać-past"/>
+      </e>
+
+      <e>
+        <p>
+          <l>iąc</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+      <e>
+        <p>
+          <l>iąc</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="adv"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>ie</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__czytanie"/>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+
+      <e>
+        <p>
+          <l>iono</l>
+          <r>ić<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="brzm/ieć__vblex">
+      <e>
+         <p>
+          <l>ieć</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ię</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>isz</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>imy</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>icie</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ią</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>ij</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__imperative"/>
+      </e>
+
+      <e>
+        <p>
+          <l>i</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__wiedzieć-past"/>
+      </e>
+
+      <e>
+        <p>
+          <l>iąc</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+      <e>
+        <p>
+          <l>iąc</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="adv"/></r>
+        </p>
+      </e>
+
+<!--
+      <e>
+        <p>
+          <l>ie</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__czytanie"/>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+
+      <e>
+        <p>
+          <l>iono</l>
+          <r>ieć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+-->
     </pardef>
 
     <pardef n="PBASE__mp_pl">
@@ -16051,6 +16245,7 @@
     <e lm="Piotrek"><i>Piotr</i><par n="Piotr/ek__np"/></e>
     <e lm="Petr"><i>Petr</i><par n="Piotr__np"/></e>
     <e lm="Marek"><i>Mar</i><par n="Mar/ek__np"/></e>
+
     <e lm="Bielsko-Biała"><i>Bielsk</i><par n="Bielsk/o-Biała__np"/></e>
   </section>
   <section id="tokens" type="inconditional">
