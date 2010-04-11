@@ -7036,7 +7036,6 @@
         </p>
       </e>
 
-<!--
       <e>
         <p>
           <l>ie</l>
@@ -7044,21 +7043,20 @@
         </p>
         <par n="BASE__czytanie"/>
       </e>
-      <e>
+      <e i="yes">
         <p>
-          <l>i</l>
+          <l>ia</l>
           <r>ieć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
-        <par n="BASE__jedzony"/>
+        <par n="BASE__kochany"/>
       </e>
 
       <e>
         <p>
-          <l>iono</l>
+          <l>iano</l>
           <r>ieć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
--->
     </pardef>
 
     <pardef n="PBASE__mp_pl">
