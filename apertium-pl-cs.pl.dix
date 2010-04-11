@@ -15450,6 +15450,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Bielsk/o-Biała__np">
+      <e>
+        <p>
+          <l>o-Biała</l>
+          <r>o-Biała<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a-Białej</l>
+          <r>o-Biała<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u-Białej</l>
+          <r>o-Biała<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o-Białą</l>
+          <r>o-Biała<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iem-Białą</l>
+          <r>o-Biała<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u-Białej</l>
+          <r>o-Biała<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o-Biała</l>
+          <r>o-Biała<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -16007,6 +16051,7 @@
     <e lm="Piotrek"><i>Piotr</i><par n="Piotr/ek__np"/></e>
     <e lm="Petr"><i>Petr</i><par n="Piotr__np"/></e>
     <e lm="Marek"><i>Mar</i><par n="Mar/ek__np"/></e>
+    <e lm="Bielsko-Biała"><i>Bielsk</i><par n="Bielsk/o-Biała__np"/></e>
   </section>
   <section id="tokens" type="inconditional">
     <e><par n="numeros"/></e>

@@ -16079,6 +16079,51 @@
       <e><p>          <l>ry</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
       <e><p>          <l>ři</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
+    <pardef n="Bílsk/o-Bělá__np">
+      <e>
+        <p>
+          <l>o-Bělá</l>
+          <r>o-Bělá<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a-Bělé</l>
+          <r>o-Bělá<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u-Bělé</l>
+          <r>o-Bělá<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o-Bělo</l>
+          <r>o-Bělá<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ěm-Bělou</l>
+          <r>o-Bělá<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u-Bělé</l>
+          <r>o-Bělá<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o-Bělá</l>
+          <r>o-Bělá<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
 
     <!-- Verbs -->
 
@@ -20600,6 +20645,8 @@
   
     <e lm="Petr"><i>Pet</i><par n="Pet/r__np"/></e>
     <e lm="Piotr"><i>Piot</i><par n="Pet/r__np"/></e>
+
+    <e lm="Bílsko-Bělá"><i>Bílsk</i><par n="Bílsk/o-Bělá__np"/></e>
 
   </section>
 

@@ -563,6 +563,8 @@
      <e><p><l>Petr<s n="np"/><s n="ant"/><s n="mp"/></l><r>Petr<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
      <e><p><l>Piotr<s n="np"/><s n="ant"/><s n="mp"/></l><r>Piotr<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
 
+     <e><p><l>Bielsko-Biała<s n="np"/><s n="top"/><s n="nt"/></l><r>Bílsko-Bělá<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+
      <!-- Adverbs -->
 
      <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>jak<s n="adv"/><s n="itg"/></r></p></e>
