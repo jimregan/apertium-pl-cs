@@ -251,6 +251,7 @@
  <discard-on-ambiguity>
    <discard tags="n.nt.sg.voc"/>
    <discard tags="n.nt.pl.voc"/>
+   <discard tags="np.top.nt.sg.voc"/>
  </discard-on-ambiguity>
 
 </tagger>
