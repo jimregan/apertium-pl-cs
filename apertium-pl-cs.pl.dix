@@ -4526,87 +4526,175 @@
       <e>
         <p>
           <l>e</l>
-          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+          <r>e<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ga</l>
-          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+          <r>e<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>gu</l>
-          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+          <r>e<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+          <r>e<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>giem</l>
-          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+          <r>e<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>gu</l>
-          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+          <r>e<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+          <r>e<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
-    <pardef n="czwor/o__num">
+    <pardef n="czwor/o__prn">
       <e>
         <p>
           <l>o</l>
-          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ga</l>
-          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>gu</l>
-          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>o</l>
-          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>giem</l>
-          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>gu</l>
-          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>o</l>
-          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+          <r>o<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="dwoj/e__det">
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ga</l>
+          <r>e<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gu</l>
+          <r>e<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>giem</l>
+          <r>e<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gu</l>
+          <r>e<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="czwor/o__det">
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ga</l>
+          <r>o<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gu</l>
+          <r>o<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>giem</l>
+          <r>o<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gu</l>
+          <r>o<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="det"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
