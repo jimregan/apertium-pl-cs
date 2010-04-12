@@ -9,6 +9,7 @@
     <sdef n="det"/>
     <sdef n="vbhaver"/>
     <sdef n="adv"/>
+    <sdef n="qnt"/>
 
     <sdef n="adj"/>
     <sdef n="sint"/>
@@ -235,6 +236,17 @@
       <e>       <p>          <l></l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
       <e>       <p>          <l>i</l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
+
+    <!-- copied from cs-sl, so probably wrong. It's not a number, at least -->
+    <pardef n="kolik__det">
+      <e><p>          <l></l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p>          <l></l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p>          <l>a</l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p>          <l>a</l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p>          <l>a</l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p>          <l>a</l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+    </pardef>
+
 
 
     <!-- Conjunctions -->
@@ -19076,6 +19088,7 @@
     <e lm="tvůj"><i>tv</i><par n="m/ůj__det"/></e>
     <e lm="svůj"><i>sv</i><par n="m/ůj__det"/></e>
     <e lm="jiný"><i>jin</i><par n="jin/ý__det"/></e>
+    <e lm="kolik"><i>kolik</i><par n="kolik__det"/></e>
 
     <!-- Adjectives -->
     <!-- FIXME: add 'nej' -->
