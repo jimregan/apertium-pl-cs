@@ -6050,7 +6050,7 @@
           <l></l>
           <r>ki<s n="adj"/></r>
         </p>
-        <par n="BASE__drugi"/>
+        <par n="BASE__niebieski"/>
       </e>
       <e>
         <p>
@@ -6739,6 +6739,21 @@
         </p>
       </e>
     </pardef>
+    <pardef n="ca/ły__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>ły<s n="adj"/></r>
+        </p>
+        <par n="BASE__mały"/>
+      </e>
+      <e>
+        <p>
+          <l>ło</l>
+          <r>ły<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__nowy">
       <e>
         <p>
@@ -6874,7 +6889,7 @@
           <l></l>
           <r>sny<s n="adj"/><s n="sint"/></r>
         </p>
-        <par n="BASE__dorosły"/>
+        <par n="BASE__jasny"/>
       </e>
       <e>
         <p>
@@ -6985,6 +7000,21 @@
         <p>
           <l>sto</l>
           <r>sty<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="żół/ty__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>ty<s n="adj"/></r>
+        </p>
+        <par n="BASE__czwarty"/>
+      </e>
+      <e>
+        <p>
+          <l>to</l>
+          <r>ty<s n="adj"/><s n="cpd"/></r>
         </p>
       </e>
     </pardef>
@@ -19288,7 +19318,14 @@
     <e lm="głupi"><i>głup</i><par n="głup/i__adj"/></e>
     <e lm="głupi"><p><l>głup</l><r>głupi</r></p><par n="lep/szy__adj"/></e>
     <e lm="głupi"><p><l>najgłup</l><r>głupi</r></p><par n="najlep/szy__adj"/></e>
+    <!-- non-synthetic, with obsolete comparatives -->
+    <e lm="żółty"><i>żół</i><par n="żół/ty__adj"/></e>
+    <e lm="żółtszy" r="LR"><p><l>żółt</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
+    <e lm="najżółtszy" r="LR"><p><l>najżółt</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
+    <e lm="żółciejszy" r="LR"><p><l>żółciej</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
+    <e lm="najżółciejszy" r="LR"><p><l>najżółciej</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
 
+    <e lm="cały"><i>ca</i><par n="ca/ły__adj"/></e>
     <e lm="dorosły"><i>doro</i><par n="doro/sły__adj"/></e>
     <e lm="polski"><i>pols</i><par n="pols/ki__adj"/></e>
     <e lm="czeski"><i>czes</i><par n="pols/ki__adj"/></e>
