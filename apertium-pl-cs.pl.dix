@@ -19295,6 +19295,19 @@
     <e lm="aha"><i>aha</i><par n="cześć__ij"/></e>
     <e lm="dobranoc"><i>dobranoc</i><par n="cześć__ij"/></e>
 
+    <e lm="gdzie"><i>gdzie</i><par n="gdzie__rel"/></e>
+    <e lm="co"><i>co</i><par n="co__rel"/></e>
+    <e lm="co"><i>c</i><par n="c/o__prn"/></e>
+    <e lm="coś"><i>c</i><par n="c/oś__prn"/></e>
+    <e lm="cokolwiek"><i>c</i><par n="c/okolwiek__prn"/></e>
+    <e lm="co bądź"><i>c</i><par n="c/o_bądź__prn"/></e>
+    <e lm="się"><i></i><par n="się__prn"/></e>
+    <e lm="nikt"><i>nik</i><par n="nik/t__prn"/></e>
+    <e lm="nic"><i>nic</i><par n="nic__prn"/></e>
+    <e lm="ktoś"><i>k</i><par n="k/toś__prn"/></e>
+    <e lm="ktokolwiek"><i>k</i><par n="k/tokolwiek__prn"/></e>
+    <e lm="kto bądź"><i>k</i><par n="k/to_bądź__prn"/></e>
+
     <e lm="gdzie"><i>gdzie</i><par n="gdzie__adv"/></e>
     <e lm="jak"><i>jak</i><par n="gdzie__adv"/></e>
     <e lm="kiedy"><i>kiedy</i><par n="gdzie__adv"/></e>
