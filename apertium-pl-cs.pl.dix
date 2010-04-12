@@ -4037,6 +4037,580 @@
         </p>
       </e>
     </pardef>
+    <pardef n="il/ekolwiek__prn">
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>omakolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>omakolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>omakolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>omakolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>omakolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ukolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ekolwiek</l>
+          <r>ekolwiek<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="il/e_bądź__prn">
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oma<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oma<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oma<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oma<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oma<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>bądź</l>
+          <r>e<b/>bądź<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="dwoj/e__prn">
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ga</l>
+          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gu</l>
+          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>giem</l>
+          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gu</l>
+          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="czwor/o__num">
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ga</l>
+          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gu</l>
+          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>giem</l>
+          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gu</l>
+          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="prn"/><s n="qnt"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="BASE__jeden">
       <e>
         <p>
