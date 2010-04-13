@@ -16086,7 +16086,7 @@
       <e>       <p><l></l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
       <e>       <p><l>ám</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
       <e>       <p><l>ách</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e>       <p><l>ama</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e r="LR">       <p><l>ama</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
       <e>       <p><l>ami</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
       <e>       <p><l>y</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
@@ -16156,7 +16156,177 @@
         </p>
       </e>
     </pardef>
-
+    <!-- FIXME: not sure if the 'ý' should be 'i' instead -->
+    <pardef n="Kowals/ki__np">
+      <e>
+        <p>
+          <l>ki</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kého</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kému</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kého</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cí</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kých</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kým</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kých</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kými</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kých</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cí</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ké</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ké</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kou</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kou</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ké</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ké</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kých</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kým</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ké</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kými</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kých</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ké</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <!-- Verbs -->
 
