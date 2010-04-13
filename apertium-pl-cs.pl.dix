@@ -11645,6 +11645,178 @@
         </p>
       </e>
     </pardef>
+    <pardef n="dysertac/ja__n">
+      <e>
+        <p>
+          <l>ja</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ji</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ji</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ję</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ją</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ji</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jo</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>je</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>yj</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jom</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>je</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jami</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jach</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>je</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="mężczy/zna__n">
+      <e>
+        <p>
+          <l>zna</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zny</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>źnie</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>znę</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zną</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>źnie</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zno</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>źni</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zn</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>znom</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zn</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>znami</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>znach</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>źni</l>
+          <r>zna<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="zwierz/ę__n">
       <e>
         <p>
@@ -20061,6 +20233,9 @@
     <e lm="analiza"><i>analiz</i><par n="analiz/a__n"/></e>
     <e lm="antena"><i>anten</i><par n="analiz/a__n"/></e>
     <e lm="barwa"><i>barw</i><par n="analiz/a__n"/></e>
+    <e lm="dziewczyna"><i>dziewczyn</i><par n="analiz/a__n"/></e>
+    <e lm="dysertacja"><i>dysertac</i><par n="dysertac/ja__n"/></e>
+    <e lm="mężczyzna"><i>mężczy</i><par n="mężczy/zna__n"/></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
