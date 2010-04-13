@@ -19791,6 +19791,176 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Kowals/ki__np">
+      <e>
+        <p>
+          <l>ki</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiego</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiemu</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiego</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cy</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cy</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kimi</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cy</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiej</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiej</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ką</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ką</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiej</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kim</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kimi</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kich</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kie</l>
+          <r>ki<s n="np"/><s n="cog"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
