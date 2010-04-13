@@ -12045,11 +12045,20 @@
         <par n="BASE__rzeka"/>
       </e>
     </pardef>
-    <pardef n="Beat/ka__np">
+    <pardef n="Agniesz/ka__np">
       <e>
         <p>
           <l></l>
-          <r>ka<s n="np"/><s n="ant"/><s n="dim"/></r>
+          <r>ka<s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__matka"/>
+      </e>
+    </pardef>
+    <pardef n="Bea/tka__np_dim">
+      <e>
+        <p>
+          <l></l>
+          <r>ta<s n="np"/><s n="ant"/><s n="dim"/></r>
         </p>
         <par n="BASE__matka"/>
       </e>
@@ -20146,6 +20155,115 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Kozyr/a__np">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>a<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r>a<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r>a<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>a<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r>a<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>a<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="np"/><s n="cog"/></r>
+        </p>
+        <par n="PBASE__mp_pl"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="np"/><s n="cog"/></r>
+        </p>
+        <par n="BASE__viagra"/>
+      </e>
+    </pardef>
+    <pardef n="Mikulicz__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owi</l>
+          <r><s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r><s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="cog"/></r>
+        </p>
+        <par n="PBASE__mp_pl"/>
+      </e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -21097,11 +21215,21 @@
     <e lm="Hanna"><i>Hann</i><par n="Iz/a__np"/></e>
     <e lm="Marianna"><i>Mariann</i><par n="Iz/a__np"/></e>
     <e lm="Beata"><i>Bea</i><par n="Bea/ta__np"/></e>
+    <e lm="Beata"><i>Bea</i><par n="Bea/tka__np_dim"/></e>
     <e lm="Honorata"><i>Honora</i><par n="Bea/ta__np"/></e>
+    <e lm="Honorata"><i>Honora</i><par n="Bea/tka__np_dim"/></e>
     <e lm="Małgorzata"><i>Małgorza</i><par n="Bea/ta__np"/></e>
+    <e lm="Małgorzata"><i>Małgorza</i><par n="Bea/tka__np_dim"/></e>
     <e lm="Agata"><i>Aga</i><par n="Bea/ta__np"/></e>
+    <e lm="Agata"><i>Aga</i><par n="Bea/tka__np_dim"/></e>
     <e lm="Dominika"><i>Domini</i><par n="Domini/ka__np"/></e>
     <e lm="Weronika"><i>Weroni</i><par n="Domini/ka__np"/></e>
+    <e lm="Angelika"><i>Angeli</i><par n="Domini/ka__np"/></e>
+    <e lm="Eryka"><i>Ery</i><par n="Domini/ka__np"/></e>
+    <e lm="Fryderyka"><i>Frydery</i><par n="Domini/ka__np"/></e>
+    <e lm="Monika"><i>Moni</i><par n="Domini/ka__np"/></e>
+    <e lm="Ludwika"><i>Ludwi</i><par n="Domini/ka__np"/></e>
+    <e lm="Agnieszka"><i>Agniesz</i><par n="Agniesz/ka__np"/></e>
     <e lm="Ola"><i>Ol</i><par n="Ol/a__np"/></e>
     <e lm="Tola"><i>Tol</i><par n="Ol/a__np"/></e>
     <e lm="Ala"><i>Al</i><par n="Ol/a__np"/></e>
@@ -21148,11 +21276,16 @@
     <e lm="Rysiek"><i>Rysi</i><par n="Mar/ek__np"/></e>
     <e lm="Stasiek"><i>Stasi</i><par n="Mar/ek__np"/></e>
 
+    <e lm="Mikulicz"><i>Mikulicz</i><par n="Mikulicz__np"/></e>
+    <e lm="Kozyra"><i>Kozyr</i><par n="Kozyr/a__np"/></e>
+
     <e lm="Bielsko-Biała"><i>Bielsk</i><par n="Bielsk/o-Biała__np"/></e>
     <e lm="Poznań"><i>Pozna</i><par n="Pozna/ń__np"/></e>
     <e lm="Toruń"><i>Toru</i><par n="Pozna/ń__np"/></e>
     <e lm="Budapeszt"><i>Budapesz</i><par n="Budapesz/t__np"/></e>
     <e lm="Polska"><i>Pols</i><par n="Pols/ka__np"/></e>
+    <e lm="Czechy"><i>Czech</i><par n="Czech/y__np"/></e>
+    <e lm="Niemcy"><i>Niem</i><par n="Niem/cy__np"/></e>
   </section>
   <section id="tokens" type="inconditional">
     <e><par n="numeros"/></e>
