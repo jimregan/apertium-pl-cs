@@ -10573,6 +10573,57 @@
         <par n="PBASE__mp_pl"/>
       </e>
     </pardef>
+    <pardef n="BASE__Rysiek">
+      <e>
+        <p>
+          <l>siek</l>
+          <r><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śka</l>
+          <r><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śkowi</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śka</l>
+          <r><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śku</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śkiem</l>
+          <r><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śku</l>
+          <r><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śk</l>
+          <r><s n="mp"/></r>
+        </p>
+        <par n="PBASE__mp_pl"/>
+      </e>
+    </pardef>
 
     <pardef n="Piotr/ek__np">
       <e>
@@ -10581,6 +10632,15 @@
           <r><s n="np"/><s n="ant"/><s n="dim"/></r>
         </p>
         <par n="BASE__Marek"/>
+      </e>
+    </pardef>
+    <pardef n="Ry/siek__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="ant"/><s n="dim"/></r>
+        </p>
+        <par n="BASE__Rysiek"/>
       </e>
     </pardef>
     <pardef n="BASE__Wayne">
@@ -21262,7 +21322,6 @@
     <e lm="Dobrawa"><i>Dobraw</i><par n="Iz/a__np"/></e>
     <e lm="Dobrawa"><i>Dobraw</i><par n="Iz/ka__np_dim"/></e>
     <e lm="Emma"><i>Emm</i><par n="Iz/a__np"/></e>
-    <e lm="Emma"><i>Emm</i><par n="Iz/ka__np_dim"/></e>
     <e lm="Erwina"><i>Erwin</i><par n="Iz/a__np"/></e>
     <e lm="Erwina"><i>Erwin</i><par n="Iz/ka__np_dim"/></e>
     <e lm="Ewa"><i>Ew</i><par n="Iz/a__np"/></e>
@@ -21441,8 +21500,8 @@
     <e lm="Darek"><i>Dar</i><par n="Mar/ek__np"/></e>
     <e lm="Bartek"><i>Bart</i><par n="Mar/ek__np"/></e>
     <e lm="Tadek"><i>Tad</i><par n="Mar/ek__np"/></e>
-    <e lm="Rysiek"><i>Rysi</i><par n="Mar/ek__np"/></e>
-    <e lm="Stasiek"><i>Stasi</i><par n="Mar/ek__np"/></e>
+    <e lm="Rysiek"><i>Ry</i><par n="Ry/siek__np"/></e>
+    <e lm="Stasiek"><i>Sta</i><par n="Sta/siek__np"/></e>
 
     <e lm="Mikulicz"><i>Mikulicz</i><par n="Mikulicz__np"/></e>
     <e lm="Kozyra"><i>Kozyr</i><par n="Kozyr/a__np"/></e>
