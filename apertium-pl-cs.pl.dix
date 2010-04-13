@@ -19791,6 +19791,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Pozna/ń__np">
+      <e>
+        <p>
+          <l>ń</l>
+          <r>ń<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nia</l>
+          <r>ń<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niowi</l>
+          <r>ń<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ń</l>
+          <r>ń<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niem</l>
+          <r>ń<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niu</l>
+          <r>ń<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niu</l>
+          <r>ń<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Kowals/ki__np">
       <e>
         <p>
@@ -20964,6 +21008,8 @@
     <e lm="Stasiek"><i>Stasi</i><par n="Mar/ek__np"/></e>
 
     <e lm="Bielsko-Biała"><i>Bielsk</i><par n="Bielsk/o-Biała__np"/></e>
+    <e lm="Poznań"><i>Pozna</i><par n="Pozna/ń__np"/></e>
+    <e lm="Toruń"><i>Toru</i><par n="Pozna/ń__np"/></e>
   </section>
   <section id="tokens" type="inconditional">
     <e><par n="numeros"/></e>
