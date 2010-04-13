@@ -22,6 +22,7 @@
 /configure.ac -text
 /cs-pl.prob -text
 dev/czech-top1000 -text
+dev/frek2apertium.pl -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/testvoc-summary.txt -text
