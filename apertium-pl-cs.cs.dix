@@ -16073,7 +16073,25 @@
 
     <!-- Proper nouns -->
 
-    <pardef n="Pet/r__np">
+    <pardef n="Ann/a__np"> <!-- Remove or put LR extraneous inflection -->
+      <e>       <p><l>a</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>u</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>y</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>ě</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>ě</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>ou</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>o</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>y</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>y</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l></l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>ám</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>ách</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>ama</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>ami</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>y</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="Pet/r__np"> <!-- Remove or put LR extraneous inflection -->
       <e><p>          <l>r</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p>          <l>ra</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p>          <l>ra</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -16093,6 +16111,7 @@
       <e><p>          <l>ry</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
       <e><p>          <l>ři</l><r>r<s n="np"/><s n="ant"/><s n="ma"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
+
     <pardef n="Bílsk/o-Bělá__np">
       <e>
         <p>
@@ -16192,13 +16211,13 @@
       <e><p>          <l>oci</l><r>oci<s n="vaux"/><s n="imperf"/><s n="inf"/></r></p></e>
 
       <e><p>          <l>ůžu</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>          <l>ohu</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e r="LR"><p>   <l>ohu</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p>          <l>ůžeš</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p>          <l>ůže</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
       <e><p>          <l>ůžeme</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p>          <l>ůžete</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p>          <l>ůžou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>          <l>ohou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e r="LR"><p>   <l>ohou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
 
       <e><p>          <l>ohl</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>ohla</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
@@ -16260,6 +16279,25 @@
       <e><p>          <l>těli</l><r>tít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p>          <l>těly</l><r>tít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>těla</l><r>tít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="naps/at__vblex">
+      <e><p>          <l>at</l><r>at<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
+
+      <e><p>          <l>íšu</l><r>at<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íši</l><r>at<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íšeš</l><r>at<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íšeme</l><r>at<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>íšete</l><r>at<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>íšou</l><r>at<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="LR"><p>   <l>íší</l><r>at<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>al</l><r>at<s n="vblex"/><s n="perf"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ala</l><r>at<s n="vblex"/><s n="perf"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>alo</l><r>at<s n="vblex"/><s n="perf"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ali</l><r>at<s n="vblex"/><s n="perf"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>aly</l><r>at<s n="vblex"/><s n="perf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ala</l><r>at<s n="vblex"/><s n="perf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
 
 
@@ -20183,11 +20221,13 @@
 
     <e lm="číst"><par n="v_neg"/><i>č</i><par n="č/íst__vblex"/></e>
     <e lm="vědět"><par n="v_neg"/><i>v</i><par n="v/ědět__vblex"/></e>
+    <e lm="napsat"><par n="v_neg"/><i>naps</i><par n="naps/at__vblex"/></e>
     <e lm="chtít"><par n="v_neg"/><i>ch</i><par n="ch/tít__vblex"/></e>
 
     <!-- Proper nouns -->
   
     <e lm="Petr"><i>Pet</i><par n="Pet/r__np"/></e>
+    <e lm="Anna"><i>Ann</i><par n="Ann/a__np"/></e>
     <e lm="Piotr"><i>Piot</i><par n="Pet/r__np"/></e>
 
     <e lm="Bílsko-Bělá"><i>Bílsk</i><par n="Bílsk/o-Bělá__np"/></e>
