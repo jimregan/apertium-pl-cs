@@ -1327,6 +1327,93 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Go/sia__np">
+      <e>
+        <p>
+          <l>sia</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>si</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>si</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>się</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sią</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siu</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sie</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ś</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siom</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siami</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siach</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>si</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sie</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sie</l>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="BASE__zdanie">
       <e>
         <p>
@@ -20244,6 +20331,7 @@
     <e lm="Dominika"><i>Domini</i><par n="Domini/ka__np"/></e>
     <e lm="Ola"><i>Ol</i><par n="Ol/a__np"/></e>
     <e lm="Ania"><i>A</i><par n="A/nia__np"/></e>
+    <e lm="Gosia"><i>Go</i><par n="Go/sia__np"/></e>
     <e lm="Nora"><i>Nor</i><par n="Nor/a__np"/></e>
     <e lm="Piotr"><i>Piotr</i><par n="Piotr__np"/></e>
     <e lm="Piotrek"><i>Piotr</i><par n="Piotr/ek__np"/></e>
