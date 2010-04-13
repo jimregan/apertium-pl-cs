@@ -11716,6 +11716,33 @@
         <par n="PBASE__matka"/>
       </e>
     </pardef>
+    <pardef n="BASE__Gośka">
+      <e>
+        <p>
+          <l>śce</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śce</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siek</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śk</l>
+          <r></r>
+        </p>
+        <par n="PBASE__matka"/>
+      </e>
+    </pardef>
     <pardef n="BASE__woda">
       <e>
         <p>
@@ -12016,6 +12043,15 @@
           <r>ka<s n="np"/><s n="ant"/><s n="dim"/></r>
         </p>
         <par n="BASE__matka"/>
+      </e>
+    </pardef>
+    <pardef n="Go/śka__np_dim">
+      <e>
+        <p>
+          <l></l>
+          <r>sia<s n="np"/><s n="ant"/><s n="dim"/></r>
+        </p>
+        <par n="BASE__Gośka"/>
       </e>
     </pardef>
     <pardef n="A/nia__np">
@@ -20716,6 +20752,7 @@
     <e lm="Ala"><i>Al</i><par n="Ol/a__np"/></e>
     <e lm="Ania"><i>A</i><par n="A/nia__np"/></e>
     <e lm="Gosia"><i>Go</i><par n="Go/sia__np"/></e>
+    <e lm="Gosia"><i>Go</i><par n="Go/śka__np_dim"/></e>
     <e lm="Kasia"><i>Ka</i><par n="Go/sia__np"/></e>
     <e lm="Asia"><i>A</i><par n="Go/sia__np"/></e>
     <e lm="Tosia"><i>To</i><par n="Go/sia__np"/></e>
@@ -20729,6 +20766,19 @@
     <e lm="Anusia"><i>Anu</i><par n="Go/sia__np"/></e>
     <e lm="Bogusia"><i>Bogu</i><par n="Go/sia__np"/></e>
     <e lm="Czesia"><i>Cze</i><par n="Go/sia__np"/></e>
+    <e lm="Kasia"><i>Ka</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Asia"><i>A</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Tosia"><i>To</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Zosia"><i>Zo</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Basia"><i>Ba</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Krysia"><i>Kry</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Stasia"><i>Sta</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Zdzisia"><i>Zdzi</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Marysia"><i>Mary</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Joasia"><i>Joa</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Anusia"><i>Anu</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Bogusia"><i>Bogu</i><par n="Go/śka__np_dim"/></e>
+    <e lm="Czesia"><i>Cze</i><par n="Go/śka__np_dim"/></e>
     <e lm="Nora"><i>Nor</i><par n="Nor/a__np"/></e>
     <e lm="Piotr"><i>Piotr</i><par n="Piotr__np"/></e>
     <e lm="Piotrek"><i>Piotr</i><par n="Piotr/ek__np"/></e>
