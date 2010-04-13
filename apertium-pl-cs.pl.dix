@@ -19835,6 +19835,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Budapesz/t__np">
+      <e>
+        <p>
+          <l>t</l>
+          <r>t<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tu</l>
+          <r>t<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>towi</l>
+          <r>t<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>t</l>
+          <r>t<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tem</l>
+          <r>t<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cie</l>
+          <r>t<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cie</l>
+          <r>t<s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Kowals/ki__np">
       <e>
         <p>
@@ -21010,6 +21054,7 @@
     <e lm="Bielsko-Biała"><i>Bielsk</i><par n="Bielsk/o-Biała__np"/></e>
     <e lm="Poznań"><i>Pozna</i><par n="Pozna/ń__np"/></e>
     <e lm="Toruń"><i>Toru</i><par n="Pozna/ń__np"/></e>
+    <e lm="Budapeszt"><i>Budapesz</i><par n="Budapesz/t__np"/></e>
   </section>
   <section id="tokens" type="inconditional">
     <e><par n="numeros"/></e>

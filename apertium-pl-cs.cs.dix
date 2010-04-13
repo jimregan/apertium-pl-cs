@@ -47,6 +47,7 @@
 
     <sdef n="ant"/>
     <sdef n="top"/>
+    <sdef n="cog"/>
 
     <sdef n="vblex"  c="časování"/>
     <sdef n="vaux"/>
@@ -16165,90 +16166,134 @@
       <e><p>          <l>ní</l><r>ň<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
       <e><p>          <l>ni</l><r>ň<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
     </pardef>
+    <pardef n="Budapeš/ť__np">
+      <e>
+        <p>
+          <l>ť</l>
+          <r>ť<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ti</l>
+          <r>ť<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ti</l>
+          <r>ť<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ť</l>
+          <r>ť<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tí</l>
+          <r>ť<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ti</l>
+          <r>ť<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ti</l>
+          <r>ť<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <!-- FIXME: not sure if the 'ý' should be 'i' instead -->
     <pardef n="Kowals/ki__np">
       <e>
         <p>
           <l>ki</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kého</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kému</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kého</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kim</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kim</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ki</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cí</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kých</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kým</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kých</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kými</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kých</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>cí</l>
-          <r>ki<s n="np"/><s n="cog"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+          <r>ki<s n="np"/><s n="cog"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e>
@@ -20753,6 +20798,7 @@
     <e lm="Bílsko-Bělá"><i>Bílsk</i><par n="Bílsk/o-Bělá__np"/></e>
     <e lm="Poznaň"><i>Pozna</i><par n="Pozna/ň__np"/></e>
     <e lm="Toruň"><i>Toru</i><par n="Pozna/ň__np"/></e>
+    <e lm="Budapešť"><i>Budapeš</i><par n="Budapeš/ť__np"/></e>
 
   </section>
 
