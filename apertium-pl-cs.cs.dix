@@ -5471,90 +5471,108 @@
         </p>
       </e>
     </pardef>
-    <pardef n="vozít/ko__n">
+    <pardef n="BASE__vozítko">
       <e>
         <p>
           <l>ko</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ka</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ka</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ek</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ku</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kům</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ko</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ka</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ko</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ka</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ku</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kách</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kem</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ky</l>
-          <r>ko<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="vozít/ko__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ko<s n="n"/></r>
+        </p>
+        <par n="BASE__vozítko"/>
+      </e>
+    </pardef>
+    <pardef n="Čes/ko__np">
+      <e>
+        <p>
+          <l></l>
+          <r>ko<s n="np"/><s n="top"/></r>
+        </p>
+        <par n="BASE__vozítko"/>
       </e>
     </pardef>
     <pardef n="s/íla__n">
@@ -20799,6 +20817,9 @@
     <e lm="Poznaň"><i>Pozna</i><par n="Pozna/ň__np"/></e>
     <e lm="Toruň"><i>Toru</i><par n="Pozna/ň__np"/></e>
     <e lm="Budapešť"><i>Budapeš</i><par n="Budapeš/ť__np"/></e>
+    <e lm="Česko"><i>Čes</i><par n="Čes/ko__np"/></e>
+    <e lm="Polsko"><i>Pols</i><par n="Čes/ko__np"/></e>
+    <e lm="Německo"><i>Němec</i><par n="Čes/ko__np"/></e>
 
   </section>
 

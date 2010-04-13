@@ -11896,6 +11896,15 @@
         <par n="BASE__rzeka"/>
       </e>
     </pardef>
+    <pardef n="Pols/ka__np">
+      <e>
+        <p>
+          <l></l>
+          <r>ka<s n="np"/><s n="top"/></r>
+        </p>
+        <par n="BASE__rzeka"/>
+      </e>
+    </pardef>
     <pardef n="w/oda__n">
       <e>
         <p>
@@ -19879,6 +19888,94 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Czech/y__np">
+      <e>
+        <p>
+          <l>y</l>
+          <r>y<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>y<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r>y<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>y<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r>y<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r>y<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>y<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Niem/cy__np">
+      <e>
+        <p>
+          <l>cy</l>
+          <r>cy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iec</l>
+          <r>cy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>com</l>
+          <r>cy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cy</l>
+          <r>cy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cami</l>
+          <r>cy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>czech</l>
+          <r>cy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cy</l>
+          <r>cy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Kowals/ki__np">
       <e>
         <p>
@@ -21055,6 +21152,7 @@
     <e lm="Poznań"><i>Pozna</i><par n="Pozna/ń__np"/></e>
     <e lm="Toruń"><i>Toru</i><par n="Pozna/ń__np"/></e>
     <e lm="Budapeszt"><i>Budapesz</i><par n="Budapesz/t__np"/></e>
+    <e lm="Polska"><i>Pols</i><par n="Pols/ka__np"/></e>
   </section>
   <section id="tokens" type="inconditional">
     <e><par n="numeros"/></e>
