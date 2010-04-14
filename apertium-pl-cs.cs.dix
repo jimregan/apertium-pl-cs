@@ -20810,16 +20810,65 @@
     <!-- Proper nouns -->
   
     <e lm="Petr"><i>Pet</i><par n="Pet/r__np"/></e>
-    <e lm="Anna"><i>Ann</i><par n="Ann/a__np"/></e>
+    <e lm="Connor"><i>Conno</i><par n="Pet/r__np"/></e>
+    <e lm="Ctibor"><i>Ctibo</i><par n="Pet/r__np"/></e>
+    <e lm="Dieter"><i>Diete</i><par n="Pet/r__np"/></e>
+    <e lm="Igor"><i>Igo</i><par n="Pet/r__np"/></e>
+    <e lm="Libor"><i>Libo</i><par n="Pet/r__np"/></e>
+    <e lm="Silvestr"><i>Silvest</i><par n="Pet/r__np"/></e>
+    <e lm="Valtr"><i>Valt</i><par n="Pet/r__np"/></e>
     <e lm="Piotr"><i>Piot</i><par n="Pet/r__np"/></e>
+    <e lm="Anna"><i>Ann</i><par n="Ann/a__np"/></e>
 
     <e lm="Bílsko-Bělá"><i>Bílsk</i><par n="Bílsk/o-Bělá__np"/></e>
     <e lm="Poznaň"><i>Pozna</i><par n="Pozna/ň__np"/></e>
     <e lm="Toruň"><i>Toru</i><par n="Pozna/ň__np"/></e>
     <e lm="Budapešť"><i>Budapeš</i><par n="Budapeš/ť__np"/></e>
+
     <e lm="Česko"><i>Čes</i><par n="Čes/ko__np"/></e>
     <e lm="Polsko"><i>Pols</i><par n="Čes/ko__np"/></e>
     <e lm="Německo"><i>Němec</i><par n="Čes/ko__np"/></e>
+    <e lm="Alsasko"><i>Alsas</i><par n="Čes/ko__np"/></e>
+    <e lm="Bavorsko"><i>Bavors</i><par n="Čes/ko__np"/></e>
+    <e lm="Blansko"><i>Blans</i><par n="Čes/ko__np"/></e>
+    <e lm="Broumovsko"><i>Broumovs</i><par n="Čes/ko__np"/></e>
+    <e lm="Bulharsko"><i>Bulhars</i><par n="Čes/ko__np"/></e>
+    <e lm="Chodsko"><i>Chods</i><par n="Čes/ko__np"/></e>
+    <e lm="Chorvatsko"><i>Chorvats</i><par n="Čes/ko__np"/></e>
+    <e lm="Estonsko"><i>Estons</i><par n="Čes/ko__np"/></e>
+    <e lm="Finsko"><i>Fins</i><par n="Čes/ko__np"/></e>
+    <e lm="Francisko"><i>Francis</i><par n="Čes/ko__np"/></e>
+    <e lm="Hesensko"><i>Hesens</i><par n="Čes/ko__np"/></e>
+    <e lm="Hlinsko"><i>Hlins</i><par n="Čes/ko__np"/></e>
+    <e lm="Holandsko"><i>Holands</i><par n="Čes/ko__np"/></e>
+    <e lm="Irsko"><i>Irs</i><par n="Čes/ko__np"/></e>
+    <e lm="Japonsko"><i>Japons</i><par n="Čes/ko__np"/></e>
+    <e lm="Kladensko"><i>Kladens</i><par n="Čes/ko__np"/></e>
+    <e lm="Klatovsko"><i>Klatovs</i><par n="Čes/ko__np"/></e>
+    <e lm="Lipsko"><i>Lips</i><par n="Čes/ko__np"/></e>
+    <e lm="Loketsko"><i>Lokets</i><par n="Čes/ko__np"/></e>
+    <e lm="Lucembursko"><i>Lucemburs</i><par n="Čes/ko__np"/></e>
+    <e lm="Mokrsko"><i>Mokrs</i><par n="Čes/ko__np"/></e>
+    <e lm="Moldavsko"><i>Moldavs</i><par n="Čes/ko__np"/></e>
+    <e lm="Mongolsko"><i>Mongols</i><par n="Čes/ko__np"/></e>
+    <e lm="Nizozemsko"><i>Nizozems</i><par n="Čes/ko__np"/></e>
+    <e lm="Norsko"><i>Nors</i><par n="Čes/ko__np"/></e>
+    <e lm="Portugalsko"><i>Portugals</i><par n="Čes/ko__np"/></e>
+    <e lm="Prusko"><i>Prus</i><par n="Čes/ko__np"/></e>
+    <e lm="Rakousko"><i>Rakous</i><par n="Čes/ko__np"/></e>
+    <e lm="Rumunsko"><i>Rumuns</i><par n="Čes/ko__np"/></e>
+    <e lm="Rusko"><i>Rus</i><par n="Čes/ko__np"/></e>
+    <e lm="Sasko"><i>Sas</i><par n="Čes/ko__np"/></e>
+    <e lm="Sedmihradsko"><i>Sedmihrads</i><par n="Čes/ko__np"/></e>
+    <e lm="Skotsko"><i>Skots</i><par n="Čes/ko__np"/></e>
+    <e lm="Slezsko"><i>Slezs</i><par n="Čes/ko__np"/></e>
+    <e lm="Slovensko"><i>Slovens</i><par n="Čes/ko__np"/></e>
+    <e lm="Slovinsko"><i>Slovins</i><par n="Čes/ko__np"/></e>
+    <e lm="Thajsko"><i>Thajs</i><par n="Čes/ko__np"/></e>
+    <e lm="Tunisko"><i>Tunis</i><par n="Čes/ko__np"/></e>
+    <e lm="Turecko"><i>Turec</i><par n="Čes/ko__np"/></e>
+    <e lm="Tyrolsko"><i>Tyrols</i><par n="Čes/ko__np"/></e>
+    <e lm="Uhersko"><i>Uhers</i><par n="Čes/ko__np"/></e>
 
   </section>
 
