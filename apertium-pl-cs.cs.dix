@@ -1010,6 +1010,122 @@
         </p>
       </e>
     </pardef>
+    <pardef n="pes__n">
+      <e>
+        <p>
+          <l>pes</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psi</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>psové</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psa</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psù</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psovi</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>psu</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psum</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>psum</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psa</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psy</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>pse</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psi</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>psové</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psovi</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>psu</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psech</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psem</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>psy</l>
+          <r>pes<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="boxe/r__n">
       <e>
         <p>
@@ -20795,6 +20911,7 @@
     <e lm="žralok"><i>žralo</i><par n="ja/k__n"/></e>
     <e lm="žába"><i>ž</i><par n="ž/ába__n"/></e>
     <e lm="žínka"><i>žín</i><par n="dív/ka__n"/></e>
+    <e lm="pes"><i></i><par n="pes__n"/></e>
 
     <!-- Verbs -->
 
