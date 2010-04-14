@@ -29,6 +29,7 @@
     <sdef n="itg"/>
     <sdef n="prn"/>
     <sdef n="qnt"/>
+    <sdef n="dem"/>
 
     <sdef n="nom"/>
     <sdef n="gen"/>
@@ -121,6 +122,8 @@
      <e r="RL"><p><l>ile<s n="det"/><s n="qnt"/><s n="GD"/></l><r>kolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>tyle<s n="det"/><s n="qnt"/></l><r>tolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="RL"><p><l>tyle<s n="det"/><s n="qnt"/><s n="GD"/></l><r>tolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
+
+     <e><p><l>to<s n="det"/><s n="dem"/></l><r>to<s n="det"/><s n="dem"/></r></p></e>
 
 
      <!-- Numerals -->
