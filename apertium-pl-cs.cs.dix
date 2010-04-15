@@ -20093,15 +20093,15 @@
     <e lm="evangeliář"><i>evangeliář</i><par n="keř__n"/></e>
     <e lm="expert"><i>expert</i><par n="man__n"/></e>
     <e lm="exploatace"><i>exploatac</i><par n="šíj/e__n"/></e>
-    <e lm="expositura"><i>expositu</i><par n="sí/ra__n"/></e>
+    <e lm="expositura" r="LR"><p><l>expositu</l><r>expozitu</r></p><par n="sí/ra__n"/></e>
     <e lm="expozitura"><i>expozitu</i><par n="sí/ra__n"/></e>
     <e lm="extravilán"><i>extravilán</i><par n="bor__n"/></e>
     <e lm="fanatismus"><i>fanatism</i><par n="ile/us__n"/></e>
-    <e lm="fanatizmus"><i>fanatizm</i><par n="ile/us__n"/></e>
+    <e lm="fanatizmus" r="LR"><p><l>fanatizm</l><r>fanatism</r></p><par n="ile/us__n"/></e>
     <e lm="fauna"><i>faun</i><par n="dob/a__n"/></e>
     <e lm="fax"><i>fax</i><par n="bor__n"/></e>
     <e lm="fašismus"><i>fašism</i><par n="ile/us__n"/></e>
-    <e lm="fašizmus"><i>fašizm</i><par n="ile/us__n"/></e>
+    <e lm="fašizmus" r="LR"><p><l>fašizm</l><r></r>fašism</p><par n="ile/us__n"/></e>
     <e lm="fedrovatel"><i>fedrovatel</i><par n="muž__n"/></e>
     <e lm="fermium"><i>fermi</i><par n="bary/um__n"/></e>
     <e lm="feťák"><i>feťá</i><par n="ja/k__n"/></e>
@@ -20411,7 +20411,9 @@
     <e lm="mezopauza"><i>mezopauz</i><par n="kos/a__n"/></e>
     <e lm="mešita"><i>mešit</i><par n="dob/a__n"/></e>
     <e lm="mikroorganismus"><i>mikroorganism</i><par n="ile/us__n"/></e>
-    <e lm="mikroorganizmus"><i>mikroorganizm</i><par n="ile/us__n"/></e>
+    <e lm="mikroorganizmus" r="LR"><p><l>mikroorganizm</l><r>mikroorganism</r></p><par n="ile/us__n"/></e>
+    <e lm="organismus"><i>organism</i><par n="ile/us__n"/></e>
+    <e lm="organizmus" r="LR"><p><l>organizm</l><r>organism</r></p><par n="ile/us__n"/></e>
     <e lm="mimeze"><i>mimez</i><par n="šíj/e__n"/></e>
     <e lm="minerál"><i>minerál</i><par n="bor__n"/></e>
     <e lm="minuta"><i>minut</i><par n="dob/a__n"/></e>
@@ -20460,12 +20462,12 @@
     <e lm="nekňuba"><i>nekňub</i><par n="poser/a__n"/></e>
     <e lm="neodym"><i>neodym</i><par n="bor__n"/></e>
     <e lm="neologismus"><i>neologism</i><par n="ile/us__n"/></e>
-    <e lm="neologizmus"><i>neologizm</i><par n="ile/us__n"/></e>
+    <e lm="neologizmus" r="LR"><p><l>neologizm</l><r>neologism</r></p><par n="ile/us__n"/></e>
     <e lm="neon"><i>neon</i><par n="bor__n"/></e>
     <e lm="neptunium"><i>neptuni</i><par n="bary/um__n"/></e>
     <e lm="nerost"><i>nerost</i><par n="bor__n"/></e>
     <e lm="neurologie"><i>neurologi</i><par n="šíj/e__n"/></e>
-    <e lm="neurosa"><i>neuros</i><par n="kos/a__n"/></e>
+    <e lm="neurosa" r="LR"><p><l>neuros</l><r>neuróz</r></p><par n="kos/a__n"/></e>
     <e lm="neuróza"><i>neuróz</i><par n="kos/a__n"/></e>
     <e lm="neutron"><i>neutron</i><par n="bor__n"/></e>
     <e lm="neštěstí"><i>neštěstí</i><par n="neštěstí__n"/></e>
@@ -20636,7 +20638,7 @@
     <e lm="rafinérie"><i>rafinéri</i><par n="šíj/e__n"/></e>
     <e lm="rampouch"><i>rampou</i><par n="rampou/ch__n"/></e>
     <e lm="rasismus"><i>rasism</i><par n="ile/us__n"/></e>
-    <e lm="rasizmus"><i>rasizm</i><par n="ile/us__n"/></e>
+    <e lm="rasizmus" r="LR"><p><l>rasizm</l><r>rasism</r></p><par n="ile/us__n"/></e>
     <e lm="ratifikace"><i>ratifikac</i><par n="šíj/e__n"/></e>
     <e lm="recidivista"><i>recidivist</i><par n="nacist/a__n"/></e>
     <e lm="reciprocita"><i>reciprocit</i><par n="dob/a__n"/></e>
