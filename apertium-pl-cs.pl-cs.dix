@@ -344,7 +344,7 @@
     <e><p><l>żaba<s n="n"/><s n="f"/></l><r>žába<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>żółw<s n="n"/><s n="ma"/></l><r>želva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kobieta<s n="n"/><s n="f"/></l><r>žena<s n="n"/><s n="f"/></r></p></e>
-    <e r"LR"><p><l>żona<s n="n"/><s n="f"/></l><r>žena<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>żona<s n="n"/><s n="f"/></l><r>žena<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zima<s n="n"/><s n="f"/></l><r>zima<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zoologia<s n="n"/><s n="f"/></l><r>zoologie<s n="n"/><s n="f"/></r></p></e>
  
