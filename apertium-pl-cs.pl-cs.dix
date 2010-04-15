@@ -186,6 +186,52 @@
      <e><p><l>testosteron<s n="n"/><s n="mi"/></l><r>testosteron<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>dysertacja<s n="n"/><s n="f"/></l><r>disertace<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>pies<s n="n"/><s n="ma"/></l><r>pes<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>bulwar<s n="n"/><s n="mi"/></l><r>bulvár<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>autobus<s n="n"/><s n="mi"/></l><r>bus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>chleb<s n="n"/><s n="mi"/></l><r>chleba<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>ropień<s n="n"/><s n="mi"/></l><r>absces<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>akronim<s n="n"/><s n="mi"/></l><r>akronym<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>ametyst<s n="n"/><s n="mi"/></l><r>ametyst<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>antracyt<s n="n"/><s n="mi"/></l><r>antracit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>artefakt<s n="n"/><s n="mi"/></l><r>artefakt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>aksjomat<s n="n"/><s n="mi"/></l><r>axiom<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bajt<s n="n"/><s n="mi"/></l><r>bajt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bizmut<s n="n"/><s n="mi"/></l><r>bizmut<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>czwartek<s n="n"/><s n="mi"/></l><r>čtvrtek<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dzień<s n="n"/><s n="mi"/></l><r>den<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>deszcz<s n="n"/><s n="mi"/></l><r>déšť<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dialekt<s n="n"/><s n="mi"/></l><r>dialekt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>faks<s n="n"/><s n="mi"/></l><r>fax<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>fiord<s n="n"/><s n="mi"/></l><r>fjord<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>flashmob<s n="n"/><s n="mi"/></l><r>flashmob<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>hinduizm<s n="n"/><s n="mi"/></l><r>hinduizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>ideogram<s n="n"/><s n="mi"/></l><r>ideogram<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>idiom<s n="n"/><s n="mi"/></l><r>idiom<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>internet<s n="n"/><s n="mi"/></l><r>internet<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>intranet<s n="n"/><s n="mi"/></l><r>intranet<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>kamień<s n="n"/><s n="mi"/></l><r>kámen<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>kilogram<s n="n"/><s n="mi"/></l><r>kilogram<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>klasztor<s n="n"/><s n="mi"/></l><r>klášter<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>kobalt<s n="n"/><s n="mi"/></l><r>kobalt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>współczynnik<s n="n"/><s n="mi"/></l><r>koeficient<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>komunizm<s n="n"/><s n="mi"/></l><r>komunizmus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>modem<s n="n"/><s n="mi"/></l><r>modem<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>nóż<s n="n"/><s n="mi"/></l><r>nůž<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>obiekt<s n="n"/><s n="mi"/></l><r>objekt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>pas<s n="n"/><s n="mi"/></l><r>pás<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>piątek<s n="n"/><s n="mi"/></l><r>pátek<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>penis<s n="n"/><s n="mi"/></l><r>penis<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>rok<s n="n"/><s n="mi"/></l><r>rok<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>smoking<s n="n"/><s n="mi"/></l><r>smoking<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>szkuner<s n="n"/><s n="mi"/></l><r>škuner<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>drzewo<s n="n"/><s n="mi"/></l><r>strom<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>telefon<s n="n"/><s n="mi"/></l><r>telefon<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>telewizor<s n="n"/><s n="mi"/></l><r>televizor<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>zenit<s n="n"/><s n="mi"/></l><r>zenit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>cynk<s n="n"/><s n="mi"/></l><r>zinek<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>sposób<s n="n"/><s n="mi"/></l><r>způsob<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>ząb<s n="n"/><s n="mi"/></l><r>zub<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>żywot<s n="n"/><s n="mi"/></l><r>život<s n="n"/><s n="mi"/></r></p></e>
  
      <e><p><l>międzynarodowy<s n="adj"/></l><r>mezinárodní<s n="adj"/></r></p></e>
      <e><p><l>jasnoniebieski<s n="adj"/></l><r>světlemodrý<s n="adj"/></r></p></e>
