@@ -23598,9 +23598,9 @@
     <e lm="biały"><i>bia</i><par n="ma/ły__adj"/></e>
     <e lm="biały"><p><l>biel</l><r>biały</r></p><par n="lep/szy__adj"/></e>
     <e lm="biały"><p><l>najbiel</l><r>biały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="ciepły"><i>ciepły</i><par n="ma/ły__adj"/></e>
-    <e lm="ciepły"><p><l>cieplejszy</l><r>ciepły</r></p><par n="lep/szy__adj"/></e>
-    <e lm="ciepły"><p><l>najcieplejszy</l><r>ciepły</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ciepły"><i>ciep</i><par n="ma/ły__adj"/></e>
+    <e lm="ciepły"><p><l>cieplej</l><r>ciepły</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ciepły"><p><l>najcieplej</l><r>ciepły</r></p><par n="najlep/szy__adj"/></e>
     <e lm="czuły"><i>czu</i><par n="ma/ły__adj"/></e>
     <e lm="czuły"><p><l>czul</l><r>czuły</r></p><par n="lep/szy__adj"/></e>
     <e lm="czuły"><p><l>najczul</l><r>czuły</r></p><par n="najlep/szy__adj"/></e>
