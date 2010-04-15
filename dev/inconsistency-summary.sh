@@ -1,5 +1,6 @@
 INC=$1
-OUT=testvoc-summary.txt
+PAIR=$2
+OUT=testvoc-summary.$PAIR.txt
 POS="abbr adj adv cm cnjadv cnjcoo cnjsub det guio ij n np num pr preadv prn rel vaux vbhaver vblex vbser"
 
 echo "" > $OUT;
