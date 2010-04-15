@@ -24034,6 +24034,22 @@
     <e lm="wokalizacja"><i>wokalizac</i><par n="dysertac/ja__n"/></e>
     <e lm="wulgaryzacja"><i>wulgaryzac</i><par n="dysertac/ja__n"/></e>
     <e lm="wulkanizacja"><i>wulkanizac</i><par n="dysertac/ja__n"/></e>
+    <e lm="abdykacja"><i>abdykac</i><par n="dysertac/ja__n"/></e>
+    <e lm="aberracja"><i>aberrac</i><par n="dysertac/ja__n"/></e>
+    <e lm="adnotacja"><i>adnotac</i><par n="dysertac/ja__n"/></e>
+    <e lm="aryzacja"><i>aryzac</i><par n="dysertac/ja__n"/></e>
+    <e lm="dekoncentracja"><i>dekoncentrac</i><par n="dysertac/ja__n"/></e>
+    <e lm="demokracja"><i>demokrac</i><par n="dysertac/ja__n"/></e>
+    <e lm="detoksykacja"><i>detoksykac</i><par n="dysertac/ja__n"/></e>
+    <e lm="dywersyfikacja"><i>dywersyfikac</i><par n="dysertac/ja__n"/></e>
+    <e lm="eksploatacja"><i>eksploatac</i><par n="dysertac/ja__n"/></e>
+    <e lm="fundacja"><i>fundac</i><par n="dysertac/ja__n"/></e>
+    <e lm="halucynacja"><i>halucynac</i><par n="dysertac/ja__n"/></e>
+    <e lm="inflacja"><i>inflac</i><par n="dysertac/ja__n"/></e>
+    <e lm="inkubacja"><i>inkubac</i><par n="dysertac/ja__n"/></e>
+    <e lm="integracja"><i>integrac</i><par n="dysertac/ja__n"/></e>
+    <e lm="plutokracja"><i>plutokrac</i><par n="dysertac/ja__n"/></e>
+    <e lm="symulacja"><i>symulac</i><par n="dysertac/ja__n"/></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
