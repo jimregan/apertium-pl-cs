@@ -24050,6 +24050,16 @@
     <e lm="integracja"><i>integrac</i><par n="dysertac/ja__n"/></e>
     <e lm="plutokracja"><i>plutokrac</i><par n="dysertac/ja__n"/></e>
     <e lm="symulacja"><i>symulac</i><par n="dysertac/ja__n"/></e>
+    <e lm="aerodynamika"><i>aerodynami</i><par n="rze/ka__n"/></e>
+    <e lm="aerostatyka"><i>aerostaty</i><par n="rze/ka__n"/></e>
+    <e lm="akustyka"><i>akusty</i><par n="rze/ka__n"/></e>
+    <e lm="apologetyka"><i>apologety</i><par n="rze/ka__n"/></e>
+    <e lm="botanika"><i>botani</i><par n="rze/ka__n"/></e>
+    <e lm="etyka"><i>ety</i><par n="rze/ka__n"/></e>
+    <e lm="galaktyka"><i>galakty</i><par n="rze/ka__n"/></e>
+    <e lm="germanistyka"><i>germanisty</i><par n="rze/ka__n"/></e>
+    <e lm="bajka"><i>baj</i><par n="mat/ka__n"/></e>
+    <e lm="córka"><i>cór</i><par n="mat/ka__n"/></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
