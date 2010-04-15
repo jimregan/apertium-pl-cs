@@ -23586,9 +23586,27 @@
     <e lm="ostry"><i>ost</i><par n="dob/ry__adj"/></e>
     <e lm="ostry"><p><l>ostrzej</l><r>ostry</r></p><par n="lep/szy__adj"/></e>
     <e lm="ostry"><p><l>najostrzej</l><r>ostry</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="bystry"><i>byst</i><par n="dob/ry__adj"/></e>
+    <e lm="bystry"><p><l>bystrzej</l><r>bystry</r></p><par n="lep/szy__adj"/></e>
+    <e lm="bystry"><p><l>najbystrzej</l><r>bystry</r></p><par n="najlep/szy__adj"/></e>
     <e lm="mały"><i>ma</i><par n="ma/ły__adj"/></e>
     <e lm="mały"><p><l>mniej</l><r>mały</r></p><par n="lep/szy__adj"/></e>
     <e lm="mały"><p><l>najmniej</l><r>mały</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="biegły"><i>bieg</i><par n="ma/ły__adj"/></e>
+    <e lm="biegły"><p><l>bieglej</l><r>biegły</r></p><par n="lep/szy__adj"/></e>
+    <e lm="biegły"><p><l>najbieglej</l><r>biegły</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="biały"><i>bia</i><par n="ma/ły__adj"/></e>
+    <e lm="biały"><p><l>biel</l><r>biały</r></p><par n="lep/szy__adj"/></e>
+    <e lm="biały"><p><l>najbiel</l><r>biały</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ciepły"><i>ciepły</i><par n="ma/ły__adj"/></e>
+    <e lm="ciepły"><p><l>cieplejszy</l><r>ciepły</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ciepły"><p><l>najcieplejszy</l><r>ciepły</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="czuły"><i>czu</i><par n="ma/ły__adj"/></e>
+    <e lm="czuły"><p><l>czul</l><r>czuły</r></p><par n="lep/szy__adj"/></e>
+    <e lm="czuły"><p><l>najczul</l><r>czuły</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="dojrzały"><i>dojrza</i><par n="ma/ły__adj"/></e>
+    <e lm="dojrzały"><p><l>dojrzal</l><r>dojrzały</r></p><par n="lep/szy__adj"/></e>
+    <e lm="dojrzały"><p><l>najdojrzal</l><r>dojrzały</r></p><par n="najlep/szy__adj"/></e>
     <e lm="zły"><i></i><par n="/zły__adj"/></e>
     <e lm="zły"><p><l>gor</l><r>zły</r></p><par n="lep/szy__adj"/></e>
     <e lm="zły"><p><l>najgor</l><r>zły</r></p><par n="najlep/szy__adj"/></e>
@@ -23598,6 +23616,12 @@
     <e lm="nowy"><i>now</i><par n="now/y__adj"/></e>
     <e lm="nowy"><p><l>now</l><r>nowy</r></p><par n="lep/szy__adj"/></e>
     <e lm="nowy"><p><l>najnow</l><r>nowy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="burzliwy"><i>burzliw</i><par n="now/y__adj"/></e>
+    <e lm="burzliwy"><p><l>burzliw</l><r>burzliwy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="burzliwy"><p><l>najburzliw</l><r>burzliwy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ciekawy"><i>ciekaw</i><par n="now/y__adj"/></e>
+    <e lm="ciekawy"><p><l>ciekaw</l><r>ciekawy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ciekawy"><p><l>najciekaw</l><r>ciekawy</r></p><par n="najlep/szy__adj"/></e>
     <e lm="jasny"><i>ja</i><par n="ja/sny__adj"/></e>
     <e lm="jasny"><p><l>jaśniej</l><r>jasny</r></p><par n="lep/szy__adj"/></e>
     <e lm="jasny"><p><l>najjaśniej</l><r>jasny</r></p><par n="najlep/szy__adj"/></e>
