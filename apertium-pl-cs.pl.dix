@@ -14205,6 +14205,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="filozofi/a__n">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="mężczy/zna__n">
       <e>
         <p>
@@ -24060,6 +24146,37 @@
     <e lm="germanistyka"><i>germanisty</i><par n="rze/ka__n"/></e>
     <e lm="bajka"><i>baj</i><par n="mat/ka__n"/></e>
     <e lm="córka"><i>cór</i><par n="mat/ka__n"/></e>
+    <e lm="filia"><i>fili</i><par n="filozofi/a__n"/></e>
+    <e lm="chemia"><i>chemi</i><par n="filozofi/a__n"/></e>
+    <e lm="alergia"><i>alergi</i><par n="filozofi/a__n"/></e>
+    <e lm="amnestia"><i>amnesti</i><par n="filozofi/a__n"/></e>
+    <e lm="anatomia"><i>anatomi</i><par n="filozofi/a__n"/></e>
+    <e lm="apostasia"><i>apostasi</i><par n="filozofi/a__n"/></e>
+    <e lm="astronomia"><i>astronomi</i><par n="filozofi/a__n"/></e>
+    <e lm="dialektologia"><i>dialektologi</i><par n="filozofi/a__n"/></e>
+    <e lm="ekologia"><i>ekologi</i><par n="filozofi/a__n"/></e>
+    <e lm="empatia"><i>empati</i><par n="filozofi/a__n"/></e>
+    <e lm="encyklopedia"><i>encyklopedi</i><par n="filozofi/a__n"/></e>
+    <e lm="endokrynologia"><i>endokrynologi</i><par n="filozofi/a__n"/></e>
+    <e lm="epidemia"><i>epidemi</i><par n="filozofi/a__n"/></e>
+    <e lm="ergonomia"><i>ergonomi</i><par n="filozofi/a__n"/></e>
+    <e lm="etymologia"><i>etymologi</i><par n="filozofi/a__n"/></e>
+    <e lm="geomorfologia"><i>geomorfologi</i><par n="filozofi/a__n"/></e>
+    <e lm="gerontologia"><i>gerontologi</i><par n="filozofi/a__n"/></e>
+    <e lm="fizjologia"><i>fizjologi</i><par n="filozofi/a__n"/></e>
+    <e lm="heksakosjoiheksekontaheksafobia"><i>heksakosjoiheksekontaheksafobi</i><par n="filozofi/a__n"/></e>
+    <e lm="triskaidekafobia"><i>triskaidekafobi</i><par n="filozofi/a__n"/></e>
+    <e lm="ironia"><i>ironi</i><par n="filozofi/a__n"/></e>
+    <e lm="kardiologia"><i>kardiologi</i><par n="filozofi/a__n"/></e>
+    <e lm="kartografia"><i>kartografi</i><par n="filozofi/a__n"/></e>
+    <e lm="meteorologia"><i>meteorologi</i><par n="filozofi/a__n"/></e>
+    <e lm="patologia"><i>patologi</i><par n="filozofi/a__n"/></e>
+    <e lm="pornografia"><i>pornografi</i><par n="filozofi/a__n"/></e>
+    <e lm="psychiatria"><i>psychiatri</i><par n="filozofi/a__n"/></e>
+    <e lm="psychologia"><i>psychologi</i><par n="filozofi/a__n"/></e>
+    <e lm="teologia"><i>teologi</i><par n="filozofi/a__n"/></e>
+    <e lm="trygonometria"><i>trygonometri</i><par n="filozofi/a__n"/></e>
+    <e lm="zoologia"><i>zoologi</i><par n="filozofi/a__n"/></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
