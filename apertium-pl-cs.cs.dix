@@ -20100,7 +20100,7 @@
     <e lm="fauna"><i>faun</i><par n="dob/a__n"/></e>
     <e lm="fax"><i>fax</i><par n="bor__n"/></e>
     <e lm="fašismus"><i>fašism</i><par n="ile/us__n"/></e>
-    <e lm="fašizmus" r="LR"><p><l>fašizm</l><r></r>fašism</p><par n="ile/us__n"/></e>
+    <e lm="fašizmus" r="LR"><p><l>fašizm</l><r>fašism</r></p><par n="ile/us__n"/></e>
     <e lm="fedrovatel"><i>fedrovatel</i><par n="muž__n"/></e>
     <e lm="fermium"><i>fermi</i><par n="bary/um__n"/></e>
     <e lm="feťák"><i>feťá</i><par n="ja/k__n"/></e>
@@ -20309,7 +20309,7 @@
     <e lm="komp"><i>komp</i><par n="bor__n"/></e>
     <e lm="kompl"><i>kompl</i><par n="bor__n"/></e>
     <e lm="komputer"><i>komputer</i><par n="bor__n"/></e>
-    <e lm="computer" r="LR"><p><l>computer</l><r>komputer</r></l><par n="bor__n"/></e>
+    <e lm="computer" r="LR"><p><l>computer</l><r>komputer</r></p><par n="bor__n"/></e>
     <e lm="komunismus"><i>komunism</i><par n="ile/us__n"/></e>
     <e lm="komunizmus" r="LR"><p><l>komunizm</l><r>komunism</r></p><par n="ile/us__n"/></e>
     <e lm="kondensace" r="LR"><p><l>kondensac</l><r>kondenzac</r></p><par n="šíj/e__n"/></e>
