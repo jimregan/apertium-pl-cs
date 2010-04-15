@@ -19991,7 +19991,6 @@
     <e lm="chátra"><i>chát</i><par n="chát/ra__n"/></e>
     <e lm="cirhóza"><i>cirhóz</i><par n="kos/a__n"/></e>
     <e lm="civilizace"><i>civilizac</i><par n="šíj/e__n"/></e>
-    <e lm="computer"><i>computer</i><par n="bor__n"/></e>
     <e lm="consil"><i>consil</i><par n="man__n"/></e>
     <e lm="cracker"><i>cracke</i><par n="amu/r__n"/></e>
     <e lm="curium"><i>curi</i><par n="bary/um__n"/></e>
@@ -20310,9 +20309,10 @@
     <e lm="komp"><i>komp</i><par n="bor__n"/></e>
     <e lm="kompl"><i>kompl</i><par n="bor__n"/></e>
     <e lm="komputer"><i>komputer</i><par n="bor__n"/></e>
+    <e lm="computer" r="LR"><p><l>computer</l><r>komputer</r></l><par n="bor__n"/></e>
     <e lm="komunismus"><i>komunism</i><par n="ile/us__n"/></e>
-    <e lm="komunizmus"><i>komunizm</i><par n="ile/us__n"/></e>
-    <e lm="kondensace"><i>kondensac</i><par n="šíj/e__n"/></e>
+    <e lm="komunizmus" r="LR"><p><l>komunizm</l><r>komunism</r></p><par n="ile/us__n"/></e>
+    <e lm="kondensace" r="LR"><p><l>kondensac</l><r>kondenzac</r></p><par n="šíj/e__n"/></e>
     <e lm="kondenzace"><i>kondenzac</i><par n="šíj/e__n"/></e>
     <e lm="konfident"><i>konfident</i><par n="man__n"/></e>
     <e lm="konfirmace"><i>konfirmac</i><par n="šíj/e__n"/></e>
