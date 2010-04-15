@@ -19896,7 +19896,7 @@
     <e lm="apendix"><i>apendix</i><par n="bor__n"/></e>
     <e lm="apologetika"><i>apologeti</i><par n="dý/ka__n"/></e>
     <e lm="apostasie"><i>apostasi</i><par n="šíj/e__n"/></e>
-    <e lm="apostázie"><i>apostázi</i><par n="šíj/e__n"/></e>
+    <e lm="apostázie" r="LR"><p><l>apostázi</l><r>apostasi</r></p><par n="šíj/e__n"/></e>
     <e lm="apreciace"><i>apreciac</i><par n="šíj/e__n"/></e>
     <e lm="arak"><i>arak</i><par n="arak__n"/></e>
     <e lm="argon"><i>argon</i><par n="bor__n"/></e>
@@ -20028,7 +20028,7 @@
     <e lm="dianetika"><i>dianeti</i><par n="dý/ka__n"/></e>
     <e lm="dikce"><i>dikc</i><par n="šíj/e__n"/></e>
     <e lm="disertace"><i>disertac</i><par n="šíj/e__n"/></e>
-    <e lm="diversifikace"><i>diversifikac</i><par n="diverzifikac/e__n"/></e>
+    <e lm="diversifikace" r="LR"><p><l>diversifikac</l><r>diverzifikac</r></p><par n="diverzifikac/e__n"/></e>
     <e lm="diverzifikace"><i>diverzifikac</i><par n="diverzifikac/e__n"/></e>
     <e lm="divočina"><i>divočin</i><par n="dob/a__n"/></e>
     <e lm="dívka"><i>dív</i><par n="dív/ka__n"/></e>
@@ -20115,10 +20115,10 @@
     <e lm="fraktura"><i>fraktu</i><par n="sí/ra__n"/></e>
     <e lm="francium"><i>franci</i><par n="bary/um__n"/></e>
     <e lm="fundace"><i>fundac</i><par n="šíj/e__n"/></e>
-    <e lm="fylogenese"><i>fylogenes</i><par n="šíj/e__n"/></e>
+    <e lm="fylogenese" r="LR"><p><l>fylogenes</l><r>fylogenez</r></p><par n="šíj/e__n"/></e>
     <e lm="fylogeneze"><i>fylogenez</i><par n="šíj/e__n"/></e>
     <e lm="fysika"><i>fysi</i><par n="dý/ka__n"/></e>
-    <e lm="fysiologie"><i>fysiologi</i><par n="šíj/e__n"/></e>
+    <e lm="fysiologie" r="LR"><p><l>fysiologi</l><r>fyziologi</r></p><par n="šíj/e__n"/></e>
     <e lm="fyziologie"><i>fyziologi</i><par n="šíj/e__n"/></e>
     <e lm="gadolinuum"><i>gadolinu</i><par n="bary/um__n"/></e>
     <e lm="galaxie"><i>galaxi</i><par n="šíj/e__n"/></e>
