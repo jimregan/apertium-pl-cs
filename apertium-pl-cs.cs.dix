@@ -20525,14 +20525,16 @@
     <e lm="pacient"><i>pacient</i><par n="pacient__n"/></e>
     <e lm="paliativum"><i>paliativ</i><par n="sput/um__n"/></e>
     <e lm="palladium"><i>palladi</i><par n="palladi/um__n"/></e>
-    <e lm="paradentosa"><i>paradentos</i><par n="paradontóz/a__n"/></e>
-    <e lm="paradentóza"><i>paradentóz</i><par n="paradontóz/a__n"/></e>
+    <e lm="paradentóza" r="LR"><p><l>paradentóz</l><r>parodontóz</r></p><par n="paradontóz/a__n"/></e>
+    <e lm="paradentosa" r="LR"><p><l>paradentos</l><r>parodontóz</r></p><par n="paradontóz/a__n"/></e>
+    <e lm="paradontóza" r="LR"><p><l>paradontóz</l><r>parodontóz</r></p><par n="paradontóz/a__n"/></e>
+    <e lm="paradontosa" r="LR"><p><l>paradontos</l><r>parodontóz</r></p><par n="paradontóz/a__n"/></e>
+    <e lm="parodontosa" r="LR"><p><l>parodontos</l><r>parodontóz</r></p><par n="paradontóz/a__n"/></e>
+    <e lm="parodontóza"><i>parodontóz</i><par n="paradontóz/a__n"/></e>
     <e lm="paradigmatik"><i>paradigmati</i><par n="dianeti/k__n"/></e>
     <e lm="paradigmatika"><i>paradigmati</i><par n="dý/ka__n"/></e>
-    <e lm="paradigmatisace"><i>paradigmatisac</i><par n="šíj/e__n"/></e>
+    <e lm="paradigmatisace" r="LR"><p><l>paradigmatisac</l><r>paradigmatizac</r></p><par n="šíj/e__n"/></e>
     <e lm="paradigmatizace"><i>paradigmatizac</i><par n="šíj/e__n"/></e>
-    <e lm="paradontosa"><i>paradontos</i><par n="paradontóz/a__n"/></e>
-    <e lm="paradontóza"><i>paradontóz</i><par n="paradontóz/a__n"/></e>
     <e lm="parket"><i>parket</i><par n="bor__n"/></e>
     <e lm="parma"><i>par</i><par n="par/ma__n"/></e>
     <e lm="patitul"><i>patitul</i><par n="bor__n"/></e>
