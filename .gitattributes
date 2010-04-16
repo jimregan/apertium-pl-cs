@@ -25,6 +25,7 @@ dev/czech-top1000 -text
 dev/frek2apertium.pl -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
+dev/interwiki.cs-pl -text
 dev/testvoc-summary.cs-pl.txt -text
 dev/testvoc-summary.pl-cs.txt -text
 dev/todo -text
