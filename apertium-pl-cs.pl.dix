@@ -23731,6 +23731,7 @@
     <e lm="mleko"><i>mlek</i><par n="wojsk/o__n"/></e>
     <e lm="auto"><i>au</i><par n="au/to__n"/></e>
     <e lm="piwo"><i>piw</i><par n="piw/o__n"/></e>
+    <e lm="miasto"><i>mi</i><par n="mi/asto__n"/></e>
     <e lm="słowo"><i>sł</i><par n="sł/owo__n"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
     <e lm="ławka"><i>ław</i><par n="mat/ka__n"/></e>
@@ -23754,6 +23755,7 @@
     
     <e lm="barometr"><i>barometr</i><par n="mur__n"/></e>    
     <e lm="żargon"><i>żargon</i><par n="sklep__n"/></e>
+    <e lm="plan"><i>plan</i><par n="sklep__n"/></e>
     <e lm="atom"><i>atom</i><par n="sklep__n"/></e>
     <e lm="czas"><i>czas</i><par n="sklep__n"/></e>
     <e lm="świat"><i>świ</i><par n="świ/at__n"/></e>
