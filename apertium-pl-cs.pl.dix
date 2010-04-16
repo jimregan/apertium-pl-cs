@@ -24168,6 +24168,28 @@
     <e lm="teologia"><i>teologi</i><par n="filozofi/a__n"/></e>
     <e lm="trygonometria"><i>trygonometri</i><par n="filozofi/a__n"/></e>
     <e lm="zoologia"><i>zoologi</i><par n="filozofi/a__n"/></e>
+    <e lm="bohemistyka"><i>bohemisty</i><par n="re/ka__n"/></e>
+    <e lm="chrząstka"><i>chrząst</i><par n="mat/ka__n"/></e>
+    <e lm="epigrafika"><i>epigrafi</i><par n="re/ka__n"/></e>
+    <e lm="matematyka"><i>matematy</i><par n="re/ka__n"/></e>
+    <e lm="romanistyka"><i>romanisty</i><par n="re/ka__n"/></e>
+    <e lm="abolicja"><i>abolic</i><par n="dysertac/ja__n"/></e>
+    <e lm="akomodacja"><i>akomodac</i><par n="dysertac/ja__n"/></e>
+    <e lm="analgezja"><i>analgez</i><par n="dysertac/ja__n"/></e>
+    <e lm="aprecjacja"><i>aprecjac</i><par n="dysertac/ja__n"/></e>
+    <e lm="hipoksja"><i>hipoks</i><par n="dysertac/ja__n"/></e>
+    <e lm="kolaboracja"><i>kolaborac</i><par n="dysertac/ja__n"/></e>
+    <e lm="melioracja"><i>meliorac</i><par n="dysertac/ja__n"/></e>
+    <e lm="relacja"><i>relac</i><par n="dysertac/ja__n"/></e>
+    <e lm="subwencja"><i>subwenc</i><par n="dysertac/ja__n"/></e>
+    <e lm="aksjologia"><i>aksjologi</i><par n="filozofi/a__n"/></e>
+    <e lm="apatia"><i>apati</i><par n="filozofi/a__n"/></e>
+    <e lm="demagogia"><i>demagogi</i><par n="filozofi/a__n"/></e>
+    <e lm="idea"><i>ide</i><par n="filozofi/a__n"/></e>
+    <e lm="ksenofobia"><i>ksenofobi</i><par n="filozofi/a__n"/></e>
+    <e lm="schizofrenia"><i>schizofreni</i><par n="filozofi/a__n"/></e>
+    <e lm="stomatologia"><i>stomatologi</i><par n="filozofi/a__n"/></e>
+    <e lm="zakrystia"><i>zakrysti</i><par n="filozofi/a__n"/></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
