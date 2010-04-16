@@ -20670,9 +20670,10 @@
     <e lm="rutherfordium"><i>rutherfordi</i><par n="bary/um__n"/></e>
     <e lm="růže"><i>růž</i><par n="šíj/e__n"/></e>
     <e lm="sakristie"><i>sakristi</i><par n="šíj/e__n"/></e>
+    <e lm="zákristie" r="LR"><p><l>zákristi</l><r>sakristi</r></p><par n="šíj/e__n"/></e>
     <e lm="samarium"><i>samari</i><par n="bary/um__n"/></e>
     <e lm="saproxylofág"><i>saproxylofá</i><par n="demago/g__n"/></e>
-    <e lm="sarkasmus"><i>sarkasm</i><par n="ile/us__n"/></e>
+    <e lm="sarkasmus" r="LR"><p><l>sarkasm</l><r>sarkazm</r></p><par n="ile/us__n"/></e>
     <e lm="sarkazmus"><i>sarkazm</i><par n="ile/us__n"/></e>
     <e lm="satelit"><i>satelit</i><par n="bor__n"/></e>
     <e lm="satira"><i>sati</i><par n="sí/ra__n"/></e>
@@ -20877,7 +20878,6 @@
     <e lm="zoologie"><i>zoologi</i><par n="šíj/e__n"/></e>
     <e lm="způsob"><i>způsob</i><par n="bor__n"/></e>
     <e lm="zub"><i>zub</i><par n="bor__n"/></e>
-    <e lm="zákristie"><i>zákristi</i><par n="šíj/e__n"/></e>
     <e lm="záložník"><i>záložní</i><par n="ťuhý/k__n"/></e>
     <e lm="údolí"><i>údolí</i><par n="úterý__n"/></e>
     <e lm="úkol"><i>úkol</i><par n="bor__n"/></e>
