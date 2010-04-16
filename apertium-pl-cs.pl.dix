@@ -13755,6 +13755,15 @@
         <par n="BASE__wojsko"/>
       </e>
     </pardef>
+    <pardef n="Broumovsk/o__np">
+      <e>
+        <p>
+          <l></l>
+          <r>o<s n="np"/><s n="top"/></r>
+        </p>
+        <par n="BASE__wojsko"/>
+      </e>
+    </pardef>
     <pardef n="BASE__piwo">
       <e>
         <p>
@@ -24670,6 +24679,8 @@
     <e lm="Transylvania"><i>Transylvani</i><par n="Irlandi/a__np"/></e>
     <e lm="Słowenia"><i>Słoweni</i><par n="Irlandi/a__np"/></e>
     <e lm="Tajlandia"><i>Tajlandi</i><par n="Irlandi/a__np"/></e>
+    <e lm="Broumovsko"><i>Broumovsk</i><par n="Broumovsk/o__np"/></e>
+    <e lm="Broumovsko" r="LR"><p><l>Broumowsk</l><r>Broumovsk</r></p><par n="Broumovsk/o__np"/></e>
   </section>
   <section id="tokens" type="inconditional">
     <e><par n="numeros"/></e>
