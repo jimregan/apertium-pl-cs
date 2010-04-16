@@ -876,6 +876,7 @@
 <e><p><l>esperanto<s n="n"/><s n="nt"/></l><r>esperanto<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>ekspert<s n="n"/><s n="mp"/></l><r>expert<s n="n"/><s n="ma"/></r></p></e>
 <e><p><l>cysta<s n="n"/><s n="f"/></l><r>cysta<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>kosmonauta<s n="n"/><s n="mp"/></l><r>kosmonaut<s n="n"/><s n="ma"/></r></p></e>
 
      <!-- Proper nouns -->
 
@@ -915,7 +916,7 @@
     <e><p><l>Tunezja<s n="np"/><s n="top"/><s n="f"/></l><r>Tunisko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Turcja<s n="np"/><s n="top"/><s n="f"/></l><r>Turecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Broumovsko<s n="np"/><s n="top"/><s n="nt"/></l><r>Broumovsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-
+    <e><p><l>Betlejem<s n="np"/><s n="top"/><s n="mi"/></l><r>Betlém<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
      <!-- Adverbs -->
 
      <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>jak<s n="adv"/><s n="itg"/></r></p></e>
