@@ -15087,6 +15087,15 @@
         <par n="BASE__rzeka"/>
       </e>
     </pardef>
+    <pardef n="Australij/ka__np">
+      <e>
+        <p>
+          <l></l>
+          <r>ka<s n="np"/></r>
+        </p>
+        <par n="BASE__matka"/>
+      </e>
+    </pardef>
     <pardef n="Agniesz/ka__np">
       <e>
         <p>
@@ -25659,6 +25668,51 @@
     <e lm="Tajlandia"><i>Tajlandi</i><par n="Irlandi/a__np"/></e>
     <e lm="Broumovsko"><i>Broumovsk</i><par n="Broumovsk/o__np"/></e>
     <e lm="Broumovsko" r="LR"><p><l>Broumowsk</l><r>Broumovsk</r></p><par n="Broumovsk/o__np"/></e>
+
+    <e lm="Australijka"><i>Australij</i><par n="Australij/ka__np"/></e>
+    <e lm="Alpejka"><i>Alpej</i><par n="Australij/ka__np"/></e>
+    <e lm="Belgijka"><i>Belgij</i><par n="Australij/ka__np"/></e>
+    <e lm="Boliwijka"><i>Boliwij</i><par n="Australij/ka__np"/></e>
+    <e lm="Brazylijka"><i>Brazylij</i><par n="Australij/ka__np"/></e>
+    <e lm="Chilijka"><i>Chilij</i><par n="Australij/ka__np"/></e>
+    <e lm="Europejka"><i>Europej</i><par n="Australij/ka__np"/></e>
+    <e lm="Indonezyjka"><i>Indonezyj</i><par n="Australij/ka__np"/></e>
+    <e lm="Kalifornijka"><i>Kalifornij</i><par n="Australij/ka__np"/></e>
+    <e lm="Kanadyjka"><i>Kanadyj</i><par n="Australij/ka__np"/></e>
+    <e lm="Kolumbijka"><i>Kolumbij</i><par n="Australij/ka__np"/></e>
+    <e lm="Masajka"><i>Masaj</i><par n="Australij/ka__np"/></e>
+    <e lm="Nigeryjka"><i>Nigeryj</i><par n="Australij/ka__np"/></e>
+    <e lm="Somalijka"><i>Somalij</i><par n="Australij/ka__np"/></e>
+    <e lm="Sycylijka"><i>Sycylij</i><par n="Australij/ka__np"/></e>
+    <e lm="Tunezyjka"><i>Tunezyj</i><par n="Australij/ka__np"/></e>
+    <e lm="Afganka"><i>Afgan</i><par n="Australij/ka__np"/></e>
+    <e lm="Afroamerykanka"><i>Afroamerykan</i><par n="Australij/ka__np"/></e>
+    <e lm="Afrykanka"><i>Afrykan</i><par n="Australij/ka__np"/></e>
+    <e lm="Alaskanka"><i>Alaskan</i><par n="Australij/ka__np"/></e>
+    <e lm="Albanka"><i>Alban</i><par n="Australij/ka__np"/></e>
+    <e lm="Amerykanka"><i>Amerykan</i><par n="Australij/ka__np"/></e>
+    <e lm="Bhutanka"><i>Bhutan</i><par n="Australij/ka__np"/></e>
+    <e lm="Birmanka"><i>Birman</i><par n="Australij/ka__np"/></e>
+    <e lm="Cyganka"><i>Cygan</i><par n="Australij/ka__np"/></e>
+    <e lm="Egipcjanka"><i>Egipcjan</i><par n="Australij/ka__np"/></e>
+    <e lm="Galicjanka"><i>Galicjan</i><par n="Australij/ka__np"/></e>
+    <e lm="Ghanka"><i>Ghan</i><par n="Australij/ka__np"/></e>
+    <e lm="Gujanka"><i>Gujan</i><par n="Australij/ka__np"/></e>
+    <e lm="Haitanka"><i>Haitan</i><par n="Australij/ka__np"/></e>
+    <e lm="Hiszpanka"><i>Hiszpan</i><par n="Australij/ka__np"/></e>
+    <e lm="Honduranka"><i>Honduran</i><par n="Australij/ka__np"/></e>
+    <e lm="Indianka"><i>Indian</i><par n="Australij/ka__np"/></e>
+    <e lm="Iranka"><i>Iran</i><par n="Australij/ka__np"/></e>
+    <e lm="Koreanka"><i>Korean</i><par n="Australij/ka__np"/></e>
+    <e lm="Korsykanka"><i>Korsykan</i><par n="Australij/ka__np"/></e>
+    <e lm="Koryntianka"><i>Koryntian</i><par n="Australij/ka__np"/></e>
+    <e lm="Libanka"><i>Liban</i><par n="Australij/ka__np"/></e>
+    <e lm="Meksykanka"><i>Meksykan</i><par n="Australij/ka__np"/></e>
+    <e lm="Peruwianka"><i>Peruwian</i><par n="Australij/ka__np"/></e>
+    <e lm="Rosjanka"><i>Rosjan</i><par n="Australij/ka__np"/></e>
+    <e lm="Rzymianka"><i>Rzymian</i><par n="Australij/ka__np"/></e>
+    <e lm="Tybetanka"><i>Tybetan</i><par n="Australij/ka__np"/></e>
+  
   </section>
   <section id="tokens" type="inconditional">
     <e><par n="numeros"/></e>
