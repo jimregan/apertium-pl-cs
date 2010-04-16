@@ -14113,60 +14113,117 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__filozofia">
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="filozofi/a__n">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="n"/></r>
+        </p>
+        <par n="BASE__filozofia"/>
+      </e>
+    </pardef>
+    <pardef n="Irlandi/a__np">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="np"/><s n="top"/></r>
+        </p>
+        <par n="BASE__filozofia"/>
+      </e>
+    </pardef>
     <pardef n="dysertac/ja__n">
       <e>
         <p>
-          <l>ja</l>
-          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <l>j</l>
+          <r>ja<s n="n"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>ji</l>
-          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ji</l>
-          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ję</l>
-          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ją</l>
-          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ji</l>
-          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jo</l>
-          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>je</l>
-          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ji</l>
-          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
-        </p>
+        <par n="BASE__filozofia"/>
       </e>
       <e r="LR" c="stary">
         <p>
@@ -14174,120 +14231,19 @@
           <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l>jom</l>
-          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>je</l>
-          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jami</l>
-          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>jach</l>
-          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>je</l>
-          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
     </pardef>
-    <pardef n="filozofi/a__n">
+    <pardef n="Słowac/ja__np">
       <e>
         <p>
-          <l>a</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <l>j</l>
+          <r>ja<s n="np"/><s n="top"/></r>
         </p>
+        <par n="BASE__filozofia"/>
       </e>
-      <e>
+      <e r="LR" c="stary">
         <p>
-          <l>i</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ę</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ą</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>o</l>
-          <r>a<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>e</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>om</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>e</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ami</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ach</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>e</l>
-          <r>a<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <l>yj</l>
+          <r>ja<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
     </pardef>
@@ -24692,6 +24648,28 @@
     <e lm="Polska"><i>Pols</i><par n="Pols/ka__np"/></e>
     <e lm="Czechy"><i>Czech</i><par n="Czech/y__np"/></e>
     <e lm="Niemcy"><i>Niem</i><par n="Niem/cy__np"/></e>
+    <e lm="Alzacja"><i>Alzac</i><par n="Słowac/ja__np"/></e>
+    <e lm="Chorwacja"><i>Chorwac</i><par n="Słowac/ja__np"/></e>
+    <e lm="Rosja"><i>Ros</i><par n="Słowac/ja__np"/></e>
+    <e lm="Słowacja"><i>Słowacj</i><par n="Słowac/ja__np"/></e>
+    <e lm="Tunezja"><i>Tunez</i><par n="Słowac/ja__np"/></e>
+    <e lm="Turcja"><i>Turc</i><par n="Słowac/ja__np"/></e>
+    <e lm="Bavaria"><i>Bavari</i><par n="Irlandi/a__np"/></e>
+    <e lm="Bułgaria"><i>Bułgari</i><par n="Irlandi/a__np"/></e>
+    <e lm="Estonia"><i>Estoni</i><par n="Irlandi/a__np"/></e>
+    <e lm="Finlandia"><i>Finlandi</i><par n="Irlandi/a__np"/></e>
+    <e lm="Irlandia"><i>Irlandi</i><par n="Irlandi/a__np"/></e>
+    <e lm="Japonia"><i>Japoni</i><par n="Irlandi/a__np"/></e>
+    <e lm="Mołdawia"><i>Mołdawi</i><par n="Irlandi/a__np"/></e>
+    <e lm="Mongolia"><i>Mongoli</i><par n="Irlandi/a__np"/></e>
+    <e lm="Norwegia"><i>Norwegi</i><par n="Irlandi/a__np"/></e>
+    <e lm="Portugalia"><i>Portugali</i><par n="Irlandi/a__np"/></e>
+    <e lm="Austria"><i>Austri</i><par n="Irlandi/a__np"/></e>
+    <e lm="Rumunia"><i>Rumuni</i><par n="Irlandi/a__np"/></e>
+    <e lm="Saksonia"><i>Saksoni</i><par n="Irlandi/a__np"/></e>
+    <e lm="Transylvania"><i>Transylvani</i><par n="Irlandi/a__np"/></e>
+    <e lm="Słowenia"><i>Słoweni</i><par n="Irlandi/a__np"/></e>
+    <e lm="Tajlandia"><i>Tajlandi</i><par n="Irlandi/a__np"/></e>
   </section>
   <section id="tokens" type="inconditional">
     <e><par n="numeros"/></e>

@@ -751,6 +751,28 @@
      <e r="RL"><p><l>Czechy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Česko<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/></r></p></e>
      <e><p><l>Niemcy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Německo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
      <e r="RL"><p><l>Niemcy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Německo<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/></r></p></e>
+    <e><p><l>Alzacja<s n="np"/><s n="top"/><s n="f"/></l><r>Alsasko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Bavaria<s n="np"/><s n="top"/><s n="f"/></l><r>Bavorsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Bułgaria<s n="np"/><s n="top"/><s n="f"/></l><r>Bulharsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Chorwacja<s n="np"/><s n="top"/><s n="f"/></l><r>Chorvatsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Estonia<s n="np"/><s n="top"/><s n="f"/></l><r>Estonsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Finlandia<s n="np"/><s n="top"/><s n="f"/></l><r>Finsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Irlandia<s n="np"/><s n="top"/><s n="f"/></l><r>Irsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Japonia<s n="np"/><s n="top"/><s n="f"/></l><r>Japonsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Mołdawia<s n="np"/><s n="top"/><s n="f"/></l><r>Moldavsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Mongolia<s n="np"/><s n="top"/><s n="f"/></l><r>Mongolsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Norwegia<s n="np"/><s n="top"/><s n="f"/></l><r>Norsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Portugalia<s n="np"/><s n="top"/><s n="f"/></l><r>Portugalsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Austria<s n="np"/><s n="top"/><s n="f"/></l><r>Rakousko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Rumunia<s n="np"/><s n="top"/><s n="f"/></l><r>Rumunsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Rosja<s n="np"/><s n="top"/><s n="f"/></l><r>Rusko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Saksonia<s n="np"/><s n="top"/><s n="f"/></l><r>Sasko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Transylvania<s n="np"/><s n="top"/><s n="f"/></l><r>Sedmihradsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Słowacja<s n="np"/><s n="top"/><s n="f"/></l><r>Slovensko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Słowenia<s n="np"/><s n="top"/><s n="f"/></l><r>Slovinsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Tajlandia<s n="np"/><s n="top"/><s n="f"/></l><r>Thajsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Tunezja<s n="np"/><s n="top"/><s n="f"/></l><r>Tunisko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Turcja<s n="np"/><s n="top"/><s n="f"/></l><r>Turecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
 
      <!-- Adverbs -->
 
