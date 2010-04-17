@@ -21,6 +21,7 @@
 /autogen.sh -text
 /configure.ac -text
 /cs-pl.prob -text
+dev/bidix-to-tag -text
 dev/czech-top1000 -text
 dev/frek2apertium.pl -text
 dev/inconsistency-summary.sh -text
