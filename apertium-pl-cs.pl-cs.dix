@@ -88,8 +88,10 @@
      <e><p><l>dzięki<s n="pr"/></l><r>díky<s n="pr"/></r></p></e>
      <e><p><l>u<s n="pr"/></l><r>u<s n="pr"/></r></p></e>
      <e><p><l>w<s n="pr"/></l><r>v<s n="pr"/></r></p></e>
-     <e><p><l>z<s n="pr"/></l><r>z<s n="pr"/></r></p></e>
+     <e r="RL"><p><l>z<s n="pr"/></l><r>z<s n="pr"/></r></p></e>
      <e r="RL"><p><l>z<s n="pr"/></l><r>s<s n="pr"/></r></p></e>
+     <e r="LR"><p><l>z<s n="pr"/><s n="gen"/></l><r>z<s n="pr"/></r></p></e>
+     <e r="LR"><p><l>z<s n="pr"/><s n="ins"/></l><r>s<s n="pr"/></r></p></e>
      <e><p><l>mimo<s n="pr"/></l><r>mimo<s n="pr"/></r></p></e>
      <e><p><l>zamiast<s n="pr"/></l><r>místo<s n="pr"/></r></p></e>
      <e><p><l>obok<s n="pr"/></l><r>vedle<s n="pr"/></r></p></e>
