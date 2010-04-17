@@ -19551,7 +19551,10 @@
     <e lm="odtud"><i>odtud</i><par n="daleko__adv"/></e>
     <e lm="tehdy"><i>tehdy</i><par n="daleko__adv"/></e>
     <e lm="ještě"><i>ještě</i><par n="daleko__adv"/></e>
+    <e lm="jednou"><i>jednou</i><par n="daleko__adv"/></e>
+    <e lm="ne"><i>ne</i><par n="daleko__adv"/></e>
     <e lm="už"><i>už</i><par n="daleko__adv"/></e>
+    <e lm="nej" r="RL"><i>nej</i><par n="daleko__adv"/></e>
 
     <!-- Nouns -->
 
