@@ -269,6 +269,16 @@
       <e><p>          <l>a</l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p>          <l>a</l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
+    <pardef n="mnoh/o__det"> 
+      <!-- kolik 'how many', několik 'several', tolik 'so many', and mnoho 'much, many' all 
+           follow the same paradigm, with the desinence -a in all oblique cases.  -->
+      <e><p>          <l>o</l><r>o<s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p>          <l>a</l><r>o<s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p>          <l>a</l><r>o<s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p>          <l>a</l><r>o<s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p>          <l>a</l><r>o<s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p>          <l>a</l><r>o<s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+    </pardef>
 
 
     <pardef n="dv/ě_stě__num">
@@ -19606,7 +19616,7 @@
     <e lm="jiný"><i>jin</i><par n="jin/ý__det"/></e>
     <e lm="kolik"><i>kolik</i><par n="kolik__det"/></e>
     <e lm="několik"><i>několik</i><par n="kolik__det"/></e>
-    <e lm="mnoho"><i>mnoho</i><par n="kolik__det"/></e>
+    <e lm="mnoho"><i>mnoh</i><par n="mnoh/o__det"/></e>
     <e lm="tolik"><i>tolik</i><par n="kolik__det"/></e>
 
     <!-- Adjectives -->
