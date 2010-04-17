@@ -194,6 +194,16 @@
      <e r="LR"><p><l>dziewiętnaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>devatnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>dziewiętnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>devatnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
 
+ 
+     <e><p><l>dziewiętnaście<s n="num"/><s n="qnt"/></l><r>devatenáct<s n="num"/><s n="qnt"/></r></p></e>
+     <e><p><l>trzydzieści<s n="num"/><s n="qnt"/></l><r>třicet<s n="num"/><s n="qnt"/></r></p></e>
+     <e><p><l>czterdzieści<s n="num"/><s n="qnt"/></l><r>čtyřicet<s n="num"/><s n="qnt"/></r></p></e>
+     <e><p><l>pięćdziesiąt<s n="num"/><s n="qnt"/></l><r>padesát<s n="num"/><s n="qnt"/></r></p></e>
+     <e><p><l>sześćdziesiąt<s n="num"/><s n="qnt"/></l><r>šedesát<s n="num"/><s n="qnt"/></r></p></e>
+     <e><p><l>siedemdziesiąt<s n="num"/><s n="qnt"/></l><r>sedmdesát<s n="num"/><s n="qnt"/></r></p></e>
+     <e><p><l>osiemdziesiąt<s n="num"/><s n="qnt"/></l><r>osmdesát<s n="num"/><s n="qnt"/></r></p></e>
+     <e><p><l>dziewięćdziesiąt<s n="num"/><s n="qnt"/></l><r>devadesát<s n="num"/><s n="qnt"/></r></p></e>
+ 
 
      <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>luty<s n="n"/><s n="mi"/></l><r>únor<s n="n"/><s n="mi"/></r></p></e>
