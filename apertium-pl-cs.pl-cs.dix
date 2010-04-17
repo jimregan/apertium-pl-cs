@@ -52,6 +52,7 @@
     <sdef n="rpar"/>
     <sdef n="ant"/>
     <sdef n="top"/>
+    <sdef n="hyd"/>
     <sdef n="GD"/>
   </sdefs>
 
@@ -364,6 +365,46 @@
      <e><p><l>wegetariański<s n="adj"/></l><r>vegetariánský<s n="adj"/></r></p></e>
      <e><p><l>szatański<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
      <e><p><l>duński<s n="adj"/></l><r>dánský<s n="adj"/></r></p></e>
+    <e><p><l>arogancki<s n="adj"/></l><r>arogantní<s n="adj"/></r></p></e>
+    <e><p><l>argentyński<s n="adj"/></l><r>argentinský<s n="adj"/></r></p></e>
+    <e><p><l>arabski<s n="adj"/></l><r>arabský<s n="adj"/></r></p></e>
+    <e><p><l>angielski<s n="adj"/></l><r>anglický<s n="adj"/></r></p></e>
+    <e><p><l>amerykański<s n="adj"/></l><r>americký<s n="adj"/></r></p></e>
+    <e><p><l>alkoholowy<s n="adj"/></l><r>alkoholický<s n="adj"/></r></p></e>
+    <e><p><l>alfabetyczny<s n="adj"/></l><r>abecední<s n="adj"/></r></p></e>
+    <e><p><l>afrykański<s n="adj"/></l><r>africký<s n="adj"/></r></p></e>
+    <e><p><l>afgański<s n="adj"/></l><r>afgánský<s n="adj"/></r></p></e>
+    <e><p><l>absurdalny<s n="adj"/></l><r>absurdní<s n="adj"/></r></p></e>
+    <e><p><l>śmieszny<s n="adj"/></l><r>směšný<s n="adj"/></r></p></e>
+    <e><p><l>abchaski<s n="adj"/></l><r>abcházsky<s n="adj"/></r></p></e>
+    <e><p><l>australijski<s n="adj"/></l><r>australský<s n="adj"/></r></p></e>
+    <e><p><l>austriacki<s n="adj"/></l><r>rakouský<s n="adj"/></r></p></e>
+    <e><p><l>automatyczny<s n="adj"/></l><r>automatický<s n="adj"/></r></p></e>
+    <e><p><l>azjatycki<s n="adj"/></l><r>asijský<s n="adj"/></r></p></e>
+    <e><p><l>barbarzyński<s n="adj"/></l><r>barbarský<s n="adj"/></r></p></e>
+    <e><p><l>baskijski<s n="adj"/></l><r>baskický<s n="adj"/></r></p></e>
+    <e><p><l>baszkirski<s n="adj"/></l><r>baškirský<s n="adj"/></r></p></e>
+    <e><p><l>belgijski<s n="adj"/></l><r>belgický<s n="adj"/></r></p></e>
+    <e><p><l>bezpieczny<s n="adj"/></l><r>bezpečný<s n="adj"/></r></p></e>
+    <e><p><l>bezrobotny<s n="adj"/></l><r>nezaměstnaný<s n="adj"/></r></p></e>
+    <e><p><l>beztroski<s n="adj"/></l><r>bezstarostný<s n="adj"/></r></p></e>
+    <e><p><l>białoruski<s n="adj"/></l><r>běloruský<s n="adj"/></r></p></e>
+    <e><p><l>biały<s n="adj"/></l><r>bílý<s n="adj"/></r></p></e>
+    <e><p><l>brazylijski<s n="adj"/></l><r>brazilský<s n="adj"/></r></p></e>
+    <e><p><l>brudny<s n="adj"/></l><r>špinavý<s n="adj"/></r></p></e>
+    <e><p><l>brytyjski<s n="adj"/></l><r>britský<s n="adj"/></r></p></e>
+    <e><p><l>bułgarski<s n="adj"/></l><r>bulharský<s n="adj"/></r></p></e>
+    <e><p><l>cały<s n="adj"/></l><r>celý<s n="adj"/></r></p></e>
+    <e><p><l>celtycki<s n="adj"/></l><r>keltský<s n="adj"/></r></p></e>
+    <e><p><l>celtycki<s n="adj"/></l><r>gaelský<s n="adj"/></r></p></e>
+    <e><p><l>chiński<s n="adj"/></l><r>čínský<s n="adj"/></r></p></e>
+    <e><p><l>chorwacki<s n="adj"/></l><r>chorvatský<s n="adj"/></r></p></e>
+    <e><p><l>chrześcijański<s n="adj"/></l><r>křesťanský<s n="adj"/></r></p></e>
+    <e><p><l>ciemny<s n="adj"/></l><r>temný<s n="adj"/></r></p></e>
+    <e><p><l>cierpliwy<s n="adj"/></l><r>trpělivý<s n="adj"/></r></p></e>
+    <e><p><l>czekoladowy<s n="adj"/></l><r>čokoládový<s n="adj"/></r></p></e>
+    <e><p><l>czerwony<s n="adj"/></l><r>červený<s n="adj"/></r></p></e>
+    <e><p><l>czeski<s n="adj"/></l><r>český<s n="adj"/></r></p></e>
 
      <e><p><l>nowy<s n="adj"/><s n="sint"/></l><r>nový<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>jasny<s n="adj"/><s n="sint"/></l><r>jasný<s n="adj"/><s n="sint"/></r></p></e>
@@ -923,7 +964,55 @@
     <e><p><l>Broumovsko<s n="np"/><s n="top"/><s n="nt"/></l><r>Broumovsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Betlejem<s n="np"/><s n="top"/><s n="mi"/></l><r>Betlém<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Amur<s n="np"/><s n="top"/><s n="mi"/></l><r>Amur<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
-     <!-- Adverbs -->
+    <e><p><l>Liban<s n="np"/><s n="top"/><s n="mi"/></l><r>Libanon<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Liberia<s n="np"/><s n="top"/><s n="f"/></l><r>Libérie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Libia<s n="np"/><s n="top"/><s n="f"/></l><r>Libye<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Liechtenstein<s n="np"/><s n="top"/><s n="mi"/></l><r>Lichtenštejnsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Lipsk<s n="np"/><s n="top"/><s n="mi"/></l><r>Lipsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Litwa<s n="np"/><s n="top"/><s n="f"/></l><r>Litva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Londyn<s n="np"/><s n="top"/><s n="mi"/></l><r>Londýn<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Luksemburg<s n="np"/><s n="top"/><s n="mi"/></l><r>Lucembursko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Lwów<s n="np"/><s n="top"/><s n="mi"/></l><r>Lvov<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Lyon<s n="np"/><s n="top"/><s n="mi"/></l><r>Lyon<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Macedonia<s n="np"/><s n="top"/><s n="f"/></l><r>Makedonie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Madagaskar<s n="np"/><s n="top"/><s n="mi"/></l><r>Madagaskar<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Madryt<s n="np"/><s n="top"/><s n="mi"/></l><r>Madrid<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Malawi<s n="np"/><s n="top"/><s n="nt"/></l><r>Malawi<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Malediwy<s n="np"/><s n="top"/><s n="f"/></l><r>Maledivy<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Malezja<s n="np"/><s n="top"/><s n="f"/></l><r>Malajsie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Mali<s n="np"/><s n="top"/><s n="nt"/></l><r>Mali<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Malta<s n="np"/><s n="top"/><s n="f"/></l><r>Malta<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Mandżuria<s n="np"/><s n="top"/><s n="f"/></l><r>Mandžusko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Mars<s n="np"/><s n="top"/><s n="mi"/></l><r>Mars<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Mauretania<s n="np"/><s n="top"/><s n="f"/></l><r>Mauritánie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Mauritius<s n="np"/><s n="top"/><s n="mi"/></l><r>Mauricius<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Meksyk<s n="np"/><s n="top"/><s n="mi"/></l><r>Mexiko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Mińsk<s n="np"/><s n="top"/><s n="mi"/></l><r>Minsk<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Monachium<s n="np"/><s n="top"/><s n="nt"/></l><r>Mnichov<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Monako<s n="np"/><s n="top"/><s n="nt"/></l><r>Monako<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Mongolia<s n="np"/><s n="top"/><s n="f"/></l><r>Mongolsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Mongolia<b/>Wewnętrzna<s n="np"/><s n="top"/><s n="f"/></l><r>Vnitřní<b/>Mongolsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Moskwa<s n="np"/><s n="top"/><s n="f"/></l><r>Moskva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Mozambik<s n="np"/><s n="top"/><s n="mi"/></l><r>Mozambik<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Mołdawia<s n="np"/><s n="top"/><s n="f"/></l><r>Moldavsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Myanmar<s n="np"/><s n="top"/><s n="mi"/></l><r>Myanmar<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+
+    <e><p><l>Morze<b/>Bałtyckie<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Baltské<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Czarne<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Černé<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Czerwone<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Rudé<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Egejskie<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Egejské<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Irlandzkie<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Irské<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Japońskie<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Japonské<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Kaspijskie<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Kaspické<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Martwe<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Mrtvé<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Północne<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Severní<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
+    <e><p><l>Morze<b/>Żółte<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Žluté<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
+
+    <e><p><l>Mojżesz<s n="np"/><s n="ant"/><s n="mp"/></l><r>Mojžíš<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+    <e><p><l>Morfeusz<s n="np"/><s n="ant"/><s n="mp"/></l><r>Morfeus<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+    <e><p><l>Sokrates<s n="np"/><s n="ant"/><s n="mp"/></l><r>Sókratés<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+
+<!-- Adverbs -->
 
      <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>jak<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>gdzie<s n="adv"/><s n="itg"/></l><r>kde<s n="adv"/><s n="itg"/></r></p></e>
