@@ -106,6 +106,7 @@
     <sdef n="rquot"/>
     <sdef n="dim"/>
     <sdef n="uns"/>
+    <sdef n="abbr"/>
   </sdefs>
   
   <pardefs>
@@ -114,6 +115,14 @@
         <p>
           <l>-</l>
           <r>-<s n="guio"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="np__abbr">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="abbr"/></r>
         </p>
       </e>
     </pardef>
@@ -24432,6 +24441,13 @@
     <e lm="gdyby"><i>gdyby</i><par n="by__cnjsub"/></e>
     <e lm="aby"><i>aby</i><par n="by__cnjsub"/></e>
     <e lm="żeby"><i>żeby</i><par n="by__cnjsub"/></e>
+
+    <e lm="np"><i>np</i><par n="np__abbr"/></e>
+    <e lm="tzw"><i>tzw</i><par n="np__abbr"/></e>
+    <e lm="tj"><i>tj</i><par n="np__abbr"/></e>
+    <e lm="km"><i>km</i><par n="np__abbr"/></e>
+    <e lm="kg"><i>kg</i><par n="np__abbr"/></e>
+    <e lm="cm"><i>cm</i><par n="np__abbr"/></e>
 
     <e lm="ale"><i>ale</i><par n="i__cnjcoo"/></e>
     <e lm="i"><i>i</i><par n="i__cnjcoo"/></e>

@@ -76,7 +76,6 @@
 
     <pardef n="např__abbr">
       <e><p><l></l><r><s n="abbr"/></r></p></e>
-      <e r="LR"><p><l>.</l><r><s n="abbr"/></r></p></e>
     </pardef>
 
     <!-- Numerals -->
@@ -21046,6 +21045,7 @@
     <e lm="tzv"><i>tzv</i><par n="např__abbr"/></e>
     <e lm="cca"><i>cca</i><par n="např__abbr"/></e>
     <e lm="atd"><i>atd</i><par n="např__abbr"/></e>
+    <e lm="tj"><i>tj</i><par n="např__abbr"/></e>
 
     <e lm="cm"><i>cm</i><par n="např__abbr"/></e>
     <e lm="km"><i>km</i><par n="např__abbr"/></e>
