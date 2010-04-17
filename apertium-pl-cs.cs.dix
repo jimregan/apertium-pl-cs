@@ -154,13 +154,20 @@
     </pardef>
 
     <pardef n="dv/a__num">
-      <e>       <p>          <l>a</l><r>a<s n="num"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e>       <p>          <l>ou</l><r>a<s n="num"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p>          <l>ěma</l><r>a<s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e>       <p>          <l>a</l><r>a<s n="num"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e r="LR"><p>          <l>ou</l><r>a<s n="num"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e>       <p>          <l>ou</l><r>a<s n="num"/><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e>       <p>          <l>ěma</l><r>a<s n="num"/><s n="m"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>a</l><r>a<s n="num"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ou</l><r>a<s n="num"/><s n="ma"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>ěma</l><r>a<s n="num"/><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>a</l><r>a<s n="num"/><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e r="LR"><p>          <l>ou</l><r>a<s n="num"/><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ou</l><r>a<s n="num"/><s n="ma"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>ěma</l><r>a<s n="num"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>a</l><r>a<s n="num"/><s n="mi"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ou</l><r>a<s n="num"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>ěma</l><r>a<s n="num"/><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>a</l><r>a<s n="num"/><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e r="LR"><p>          <l>ou</l><r>a<s n="num"/><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ou</l><r>a<s n="num"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>ěma</l><r>a<s n="num"/><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
 
       <e>       <p>          <l>ě</l><r>a<s n="num"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
       <e>       <p>          <l>ou</l><r>a<s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -178,12 +185,18 @@
     </pardef>
 
     <pardef n="tř/i__num">
-      <e>       <p>          <l>i</l><r>i<s n="num"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e>       <p>          <l>í</l><r>i<s n="num"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p>          <l>em</l><r>i<s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e>       <p>          <l>i</l><r>i<s n="num"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e>       <p>          <l>ech</l><r>i<s n="num"/><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e>       <p>          <l>emi</l><r>i<s n="num"/><s n="m"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>i</l><r>i<s n="num"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>í</l><r>i<s n="num"/><s n="ma"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>em</l><r>i<s n="num"/><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>i</l><r>i<s n="num"/><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ech</l><r>i<s n="num"/><s n="ma"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>emi</l><r>i<s n="num"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>i</l><r>i<s n="num"/><s n="mi"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>í</l><r>i<s n="num"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>em</l><r>i<s n="num"/><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>i</l><r>i<s n="num"/><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ech</l><r>i<s n="num"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>emi</l><r>i<s n="num"/><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
 
       <e>       <p>          <l>i</l><r>i<s n="num"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
       <e>       <p>          <l>í</l><r>i<s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -201,12 +214,18 @@
     </pardef>
 
     <pardef n="čty/ři__num">
-      <e>       <p>          <l>ři</l><r>ři<s n="num"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e>       <p>          <l>ř</l><r>ři<s n="num"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p>          <l>řem</l><r>ři<s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e>       <p>          <l>ři</l><r>ři<s n="num"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e>       <p>          <l>řech</l><r>ři<s n="num"/><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e>       <p>          <l>řmi</l><r>ři<s n="num"/><s n="m"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>ři</l><r>ři<s n="num"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ř</l><r>ři<s n="num"/><s n="ma"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>řem</l><r>ři<s n="num"/><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>ři</l><r>ři<s n="num"/><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>řech</l><r>ři<s n="num"/><s n="ma"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>řmi</l><r>ři<s n="num"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>ři</l><r>ři<s n="num"/><s n="mi"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ř</l><r>ři<s n="num"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>řem</l><r>ři<s n="num"/><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>ři</l><r>ři<s n="num"/><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>řech</l><r>ři<s n="num"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>řmi</l><r>ři<s n="num"/><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
 
       <e>       <p>          <l>ři</l><r>ři<s n="num"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
       <e>       <p>          <l>ř</l><r>ři<s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
