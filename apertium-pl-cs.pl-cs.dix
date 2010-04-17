@@ -191,8 +191,8 @@
      <e><p><l>siedemnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>sedmnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>osiemnaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>osmnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>osiemnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>osmnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
-     <e r="LR"><p><l>dziewiętnaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>devatnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
-     <e><p><l>dziewiętnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>devatnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>dziewiętnaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>devatenáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>dziewiętnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>devatenáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>dwadzieścia<s n="num"/><s n="qnt"/><s n="mp"/></l><r>dvacet<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>dwadzieścia<s n="num"/><s n="qnt"/><s n="nm"/></l><r>dvacet<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>trzydzieści<s n="num"/><s n="qnt"/><s n="mp"/></l><r>třicet<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
@@ -209,6 +209,8 @@
      <e><p><l>osiemdziesiąt<s n="num"/><s n="qnt"/><s n="nm"/></l><r>osmdesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>dziewięćdziesiąt<s n="num"/><s n="qnt"/><s n="mp"/></l><r>devadesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>dziewięćdziesiąt<s n="num"/><s n="qnt"/><s n="nm"/></l><r>devadesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
+     <e r="LR"><p><l>sto<s n="num"/><s n="qnt"/><s n="mp"/></l><r>sto<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>sto<s n="num"/><s n="qnt"/><s n="nm"/></l><r>sto<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
 
      <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>luty<s n="n"/><s n="mi"/></l><r>únor<s n="n"/><s n="mi"/></r></p></e>
