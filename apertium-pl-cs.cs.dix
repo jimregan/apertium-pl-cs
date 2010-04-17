@@ -19600,8 +19600,8 @@
     <e lm="osmdesát"><i>osmdesát</i><par n="pět__num"/></e>
     <e lm="devadesát"><i>devadesát</i><par n="pět__num"/></e>
     <e lm="dvě stě"><i>dv</i><par n="dv/ě_stě__num"/></e>
-    <e lm="tři sta"><i>dv</i><par n="tř/i_sta__num"/></e>
-    <e lm="čtyři sta"><i>dv</i><par n="čty/ři_sta__num"/></e>
+    <e lm="tři sta"><i>tř</i><par n="tř/i_sta__num"/></e>
+    <e lm="čtyři sta"><i>čty</i><par n="čty/ři_sta__num"/></e>
 
     <!-- Determiners -->
     <e lm="co"><i></i><par n="co__det"/></e>
