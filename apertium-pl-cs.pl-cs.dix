@@ -175,6 +175,12 @@
      <e><p><l>dziewięć<s n="num"/><s n="qnt"/><s n="nm"/></l><r>devět<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>dziesięć<s n="num"/><s n="qnt"/><s n="mp"/></l><r>deset<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>dziesięć<s n="num"/><s n="qnt"/><s n="nm"/></l><r>deset<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>jedenaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>jedenáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>jedenaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>jedenáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>dwanaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>dvanáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>dwanaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>dvanáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>trzynaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>třináct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>trzynaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>třináct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
 
 
      <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
