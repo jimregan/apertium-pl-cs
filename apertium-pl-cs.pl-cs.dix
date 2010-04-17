@@ -351,6 +351,40 @@
     <e r="LR"><p><l>żona<s n="n"/><s n="f"/></l><r>žena<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zima<s n="n"/><s n="f"/></l><r>zima<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zoologia<s n="n"/><s n="f"/></l><r>zoologie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>datować<s n="vblex"/><s n="imperf"/></l><r>datovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>częsty<s n="adj"/></l><r>častý<s n="adj"/></r></p></e>
+    <e><p><l>członek<s n="n"/><s n="mp"/></l><r>člen<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>człowiek<s n="n"/><s n="mp"/></l><r>člověk<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>cło<s n="n"/><s n="nt"/></l><r>clo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>dama<s n="n"/><s n="f"/></l><r>dáma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dar<s n="n"/><s n="mi"/></l><r>dar<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>depresja<s n="n"/><s n="f"/></l><r>deprese<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>demokracja<s n="n"/><s n="f"/></l><r>demokracie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dinozaur<s n="n"/><s n="mi"/></l><r>dinosaurus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dobro<s n="n"/><s n="nt"/></l><r>dobro<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>dobry<s n="adj"/><s n="sint"/></l><r>dobrý<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dobrze<s n="adv"/><s n="sint"/></l><r>dobře<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>dookoła<s n="pr"/></l><r>kolem<s n="pr"/></r></p></e>
+    <e><p><l>demon<s n="n"/><s n="mp"/></l><r>démon<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>deklinacja<s n="n"/><s n="f"/></l><r>deklinace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>delfin<s n="n"/><s n="ma"/></l><r>delfín<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>deizm<s n="n"/><s n="mi"/></l><r>deismus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dialog<s n="n"/><s n="mi"/></l><r>dialog<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>diaspora<s n="n"/><s n="f"/></l><r>diaspora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>diecezja<s n="n"/><s n="f"/></l><r>diecéze<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>doić<s n="vblex"/></l><r>dojit<s n="vblex"/></r></p></e>
+    <e><p><l>doktor<s n="n"/><s n="mp"/></l><r>doktor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>dokładność<s n="n"/><s n="f"/></l><r>přesnost<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dokładny<s n="adj"/></l><r>přesný<s n="adj"/></r></p></e>
+    <e><p><l>dokładnie<s n="adv"/></l><r>přesně<s n="adv"/></r></p></e>
+    <e><p><l>dom<s n="n"/><s n="mi"/></l><r>dům<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dopełniacz<s n="n"/><s n="mi"/></l><r>genitiv<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>wiek<s n="n"/><s n="mi"/></l><r>věk<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dotyk<s n="n"/><s n="mi"/></l><r>dotyk<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dostępny<s n="adj"/></l><r>dostupný<s n="adj"/></r></p></e>
+    <e><p><l>drewno<s n="n"/><s n="nt"/></l><r>dřevo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>dromader<s n="n"/><s n="ma"/></l><r>dromedár<s n="n"/><s n="ma"/></r></p></e>
+
  
      <e><p><l>międzynarodowy<s n="adj"/></l><r>mezinárodní<s n="adj"/></r></p></e>
      <e><p><l>jasnoniebieski<s n="adj"/></l><r>světlemodrý<s n="adj"/></r></p></e>
