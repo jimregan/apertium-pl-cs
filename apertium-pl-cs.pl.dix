@@ -24367,6 +24367,9 @@
     <e lm="ze" r="LR"><p><l>ze</l><r>z<s n="pr"/><s n="ins"/></r></p></e>
     <e lm="z" r="RL"><p><l><a/>z</l><r>z<s n="pr"/></r></p></e>
 
+    <e lm="przez" r="LR"><p><l>przez</l><r>przez<s n="pr"/></r></p></e>
+    <e lm="przeze" r="LR"><p><l>przeze</l><r>przez<s n="pr"/></r></p></e>
+    <e lm="przez" r="RL"><p><l><a/>przez</l><r>przez<s n="pr"/></r></p></e>
     <e lm="bez" r="LR"><p><l>bez</l><r>bez<s n="pr"/></r></p></e>
     <e lm="beze" r="LR"><p><l>beze</l><r>bez<s n="pr"/></r></p></e>
     <e lm="bez" r="RL"><p><l><a/>bez</l><r>bez<s n="pr"/></r></p></e>
