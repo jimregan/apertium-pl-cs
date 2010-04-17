@@ -4,6 +4,7 @@
   <sdefs>
     <sdef n="n"/>
     <sdef n="np"/>
+    <sdef n="sent"/>
     <sdef n="num"/>
     <sdef n="prn"/>
     <sdef n="det"/>
@@ -72,6 +73,18 @@
     <sdef n="cnjadv" c="spojka"/>
   </sdefs>
   <pardefs>
+    <!-- Punctuation -->
+
+    <pardef n="separa">
+      <e>
+        <re>[.\?;:!]</re>
+        <p>
+          <l/>
+          <r><s n="sent"/></r>
+        </p>
+      </e>
+    </pardef>
+ 
     <!-- Abbreviations -->
 
     <pardef n="např__abbr">
@@ -19483,6 +19496,10 @@
     <e lm="za"><i>za</i><par n="za__pr"/></e>
     <e lm="s ohledem na"><i>s<b/>ohledem<b/>na</i><par n="za__pr"/></e>
     <e lm="bez ohledu na"><i>bez<b/>ohledu<b/>na</i><par n="za__pr"/></e>
+    <e lm="z nad"><i>z<b/>nad</i><par n="za__pr"/></e>
+    <e lm="blízko"><i>blízko</i><par n="za__pr"/></e>
+    <e lm="nedaleko"><i>nedaleko</i><par n="za__pr"/></e>
+    <e lm="s výjimkou"><i>s<b/>výjimkou</i><par n="za__pr"/></e>
 
     <!-- Pronouns -->
 
@@ -21040,6 +21057,9 @@
   <section id="final" type="inconditional">
     <e>
       <par n="numeros"/> <!-- Numbers -->
+    </e>
+    <e>
+      <par n="separa"/> 
     </e>
   </section>
 
