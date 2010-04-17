@@ -102,6 +102,11 @@
      <e><p><l>znad<s n="pr"/></l><r>z<b/>nad<s n="pr"/></r></p></e>
      <e><p><l>bez<b/>względu<b/>na<s n="pr"/></l><r>bez<b/>ohledu<b/>na<s n="pr"/></r></p></e>
 
+     <e c="check"><p><l>ku<s n="pr"/></l><r>k<s n="pr"/></r></p></e>
+     <e c="check"><p><l>krom<s n="pr"/></l><r>krom<s n="pr"/></r></p></e>
+     <e c="check"><p><l>naprzeciwko<s n="pr"/></l><r>naproti<s n="pr"/></r></p></e>
+     <e c="check"><p><l>wokół<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
+
      <!-- Pronouns -->
  
      <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
