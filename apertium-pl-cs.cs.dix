@@ -19546,6 +19546,23 @@
     <e lm="osm"><i>osm</i><par n="pět__num"/></e>
     <e lm="devět"><i>dev</i><par n="dev/ět__num"/></e>
     <e lm="deset"><i>des</i><par n="des/et__num"/></e>
+    <e lm="jedenáct"><i>jedenáct</i><par n="pět__num"/></e>
+    <e lm="dvanáct"><i>dvanáct</i><par n="pět__num"/></e>
+    <e lm="třináct"><i>třináct</i><par n="pět__num"/></e>
+    <e lm="čtrnáct"><i>čtrnáct</i><par n="pět__num"/></e>
+    <e lm="patnáct"><i>patnáct</i><par n="pět__num"/></e>
+    <e lm="šestnáct"><i>šestnáct</i><par n="pět__num"/></e>
+    <e lm="sedmnáct"><i>sedmnáct</i><par n="pět__num"/></e>
+    <e lm="osmnáct"><i>osmnáct</i><par n="pět__num"/></e>
+    <e lm="devatenáct"><i>devatenáct</i><par n="pět__num"/></e>
+    <e lm="dvacet"><i>dvacet</i><par n="pět__num"/></e>
+    <e lm="třicet"><i>třicet</i><par n="pět__num"/></e>
+    <e lm="čtyřicet"><i>čtyřicet</i><par n="pět__num"/></e> 
+    <e lm="padesát"><i>padesát</i><par n="pět__num"/></e>
+    <e lm="šedesát"><i>šedesát</i><par n="pět__num"/></e>
+    <e lm="sedmdesát"><i>sedmdesát</i><par n="pět__num"/></e>
+    <e lm="osmdesát"><i>osmdesát</i><par n="pět__num"/></e>
+    <e lm="devadesát"><i>devadesát</i><par n="pět__num"/></e>
 
     <!-- Determiners -->
     <e lm="co"><i></i><par n="co__det"/></e>
