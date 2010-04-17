@@ -26314,6 +26314,10 @@
     <e lm="trzysta"><i>trzyst</i><par n="trzyst/a__num"/></e>
     <e lm="czterysta"><i>czteryst</i><par n="trzyst/a__num"/></e>
     <e lm="pięćset"><i>pię</i><par n="pię/ćset__num"/></e>
+    <e lm="sześćset"><i>sześ</i><par n="pię/ćset__num"/></e>
+    <e lm="siedemset"><i>sied</i><par n="sied/emset__num"/></e>
+    <e lm="osiemset"><i>o</i><par n="o/siemset__num"/></e>
+    <e lm="dziewięćset"><i>dziewię</i><par n="pię/ćset__num"/></e>
     <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__det"/></e>
     <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__prn"/></e>
     <e lm="troje"><i>troj</i><par n="dwoj/e__det"/></e>
