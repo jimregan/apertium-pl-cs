@@ -241,15 +241,69 @@
      <e><p><l>szansa<s n="n"/><s n="f"/></l><r>šance<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>izobara<s n="n"/><s n="f"/></l><r>izobara<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>dziewczyna<s n="n"/><s n="f"/></l><r>dívka<s n="n"/><s n="f"/></r></p></e>
+     <e r="RL"><p><l>dziewczyna<s n="n"/><s n="f"/></l><r>holka<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>ławka<s n="n"/><s n="f"/></l><r>lavice<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>dzięgiel<s n="n"/><s n="mi"/></l><r>andělika<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>mężczyzna<s n="n"/><s n="mp"/></l><r>muž<s n="n"/><s n="ma"/></r></p></e> 
      <e><p><l>plan<s n="n"/><s n="mi"/></l><r>plán<s n="n"/><s n="mi"/></r></p></e> 
      <e><p><l>ewangeliarz<s n="n"/><s n="mi"/></l><r>evangeliář<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>tokamak<s n="n"/><s n="mi"/></l><r>tokamak<s n="n"/><s n="mi"/></r></p></e>
-
-
-     
+    
+     <!--in polish only plural form -->
+     <!--  <e><p><l>słodycze<s n="n"/></l><r>cukrovinka<s n="n"/><s n="f"/></r></p></e> -->
+ 
+     <e><p><l>aktówka<s n="n"/><s n="f"/></l><r>aktovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>banknot<s n="n"/><s n="mi"/></l><r>bankovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>bazylia<s n="n"/><s n="f"/></l><r>bazalka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kora<s n="n"/><s n="f"/></l><r>borka<s n="n"/><s n="f"/></r></p></e>  
+     <e><p><l>tęczówka<s n="n"/><s n="f"/></l><r>duhovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>fajka<s n="n"/><s n="f"/></l><r>fajfka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>fotka<s n="n"/><s n="f"/></l><r>fotka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>fresk<s n="n"/><s n="mi"/></l><r>freska<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>gimnastyka<s n="n"/><s n="f"/></l><r>gymnastka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>gąsienica<s n="n"/><s n="f"/></l><r>housenka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>nagrobek<s n="n"/><s n="mi"/></l><r>hrobka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>humoreska<s n="n"/><s n="f"/></l><r>humoreska<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>rzeżączka<s n="n"/><s n="f"/></l><r>kapavka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kostka<s n="n"/><s n="f"/></l><r>kostka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>koronka<s n="n"/><s n="f"/></l><r>krajka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>modliszka<s n="n"/><s n="f"/></l><r>kudlanka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>pocisk<s n="n"/><s n="mi"/></l><r>kulka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>łopatka<s n="n"/><s n="f"/></l><r>lopatka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kukiełka<s n="n"/><s n="f"/></l><r>loutka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>mandarynka<s n="n"/><s n="f"/></l><r>mandarinka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>matka<s n="n"/><s n="f"/></l><r>matka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>modelka<s n="n"/><s n="f"/></l><r>modelka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>motocykl<s n="n"/><s n="mi"/></l><r>motorka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>muzułmanin<s n="n"/><s n="mp"/></l><r>muslim<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>lalka<s n="n"/><s n="f"/></l><r>panenka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>partnerka<s n="n"/><s n="f"/></l><r>partnerka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kredka<s n="n"/><s n="f"/></l><r>pastelka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>puszka<s n="n"/><s n="f"/></l><r>plechovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>pielucha<s n="n"/><s n="f"/></l><r>plenka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>biustonosz<s n="n"/><s n="mi"/></l><r>podprsenka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>rodzina<s n="n"/><s n="f"/></l><r>rodina<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>rogówka<s n="n"/><s n="f"/></l><r>rohovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>rodzynka<s n="n"/><s n="f"/></l><r>rozinka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>rybka<s n="n"/><s n="f"/></l><r>rybka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ambulans<s n="n"/><s n="mi"/></l><r>sanitka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>zawilec<s n="n"/><s n="mi"/></l><r>sasanka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>zapałka<s n="n"/><s n="f"/></l><r>sirka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>zjeżdżalnia<s n="n"/><s n="f"/></l><r>skluzavka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>trzustka<s n="n"/><s n="f"/></l><r>slinivka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>spojówka<s n="n"/><s n="f"/></l><r>spojivka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>sarna<s n="n"/><s n="f"/></l><r>srnka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>żużel<s n="n"/><s n="mi"/></l><r>struska<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>batuta<s n="n"/><s n="f"/></l><r>taktovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>termos<s n="n"/><s n="mi"/></l><r>termoska<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ciocia<s n="n"/><s n="f"/></l><r>teta<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>trąbka<s n="n"/><s n="f"/></l><r>trubka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>dysza<s n="n"/><s n="f"/></l><r>tryska<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>cudzysłów<s n="n"/><s n="mi"/></l><r>uvozovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>wirtuoz<s n="n"/><s n="mp"/></l><r>virtuos<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>wódka<s n="n"/><s n="f"/></l><r>vodka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>czapla<s n="n"/><s n="f"/></l><r>volavka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>probówka<s n="n"/><s n="f"/></l><r>zkumavka<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>barometr<s n="n"/><s n="mi"/></l><r>barometr<s n="n"/><s n="mi"/></r></p></e>   
      <e><p><l>alkohol<s n="n"/><s n="mi"/></l><r>alkohol<s n="n"/><s n="mi"/></r></p></e> 
      <e><p><l>argot<s n="n"/><s n="mi"/></l><r>argot<s n="n"/><s n="mi"/></r></p></e>   
