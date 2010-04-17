@@ -6484,6 +6484,178 @@
         </p>
       </e>
     </pardef>
+    <pardef n="sied/emset__num">
+      <e>
+        <p>
+          <l>miuset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>emset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miuset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miuset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miuset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miuset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miuset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>emset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miuset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miuset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miuset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miuset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miuset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>emset</l>
+          <r>emset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="o/siemset__num">
+      <e>
+        <p>
+          <l>śmiuset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siemset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiuset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiuset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiuset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiuset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiuset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siemset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiuset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiuset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiuset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiuset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiuset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siemset</l>
+          <r>siemset<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
 
 
     <pardef n="BASE__niebieski">
