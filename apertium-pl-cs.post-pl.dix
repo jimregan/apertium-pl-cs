@@ -235,6 +235,32 @@
     </e>
     <e>
       <p>
+        <l><a/>bez<b/></l>
+        <r>beze<b/></r>
+      </p>
+      <par n="ze"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>bez<b/></l>
+        <r>bez<b/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l><a/>przez<b/></l>
+        <r>przeze<b/></r>
+      </p>
+      <par n="ze"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>przez<b/></l>
+        <r>przez<b/></r>
+      </p>
+    </e>
+    <e>
+      <p>
         <l><a/>przede<b/></l>
         <r>przede<b/></r>
       </p>
