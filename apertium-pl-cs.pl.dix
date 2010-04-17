@@ -15632,6 +15632,111 @@
         <par n="BASE__piwo"/>
       </e>
     </pardef>
+    <pardef n="wesel/e__n">
+      <e>
+        <p>
+          <l>u</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>e<s n="n"/></r>
+        </p>
+        <par n="BASE__piwo"/>
+      </e>
+    </pardef>
+    <pardef n="wol/e__n">
+      <e>
+        <p>
+          <l>u</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>e<s n="n"/></r>
+        </p>
+        <par n="BASE__piwo"/>
+      </e>
+    </pardef>
+    <pardef n="pnącz/e__n">
+      <e>
+        <p>
+          <l>u</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>e<s n="n"/></r>
+        </p>
+        <par n="BASE__piwo"/>
+      </e>
+    </pardef>
+    <pardef n="k/oło__n">
+      <e>
+        <p>
+          <l>ole</l>
+          <r>oło<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ół</l>
+          <r>oło<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oł</l>
+          <r>oło<s n="n"/></r>
+        </p>
+        <par n="BASE__piwo"/>
+      </e>
+    </pardef>
+    <pardef n="ci/ało__n">
+      <e>
+        <p>
+          <l>ele</l>
+          <r>ało<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ał</l>
+          <r>ało<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ał</l>
+          <r>ało<s n="n"/></r>
+        </p>
+        <par n="BASE__piwo"/>
+      </e>
+    </pardef>
     <pardef n="muze/um__n">
       <e>
         <p>
@@ -26463,6 +26568,11 @@
     <e lm="piwo"><i>piw</i><par n="piw/o__n"/></e>
     <e lm="miasto"><i>mi</i><par n="mi/asto__n"/></e>
     <e lm="słowo"><i>sł</i><par n="sł/owo__n"/></e>
+    <e lm="wesele"><i>wesel</i><par n="wesel/e__n"/></e>
+    <e lm="wole"><i>wol</i><par n="wol/e__n"/></e>
+    <e lm="pnącze"><i>pnącz</i><par n="pnącz/e__n"/></e>
+    <e lm="koło"><i>k</i><par n="k/oło__n"/></e>
+    <e lm="ciało"><i>ci</i><par n="ci/ało__n"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
     <e lm="ławka"><i>ław</i><par n="mat/ka__n"/></e>
     <e lm="książka"><i>książ</i><par n="mat/ka__n"/></e>

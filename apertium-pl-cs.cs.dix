@@ -34,6 +34,7 @@
 
     <sdef n="sg"     c="singulár"/>
     <sdef n="pl"     c="plurál"/>
+    <sdef n="du"     c="duál"/>
     <sdef n="sp"     c=""/>
 
     <sdef n="pr"/>
@@ -257,6 +258,41 @@
       <e r="LR">       <p>          <l>íti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
       <e>       <p>          <l>eti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
       <e r="LR">       <p>          <l>íti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+    </pardef>
+    <pardef n="st/o__num">
+      <e>       <p>          <l>o</l><r>o<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>a</l><r>o<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>u</l><r>o<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>o</l><r>o<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>o</l><r>o<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>u</l><r>o<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>em</l><r>o<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+    </pardef>
+    <pardef n="s/to__n">
+      <e>       <p>          <l>to</l><r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ta</l><r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>tu</l><r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>to</l><r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>to</l><r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>tu</l><r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>tem</l><r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r></p></e>
+
+      <e>       <p>          <l>tě</l><r>to<s n="n"/><s n="nt"/><s n="du"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>et</l><r>to<s n="n"/><s n="nt"/><s n="du"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>tům</l><r>to<s n="n"/><s n="nt"/><s n="du"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>ta</l><r>to<s n="n"/><s n="nt"/><s n="du"/><s n="acc"/></r></p></e>
+      <e r="LR">       <p>          <l>tě</l><r>to<s n="n"/><s n="nt"/><s n="du"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>tě</l><r>to<s n="n"/><s n="nt"/><s n="du"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>tech</l><r>to<s n="n"/><s n="nt"/><s n="du"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>ty</l><r>to<s n="n"/><s n="nt"/><s n="du"/><s n="ins"/></r></p></e>
+
+      <e>       <p>          <l>ta</l><r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>et</l><r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>tům</l><r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>ta</l><r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ta</l><r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>tech</l><r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>ty</l><r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
 
     <pardef n="kolik__det"> 
@@ -19601,6 +19637,8 @@
     <e lm="sedmdesát"><i>sedmdesát</i><par n="pět__num"/></e>
     <e lm="osmdesát"><i>osmdesát</i><par n="pět__num"/></e>
     <e lm="devadesát"><i>devadesát</i><par n="pět__num"/></e>
+    <e lm="sto"><i>st</i><par n="st/o__num"/></e>
+    <e lm="sto"><i>s</i><par n="s/to__n"/></e>
     <e lm="dvě stě"><i>dv</i><par n="dv/ě_stě__num"/></e>
     <e lm="tři sta"><i>tř</i><par n="tř/i_sta__num"/></e>
     <e lm="čtyři sta"><i>čty</i><par n="čty/ři_sta__num"/></e>
