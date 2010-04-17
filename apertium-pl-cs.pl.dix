@@ -24353,6 +24353,9 @@
   <section id="main" type="standard">
     <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
     <e lm="na"><p><l>na</l><r>na<s n="pr"/></r></p></e>
+    <e lm="oprócz"><p><l>oprócz</l><r>oprócz<s n="pr"/></r></p></e>
+    <e lm="wokół"><p><l>wokół</l><r>wokół<s n="pr"/></r></p></e>
+    <e lm="naprzeciwko"><p><l>naprzeciwko</l><r>naprzeciwko<s n="pr"/></r></p></e>
     <e lm="od" r="LR"><p><l>od</l><r>od<s n="pr"/></r></p></e>
     <e lm="ode" r="LR"><p><l>ode</l><r>od<s n="pr"/></r></p></e>
     <e lm="od" r="RL"><p><l><a/>od</l><r>od<s n="pr"/></r></p></e>
