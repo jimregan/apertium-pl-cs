@@ -15737,6 +15737,220 @@
         <par n="BASE__piwo"/>
       </e>
     </pardef>
+    <pardef n="szk/ło__n">
+      <e>
+        <p>
+          <l>le</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ieł</l>
+          <r>ło<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ł</l>
+          <r>ło<s n="n"/></r>
+        </p>
+        <par n="BASE__piwo"/>
+      </e>
+    </pardef>
+    <pardef n="przysł/owie__n">
+      <e>
+        <p>
+          <l>owiu</l>
+          <r>owie<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>owie<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owi</l>
+          <r>owie<s n="n"/></r>
+        </p>
+        <par n="BASE__piwo"/>
+      </e>
+    </pardef>
+    <pardef n="zi/ele__n">
+      <e>
+        <p>
+          <l>ele</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ela</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>elu</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ele</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>elem</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>elu</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ele</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oła</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ół</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ołom</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oła</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ołami</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ołach</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oła</l>
+          <r>ele<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="s/to__n">
+      <e>
+        <p>
+          <l>to</l>
+          <r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tu</l>
+          <r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>to</l>
+          <r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>toma</l>
+          <r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tu</l>
+          <r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>to</l>
+          <r>to<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>et</l>
+          <r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tom</l>
+          <r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tami</l>
+          <r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tach</l>
+          <r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="muze/um__n">
       <e>
         <p>
@@ -26573,6 +26787,10 @@
     <e lm="pnącze"><i>pnącz</i><par n="pnącz/e__n"/></e>
     <e lm="koło"><i>k</i><par n="k/oło__n"/></e>
     <e lm="ciało"><i>ci</i><par n="ci/ało__n"/></e>
+    <e lm="sto"><i>s</i><par n="s/to__n"/></e>
+    <e lm="przysłowie"><i>przysł</i><par n="przysł/owie__n"/></e>
+    <e lm="szkło"><i>szk</i><par n="szk/ło__n"/></e>
+    <e lm="ziele"><i>zi</i><par n="zi/ele__n"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
     <e lm="ławka"><i>ław</i><par n="mat/ka__n"/></e>
     <e lm="książka"><i>książ</i><par n="mat/ka__n"/></e>

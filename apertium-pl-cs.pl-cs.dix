@@ -44,6 +44,7 @@
     <sdef n="CD"/>
     <sdef n="sg"/>
     <sdef n="pl"/>
+    <sdef n="du"/>
     <sdef n="mf"/>
     <sdef n="p1"/>
     <sdef n="p2"/>
@@ -232,6 +233,9 @@
      <e><p><l>trzysta<s n="num"/><s n="qnt"/><s n="nm"/></l><r>tři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
      <e r="LR"><p><l>czterysta<s n="num"/><s n="qnt"/><s n="mp"/></l><r>čtyři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>czterysta<s n="num"/><s n="qnt"/><s n="nm"/></l><r>čtyři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
+     <e><p><l>sto<s n="n"/><s n="nt"/><s n="sg"/></l><r>sto<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
+     <e><p><l>sto<s n="n"/><s n="nt"/><s n="pl"/></l><r>sto<s n="n"/><s n="nt"/><s n="pl"/></r></p></e>
+     <e r="RL"><p><l>sto<s n="n"/><s n="nt"/><s n="pl"/></l><r>sto<s n="n"/><s n="nt"/><s n="du"/></r></p></e>
 
      <e r="LR"><p><l>kilka<s n="det"/><s n="qnt"/><s n="mp"/></l><r>několik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>kilka<s n="det"/><s n="qnt"/><s n="nm"/></l><r>několik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e> 
