@@ -5706,6 +5706,300 @@
         <par n="BASE__dwa"/>
       </e>
     </pardef>
+    <pardef n="pię/ć__num">
+      <e>
+        <p>
+          <l>ciu</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ć</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciu</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciu</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciu</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciu</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciu</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ć</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciu</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciu</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>cioma</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>cioma</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciu</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciu</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ciu</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ć</l>
+          <r>ć<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="sied/em__num">
+      <e>
+        <p>
+          <l>miu</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miu</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miu</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miu</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miu</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miu</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miu</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miu</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oma</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>oma</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miu</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miu</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>miu</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r>em<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="o/siem__num">
+      <e>
+        <p>
+          <l>śmiu</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siem</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiu</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiu</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiu</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiu</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiu</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siem</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiu</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiu</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>sioma</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>sioma</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiu</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiu</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>śmiu</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>siem</l>
+          <r>siem<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__niebieski">
       <e>
         <p>
@@ -24736,6 +25030,12 @@
     <e lm="dwa"><i>dw</i><par n="dw/a__num"/></e>
     <e lm="oba"><i>ob</i><par n="ob/a__det"/></e>
     <e lm="oba"><i>ob</i><par n="ob/a__prn"/></e>
+    <e lm="pięć"><i>pię</i><par n="pię/ć__num"/></e>
+    <e lm="sześć"><i>sześ</i><par n="pię/ć__num"/></e>
+    <e lm="siedem"><i>sied</i><par n="sied/em__num"/></e>
+    <e lm="osiem"><i>o</i><par n="o/siem__num"/></e>
+    <e lm="dziwięć"><i>dziewię</i><par n="pię/ć__num"/></e>
+    <e lm="dzisięć"><i>dziesię</i><par n="pię/ć__num"/></e>
     <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__det"/></e>
     <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__prn"/></e>
     <e lm="troje"><i>troj</i><par n="dwoj/e__det"/></e>

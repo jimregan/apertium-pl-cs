@@ -15,6 +15,7 @@
     <sdef n="ma"/>
     <sdef n="mp"/>
     <sdef n="nt"/>
+    <sdef n="nm"/>
     <sdef n="vbser"/>
     <sdef n="vbhaver"/>
     <sdef n="vblex"/>
@@ -157,8 +158,10 @@
      <e><p><l>dwa<s n="num"/></l><r>dva<s n="num"/></r></p></e>
      <e><p><l>trzy<s n="num"/></l><r>tři<s n="num"/></r></p></e>
      <e><p><l>cztery<s n="num"/></l><r>čtyři<s n="num"/></r></p></e>
-     <e><p><l>pięć<s n="num"/></l><r>pět<s n="num"/></r></p></e>
-     <e><p><l>sześć<s n="num"/></l><r>šest<s n="num"/></r></p></e>
+     <e r="LR"><p><l>pięć<s n="num"/><s n="qnt"/><s n="mp"/></l><r>pět<s n="num"/><s n="mf"/></r></p></e>
+     <e><p><l>pięć<s n="num"/><s n="qnt"/><s n="nm"/></l><r>pět<s n="num"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>sześć<s n="num"/><s n="qnt"/><s n="mp"/></l><r>šest<s n="num"/><s n="mf"/></r></p></e>
+     <e><p><l>sześć<s n="num"/><s n="qnt"/><s n="nm"/></l><r>šest<s n="num"/><s n="mf"/></r></p></e>
 
 
      <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
