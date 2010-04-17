@@ -156,8 +156,10 @@
      <!-- Numerals -->
      <e><p><l>jeden<s n="num"/></l><r>jeden<s n="num"/></r></p></e>
      <e><p><l>dwa<s n="num"/></l><r>dva<s n="num"/></r></p></e>
-     <e><p><l>trzy<s n="num"/></l><r>tři<s n="num"/></r></p></e>
-     <e><p><l>cztery<s n="num"/></l><r>čtyři<s n="num"/></r></p></e>
+     <e r="LR"><p><l>trzy<s n="num"/><s n="mp"/></l><r>tři<s n="num"/><s n="mf"/></r></p></e>
+     <e><p><l>trzy<s n="num"/><s n="nm"/></l><r>tři<s n="num"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>cztery<s n="num"/><s n="mp"/></l><r>čtyři<s n="num"/><s n="mf"/></r></p></e>
+     <e><p><l>cztery<s n="num"/><s n="nm"/></l><r>čtyři<s n="num"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>pięć<s n="num"/><s n="qnt"/><s n="mp"/></l><r>pět<s n="num"/><s n="mf"/></r></p></e>
      <e><p><l>pięć<s n="num"/><s n="qnt"/><s n="nm"/></l><r>pět<s n="num"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>sześć<s n="num"/><s n="qnt"/><s n="mp"/></l><r>šest<s n="num"/><s n="mf"/></r></p></e>
