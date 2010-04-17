@@ -15787,6 +15787,59 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__anatomia">
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="anatomi/a__n">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="n"/></r>
+        </p>
+        <par n="BASE__anatomia"/>
+      </e>
+    </pardef>
     <pardef n="BASE__filozofia">
       <e>
         <p>
@@ -26830,9 +26883,9 @@
     <e lm="chemia"><i>chemi</i><par n="filozofi/a__n"/></e>
     <e lm="alergia"><i>alergi</i><par n="filozofi/a__n"/></e>
     <e lm="amnestia"><i>amnesti</i><par n="filozofi/a__n"/></e>
-    <e lm="anatomia"><i>anatomi</i><par n="filozofi/a__n"/></e>
+    <e lm="anatomia"><i>anatomi</i><par n="anatomi/a__n"/></e>
     <e lm="apostasia"><i>apostasi</i><par n="filozofi/a__n"/></e>
-    <e lm="astronomia"><i>astronomi</i><par n="filozofi/a__n"/></e>
+    <e lm="astronomia"><i>astronomi</i><par n="astronomi/a__n"/></e>
     <e lm="dialektologia"><i>dialektologi</i><par n="filozofi/a__n"/></e>
     <e lm="ekologia"><i>ekologi</i><par n="filozofi/a__n"/></e>
     <e lm="empatia"><i>empati</i><par n="filozofi/a__n"/></e>
@@ -26872,7 +26925,7 @@
     <e lm="relacja"><i>relac</i><par n="dysertac/ja__n"/></e>
     <e lm="subwencja"><i>subwenc</i><par n="dysertac/ja__n"/></e>
     <e lm="aksjologia"><i>aksjologi</i><par n="filozofi/a__n"/></e>
-    <e lm="apatia"><i>apati</i><par n="filozofi/a__n"/></e>
+    <e lm="apatia"><i>apati</i><par n="anatomi/a__n"/></e>
     <e lm="demagogia"><i>demagogi</i><par n="filozofi/a__n"/></e>
     <e lm="idea"><i>ide</i><par n="filozofi/a__n"/></e>
     <e lm="ksenofobia"><i>ksenofobi</i><par n="filozofi/a__n"/></e>
