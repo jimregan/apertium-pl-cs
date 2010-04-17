@@ -181,6 +181,18 @@
      <e><p><l>dwanaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>dvanáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>trzynaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>třináct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>trzynaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>třináct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>czternaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>čtrnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>czternaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>čtrnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>piętnaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>patnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>piętnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>patnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>szesnaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>šestnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>szesnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>šestnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>siedemnaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>sedmnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>siedemnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>sedmnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>osiemnaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>osmnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>osiemnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>osmnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>dziewiętnaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>devatnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>dziewiętnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>devatnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
 
 
      <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>

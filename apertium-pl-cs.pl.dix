@@ -5810,6 +5810,204 @@
         </p>
       </e>
     </pardef>
+    <pardef n="dw/anaście__num">
+      <e>
+        <p>
+          <l>unastu</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>anaście</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unastu</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unastu</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unastu</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unastu</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unastu</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>anaście</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unastu</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unastu</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>unastoma</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>unastoma</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unastu</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unastu</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unastu</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>anaście</l>
+          <r>anaście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="jedena/ście__num">
+      <e>
+        <p>
+          <l>stu</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ście</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>stu</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>stu</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>stu</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>stu</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>stu</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ście</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>stu</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>stu</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>stoma</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>stoma</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>stu</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>stu</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>stu</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ście</l>
+          <r>ście<s n="num"/><s n="qnt"/><s n="nm"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+
     <pardef n="BASE__niebieski">
       <e>
         <p>
@@ -24856,6 +25054,9 @@
     <e lm="osiem"><i>o</i><par n="o/siem__num"/></e>
     <e lm="dziwięć"><i>dziewię</i><par n="pię/ć__num"/></e>
     <e lm="dzisięć"><i>dziesię</i><par n="pię/ć__num"/></e>
+    <e lm="jedenaście"><i>jedena</i><par n="jedena/ście__num"/></e>
+    <e lm="dwanaście"><i>dw</i><par n="dw/anaście__num"/></e>
+    <e lm="kilkanaście"><i>kilk</i><par n="dw/anaście__num"/></e>
     <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__det"/></e>
     <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__prn"/></e>
     <e lm="troje"><i>troj</i><par n="dwoj/e__det"/></e>
