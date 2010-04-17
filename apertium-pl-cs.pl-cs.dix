@@ -30,6 +30,7 @@
     <sdef n="prn"/>
     <sdef n="qnt"/>
     <sdef n="dem"/>
+    <sdef n="ind"/>
 
     <sdef n="nom"/>
     <sdef n="gen"/>
@@ -128,6 +129,10 @@
      <e><p><l>to<s n="det"/><s n="dem"/></l><r>to<s n="det"/><s n="dem"/></r></p></e>
      <e r="RL"><p><l>to<s n="det"/><s n="dem"/></l><r>toto<s n="det"/><s n="dem"/></r></p></e>
      <e><p><l>tamto<s n="det"/><s n="dem"/></l><r>tamto<s n="det"/><s n="dem"/></r></p></e>
+
+     <e><p><l>co<s n="det"/><s n="ind"/></l><r>co<s n="det"/><s n="ind"/></r></p></e>
+
+     <e><p><l>co<s n="det"/><s n="itg"/></l><r>co<s n="det"/><s n="itg"/></r></p></e>
 
 
      <!-- Numerals -->
