@@ -160,10 +160,18 @@
      <e><p><l>trzy<s n="num"/><s n="nm"/></l><r>tři<s n="num"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>cztery<s n="num"/><s n="mp"/></l><r>čtyři<s n="num"/><s n="mf"/></r></p></e>
      <e><p><l>cztery<s n="num"/><s n="nm"/></l><r>čtyři<s n="num"/><s n="mf"/></r></p></e>
-     <e r="LR"><p><l>pięć<s n="num"/><s n="qnt"/><s n="mp"/></l><r>pět<s n="num"/><s n="mf"/></r></p></e>
-     <e><p><l>pięć<s n="num"/><s n="qnt"/><s n="nm"/></l><r>pět<s n="num"/><s n="mf"/></r></p></e>
-     <e r="LR"><p><l>sześć<s n="num"/><s n="qnt"/><s n="mp"/></l><r>šest<s n="num"/><s n="mf"/></r></p></e>
-     <e><p><l>sześć<s n="num"/><s n="qnt"/><s n="nm"/></l><r>šest<s n="num"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>pięć<s n="num"/><s n="qnt"/><s n="mp"/></l><r>pět<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>pięć<s n="num"/><s n="qnt"/><s n="nm"/></l><r>pět<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>sześć<s n="num"/><s n="qnt"/><s n="mp"/></l><r>šest<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>sześć<s n="num"/><s n="qnt"/><s n="nm"/></l><r>šest<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>siedem<s n="num"/><s n="qnt"/><s n="mp"/></l><r>sedm<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>siedem<s n="num"/><s n="qnt"/><s n="nm"/></l><r>sedm<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>osiem<s n="num"/><s n="qnt"/><s n="mp"/></l><r>osm<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>osiem<s n="num"/><s n="qnt"/><s n="nm"/></l><r>osm<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>dziewięć<s n="num"/><s n="qnt"/><s n="mp"/></l><r>devět<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>dziewięć<s n="num"/><s n="qnt"/><s n="nm"/></l><r>devět<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>dziesięć<s n="num"/><s n="qnt"/><s n="mp"/></l><r>deset<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>dziesięć<s n="num"/><s n="qnt"/><s n="nm"/></l><r>deset<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
 
 
      <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>

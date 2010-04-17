@@ -216,23 +216,45 @@
     </pardef>
 
     <pardef n="pět__num">
-      <e>       <p>          <l></l><r><s n="num"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>       <p>          <l>i</l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p>          <l>i</l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e>       <p>          <l></l><r><s n="num"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e>       <p>          <l></l><r><s n="num"/><s n="mf"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e>       <p>          <l>i</l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e>       <p>          <l>i</l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l></l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>i</l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>i</l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l></l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l></l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>i</l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>i</l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
 
     <pardef n="šest__num">
-      <e>       <p>          <l></l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e>       <p>          <l>i</l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p>          <l>i</l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e>       <p>          <l></l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e>       <p>          <l></l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="voc"/></r></p></e>
-      <e>       <p>          <l></l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e>       <p>          <l>i</l><r><s n="num"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l></l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>i</l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>i</l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l></l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l></l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l></l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>i</l><r><s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+    </pardef>
+    <pardef n="dev/ět__num">
+      <e>       <p>          <l>ět</l><r>ět<s n="num"/><s n="qnt"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>íti</l><r>ět<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>íti</l><r>ět<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>ět</l><r>ět<s n="num"/><s n="qnt"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ět</l><r>ět<s n="num"/><s n="qnt"/><s n="mf"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>íti</l><r>ět<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>íti</l><r>ět<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+    </pardef>
+    <pardef n="des/et__num">
+      <e>       <p>          <l>et</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>eti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e r="LR">       <p>          <l>íti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>eti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e r="LR">       <p>          <l>íti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>et</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>et</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>eti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e r="LR">       <p>          <l>íti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>eti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e r="LR">       <p>          <l>íti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
 
     <!-- copied from cs-sl, so probably wrong. It's not a number, at least -->
@@ -19519,6 +19541,10 @@
     <e lm="čtyři"><i>čty</i><par n="čty/ři__num"/></e>
     <e lm="pět"><i>pět</i><par n="pět__num"/></e>
     <e lm="šest"><i>šest</i><par n="šest__num"/></e>
+    <e lm="sedm"><i>sedm</i><par n="pět__num"/></e>
+    <e lm="osm"><i>osm</i><par n="pět__num"/></e>
+    <e lm="devět"><i>dev</i><par n="dev/ět__num"/></e>
+    <e lm="deset"><i>des</i><par n="des/et__num"/></e>
 
     <!-- Determiners -->
     <e lm="co"><i></i><par n="co__det"/></e>
