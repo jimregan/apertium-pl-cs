@@ -822,6 +822,45 @@
       <e>       <p><l>rých</l><r>rý<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
 
+    <pardef n="/co__prn">
+      <e>
+        <p>
+          <l>co</l>
+          <r>co<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čeho</l>
+          <r>co<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čemu</l>
+          <r>co<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>co</l>
+          <r>co<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čim</l>
+          <r>co<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čem</l>
+          <r>co<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
 
 
 
@@ -19462,6 +19501,7 @@
 
     <e lm="kdo"><i>k</i><par n="k/do__prn"/></e>
     <e lm="který"><i>kte</i><par n="kte/rý__prn"/></e>
+    <e lm="co"><i></i><par n="/co__prn"/></e>
 
 
 

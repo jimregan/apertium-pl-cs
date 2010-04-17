@@ -1882,6 +1882,45 @@
         <par n="BASE__trzeci"/>
       </e>
     </pardef>
+    <pardef n="c/o__det">
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zego</l>
+          <r>o<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zemu</l>
+          <r>o<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zym</l>
+          <r>o<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zym</l>
+          <r>o<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="głup/i__adj">
       <e>
         <p>
@@ -24399,6 +24438,7 @@
     <e lm="kto"><i>k</i><par n="k/to__prn"/></e>
 
     <e lm="to"><i></i><par n="/to__det"/></e>
+    <e lm="co"><i>c</i><par n="c/o__det"/></e>
     <e lm="tamto"><i>tam</i><par n="tam/to__det"/></e>
     <e lm="jej"><i>jej</i><par n="jej__det"/></e>
     <e lm="jego"><i>jego</i><par n="jej__det"/></e>
