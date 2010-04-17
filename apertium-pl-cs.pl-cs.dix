@@ -1185,6 +1185,10 @@
 
      <e><p><l>np<s n="abbr"/></l><r>např<s n="abbr"/></r></p></e>
      <e><p><l>tzw<s n="abbr"/></l><r>tzv<s n="abbr"/></r></p></e>
+     <e><p><l>ca<s n="abbr"/></l><r>cca<s n="abbr"/></r></p></e>
+     <e><p><l>itd<s n="abbr"/></l><r>atd<s n="abbr"/></r></p></e>
+     <e r="RL"><p><l>itd<s n="abbr"/></l><r>apod<s n="abbr"/></r></p></e>
+     <e r="RL"><p><l>itd<s n="abbr"/></l><r>aj<s n="abbr"/></r></p></e>
      <e><p><l>tj<s n="abbr"/></l><r>tj<s n="abbr"/></r></p></e>
 
      <e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>

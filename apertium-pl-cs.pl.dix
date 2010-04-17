@@ -24444,6 +24444,8 @@
 
     <e lm="np"><i>np</i><par n="np__abbr"/></e>
     <e lm="tzw"><i>tzw</i><par n="np__abbr"/></e>
+    <e lm="itd"><i>itd</i><par n="np__abbr"/></e>
+    <e lm="ca"><i>ca</i><par n="np__abbr"/></e>
     <e lm="tj"><i>tj</i><par n="np__abbr"/></e>
     <e lm="km"><i>km</i><par n="np__abbr"/></e>
     <e lm="kg"><i>kg</i><par n="np__abbr"/></e>
