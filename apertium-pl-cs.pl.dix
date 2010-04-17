@@ -11386,6 +11386,15 @@
         </p>
       </e>
     </pardef>
+    <pardef n="inn/y__det">
+      <e>
+        <p>
+          <l></l>
+          <r>y<s n="det"/><s n="ind"/></r>
+        </p>
+        <par n="BASE__nowy"/>
+      </e>
+    </pardef>
     <pardef n="BASE__zły">
       <e>
         <p>
@@ -26139,6 +26148,7 @@
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
     <e lm="kto"><i>k</i><par n="k/to__prn"/></e>
     <e lm="który"><i>któr</i><par n="któr/y__prn"/></e>
+    <e lm="inny"><i>inn</i><par n="inn/y__det"/></e>
 
     <e lm="to"><i></i><par n="/to__det"/></e>
     <e lm="co"><i>c</i><par n="c/o__det"/></e>
@@ -26158,6 +26168,7 @@
     <e lm="ile"><i>il</i><par n="il/e__det"/></e>
     <e lm="ile"><i>il</i><par n="il/e__prn"/></e>
     <e lm="ileś"><i>il</i><par n="il/eś__prn"/></e>
+    <e lm="kilka"><i>kilk</i><par n="kilk/a__det"/></e>
 
     <e lm="pierwszy"><i>pierw</i><par n="pierw/szy__det"/></e>
     <e lm="drugi"><i>dru</i><par n="dru/gi__det"/></e>

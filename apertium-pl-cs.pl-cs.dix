@@ -147,7 +147,6 @@
      <e><p><l>tyle<s n="det"/><s n="qnt"/><s n="nm"/></l><r>tolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
 
      <e><p><l>dużo<s n="det"/><s n="qnt"/></l><r>mnoho<s n="det"/><s n="qnt"/></r></p></e>
-     <e><p><l>kilka<s n="det"/><s n="qnt"/></l><r>několik<s n="det"/><s n="qnt"/></r></p></e>
 
      <e><p><l>to<s n="det"/><s n="dem"/></l><r>to<s n="det"/><s n="dem"/></r></p></e>
      <e r="RL"><p><l>to<s n="det"/><s n="dem"/></l><r>toto<s n="det"/><s n="dem"/></r></p></e>
@@ -219,6 +218,9 @@
      <e><p><l>trzysta<s n="num"/><s n="qnt"/><s n="nm"/></l><r>tři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
      <e r="LR"><p><l>czterysta<s n="num"/><s n="qnt"/><s n="mp"/></l><r>čtyři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>czterysta<s n="num"/><s n="qnt"/><s n="nm"/></l><r>čtyři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
+
+     <e r="LR"><p><l>kilka<s n="det"/><s n="qnt"/><s n="mp"/></l><r>několik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>kilka<s n="det"/><s n="qnt"/><s n="nm"/></l><r>několik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e> 
 
      <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>luty<s n="n"/><s n="mi"/></l><r>únor<s n="n"/><s n="mi"/></r></p></e>
