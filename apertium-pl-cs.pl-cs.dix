@@ -216,6 +216,10 @@
      <e r="LR"><p><l>dwieście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>dvě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/></r></p></e>
      <e><p><l>dwieście<s n="num"/><s n="qnt"/><s n="na"/></l><r>dvě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/></r></p></e> 
      <e><p><l>dwieście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>dvě<b/>stě<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
+     <e r="LR"><p><l>trzysta<s n="num"/><s n="qnt"/><s n="mp"/></l><r>tři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>trzysta<s n="num"/><s n="qnt"/><s n="nm"/></l><r>tři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
+     <e r="LR"><p><l>czterysta<s n="num"/><s n="qnt"/><s n="mp"/></l><r>čtyři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>czterysta<s n="num"/><s n="qnt"/><s n="nm"/></l><r>čtyři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
 
      <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>luty<s n="n"/><s n="mi"/></l><r>únor<s n="n"/><s n="mi"/></r></p></e>
