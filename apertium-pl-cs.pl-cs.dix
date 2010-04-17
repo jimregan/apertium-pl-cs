@@ -139,10 +139,14 @@
      <e><p><l>mój<s n="det"/></l><r>můj<s n="det"/></r></p></e>
      <e><p><l>twój<s n="det"/></l><r>tvůj<s n="det"/></r></p></e>
      <e><p><l>swój<s n="det"/></l><r>svůj<s n="det"/></r></p></e>
+
      <e r="LR"><p><l>ile<s n="det"/><s n="qnt"/></l><r>kolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="RL"><p><l>ile<s n="det"/><s n="qnt"/><s n="GD"/></l><r>kolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>tyle<s n="det"/><s n="qnt"/></l><r>tolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="RL"><p><l>tyle<s n="det"/><s n="qnt"/><s n="GD"/></l><r>tolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
+
+     <e><p><l>dużo<s n="det"/><s n="qnt"/></l><r>mnoho<s n="det"/><s n="qnt"/></r></p></e>
+     <e><p><l>klika<s n="det"/><s n="qnt"/></l><r>několik<s n="det"/><s n="qnt"/></r></p></e>
 
      <e><p><l>to<s n="det"/><s n="dem"/></l><r>to<s n="det"/><s n="dem"/></r></p></e>
      <e r="RL"><p><l>to<s n="det"/><s n="dem"/></l><r>toto<s n="det"/><s n="dem"/></r></p></e>

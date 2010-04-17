@@ -257,10 +257,11 @@
       <e r="LR">       <p>          <l>íti</l><r>et<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
 
-    <!-- copied from cs-sl, so probably wrong. It's not a number, at least -->
-    <pardef n="kolik__det">
+    <pardef n="kolik__det"> 
+      <!-- kolik 'how many', několik 'several', tolik 'so many', and mnoho 'much, many' all 
+           follow the same paradigm, with the desinence -a in all oblique cases.  -->
       <e><p>          <l></l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p>          <l></l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p>          <l>a</l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
       <e><p>          <l>a</l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p>          <l>a</l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
       <e><p>          <l>a</l><r><s n="det"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
@@ -19557,6 +19558,9 @@
     <e lm="svůj"><i>sv</i><par n="m/ůj__det"/></e>
     <e lm="jiný"><i>jin</i><par n="jin/ý__det"/></e>
     <e lm="kolik"><i>kolik</i><par n="kolik__det"/></e>
+    <e lm="několik"><i>několik</i><par n="kolik__det"/></e>
+    <e lm="mnoho"><i>mnoho</i><par n="kolik__det"/></e>
+    <e lm="tolik"><i>tolik</i><par n="kolik__det"/></e>
 
     <!-- Adjectives -->
     <!-- FIXME: add 'nej' -->
