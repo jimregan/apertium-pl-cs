@@ -19,6 +19,7 @@
       <attr-item tags="f"/>
       <attr-item tags="mf"/>
       <attr-item tags="nt"/>
+      <attr-item tags="nm"/>
       <attr-item tags="GD"/>
     </def-attr>
     <def-attr n="nbr">
@@ -72,6 +73,32 @@
             <let>
               <clip pos="1" part="pers"/>
               <lit-tag v="p3"/>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="1" part="nbr"/>
+                  <lit-tag v="pl"/>
+                </equal>
+                <or>
+                  <equal>
+                    <clip pos="1" part="gen"/>
+                    <lit-tag v="nt"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" part="gen"/>
+                    <lit-tag v="f"/>
+                  </equal>
+                </or>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" part="gen"/>
+              <lit-tag v="nm"/>
             </let>
           </when>
         </choose>
