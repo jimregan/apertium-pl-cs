@@ -405,6 +405,54 @@
     <e><p><l>czekoladowy<s n="adj"/></l><r>čokoládový<s n="adj"/></r></p></e>
     <e><p><l>czerwony<s n="adj"/></l><r>červený<s n="adj"/></r></p></e>
     <e><p><l>czeski<s n="adj"/></l><r>český<s n="adj"/></r></p></e>
+    <e><p><l>czytelny<s n="adj"/></l><r>čitelný<s n="adj"/></r></p></e>
+    <e><p><l>azerski<s n="adj"/></l><r>ázerbajdžánsky<s n="adj"/></r></p></e>
+    <e><p><l>bliski<s n="adj"/></l><r>blízký<s n="adj"/></r></p></e>
+    <e><p><l>egipski<s n="adj"/></l><r>egyptský<s n="adj"/></r></p></e>
+    <e><p><l>europejski<s n="adj"/></l><r>evropský<s n="adj"/></r></p></e>
+    <e><p><l>farerski<s n="adj"/></l><r>faerský<s n="adj"/></r></p></e>
+    <e><p><l>fiński<s n="adj"/></l><r>finský<s n="adj"/></r></p></e>
+    <e><p><l>francuski<s n="adj"/></l><r>francouzský<s n="adj"/></r></p></e>
+    <e><p><l>hiszpański<s n="adj"/></l><r>španělský<s n="adj"/></r></p></e>
+    <e><p><l>hebrajski<s n="adj"/></l><r>hebrejský<s n="adj"/></r></p></e>
+    <e><p><l>holenderski<s n="adj"/></l><r>holandský<s n="adj"/></r></p></e>
+    <e><p><l>indiański<s n="adj"/></l><r>indiánský<s n="adj"/></r></p></e>
+    <e><p><l>indonezyjski<s n="adj"/></l><r>indonéský<s n="adj"/></r></p></e>
+    <e><p><l>indyjski<s n="adj"/></l><r>indický<s n="adj"/></r></p></e>
+    <e><p><l>indyjski<s n="adj"/></l><r>indiánský<s n="adj"/></r></p></e>
+    <e><p><l>japoński<s n="adj"/></l><r>japonský<s n="adj"/></r></p></e>
+    <e><p><l>kataloński<s n="adj"/></l><r>katalánsky<s n="adj"/></r></p></e>
+    <e><p><l>klingoński<s n="adj"/></l><r>klingonský<s n="adj"/></r></p></e>
+    <e><p><l>kurdyjski<s n="adj"/></l><r>kurdský<s n="adj"/></r></p></e>
+    <e><p><l>latynoski<s n="adj"/></l><r>latinský<s n="adj"/></r></p></e>
+    <e><p><l>lesbijski<s n="adj"/></l><r>lesbický<s n="adj"/></r></p></e>
+    <e><p><l>litewski<s n="adj"/></l><r>litevský<s n="adj"/></r></p></e>
+    <e><p><l>macierzyński<s n="adj"/></l><r>mateřský<s n="adj"/></r></p></e>
+    <e><p><l>malajski<s n="adj"/></l><r>malajský<s n="adj"/></r></p></e>
+    <e><p><l>miejski<s n="adj"/></l><r>městskỳ<s n="adj"/></r></p></e>
+    <e><p><l>mongolski<s n="adj"/></l><r>mongolský<s n="adj"/></r></p></e>
+    <e><p><l>morski<s n="adj"/></l><r>mořský<s n="adj"/></r></p></e>
+    <e><p><l>niebieski<s n="adj"/></l><r>modrý<s n="adj"/></r></p></e>
+    <e><p><l>norweski<s n="adj"/></l><r>norský<s n="adj"/></r></p></e>
+    <e><p><l>ojcowski<s n="adj"/></l><r>otcovský<s n="adj"/></r></p></e>
+    <e><p><l>okcytański<s n="adj"/></l><r>okcitánština<s n="adj"/></r></p></e>
+    <e><p><l>ormiański<s n="adj"/></l><r>arménský<s n="adj"/></r></p></e>
+    <e><p><l>polski<s n="adj"/></l><r>polský<s n="adj"/></r></p></e>
+    <e><p><l>portugalski<s n="adj"/></l><r>portugalský<s n="adj"/></r></p></e>
+    <e><p><l>rosyjski<s n="adj"/></l><r>ruský<s n="adj"/></r></p></e>
+    <e><p><l>rumuński<s n="adj"/></l><r>rumunský<s n="adj"/></r></p></e>
+    <e><p><l>rzymski<s n="adj"/></l><r>římský<s n="adj"/></r></p></e>
+    <e><p><l>laciński<s n="adj"/></l><r>latinský<s n="adj"/></r></p></e>
+    <e><p><l>serbski<s n="adj"/></l><r>srbský<s n="adj"/></r></p></e>
+    <e><p><l>szwajcarski<s n="adj"/></l><r>švýcarský<s n="adj"/></r></p></e>
+    <e><p><l>słoweński<s n="adj"/></l><r>slovinský<s n="adj"/></r></p></e>
+    <e><p><l>słowiański<s n="adj"/></l><r>slovanský<s n="adj"/></r></p></e>
+    <e><p><l>walijski<s n="adj"/></l><r>velšský<s n="adj"/></r></p></e>
+    <e><p><l>wszędobylski<s n="adj"/></l><r>všudypřítomný<s n="adj"/></r></p></e>
+    <e><p><l>węgierski<s n="adj"/></l><r>maďarský<s n="adj"/></r></p></e>
+    <e><p><l>włoski<s n="adj"/></l><r>italský<s n="adj"/></r></p></e>
+    <e><p><l>łotewski<s n="adj"/></l><r>lotyšský<s n="adj"/></r></p></e>
+    <e><p><l>żydowski<s n="adj"/></l><r>židovský<s n="adj"/></r></p></e>
 
      <e><p><l>nowy<s n="adj"/><s n="sint"/></l><r>nový<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>jasny<s n="adj"/><s n="sint"/></l><r>jasný<s n="adj"/><s n="sint"/></r></p></e>
