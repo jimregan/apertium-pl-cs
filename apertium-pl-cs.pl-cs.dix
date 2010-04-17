@@ -214,7 +214,7 @@
      <e r="LR"><p><l>sto<s n="num"/><s n="qnt"/><s n="mp"/></l><r>sto<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>sto<s n="num"/><s n="qnt"/><s n="nm"/></l><r>sto<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
      <e r="LR"><p><l>dwieście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>dvě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/></r></p></e>
-     <e><p><l>dwieście<s n="num"/><s n="qnt"/><s n="na"/></l><r>dvě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/></r></p></e> 
+     <e><p><l>dwieście<s n="num"/><s n="qnt"/><s n="ma"/></l><r>dvě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/></r></p></e> 
      <e><p><l>dwieście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>dvě<b/>stě<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
      <e r="LR"><p><l>trzysta<s n="num"/><s n="qnt"/><s n="mp"/></l><r>tři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>trzysta<s n="num"/><s n="qnt"/><s n="nm"/></l><r>tři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
