@@ -193,17 +193,22 @@
      <e><p><l>osiemnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>osmnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e r="LR"><p><l>dziewiętnaście<s n="num"/><s n="qnt"/><s n="mp"/></l><r>devatnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>dziewiętnaście<s n="num"/><s n="qnt"/><s n="nm"/></l><r>devatnáct<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
-
- 
-     <e><p><l>dziewiętnaście<s n="num"/><s n="qnt"/></l><r>devatenáct<s n="num"/><s n="qnt"/></r></p></e>
-     <e><p><l>trzydzieści<s n="num"/><s n="qnt"/></l><r>třicet<s n="num"/><s n="qnt"/></r></p></e>
-     <e><p><l>czterdzieści<s n="num"/><s n="qnt"/></l><r>čtyřicet<s n="num"/><s n="qnt"/></r></p></e>
-     <e><p><l>pięćdziesiąt<s n="num"/><s n="qnt"/></l><r>padesát<s n="num"/><s n="qnt"/></r></p></e>
-     <e><p><l>sześćdziesiąt<s n="num"/><s n="qnt"/></l><r>šedesát<s n="num"/><s n="qnt"/></r></p></e>
-     <e><p><l>siedemdziesiąt<s n="num"/><s n="qnt"/></l><r>sedmdesát<s n="num"/><s n="qnt"/></r></p></e>
-     <e><p><l>osiemdziesiąt<s n="num"/><s n="qnt"/></l><r>osmdesát<s n="num"/><s n="qnt"/></r></p></e>
-     <e><p><l>dziewięćdziesiąt<s n="num"/><s n="qnt"/></l><r>devadesát<s n="num"/><s n="qnt"/></r></p></e>
- 
+     <e r="LR"><p><l>dwadzieścia<s n="num"/><s n="qnt"/><s n="mp"/></l><r>dvacet<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>dwadzieścia<s n="num"/><s n="qnt"/><s n="nm"/></l><r>dvacet<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>trzydzieści<s n="num"/><s n="qnt"/><s n="mp"/></l><r>třicet<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>trzydzieści<s n="num"/><s n="qnt"/><s n="nm"/></l><r>třicet<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>czterdzieści<s n="num"/><s n="qnt"/><s n="mp"/></l><r>čtyřicet<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>czterdzieści<s n="num"/><s n="qnt"/><s n="nm"/></l><r>čtyřicet<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>pięćdziesiąt<s n="num"/><s n="qnt"/><s n="mp"/></l><r>padesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>pięćdziesiąt<s n="num"/><s n="qnt"/><s n="nm"/></l><r>padesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>sześćdziesiąt<s n="num"/><s n="qnt"/><s n="mp"/></l><r>šedesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>sześćdziesiąt<s n="num"/><s n="qnt"/><s n="nm"/></l><r>šedesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>siedemdziesiąt<s n="num"/><s n="qnt"/><s n="mp"/></l><r>sedmdesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>siedemdziesiąt<s n="num"/><s n="qnt"/><s n="nm"/></l><r>sedmdesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>osiemdziesiąt<s n="num"/><s n="qnt"/><s n="mp"/></l><r>osmdesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>osiemdziesiąt<s n="num"/><s n="qnt"/><s n="nm"/></l><r>osmdesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e r="LR"><p><l>dziewięćdziesiąt<s n="num"/><s n="qnt"/><s n="mp"/></l><r>devadesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+     <e><p><l>dziewięćdziesiąt<s n="num"/><s n="qnt"/><s n="nm"/></l><r>devadesát<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e> 
 
      <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>luty<s n="n"/><s n="mi"/></l><r>únor<s n="n"/><s n="mi"/></r></p></e>
@@ -462,7 +467,6 @@
     <e><p><l>drożdże<s n="n"/><s n="nt"/></l><r>droždí<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>drukarka<s n="n"/><s n="f"/></l><r>tiskárna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>drukarz<s n="n"/><s n="mp"/></l><r>tiskař<s n="n"/><s n="ma"/></r></p></e>
-    <e><p><l>dwadzieścia<s n="num"/></l><r>dvacet<s n="num"/></r></p></e>
     <e><p><l>dwójka<s n="n"/><s n="f"/></l><r>dvojka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dyktator<s n="n"/><s n="mp"/></l><r>diktátor<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>dyktatura<s n="n"/><s n="f"/></l><r>diktatura<s n="n"/><s n="f"/></r></p></e>
