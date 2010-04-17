@@ -1494,12 +1494,10 @@
     <e><p><l>droga<s n="FIX"/></l><r>silnice<s n="FIX"/></r></p></e>
     <e><p><l>droga<s n="FIX"/></l><r>cesta<s n="FIX"/></r></p></e>
     <e><p><l>droga<s n="FIX"/></l><r>způsob<s n="FIX"/></r></p></e>
-    <e><p><l>drogi<s n="adj"/></l><r>drahý<s n="adj"/></r></p></e>
     <e><p><l>drozd<s n="FIX"/></l><r>drozd<s n="FIX"/></r></p></e>
     <e><p><l>drozd wędrowny<s n="FIX"/></l><r>červenka<s n="FIX"/></r></p></e>
     <e><p><l>drozd wędrowny<s n="FIX"/></l><r>drozd stěhovavý<s n="FIX"/></r></p></e>
     <e><p><l>drożdże<s n="FIX"/></l><r>kvasinka<s n="FIX"/></r></p></e>
-    <e><p><l>drożdże<s n="FIX"/></l><r>droždí<s n="FIX"/></r></p></e>
     <e><p><l>drożeć<s n="FIX"/></l><r>vážit si<s n="FIX"/></r></p></e>
     <e><p><l>drożeć<s n="FIX"/></l><r>cenit<s n="FIX"/></r></p></e>
     <e><p><l>drożeć<s n="FIX"/></l><r>uvědomovat si<s n="FIX"/></r></p></e>
@@ -1509,10 +1507,6 @@
     <e><p><l>drugi<s n="FIX"/></l><r>okamžik<s n="FIX"/></r></p></e>
     <e><p><l>drugi<s n="FIX"/></l><r>druhá jakost<s n="FIX"/></r></p></e>
     <e><p><l>drugi<s n="FIX"/></l><r>sekundant<s n="FIX"/></r></p></e>
-    <e><p><l>drukarka<s n="FIX"/></l><r>tiskárna<s n="FIX"/></r></p></e>
-    <e><p><l>drukarka<s n="FIX"/></l><r>tiskař<s n="FIX"/></r></p></e>
-    <e><p><l>drukarz<s n="FIX"/></l><r>tiskárna<s n="FIX"/></r></p></e>
-    <e><p><l>drukarz<s n="FIX"/></l><r>tiskař<s n="FIX"/></r></p></e>
     <e><p><l>drumla<s n="FIX"/></l><r>brumle<s n="FIX"/></r></p></e>
     <e><p><l>drut<s n="FIX"/></l><r>drát<s n="FIX"/></r></p></e>
     <e><p><l>drzewo<s n="FIX"/></l><r>strom<s n="FIX"/></r></p></e>
@@ -1531,15 +1525,12 @@
     <e><p><l>dupek<s n="FIX"/></l><r>blbec<s n="FIX"/></r></p></e>
     <e><p><l>dusza<s n="FIX"/></l><r>duše<s n="FIX"/></r></p></e>
     <e><p><l>dusza<s n="FIX"/></l><r>duch<s n="FIX"/></r></p></e>
-    <e><p><l>duński<s n="FIX"/></l><r>dánština<s n="FIX"/></r></p></e>
-    <e><p><l>duński<s n="FIX"/></l><r>dánský<s n="FIX"/></r></p></e>
     <e><p><l>duża litera<s n="FIX"/></l><r>hlavní město<s n="FIX"/></r></p></e>
     <e><p><l>dużo<s n="FIX"/></l><r>mnoho<s n="FIX"/></r></p></e>
     <e><p><l>duży<s n="FIX"/></l><r>velký<s n="FIX"/></r></p></e>
     <e><p><l>dwa<s n="FIX"/></l><r>dva<s n="FIX"/></r></p></e>
     <e><p><l>dwa<s n="FIX"/></l><r>dvojka<s n="FIX"/></r></p></e>
     <e><p><l>dwa<s n="FIX"/></l><r>dvakrát<s n="FIX"/></r></p></e>
-    <e><p><l>dwadzieścia<s n="FIX"/></l><r>dvacet<s n="FIX"/></r></p></e>
     <e><p><l>dwadzieścia cztery<s n="FIX"/></l>     <r>dvacet čtyři<s n="FIX"/></r></p></e>
     <e><p><l>dwadzieścia siedem<s n="FIX"/></l>     <r>dvacet<s n="FIX"/></r></p></e>
     <e><p><l>dwadzieścia trzy<s n="FIX"/></l><r>dvacet tři<s n="FIX"/></r></p></e>
@@ -1552,15 +1543,7 @@
     <e><p><l>dwunastościan foremny<s n="FIX"/></l>  <r>dvanáctistěn<s n="FIX"/></r></p></e>
     <e><p><l>dwunasty<s n="FIX"/></l><r>dvanáctý<s n="FIX"/></r></p></e>
     <e><p><l>dwutlenek węgla<s n="FIX"/></l><r>oxid uhličitý<s n="FIX"/></r></p></e>
-    <e><p><l>dwójka<s n="FIX"/></l><r>dva<s n="FIX"/></r></p></e>
-    <e><p><l>dwójka<s n="FIX"/></l><r>dvojka<s n="FIX"/></r></p></e>
     <e><p><l>dwór<s n="FIX"/></l><r>dvůr<s n="FIX"/></r></p></e>
-    <e><p><l>dyktator<s n="FIX"/></l><r>diktátor<s n="FIX"/></r></p></e>
-    <e><p><l>dyktatura<s n="FIX"/></l><r>diktatura<s n="FIX"/></r></p></e>
-    <e><p><l>dym<s n="FIX"/></l><r>dým<s n="FIX"/></r></p></e>
-    <e><p><l>dym<s n="FIX"/></l><r>kouřit<s n="FIX"/></r></p></e>
-    <e><p><l>dymić<s n="FIX"/></l><r>dým<s n="FIX"/></r></p></e>
-    <e><p><l>dymić<s n="FIX"/></l><r>kouřit<s n="FIX"/></r></p></e>
     <e><p><l>dynia<s n="FIX"/></l><r>dýně<s n="FIX"/></r></p></e>
     <e><p><l>dyplom<s n="FIX"/></l><r>diplom<s n="FIX"/></r></p></e>
     <e><p><l>dyrygent<s n="FIX"/></l><r>dirigent<s n="FIX"/></r></p></e>
@@ -1569,9 +1552,6 @@
     <e><p><l>dysertacja<s n="FIX"/></l><r>diplomová práce<s n="FIX"/></r></p></e>
     <e><p><l>dysertacja<s n="FIX"/></l><r>teze<s n="FIX"/></r></p></e>
     <e><p><l>dysk twardy<s n="FIX"/></l><r>pevný disk<s n="FIX"/></r></p></e>
-    <e><p><l>dyskryminacja<s n="FIX"/></l><r>diskriminace<s n="FIX"/></r></p></e>
-    <e><p><l>dyskusja<s n="FIX"/></l><r>diskuse<s n="FIX"/></r></p></e>
-    <e><p><l>dysleksja<s n="FIX"/></l><r>dyslexie<s n="FIX"/></r></p></e>
     <e><p><l>dysproz<s n="FIX"/></l><r>dysprosium<s n="FIX"/></r></p></e>
     <e><p><l>dystansować<s n="FIX"/></l><r>vzdálenost<s n="FIX"/></r></p></e>
     <e><p><l>dywan<s n="FIX"/></l><r>koberec<s n="FIX"/></r></p></e>
@@ -4190,7 +4170,6 @@
     <e><p><l>opat<s n="FIX"/></l><r>opat<s n="FIX"/></r></p></e>
     <e><p><l>opera<s n="FIX"/></l><r>opera<s n="FIX"/></r></p></e>
     <e><p><l>operacja<s n="FIX"/></l><r>operace<s n="FIX"/></r></p></e>
-    <e><p><l>opiekunka<s n="FIX"/></l><r>sestra<s n="FIX"/></r></p></e>
     <e><p><l>opiekunka<s n="FIX"/></l><r>chůva<s n="FIX"/></r></p></e>
     <e><p><l>opiekunka<s n="FIX"/></l><r>kojit<s n="FIX"/></r></p></e>
     <e><p><l>opinia<s n="FIX"/></l><r>názor<s n="FIX"/></r></p></e>
@@ -4200,8 +4179,6 @@
     <e><p><l>opowieść<s n="FIX"/></l><r>příběh<s n="FIX"/></r></p></e>
     <e><p><l>opowieść<s n="FIX"/></l><r>podlaží<s n="FIX"/></r></p></e>
     <e><p><l>oprawiać<s n="FIX"/></l><r>rám<s n="FIX"/></r></p></e>
-    <e><p><l>oprócz<s n="FIX"/></l><r>ale<s n="FIX"/></r></p></e>
-    <e><p><l>oprócz<s n="FIX"/></l><r>kromě<s n="FIX"/></r></p></e>
     <e><p><l>opstoken<s n="FIX"/></l><r>vyvolat<s n="FIX"/></r></p></e>
     <e><p><l>optyka<s n="FIX"/></l><r>optika<s n="FIX"/></r></p></e>
     <e><p><l>opuszczać<s n="FIX"/></l><r>vzdát se<s n="FIX"/></r></p></e>
@@ -4232,9 +4209,7 @@
     <e><p><l>ortografia<s n="FIX"/></l><r>pravopis<s n="FIX"/></r></p></e>
     <e><p><l>ortoklaz<s n="FIX"/></l><r>ortoklas<s n="FIX"/></r></p></e>
     <e><p><l>orzech<s n="FIX"/></l><r>ořech<s n="FIX"/></r></p></e>
-    <e><p><l>orzech<s n="FIX"/></l><r>matka<s n="FIX"/></r></p></e>
     <e><p><l>orzech laskowy<s n="FIX"/></l><r>lískový ořech<s n="FIX"/></r></p></e>
-    <e><p><l>orzech laskowy<s n="FIX"/></l><r>líska<s n="FIX"/></r></p></e>
     <e><p><l>orzech ziemny<s n="FIX"/></l><r>arašíd<s n="FIX"/></r></p></e>
     <e><p><l>orzeczenie<s n="FIX"/></l><r>přísudek<s n="FIX"/></r></p></e>
     <e><p><l>orzeł<s n="FIX"/></l><r>orel<s n="FIX"/></r></p></e>

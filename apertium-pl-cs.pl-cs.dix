@@ -73,7 +73,6 @@
      <!-- Prepositions -->
 
      <e><p><l>między<s n="pr"/></l><r>mezi<s n="pr"/></r></p></e>
-     <e><p><l>oprócz<s n="pr"/></l><r>oproti<s n="pr"/></r></p></e>
      <e><p><l>przed<s n="pr"/></l><r>před<s n="pr"/></r></p></e>
      <e><p><l>przez<s n="pr"/></l><r>skrz<s n="pr"/></r></p></e>
      <e><p><l>nad<s n="pr"/></l><r>nad<s n="pr"/></r></p></e>
@@ -100,16 +99,20 @@
      <e><p><l>niedaleko<s n="pr"/></l><r>nedaleko<s n="pr"/></r></p></e>
      <e><p><l>przy<s n="pr"/></l><r>při<s n="pr"/></r></p></e>
      <e><p><l>przeciw<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
+     <e r="RL"><p><l>przeciw<s n="pr"/></l><r>oproti<s n="pr"/></r></p></e>
      <e><p><l>z<b/>wyjątkiem<s n="pr"/></l><r>s<b/>výjimkou<s n="pr"/></r></p></e>
      <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
      <e><p><l>znad<s n="pr"/></l><r>z<b/>nad<s n="pr"/></r></p></e>
      <e><p><l>przez<s n="pr"/></l><r>skrz<s n="pr"/></r></p></e>
      <e><p><l>bez<b/>względu<b/>na<s n="pr"/></l><r>bez<b/>ohledu<b/>na<s n="pr"/></r></p></e>
 
-     <e c="check"><p><l>ku<s n="pr"/></l><r>k<s n="pr"/></r></p></e>
-     <e c="check"><p><l>krom<s n="pr"/></l><r>krom<s n="pr"/></r></p></e>
-     <e c="check"><p><l>naprzeciwko<s n="pr"/></l><r>naproti<s n="pr"/></r></p></e>
-     <e c="check"><p><l>wokół<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
+     <e><p><l>ku<s n="pr"/></l><r>k<s n="pr"/></r></p></e>
+     <e><p><l>naprzeciwko<s n="pr"/></l><r>naproti<s n="pr"/></r></p></e>
+     <e r="LR"><p><l>wokół<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
+     <e><p><l>około<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
+     <e><p><l>oprócz<s n="pr"/></l><r>krom<s n="pr"/></r></p></e>
+     <e r="RL"><p><l>oprócz<s n="pr"/></l><r>kromě<s n="pr"/></r></p></e>
+
 
      <!-- Pronouns -->
  
