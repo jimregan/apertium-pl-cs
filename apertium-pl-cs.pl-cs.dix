@@ -151,6 +151,8 @@
      <e><p><l>listopad<s n="n"/><s n="mi"/></l><r>listopad<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>prosinec<s n="n"/><s n="mi"/></r></p></e>
 
+     <e><p><l>przeorysza<s n="n"/><s n="f"/></l><r>abatyše<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>absolwent<s n="n"/><s n="ma"/></l><r>absolvent<s n="n"/><s n="ma"/></r></p></e>
      <e><p><l>warstwica<s n="n"/><s n="f"/></l><r>vrstevnice<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>gwiazdozbór<s n="n"/><s n="mi"/></l><r>hvězdokupa<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>herbata<s n="n"/><s n="f"/></l><r>čaj<s n="n"/><s n="mi"/></r></p></e>
@@ -356,11 +358,12 @@
      <e><p><l>czysty<s n="adj"/><s n="sint"/></l><r>čistý<s n="adj"/></r></p></e>
      <e><p><l>partyzancki<s n="adj"/></l><r>partyzánský<s n="adj"/></r></p></e>
      <e><p><l>proletariacki<s n="adj"/></l><r>proletářský<s n="adj"/></r></p></e>
-    <e><p><l>aramejski<s n="adj"/></l><r>aramejský<s n="adj"/></r></p></e>
-    <e><p><l>królewski<s n="adj"/></l><r>královský<s n="adj"/></r></p></e>
-    <e><p><l>bengalski<s n="adj"/></l><r>bengálský<s n="adj"/></r></p></e>
-    <e><p><l>wegetariański<s n="adj"/></l><r>vegetariánský<s n="adj"/></r></p></e>
-    <e><p><l>szatański<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
+     <e><p><l>aramejski<s n="adj"/></l><r>aramejský<s n="adj"/></r></p></e>
+     <e><p><l>królewski<s n="adj"/></l><r>královský<s n="adj"/></r></p></e>
+     <e><p><l>bengalski<s n="adj"/></l><r>bengálský<s n="adj"/></r></p></e>
+     <e><p><l>wegetariański<s n="adj"/></l><r>vegetariánský<s n="adj"/></r></p></e>
+     <e><p><l>szatański<s n="adj"/></l><r>satanský<s n="adj"/></r></p></e>
+     <e><p><l>duński<s n="adj"/></l><r>dánský<s n="adj"/></r></p></e>
 
      <e><p><l>nowy<s n="adj"/><s n="sint"/></l><r>nový<s n="adj"/><s n="sint"/></r></p></e>
      <e><p><l>jasny<s n="adj"/><s n="sint"/></l><r>jasný<s n="adj"/><s n="sint"/></r></p></e>
