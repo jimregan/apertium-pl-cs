@@ -24997,6 +24997,7 @@
     <e lm="dziewięćsetny"><i>dziewięćsetn</i><par n="ósm/y__det"/></e>
     <e lm="tysięczny"><i>tysięczn</i><par n="ósm/y__det"/></e>
     <e lm="tysiączny" r="LR"><p><l>tysiączn</l><r>tysięczn</r></p><par n="ósm/y__det"/></e>
+    <e lm="egzotermiczny"><i>egzotermiczn</i><par n="ósm/y__det"/></e>
     <e lm="dwutysięczny"><i>dwutysięczn</i><par n="ósm/y__det"/></e>
     <e lm="dwutysiączny" r="LR"><p><l>dwutysiączn</l><r>dwutysięczn</r></p><par n="ósm/y__det"/></e>
     <e lm="dwóchtysięczny" r="LR"><p><l>dwóchtysięczn</l><r>dwutysięczn</r></p><par n="ósm/y__det"/></e>
@@ -25076,6 +25077,9 @@
     <e lm="czysty"><i>czy</i><par n="czy/sty__adj"/></e>
     <e lm="czysty"><p><l>czyst</l><r>czysty</r></p><par n="lep/szy__adj"/></e>
     <e lm="czysty"><p><l>najczyst</l><r>czysty</r></p><par n="najlep/szy__adj"/></e>
+
+    <e lm="finansowy"><i>finansow</i><par n="now/y__adj"/></e>
+
     <e lm="nowy"><i>now</i><par n="now/y__adj"/></e>
     <e lm="nowy"><p><l>now</l><r>nowy</r></p><par n="lep/szy__adj"/></e>
     <e lm="nowy"><p><l>najnow</l><r>nowy</r></p><par n="najlep/szy__adj"/></e>
