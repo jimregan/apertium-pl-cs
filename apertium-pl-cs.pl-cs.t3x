@@ -23,14 +23,20 @@
       <attr-item tags="pl"/>
       <attr-item tags="ND"/>
     </def-attr>
-    <def-attr n="defnes">
-      <attr-item tags="ind"/>
-      <attr-item tags="def"/>
+    <def-attr n="cas">
+      <attr-item tags="nom"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="loc"/>
+      <attr-item tags="voc"/>
+      <attr-item tags="CD"/>
+      <attr-item tags="indecl"/>
     </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
-    <def-var n="c_defnes"/>
+    <def-var n="foo"/>
   </section-def-vars>
 
   <section-rules>

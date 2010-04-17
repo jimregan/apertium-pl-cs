@@ -41,6 +41,7 @@
     <sdef n="ins"/>
     <sdef n="loc"/>
     <sdef n="voc"/>
+    <sdef n="CD"/>
     <sdef n="sg"/>
     <sdef n="pl"/>
     <sdef n="mf"/>
@@ -58,7 +59,18 @@
     <sdef n="hyd"/>
     <sdef n="GD"/>
   </sdefs>
-
+  <pardefs>
+    <pardef n="det_adv">
+      <e r="LR"><p><l><s n="adv"/></l><r><s n="mf"/><s n="pl"/><s n="CD"/></r></p></e>
+      <e r="RL"><p><l><s n="adv"/></l><r><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e r="RL"><p><l><s n="adv"/></l><r><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e r="RL"><p><l><s n="adv"/></l><r><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e r="RL"><p><l><s n="adv"/></l><r><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e r="RL"><p><l><s n="adv"/></l><r><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e r="RL"><p><l><s n="adv"/></l><r><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e r="RL"><p><l><s n="adv"/></l><r><s n="mf"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+  </pardefs>
   <section id="main" type="standard">
      <!-- Conjunctions -->
 
@@ -146,10 +158,9 @@
      <e><p><l>swój<s n="det"/></l><r>svůj<s n="det"/></r></p></e>
      <e r="LR"><p><l>ile<s n="det"/><s n="qnt"/><s n="mp"/></l><r>kolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
      <e><p><l>ile<s n="det"/><s n="qnt"/><s n="nm"/></l><r>kolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
-     <e r="LR"><p><l>tyle<s n="det"/><s n="qnt"/><s n="mp"/></l><r>tolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
-     <e><p><l>tyle<s n="det"/><s n="qnt"/><s n="nm"/></l><r>tolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
 
-     <e><p><l>dużo<s n="det"/><s n="qnt"/></l><r>mnoho<s n="det"/><s n="qnt"/></r></p></e>
+     <e><p><l>dużo<s n="det"/><s n="qnt"/></l><r>mnoho<s n="det"/><s n="qnt"/></r></p><par n="det_adv"/></e>
+     <e><p><l>tyle<s n="det"/><s n="qnt"/></l><r>tolik<s n="det"/><s n="qnt"/></r></p><par n="det_adv"/></e>
 
      <e><p><l>to<s n="det"/><s n="dem"/></l><r>to<s n="det"/><s n="dem"/></r></p></e>
      <e r="RL"><p><l>to<s n="det"/><s n="dem"/></l><r>toto<s n="det"/><s n="dem"/></r></p></e>

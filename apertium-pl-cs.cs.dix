@@ -16831,14 +16831,6 @@
         </p>
       </e>
     </pardef>
-    <pardef n="co__det_ind">
-      <e>
-        <p>
-          <l>co</l>
-          <r>co<s n="det"/><s n="ind"/><s n="sg"/></r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="to__det">
       <e>
         <p>
@@ -19605,7 +19597,6 @@
 
     <!-- Determiners -->
     <e lm="co"><i></i><par n="co__det"/></e>
-    <e lm="co"><i></i><par n="co__det_ind"/></e>
     <e lm="to"><i></i><par n="to__det"/></e>
     <e lm="toto"><i></i><par n="toto__det"/></e>
     <e lm="tamto"><i>tam</i><par n="to__det"/></e>

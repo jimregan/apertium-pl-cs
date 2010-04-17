@@ -98,6 +98,7 @@
      <attr-item tags="ins"/>
      <attr-item tags="loc"/>
      <attr-item tags="voc"/>
+     <attr-item tags="CD"/>
      <attr-item tags="indecl"/>
   </def-attr>
 
