@@ -26301,6 +26301,19 @@
     <e lm="osiemnaście"><i>osiemna</i><par n="jedena/ście__num"/></e>
     <e lm="dziewiętnaście"><i>dziewiętna</i><par n="jedena/ście__num"/></e>
     <e lm="kilkanaście"><i>kilk</i><par n="dw/anaście__num"/></e>
+    <e lm="dwadzieścia"><i>dw</i><par n="dw/adzieścia__num"/></e>
+    <e lm="trzydzieści"><i>trzydzie</i><par n="trzydzie/ści__num"/></e>
+    <e lm="czterdzieści"><i>czterdzie</i><par n="trzydzie/ści__num"/></e>
+    <e lm="pięćdziesiąt"><i>pięćdziesi</i><par n="pięćdziesi/ąt__num"/></e>
+    <e lm="sześćdziesiąt"><i>sześćdziesi</i><par n="pięćdziesi/ąt__num"/></e>
+    <e lm="siedemdziesiąt"><i>siedemdziesi</i><par n="pięćdziesi/ąt__num"/></e>
+    <e lm="osiemdziesiąt"><i>osiemdziesi</i><par n="pięćdziesi/ąt__num"/></e>
+    <e lm="dziewięćdziesiąt"><i>dziewięćdziesi</i><par n="pięćdziesi/ąt__num"/></e>
+    <e lm="sto"><i>st</i><par n="st/o__num"/></e>
+    <e lm="dwieście"><i>dw</i><par n="dw/ieście__num"/></e>
+    <e lm="trzysta"><i>trzyst</i><par n="trzyst/a__num"/></e>
+    <e lm="czterysta"><i>czteryst</i><par n="trzyst/a__num"/></e>
+    <e lm="pięćset"><i>pię</i><par n="pię/ćset__num"/></e>
     <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__det"/></e>
     <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__prn"/></e>
     <e lm="troje"><i>troj</i><par n="dwoj/e__det"/></e>
