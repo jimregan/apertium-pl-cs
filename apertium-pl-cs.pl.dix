@@ -25702,10 +25702,17 @@
     <e lm="sześć"><i>sześ</i><par n="pię/ć__num"/></e>
     <e lm="siedem"><i>sied</i><par n="sied/em__num"/></e>
     <e lm="osiem"><i>o</i><par n="o/siem__num"/></e>
-    <e lm="dziwięć"><i>dziewię</i><par n="pię/ć__num"/></e>
-    <e lm="dzisięć"><i>dziesię</i><par n="pię/ć__num"/></e>
+    <e lm="dziewięć"><i>dziewię</i><par n="pię/ć__num"/></e>
+    <e lm="dziesięć"><i>dziesię</i><par n="pię/ć__num"/></e>
     <e lm="jedenaście"><i>jedena</i><par n="jedena/ście__num"/></e>
     <e lm="dwanaście"><i>dw</i><par n="dw/anaście__num"/></e>
+    <e lm="trzynaście"><i>trzyna</i><par n="jedena/ście__num"/></e>
+    <e lm="czternaście"><i>czterna</i><par n="jedena/ście__num"/></e>
+    <e lm="piętnaście"><i>piętna</i><par n="jedena/ście__num"/></e>
+    <e lm="szesnaście"><i>szesna</i><par n="jedena/ście__num"/></e>
+    <e lm="siedemnaście"><i>siedemna</i><par n="jedena/ście__num"/></e>
+    <e lm="osiemnaście"><i>osiemna</i><par n="jedena/ście__num"/></e>
+    <e lm="dziewiętnaście"><i>dziewiętna</i><par n="jedena/ście__num"/></e>
     <e lm="kilkanaście"><i>kilk</i><par n="dw/anaście__num"/></e>
     <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__det"/></e>
     <e lm="dwoje"><i>dwoj</i><par n="dwoj/e__prn"/></e>
