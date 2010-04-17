@@ -202,6 +202,7 @@
       <e>       <p>          <l>í</l><r>i<s n="num"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
       <e>       <p>          <l>em</l><r>i<s n="num"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
       <e>       <p>          <l>i</l><r>i<s n="num"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>i</l><r>i<s n="num"/><s n="mf"/><s n="pl"/><s n="voc"/></r></p></e>
       <e>       <p>          <l>ech</l><r>i<s n="num"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
       <e>       <p>          <l>emi</l><r>i<s n="num"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
@@ -211,6 +212,7 @@
       <e>       <p>          <l>ř</l><r>ři<s n="num"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
       <e>       <p>          <l>řem</l><r>ři<s n="num"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
       <e>       <p>          <l>ři</l><r>ři<s n="num"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ři</l><r>ři<s n="num"/><s n="mf"/><s n="pl"/><s n="voc"/></r></p></e>
       <e>       <p>          <l>řech</l><r>ři<s n="num"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
       <e>       <p>          <l>řmi</l><r>ři<s n="num"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
@@ -269,6 +271,40 @@
     </pardef>
 
 
+    <pardef n="dv/ě_stě__num">
+      <e>       <p>          <l>ě<b/>stě</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ou<b/>set</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>ěma<b/>stům</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>ě<b/>stě</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ou<b/>stech</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>ěma<b/>sty</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>ě<b/>stě</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>ě<b/>stě</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ou<b/>set</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>ěma<b/>stům</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>ě<b/>sta</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ou<b/>stech</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>ěma<b/>sty</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>ě<b/>stě</l><r>ě<b/>stě<s n="num"/><s n="qnt"/><s n="ma"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="tř/i_sta__num">
+      <e>       <p>          <l>i<b/>sta</l><r>i<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>í<b/>set</l><r>i<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>em<b/>stům</l><r>i<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>i<b/>sta</l><r>i<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>i<b/>sta</l><r>i<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>ech<b/>stech</l><r>i<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>emi<b/>sty</l><r>i<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+    </pardef>
+    <pardef n="čty/ři_sta__num">
+      <e>       <p>          <l>ři<b/>sta</l><r>ři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ř<b/>set</l><r>ři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>řem<b/>stům</l><r>ři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>ři<b/>sta</l><r>ři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ři<b/>sta</l><r>ři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>řech<b/>stech</l><r>ři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>řmi<b/>sty</l><r>ři<b/>sta<s n="num"/><s n="qnt"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
+    </pardef>
 
     <!-- Conjunctions -->
 
@@ -19563,6 +19599,9 @@
     <e lm="sedmdesát"><i>sedmdesát</i><par n="pět__num"/></e>
     <e lm="osmdesát"><i>osmdesát</i><par n="pět__num"/></e>
     <e lm="devadesát"><i>devadesát</i><par n="pět__num"/></e>
+    <e lm="dvě stě"><i>dv</i><par n="dv/ě_stě__num"/></e>
+    <e lm="tři sta"><i>dv</i><par n="tř/i_sta__num"/></e>
+    <e lm="čtyři sta"><i>dv</i><par n="čty/ři_sta__num"/></e>
 
     <!-- Determiners -->
     <e lm="co"><i></i><par n="co__det"/></e>
