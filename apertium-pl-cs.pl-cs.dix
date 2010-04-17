@@ -6,6 +6,7 @@
     <sdef n="cnjsub"/>
     <sdef n="cnjadv"/>
     <sdef n="n"/>
+    <sdef n="abbr"/>
     <sdef n="np"/>
     <sdef n="num"/>
     <sdef n="f"/>
@@ -102,6 +103,7 @@
      <e><p><l>z<b/>wyjątkiem<s n="pr"/></l><r>s<b/>výjimkou<s n="pr"/></r></p></e>
      <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
      <e><p><l>znad<s n="pr"/></l><r>z<b/>nad<s n="pr"/></r></p></e>
+     <e><p><l>przez<s n="pr"/></l><r>skrz<s n="pr"/></r></p></e>
      <e><p><l>bez<b/>względu<b/>na<s n="pr"/></l><r>bez<b/>ohledu<b/>na<s n="pr"/></r></p></e>
 
      <e c="check"><p><l>ku<s n="pr"/></l><r>k<s n="pr"/></r></p></e>
@@ -1175,6 +1177,12 @@
      <!-- Interjections -->
 
      <e><p><l>dzięki<s n="ij"/></l><r>díky<s n="ij"/></r></p></e>
+
+     <!-- Abbreviations -->
+
+     <e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
+     <e><p><l>cm<s n="abbr"/></l><r>cm<s n="abbr"/></r></p></e>
+     <e><p><l>km<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
 
      <!-- Punctuation -->
 

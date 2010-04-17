@@ -10,6 +10,7 @@
     <sdef n="vbhaver"/>
     <sdef n="adv"/>
     <sdef n="qnt"/>
+    <sdef n="abbr"/>
 
     <sdef n="adj"/>
     <sdef n="sint"/>
@@ -71,7 +72,12 @@
     <sdef n="cnjadv" c="spojka"/>
   </sdefs>
   <pardefs>
+    <!-- Abbreviations -->
 
+    <pardef n="např__abbr">
+      <e><p><l></l><r><s n="abbr"/></r></p></e>
+      <e r="LR"><p><l>.</l><r><s n="abbr"/></r></p></e>
+    </pardef>
 
     <!-- Numerals -->
 
@@ -21032,6 +21038,18 @@
     <e lm="Turecko"><i>Turec</i><par n="Čes/ko__np"/></e>
     <e lm="Tyrolsko"><i>Tyrols</i><par n="Čes/ko__np"/></e>
     <e lm="Uhersko"><i>Uhers</i><par n="Čes/ko__np"/></e>
+
+    <!-- Abbreviations -->
+
+    <e lm="např"><i>např</i><par n="např__abbr"/></e>
+    <e lm="tzv"><i>tzv</i><par n="např__abbr"/></e>
+    <e lm="cca"><i>cca</i><par n="např__abbr"/></e>
+    <e lm="atd"><i>atd</i><par n="např__abbr"/></e>
+
+    <e lm="cm"><i>cm</i><par n="např__abbr"/></e>
+    <e lm="km"><i>km</i><par n="např__abbr"/></e>
+    <e lm="kg"><i>kg</i><par n="např__abbr"/></e>
+
 
   </section>
 
