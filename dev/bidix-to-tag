@@ -6178,7 +6178,6 @@
     <e><p><l>szczyt<s n="FIX"/></l><r>vrchol<s n="FIX"/></r></p></e>
     <e><p><l>szczęście<s n="FIX"/></l><r>štěstí<s n="FIX"/></r></p></e>
     <e><p><l>szczęśliwej podróży<s n="FIX"/></l>    <r>šťastnou cestu<s n="FIX"/></r></p></e>
-    <e><p><l>szczęśliwie<s n="adv"/></l><r>šťastně<s n="adv"/></r></p></e>
     <e><p><l>szczęśliwy<s n="FIX"/></l><r>šťastný<s n="FIX"/></r></p></e>
     <e><p><l>szczęśliwy<s n="FIX"/></l><r>spokojený<s n="FIX"/></r></p></e>
     <e><p><l>szczęśliwy<s n="FIX"/></l><r>mít kliku<s n="FIX"/></r></p></e>
@@ -6268,38 +6267,11 @@
     <e><p><l>sęp płowy<s n="FIX"/></l><r>sup bělohlavý<s n="FIX"/></r></p></e>
     <e><p><l>słabość<s n="FIX"/></l><r>slabost<s n="FIX"/></r></p></e>
     <e><p><l>sława<s n="FIX"/></l><r>sláva<s n="FIX"/></r></p></e>
-    <e><p><l>sławny<s n="FIX"/></l><r>slavný<s n="FIX"/></r></p></e>
-    <e><p><l>słodki<s n="FIX"/></l><r>sladký<s n="FIX"/></r></p></e>
-    <e><p><l>słodki<s n="FIX"/></l><r>slazený<s n="FIX"/></r></p></e>
-    <e><p><l>słodki<s n="FIX"/></l><r>milý<s n="FIX"/></r></p></e>
-    <e><p><l>słodki<s n="FIX"/></l><r>sladkost<s n="FIX"/></r></p></e>
-    <e><p><l>słodki<s n="FIX"/></l><r>voňavý<s n="FIX"/></r></p></e>
-    <e><p><l>słodki<s n="FIX"/></l><r>melodický<s n="FIX"/></r></p></e>
-    <e><p><l>słodki<s n="FIX"/></l><r>čerstvý<s n="FIX"/></r></p></e>
-    <e><p><l>słodki<s n="FIX"/></l><r>roztomilý<s n="FIX"/></r></p></e>
-    <e><p><l>słodko<s n="FIX"/></l><r>sladký<s n="FIX"/></r></p></e>
-    <e><p><l>słodko<s n="FIX"/></l><r>slazený<s n="FIX"/></r></p></e>
-    <e><p><l>słodko<s n="FIX"/></l><r>milý<s n="FIX"/></r></p></e>
-    <e><p><l>słodko<s n="FIX"/></l><r>sladkost<s n="FIX"/></r></p></e>
-    <e><p><l>słodko<s n="FIX"/></l><r>voňavý<s n="FIX"/></r></p></e>
-    <e><p><l>słodko<s n="FIX"/></l><r>melodický<s n="FIX"/></r></p></e>
-    <e><p><l>słodko<s n="FIX"/></l><r>čerstvý<s n="FIX"/></r></p></e>
-    <e><p><l>słodzony<s n="FIX"/></l><r>sladký<s n="FIX"/></r></p></e>
-    <e><p><l>słodzony<s n="FIX"/></l><r>slazený<s n="FIX"/></r></p></e>
-    <e><p><l>słodzony<s n="FIX"/></l><r>milý<s n="FIX"/></r></p></e>
-    <e><p><l>słodzony<s n="FIX"/></l><r>sladkost<s n="FIX"/></r></p></e>
-    <e><p><l>słodzony<s n="FIX"/></l><r>voňavý<s n="FIX"/></r></p></e>
-    <e><p><l>słodzony<s n="FIX"/></l><r>melodický<s n="FIX"/></r></p></e>
-    <e><p><l>słodzony<s n="FIX"/></l><r>čerstvý<s n="FIX"/></r></p></e>
     <e><p><l>słoma<s n="FIX"/></l><r>sláma<s n="FIX"/></r></p></e>
     <e><p><l>słomka<s n="FIX"/></l><r>slámka<s n="FIX"/></r></p></e>
     <e><p><l>słonecznik<s n="FIX"/></l><r>slunečnice<s n="FIX"/></r></p></e>
     <e><p><l>słony<s n="FIX"/></l><r>slaný<s n="FIX"/></r></p></e>
-    <e><p><l>słowacki<s n="FIX"/></l><r>Slovák<s n="FIX"/></r></p></e>
-    <e><p><l>słowacki<s n="FIX"/></l><r>slovenština<s n="FIX"/></r></p></e>
     <e><p><l>słowacki<s n="FIX"/></l><r>slovenský<s n="FIX"/></r></p></e>
-    <e><p><l>słoweński<s n="FIX"/></l><r>slovinština<s n="FIX"/></r></p></e>
-    <e><p><l>słoweński<s n="FIX"/></l><r>Slovinec<s n="FIX"/></r></p></e>
     <e><p><l>słoweński<s n="FIX"/></l><r>slovinský<s n="FIX"/></r></p></e>
     <e><p><l>słowiański<s n="FIX"/></l><r>slovanský<s n="FIX"/></r></p></e>
     <e><p><l>słowik rdzawy<s n="FIX"/></l><r>slavík obecný<s n="FIX"/></r></p></e>
