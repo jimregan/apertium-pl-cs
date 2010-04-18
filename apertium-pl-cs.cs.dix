@@ -904,6 +904,14 @@
       <e><p>          <l>om</l><r>do<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
       <e><p>          <l>ým</l><r>do<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="ins"/></r></p></e>
     </pardef>
+    <pardef n="k/dokoliv__prn">
+      <e><p>          <l>dokoliv</l><r>dokoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p>          <l>ohokoliv</l><r>dokoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p>          <l>ohokoliv</l><r>dokoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p>          <l>omukoliv</l><r>dokoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p>          <l>omkoliv</l><r>dokoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p>          <l>ýmkoliv</l><r>dokoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r></p></e>
+    </pardef>
 
     <pardef n="kte/rý__prn">
       <e>       <p><l>rý</l><r>rý<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -1043,6 +1051,44 @@
         <p>
           <l>čem</l>
           <r>co<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="/cokoliv__prn">
+      <e>
+        <p>
+          <l>cokoliv</l>
+          <r>cokoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čehokoliv</l>
+          <r>cokoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čemukoliv</l>
+          <r>cokoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cokoliv</l>
+          <r>cokoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čimkoliv</l>
+          <r>cokoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čemkoliv</l>
+          <r>cokoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
     </pardef>
@@ -20013,6 +20059,7 @@
     <e lm="přece"><i>přece</i><par n="jestli__cnjadv"/></e>
     <e lm="však"><i>však</i><par n="jestli__cnjadv"/></e>
     <e lm="proto"><i>proto</i><par n="jestli__cnjadv"/></e>
+    <e lm="poněvadž"><i>poněvadž</i><par n="jestli__cnjadv"/></e>
 
     <!-- Prepositions -->
     <e lm="bez"><i>bez</i><par n="za__pr"/></e>
@@ -20071,8 +20118,10 @@
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
 
     <e lm="kdo"><i>k</i><par n="k/do__prn"/></e>
+    <e lm="kdokoliv"><i>k</i><par n="k/dokoliv__prn"/></e>
     <e lm="který"><i>kte</i><par n="kte/rý__prn"/></e>
     <e lm="co"><i></i><par n="/co__prn"/></e>
+    <e lm="cokoliv"><i></i><par n="/cokoliv__prn"/></e>
     <e lm="se"><i></i><par n="/se__prn"/></e>
 
 
@@ -20181,6 +20230,7 @@
     <e lm="také"><i>také</i><par n="tehdy__adv"/></e>
     <e lm="nej" r="RL"><i>nej</i><par n="tehdy__adv"/></e>
     <e lm="nechť"><i>nechť</i><par n="tehdy__adv"/></e>
+    <e lm="ať"><i>ať</i><par n="tehdy__adv"/></e>
 
     <!-- Nouns -->
 
