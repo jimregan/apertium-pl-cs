@@ -31,6 +31,7 @@
     <sdef n="itg"/>
     <sdef n="prn"/>
     <sdef n="qnt"/>
+    <sdef n="pos"/>
     <sdef n="dem"/>
     <sdef n="ind"/>
     <sdef n="ref"/>
@@ -168,6 +169,21 @@
      <e><p><l>co<s n="prn"/><s n="itg"/></l><r>co<s n="prn"/><s n="itg"/></r></p></e>
      <e><p><l>oba<s n="prn"/><s n="ind"/></l><r>oba<s n="prn"/><s n="ind"/></r></p></e>
      <e><p><l>się<s n="prn"/><s n="ref"/></l><r>se<s n="prn"/><s n="ref"/></r></p></e>
+
+     <e><p><l>mój<s n="prn"/><s n="pos"/></l><r>můj<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>twój<s n="prn"/><s n="pos"/></l><r>tvůj<s n="prn"/><s n="pos"/></r></p></e>
+     <e><p><l>swój<s n="prn"/><s n="pos"/></l><r>svůj<s n="prn"/><s n="pos"/></r></p></e>
+<!--
+     <e><p><l>co<b/>bądź<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
+     <e><p><l>cokolwiek<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
+     <e><p><l>czworo<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
+     <e><p><l>dwoje<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
+     <e><p><l>troje<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
+-->
+     <e><p><l>coś<s n="prn"/><s n="ind"/></l><r>něco<s n="prn"/><s n="ind"/></r></p></e>
+     <e><p><l>nic<s n="prn"/><s n="ind"/></l><r>nic<s n="prn"/><s n="ind"/></r></p></e>
+     <e><p><l>żaden<s n="prn"/><s n="ind"/></l><r>žádný<s n="prn"/><s n="ind"/></r></p></e>
+
 
      <!-- Determiners -->
      <e><p><l>inny<s n="det"/></l><r>jiný<s n="det"/></r></p></e>
