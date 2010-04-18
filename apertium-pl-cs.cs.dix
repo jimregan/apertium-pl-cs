@@ -19698,6 +19698,7 @@
         <par n="dalš/í__BASE"/>
       </e>
     </pardef>
+
     <pardef n="finančn/í__adj">
       <e>
         <p>
@@ -19706,7 +19707,7 @@
         </p>
         <par n="dalš/í__BASE"/>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>ější</l>
           <r>í<s n="adj"/><s n="comp"/></r>
@@ -19788,7 +19789,7 @@
         </p>
         <par n="nov/ý__BASE"/>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>štější</l>
           <r>ský<s n="adj"/><s n="comp"/></r>
@@ -19815,7 +19816,7 @@
         </p>
         <par n="nov/ý__BASE"/>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>čtější</l>
           <r>cký<s n="adj"/><s n="sint"/><s n="comp"/></r>
@@ -19981,7 +19982,8 @@
     <!-- Adjectives -->
     <!-- FIXME: add 'nej' -->
     <e lm="finanční"><par n="nej__adv"/><i>finančn</i><par n="finančn/í__adj"/></e>
-    <e lm="další"><i>dalš</i><par n="dalš/í__adj"/></e>
+
+    <e lm="další" i="yes"><i>dalš</i><par n="dalš/í__adj"/></e>
     <e lm="nový"><par n="nej__adv"/><i>nov</i><par n="nov/ý__adj"/></e>
     <e lm="chytrý"><par n="nej__adv"/><i>chyt</i><par n="chyt/rý__adj"/></e>
     <e lm="evropský"><par n="nej__adv"/><i>evrop</i><par n="evrop/ský__adj"/></e>
