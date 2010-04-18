@@ -42,6 +42,7 @@
     <sdef n="loc"/>
     <sdef n="voc"/>
     <sdef n="CD"/>
+    <sdef n="indecl"/>
     <sdef n="sg"/>
     <sdef n="pl"/>
     <sdef n="du"/>
@@ -1186,6 +1187,13 @@
 
      <e><p><l>Petr<s n="np"/><s n="ant"/><s n="mp"/></l><r>Petr<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
      <e><p><l>Piotr<s n="np"/><s n="ant"/><s n="mp"/></l><r>Piotr<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+    <e><p><l>Connor<s n="np"/><s n="ant"/><s n="mp"/></l><r>Connor<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+    <e><p><l>Ctibor<s n="np"/><s n="ant"/><s n="mp"/></l><r>Ctibor<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+    <e><p><l>Dieter<s n="np"/><s n="ant"/><s n="mp"/></l><r>Dieter<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+    <e><p><l>Igor<s n="np"/><s n="ant"/><s n="mp"/></l><r>Igor<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+    <e><p><l>Libor<s n="np"/><s n="ant"/><s n="mp"/></l><r>Libor<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+    <e><p><l>Silvestr<s n="np"/><s n="ant"/><s n="mp"/></l><r>Silvestr<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+    <e><p><l>Valtr<s n="np"/><s n="ant"/><s n="mp"/></l><r>Valtr<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
      <e><p><l>Anna<s n="np"/><s n="ant"/><s n="f"/></l><r>Anna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
      <e><p><l>Bielsko-Biała<s n="np"/><s n="top"/><s n="nt"/></l><r>Bílsko-Bělá<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
@@ -1221,6 +1229,10 @@
     <e><p><l>Tunezja<s n="np"/><s n="top"/><s n="f"/></l><r>Tunisko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Turcja<s n="np"/><s n="top"/><s n="f"/></l><r>Turecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Broumovsko<s n="np"/><s n="top"/><s n="nt"/></l><r>Broumovsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Chodsko<s n="np"/><s n="top"/><s n="nt"/></l><r>Chodsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Uhersko<s n="np"/><s n="top"/><s n="nt"/></l><r>Uhersko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>San<b/>Francisco<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="indecl"/></l><r>San<b/>Francisco<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>San<b/>Francisco<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></l><r>San<b/>Francisco<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="CD"/></r></p></e>
     <e><p><l>Betlejem<s n="np"/><s n="top"/><s n="mi"/></l><r>Betlém<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Amur<s n="np"/><s n="top"/><s n="mi"/></l><r>Amur<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Liban<s n="np"/><s n="top"/><s n="mi"/></l><r>Libanon<s n="np"/><s n="top"/><s n="mi"/></r></p></e>

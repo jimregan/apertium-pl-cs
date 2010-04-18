@@ -15446,6 +15446,15 @@
         <par n="BASE__wojsko"/>
       </e>
     </pardef>
+    <pardef n="San_Francisco__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="indecl"/></r>
+        </p>
+        <par n="BASE__wojsko"/>
+      </e>
+    </pardef>
     <pardef n="BASE__piwo">
       <e>
         <p>
@@ -25763,7 +25772,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="np"/><s n="ant"/><s n="mp"/></r>
+          <r><s n="np"/><s n="ant"/></r>
         </p>
         <par n="PBASE__mp_pl"/>
       </e>
@@ -27764,6 +27773,13 @@
     <e lm="Paweł"><i>Paw</i><par n="Paw/eł__np"/></e>
     <e lm="Pawełek"><i>Paweł</i><par n="Piotr/ek__np"/></e>
     <e lm="Petr"><i>Petr</i><par n="Piotr__np"/></e>
+    <e lm="Connor"><i>Connor</i><par n="Piotr__np"/></e>
+    <e lm="Ctibor"><i>Ctibor</i><par n="Piotr__np"/></e>
+    <e lm="Dieter"><i>Dieter</i><par n="Piotr__np"/></e>
+    <e lm="Igor"><i>Igor</i><par n="Piotr__np"/></e>
+    <e lm="Libor"><i>Libor</i><par n="Piotr__np"/></e>
+    <e lm="Silvestr"><i>Silvestr</i><par n="Piotr__np"/></e>
+    <e lm="Valtr"><i>Valtr</i><par n="Piotr__np"/></e>
     <e lm="Marek"><i>Mar</i><par n="Mar/ek__np"/></e>
     <e lm="Jarek"><i>Jar</i><par n="Mar/ek__np"/></e>
     <e lm="Darek"><i>Dar</i><par n="Mar/ek__np"/></e>
@@ -27806,6 +27822,9 @@
     <e lm="Tajlandia"><i>Tajlandi</i><par n="Irlandi/a__np"/></e>
     <e lm="Broumovsko"><i>Broumovsk</i><par n="Broumovsk/o__np"/></e>
     <e lm="Broumovsko" r="LR"><p><l>Broumowsk</l><r>Broumovsk</r></p><par n="Broumovsk/o__np"/></e>
+    <e lm="Chodsko"><i>Chodsk</i><par n="Broumovsk/o__np"/></e>
+    <e lm="Uhersko"><i>Uhersk</i><par n="Broumovsk/o__np"/></e>
+    <e lm="San Francisco"><i>San<b/>Francisco</i><par n="San_Francisco__np"/></e>
 
     <e lm="Australijka"><i>Australij</i><par n="Australij/ka__np"/></e>
     <e lm="Alpejka"><i>Alpej</i><par n="Australij/ka__np"/></e>

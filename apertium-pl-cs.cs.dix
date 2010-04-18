@@ -5728,23 +5728,62 @@
         </p>
       </e>
     </pardef>
-    <pardef n="BASE__vozítko">
+    <pardef n="BASE__vozítko_sg">
       <e>
         <p>
-          <l>ko</l>
+          <l>o</l>
           <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ka</l>
-          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
+          <l>a</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
+          <l>u</l>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__vozítko">
+      <e>
+        <p>
+          <l>k</l>
+          <r></r>
+        </p>
+        <par n="BASE__vozítko_sg"/>
+      </e>
+      <e>
+        <p>
           <l>ka</l>
-          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
@@ -5755,20 +5794,8 @@
       </e>
       <e>
         <p>
-          <l>ku</l>
-          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>kům</l>
           <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ko</l>
-          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
@@ -5779,32 +5806,14 @@
       </e>
       <e>
         <p>
-          <l>ko</l>
-          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>ka</l>
           <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ku</l>
-          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>kách</l>
           <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>kem</l>
-          <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
@@ -5830,6 +5839,15 @@
           <r>ko<s n="np"/><s n="top"/></r>
         </p>
         <par n="BASE__vozítko"/>
+      </e>
+    </pardef>
+    <pardef n="San_Francisc/o__np">
+      <e>
+        <p>
+          <l></l>
+          <r>o<s n="np"/><s n="top"/></r>
+        </p>
+        <par n="BASE__vozítko_sg"/>
       </e>
     </pardef>
     <pardef n="s/íla__n">
@@ -21437,7 +21455,8 @@
     <e lm="Chorvatsko"><i>Chorvats</i><par n="Čes/ko__np"/></e>
     <e lm="Estonsko"><i>Estons</i><par n="Čes/ko__np"/></e>
     <e lm="Finsko"><i>Fins</i><par n="Čes/ko__np"/></e>
-    <e lm="Francisko"><i>Francis</i><par n="Čes/ko__np"/></e>
+    <e lm="San Francisko"><i>San<b/>Francisc</i><par n="San_Francisc/o__np"/></e>
+    <e lm="San Francisko" r="LR"><p><l>San<b/>Francisk</l><r>San<b/>Francisc</r></p><par n="San_Francisc/o__np"/></e>
     <e lm="Hesensko"><i>Hesens</i><par n="Čes/ko__np"/></e>
     <e lm="Hlinsko"><i>Hlins</i><par n="Čes/ko__np"/></e>
     <e lm="Holandsko"><i>Holands</i><par n="Čes/ko__np"/></e>
