@@ -706,7 +706,25 @@
      <e><p><l>papieros<s n="n"/><s n="mi"/></l><r>cigareta<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>cena<s n="n"/><s n="f"/></l><r>cena<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>dysertacja<s n="n"/><s n="f"/></l><r>disertace<s n="n"/><s n="f"/></r></p></e>
- 
+
+
+     <e><p><l>woda<s n="n"/><s n="f"/></l><r>voda<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>rzeka<s n="n"/><s n="f"/></l><r>řeka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>noc<s n="n"/><s n="f"/></l><r>noc<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kajak<s n="n"/><s n="mi"/></l><r>kajak<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>dłoń<s n="n"/><s n="f"/></l><r>dlaň<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>światło<s n="n"/><s n="nt"/></l><r>světlo<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>antykomunizm<s n="n"/><s n="mi"/></l><r>antikomunismus<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>antyproton<s n="n"/><s n="mi"/></l><r>antiproton<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>heterogeniczność<s n="n"/><s n="f"/></l><r>heterogennost<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>indukcyjność<s n="n"/><s n="f"/></l><r>indukčnost<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>jakość<s n="n"/><s n="f"/></l><r>kvalita<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>mądrość<s n="n"/><s n="f"/></l><r>moudrost<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>miłość<s n="n"/><s n="f"/></l><r>láska<s n="n"/><s n="f"/></r></p></e>
+
+
+
+
     <!-- Autocognates -->
      <e><p><l>absolutyzacja<s n="n"/><s n="f"/></l><r>absolutizace<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>adiektywizacja<s n="n"/><s n="f"/></l><r>adjektivizace<s n="n"/><s n="f"/></r></p></e>
