@@ -27999,6 +27999,8 @@
     <e lm="niż"><i>niż</i><par n="i__cnjcoo"/></e>
     <e lm="jeśli"><i>jeśli</i><par n="jeśli__cnjadv"/></e>
     <e lm="jeżeli"><i>jeżeli</i><par n="jeśli__cnjadv"/></e>
+    <e lm="przecież"><i>przecież</i><par n="jeśli__cnjadv"/></e>
+    <e lm="przecie"><i>przecie</i><par n="jeśli__cnjadv"/></e>
 
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
     <e lm="kto"><i>k</i><par n="k/to__prn"/></e>
@@ -28388,6 +28390,9 @@
     <e lm="jeszcze"><i>jeszcze</i><par n="tu__adv"/></e>
     <e lm="już"><i>już</i><par n="tu__adv"/></e>
     <e lm="także"><i>także</i><par n="tu__adv"/></e>
+    <e lm="tylko"><i>tylko</i><par n="tu__adv"/></e>
+    <e lm="jedynie"><i>jedynie</i><par n="tu__adv"/></e>
+    <e lm="trochę"><i>trochę</i><par n="tu__adv"/></e>
 
     <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="mieć"><i>m</i><par n="m/ieć__vbhaver"/></e>
@@ -28963,6 +28968,9 @@
     <e lm="daleko"><p><l>daleko</l><r>daleko<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="daleko"><p><l>dalej</l><r>daleko<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     <e lm="daleko"><p><l>najdalej</l><r>daleko<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    <e lm="podle"><p><l>podle</l><r>podle<s n="adv"/><s n="sint"/></r></p></e>
+    <e lm="podle"><p><l>podlej</l><r>podle<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e lm="podle"><p><l>najpodlej</l><r>podle<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
 
     <e lm="absolutność"><i>absolutnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="absurdalność"><i>absurdalnoś</i><par n="miłoś/ć__n"/></e>

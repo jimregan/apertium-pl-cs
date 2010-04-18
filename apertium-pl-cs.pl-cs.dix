@@ -99,6 +99,9 @@
      <e><p><l>albo<s n="cnjcoo"/></l><r>nebo<s n="cnjcoo"/></r></p></e>
      <e><p><l>jeśli<s n="cnjadv"/></l><r>jestli<s n="cnjadv"/></r></p></e>
      <e><p><l>jeżeli<s n="cnjadv"/></l><r>jestliže<s n="cnjadv"/></r></p></e>
+     <e><p><l>przecież<s n="cnjadv"/></l><r>přece<s n="cnjadv"/></r></p></e>
+     <e r="LR"><p><l>przecie<s n="cnjadv"/></l><r>přece<s n="cnjadv"/></r></p></e>
+     <e r="LR"><p><l>przecież<s n="cnjadv"/></l><r>však<s n="cnjadv"/></r></p></e>
 
      <!-- Prepositions -->
 
@@ -552,6 +555,10 @@
     <e><p><l>egzotermiczny<s n="adj"/></l><r>exotermický<s n="adj"/></r></p></e>
     <e><p><l>daleki<s n="adj"/><s n="sint"/></l><r>daleký<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>daleko<s n="adv"/><s n="sint"/></l><r>daleko<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>mało<s n="adv"/><s n="sint"/></l><r>málo<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>bardzo<s n="adv"/><s n="sint"/></l><r>velmi<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>podle<s n="adv"/><s n="sint"/></l><r>podle<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>trochę<s n="adv"/></l><r>trochu<s n="adv"/></r></p></e>
     <e><p><l>finansowy<s n="adj"/></l><r>finanční<s n="adj"/></r></p></e>
     <e><p><l>urzędowy<s n="adj"/></l><r>úřední<s n="adj"/></r></p></e>
     <e><p><l>członek<s n="n"/><s n="mp"/></l><r>člen<s n="n"/><s n="ma"/></r></p></e>
@@ -580,6 +587,7 @@
     <e><p><l>dokładnie<s n="adv"/></l><r>přesně<s n="adv"/></r></p></e>
     <e><p><l>także<s n="adv"/></l><r>také<s n="adv"/></r></p></e>
     <e><p><l>naj<s n="adv"/></l><r>nej<s n="adv"/></r></p></e>
+    <e><p><l>jedynie<s n="adv"/></l><r>jenom<s n="adv"/></r></p></e>
     <e><p><l>dom<s n="n"/><s n="mi"/></l><r>dům<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dopełniacz<s n="n"/><s n="mi"/></l><r>genitiv<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>wiek<s n="n"/><s n="mi"/></l><r>věk<s n="n"/><s n="mi"/></r></p></e>

@@ -17254,11 +17254,35 @@
       </e>
     </pardef>
 
-    <pardef n="daleko__adv">
+    <pardef n="tehdy__adv">
       <e>
         <p>
           <l></l>
           <r><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="daleko__adv">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adv"/><s n="sint"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="dál__adv">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adv"/><s n="sint"/><s n="comp"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="nejdál__adv">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adv"/><s n="sint"/><s n="sup"/></r>
         </p>
       </e>
     </pardef>
@@ -19976,6 +20000,8 @@
     <e lm="kdyby"><i>kdyby</i><par n="aby__cnjsub"/></e>
     <e lm="jestli"><i>jestli</i><par n="jestli__cnjadv"/></e>
     <e lm="jestliže"><i>jestliže</i><par n="jestli__cnjadv"/></e>
+    <e lm="přece"><i>přece</i><par n="jestli__cnjadv"/></e>
+    <e lm="však"><i>však</i><par n="jestli__cnjadv"/></e>
 
     <!-- Prepositions -->
     <e lm="bez"><i>bez</i><par n="za__pr"/></e>
@@ -20107,14 +20133,31 @@
     <e lm="zda"><i>zda</i><par n="jak__adv"/></e>
 
     <e lm="daleko"><i>daleko</i><par n="daleko__adv"/></e>
-    <e lm="odtud"><i>odtud</i><par n="daleko__adv"/></e>
-    <e lm="tehdy"><i>tehdy</i><par n="daleko__adv"/></e>
-    <e lm="ještě"><i>ještě</i><par n="daleko__adv"/></e>
-    <e lm="jednou"><i>jednou</i><par n="daleko__adv"/></e>
-    <e lm="ne"><i>ne</i><par n="daleko__adv"/></e>
-    <e lm="už"><i>už</i><par n="daleko__adv"/></e>
-    <e lm="také"><i>také</i><par n="daleko__adv"/></e>
-    <e lm="nej" r="RL"><i>nej</i><par n="daleko__adv"/></e>
+    <e lm="daleko"><p><l>dál</l><r>daleko</r></p><par n="dál__adv"/></e>
+    <e lm="daleko"><p><l>nejdál</l><r>daleko</r></p><par n="nejdál__adv"/></e>
+    <e lm="daleko" r="LR"><p><l>dále</l><r>daleko</r></p><par n="dál__adv"/></e>
+    <e lm="daleko" r="LR"><p><l>nejdále</l><r>daleko</r></p><par n="nejdál__adv"/></e>
+    <e lm="málo"><i>málo</i><par n="málo__adv"/></e>
+    <e lm="málo"><p><l>méně</l><r>málo</r></p><par n="dál__adv"/></e>
+    <e lm="málo"><p><l>nejméně</l><r>málo</r></p><par n="nejdál__adv"/></e>
+    <e lm="dobře"><i>dobře</i><par n="dobře__adv"/></e>
+    <e lm="dobře"><p><l>lépe</l><r>dobře</r></p><par n="dál__adv"/></e>
+    <e lm="dobře"><p><l>nejlépe</l><r>dobře</r></p><par n="nejdál__adv"/></e>
+    <e lm="dobře" r="LR"><p><l>líp</l><r>dobře</r></p><par n="dál__adv"/></e>
+    <e lm="dobře" r="LR"><p><l>nejlíp</l><r>dobře</r></p><par n="nejdál__adv"/></e>
+    <e lm="podle"><i>podle</i><par n="podle__adv"/></e>
+    <e lm="podle"><p><l>podleji</l><r>podle</r></p><par n="dál__adv"/></e>
+    <e lm="podle"><p><l>nejpodleji</l><r>podle</r></p><par n="nejdál__adv"/></e>
+    <e lm="odtud"><i>odtud</i><par n="tehdy__adv"/></e>
+    <e lm="tehdy"><i>tehdy</i><par n="tehdy__adv"/></e>
+    <e lm="ještě"><i>ještě</i><par n="tehdy__adv"/></e>
+    <e lm="jednou"><i>jednou</i><par n="tehdy__adv"/></e>
+    <e lm="ne"><i>ne</i><par n="tehdy__adv"/></e>
+    <e lm="už"><i>už</i><par n="tehdy__adv"/></e>
+    <e lm="jenom"><i>jenom</i><par n="tehdy__adv"/></e>
+    <e lm="trochu"><i>trochu</i><par n="tehdy__adv"/></e>
+    <e lm="také"><i>také</i><par n="tehdy__adv"/></e>
+    <e lm="nej" r="RL"><i>nej</i><par n="tehdy__adv"/></e>
 
     <!-- Nouns -->
 
