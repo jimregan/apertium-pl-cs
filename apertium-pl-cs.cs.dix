@@ -6054,6 +6054,51 @@
         <par n="BASE__vozítko_sg"/>
       </e>
     </pardef>
+    <pardef n="Itáli/e__np">
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>í</l>
+          <r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="s/íla__n">
       <e>
         <p>
@@ -21760,6 +21805,8 @@
     <e lm="Poznaň"><i>Pozna</i><par n="Pozna/ň__np"/></e>
     <e lm="Toruň"><i>Toru</i><par n="Pozna/ň__np"/></e>
     <e lm="Budapešť"><i>Budapeš</i><par n="Budapeš/ť__np"/></e>
+
+    <e lm="Itálie"><i>Itáli</i><par n="Itáli/e__np"/></e>
 
     <e lm="Česko"><i>Čes</i><par n="Čes/ko__np"/></e>
     <e lm="Polsko"><i>Pols</i><par n="Čes/ko__np"/></e>
