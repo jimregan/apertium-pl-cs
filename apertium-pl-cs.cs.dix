@@ -75,6 +75,7 @@
     <sdef n="cnjadv" c="spojka"/>
     <sdef n="preadv" c=""/>
     <sdef n="dim"    c=""/>
+    <sdef n="ij"     c=""/>
   </sdefs>
   <pardefs>
     <!-- Punctuation -->
@@ -95,6 +96,9 @@
       <e><p><l></l><r><s n="abbr"/></r></p></e>
     </pardef>
 
+    <pardef n="ahoj__ij">
+      <e><p><l></l><r><s n="ij"/></r></p></e>
+    </pardef>
     <!-- Numerals -->
 
     <pardef n="numeros">
@@ -22225,6 +22229,7 @@
     <e lm="km"><i>km</i><par n="např__abbr"/></e>
     <e lm="kg"><i>kg</i><par n="např__abbr"/></e>
 
+    <e lm="ahoj"><i>ahoj</i><par n="ahoj__ij"/></e>
 
   </section>
 
