@@ -6,9 +6,6 @@
      <cat-item tags="n.*"/>
      <cat-item tags="np.*"/>
   </def-cat>
-  <def-cat n="vblex">
-     <cat-item tags="vblex.*"/>
-  </def-cat>
   <def-cat n="verbpast">
      <cat-item tags="vblex.imperf.past"/>
      <cat-item tags="vblex.imperf.past.*"/>
@@ -18,6 +15,9 @@
      <cat-item tags="vbhaver.imperf.past.*"/>
      <cat-item tags="vaux.imperf.past"/>
      <cat-item tags="vaux.imperf.past.*"/>
+  </def-cat>
+  <def-cat n="vblex">
+     <cat-item tags="vblex.*"/>
   </def-cat>
   <def-cat n="prn">
      <cat-item tags="prn.*"/>
@@ -178,6 +178,34 @@
            </lu>
          </chunk>
        </out>
+     </action>
+  </rule>
+
+  <rule>
+     <pattern>
+       <pattern-item n="verbpast"/>
+     </pattern>
+     <action>
+       <out>
+         <chunk name="verb" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="tns"/></tag>
+              <tag><clip pos="1" side="tl" part="asp"/></tag>
+              <tag><clip pos="1" side="tl" part="prs"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <clip pos="1" side="tl" part="asp"/>
+              <clip pos="1" side="tl" part="tns"/>
+<!--              <clip pos="1" side="tl" part="prs"/>-->
+              <clip pos="1" side="tl" part="gen"/>
+              <clip pos="1" side="tl" part="nbr"/>
+            </lu>
+          </chunk>
+        </out>
      </action>
   </rule>
 
