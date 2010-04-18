@@ -60,10 +60,16 @@
     <sdef n="top"/>
     <sdef n="hyd"/>
     <sdef n="GD"/>
+    <sdef n="ND"/>
   </sdefs>
   <pardefs>
+    <pardef n="sg_sgpl">
+      <e r="LR"><p><l><s n="sg"/></l><r><s n="ND"/></r></p></e>
+      <e r="RL"><p><l><s n="sg"/></l><r><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="sg"/></l><r><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="pl_sgpl">
-      <e r="LR"><p><l><s n="pl"/></l><r><s n="GD"/></r></p></e>
+      <e r="LR"><p><l><s n="pl"/></l><r><s n="ND"/></r></p></e>
       <e r="RL"><p><l><s n="pl"/></l><r><s n="sg"/></r></p></e>
       <e r="RL"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
     </pardef>
@@ -1286,7 +1292,7 @@
     <e><p><l>Lipsk<s n="np"/><s n="top"/><s n="mi"/></l><r>Lipsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Litwa<s n="np"/><s n="top"/><s n="f"/></l><r>Litva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Londyn<s n="np"/><s n="top"/><s n="mi"/></l><r>Londýn<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
-    <e><p><l>Luksemburg<s n="np"/><s n="top"/><s n="mi"/></l><r>Lucembursko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Luksemburg<s n="np"/><s n="top"/><s n="mi"/></l><r>Lucembursko<s n="np"/><s n="top"/><s n="nt"/></r></p><par n="sg_sgpl"/></e>
     <e><p><l>Lwów<s n="np"/><s n="top"/><s n="mi"/></l><r>Lvov<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Lyon<s n="np"/><s n="top"/><s n="mi"/></l><r>Lyon<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Macedonia<s n="np"/><s n="top"/><s n="f"/></l><r>Makedonie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -1322,8 +1328,8 @@
     <e><p><l>Prusy<s n="np"/><s n="top"/><s n="f"/></l><r>Prusko<s n="np"/><s n="top"/><s n="nt"/></r></p><par n="pl_sgpl"/></e>
 
     <e><p><l>Szkocja<s n="np"/><s n="top"/><s n="f"/></l><r>Skotsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Śląsk<s n="np"/><s n="top"/><s n="mi"/></l><r>Slezsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Tyrol<s n="np"/><s n="top"/><s n="mi"/></l><r>Tyrolsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Śląsk<s n="np"/><s n="top"/><s n="mi"/></l><r>Slezsko<s n="np"/><s n="top"/><s n="nt"/></r></p><par n="sg_sgpl"/></e>
+    <e><p><l>Tyrol<s n="np"/><s n="top"/><s n="mi"/></l><r>Tyrolsko<s n="np"/><s n="top"/><s n="nt"/></r></p><par n="sg_sgpl"/></e>
 
     <e><p><l>Morze<b/>Bałtyckie<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Baltské<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
     <e><p><l>Morze<b/>Czarne<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Černé<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
