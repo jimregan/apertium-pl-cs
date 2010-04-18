@@ -580,7 +580,8 @@
     <e><p><l>dobro<s n="n"/><s n="nt"/></l><r>dobro<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>dobry<s n="adj"/><s n="sint"/></l><r>dobrý<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>dobrze<s n="adv"/><s n="sint"/></l><r>dobře<s n="adv"/><s n="sint"/></r></p></e>
-    <e><p><l>dookoła<s n="pr"/></l><r>kolem<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>dookoła<s n="pr"/></l><r>kolem<s n="pr"/></r></p></e>
+    <e><p><l>dookoła<s n="pr"/></l><r>dokola<s n="pr"/></r></p></e>
     <e><p><l>demon<s n="n"/><s n="mp"/></l><r>démon<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>deklinacja<s n="n"/><s n="f"/></l><r>deklinace<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>delfin<s n="n"/><s n="ma"/></l><r>delfín<s n="n"/><s n="ma"/></r></p></e>
