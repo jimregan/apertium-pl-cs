@@ -15506,7 +15506,14 @@
           <l></l>
           <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="indecl"/></r>
         </p>
-        <par n="BASE__wojsko"/>
+      </e>
+    </pardef>
+    <pardef n="UE__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="indecl"/></r>
+        </p>
       </e>
     </pardef>
     <pardef n="jabł/ko__n">
@@ -29469,6 +29476,7 @@
     <e lm="Uhersko"><i>Uhersk</i><par n="Broumovsk/o__np"/></e>
     <e lm="Mokrsko"><i>Mokrsk</i><par n="Broumovsk/o__np"/></e>
     <e lm="San Francisco"><i>San<b/>Francisco</i><par n="San_Francisco__np"/></e>
+    <e lm="UE"><i>UE</i><par n="UE__np"/></e>
 
     <e lm="Australijka"><i>Australij</i><par n="Australij/ka__np"/></e>
     <e lm="Alpejka"><i>Alpej</i><par n="Australij/ka__np"/></e>

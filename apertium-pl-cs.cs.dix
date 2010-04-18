@@ -65,7 +65,7 @@
     <sdef n="inf"    c=""/>
     <sdef n="imp"    c="rozkazovací způsob"/>
     
-    <sdef n="NC"     c="indeclinable"/>
+    <sdef n="indecl" c="indeclinable"/>
     <sdef n="enc"    c=""/>
     <sdef n="uns"    c=""/>
     <sdef n="vbser"  c="být"/>
@@ -6104,6 +6104,14 @@
           <r>o<s n="np"/><s n="top"/></r>
         </p>
         <par n="BASE__vozítko_sg"/>
+      </e>
+    </pardef>
+    <pardef n="EU__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="indecl"/></r>
+        </p>
       </e>
     </pardef>
     <pardef n="Itáli/e__np">
@@ -21878,6 +21886,7 @@
     <e lm="San Francisko"><i>San<b/>Francisc</i><par n="San_Francisc/o__np"/></e>
     <e lm="San Francisko" r="LR"><p><l>San<b/>Francisk</l><r>San<b/>Francisc</r></p><par n="San_Francisc/o__np"/></e>
     <e lm="Hesensko"><i>Hesens</i><par n="Čes/ko__np"/></e>
+    <e lm="EU"><i>EU</i><par n="EU__np"/></e>
     <e lm="Hlinsko" i="yes"><i>Hlins</i><par n="Čes/ko__np"/></e>
     <e lm="Holandsko"><i>Holands</i><par n="Čes/ko__np"/></e>
     <e lm="Irsko"><i>Irs</i><par n="Čes/ko__np"/></e>
