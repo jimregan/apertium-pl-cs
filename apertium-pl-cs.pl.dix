@@ -7753,6 +7753,21 @@
         </p>
       </e>
     </pardef>
+    <pardef n="słod/ki__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>ki<s n="adj"/><s n="sint"/></r>
+        </p>
+        <par n="BASE__niebieski"/>
+      </e>
+      <e>
+        <p>
+          <l>ko</l>
+          <r>ki<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="PBASE__pierwszy">
       <e>
         <p>
@@ -27067,6 +27082,12 @@
     <e lm="czysty"><i>czy</i><par n="czy/sty__adj"/></e>
     <e lm="czysty"><p><l>czyst</l><r>czysty</r></p><par n="lep/szy__adj"/></e>
     <e lm="czysty"><p><l>najczyst</l><r>czysty</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="słodki"><i>słod</i><par n="słod/ki__adj"/></e>
+    <e lm="słodki"><p><l>słod</l><r>słodki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="słodki"><p><l>najsłod</l><r>słodki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="wysoki"><i>wyso</i><par n="słod/ki__adj"/></e>
+    <e lm="wysoki"><p><l>wyż</l><r>wysoki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="wysoki"><p><l>najwyż</l><r>wysoki</r></p><par n="najlep/szy__adj"/></e>
 
     <e lm="finansowy"><i>finansow</i><par n="now/y__adj"/></e>
 
