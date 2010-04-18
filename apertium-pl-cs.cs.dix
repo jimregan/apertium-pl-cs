@@ -16,6 +16,7 @@
     <sdef n="adj"/>
     <sdef n="sint"/>
     <sdef n="comp"/>
+    <sdef n="sup"/>
 
     <sdef n="ma"     c="mužský životný"/>
     <sdef n="mi"     c="mužský neživotný"/>
