@@ -21766,7 +21766,7 @@
     <e lm="Německo"><i>Němec</i><par n="Čes/ko__np"/></e>
     <e lm="Alsasko"><i>Alsas</i><par n="Čes/ko__np"/></e>
     <e lm="Bavorsko"><i>Bavors</i><par n="Čes/ko__np"/></e>
-    <e lm="Blansko"><i>Blans</i><par n="Čes/ko__np"/></e>
+    <e lm="Blansko" i="yes"><i>Blans</i><par n="Čes/ko__np"/></e>
     <e lm="Broumovsko"><i>Broumovs</i><par n="Čes/ko__np"/></e>
     <e lm="Bulharsko"><i>Bulhars</i><par n="Čes/ko__np"/></e>
     <e lm="Chodsko"><i>Chods</i><par n="Čes/ko__np"/></e>
@@ -21776,7 +21776,7 @@
     <e lm="San Francisko"><i>San<b/>Francisc</i><par n="San_Francisc/o__np"/></e>
     <e lm="San Francisko" r="LR"><p><l>San<b/>Francisk</l><r>San<b/>Francisc</r></p><par n="San_Francisc/o__np"/></e>
     <e lm="Hesensko"><i>Hesens</i><par n="Čes/ko__np"/></e>
-    <e lm="Hlinsko"><i>Hlins</i><par n="Čes/ko__np"/></e>
+    <e lm="Hlinsko" i="yes"><i>Hlins</i><par n="Čes/ko__np"/></e>
     <e lm="Holandsko"><i>Holands</i><par n="Čes/ko__np"/></e>
     <e lm="Irsko"><i>Irs</i><par n="Čes/ko__np"/></e>
     <e lm="Japonsko"><i>Japons</i><par n="Čes/ko__np"/></e>
@@ -21785,7 +21785,7 @@
     <e lm="Loketsko"><i>Lokets</i><par n="Čes/ko__np"/></e>
     <e lm="Klatovsko"><i>Klatovs</i><par n="Čes/ko__np"/></e>
 -->
-    <e lm="Lipsko"><i>Lips</i><par n="Čes/ko__np"/></e>
+    <e lm="Lipsko" i="yes"><i>Lips</i><par n="Čes/ko__np"/></e>
     <e lm="Lucembursko"><i>Lucemburs</i><par n="Čes/ko__np"/></e>
     <e lm="Mokrsko"><i>Mokrs</i><par n="Čes/ko__np"/></e>
     <e lm="Moldavsko"><i>Moldavs</i><par n="Čes/ko__np"/></e>

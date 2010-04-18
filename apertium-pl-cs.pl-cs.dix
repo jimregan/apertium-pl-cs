@@ -62,6 +62,12 @@
     <sdef n="GD"/>
   </sdefs>
   <pardefs>
+    <pardef n="pl_sgpl">
+      <e r="LR"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
+      <e r="RL"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
+      <e r="RL"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="det_adv">
       <e r="LR"><p><l><s n="adv"/></l><r><s n="mf"/><s n="pl"/><s n="CD"/></r></p></e>
       <e r="RL"><p><l><s n="adv"/></l><r><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
@@ -1312,7 +1318,9 @@
     <e><p><l>Holandia<s n="np"/><s n="top"/><s n="f"/></l><r>Holandsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Mokrsko<s n="np"/><s n="top"/><s n="nt"/></l><r>Mokrsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>Holandia<s n="np"/><s n="top"/><s n="f"/></l><r>Nizozemsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Prusy<s n="np"/><s n="top"/><s n="nt"/></l><r>Prusko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+
+    <e><p><l>Prusy<s n="np"/><s n="top"/><s n="f"/></l><r>Prusko<s n="np"/><s n="top"/><s n="nt"/></r></p><par n="pl_sgpl"/></e>
+
     <e><p><l>Szkocja<s n="np"/><s n="top"/><s n="f"/></l><r>Skotsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Śląsk<s n="np"/><s n="top"/><s n="nt"/></l><r>Slezsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Tyrol<s n="np"/><s n="top"/><s n="nt"/></l><r>Tyrolsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
