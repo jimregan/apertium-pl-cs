@@ -73,6 +73,7 @@
     <sdef n="cnjcoo" c="spojka"/>
     <sdef n="cnjsub" c="spojka"/>
     <sdef n="cnjadv" c="spojka"/>
+    <sdef n="preadv" c=""/>
   </sdefs>
   <pardefs>
     <!-- Punctuation -->
@@ -17263,6 +17264,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="příliš__preadv">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="preadv"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="daleko__adv">
       <e>
         <p>
@@ -20146,13 +20155,22 @@
     <e lm="dobře"><p><l>nejlépe</l><r>dobře</r></p><par n="nejdál__adv"/></e>
     <e lm="dobře" r="LR"><p><l>líp</l><r>dobře</r></p><par n="dál__adv"/></e>
     <e lm="dobře" r="LR"><p><l>nejlíp</l><r>dobře</r></p><par n="nejdál__adv"/></e>
+    <e lm="hodně"><i>hodně</i><par n="hodně__adv"/></e>
+    <e lm="hodně"><p><l>víc</l><r>hodně</r></p><par n="dál__adv"/></e>
+    <e lm="hodně"><p><l>nejvíc</l><r>hodně</r></p><par n="nejdál__adv"/></e>
+    <e lm="hodně" r="LR"><p><l>více</l><r>hodně</r></p><par n="dál__adv"/></e>
+    <e lm="hodně" r="LR"><p><l>nejvíce</l><r>hodně</r></p><par n="nejdál__adv"/></e>
     <e lm="podle"><i>podle</i><par n="daleko__adv"/></e>
     <e lm="podle"><p><l>podleji</l><r>podle</r></p><par n="dál__adv"/></e>
     <e lm="podle"><p><l>nejpodleji</l><r>podle</r></p><par n="nejdál__adv"/></e>
     <e lm="odtud"><i>odtud</i><par n="tehdy__adv"/></e>
     <e lm="tehdy"><i>tehdy</i><par n="tehdy__adv"/></e>
     <e lm="ještě"><i>ještě</i><par n="tehdy__adv"/></e>
+    <e lm="velmi"><i>velmi</i><par n="tehdy__adv"/></e>
+    <e lm="velice"><i>velice</i><par n="tehdy__adv"/></e>
     <e lm="jednou"><i>jednou</i><par n="tehdy__adv"/></e>
+    <e lm="příliš"><i>příliš</i><par n="tehdy__adv"/></e>
+    <e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
     <e lm="ne"><i>ne</i><par n="tehdy__adv"/></e>
     <e lm="už"><i>už</i><par n="tehdy__adv"/></e>
     <e lm="jenom"><i>jenom</i><par n="tehdy__adv"/></e>

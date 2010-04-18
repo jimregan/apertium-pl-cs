@@ -63,6 +63,7 @@
     <sdef n="hyd"/>
     <sdef n="GD"/>
     <sdef n="ND"/>
+    <sdef n="preadv"/>
   </sdefs>
   <pardefs>
     <pardef n="sg_sgpl">
@@ -557,7 +558,11 @@
     <e><p><l>daleki<s n="adj"/><s n="sint"/></l><r>daleký<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>daleko<s n="adv"/><s n="sint"/></l><r>daleko<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>mało<s n="adv"/><s n="sint"/></l><r>málo<s n="adv"/><s n="sint"/></r></p></e>
-    <e><p><l>bardzo<s n="adv"/><s n="sint"/></l><r>velmi<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>bardzo<s n="adv"/><s n="sint"/></l><r>velmi<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>bardzo<s n="adv"/><s n="sint"/></l><r>velice<s n="adv"/></r></p></e>
+    <e><p><l>bardzo<s n="adv"/><s n="sint"/><s n="comp"/></l><r>hodně<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e><p><l>bardzo<s n="adv"/><s n="sint"/><s n="sup"/></l><r>hodně<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    <e><p><l>dużo<s n="adv"/></l><r>hodně<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>podle<s n="adv"/><s n="sint"/></l><r>podle<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>trochę<s n="adv"/></l><r>trochu<s n="adv"/></r></p></e>
     <e><p><l>finansowy<s n="adj"/></l><r>finanční<s n="adj"/></r></p></e>
@@ -1503,6 +1508,8 @@
      <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>jak<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>gdzie<s n="adv"/><s n="itg"/></l><r>kde<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>czy<s n="adv"/><s n="itg"/></l><r>zda<s n="adv"/><s n="itg"/></r></p></e>
+
+     <e><p><l>zbyt<s n="preadv"/></l><r>příliš<s n="preadv"/></r></p></e>
 
      <e><p><l>nie<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
      <e><p><l>kiedyś<s n="adv"/></l><r>jednou<s n="adv"/></r></p></e>

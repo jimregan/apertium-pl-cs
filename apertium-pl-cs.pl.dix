@@ -107,6 +107,7 @@
     <sdef n="dim"/>
     <sdef n="uns"/>
     <sdef n="abbr"/>
+    <sdef n="preadv"/>
   </sdefs>
   
   <pardefs>
@@ -857,6 +858,14 @@
         <p>
 	  <l></l>
 	  <r><s n="rel"/><s n="adv"/></r>
+	</p>
+      </e>
+    </pardef>
+    <pardef n="zbyt__preadv">
+      <e>
+        <p>
+	  <l></l>
+	  <r><s n="preadv"/></r>
 	</p>
       </e>
     </pardef>
@@ -28299,6 +28308,8 @@
     <e lm="aha"><i>aha</i><par n="cześć__ij"/></e>
     <e lm="dobranoc"><i>dobranoc</i><par n="cześć__ij"/></e>
 
+    <e lm="zbyt"><i>zbyt</i><par n="zbyt__preadv"/></e>
+
     <e lm="gdzie"><i>gdzie</i><par n="gdzie__rel"/></e>
     <e lm="co"><i>co</i><par n="co__rel"/></e>
     <e lm="co"><i>c</i><par n="c/o__prn"/></e>
@@ -28393,6 +28404,7 @@
     <e lm="tylko"><i>tylko</i><par n="tu__adv"/></e>
     <e lm="jedynie"><i>jedynie</i><par n="tu__adv"/></e>
     <e lm="trochę"><i>trochę</i><par n="tu__adv"/></e>
+    <e lm="dużo"><i>dużo</i><par n="tu__adv"/></e>
 
     <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="mieć"><i>m</i><par n="m/ieć__vbhaver"/></e>
