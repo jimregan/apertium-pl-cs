@@ -1286,13 +1286,13 @@
     <e><p><l>Myanmar<s n="np"/><s n="top"/><s n="mi"/></l><r>Myanmar<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
 
     <e><p><l>Blansko<s n="np"/><s n="top"/><s n="nt"/></l><r>Blansko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Hesja<s n="np"/><s n="top"/><s n="nt"/></l><r>Hesensko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Hesja<s n="np"/><s n="top"/><s n="f"/></l><r>Hesensko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Hlinsko<s n="np"/><s n="top"/><s n="nt"/></l><r>Hlinsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Holandia_<s n="np"/><s n="top"/><s n="nt"/></l><r>Holandsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Holandia<s n="np"/><s n="top"/><s n="f"/></l><r>Holandsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Mokrsko<s n="np"/><s n="top"/><s n="nt"/></l><r>Mokrsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e r="RL"><p><l>Holandia<s n="np"/><s n="top"/><s n="nt"/></l><r>Nizozemsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>Holandia<s n="np"/><s n="top"/><s n="f"/></l><r>Nizozemsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Prusy<s n="np"/><s n="top"/><s n="nt"/></l><r>Prusko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-    <e><p><l>Szkocja<s n="np"/><s n="top"/><s n="nt"/></l><r>Skotsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Szkocja<s n="np"/><s n="top"/><s n="f"/></l><r>Skotsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Śląsk<s n="np"/><s n="top"/><s n="nt"/></l><r>Slezsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Tyrol<s n="np"/><s n="top"/><s n="nt"/></l><r>Tyrolsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
 
