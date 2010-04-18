@@ -11394,6 +11394,21 @@
         </p>
       </e>
     </pardef>
+    <pardef n="egzotermiczn/y__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>y<s n="adj"/></r>
+        </p>
+        <par n="BASE__nowy"/>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>y<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="inn/y__det">
       <e>
         <p>
@@ -27065,6 +27080,7 @@
 
     <e lm="cały"><i>ca</i><par n="ca/ły__adj"/></e>
     <e lm="dorosły"><i>doro</i><par n="doro/sły__adj"/></e>
+    <e lm="egzotermiczny"><i>egzotermiczn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="polski"><i>pols</i><par n="pols/ki__adj"/></e>
     <e lm="czeski"><i>czes</i><par n="pols/ki__adj"/></e>
     <e lm="duński"><i>duńs</i><par n="pols/ki__adj"/></e>
