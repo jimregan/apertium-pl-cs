@@ -912,6 +912,14 @@
       <e><p>          <l>omkoliv</l><r>dokoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
       <e><p>          <l>ýmkoliv</l><r>dokoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r></p></e>
     </pardef>
+    <pardef n="něk/do__prn">
+      <e><p>          <l>do</l><r>do<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p>          <l>oho</l><r>do<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p>          <l>oho</l><r>do<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p>          <l>omu</l><r>do<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p>          <l>om</l><r>do<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p>          <l>ým</l><r>do<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r></p></e>
+    </pardef>
 
     <pardef n="kte/rý__prn">
       <e>       <p><l>rý</l><r>rý<s n="prn"/><s n="itg"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -962,6 +970,56 @@
       <e>       <p><l>rým</l><r>rý<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
       <e>       <p><l>rými</l><r>rý<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
       <e>       <p><l>rých</l><r>rý<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
+    </pardef>
+    <pardef n="kte/rýkoliv__prn">
+      <e>       <p><l>rýkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>réhokoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>réhokoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>rémukoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rýmkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rémkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>rékoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>rékoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rýchkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rýmkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rýmikoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rýchkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>rýkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>rýkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>réhokoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rémukoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rýmkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rémkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>rékoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>říkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rýchkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rýmkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rýmikoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rýchkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>roukoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>rákoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rékoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rékoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>roukoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rékoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>rékoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>rékoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rýchkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rýmkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rýmikoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rýchkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>rékoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>rékoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>réhokoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rémukoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rýmkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rémkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>rákoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>rákoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rýchkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rýmkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rýmikoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rýchkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
 
     <pardef n="/se__prn">
@@ -1089,6 +1147,44 @@
         <p>
           <l>čemkoliv</l>
           <r>cokoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ně/co__prn">
+      <e>
+        <p>
+          <l>co</l>
+          <r>co<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čeho</l>
+          <r>co<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čemu</l>
+          <r>co<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>co</l>
+          <r>co<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čim</l>
+          <r>co<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čem</l>
+          <r>co<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
     </pardef>
@@ -20118,8 +20214,10 @@
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
 
     <e lm="kdo"><i>k</i><par n="k/do__prn"/></e>
+    <e lm="někdo"><i>k</i><par n="něk/do__prn"/></e>
     <e lm="kdokoliv"><i>k</i><par n="k/dokoliv__prn"/></e>
     <e lm="který"><i>kte</i><par n="kte/rý__prn"/></e>
+    <e lm="kterýkoliv"><i>kte</i><par n="kte/rýkoliv__prn"/></e>
     <e lm="co"><i></i><par n="/co__prn"/></e>
     <e lm="cokoliv"><i></i><par n="/cokoliv__prn"/></e>
     <e lm="se"><i></i><par n="/se__prn"/></e>
