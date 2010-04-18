@@ -26460,6 +26460,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Tyrol__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owi</l>
+          <r><s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r><s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="np"/><s n="top"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Czech/y__np">
       <e>
         <p>
@@ -28373,6 +28417,7 @@
 
     <e lm="Bielsko-Biała"><i>Bielsk</i><par n="Bielsk/o-Biała__np"/></e>
     <e lm="Poznań"><i>Pozna</i><par n="Pozna/ń__np"/></e>
+    <e lm="Tyrol"><i>Tyrol</i><par n="Tyrol__np"/></e>
     <e lm="Toruń"><i>Toru</i><par n="Pozna/ń__np"/></e>
     <e lm="Budapeszt"><i>Budapesz</i><par n="Budapesz/t__np"/></e>
     <e lm="Polska"><i>Pols</i><par n="Pols/ka__np"/></e>
