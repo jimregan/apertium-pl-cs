@@ -26973,7 +26973,6 @@
     <e lm="dziewięćsetny"><i>dziewięćsetn</i><par n="ósm/y__det"/></e>
     <e lm="tysięczny"><i>tysięczn</i><par n="ósm/y__det"/></e>
     <e lm="tysiączny" r="LR"><p><l>tysiączn</l><r>tysięczn</r></p><par n="ósm/y__det"/></e>
-    <e lm="egzotermiczny"><i>egzotermiczn</i><par n="ósm/y__det"/></e>
     <e lm="dwutysięczny"><i>dwutysięczn</i><par n="ósm/y__det"/></e>
     <e lm="dwutysiączny" r="LR"><p><l>dwutysiączn</l><r>dwutysięczn</r></p><par n="ósm/y__det"/></e>
     <e lm="dwóchtysięczny" r="LR"><p><l>dwóchtysięczn</l><r>dwutysięczn</r></p><par n="ósm/y__det"/></e>
@@ -27071,6 +27070,27 @@
     <e lm="głupi"><i>głup</i><par n="głup/i__adj"/></e>
     <e lm="głupi"><p><l>głup</l><r>głupi</r></p><par n="lep/szy__adj"/></e>
     <e lm="głupi"><p><l>najgłup</l><r>głupi</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="brudny"><i>brudn</i><par n="now/y__adj"/></e>
+    <e lm="brudny"><p><l>brudniej</l><r>brudny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="brudny"><p><l>najbrudniej</l><r>brudny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="śmieszny"><i>śmieszn</i><par n="now/y__adj"/></e>
+    <e lm="śmieszny"><p><l>śmieszniej</l><r>śmieszny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="śmieszny"><p><l>najśmieszniej</l><r>śmieszny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ciemny"><i>ciemn</i><par n="now/y__adj"/></e>
+    <e lm="ciemny"><p><l>ciemniej</l><r>ciemny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ciemny"><p><l>najciemniej</l><r>ciemny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="dokładny"><i>dokładn</i><par n="now/y__adj"/></e>
+    <e lm="dokładny"><p><l>dokładn</l><r>dokładny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="dokładny"><p><l>najdokładniej</l><r>dokładny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="bezpieczny"><i>bezpieczn</i><par n="now/y__adj"/></e>
+    <e lm="bezpieczny"><p><l>bezpieczn</l><r>bezpieczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="bezpieczny"><p><l>najbezpieczniej</l><r>bezpieczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="brudny"><i>brudn</i><par n="now/y__adj"/></e>
+    <e lm="brudny"><p><l>brudn</l><r>brudny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="brudny"><p><l>najbrudniej</l><r>brudny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="sprytny"><i>sprytn</i><par n="now/y__adj"/></e>
+    <e lm="sprytny"><p><l>sprytniej</l><r>sprytny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="sprytny"><p><l>najsprytniej</l><r>sprytny</r></p><par n="najlep/szy__adj"/></e>
     <!-- non-synthetic, with obsolete comparatives -->
     <e lm="żółty"><i>żół</i><par n="żół/ty__adj"/></e>
     <e lm="żółtszy" r="LR"><p><l>żółt</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
@@ -27081,6 +27101,11 @@
     <e lm="cały"><i>ca</i><par n="ca/ły__adj"/></e>
     <e lm="dorosły"><i>doro</i><par n="doro/sły__adj"/></e>
     <e lm="egzotermiczny"><i>egzotermiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tematyczny"><i>tematyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="alfabetyczny"><i>alfabetyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="automatyczny"><i>automatyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezrobotny"><i>bezrobotn</i><par n="egzotermiczn/y__adj"/></e>
+
     <e lm="polski"><i>pols</i><par n="pols/ki__adj"/></e>
     <e lm="czeski"><i>czes</i><par n="pols/ki__adj"/></e>
     <e lm="duński"><i>duńs</i><par n="pols/ki__adj"/></e>
