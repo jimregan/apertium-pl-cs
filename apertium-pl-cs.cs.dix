@@ -19713,6 +19713,7 @@
     <e lm="chytrý"><par n="nej__adv"/><i>chyt</i><par n="chyt/rý__adj"/></e>
     <e lm="evropský"><par n="nej__adv"/><i>evrop</i><par n="evrop/ský__adj"/></e>
     <e lm="dánský"><par n="nej__adv"/><i>dán</i><par n="evrop/ský__adj"/></e>
+    <e lm="jihoslovanský"><par n="nej__adv"/><i>jihoslovan</i><par n="evrop/ský__adj"/></e>
     <e lm="exotermický"><par n="nej__adv"/><i>exotermi</i><par n="exotermi/cký__adj"/></e>
     <e lm="celý"><i>cel</i><par n="cel/ý__adj"/></e>
 
@@ -19746,6 +19747,7 @@
     <e lm="aerodynamika"><i>aerodynami</i><par n="dý/ka__n"/></e>
     <e lm="aerostatika"><i>aerostati</i><par n="dý/ka__n"/></e>
     <e lm="afrikánština"><i>afrikánštin</i><par n="dob/a__n"/></e>
+    <e lm="slovinština"><i>slovinštin</i><par n="dob/a__n"/></e>
     <e lm="akomodace"><i>akomodac</i><par n="šíj/e__n"/></e>
     <e lm="akronym"><i>akronym</i><par n="bor__n"/></e>
     <e lm="akronymum"><i>akronym</i><par n="sput/um__n"/></e>

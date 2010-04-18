@@ -276,6 +276,7 @@
      <e><p><l>plan<s n="n"/><s n="mi"/></l><r>plán<s n="n"/><s n="mi"/></r></p></e> 
      <e><p><l>ewangeliarz<s n="n"/><s n="mi"/></l><r>evangeliář<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>tokamak<s n="n"/><s n="mi"/></l><r>tokamak<s n="n"/><s n="mi"/></r></p></e>
+     <e c="check"><p><l>język<b/>słoweński<s n="n"/><s n="mi"/></l><r>slovinština<s n="n"/><s n="f"/></r></p></e>
     
      <!--in polish only plural form -->
      <!--  <e><p><l>słodycze<s n="n"/></l><r>cukrovinka<s n="n"/><s n="f"/></r></p></e> -->
@@ -587,6 +588,7 @@
      <e r="LR"><p><l>bielsko-bialski<s n="adj"/></l><r>bílský<s n="adj"/></r></p></e>
      <e><p><l>czysty<s n="adj"/><s n="sint"/></l><r>čistý<s n="adj"/></r></p></e>
      <e><p><l>partyzancki<s n="adj"/></l><r>partyzánský<s n="adj"/></r></p></e>
+     <e><p><l>południowosłowiański<s n="adj"/></l><r>jihoslovanský<s n="adj"/></r></p></e>
      <e><p><l>proletariacki<s n="adj"/></l><r>proletářský<s n="adj"/></r></p></e>
      <e><p><l>aramejski<s n="adj"/></l><r>aramejský<s n="adj"/></r></p></e>
      <e><p><l>królewski<s n="adj"/></l><r>královský<s n="adj"/></r></p></e>
@@ -674,7 +676,7 @@
      <e><p><l>laciński<s n="adj"/></l><r>latinský<s n="adj"/></r></p></e>
      <e><p><l>serbski<s n="adj"/></l><r>srbský<s n="adj"/></r></p></e>
      <e><p><l>szwajcarski<s n="adj"/></l><r>švýcarský<s n="adj"/></r></p></e>
-     <e><p><l>słoweński<s n="adj"/></l><r>slovinský<s n="adj"/></r></p></e>
+     <e><p><l>słoweński<s n="adj"/></l><r>slovinština<s n="adj"/></r></p></e>
      <e><p><l>słowiański<s n="adj"/></l><r>slovanský<s n="adj"/></r></p></e>
      <e><p><l>walijski<s n="adj"/></l><r>velšský<s n="adj"/></r></p></e>
      <e><p><l>wszędobylski<s n="adj"/></l><r>všudypřítomný<s n="adj"/></r></p></e>
