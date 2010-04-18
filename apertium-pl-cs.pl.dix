@@ -7738,6 +7738,21 @@
         </p>
       </e>
     </pardef>
+    <pardef n="mors/ki__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>ki<s n="adj"/></r>
+        </p>
+        <par n="BASE__niebieski"/>
+      </e>
+      <e>
+        <p>
+          <l>ko</l>
+          <r>ki<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="PBASE__pierwszy">
       <e>
         <p>
@@ -27111,6 +27126,75 @@
     <e lm="duński"><i>duńs</i><par n="pols/ki__adj"/></e>
     <e lm="europejski"><i>europejs</i><par n="pols/ki__adj"/></e>
     <e lm="południowosłowiański"><i>południowosłowiańs</i><par n="pols/ki__adj"/></e>
+    <e lm="partyzancki"><i>partyzanc</i><par n="mors/ki__adj"/></e>
+    <e lm="proletariacki"><i>proletariac</i><par n="mors/ki__adj"/></e>
+    <e lm="aramejski"><i>aramejs</i><par n="pols/ki__adj"/></e>
+    <e lm="królewski"><i>królews</i><par n="mors/ki__adj"/></e>
+    <e lm="bengalski"><i>bengals</i><par n="pols/ki__adj"/></e>
+    <e lm="wegetariański"><i>wegetariańs</i><par n="mors/ki__adj"/></e>
+    <e lm="szatański"><i>szatańs</i><par n="mors/ki__adj"/></e>
+    <e lm="arogancki"><i>aroganc</i><par n="mors/ki__adj"/></e>
+    <e lm="argentyński"><i>argentyńs</i><par n="pols/ki__adj"/></e>
+    <e lm="arabski"><i>arabs</i><par n="pols/ki__adj"/></e>
+    <e lm="angielski"><i>angiels</i><par n="pols/ki__adj"/></e>
+    <e lm="amerykański"><i>amerykańs</i><par n="pols/ki__adj"/></e>
+    <e lm="afrykański"><i>afrykańs</i><par n="pols/ki__adj"/></e>
+    <e lm="afgański"><i>afgańs</i><par n="pols/ki__adj"/></e>
+    <e lm="abchaski"><i>abchas</i><par n="pols/ki__adj"/></e>
+    <e lm="australijski"><i>australijs</i><par n="pols/ki__adj"/></e>
+    <e lm="austriacki"><i>austriac</i><par n="pols/ki__adj"/></e>
+    <e lm="azjatycki"><i>azjatyc</i><par n="pols/ki__adj"/></e>
+    <e lm="barbarzyński"><i>barbarzyńs</i><par n="pols/ki__adj"/></e>
+    <e lm="baskijski"><i>baskijs</i><par n="pols/ki__adj"/></e>
+    <e lm="baszkirski"><i>baszkirs</i><par n="pols/ki__adj"/></e>
+    <e lm="belgijski"><i>belgijs</i><par n="pols/ki__adj"/></e>
+    <e lm="jasnoniebieski"><i>jasnoniebies</i><par n="mors/ki__adj"/></e>
+    <e lm="białoruski"><i>białorus</i><par n="pols/ki__adj"/></e>
+    <e lm="brazylijski"><i>brazylijs</i><par n="pols/ki__adj"/></e>
+    <e lm="brytyjski"><i>brytyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="bułgarski"><i>bułgars</i><par n="pols/ki__adj"/></e>
+    <e lm="celtycki"><i>celtyc</i><par n="pols/ki__adj"/></e>
+    <e lm="chiński"><i>chińs</i><par n="pols/ki__adj"/></e>
+    <e lm="chorwacki"><i>chorwac</i><par n="pols/ki__adj"/></e>
+    <e lm="indiański"><i>indiańs</i><par n="pols/ki__adj"/></e>
+    <e lm="indonezyjski"><i>indonezyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="indyjski"><i>indyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="japoński"><i>japońs</i><par n="pols/ki__adj"/></e>
+    <e lm="kataloński"><i>katalońs</i><par n="pols/ki__adj"/></e>
+    <e lm="klingoński"><i>klingońs</i><par n="pols/ki__adj"/></e>
+    <e lm="kurdyjski"><i>kurdyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="latynoski"><i>latynos</i><par n="pols/ki__adj"/></e>
+    <e lm="lesbijski"><i>lesbijs</i><par n="mors/ki__adj"/></e>
+    <e lm="litewski"><i>litews</i><par n="pols/ki__adj"/></e>
+    <e lm="malajski"><i>malajs</i><par n="pols/ki__adj"/></e>
+    <e lm="mongolski"><i>mongols</i><par n="pols/ki__adj"/></e>
+    <e lm="morski"><i>mors</i><par n="mors/ki__adj"/></e>
+    <e lm="norweski"><i>norwes</i><par n="pols/ki__adj"/></e>
+    <e lm="ojcowski"><i>ojcows</i><par n="pols/ki__adj"/></e>
+    <e lm="okcytański"><i>okcytańs</i><par n="pols/ki__adj"/></e>
+    <e lm="ormiański"><i>ormiańs</i><par n="pols/ki__adj"/></e>
+    <e lm="portugalski"><i>portugals</i><par n="pols/ki__adj"/></e>
+    <e lm="rosyjski"><i>rosyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="rumuński"><i>rumuńs</i><par n="pols/ki__adj"/></e>
+    <e lm="rzymski"><i>rzyms</i><par n="pols/ki__adj"/></e>
+    <e lm="laciński"><i>lacińs</i><par n="pols/ki__adj"/></e>
+    <e lm="serbski"><i>serbs</i><par n="pols/ki__adj"/></e>
+    <e lm="szwajcarski"><i>szwajcars</i><par n="pols/ki__adj"/></e>
+    <e lm="słoweński"><i>słoweńs</i><par n="pols/ki__adj"/></e>
+    <e lm="słowiański"><i>słowiańs</i><par n="pols/ki__adj"/></e>
+    <e lm="walijski"><i>walijs</i><par n="pols/ki__adj"/></e>
+    <e lm="węgierski"><i>węgiers</i><par n="pols/ki__adj"/></e>
+    <e lm="włoski"><i>włos</i><par n="pols/ki__adj"/></e>
+    <e lm="łotewski"><i>łotews</i><par n="pols/ki__adj"/></e>
+    <e lm="żydowski"><i>żydows</i><par n="pols/ki__adj"/></e>
+    <e lm="egipski"><i>egips</i><par n="pols/ki__adj"/></e>
+    <e lm="farerski"><i>farers</i><par n="pols/ki__adj"/></e>
+    <e lm="fiński"><i>fińs</i><par n="pols/ki__adj"/></e>
+    <e lm="francuski"><i>francus</i><par n="pols/ki__adj"/></e>
+    <e lm="hiszpański"><i>hiszpańs</i><par n="pols/ki__adj"/></e>
+    <e lm="hebrajski"><i>hebrajs</i><par n="pols/ki__adj"/></e>
+    <e lm="holenderski"><i>holenders</i><par n="pols/ki__adj"/></e>
+    <e lm="azerski"><i>azers</i><par n="pols/ki__adj"/></e>
 
     <e lm="cześć"><i>cześć</i><par n="cześć__ij"/></e>
     <e lm="ach"><i>ach</i><par n="cześć__ij"/></e>
