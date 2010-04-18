@@ -33,6 +33,7 @@
     <sdef n="qnt"/>
     <sdef n="dem"/>
     <sdef n="ind"/>
+    <sdef n="ref"/>
 
     <sdef n="nom"/>
     <sdef n="gen"/>
@@ -166,6 +167,7 @@
      <e><p><l>który<s n="prn"/><s n="itg"/></l><r>který<s n="prn"/><s n="itg"/></r></p></e>
      <e><p><l>co<s n="prn"/><s n="itg"/></l><r>co<s n="prn"/><s n="itg"/></r></p></e>
      <e><p><l>oba<s n="prn"/><s n="ind"/></l><r>oba<s n="prn"/><s n="ind"/></r></p></e>
+     <e><p><l>się<s n="prn"/><s n="ref"/></l><r>se<s n="prn"/><s n="ref"/></r></p></e>
 
      <!-- Determiners -->
      <e><p><l>inny<s n="det"/></l><r>jiný<s n="det"/></r></p></e>
@@ -1293,7 +1295,7 @@
     <e><p><l>Liechtenstein<s n="np"/><s n="top"/><s n="mi"/></l><r>Lichtenštejnsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Lipsk<s n="np"/><s n="top"/><s n="mi"/></l><r>Lipsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Litwa<s n="np"/><s n="top"/><s n="f"/></l><r>Litva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Włochy<s n="np"/><s n="top"/><s n="f"/></l><r>Itálie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Włochy<s n="np"/><s n="top"/><s n="f"/></l><r>Itálie<s n="np"/><s n="top"/><s n="f"/></r></p><par n="pl_sgpl"/></e>
     <e><p><l>Londyn<s n="np"/><s n="top"/><s n="mi"/></l><r>Londýn<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Luksemburg<s n="np"/><s n="top"/><s n="mi"/></l><r>Lucembursko<s n="np"/><s n="top"/><s n="nt"/></r></p><par n="sg_sgpl"/></e>
     <e><p><l>Lwów<s n="np"/><s n="top"/><s n="mi"/></l><r>Lvov<s n="np"/><s n="top"/><s n="mi"/></r></p></e>

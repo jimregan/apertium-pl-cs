@@ -954,6 +954,58 @@
       <e>       <p><l>rých</l><r>rý<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
 
+    <pardef n="/se__prn">
+      <e>
+        <p>
+          <l>sebe</l>
+          <r>se<s n="prn"/><s n="ref"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>si</l>
+          <r>sa<s n="prn"/><s n="ref"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sobě</l>
+          <r>se<s n="prn"/><s n="ref"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>sobě</l>
+          <r>se<s n="prn"/><s n="ref"/><s n="emph"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>sebe</l>
+          <r>se<s n="prn"/><s n="ref"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>se</l>
+          <r>se<s n="prn"/><s n="ref"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sobě</l>
+          <r>se<s n="prn"/><s n="ref"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sebou</l>
+          <r>se<s n="prn"/><s n="ref"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+
+
     <pardef n="/co__prn">
       <e>
         <p>
@@ -19973,6 +20025,7 @@
     <e lm="kdo"><i>k</i><par n="k/do__prn"/></e>
     <e lm="který"><i>kte</i><par n="kte/rý__prn"/></e>
     <e lm="co"><i></i><par n="/co__prn"/></e>
+    <e lm="se"><i></i><par n="/se__prn"/></e>
 
 
 
