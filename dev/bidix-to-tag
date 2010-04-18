@@ -1556,10 +1556,7 @@
     <e><p><l>dystansować<s n="FIX"/></l><r>vzdálenost<s n="FIX"/></r></p></e>
     <e><p><l>dywan<s n="FIX"/></l><r>koberec<s n="FIX"/></r></p></e>
     <e><p><l>dywidenda<s n="FIX"/></l><r>dělenec<s n="FIX"/></r></p></e>
-    <e><p><l>dywidenda<s n="FIX"/></l><r>dividenda<s n="FIX"/></r></p></e>
     <e><p><l>dywiz<s n="FIX"/></l><r>spojovník<s n="FIX"/></r></p></e>
-    <e><p><l>dywizja<s n="FIX"/></l><r>dělení<s n="FIX"/></r></p></e>
-    <e><p><l>dywizja<s n="FIX"/></l><r>divize<s n="FIX"/></r></p></e>
     <e><p><l>dziadek<s n="FIX"/></l><r>děda<s n="FIX"/></r></p></e>
     <e><p><l>dziadek do orzechów<s n="FIX"/></l>    <r>louskáček<s n="FIX"/></r></p></e>
     <e><p><l>dziadek po mieczu<s n="FIX"/></l>      <r>děda<s n="FIX"/></r></p></e>
@@ -1570,9 +1567,6 @@
     <e><p><l>dzida<s n="FIX"/></l><r>kopí<s n="FIX"/></r></p></e>
     <e><p><l>dzieci<s n="FIX"/></l><r>děti<s n="FIX"/></r></p></e>
     <e><p><l>dzieciak<s n="FIX"/></l><r>kůzle<s n="FIX"/></r></p></e>
-    <e><p><l>dzieciństwo<s n="FIX"/></l><r>dětství<s n="FIX"/></r></p></e>
-    <e><p><l>dziecko<s n="FIX"/></l><r>dítě<s n="FIX"/></r></p></e>
-    <e><p><l>dziedzictwo<s n="FIX"/></l><r>dědictví<s n="FIX"/></r></p></e>
     <e><p><l>dziedziniec<s n="FIX"/></l><r>dvůr<s n="FIX"/></r></p></e>
     <e><p><l>dziel i rządź<s n="FIX"/></l><r>rozděl a panuj<s n="FIX"/></r></p></e>
     <e><p><l>dzielenie<s n="FIX"/></l><r>dělení<s n="FIX"/></r></p></e>
@@ -2298,10 +2292,7 @@
     <e><p><l>iść<s n="FIX"/></l><r>zbýt<s n="FIX"/></r></p></e>
     <e><p><l>iść<s n="FIX"/></l><r>zanechat<s n="FIX"/></r></p></e>
     <e><p><l>ja<s n="FIX"/></l><r>já<s n="FIX"/></r></p></e>
-    <e><p><l>jabłko<s n="FIX"/></l><r>jablko<s n="FIX"/></r></p></e>
-    <e><p><l>jabłko Adama<s n="FIX"/></l><r>ohryzek<s n="FIX"/></r></p></e>
     <e><p><l>jabłoń<s n="FIX"/></l><r>jabloň<s n="FIX"/></r></p></e>
-    <e><p><l>jabłoń<s n="FIX"/></l><r>jablko<s n="FIX"/></r></p></e>
     <e><p><l>jad<s n="FIX"/></l><r>jed<s n="FIX"/></r></p></e>
     <e><p><l>jadalnia<s n="FIX"/></l><r>jídelna<s n="FIX"/></r></p></e>
     <e><p><l>jadalny<s n="FIX"/></l><r>jedlý<s n="FIX"/></r></p></e>
@@ -2330,8 +2321,6 @@
     <e><p><l>jakość<s n="FIX"/></l><r>kvalita<s n="FIX"/></r></p></e>
     <e><p><l>jakość<s n="FIX"/></l><r>vlastnost<s n="FIX"/></r></p></e>
     <e><p><l>jamnik<s n="FIX"/></l><r>jezevčík<s n="FIX"/></r></p></e>
-    <e><p><l>japoński<s n="FIX"/></l><r>japonština<s n="FIX"/></r></p></e>
-    <e><p><l>japoński<s n="FIX"/></l><r>Japonec<s n="FIX"/></r></p></e>
     <e><p><l>japoński<s n="FIX"/></l><r>japonský<s n="FIX"/></r></p></e>
     <e><p><l>jarmułka<s n="FIX"/></l><r>kipa<s n="FIX"/></r></p></e>
     <e><p><l>jarmuż<s n="FIX"/></l><r>kapusta<s n="FIX"/></r></p></e>
@@ -2342,25 +2331,17 @@
     <e><p><l>jaskółka<s n="FIX"/></l><r>polknout<s n="FIX"/></r></p></e>
     <e><p><l>jasnowidz<s n="FIX"/></l><r>jasnovidec<s n="FIX"/></r></p></e>
     <e><p><l>jasnowidzenie<s n="FIX"/></l><r>jasnovidnost<s n="FIX"/></r></p></e>
-    <e><p><l>jasny<s n="FIX"/></l><r>světlo<s n="FIX"/></r></p></e>
-    <e><p><l>jasny<s n="FIX"/></l><r>zapálit<s n="FIX"/></r></p></e>
-    <e><p><l>jasny<s n="FIX"/></l><r>osvětlit<s n="FIX"/></r></p></e>
-    <e><p><l>jasny<s n="FIX"/></l><r>světlý<s n="FIX"/></r></p></e>
     <e><p><l>jaspis<s n="FIX"/></l><r>jaspis<s n="FIX"/></r></p></e>
     <e><p><l>jastrząb<s n="FIX"/></l><r>jestřáb<s n="FIX"/></r></p></e>
     <e><p><l>jaszczurka<s n="FIX"/></l><r>ještěrka<s n="FIX"/></r></p></e>
     <e><p><l>jałowiec<s n="FIX"/></l><r>jalovec<s n="FIX"/></r></p></e>
-    <e><p><l>jeden<s n="FIX"/></l><r>jeden<s n="FIX"/></r></p></e>
-    <e><p><l>jeden<s n="FIX"/></l><r>jednička<s n="FIX"/></r></p></e>
     <e><p><l>jedenasty<s n="FIX"/></l><r>jedenáctý<s n="FIX"/></r></p></e>
-    <e><p><l>jedenaście<s n="FIX"/></l><r>jedenáct<s n="FIX"/></r></p></e>
     <e><p><l>jednakże<s n="FIX"/></l><r>nicméně<s n="FIX"/></r></p></e>
     <e><p><l>jednakże<s n="FIX"/></l><r>ač<s n="FIX"/></r></p></e>
     <e><p><l>jednorożec<s n="FIX"/></l><r>jednorožec<s n="FIX"/></r></p></e>
     <e><p><l>jednostka<s n="FIX"/></l><r>jednotka<s n="FIX"/></r></p></e>
     <e><p><l>jedwab<s n="FIX"/></l><r>hedvábí<s n="FIX"/></r></p></e>
     <e><p><l>jedwabnik morwowy<s n="FIX"/></l>      <r>bourec morušový<s n="FIX"/></r></p></e>
-    <e><p><l>jedynka<s n="FIX"/></l><r>jeden<s n="FIX"/></r></p></e>
     <e><p><l>jedynka<s n="FIX"/></l><r>jednička<s n="FIX"/></r></p></e>
     <e><p><l>jedyny<s n="FIX"/></l><r>jediný<s n="FIX"/></r></p></e>
     <e><p><l>jedyny<s n="FIX"/></l><r>jen<s n="FIX"/></r></p></e>
@@ -6203,9 +6184,6 @@
     <e><p><l>szklanka<s n="FIX"/></l><r>čaj<s n="FIX"/></r></p></e>
     <e><p><l>szklarnia<s n="FIX"/></l><r>skleník<s n="FIX"/></r></p></e>
     <e><p><l>szkoda<s n="FIX"/></l><r>urážka<s n="FIX"/></r></p></e>
-    <e><p><l>szkoła<s n="FIX"/></l><r>škola<s n="FIX"/></r></p></e>
-    <e><p><l>szkuner<s n="FIX"/></l><r>škuner<s n="FIX"/></r></p></e>
-    <e><p><l>szkło<s n="FIX"/></l><r>sklo<s n="FIX"/></r></p></e>
     <e><p><l>szkło<s n="FIX"/></l><r>sklenice<s n="FIX"/></r></p></e>
     <e><p><l>szkło kontaktowe<s n="FIX"/></l><r>kontaktní čočka<s n="FIX"/></r></p></e>
     <e><p><l>szlachta<s n="FIX"/></l><r>šlechta<s n="FIX"/></r></p></e>
