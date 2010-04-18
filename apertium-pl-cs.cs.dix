@@ -20323,6 +20323,10 @@
     <e lm="extravilán"><i>extravilán</i><par n="bor__n"/></e>
     <e lm="fanatismus"><i>fanatism</i><par n="ile/us__n"/></e>
     <e lm="fanatizmus" r="LR"><p><l>fanatizm</l><r>fanatism</r></p><par n="ile/us__n"/></e>
+    <e lm="antikomunismus"><i>antikomunism</i><par n="ile/us__n"/></e>
+    <e lm="antikomunizmus" r="LR"><p><l>antikomunizm</l><r>antikomunism</r></p><par n="ile/us__n"/></e>
+    <e lm="komunismus"><i>komunism</i><par n="ile/us__n"/></e>
+    <e lm="komunizmus" r="LR"><p><l>komunizm</l><r>komunism</r></p><par n="ile/us__n"/></e>
     <e lm="fauna"><i>faun</i><par n="dob/a__n"/></e>
     <e lm="fax"><i>fax</i><par n="bor__n"/></e>
     <e lm="fašismus"><i>fašism</i><par n="ile/us__n"/></e>
@@ -20341,6 +20345,7 @@
     <e lm="fraktura"><i>fraktu</i><par n="sí/ra__n"/></e>
     <e lm="francium"><i>franci</i><par n="bary/um__n"/></e>
     <e lm="fundace"><i>fundac</i><par n="šíj/e__n"/></e>
+    <e lm="politizace"><i>politizac</i><par n="šíj/e__n"/></e>
     <e lm="fylogenese" r="LR"><p><l>fylogenes</l><r>fylogenez</r></p><par n="šíj/e__n"/></e>
     <e lm="fylogeneze"><i>fylogenez</i><par n="šíj/e__n"/></e>
     <e lm="fysika"><i>fysi</i><par n="dý/ka__n"/></e>
@@ -20905,6 +20910,8 @@
     <e lm="savana"><i>savan</i><par n="dob/a__n"/></e>
     <e lm="schizofrenie"><i>schizofreni</i><par n="šíj/e__n"/></e>
     <e lm="schopnost"><i>schopnost</i><par n="věc__n"/></e>
+    <e lm="indukčnost"><i>indukčnost</i><par n="věc__n"/></e>
+    <e lm="heterogennost"><i>heterogennost</i><par n="věc__n"/></e>
     <e lm="seaborgium"><i>seaborgi</i><par n="bary/um__n"/></e>
     <e lm="sedisvakance"><i>sedisvakanc</i><par n="šíj/e__n"/></e>
     <e lm="seizmograf"><i>seizmograf</i><par n="bor__n"/></e>
