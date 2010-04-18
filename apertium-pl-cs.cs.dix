@@ -1021,6 +1021,56 @@
       <e>       <p><l>rýmikoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
       <e>       <p><l>rýchkoliv</l><r>rýkoliv<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
+    <pardef n="někte/rý__prn">
+      <e>       <p><l>rý</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rého</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rého</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>rému</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rým</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rém</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>ré</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>ré</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rých</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rým</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rými</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rých</l><r>rý<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>rý</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>rý</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rého</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rému</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rým</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rém</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>ré</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>ří</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rých</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rým</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rými</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rých</l><r>rý<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>rou</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>rá</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ré</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>ré</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rou</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>ré</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>ré</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>ré</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rých</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rým</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rými</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rých</l><r>rý<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>ré</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>ré</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rého</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rému</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rým</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rém</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>rá</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>rá</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>rých</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>rým</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>rými</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>rých</l><r>rý<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
+    </pardef>
 
     <pardef n="/se__prn">
       <e>
@@ -20214,10 +20264,11 @@
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
 
     <e lm="kdo"><i>k</i><par n="k/do__prn"/></e>
-    <e lm="někdo"><i>k</i><par n="něk/do__prn"/></e>
+    <e lm="někdo"><i>něk</i><par n="něk/do__prn"/></e>
     <e lm="kdokoliv"><i>k</i><par n="k/dokoliv__prn"/></e>
     <e lm="který"><i>kte</i><par n="kte/rý__prn"/></e>
     <e lm="kterýkoliv"><i>kte</i><par n="kte/rýkoliv__prn"/></e>
+    <e lm="některý"><i>někte</i><par n="někte/rý__prn"/></e>
     <e lm="co"><i></i><par n="/co__prn"/></e>
     <e lm="cokoliv"><i></i><par n="/cokoliv__prn"/></e>
     <e lm="se"><i></i><par n="/se__prn"/></e>
