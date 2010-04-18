@@ -21492,10 +21492,12 @@
     <e lm="Holandsko"><i>Holands</i><par n="Čes/ko__np"/></e>
     <e lm="Irsko"><i>Irs</i><par n="Čes/ko__np"/></e>
     <e lm="Japonsko"><i>Japons</i><par n="Čes/ko__np"/></e>
+<!--
     <e lm="Kladensko"><i>Kladens</i><par n="Čes/ko__np"/></e>
-    <e lm="Klatovsko"><i>Klatovs</i><par n="Čes/ko__np"/></e>
-    <e lm="Lipsko"><i>Lips</i><par n="Čes/ko__np"/></e>
     <e lm="Loketsko"><i>Lokets</i><par n="Čes/ko__np"/></e>
+    <e lm="Klatovsko"><i>Klatovs</i><par n="Čes/ko__np"/></e>
+-->
+    <e lm="Lipsko"><i>Lips</i><par n="Čes/ko__np"/></e>
     <e lm="Lucembursko"><i>Lucemburs</i><par n="Čes/ko__np"/></e>
     <e lm="Mokrsko"><i>Mokrs</i><par n="Čes/ko__np"/></e>
     <e lm="Moldavsko"><i>Moldavs</i><par n="Čes/ko__np"/></e>
