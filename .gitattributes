@@ -28,6 +28,7 @@ dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/interwiki.cs-pl -text
 dev/interwiki.pl-cs -text
+dev/some-czech-closed-words -text
 dev/testvoc-summary.cs-pl.txt -text
 dev/testvoc-summary.pl-cs.txt -text
 dev/todo -text
