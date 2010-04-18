@@ -27088,9 +27088,9 @@
     <e lm="wysoki"><i>wyso</i><par n="słod/ki__adj"/></e>
     <e lm="wysoki"><p><l>wyż</l><r>wysoki</r></p><par n="lep/szy__adj"/></e>
     <e lm="wysoki"><p><l>najwyż</l><r>wysoki</r></p><par n="najlep/szy__adj"/></e>
-
-    <e lm="finansowy"><i>finansow</i><par n="now/y__adj"/></e>
-
+    <e lm="daleki"><i>dale</i><par n="słod/ki__adj"/></e>
+    <e lm="daleki"><p><l>dal</l><r>daleki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="daleki"><p><l>najdal</l><r>daleki</r></p><par n="najlep/szy__adj"/></e>
     <e lm="nowy"><i>now</i><par n="now/y__adj"/></e>
     <e lm="nowy"><p><l>now</l><r>nowy</r></p><par n="lep/szy__adj"/></e>
     <e lm="nowy"><p><l>najnow</l><r>nowy</r></p><par n="najlep/szy__adj"/></e>
@@ -27141,6 +27141,7 @@
     <e lm="alfabetyczny"><i>alfabetyczn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="automatyczny"><i>automatyczn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="bezrobotny"><i>bezrobotn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="finansowy"><i>finansow</i><par n="egzotermiczn/y__adj"/></e>
 
     <e lm="polski"><i>pols</i><par n="pols/ki__adj"/></e>
     <e lm="czeski"><i>czes</i><par n="pols/ki__adj"/></e>
