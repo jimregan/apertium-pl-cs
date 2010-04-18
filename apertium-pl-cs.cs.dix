@@ -1297,6 +1297,93 @@
         </p>
       </e>
     </pardef>
+    <pardef n="d/ítě__n">
+      <e>
+        <p>
+          <l>ítě</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ěti</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ítěte</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ětí</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ítěti</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ětem</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ítě</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ěti</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ítě</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ěti</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ítěti</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ětech</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ítětem</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ětmi</l>
+          <r>ítě<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="boxe/r__n">
       <e>
         <p>
@@ -20330,6 +20417,7 @@
     <e lm="axiom"><i>axiom</i><par n="bor__n"/></e>
     <e lm="babyka"><i>baby</i><par n="dý/ka__n"/></e>
     <e lm="bajka"><i>baj</i><par n="dív/ka__n"/></e>
+    <e lm="dítě"><i>d</i><par n="d/ítě__n"/></e>
     <e lm="bajt"><i>bajt</i><par n="bor__n"/></e>
     <e lm="banka"><i>ban</i><par n="dý/ka__n"/></e>
     <e lm="barometr"><i>barometr</i><par n="bor__n"/></e>
