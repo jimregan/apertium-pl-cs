@@ -561,7 +561,7 @@
     <e><p><l>daleko<s n="adv"/><s n="sint"/></l><r>daleko<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>mało<s n="adv"/><s n="sint"/></l><r>málo<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>bardzo<s n="adv"/><s n="sint"/></l><r>velmi<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>bardzo<s n="adv"/><s n="sint"/></l><r>velice<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>bardzo<s n="adv"/><s n="sint"/></l><r>velice<s n="adv"/></r></p></e>
     <e><p><l>bardzo<s n="adv"/><s n="sint"/><s n="comp"/></l><r>hodně<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     <e><p><l>bardzo<s n="adv"/><s n="sint"/><s n="sup"/></l><r>hodně<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     <e><p><l>dużo<s n="adv"/></l><r>hodně<s n="adv"/><s n="sint"/></r></p></e>
