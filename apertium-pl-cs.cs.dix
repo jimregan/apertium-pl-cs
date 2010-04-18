@@ -20138,15 +20138,15 @@
     <e lm="daleko"><p><l>nejdál</l><r>daleko</r></p><par n="nejdál__adv"/></e>
     <e lm="daleko" r="LR"><p><l>dále</l><r>daleko</r></p><par n="dál__adv"/></e>
     <e lm="daleko" r="LR"><p><l>nejdále</l><r>daleko</r></p><par n="nejdál__adv"/></e>
-    <e lm="málo"><i>málo</i><par n="málo__adv"/></e>
+    <e lm="málo"><i>málo</i><par n="daleko__adv"/></e>
     <e lm="málo"><p><l>méně</l><r>málo</r></p><par n="dál__adv"/></e>
     <e lm="málo"><p><l>nejméně</l><r>málo</r></p><par n="nejdál__adv"/></e>
-    <e lm="dobře"><i>dobře</i><par n="dobře__adv"/></e>
+    <e lm="dobře"><i>dobře</i><par n="daleko__adv"/></e>
     <e lm="dobře"><p><l>lépe</l><r>dobře</r></p><par n="dál__adv"/></e>
     <e lm="dobře"><p><l>nejlépe</l><r>dobře</r></p><par n="nejdál__adv"/></e>
     <e lm="dobře" r="LR"><p><l>líp</l><r>dobře</r></p><par n="dál__adv"/></e>
     <e lm="dobře" r="LR"><p><l>nejlíp</l><r>dobře</r></p><par n="nejdál__adv"/></e>
-    <e lm="podle"><i>podle</i><par n="podle__adv"/></e>
+    <e lm="podle"><i>podle</i><par n="daleko__adv"/></e>
     <e lm="podle"><p><l>podleji</l><r>podle</r></p><par n="dál__adv"/></e>
     <e lm="podle"><p><l>nejpodleji</l><r>podle</r></p><par n="nejdál__adv"/></e>
     <e lm="odtud"><i>odtud</i><par n="tehdy__adv"/></e>
