@@ -28464,6 +28464,7 @@
     <e lm="Toruń"><i>Toru</i><par n="Pozna/ń__np"/></e>
     <e lm="Tyrol"><i>Tyrol</i><par n="Tyrol__np"/></e>
     <e lm="Śląsk"><i>Śląsk</i><par n="Śląsk__np"/></e>
+    <e lm="Luksemburg"><i>Luksemburg</i><par n="Śląsk__np"/></e>
     <e lm="Budapeszt"><i>Budapesz</i><par n="Budapesz/t__np"/></e>
     <e lm="Polska"><i>Pols</i><par n="Pols/ka__np"/></e>
     <e lm="Czechy"><i>Czech</i><par n="Czech/y__np"/></e>
@@ -28498,6 +28499,7 @@
     <e lm="Broumovsko" r="LR"><p><l>Broumowsk</l><r>Broumovsk</r></p><par n="Broumovsk/o__np"/></e>
     <e lm="Chodsko"><i>Chodsk</i><par n="Broumovsk/o__np"/></e>
     <e lm="Uhersko"><i>Uhersk</i><par n="Broumovsk/o__np"/></e>
+    <e lm="Mokrsko"><i>Mokrsk</i><par n="Broumovsk/o__np"/></e>
     <e lm="San Francisco"><i>San<b/>Francisco</i><par n="San_Francisco__np"/></e>
 
     <e lm="Australijka"><i>Australij</i><par n="Australij/ka__np"/></e>
