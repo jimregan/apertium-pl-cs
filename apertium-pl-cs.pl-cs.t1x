@@ -54,6 +54,8 @@
      <attr-item tags="adj.sint"/>
      <attr-item tags="adj.sint.comp"/>
      <attr-item tags="adj.sint.sup"/>
+     <attr-item tags="adj.dim"/>
+     <attr-item tags="adj.sint.dim"/>
      <attr-item tags="adj.itg"/>
   </def-attr>
 

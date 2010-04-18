@@ -7960,6 +7960,21 @@
         </p>
       </e>
     </pardef>
+    <pardef n="nowiut/ki__adj">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/><s n="sint"/><s n="dim"/></r>
+        </p>
+        <par n="BASE__niebieski"/>
+      </e>
+      <e>
+        <p>
+          <l>ko</l>
+          <r>ki<s n="adj"/><s n="sint"/><s n="dim"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="mors/ki__adj">
       <e>
         <p>
@@ -28390,6 +28405,7 @@
     <e lm="nowy"><i>now</i><par n="now/y__adj"/></e>
     <e lm="nowy"><p><l>now</l><r>nowy</r></p><par n="lep/szy__adj"/></e>
     <e lm="nowy"><p><l>najnow</l><r>nowy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="nowiutki"><p><l>nowiut</l><r>nowy</r></p><par n="nowiut/ki__adj"/></e>
     <e lm="burzliwy"><i>burzliw</i><par n="now/y__adj"/></e>
     <e lm="burzliwy"><p><l>burzliw</l><r>burzliwy</r></p><par n="lep/szy__adj"/></e>
     <e lm="burzliwy"><p><l>najburzliw</l><r>burzliwy</r></p><par n="najlep/szy__adj"/></e>

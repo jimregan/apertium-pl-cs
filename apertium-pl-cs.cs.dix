@@ -74,6 +74,7 @@
     <sdef n="cnjsub" c="spojka"/>
     <sdef n="cnjadv" c="spojka"/>
     <sdef n="preadv" c=""/>
+    <sdef n="dim"    c=""/>
   </sdefs>
   <pardefs>
     <!-- Punctuation -->
@@ -20154,6 +20155,27 @@
         </p>
       </e>
     </pardef>
+    <pardef n="novouč/ký__adj">
+      <e>
+        <p>
+          <l>cí</l>
+          <r><s n="adj"/><s n="sint"/><s n="dim"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cí</l>
+          <r><s n="adj"/><s n="sint"/><s n="dim"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>k</l>
+          <r><s n="adj"/><s n="sint"/><s n="dim"/></r>
+        </p>
+        <par n="nov/ý__BASE"/>
+      </e>
+    </pardef>
     <pardef n="cel/ý__adj">
       <e>
         <p>
@@ -20332,6 +20354,7 @@
 
     <e lm="další" i="yes"><i>dalš</i><par n="dalš/í__adj"/></e>
     <e lm="nový"><par n="nej__adv"/><i>nov</i><par n="nov/ý__adj"/></e>
+    <e lm="novoučký"><p><l>novouč</l><r>nový</r></p><par n="novouč/ký__adj"/></e>
     <e lm="chytrý"><par n="nej__adv"/><i>chyt</i><par n="chyt/rý__adj"/></e>
     <e lm="evropský"><par n="nej__adv"/><i>evrop</i><par n="evrop/ský__adj"/></e>
     <e lm="dánský"><par n="nej__adv"/><i>dán</i><par n="evrop/ský__adj"/></e>
