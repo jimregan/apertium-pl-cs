@@ -152,6 +152,7 @@
      <e><p><l>kto<s n="prn"/><s n="itg"/><s n="mp"/></l><r>kdo<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
      <e><p><l>który<s n="prn"/><s n="itg"/></l><r>který<s n="prn"/><s n="itg"/></r></p></e>
      <e><p><l>co<s n="prn"/><s n="itg"/></l><r>co<s n="prn"/><s n="itg"/></r></p></e>
+     <e><p><l>oba<s n="prn"/><s n="ind"/></l><r>oba<s n="prn"/><s n="ind"/></r></p></e>
 
      <!-- Determiners -->
      <e><p><l>inny<s n="det"/></l><r>jiný<s n="det"/></r></p></e>
