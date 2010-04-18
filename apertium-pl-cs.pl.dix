@@ -27091,6 +27091,9 @@
     <e lm="daleki"><i>dale</i><par n="słod/ki__adj"/></e>
     <e lm="daleki"><p><l>dal</l><r>daleki</r></p><par n="lep/szy__adj"/></e>
     <e lm="daleki"><p><l>najdal</l><r>daleki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="bliski"><i>blis</i><par n="słod/ki__adj"/></e>
+    <e lm="bliski"><p><l>bliż</l><r>bliski</r></p><par n="lep/szy__adj"/></e>
+    <e lm="bliski"><p><l>najbliż</l><r>bliski</r></p><par n="najlep/szy__adj"/></e>
     <e lm="nowy"><i>now</i><par n="now/y__adj"/></e>
     <e lm="nowy"><p><l>now</l><r>nowy</r></p><par n="lep/szy__adj"/></e>
     <e lm="nowy"><p><l>najnow</l><r>nowy</r></p><par n="najlep/szy__adj"/></e>
@@ -27143,6 +27146,14 @@
     <e lm="bezrobotny"><i>bezrobotn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="finansowy"><i>finansow</i><par n="egzotermiczn/y__adj"/></e>
 
+    <e lm="bielski"><i>biels</i><par n="pols/ki__adj"/></e>
+    <e lm="bielskoki"><i>bielsko</i><par n="pols/ki__adj"/></e>
+    <e lm="beztroski"><i>beztros</i><par n="mors/ki__adj"/></e>
+    <e lm="chrześcijański"><i>chrześcijańs</i><par n="mors/ki__adj"/></e>
+    <e lm="macierzyński"><i>macierzyńs</i><par n="mors/ki__adj"/></e>
+    <e lm="miejski"><i>miejs</i><par n="mors/ki__adj"/></e>
+    <e lm="niebieski"><i>niebies</i><par n="mors/ki__adj"/></e>
+    <e lm="wszędobylski"><i>wszędobyls</i><par n="mors/ki__adj"/></e>
     <e lm="polski"><i>pols</i><par n="pols/ki__adj"/></e>
     <e lm="czeski"><i>czes</i><par n="pols/ki__adj"/></e>
     <e lm="duński"><i>duńs</i><par n="pols/ki__adj"/></e>
