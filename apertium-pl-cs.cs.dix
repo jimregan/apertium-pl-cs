@@ -20155,7 +20155,7 @@
     <e lm="dobře"><p><l>nejlépe</l><r>dobře</r></p><par n="nejdál__adv"/></e>
     <e lm="dobře" r="LR"><p><l>líp</l><r>dobře</r></p><par n="dál__adv"/></e>
     <e lm="dobře" r="LR"><p><l>nejlíp</l><r>dobře</r></p><par n="nejdál__adv"/></e>
-    <e lm="hodně"><i>hodně</i><par n="hodně__adv"/></e>
+    <e lm="hodně"><i>hodně</i><par n="daleko__adv"/></e>
     <e lm="hodně"><p><l>víc</l><r>hodně</r></p><par n="dál__adv"/></e>
     <e lm="hodně"><p><l>nejvíc</l><r>hodně</r></p><par n="nejdál__adv"/></e>
     <e lm="hodně" r="LR"><p><l>více</l><r>hodně</r></p><par n="dál__adv"/></e>

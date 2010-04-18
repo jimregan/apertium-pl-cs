@@ -8,6 +8,8 @@
     <sdef n="n"/>
     <sdef n="abbr"/>
     <sdef n="np"/>
+    <sdef n="comp"/>
+    <sdef n="sup"/>
     <sdef n="num"/>
     <sdef n="f"/>
     <sdef n="m"/>
