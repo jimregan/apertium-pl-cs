@@ -28406,6 +28406,7 @@
     <e lm="jedynie"><i>jedynie</i><par n="tu__adv"/></e>
     <e lm="trochę"><i>trochę</i><par n="tu__adv"/></e>
     <e lm="dużo"><i>dużo</i><par n="tu__adv"/></e>
+    <e lm="za dużo" r="RL"><i>za<b/>dużo</i><par n="tu__adv"/></e>
 
     <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="mieć"><i>m</i><par n="m/ieć__vbhaver"/></e>
