@@ -20012,6 +20012,7 @@
     <e lm="jestliže"><i>jestliže</i><par n="jestli__cnjadv"/></e>
     <e lm="přece"><i>přece</i><par n="jestli__cnjadv"/></e>
     <e lm="však"><i>však</i><par n="jestli__cnjadv"/></e>
+    <e lm="proto"><i>proto</i><par n="jestli__cnjadv"/></e>
 
     <!-- Prepositions -->
     <e lm="bez"><i>bez</i><par n="za__pr"/></e>
@@ -20063,6 +20064,7 @@
     <e lm="blízko"><i>blízko</i><par n="za__pr"/></e>
     <e lm="nedaleko"><i>nedaleko</i><par n="za__pr"/></e>
     <e lm="s výjimkou"><i>s<b/>výjimkou</i><par n="za__pr"/></e>
+    <e lm="poblíž"><i>poblíž</i><par n="za__pr"/></e>
 
     <!-- Pronouns -->
 
