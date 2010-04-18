@@ -6055,9 +6055,6 @@
     <e><p><l>stosunkowo<s n="FIX"/></l><r>poměrně<s n="FIX"/></r></p></e>
     <e><p><l>stowarzyszenie<s n="FIX"/></l><r>společnost<s n="FIX"/></r></p></e>
     <e><p><l>stożek<s n="FIX"/></l><r>kužel<s n="FIX"/></r></p></e>
-    <e><p><l>strach<s n="FIX"/></l><r>se<s n="FIX"/></r></p></e>
-    <e><p><l>strach<s n="FIX"/></l><r>strach<s n="FIX"/></r></p></e>
-    <e><p><l>strach na wróble<s n="FIX"/></l><r>strašák<s n="FIX"/></r></p></e>
     <e><p><l>strajk<s n="FIX"/></l><r>stávka<s n="FIX"/></r></p></e>
     <e><p><l>straż<s n="FIX"/></l><r>hodinky<s n="FIX"/></r></p></e>
     <e><p><l>straż<s n="FIX"/></l><r>dívat se<s n="FIX"/></r></p></e>
@@ -6181,7 +6178,7 @@
     <e><p><l>szczyt<s n="FIX"/></l><r>vrchol<s n="FIX"/></r></p></e>
     <e><p><l>szczęście<s n="FIX"/></l><r>štěstí<s n="FIX"/></r></p></e>
     <e><p><l>szczęśliwej podróży<s n="FIX"/></l>    <r>šťastnou cestu<s n="FIX"/></r></p></e>
-    <e><p><l>szczęśliwie<s n="FIX"/></l><r>šťastně<s n="FIX"/></r></p></e>
+    <e><p><l>szczęśliwie<s n="adv"/></l><r>šťastně<s n="adv"/></r></p></e>
     <e><p><l>szczęśliwy<s n="FIX"/></l><r>šťastný<s n="FIX"/></r></p></e>
     <e><p><l>szczęśliwy<s n="FIX"/></l><r>spokojený<s n="FIX"/></r></p></e>
     <e><p><l>szczęśliwy<s n="FIX"/></l><r>mít kliku<s n="FIX"/></r></p></e>
