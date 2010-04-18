@@ -27895,6 +27895,9 @@
     <e lm="mało"><p><l>mało</l><r>mało<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="mało"><p><l>mniej</l><r>mało<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     <e lm="mało"><p><l>najmniej</l><r>mało<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    <e lm="daleko"><p><l>daleko</l><r>daleko<s n="adv"/><s n="sint"/></r></p></e>
+    <e lm="daleko"><p><l>dalej</l><r>daleko<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    <e lm="daleko"><p><l>najdalej</l><r>daleko<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
 
     <e lm="absolutność"><i>absolutnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="absurdalność"><i>absurdalnoś</i><par n="miłoś/ć__n"/></e>

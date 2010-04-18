@@ -517,7 +517,8 @@
     <e><p><l>częsty<s n="adj"/></l><r>častý<s n="adj"/></r></p></e>
     <e><p><l>sprytny<s n="adj"/></l><r>chytrý<s n="adj"/></r></p></e>
     <e><p><l>egzotermiczny<s n="adj"/></l><r>exotermický<s n="adj"/></r></p></e>
-    <e><p><l>dalsze<s n="adj"/></l><r>další<s n="adj"/></r></p></e>
+    <e><p><l>daleki<s n="adj"/><s n="sint"/></l><r>daleký<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>daleko<s n="adv"/><s n="sint"/></l><r>daleko<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>finansowy<s n="adj"/></l><r>finanční<s n="adj"/></r></p></e>
     <e><p><l>członek<s n="n"/><s n="mp"/></l><r>člen<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>człowiek<s n="n"/><s n="mp"/></l><r>člověk<s n="n"/><s n="ma"/></r></p></e>
