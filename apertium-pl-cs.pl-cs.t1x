@@ -81,6 +81,7 @@
   <def-attr n="tns">
      <attr-item tags="fti"/>
      <attr-item tags="past"/>
+     <attr-item tags="pres"/>
   </def-attr>
 
   <def-attr n="gen">
