@@ -19918,6 +19918,7 @@
 
     <!-- Prepositions -->
     <e lm="bez"><i>bez</i><par n="za__pr"/></e>
+    <e lm="jako"><i>jako</i><par n="za__pr"/></e>
     <e lm="během"><i>během</i><par n="za__pr"/></e>
     <e lm="do"><i>do</i><par n="za__pr"/></e>
     <e lm="díky"><i>díky</i><par n="za__pr"/></e>
@@ -20027,6 +20028,7 @@
     <!-- Adjectives -->
     <!-- FIXME: add 'nej' -->
     <e lm="finanční"><par n="nej__adv"/><i>finančn</i><par n="finančn/í__adj"/></e>
+    <e lm="úřední"><par n="nej__adv"/><i>úředn</i><par n="finančn/í__adj"/></e>
 
     <e lm="další" i="yes"><i>dalš</i><par n="dalš/í__adj"/></e>
     <e lm="nový"><par n="nej__adv"/><i>nov</i><par n="nov/ý__adj"/></e>
