@@ -7,9 +7,11 @@
     <sdef n="cnjadv"/>
     <sdef n="n"/>
     <sdef n="abbr"/>
+    <sdef n="rel"/>
     <sdef n="np"/>
     <sdef n="comp"/>
     <sdef n="sup"/>
+    <sdef n="an"/>
     <sdef n="num"/>
     <sdef n="f"/>
     <sdef n="m"/>
@@ -215,6 +217,8 @@
      <e><p><l>nic<s n="prn"/><s n="ind"/></l><r>nic<s n="prn"/><s n="ind"/></r></p></e>
      <e><p><l>żaden<s n="prn"/><s n="ind"/></l><r>žádný<s n="prn"/><s n="ind"/></r></p></e>
 
+     <e><p><l>gdzie<s n="rel"/><s n="adv"/></l><r>kde<s n="rel"/><s n="adv"/></r></p></e>
+     <e><p><l>co<s n="rel"/><s n="an"/></l><r>co<s n="rel"/><s n="an"/></r></p></e>
 
      <!-- Determiners -->
      <e><p><l>inny<s n="det"/></l><r>jiný<s n="det"/></r></p></e>

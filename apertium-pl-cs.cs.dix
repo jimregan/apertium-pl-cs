@@ -6,6 +6,7 @@
     <sdef n="np"/>
     <sdef n="sent"/>
     <sdef n="num"/>
+    <sdef n="rel"/>
     <sdef n="prn"/>
     <sdef n="det"/>
     <sdef n="vbhaver"/>
@@ -48,6 +49,8 @@
     <sdef n="itg"/>
     <sdef n="ind"/>
     <sdef n="ref"/>
+
+    <sdef n="an"/>
 
     <sdef n="ant"/>
     <sdef n="top"/>
@@ -1243,6 +1246,27 @@
         </p>
       </e>
     </pardef>
+
+
+    <!-- Relatives -->
+    <pardef n="kde__rel">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="rel"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="co__rel">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="rel"/><s n="an"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+
 
 
 
@@ -20306,6 +20330,8 @@
     <e lm="něco"><i>ně</i><par n="ně/co__prn"/></e>
     <e lm="se"><i></i><par n="/se__prn"/></e>
 
+    <e lm="kde"><i>kde</i><par n="kde__rel"/></e>
+    <e lm="co"><i>co</i><par n="co__rel"/></e>
 
 
     <!-- Numbers -->
