@@ -13,6 +13,8 @@
      <cat-item tags="vblex.perf.past.*"/>
      <cat-item tags="vbhaver.imperf.past"/>
      <cat-item tags="vbhaver.imperf.past.*"/>
+     <cat-item tags="vbser.past"/>
+     <cat-item tags="vbser.past.*"/>
      <cat-item tags="vaux.imperf.past"/>
      <cat-item tags="vaux.imperf.past.*"/>
   </def-cat>
@@ -81,6 +83,9 @@
   <def-attr n="tns">
      <attr-item tags="fti"/>
      <attr-item tags="past"/>
+     <attr-item tags="pp"/>
+     <attr-item tags="pprs"/>
+     <attr-item tags="imp"/>
      <attr-item tags="pres"/>
      <attr-item tags="cni"/>
   </def-attr>
