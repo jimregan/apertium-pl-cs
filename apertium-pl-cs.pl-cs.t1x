@@ -82,6 +82,7 @@
      <attr-item tags="fti"/>
      <attr-item tags="past"/>
      <attr-item tags="pres"/>
+     <attr-item tags="cni"/>
   </def-attr>
 
   <def-attr n="gen">
@@ -191,7 +192,7 @@
          <when>
            <test>
              <equal>
-               <clip pos="1" side="tl" part="tns"/>
+               <clip pos="1" side="sl" part="tns"/>
                <lit-tag v="past"/>
              </equal>
            </test>
@@ -238,6 +239,80 @@
                      <clip pos="1" side="tl" part="tns"/>
                      <clip pos="1" side="tl" part="gen"/>
                      <clip pos="1" side="tl" part="nbr"/>
+                   </lu>
+                   <b/>
+                   <lu>
+                     <lit v="být"/>
+                     <lit-tag v="vbser"/>
+                     <lit-tag v="pres"/>
+                     <clip pos="1" side="tl" part="prs"/>
+                     <clip pos="1" side="tl" part="nbr"/>
+                   </lu>
+                 </chunk>
+               </out>
+             </otherwise>
+           </choose>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="tns"/>
+               <lit-tag v="cni"/>
+             </equal>
+           </test>
+           <choose>
+             <when>
+               <test>
+                 <equal>
+                   <clip pos="1" side="tl" part="prs"/>
+                   <lit-tag v="p3"/>
+                 </equal>
+               </test>
+               <out>
+                 <chunk name="verbcni" case="caseFirstWord">
+                   <tags>
+                     <tag><lit-tag v="SV"/></tag>
+                      <tag><clip pos="1" side="tl" part="tns"/></tag>
+                      <tag><clip pos="1" side="tl" part="gen"/></tag>
+                      <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                    </tags>
+                    <lu>
+                      <clip pos="1" side="tl" part="lem"/>
+                      <clip pos="1" side="tl" part="a_vrb"/>
+                      <clip pos="1" side="tl" part="asp"/>
+                      <lit-tag v="past"/>
+                      <clip pos="1" side="tl" part="gen"/>
+                      <clip pos="1" side="tl" part="nbr"/>
+                   </lu>
+                   <b/>
+                   <lu>
+                     <lit v="by"/>
+                     <lit-tag v="cnjsub"/>
+                   </lu>
+                </chunk>
+               </out>
+             </when>
+             <otherwise>
+               <out>
+                <chunk name="verbcni" case="caseFirstWord">
+                  <tags>
+                    <tag><lit-tag v="SV"/></tag>
+                     <tag><clip pos="1" side="tl" part="tns"/></tag>
+                     <tag><clip pos="1" side="tl" part="gen"/></tag>
+                     <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                   </tags>
+                   <lu>
+                     <clip pos="1" side="tl" part="lem"/>
+                     <clip pos="1" side="tl" part="a_vrb"/>
+                     <clip pos="1" side="tl" part="asp"/>
+                      <lit-tag v="past"/>
+                     <clip pos="1" side="tl" part="gen"/>
+                     <clip pos="1" side="tl" part="nbr"/>
+                   </lu>
+                   <b/>
+                   <lu>
+                     <lit v="by"/>
+                     <lit-tag v="cnjsub"/>
                    </lu>
                    <b/>
                    <lu>
