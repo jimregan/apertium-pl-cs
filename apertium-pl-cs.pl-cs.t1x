@@ -320,18 +320,19 @@
                      <clip pos="1" side="tl" part="nbr"/>
                    </lu>
                    <b/>
-                   <lu>
-                     <lit v="by"/>
-                     <lit-tag v="cnjsub"/>
-                   </lu>
-                   <b/>
-                   <lu>
-                     <lit v="být"/>
-                     <lit-tag v="vbser"/>
-                     <lit-tag v="pres"/>
-                     <clip pos="1" side="tl" part="prs"/>
-                     <clip pos="1" side="tl" part="nbr"/>
-                   </lu>
+                   <mlu>
+                     <lu>
+                       <lit v="by"/>
+                       <lit-tag v="cnjsub"/>
+                     </lu>
+                     <lu>
+                       <lit v="být"/>
+                       <lit-tag v="vbser"/>
+                       <lit-tag v="pres"/>
+                       <clip pos="1" side="tl" part="prs"/>
+                       <clip pos="1" side="tl" part="nbr"/>
+                     </lu>
+                   </mlu>
                  </chunk>
                </out>
              </otherwise>
