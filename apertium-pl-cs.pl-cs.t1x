@@ -84,6 +84,7 @@
      <attr-item tags="fti"/>
      <attr-item tags="past"/>
      <attr-item tags="pp"/>
+     <attr-item tags="inf"/>
      <attr-item tags="pprs"/>
      <attr-item tags="imp"/>
      <attr-item tags="pres"/>
