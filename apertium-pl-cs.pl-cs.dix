@@ -119,7 +119,6 @@
      <!-- Prepositions -->
 
      <e r="RL"><p><l>o<s n="pr"/></l><r>stran<s n="pr"/></r></p></e>
-     <e><p><l>oprócz<s n="pr"/></l><r>vyjma<s n="pr"/></r></p></e>
      <e><p><l>przy<b/>pomocy<s n="pr"/></l><r>pomocí<s n="pr"/></r></p></e>
      <e><p><l>między<s n="pr"/></l><r>mezi<s n="pr"/></r></p></e>
      <e><p><l>przed<s n="pr"/></l><r>před<s n="pr"/></r></p></e>
@@ -144,6 +143,8 @@
      <e r="LR"><p><l>z<s n="pr"/><s n="gen"/></l><r>z<s n="pr"/></r></p></e>
      <e r="LR"><p><l>z<s n="pr"/><s n="ins"/></l><r>s<s n="pr"/></r></p></e>
      <e><p><l>mimo<s n="pr"/></l><r>mimo<s n="pr"/></r></p></e>
+     <e r="LR"><p><l>poza<s n="pr"/></l><r>mimo<s n="pr"/></r></p></e>
+     <e r="LR"><p><l>spoza<s n="pr"/></l><r>mimo<s n="pr"/></r></p></e>
      <e><p><l>zamiast<s n="pr"/></l><r>místo<s n="pr"/></r></p></e>
      <e><p><l>obok<s n="pr"/></l><r>vedle<s n="pr"/></r></p></e>
      <e><p><l>podczas<s n="pr"/></l><r>během<s n="pr"/></r></p></e>
@@ -165,7 +166,8 @@
      <e><p><l>naprzeciwko<s n="pr"/></l><r>naproti<s n="pr"/></r></p></e>
      <e r="LR"><p><l>wokół<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
      <e><p><l>około<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
-     <e><p><l>oprócz<s n="pr"/></l><r>krom<s n="pr"/></r></p></e>
+     <e><p><l>oprócz<s n="pr"/></l><r>vyjma<s n="pr"/></r></p></e>
+     <e r="RL"><p><l>oprócz<s n="pr"/></l><r>krom<s n="pr"/></r></p></e>
      <e r="LR"><p><l>gwoli<s n="pr"/></l><r>kvůli<s n="pr"/></r></p></e>
      <e r="LR"><p><l>ku<b/>woli<s n="pr"/></l><r>kvůli<s n="pr"/></r></p></e>
      <e><p><l>z<b/>powodu<s n="pr"/></l><r>kvůli<s n="pr"/></r></p></e>
