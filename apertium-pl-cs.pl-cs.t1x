@@ -26,6 +26,10 @@
   </def-cat>
   <def-cat n="adj">
      <cat-item tags="adj.*"/>
+     <cat-item tags="vblex.imperf.pp.*"/>
+     <cat-item tags="vblex.perf.pp.*"/>
+     <cat-item tags="vbser.pp.*"/>
+     <cat-item tags="vblex.imperf.pprs.*"/>
   </def-cat>
   <def-cat n="pr">
      <cat-item tags="pr"/>
