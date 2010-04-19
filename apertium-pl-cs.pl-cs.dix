@@ -350,7 +350,63 @@
     
      <!--in polish only plural form -->
      <!--  <e><p><l>słodycze<s n="n"/></l><r>cukrovinka<s n="n"/><s n="f"/></r></p></e> -->
- 
+
+     <e><p><l>komórka<s n="n"/><s n="f"/></l><r>buňka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>pedał<s n="n"/><s n="mp"/></l><r>buzerant<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>mieszkanie<s n="n"/><s n="nt"/></l><r>byt<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>cez<s n="n"/><s n="mi"/></l><r>cesium<s n="n"/><s n="nt"/></r></p></e>
+     <e r="RL"><p><l>cez<s n="n"/><s n="mi"/></l><r>cezium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>chityna<s n="n"/><s n="f"/></l><r>chitin<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>chłop<s n="n"/><s n="mp"/></l><r>chlap<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>chlor<s n="n"/><s n="mi"/></l><r>chlor<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>chrom<s n="n"/><s n="mi"/></l><r>chrom<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>cyna<s n="n"/><s n="f"/></l><r>cín<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>kościół<s n="n"/><s n="mi"/></l><r>církev<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>cynik<s n="n"/><s n="mp"/></l><r>cynik<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>diabeł<s n="n"/><s n="mp"/></l><r>ďábel<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>lorynetka<s n="n"/><s n="f"/></l><r>dalekohled<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>dermatolog<s n="n"/><s n="mi"/></l><r>dermatolog<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>kapral<s n="n"/><s n="mp"/></l><r>desátník<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>deszcz<s n="n"/><s n="mi"/></l><r>déšť<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>list<s n="n"/><s n="mi"/></l><r>dopis<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>transport<s n="n"/><s n="mi"/></l><r>doprava<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>sandacz<s n="n"/><s n="ma"/></l><r>candát<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>cache<s n="n"/><s n="mi"/></l><r>cache<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>cer<s n="n"/><s n="mi"/></l><r>cer<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>leszcz<s n="n"/><s n="ma"/></l><r>cejn<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>kiur<s n="n"/><s n="mi"/></l><r>curium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>cygaro<s n="n"/><s n="nt"/></l><r>doutník<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>import<s n="n"/><s n="mi"/></l><r>dovoz<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>potas<s n="n"/><s n="mi"/></l><r>draslík<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>dubn<s n="n"/><s n="mi"/></l><r>dubnium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>wydma<s n="n"/><s n="f"/></l><r>duna<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>azot<s n="n"/><s n="mi"/></l><r>dusík<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>darmsztadt<s n="n"/><s n="mi"/></l><r>darmstadtium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>dysproz<s n="n"/><s n="mi"/></l><r>dysprosium<s n="n"/><s n="nt"/></r></p></e>
+     <e r="RL"><p><l>dysproz<s n="n"/><s n="mi"/></l><r>dysprozium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>einstein<s n="n"/><s n="mi"/></l><r>einsteinium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>e-mail<s n="n"/><s n="mi"/></l><r>e-mail<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>enzymy<s n="n"/><s n="mi"/></l><r>enzym<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>erb<s n="n"/><s n="mi"/></l><r>erbium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>europ<s n="n"/><s n="mi"/></l><r>europium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>faszyzm<s n="n"/><s n="mi"/></l><r>fašizmus<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>ferm<s n="n"/><s n="mi"/></l><r>fermium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>flota<s n="n"/><s n="f"/></l><r>flotila<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>fluor<s n="n"/><s n="mi"/></l><r>fluor<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>frans<s n="n"/><s n="mi"/></l><r>francium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>fizyka<s n="n"/><s n="f"/></l><r>fysika<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>galeon<s n="n"/><s n="mi"/></l><r>galeona<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>gal<s n="n"/><s n="mi"/></l><r>gallium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>garaż<s n="n"/><s n="mi"/></l><r>garáž<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>german<s n="n"/><s n="mi"/></l><r>germanium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>gotyk<s n="n"/><s n="mi"/></l><r>gotika<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>błazenada<s n="n"/><s n="f"/></l><r>groteska<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>grab<s n="n"/><s n="mi"/></l><r>habr<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>has<s n="n"/><s n="mi"/></l><r>hassium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>hafn<s n="n"/><s n="mi"/></l><r>hafnium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>ubikacja<s n="n"/><s n="f"/></l><r>hajzl<s n="n"/><s n="ma"/></r></p></e>
+     <e r="RL"><p><l>hel<s n="n"/><s n="mi"/></l><r>helium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>hel<s n="n"/><s n="mi"/></l><r>hélium<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>aktówka<s n="n"/><s n="f"/></l><r>aktovka<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>banknot<s n="n"/><s n="mi"/></l><r>bankovka<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>bazylia<s n="n"/><s n="f"/></l><r>bazalka<s n="n"/><s n="f"/></r></p></e>
