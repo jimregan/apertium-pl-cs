@@ -29789,14 +29789,4 @@
     <e><par n="guionet"/></e>
     <e><par n="quotes"/></e>
   </section>
-  <section id="foreign" type="standard">
-    <e lm="and"><i>and</i><par n="cześć__ij"/></e>
-    <e lm="the"><i>the</i><par n="cześć__ij"/></e>
-    <e lm="this"><i>this</i><par n="cześć__ij"/></e>
-    <e lm="cite"><i>cite</i><par n="cześć__ij"/></e>
-    <e lm="br"><i>br</i><par n="cześć__ij"/></e>
-    <e lm="image"><i>image</i><par n="cześć__ij"/></e>
-    <e lm="ref"><i>ref</i><par n="cześć__ij"/></e>
-    <e lm="nbsp"><i>nbsp</i><par n="cześć__ij"/></e>
-  </section>
 </dictionary>

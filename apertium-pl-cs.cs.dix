@@ -22236,6 +22236,9 @@
     <e lm="kg"><i>kg</i><par n="např__abbr"/></e>
 
     <e lm="ahoj"><i>ahoj</i><par n="ahoj__ij"/></e>
+    <e lm="ach"><i>ach</i><par n="ahoj__ij"/></e>
+    <e lm="aha"><i>aha</i><par n="ahoj__ij"/></e>
+    <e lm="dobrou noc"><i>dobrou<b/>noc</i><par n="ahoj__ij"/></e>
 
   </section>
 
