@@ -28221,10 +28221,12 @@
     <e lm="ale"><i>ale</i><par n="i__cnjcoo"/></e>
     <e lm="i"><i>i</i><par n="i__cnjcoo"/></e>
     <e lm="a"><i>a</i><par n="i__cnjcoo"/></e>
+    <e lm="a także"><i>a<b/>także</i><par n="i__cnjcoo"/></e>
     <e lm="oraz"><i>oraz</i><par n="i__cnjcoo"/></e>
     <e lm="albo"><i>albo</i><par n="i__cnjcoo"/></e>
     <e lm="czy"><i>czy</i><par n="i__cnjcoo"/></e>
     <e lm="niż"><i>niż</i><par n="i__cnjcoo"/></e>
+    <e lm="ani"><i>ani</i><par n="i__cnjcoo"/></e>
     <e lm="jeśli"><i>jeśli</i><par n="jeśli__cnjadv"/></e>
     <e lm="jeżeli"><i>jeżeli</i><par n="jeśli__cnjadv"/></e>
     <e lm="przecież"><i>przecież</i><par n="jeśli__cnjadv"/></e>

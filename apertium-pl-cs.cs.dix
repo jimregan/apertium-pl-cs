@@ -20220,9 +20220,12 @@
   <section id="main" type="standard">
     <!-- Conjunctions -->
     <e lm="a"><i>a</i><par n="a__cnjcoo"/></e>
+    <e lm="i"><i>i</i><par n="a__cnjcoo"/></e>
+    <e lm="a také"><i>a<b/>také</i><par n="a__cnjcoo"/></e>
     <e lm="či"><i>či</i><par n="a__cnjcoo"/></e>
     <e lm="nebo"><i>nebo</i><par n="a__cnjcoo"/></e>
     <e lm="ale"><i>ale</i><par n="a__cnjcoo"/></e>
+    <e lm="ani"><i>ani</i><par n="a__cnjcoo"/></e>
     <e lm="než"><i>než</i><par n="a__cnjcoo"/></e>
     <e lm="by"><i>by</i><par n="aby__cnjsub"/></e>
     <e lm="aby"><i>aby</i><par n="aby__cnjsub"/></e>
