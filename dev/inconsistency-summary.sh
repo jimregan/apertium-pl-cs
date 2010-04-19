@@ -21,6 +21,10 @@ for i in $POS; do
 		TOTAL=`cat $INC | grep "<$i>" | grep -v -e '<adj>' -e '<v' | grep -v REGEX | wc -l`; 
 		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v -e '<adj>' -e '<v' | grep -v REGEX | wc -l`;
 		HASH=`cat $INC | grep "<$i>" | grep '>  *#' | grep -v -e '<adj>' -e '<v' | grep -v REGEX |  wc -l`;
+	elif [ "$i" = "cnjsub" ]; then
+		TOTAL=`cat $INC | grep "<$i>" | grep -v -e '<cnjsub>' -e '<v' | grep -v REGEX | wc -l`; 
+		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v -e '<cnjsub>' -e '<v' | grep -v REGEX | wc -l`;
+		HASH=`cat $INC | grep "<$i>" | grep '>  *#' | grep -v -e '<cnjsub>' -e '<v' | grep -v REGEX |  wc -l`;
 	else
 		TOTAL=`cat $INC | grep "<$i>" | grep -v REGEX | wc -l`; 
 		AT=`cat $INC | grep "<$i>" | grep '@'  | grep -v REGEX | wc -l`;
