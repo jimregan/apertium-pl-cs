@@ -307,6 +307,7 @@
      <e><p><l>listopad<s n="n"/><s n="mi"/></l><r>listopad<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>prosinec<s n="n"/><s n="mi"/></r></p></e>
 
+     <!-- Nouns -->
      <e><p><l>przeorysza<s n="n"/><s n="f"/></l><r>abatyše<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>absolwent<s n="n"/><s n="mp"/></l><r>absolvent<s n="n"/><s n="ma"/></r></p></e>
      <e><p><l>warstwica<s n="n"/><s n="f"/></l><r>vrstevnice<s n="n"/><s n="f"/></r></p></e>
@@ -408,11 +409,27 @@
      <e><p><l>testosteron<s n="n"/><s n="mi"/></l><r>testosteron<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>dysertacja<s n="n"/><s n="f"/></l><r>disertace<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>pies<s n="n"/><s n="ma"/></l><r>pes<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>akronim<s n="n"/><s n="mi"/></l><r>akronymum<s n="n"/><s n="nt"/></r></p></e>
+     <e> <p><l>anatom<s n="n"/><s n="mp"/></l><r>anatom<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>arsen<s n="n"/><s n="mi"/></l><r>arsen<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>astat<s n="n"/><s n="mi"/></l><r>astat<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>baletnica<s n="n"/><s n="f"/></l><r>baletka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>samochód<s n="n"/><s n="mi"/></l><r>automobil<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>bar<s n="n"/><s n="mi"/></l><r>baryum<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>berkel<s n="n"/><s n="mi"/></l><r>berkelium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>beryl<s n="n"/><s n="mi"/></l><r>beryllium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>szopka<s n="n"/><s n="f"/></l><r>betlém<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>bit<s n="n"/><s n="mi"/></l><r>bit<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>bohr<s n="n"/><s n="mi"/></l><r>bohrium<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>bor<s n="n"/><s n="mi"/></l><r>bor<s n="n"/></r></p></e>
+     <e><p><l>brodawka<s n="n"/><s n="f"/></l><r>bradavka<s n="n"/></r></p></e>
+     <e><p><l>przepona<s n="n"/><s n="f"/></l><r>bránice<s n="n"/></r></p></e>
     <e><p><l>bulwar<s n="n"/><s n="mi"/></l><r>bulvár<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>autobus<s n="n"/><s n="mi"/></l><r>bus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chleb<s n="n"/><s n="mi"/></l><r>chleba<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ropień<s n="n"/><s n="mi"/></l><r>absces<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>akronim<s n="n"/><s n="mi"/></l><r>akronym<s n="n"/><s n="mi"/></r></p></e>
+    <e r="LR"><p><l>skrótowiec<s n="n"/><s n="mi"/></l><r>akronymum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ametyst<s n="n"/><s n="mi"/></l><r>ametyst<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>antracyt<s n="n"/><s n="mi"/></l><r>antracit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>artefakt<s n="n"/><s n="mi"/></l><r>artefakt<s n="n"/><s n="mi"/></r></p></e>
