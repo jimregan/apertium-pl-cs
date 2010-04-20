@@ -177,6 +177,9 @@
      <e r="RL"><p><l>oprócz<s n="pr"/></l><r>kromě<s n="pr"/></r></p></e>
 
      <e><p><l>dzień<b/>dobry<s n="ij"/></l><r>dobrý<b/>den<s n="ij"/></r></p></e>
+     <e><p><l>do<b/>widzenia<s n="ij"/></l><r>na<b/>shledanou<s n="ij"/></r></p></e>
+     <e r="LR"><p><l>do<b/>zobaczenia<s n="ij"/></l><r>na<b/>shledanou<s n="ij"/></r></p></e>
+     <e><p><l>do<b/>jutra<s n="ij"/></l><r>zítra<b/>na<b/>shledanou<s n="ij"/></r></p></e>
      <e><p><l>mniam<s n="ij"/></l><r>mňam<s n="ij"/></r></p></e>
      <e><p><l>cześć<s n="ij"/></l><r>ahoj<s n="ij"/></r></p></e>
 
@@ -878,6 +881,30 @@
     <e><p><l>szkło<s n="n"/><s n="nt"/></l><r>sklo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jabłko<s n="n"/><s n="nt"/></l><r>jablko<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jabłko<g><b/>Adama</g><s n="n"/><s n="nt"/></l><r>ohryzek<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>imię<s n="n"/><s n="nt"/></l><r>jméno<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>viagra<s n="n"/><s n="f"/></l><r>viagra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kobaltyn<s n="n"/><s n="mi"/></l><r>kobaltin<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>owies<s n="n"/><s n="mi"/></l><r>oves<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>agresywność<s n="n"/><s n="f"/></l><r>agrese<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aktywność<s n="n"/><s n="f"/></l><r>aktivita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>asertywność<s n="n"/><s n="f"/></l><r>asertivita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>asocjatywność<s n="n"/><s n="f"/></l><r>asociativita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dwujęzyczność<s n="n"/><s n="f"/></l><r>bilingvismus<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ekscentryczność<s n="n"/><s n="f"/></l><r>excentricita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>homoseksualność<s n="n"/><s n="f"/></l><r>homosexualita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mądrość<s n="n"/><s n="f"/></l><r>moudrost<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>moralność<s n="n"/><s n="f"/></l><r>morálka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>twardość<s n="n"/><s n="f"/></l><r>tvrdost<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>wysokość<s n="n"/><s n="f"/></l><r>výška<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>zamożność<s n="n"/><s n="f"/></l><r>bohatství<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bogatstwo<s n="n"/><s n="nt"/></l><r>bohatství<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>wojsko<s n="n"/><s n="nt"/></l><r>vojsko<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>koło<s n="n"/><s n="nt"/></l><r>kruh<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>przysłowie<s n="n"/><s n="nt"/></l><r>přísloví<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>źródło<s n="n"/><s n="nt"/></l><r>zdroj<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>światło<s n="n"/><s n="nt"/></l><r>světlo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>bezsenność<s n="n"/><s n="f"/></l><r>insomnie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>duchowość<s n="n"/><s n="f"/></l><r>spiritualita<s n="n"/><s n="f"/></r></p></e>
 
      <e><p><l>międzynarodowy<s n="adj"/></l><r>mezinárodní<s n="adj"/></r></p></e>
      <e><p><l>jasnoniebieski<s n="adj"/></l><r>světlemodrý<s n="adj"/></r></p></e>

@@ -28538,6 +28538,9 @@
     <e lm="dobranoc"><i>dobranoc</i><par n="cześć__ij"/></e>
     <e lm="dzień dobry"><i>dzień<b/>dobry</i><par n="cześć__ij"/></e>
     <e lm="mniam"><i>mniam</i><par n="cześć__ij"/></e>
+    <e lm="do widzenia"><i>do<b/>widzenia</i><par n="cześć__ij"/></e>
+    <e lm="do jutra"><i>do<b/>jutra</i><par n="cześć__ij"/></e>
+    <e lm="do zobaczenia"><i>do<b/>zobaczenia</i><par n="cześć__ij"/></e>
 
     <e lm="zbyt"><i>zbyt</i><par n="zbyt__preadv"/></e>
     <e lm="za"><i>za</i><par n="zbyt__preadv"/></e>
