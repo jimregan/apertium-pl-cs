@@ -21316,6 +21316,14 @@
     <e lm="konfirmace"><i>konfirmac</i><par n="šíj/e__n"/></e>
     <e lm="konfraternie"><i>konfraterni</i><par n="šíj/e__n"/></e>
     <e lm="konfraternita"><i>konfraternit</i><par n="dob/a__n"/></e>
+
+    <e lm="asertivita" c="check"><i>asertivit</i><par n="dob/a__n"/></e>
+    <e lm="excentricita" c="check"><i>excentricit</i><par n="dob/a__n"/></e>
+    <e lm="homosexualita" c="check"><i>homosexualit</i><par n="dob/a__n"/></e>
+    <e lm="kvalita" c="check"><i>kvalit</i><par n="dob/a__n"/></e>
+    <e lm="asociativita" c="check"><i>asociativit</i><par n="dob/a__n"/></e>
+    <e lm="aktivita" c="check"><i>aktivit</i><par n="dob/a__n"/></e>
+
     <e lm="konsensus"><i>konsens</i><par n="ile/us__n"/></e>
     <e lm="konsenzus"><i>konsenz</i><par n="ile/us__n"/></e>
     <e lm="kontext"><i>kontext</i><par n="bor__n"/></e>
