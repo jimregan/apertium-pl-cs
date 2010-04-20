@@ -21440,6 +21440,7 @@
     <e lm="muž"><i>muž</i><par n="muž__n"/></e>
     <e lm="mys"><i>mys</i><par n="bor__n"/></e>
     <e lm="máslo"><i>más</i><par n="más/lo__n"/></e>
+    <e lm="sklo"><i>sk</i><par n="más/lo__n"/></e>
     <e lm="médium"><i>médi</i><par n="bary/um__n"/></e>
     <e lm="mír"><i>mír</i><par n="bor__n"/></e>
     <e lm="místo"><i>míst</i><par n="aut/o__n"/></e>
@@ -21852,6 +21853,7 @@
     <e lm="výslovnost"><i>výslovnost</i><par n="věc__n"/></e>
     <e lm="věc"><i>věc</i><par n="věc__n"/></e>
     <e lm="vřídlo"><i>vříd</i><par n="vříd/lo__n"/></e>
+    <e lm="světlo"><i>svět</i><par n="vříd/lo__n"/></e>
     <e lm="vůz"><i>v</i><par n="v/ůz__n"/></e>
     <e lm="wasabi"><i>wasabi</i><par n="wasabi__n"/></e>
     <e lm="xenofobie"><i>xenofobi</i><par n="šíj/e__n"/></e>
