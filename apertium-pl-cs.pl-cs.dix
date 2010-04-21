@@ -1,3 +1,4 @@
+usage: ./insert_lines.sh <plik główny> <plik z wstawką> <liczba wierszy po których wstawka ma być wstawiona>
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
   <alphabet/>
@@ -1644,6 +1645,49 @@
 <e><p><l>cysta<s n="n"/><s n="f"/></l><r>cysta<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>kosmonauta<s n="n"/><s n="mp"/></l><r>kosmonaut<s n="n"/><s n="ma"/></r></p></e>
 <e><p><l>amur<s n="n"/><s n="ma"/></l><r>amur<s n="n"/><s n="ma"/></r></p></e>
+
+     <e><p><l>pierś<s n="n"/><s n="f"/></l><r>prs<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>biust<s n="n"/><s n="mi"/></l><r>ňadro<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>iluminator<s n="n"/><s n="mp"/></l><r>iluminátor<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>introwertyk<s n="n"/><s n="ma"/></l><r>introvert<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>obywatel<s n="n"/><s n="mp"/></l><r>obyvatel<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>truteń<s n="n"/><s n="ma"/></l><r>trubec<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>problem<s n="n"/><s n="mi"/></l><r>problém<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>ropa<s n="n"/><s n="f"/></l><r>ropa<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>rafineria<s n="n"/><s n="f"/></l><r>rafinerie<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>rafineria<s n="n"/><s n="f"/></l><r>rafinérie<s n="n"/><s n="f"/></r></p></e>
+     <e r="RL"><p><l>sekunda<s n="n"/><s n="f"/></l><r>vteřina<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kaligram<s n="n"/><s n="mi"/></l><r>kaligram<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>satelita<s n="n"/><s n="ma"/></l><r>družice<s n="n"/><s n="f"/></r></p></e>
+     <e r="RL"><p><l>źródło<s n="n"/><s n="nt"/></l><r>vřídlo<s n="n"/><s n="nt"/></r></p></e>
+
+     <!-- Multiwords -->
+     <e><p><l>dział<b/>wód<s n="n"/></l><r>rozvodí<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>język<b/>afrikaans<s n="n"/></l><r>afrikánština<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>język<b/>czeski<s n="n"/></l><r>čeština<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>język<b/>kataloński<s n="n"/></l><r>katalánština<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>język<b/>niderlandzki<s n="n"/></l><r>nizozemština<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>język<b/>niemiecki<s n="n"/></l><r>němčina<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>język<b/>norweski<s n="n"/></l><r>norština<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>język<b/>polski<s n="n"/></l><r>polština<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>język<b/>słowacki<s n="n"/></l><r>slovenština<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kamień<b/>szlachetny<s n="n"/></l><r>drahokam<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>koryto<b/>rzeki<s n="n"/></l><r>řečiště<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>latarnia<b/>morska<s n="n"/></l><r>maják<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>marskość<b/>wątroby<s n="n"/></l><r>cirhóza<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>trzęsienie<b/>ziemi<s n="n"/></l><r>zemětřesení<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>topola<b/>osika<s n="n"/></l><r>osika<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>telefon<b/>komórkowy<s n="n"/></l><r>mobil<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>wyrostek<b/>robaczkowy<s n="n"/></l><r>apendix<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>tryb<b/>rozkazujący<s n="n"/></l><r>imperativ<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>zapalenie<b/>oskrzeli<s n="n"/></l><r>bronchitida<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>znaki<b/>diakrytyczne<s n="n"/></l><r>diakritika<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>zwierzęta<b/>gospodarskie<s n="n"/></l><r>dobytek<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>węgiel<b/>brunatny<s n="n"/></l><r>lignit<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>statek<b/>powietrzny<s n="n"/></l><r>loď<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>trądzik<b/>młodzieńczy<s n="n"/></l><r>jebák<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>opad<b/>atmosferyczny<s n="n"/></l><r>srážka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>sede<b/>vacante<s n="n"/></l><r>sedisvakance<s n="n"/><s n="f"/></r></p></e>
 
      <!-- Proper nouns -->
 
