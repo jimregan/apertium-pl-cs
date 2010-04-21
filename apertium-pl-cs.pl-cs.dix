@@ -1842,6 +1842,32 @@
      <e><p><l>ziemia<s n="n"/><s n="f"/></l><r>země<s n="n"/><s n="f"/></r></p></e>
 
      <!-- Multiwords -->
+     <e><p><l>linia<b/>lotnicza<s n="n"/></l><r>aerolinka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>papużka<b/>falista<s n="n"/></l><r>andulka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>klon<b/>polny<s n="n"/></l><r>babyka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>wersja<g><b/>beta</g><s n="n"/><s n="f"/></l><r>betaverze<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>czarna<b/>jagoda<s n="n"/></l><r>borůvka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>instytucja<b/>charytatywna<s n="n"/></l><r>charita<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>burak<b/>cukrowy<s n="n"/></l><r>cukrovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>droga<b/>rowerowa<s n="n"/></l><r>cyklostezka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ścieżka<b/>rowerowa<s n="n"/></l><r>cyklostezka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>orkiestra<b/>dęta<s n="n"/></l><r>dechovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>zapalenie<g><b/>skóry</g><s n="n"/><s n="nt"/></l><r>dermatitida<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>powieść<b/>detektywistyczna<s n="n"/></l><r>detektivka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>strajk<b/>głodowy<s n="n"/></l><r>hladovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kolej<b/>linowa<s n="n"/></l><r>lanovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>alfabet<b/>łaciński<s n="n"/></l><r>latinka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>bilet<b/>lotniczy<s n="n"/></l><r>letenka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>zwolnienie<b/>lekarskie<s n="n"/></l><r>neschopenka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>lampa<b/>naftowa<s n="n"/></l><r>petrolejka<s n="n"/><s n="f"/></r></p></e>
+     <e r="LR"><p><l>okręt<b/>podwodny<s n="n"/></l><r>ponorka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>łódź<b/>podwodna<s n="n"/></l><r>ponorka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>gwiazda<b/>polarna<s n="n"/></l><r>severka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>trasa<b/>zjazdowa<s n="n"/></l><r>sjezdovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>woda<b/>sodowa<s n="n"/></l><r>sodovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>bułka<b/>tarta<s n="n"/></l><r>strouhanka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>konferencja<b/>prasowa<s n="n"/></l><r>tiskovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>roślina<b/>wieloletnia<s n="n"/></l><r>trvalka<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>dział<b/>wód<s n="n"/></l><r>rozvodí<s n="n"/><s n="nt"/></r></p></e>
      <e><p><l>język<b/>afrikaans<s n="n"/></l><r>afrikánština<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>język<b/>czeski<s n="n"/></l><r>čeština<s n="n"/><s n="f"/></r></p></e>
