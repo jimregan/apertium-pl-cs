@@ -1,4 +1,3 @@
-usage: ./insert_lines.sh <plik główny> <plik z wstawką> <liczba wierszy po których wstawka ma być wstawiona>
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
   <alphabet/>
