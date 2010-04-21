@@ -15768,6 +15768,15 @@
         </p>
       </e>
     </pardef>
+    <pardef n="trzęsie/nie__n">
+      <e>
+        <p>
+          <l></l>
+          <r>nie<s n="n"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+    </pardef>
     <pardef n="BASE__piwo">
       <e>
         <p>
@@ -29199,6 +29208,8 @@
     <e a="kurnik" lm="neologizm"><i>neologizm</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="omnibus"><i>omnibus</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="wolność"><i>wolnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="markość wątroby"><i>wolnoś</i><par n="miłoś/ć__n"/><p><l><b/>wątroby</l><r><g><b/>wątroby</g></r></p></e>
+    <e lm="trzęsienie ziemi"><i>trzęsie</i><par n="trzęsie/nie__n"/><p><l><b/>ziemi</l><r><g><b/>ziemi</g></r></p></e>
 
     <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
     <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
