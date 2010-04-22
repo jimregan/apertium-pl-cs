@@ -17337,6 +17337,57 @@
         <par n="PBASE__mp_pl"/>
       </e>
     </pardef>
+    <pardef n="astronom__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owi</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/></r>
+        </p>
+        <par n="PBASE__mp_pl"/>
+      </e>
+    </pardef>
 
 
     <pardef n="PBASE__matka">
@@ -28881,6 +28932,7 @@
     <e lm="imię"><i>imi</i><par n="imi/ę__n"/></e>
     <e lm="dziecko"><i>dzie</i><par n="dzie/cko__n"/></e>
     <e lm="śpioch"><i>śpioch</i><par n="śpioch__n"/></e>
+    <e lm="astronom"><i>astronom</i><par n="astronom__n"/></e>
     <e lm="matka"><i>mat</i><par n="mat/ka__n"/></e>
     <e lm="dziwka"><i>dziw</i><par n="mat/ka__n"/></e>
     <e lm="ławka"><i>ław</i><par n="mat/ka__n"/></e>
