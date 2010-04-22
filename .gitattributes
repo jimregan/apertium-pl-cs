@@ -32,6 +32,7 @@ dev/some-czech-closed-words -text
 dev/testvoc-summary.cs-pl.txt -text
 dev/testvoc-summary.pl-cs.txt -text
 dev/todo -text
+dev/wikt.full-form.pl -text
 misc/bort.xsl -text
 /modes.xml -text
 /pending-tests.sh -text
