@@ -28963,6 +28963,7 @@
     <e lm="pies"><i>p</i><par n="p/ies__n"/></e>
     <e lm="owies"><i>ow</i><par n="ow/ies__n"/></e>
 
+    <e lm="aborcja"><i>aborc</i><par n="dysertac/ja__n"/></e>
     <e lm="absolutyzacja"><i>absolutyzac</i><par n="dysertac/ja__n"/></e>
     <e lm="adiektywizacja"><i>adiektywizac</i><par n="dysertac/ja__n"/></e>
     <e lm="afrykanizacja"><i>afrykanizac</i><par n="dysertac/ja__n"/></e>
@@ -29327,7 +29328,7 @@
     <e lm="amnestia"><i>amnesti</i><par n="filozofi/a__n"/></e>
     <e lm="anatomia"><i>anatomi</i><par n="anatomi/a__n"/></e>
     <e lm="apostasia"><i>apostasi</i><par n="filozofi/a__n"/></e>
-    <e lm="astronomia"><i>astronomi</i><par n="anatomi/a__n"/></e>
+    <e lm="astronomia"><i>astronomi</i><par n="filozofi/a__n"/></e>
     <e lm="dialektologia"><i>dialektologi</i><par n="filozofi/a__n"/></e>
     <e lm="ekologia"><i>ekologi</i><par n="filozofi/a__n"/></e>
     <e lm="empatia"><i>empati</i><par n="filozofi/a__n"/></e>
