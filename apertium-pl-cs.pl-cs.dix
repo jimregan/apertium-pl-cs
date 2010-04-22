@@ -1840,8 +1840,36 @@
      <e><p><l>zambo<s n="n"/><s n="mi"/></l><r>zambo<s n="n"/><s n="ma"/></r></p></e>
      <e><p><l>reszta<s n="n"/><s n="f"/></l><r>zbytek<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>ziemia<s n="n"/><s n="f"/></l><r>země<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>glina<s n="n"/><s n="f"/></l><r>hlinka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>zwierzę<s n="n"/><s n="nt"/></l><r>hovado<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>próchno<s n="n"/><s n="nt"/></l><r>hubka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>jeleń<s n="n"/><s n="ma"/></l><r>jelec<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>jesiotr<s n="n"/><s n="ma"/></l><r>jeseter<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>jazgarz<s n="n"/><s n="ma"/></l><r>ježdík<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>kartusz<s n="n"/><s n="mi"/></l><r>kartuše<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ochrona<s n="n"/><s n="f"/></l><r>ochranka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kupka<s n="n"/><s n="f"/></l><r>kupka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>kwiat<s n="n"/><s n="mi"/></l><r>květina<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>szczawa<s n="n"/><s n="f"/></l><r>kyselka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>papa<s n="n"/><s n="f"/></l><r>lepenka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>karton<s n="n"/><s n="mi"/></l><r>lepenka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>marka<s n="n"/><s n="f"/></l><r>marka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>notatka<s n="n"/><s n="f"/></l><r>memorandum<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>obojnak<s n="n"/><s n="ma"/></l><r>obojetník<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>ochrona<s n="n"/><s n="f"/></l><r>ochranka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ognisko<s n="n"/><s n="nt"/></l><r>ohnisko<s n="n"/><s n="nt"/></r></p></e>
+     <e><p><l>płotka<s n="n"/><s n="f"/></l><r>plotice<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>odczucie<s n="n"/><s n="nt"/></l><r>pocit<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>sofa<s n="n"/><s n="f"/></l><r>pohovka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>ordynator<s n="n"/><s n="mp"/></l><r>primář<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>pierwiastek<s n="n"/><s n="mi"/></l><r>prvek<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>beza<s n="n"/><s n="f"/></l><r>pusinka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>umiejętność<s n="n"/><s n="f"/></l><r>schopnost<s n="n"/><s n="f"/></r></p></e>
 
      <!-- Multiwords -->
+     <e><p><l>koło<b/>prasowe<s n="n"/></l><r>kladka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>woda<b/>kwasowęglowa<s n="n"/></l><r>kyselka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>zwiastun<g><b/>filmu</g><s n="n"/><s n="mi"/></l><r>maringotka<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>linia<b/>lotnicza<s n="n"/></l><r>aerolinka<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>papużka<b/>falista<s n="n"/></l><r>andulka<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>klon<b/>polny<s n="n"/></l><r>babyka<s n="n"/><s n="f"/></r></p></e>
