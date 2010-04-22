@@ -350,8 +350,47 @@
      <e><p><l>ewangeliarz<s n="n"/><s n="mi"/></l><r>evangeliář<s n="n"/><s n="mi"/></r></p></e>
      <e><p><l>tokamak<s n="n"/><s n="mi"/></l><r>tokamak<s n="n"/><s n="mi"/></r></p></e>
      <e c="check"><p><l>język<b/>słoweński<s n="n"/><s n="mi"/></l><r>slovinština<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>grecki<s n="adj"/></l><r>řecký<s n="adj"/></r></p></e>
+     <e><p><l>kataloński<s n="adj"/></l><r>katalánsky<s n="adj"/></r></p></e>
+     <e><p><l>walijski<s n="adj"/></l><r>velšský<s n="adj"/></r></p></e>
+     <e><p><l>Al-Dżazira<s n="np"/><s n="al"/><s n="f"/></l><r>Al-Džazíra<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+     <e><p><l>Abidżan<s n="np"/><s n="top"/><s n="mi"/></l><r>Abidžan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+     <e><p><l>Afganistan<s n="np"/><s n="al"/><s n="mi"/></l><r>Afgánistán<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+     <e><p><l>Afryka<s n="np"/><s n="top"/><s n="f"/></l><r>Afrika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Alaska<s n="np"/><s n="top"/><s n="f"/></l><r>Aljaška<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Albańczyk<s n="n"/><s n="mp"/></l><r>Albánec<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>Algier<s n="np"/><s n="top"/><s n="mi"/></l><r>Alžír<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+     <e><p><l>Algieria<s n="np"/><s n="top"/><s n="f"/></l><r>Alžírsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+     <e><p><l>Allah<s n="np"/><s n="ant"/><s n="mp"/></l><r>Alláh<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+     <e><p><l>Arab<s n="n"/><s n="mp"/></l><r>Arab<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>Arabia<b/>Saudyjska<s n="np"/><s n="top"/><s n="f"/></l><r>Saúdská<b/>Arábie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ares<s n="np"/><s n="ant"/><s n="mp"/></l><r>Arés<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+     <e><p><l>Argentyna<s n="np"/><s n="top"/><s n="f"/></l><r>Argentina<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Argentyńczyk<s n="n"/><s n="mp"/></l><r>Argentinec<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>Afgańczyk<s n="n"/><s n="mp"/></l><r>Afghánec<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>Armenia<s n="np"/><s n="top"/><s n="f"/></l><r>Arménie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Armia<g><b/>Stanów<b/>Zjednoczonych</g><s n="n"/><s n="f"/></l><r>Armáda<g><b/>Spojených<b/>států</g><s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>Arystoteles<s n="np"/><s n="ant"/><s n="mp"/></l><r>Aristoteles<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+     <e><p><l>Atena<s n="np"/><s n="ant"/><s n="f"/></l><r>Athéna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+     <e><p><l>Ateny<s n="np"/><s n="top"/><s n="f"/></l><r>Atény<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ameryka<b/>Południowa<s n="np"/><s n="top"/><s n="f"/></l><r>Jižní<b/>Amerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Ameryka<b/>Północna<s n="np"/><s n="top"/><s n="f"/></l><r>Severní<b/>Amerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Alpy<s n="np"/><s n="top"/><s n="f"/></l><r>Alpy<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Amerykanin<s n="n"/><s n="mp"/></l><r>Američan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+     <e><p><l>Amsterdam<s n="np"/><s n="top"/><s n="mi"/></l><r>Amsterdam<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+     <e><p><l>Andaluzja<s n="np"/><s n="top"/><s n="f"/></l><r>Andalusie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Andora<s n="np"/><s n="top"/><s n="f"/></l><r>Andorra<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Angielka<s n="n"/><s n="f"/></l><r>Angličanka<s n="n"/><s n="f"/></r></p></e>
+     <e><p><l>Angkor<b/>Wat<s n="np"/><s n="top"/><s n="mi"/></l><r>Angkor<b/>Wat<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+     <e><p><l>Anglia<s n="np"/><s n="top"/><s n="f"/></l><r>Anglie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Anglik<s n="np"/><s n="top"/><s n="mp"/></l><r>Angličan<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>Ankara<s n="n"/><s n="f"/></l><r>Ankara<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Antarktyda<s n="np"/><s n="top"/><s n="f"/></l><r>Antarktida<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+     <e><p><l>Antigua<b/>i<b/>Barbuda<s n="np"/><s n="top"/><s n="f"/></l><r>Antigua<b/>a<b/>Barbuda<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+
 
      <e><p><l>arsen<s n="n"/><s n="mi"/></l><r>arzen<s n="n"/><s n="mi"/></r></p></e>
+     <e><p><l>śniadanie<s n="n"/><s n="nt"/></l><r>snídaně<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>beletrystyka<s n="n"/><s n="f"/></l><r>beletrie<s n="n"/><s n="f"/></r></p></e>
      <e><p><l>bokser<s n="n"/><s n="ma"/></l><r>boxer<s n="n"/><s n="ma"/></r></p></e>
      <e><p><l>bulwa<s n="n"/><s n="f"/></l><r>hlíza<s n="n"/><s n="f"/></r></p></e>
