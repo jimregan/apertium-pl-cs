@@ -17510,7 +17510,6 @@
 
       <e><p>          <l>jsem</l><r>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p>          <l>jseš</l><r>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p>          <l>je</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
       <e><p>          <l>jsme</l><r>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p>          <l>jste</l><r>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p>          <l>jsou</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
@@ -22454,6 +22453,8 @@
     <!-- Verbs -->
 
     <e lm="být"><par n="v_neg"/><i></i><par n="/být__vbser"/></e>
+    <e><p><l>je</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e><p><l>není</l><r>ne<s n="adv"/><j/>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="mít"><par n="v_neg"/><i>m</i><par n="m/ít__vbhaver"/></e>
     <e lm="moci"><par n="v_neg"/><i>m</i><par n="m/oci__vaux"/></e>
     <e lm="třeba"><par n="v_neg"/><i>třeba</i><par n="třeba__vaux"/></e>
