@@ -23,6 +23,7 @@
 /cs-pl.prob -text
 dev/apertium-pl-cs.pl-cs-crossed.dix -text
 dev/bidix-to-tag -text
+dev/cs.cnj-missing.txt -text
 dev/czech-top1000 -text
 dev/frek2apertium.pl -text
 dev/inconsistency-summary.sh -text
