@@ -496,7 +496,7 @@
       <e><p>          <l>em</l><r><s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p>          <l>ze</l><r><s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
     </pardef>
-    <pardef n="lal/ka__n_f">
+    <pardef n="mat/ka__n">
       <e><p>          <l>ka</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p>          <l>kę</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p>          <l>ki</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -1646,7 +1646,7 @@
       <e><p>          <l>niami</l><r>ień<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
       <e><p>          <l>nie</l><r>ień<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
-    <pardef n="typ__n_mi">
+    <pardef n="sklep__n">
       <e><p>          <l></l><r><s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p>          <l></l><r><s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p>          <l>u</l><r><s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -2235,7 +2235,6 @@
     <e lm="aborcja"><i>aborcj</i><par n="aborcj/a__n_f"/></e>
     <e lm="akademik"><i>akademik</i><par n="jajnik__n_mi"/></e>
     <e lm="aksjomat"><i>aksjoma</i><par n="hi/t__n_mi"/></e>
-    <e lm="ambulans"><i>ambulans</i><par n="typ__n_mi"/></e>
     <e lm="ametyst"><i>amety</i><par n="li/st__n_mi"/></e>
     <e lm="aorta"><i>aor</i><par n="cha/ta__n_f"/></e>
     <e lm="astronauta"><i>astronau</i><par n="astronau/ta__n_mp"/></e>
@@ -2248,7 +2247,6 @@
     <e lm="batuta"><i>batu</i><par n="cha/ta__n_f"/></e>
     <e lm="beryl"><i>beryl</i><par n="tal__n_mi"/></e>
     <e lm="biblioteka"><i>bibliote</i><par n="nau/ka__n_f"/></e>
-    <e lm="biegunka"><i>biegun</i><par n="lal/ka__n_f"/></e>
     <e lm="bitwa"><i>bit</i><par n="kur/wa__n_f"/></e>
     <e lm="biustonosz"><i>biustonosz</i><par n="biustonosz__n_mi"/></e>
     <e lm="blog"><i>blog</i><par n="lek__n_mi"/></e>
@@ -2259,7 +2257,6 @@
     <e lm="brzoza"><i>brz</i><par n="brz/oza__n_f"/></e>
     <e lm="buda"><i>bud</i><par n="bud/a__n_f"/></e>
     <e lm="bukiet"><i>bukie</i><par n="hi/t__n_mi"/></e>
-    <e lm="bułka"><i>buł</i><par n="lal/ka__n_f"/></e>
     <e lm="byk"><i>byk</i><par n="byk__n_ma"/></e>
     <e lm="bóg"><i>b</i><par n="b/óg__n_mp"/></e>
     <e lm="cena"><i>cen</i><par n="kaw/a__n_f"/></e>
@@ -2275,8 +2272,6 @@
     <e lm="cukrzyca"><i>cukrzyc</i><par n="róż/a__n_f"/></e>
     <e lm="cygaro"><i>cygar</i><par n="cygar/o__n_nt"/></e>
     <e lm="czapla"><i>czapl</i><par n="muszl/a__n_f"/></e>
-    <e lm="czaszka"><i>czasz</i><par n="lal/ka__n_f"/></e>
-    <e lm="czcionka"><i>czcion</i><par n="lal/ka__n_f"/></e>
     <e lm="czereśnia"><i>czereśni</i><par n="czereśni/a__n_f"/></e>
     <e lm="czołg"><i>czołg</i><par n="lek__n_mi"/></e>
     <e lm="czwartek"><i>czwart</i><par n="piąt/ek__n_mi"/></e>
@@ -2287,19 +2282,14 @@
     <e lm="dolina"><i>dolin</i><par n="kaw/a__n_f"/></e>
     <e lm="dorsz"><i>dorsz</i><par n="dorsz__n_ma"/></e>
     <e lm="drzewo"><i>drzew</i><par n="nieb/o__n_nt"/></e>
-    <e lm="dwójka"><i>dwój</i><par n="lal/ka__n_f"/></e>
     <e lm="dysza"><i>dysz</i><par n="dysz/a__n_f"/></e>
     <e lm="dźwig"><i>dźwig</i><par n="lek__n_mi"/></e>
     <e lm="dżungla"><i>dżungl</i><par n="muszl/a__n_f"/></e>
     <e lm="einstein"><i>einstein</i><par n="gram__n_mi"/></e>
-    <e lm="ekran"><i>ekran</i><par n="typ__n_mi"/></e>
-    <e lm="fajka"><i>faj</i><par n="lal/ka__n_f"/></e>
-    <e lm="faks"><i>faks</i><par n="typ__n_mi"/></e>
     <e lm="fala"><i>fal</i><par n="fal/a__n_f"/></e>
     <e lm="firma"><i>firm</i><par n="kaw/a__n_f"/></e>
     <e lm="fizyka"><i>fizy</i><par n="nau/ka__n_f"/></e>
     <e lm="flaga"><i>fla</i><par n="fla/ga__n_f"/></e>
-    <e lm="fotka"><i>fot</i><par n="lal/ka__n_f"/></e>
     <e lm="futro"><i>fut</i><par n="fut/ro__n_nt"/></e>
     <e lm="gal"><i>gal</i><par n="gal__n_mi"/></e>
     <e lm="garaż"><i>garaż</i><par n="garaż__n_mi"/></e>
@@ -2308,7 +2298,6 @@
     <e lm="glina"><i>glin</i><par n="glin/a__n_f"/></e>
     <e lm="gmina"><i>gmin</i><par n="kaw/a__n_f"/></e>
     <e lm="godzina"><i>godzin</i><par n="kaw/a__n_f"/></e>
-    <e lm="grab"><i>grab</i><par n="typ__n_mi"/></e>
     <e lm="gram"><i>gram</i><par n="gram__n_mi"/></e>
     <e lm="gwiazda"><i>gwi</i><par n="gwi/azda__n_f"/></e>
     <e lm="gwiazdozbiór"><i>gwiazdozbi</i><par n="gwiazdozbi/ór__n_nt"/></e>
@@ -2317,15 +2306,11 @@
     <e lm="hit"><i>hi</i><par n="hi/t__n_mi"/></e>
     <e lm="holm"><i>holm</i><par n="holm__n_mi"/></e>
     <e lm="homoseksualista"><i>homoseksuali</i><par n="homoseksuali/sta__n_mp"/></e>
-    <e lm="hormon"><i>hormon</i><par n="typ__n_mi"/></e>
-    <e lm="huragan"><i>huragan</i><par n="typ__n_mi"/></e>
     <e lm="jad"><i>jad</i><par n="jad__n_mi"/></e>
     <e lm="jajnik"><i>jajnik</i><par n="jajnik__n_mi"/></e>
     <e lm="jarzębina"><i>jarzębin</i><par n="kaw/a__n_f"/></e>
-    <e lm="jednostka"><i>jednost</i><par n="lal/ka__n_f"/></e>
     <e lm="jeleń"><i>jele</i><par n="jele/ń__n_ma"/></e>
     <e lm="jesień"><i>jesie</i><par n="bro/ń__n_f"/></e>
-    <e lm="jesion"><i>jesion</i><par n="typ__n_mi"/></e>
     <e lm="jesiotr"><i>jesiotr</i><par n="jesiotr__n_ma"/></e>
     <e lm="jezdnia"><i>jezdni</i><par n="wiśni/a__n_f"/></e>
     <e lm="jezioro"><i>jezior</i><par n="cygar/o__n_nt"/></e>
@@ -2340,31 +2325,23 @@
     <e lm="kiur"><i>kiur</i><par n="kiur__n_mi"/></e>
     <e lm="klarnet"><i>klarne</i><par n="hi/t__n_mi"/></e>
     <e lm="klasztor"><i>klasztor</i><par n="bar__n_mi"/></e>
-    <e lm="klon"><i>klon</i><par n="typ__n_mi"/></e>
     <e lm="kobieta"><i>kobie</i><par n="cha/ta__n_f"/></e>
     <e lm="kogut"><i>kogu</i><par n="robo/t__n_ma"/></e>
-    <e lm="kompromis"><i>kompromis</i><par n="typ__n_mi"/></e>
     <e lm="komputer"><i>komputer</i><par n="kiur__n_mi"/></e>
-    <e lm="komórka"><i>komór</i><par n="lal/ka__n_f"/></e>
     <e lm="korona"><i>koron</i><par n="kaw/a__n_f"/></e>
     <e lm="kosa"><i>kos</i><par n="kaw/a__n_f"/></e>
-    <e lm="kostka"><i>kost</i><par n="lal/ka__n_f"/></e>
     <e lm="kościół"><i>kości</i><par n="kości/ół__n_mi"/></e>
     <e lm="kraj"><i>kraj</i><par n="kraj__n_mi"/></e>
-    <e lm="kredka"><i>kred</i><par n="lal/ka__n_f"/></e>
     <e lm="kretyn"><i>kretyn</i><par n="kapłan__n_mp"/></e>
     <e lm="kropla"><i>kropl</i><par n="kropl/a__n_f"/></e>
     <e lm="kruk"><i>kruk</i><par n="wilk__n_ma"/></e>
     <e lm="krzesło"><i>krze</i><par n="krze/sło__n_nt"/></e>
-    <e lm="krzew"><i>krzew</i><par n="typ__n_mi"/></e>
     <e lm="kucharz"><i>kucharz</i><par n="kucharz__n_mp"/></e>
     <e lm="kultura"><i>kultur</i><par n="kur/a__n_f"/></e>
     <e lm="kura"><i>kur</i><par n="kur/a__n_f"/></e>
     <e lm="kurwa"><i>kur</i><par n="kur/wa__n_f"/></e>
     <e lm="kwadrat"><i>kwadra</i><par n="hi/t__n_mi"/></e>
     <e lm="kwiat"><i>kwi</i><par n="kwi/at__n_mi"/></e>
-    <e lm="lalka"><i>lal</i><par n="lal/ka__n_f"/></e>
-    <e lm="latarka"><i>latar</i><par n="lal/ka__n_f"/></e>
     <e lm="lek"><i>lek</i><par n="lek__n_mi"/></e>
     <e lm="leszcz"><i>leszcz</i><par n="leszcz__n_ma"/></e>
     <e lm="leszczyna"><i>leszczyn</i><par n="kaw/a__n_f"/></e>
@@ -2374,8 +2351,6 @@
     <e lm="lodowiec"><i>lodow</i><par n="lodow/iec__n_mi"/></e>
     <e lm="lokomotywa"><i>lokomotyw</i><par n="kaw/a__n_f"/></e>
     <e lm="luty"><i>lut</i><par n="lut/y__n_mi"/></e>
-    <e lm="mandarynka"><i>mandaryn</i><par n="lal/ka__n_f"/></e>
-    <e lm="maska"><i>mas</i><par n="lal/ka__n_f"/></e>
     <e lm="meczet"><i>mecze</i><par n="hi/t__n_mi"/></e>
     <e lm="mgławica"><i>mgławic</i><par n="róż/a__n_f"/></e>
     <e lm="mianownik"><i>mianownik</i><par n="jajnik__n_mi"/></e>
@@ -2385,9 +2360,7 @@
     <e lm="migdał"><i>migda</i><par n="migda/ł__n_mi"/></e>
     <e lm="minerał"><i>minera</i><par n="minera/ł__n_mi"/></e>
     <e lm="minuta"><i>minu</i><par n="cha/ta__n_f"/></e>
-    <e lm="miska"><i>mis</i><par n="lal/ka__n_f"/></e>
     <e lm="mięso"><i>mięs</i><par n="nieb/o__n_nt"/></e>
-    <e lm="modem"><i>modem</i><par n="typ__n_mi"/></e>
     <e lm="monitor"><i>monitor</i><par n="kiur__n_mi"/></e>
     <e lm="morderca"><i>morderc</i><par n="morderc/a__n_mi"/></e>
     <e lm="morze"><i>m</i><par n="m/orze__n_nt"/></e>
@@ -2397,10 +2370,8 @@
     <e lm="młyn"><i>młyn</i><par n="gram__n_mi"/></e>
     <e lm="napój"><i>nap</i><par n="nap/ój__n_mi"/></e>
     <e lm="nauka"><i>nau</i><par n="nau/ka__n_f"/></e>
-    <e lm="neon"><i>neon</i><par n="typ__n_mi"/></e>
     <e lm="niebo"><i>nieb</i><par n="nieb/o__n_nt"/></e>
     <e lm="niedziela"><i>niedziel</i><par n="fal/a__n_f"/></e>
-    <e lm="notatka"><i>notat</i><par n="lal/ka__n_f"/></e>
     <e lm="nóż"><i>n</i><par n="n/óż__n_mi"/></e>
     <e lm="obiekt"><i>obiek</i><par n="hi/t__n_mi"/></e>
     <e lm="obywatel"><i>obywatel</i><par n="gej__n_mp"/></e>
@@ -2413,8 +2384,6 @@
     <e lm="ostrosłup"><i>ostrosłup</i><par n="gram__n_mi"/></e>
     <e lm="ołówek"><i>ołów</i><par n="ułam/ek__n_mi"/></e>
     <e lm="pacjent"><i>pacjen</i><par n="pacjen/t__n_mp"/></e>
-    <e lm="paragon"><i>paragon</i><par n="typ__n_mi"/></e>
-    <e lm="partnerka"><i>partner</i><par n="lal/ka__n_f"/></e>
     <e lm="pedał"><i>peda</i><par n="peda/ł__n_mp"/></e>
     <e lm="penis"><i>penis</i><par n="penis__n_mi"/></e>
     <e lm="pielucha"><i>pielu</i><par n="ol/cha__n_f"/></e>
@@ -2425,23 +2394,17 @@
     <e lm="pizda"><i>pi</i><par n="pi/zda__n_f"/></e>
     <e lm="piątek"><i>piąt</i><par n="piąt/ek__n_mi"/></e>
     <e lm="planeta"><i>plane</i><par n="cha/ta__n_f"/></e>
-    <e lm="pluton"><i>pluton</i><par n="typ__n_mi"/></e>
     <e lm="pochwa"><i>poch</i><par n="kur/wa__n_f"/></e>
     <e lm="pocisk"><i>pocisk</i><par n="lek__n_mi"/></e>
     <e lm="podręcznik"><i>podręcznik</i><par n="jajnik__n_mi"/></e>
     <e lm="pokój"><i>pok</i><par n="pok/ój__n_mi"/></e>
-    <e lm="polka"><i>pol</i><par n="lal/ka__n_f"/></e>
     <e lm="pomarańcza"><i>pomarańcz</i><par n="pomarańcz/a__n_f"/></e>
     <e lm="portal"><i>portal</i><par n="portal__n_mi"/></e>
     <e lm="pot"><i>po</i><par n="po/t__n_mi"/></e>
     <e lm="praca"><i>prac</i><par n="róż/a__n_f"/></e>
-    <e lm="problem"><i>problem</i><par n="typ__n_mi"/></e>
-    <e lm="prostytutka"><i>prostytut</i><par n="lal/ka__n_f"/></e>
-    <e lm="proton"><i>proton</i><par n="typ__n_mi"/></e>
     <e lm="przedmiot"><i>przedmio</i><par n="hi/t__n_mi"/></e>
     <e lm="próżnia"><i>próżni</i><par n="wiśni/a__n_f"/></e>
     <e lm="pustynia"><i>pusty</i><par n="pusty/nia__n_f"/></e>
-    <e lm="puszka"><i>pusz</i><par n="lal/ka__n_f"/></e>
     <e lm="pułkownik"><i>pułkowni</i><par n="pułkowni/k__n_mp"/></e>
     <e lm="rad"><i>rad</i><par n="rad__n_mi"/></e>
     <e lm="rekin"><i>rekin</i><par n="rekin__n_ma"/></e>
@@ -2450,18 +2413,15 @@
     <e lm="reszta"><i>resz</i><par n="cha/ta__n_f"/></e>
     <e lm="robot"><i>robo</i><par n="robo/t__n_ma"/></e>
     <e lm="rod"><i>rod</i><par n="rod__n_mi"/></e>
-    <e lm="rogówka"><i>rogów</i><par n="lal/ka__n_f"/></e>
     <e lm="rok"><i></i><par n="/rok__n_mi"/></e>
     <e lm="roztwór"><i>roztw</i><par n="roztw/ór__n_mi"/></e>
     <e lm="roślina"><i>roślin</i><par n="kaw/a__n_f"/></e>
-    <e lm="rybka"><i>ryb</i><par n="lal/ka__n_f"/></e>
     <e lm="rzecz"><i>rzecz</i><par n="rzecz__n_f"/></e>
     <e lm="rzeźba"><i>rzeźb</i><par n="kaw/a__n_f"/></e>
     <e lm="róża"><i>róż</i><par n="róż/a__n_f"/></e>
     <e lm="samolot"><i>samolo</i><par n="hi/t__n_mi"/></e>
     <e lm="sandacz"><i>sandacz</i><par n="leszcz__n_ma"/></e>
     <e lm="sarna"><i>sar</i><par n="sar/na__n_f"/></e>
-    <e lm="sejsmograf"><i>sejsmograf</i><par n="typ__n_mi"/></e>
     <e lm="sekunda"><i>sekund</i><par n="bud/a__n_f"/></e>
     <e lm="siekiera"><i>siekier</i><par n="kur/a__n_f"/></e>
     <e lm="siła"><i>si</i><par n="si/ła__n_f"/></e>
@@ -2480,56 +2440,38 @@
     <e lm="stół"><i>st</i><par n="st/ół__n_mi"/></e>
     <e lm="sumienie"><i>sumie</i><par n="sumie/nie__n_nt"/></e>
     <e lm="syn"><i>syn</i><par n="syn__n_mp"/></e>
-    <e lm="synonim"><i>synonim</i><par n="typ__n_mi"/></e>
     <e lm="szczupak"><i>szczupak</i><par n="ślimak__n_mi"/></e>
-    <e lm="sześcian"><i>sześcian</i><par n="typ__n_mi"/></e>
     <e lm="szkielet"><i>szkiele</i><par n="hi/t__n_mi"/></e>
-    <e lm="szklanka"><i>szklan</i><par n="lal/ka__n_f"/></e>
     <e lm="sztylet"><i>sztyle</i><par n="hi/t__n_mi"/></e>
     <e lm="szyja"><i>szy</i><par n="szy/ja__n_f"/></e>
-    <e lm="sójka"><i>sój</i><par n="lal/ka__n_f"/></e>
     <e lm="słonecznik"><i>słonecznik</i><par n="jajnik__n_mi"/></e>
     <e lm="słońce"><i>słońc</i><par n="słońc/e__n_nt"/></e>
     <e lm="tablica"><i>tablic</i><par n="róż/a__n_f"/></e>
     <e lm="tal"><i>tal</i><par n="tal__n_mi"/></e>
-    <e lm="telefon"><i>telefon</i><par n="typ__n_mi"/></e>
     <e lm="telewizor"><i>telewizor</i><par n="kiur__n_mi"/></e>
     <e lm="topola"><i>top</i><par n="top/ola__n_f"/></e>
     <e lm="topór"><i>top</i><par n="top/ór__n_mi"/></e>
     <e lm="tor"><i>tor</i><par n="bar__n_mi"/></e>
-    <e lm="trolejbus"><i>trolejbus</i><par n="typ__n_mi"/></e>
-    <e lm="tron"><i>tron</i><par n="typ__n_mi"/></e>
-    <e lm="truskawka"><i>truskaw</i><par n="lal/ka__n_f"/></e>
     <e lm="truteń"><i>trut</i><par n="trut/eń__n_ma"/></e>
-    <e lm="trzustka"><i>trzust</i><par n="lal/ka__n_f"/></e>
     <e lm="trójkąt"><i>trójką</i><par n="baj/t__n_mi"/></e>
-    <e lm="trąbka"><i>trąb</i><par n="lal/ka__n_f"/></e>
     <e lm="tundra"><i>tundr</i><par n="kur/a__n_f"/></e>
     <e lm="twarz"><i>twarz</i><par n="twarz__n_f"/></e>
-    <e lm="typ"><i>typ</i><par n="typ__n_mi"/></e>
-    <e lm="tęczówka"><i>tęczów</i><par n="lal/ka__n_f"/></e>
     <e lm="ubikacja"><i>ubikacj</i><par n="ubikacj/a__n_f"/></e>
     <e lm="ucho"><i>u</i><par n="u/cho__n_nt"/></e>
     <e lm="umiejętność"><i>umiejętnoś</i><par n="umiejętnoś/ć__n_f"/></e>
     <e lm="ułamek"><i>ułam</i><par n="ułam/ek__n_mi"/></e>
-    <e lm="wagon"><i>wagon</i><par n="typ__n_mi"/></e>
     <e lm="wanilia"><i>wanili</i><par n="wanili/a__n_f"/></e>
     <e lm="wanna"><i>wan</i><par n="wan/na__n_f"/></e>
     <e lm="wersja"><i>wersj</i><par n="wersj/a__n_f# beta"/></e>
     <e lm="wieloryb"><i>wieloryb</i><par n="rekin__n_ma"/></e>
-    <e lm="wiewiórka"><i>wiewiór</i><par n="lal/ka__n_f"/></e>
     <e lm="wilk"><i>wilk</i><par n="wilk__n_ma"/></e>
     <e lm="wilkołak"><i>wilkołak</i><par n="wilk__n_ma"/></e>
     <e lm="wiosna"><i>wio</i><par n="so/sna__n_f"/></e>
-    <e lm="wizytówka"><i>wizytów</i><par n="lal/ka__n_f"/></e>
     <e lm="wiśnia"><i>wiśni</i><par n="wiśni/a__n_f"/></e>
     <e lm="wtorek"><i>wtor</i><par n="piąt/ek__n_mi"/></e>
-    <e lm="wulkan"><i>wulkan</i><par n="typ__n_mi"/></e>
     <e lm="wydma"><i>wydm</i><par n="kaw/a__n_f"/></e>
     <e lm="wyjątek"><i>wyjąt</i><par n="piąt/ek__n_mi"/></e>
     <e lm="wyspa"><i>wysp</i><par n="kaw/a__n_f"/></e>
-    <e lm="wódka"><i>wód</i><par n="lal/ka__n_f"/></e>
-    <e lm="zapałka"><i>zapał</i><par n="lal/ka__n_f"/></e>
     <e lm="zawilec"><i>zawil</i><par n="zawil/ec__n_mi"/></e>
     <e lm="zawód"><i>zaw</i><par n="zaw/ód__n_mi"/></e>
     <e lm="zenit"><i>zeni</i><par n="hi/t__n_mi"/></e>
@@ -2540,13 +2482,10 @@
     <e lm="ząb"><i>z</i><par n="z/ąb__n_mi"/></e>
     <e lm="złoto"><i>zło</i><par n="zło/to__n_nt"/></e>
     <e lm="łodyga"><i>łody</i><par n="fla/ga__n_f"/></e>
-    <e lm="łopatka"><i>łopat</i><par n="lal/ka__n_f"/></e>
     <e lm="łóżko"><i>łóż</i><par n="łóż/ko__n_nt"/></e>
-    <e lm="ścieżka"><i>ścież</i><par n="lal/ka__n_f"/></e>
     <e lm="śledziona"><i>śledzion</i><par n="kaw/a__n_f"/></e>
     <e lm="ślimak"><i>ślimak</i><par n="ślimak__n_mi"/></e>
     <e lm="śliwa"><i>śliw</i><par n="kaw/a__n_f"/></e>
-    <e lm="ślub"><i>ślub</i><par n="typ__n_mi"/></e>
     <e lm="środa"><i>śr</i><par n="śr/oda__n_f"/></e>
     <e lm="świerk"><i>świerk</i><par n="jajnik__n_mi"/></e>
     <e lm="źródło"><i>źród</i><par n="źród/ło__n_mi"/></e>
