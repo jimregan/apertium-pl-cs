@@ -1625,9 +1625,6 @@
     <e><p><l>duża litera<s n="FIX"/></l><r>hlavní město<s n="FIX"/></r></p></e>
     <e><p><l>dużo<s n="FIX"/></l><r>mnoho<s n="FIX"/></r></p></e>
     <e><p><l>duży<s n="FIX"/></l><r>velký<s n="FIX"/></r></p></e>
-    <e><p><l>dwa<s n="FIX"/></l><r>dva<s n="FIX"/></r></p></e>
-    <e><p><l>dwa<s n="FIX"/></l><r>dvojka<s n="FIX"/></r></p></e>
-    <e><p><l>dwa<s n="FIX"/></l><r>dvakrát<s n="FIX"/></r></p></e>
     <e><p><l>dwadzieścia<s n="FIX"/></l><r>dvacet<s n="FIX"/></r></p></e>
     <e><p><l>dwadzieścia cztery<s n="FIX"/></l><r>dvacet čtyři<s n="FIX"/></r></p></e>
     <e><p><l>dwadzieścia siedem<s n="FIX"/></l><r>dvacet<s n="FIX"/></r></p></e>
@@ -1647,8 +1644,6 @@
     <e><p><l>dyktator<s n="FIX"/></l><r>diktátor<s n="FIX"/></r></p></e>
     <e><p><l>dyktatura<s n="FIX"/></l><r>diktatura<s n="FIX"/></r></p></e>
     <e><p><l>dym<s n="FIX"/></l><r>dým<s n="FIX"/></r></p></e>
-    <e><p><l>dym<s n="FIX"/></l><r>kouřit<s n="FIX"/></r></p></e>
-    <e><p><l>dymić<s n="FIX"/></l><r>dým<s n="FIX"/></r></p></e>
     <e><p><l>dymić<s n="FIX"/></l><r>kouřit<s n="FIX"/></r></p></e>
     <e><p><l>dynia<s n="FIX"/></l><r>dýně<s n="FIX"/></r></p></e>
     <e><p><l>dyplom<s n="FIX"/></l><r>diplom<s n="FIX"/></r></p></e>
@@ -1724,7 +1719,6 @@
     <e><p><l>dzisiaj<s n="FIX"/></l><r>dnes<s n="FIX"/></r></p></e>
     <e><p><l>dzisiaj<s n="FIX"/></l><r>dnešek<s n="FIX"/></r></p></e>
     <e><p><l>dziura<s n="FIX"/></l><r>díra<s n="FIX"/></r></p></e>
-    <e><p><l>dziura<s n="FIX"/></l><r>jamka<s n="FIX"/></r></p></e>
     <e><p><l>dziwić<s n="FIX"/></l><r>překvapení<s n="FIX"/></r></p></e>
     <e><p><l>dziwić<s n="FIX"/></l><r>překvapit<s n="FIX"/></r></p></e>
     <e><p><l>dziwka<s n="FIX"/></l><r>děvka<s n="FIX"/></r></p></e>
@@ -2684,8 +2678,7 @@
     <e><p><l>kaznodzieja<s n="FIX"/></l><r>kazatel<s n="FIX"/></r></p></e>
     <e><p><l>kałuża<s n="FIX"/></l><r>louže<s n="FIX"/></r></p></e>
     <e><p><l>każdy<s n="FIX"/></l><r>každý<s n="FIX"/></r></p></e>
-    <e><p><l>każdy<s n="FIX"/></l><r>všichni<s n="FIX"/></r></p></e>
-    <e><p><l>kciuk<s n="FIX"/></l><r>palec<s n="FIX"/></r></p></e>
+    <e><p><l>palec<s n="FIX"/></l><r>palec<s n="FIX"/></r></p></e>
     <e><p><l>keczup<s n="FIX"/></l><r>kečup<s n="FIX"/></r></p></e>
     <e><p><l>kelner<s n="FIX"/></l><r>číšník<s n="FIX"/></r></p></e>
     <e><p><l>kibic<s n="FIX"/></l><r>vějíř<s n="FIX"/></r></p></e>
@@ -2718,10 +2711,7 @@
     <e><p><l>kijanka<s n="FIX"/></l><r>pulec<s n="FIX"/></r></p></e>
     <e><p><l>kilogram<s n="FIX"/></l><r>kilogram<s n="FIX"/></r></p></e>
     <e><p><l>kimono<s n="FIX"/></l><r>kimono<s n="FIX"/></r></p></e>
-    <e><p><l>kinematografia<s n="FIX"/></l><r>kino<s n="FIX"/></r></p></e>
     <e><p><l>kino<s n="FIX"/></l><r>kino<s n="FIX"/></r></p></e>
-    <e><p><l>kino<s n="FIX"/></l><r>obraz<s n="FIX"/></r></p></e>
-    <e><p><l>kino<s n="FIX"/></l><r>fotografie<s n="FIX"/></r></p></e>
     <e><p><l>kiosk<s n="FIX"/></l><r>stánek<s n="FIX"/></r></p></e>
     <e><p><l>kiur<s n="FIX"/></l><r>curium<s n="FIX"/></r></p></e>
     <e><p><l>klacz<s n="FIX"/></l><r>klisna<s n="FIX"/></r></p></e>
@@ -2755,7 +2745,6 @@
     <e><p><l>kliknięcie<s n="FIX"/></l><r>kliknout<s n="FIX"/></r></p></e>
     <e><p><l>klimat<s n="FIX"/></l><r>podnebí<s n="FIX"/></r></p></e>
     <e><p><l>klin<s n="FIX"/></l><r>klín<s n="FIX"/></r></p></e>
-    <e><p><l>klingoński<s n="FIX"/></l><r>klingonský<s n="FIX"/></r></p></e>
     <e><p><l>klon<s n="FIX"/></l><r>javor<s n="FIX"/></r></p></e>
     <e><p><l>klozet<s n="FIX"/></l><r>záchod<s n="FIX"/></r></p></e>
     <e><p><l>klozet<s n="FIX"/></l><r>toaleta<s n="FIX"/></r></p></e>
@@ -2777,22 +2766,14 @@
     <e><p><l>koala<s n="FIX"/></l><r>koala, medvídek koala<s n="FIX"/></r></p></e>
     <e><p><l>kobalt<s n="FIX"/></l><r>kobalt<s n="FIX"/></r></p></e>
     <e><p><l>kobieta<s n="FIX"/></l><r>žena<s n="FIX"/></r></p></e>
-    <e><p><l>kobiety<s n="FIX"/></l><r>ženy<s n="FIX"/></r></p></e>
     <e><p><l>kobra<s n="FIX"/></l><r>kobra<s n="FIX"/></r></p></e>
     <e><p><l>kobza<s n="FIX"/></l><r>dudy<s n="FIX"/></r></p></e>
     <e><p><l>koc<s n="FIX"/></l><r>deka<s n="FIX"/></r></p></e>
-    <e><p><l>kocham cię<s n="FIX"/></l><r>miluji tě<s n="FIX"/></r></p></e>
-    <e><p><l>kocham cię<s n="FIX"/></l><r>Mám tě rád<s n="FIX"/></r></p></e>
     <e><p><l>kochanie<s n="FIX"/></l><r>láska<s n="FIX"/></r></p></e>
     <e><p><l>kochanie<s n="FIX"/></l><r>milovat<s n="FIX"/></r></p></e>
     <e><p><l>kochanie<s n="FIX"/></l><r>lásko<s n="FIX"/></r></p></e>
-    <e><p><l>kochanie<s n="FIX"/></l><r>milovat se<s n="FIX"/></r></p></e>
     <e><p><l>kochanie<s n="FIX"/></l><r>med<s n="FIX"/></r></p></e>
     <e><p><l>kochany<s n="FIX"/></l><r>drahý<s n="FIX"/></r></p></e>
-    <e><p><l>kochać<s n="FIX"/></l><r>láska<s n="FIX"/></r></p></e>
-    <e><p><l>kochać<s n="FIX"/></l><r>milovat<s n="FIX"/></r></p></e>
-    <e><p><l>kochać<s n="FIX"/></l><r>lásko<s n="FIX"/></r></p></e>
-    <e><p><l>kochać<s n="FIX"/></l><r>milovat se<s n="FIX"/></r></p></e>
     <e><p><l>kochać się<s n="FIX"/></l><r>láska<s n="FIX"/></r></p></e>
     <e><p><l>kochać się<s n="FIX"/></l><r>milovat<s n="FIX"/></r></p></e>
     <e><p><l>kochać się<s n="FIX"/></l><r>lásko<s n="FIX"/></r></p></e>
@@ -2800,7 +2781,6 @@
     <e><p><l>kocur<s n="FIX"/></l><r>kocour<s n="FIX"/></r></p></e>
     <e><p><l>kod kreskowy<s n="FIX"/></l><r>čárový kód<s n="FIX"/></r></p></e>
     <e><p><l>kod źródłowy<s n="FIX"/></l><r>zdrojový kód<s n="FIX"/></r></p></e>
-    <e><p><l>kogut<s n="FIX"/></l><r>kohout<s n="FIX"/></r></p></e>
     <e><p><l>kojot<s n="FIX"/></l><r>kojot<s n="FIX"/></r></p></e>
     <e><p><l>koka<s n="FIX"/></l><r>kokainovník pravý<s n="FIX"/></r></p></e>
     <e><p><l>kokaina<s n="FIX"/></l><r>kokain<s n="FIX"/></r></p></e>
@@ -3082,12 +3062,9 @@
     <e><p><l>kręgosłup<s n="FIX"/></l><r>páteř<s n="FIX"/></r></p></e>
     <e><p><l>kręgosłup<s n="FIX"/></l><r>hřbet<s n="FIX"/></r></p></e>
     <e><p><l>kręgowiec<s n="FIX"/></l><r>obratlovec<s n="FIX"/></r></p></e>
-    <e><p><l>ksenofobia<s n="FIX"/></l><r>xenofóbie<s n="FIX"/></r></p></e>
-    <e><p><l>ksenon<s n="FIX"/></l><r>xenon<s n="FIX"/></r></p></e>
-    <e><p><l>ksiądz<s n="FIX"/></l><r>kněz<s n="FIX"/></r></p></e>
-    <e><p><l>książka<s n="FIX"/></l><r>kniha<s n="FIX"/></r></p></e>
-    <e><p><l>książka<s n="FIX"/></l><r>rezervovat<s n="FIX"/></r></p></e>
-    <e><p><l>książka kucharska<s n="FIX"/></l><r>kuchařka<s n="FIX"/></r></p></e>
+    <e><p><l>ksenofobia<s n="n"/><s n="f"/></l><r>xenofóbie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ksenon<s n="n"/><s n="mi"/></l><r>xenon<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>ksiądz<s n="n"/><s n="mp"/></l><r>kněz<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>książę<s n="FIX"/></l><r>princ<s n="FIX"/></r></p></e>
     <e><p><l>księgarnia<s n="FIX"/></l><r>knihkupectví<s n="FIX"/></r></p></e>
     <e><p><l>księgi<s n="FIX"/></l><r>kniha<s n="FIX"/></r></p></e>
@@ -3098,14 +3075,8 @@
     <e><p><l>księżyc<s n="FIX"/></l><r>měsíc<s n="FIX"/></r></p></e>
     <e><p><l>kształt<s n="FIX"/></l><r>tvar<s n="FIX"/></r></p></e>
     <e><p><l>kształt<s n="FIX"/></l><r>obrázek<s n="FIX"/></r></p></e>
-    <e><p><l>kto<s n="FIX"/></l><r>kdo<s n="FIX"/></r></p></e>
-    <e><p><l>kto<s n="FIX"/></l><r>který<s n="FIX"/></r></p></e>
     <e><p><l>kto rano wstaje, temu Pan Bóg daje<s n="FIX"/></l><r>ranní ptáče dál doskáče<s n="FIX"/></r></p></e>
     <e><p><l>ktoś<s n="FIX"/></l><r>někdo<s n="FIX"/></r></p></e>
-    <e><p><l>który<s n="FIX"/></l><r>který<s n="FIX"/></r></p></e>
-    <e><p><l>który<s n="FIX"/></l><r>co<s n="FIX"/></r></p></e>
-    <e><p><l>który<s n="FIX"/></l><r>cože<s n="FIX"/></r></p></e>
-    <e><p><l>który<s n="FIX"/></l><r>jaký<s n="FIX"/></r></p></e>
     <e><p><l>którykolwiek<s n="FIX"/></l><r>kterýkoliv<s n="FIX"/></r></p></e>
     <e><p><l>kubek<s n="FIX"/></l><r>hrnek<s n="FIX"/></r></p></e>
     <e><p><l>kubizm<s n="FIX"/></l><r>kubismus<s n="FIX"/></r></p></e>
@@ -3136,9 +3107,6 @@
     <e><p><l>kupa<s n="FIX"/></l><r>kurva<s n="FIX"/></r></p></e>
     <e><p><l>kupa<s n="FIX"/></l><r>kravina<s n="FIX"/></r></p></e>
     <e><p><l>kupiec<s n="FIX"/></l><r>kupec<s n="FIX"/></r></p></e>
-    <e><p><l>kupować<s n="FIX"/></l><r>kupovat<s n="FIX"/></r></p></e>
-    <e><p><l>kupować<s n="FIX"/></l><r>obchod<s n="FIX"/></r></p></e>
-    <e><p><l>kupować<s n="FIX"/></l><r>nakupovat<s n="FIX"/></r></p></e>
     <e><p><l>kura<s n="FIX"/></l><r>slepice<s n="FIX"/></r></p></e>
     <e><p><l>kurczak<s n="FIX"/></l><r>slepice<s n="FIX"/></r></p></e>
     <e><p><l>kurczak<s n="FIX"/></l><r>zbabělec<s n="FIX"/></r></p></e>
@@ -3175,7 +3143,6 @@
     <e><p><l>kwartał<s n="FIX"/></l><r>čtvrt<s n="FIX"/></r></p></e>
     <e><p><l>kwartał<s n="FIX"/></l><r>čtvrtletí<s n="FIX"/></r></p></e>
     <e><p><l>kwartał<s n="FIX"/></l><r>čtvrť<s n="FIX"/></r></p></e>
-    <e><p><l>kwas<s n="FIX"/></l><r>kyselina<s n="FIX"/></r></p></e>
     <e><p><l>kwas chlebowy<s n="FIX"/></l><r>kvas<s n="FIX"/></r></p></e>
     <e><p><l>kwas karboksylowy<s n="FIX"/></l><r>karboxylová kyselina<s n="FIX"/></r></p></e>
     <e><p><l>kwas siarkowy<s n="FIX"/></l><r>kyselina sírová<s n="FIX"/></r></p></e>
@@ -3273,10 +3240,6 @@
     <e><p><l>leniwy<s n="FIX"/></l><r>líný<s n="FIX"/></r></p></e>
     <e><p><l>lepki<s n="FIX"/></l><r>vazký<s n="FIX"/></r></p></e>
     <e><p><l>lepszy<s n="FIX"/></l><r>lepší<s n="FIX"/></r></p></e>
-    <e><p><l>lesbijka<s n="FIX"/></l><r>lesbička<s n="FIX"/></r></p></e>
-    <e><p><l>lesbijka<s n="FIX"/></l><r>lesbický<s n="FIX"/></r></p></e>
-    <e><p><l>lesbijski<s n="FIX"/></l><r>lesbička<s n="FIX"/></r></p></e>
-    <e><p><l>lesbijski<s n="FIX"/></l><r>lesbický<s n="FIX"/></r></p></e>
     <e><p><l>less<s n="FIX"/></l><r>spraš<s n="FIX"/></r></p></e>
     <e><p><l>leszcz<s n="FIX"/></l><r>cejn velký<s n="FIX"/></r></p></e>
     <e><p><l>leszczyna<s n="FIX"/></l><r>líska<s n="FIX"/></r></p></e>
