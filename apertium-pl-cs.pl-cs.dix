@@ -449,6 +449,7 @@
     <e><p><l>tokamak<s n="n"/><s n="mi"/></l><r>tokamak<s n="n"/><s n="mi"/></r></p></e>
     <e c="check"><p><l>język<b/>słoweński<s n="n"/><s n="mi"/></l><r>slovinština<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grecki<s n="adj"/></l><r>řecký<s n="adj"/></r></p></e>
+    <e><p><l>święty<s n="adj"/><s n="sint"/></l><r>svatý<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>wiosenny<s n="adj"/></l><r>jarní<s n="adj"/></r></p></e>
     <e><p><l>kataloński<s n="adj"/></l><r>katalánsky<s n="adj"/></r></p></e>
     <e><p><l>walijski<s n="adj"/></l><r>velšský<s n="adj"/></r></p></e>
@@ -475,6 +476,7 @@
     <e><p><l>Algier<s n="np"/><s n="top"/><s n="mi"/></l><r>Alžír<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Algieria<s n="np"/><s n="top"/><s n="f"/></l><r>Alžírsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Allah<s n="np"/><s n="ant"/><s n="mp"/></l><r>Alláh<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+    <e><p><l>święty<b/>Jerzy<s n="np"/><s n="ant"/><s n="mp"/></l><r>svatý<b/>Jiří<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
     <e><p><l>Arab<s n="n"/><s n="mp"/></l><r>Arab<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>Arabia<b/>Saudyjska<s n="np"/><s n="top"/><s n="f"/></l><r>Saúdská<b/>Arábie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Ares<s n="np"/><s n="ant"/><s n="mp"/></l><r>Arés<s n="np"/><s n="top"/><s n="mi"/></r></p></e>

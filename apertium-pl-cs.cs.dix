@@ -22586,6 +22586,51 @@
     <e lm="Steffi"><i>Steffi</i><par n="Britney__np"/></e>
 
   </section>
+  <section id="multiwords" type="standard">
+  <!-- svatý Jiří -->
+  <e>
+    <p>
+      <l>svatý<b/>Jiří</l>
+      <r>svatý<b/>Jiří<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>svatého<b/>Jiřího</l>
+      <r>svatý<b/>Jiří<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>svatýmu<b/>Jiřímu</l>
+      <r>svatý<b/>Jiří<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>svatého<b/>Jiřího</l>
+      <r>svatý<b/>Jiří<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>svatým<b/>Jiřím</l>
+      <r>svatý<b/>Jiří<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>svatým<b/>Jiřím</l>
+      <r>svatý<b/>Jiří<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>svatý<b/>Jiří</l>
+      <r>svatý<b/>Jiří<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+    </p>
+  </e>
+  </section>
 
   <section id="final" type="inconditional">
     <e>

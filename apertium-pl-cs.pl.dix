@@ -12663,6 +12663,21 @@
         </p>
       </e>
     </pardef>
+    <pardef n="świę/ty__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>ty<s n="adj"/><s n="sint"/></r>
+        </p>
+        <par n="BASE__czwarty"/>
+      </e>
+      <e>
+        <p>
+          <l>to</l>
+          <r>ty<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="BASE__imperative">
        <e>
@@ -33913,6 +33928,9 @@
     <e lm="sprytny"><i>sprytn</i><par n="now/y__adj"/></e>
     <e lm="sprytny"><p><l>sprytniej</l><r>sprytny</r></p><par n="lep/szy__adj"/></e>
     <e lm="sprytny"><p><l>najsprytniej</l><r>sprytny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="święty"><i>świę</i><par n="świę/ty__adj"/></e>
+    <e lm="święty"><p><l>święt</l><r>święty</r></p><par n="lep/szy__adj"/></e>
+    <e lm="święty"><p><l>najświęt</l><r>święty</r></p><par n="najlep/szy__adj"/></e>
     <!-- non-synthetic, with obsolete comparatives -->
     <e lm="żółty"><i>żół</i><par n="żół/ty__adj"/></e>
     <e lm="żółtszy" r="LR"><p><l>żółt</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
@@ -33929,6 +33947,7 @@
     <e lm="bezrobotny"><i>bezrobotn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="finansowy"><i>finansow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="urzędowy"><i>urzędow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="weekendowy"><i>weekendow</i><par n="egzotermiczn/y__adj"/></e>
 
     <e lm="bielski"><i>biels</i><par n="pols/ki__adj"/></e>
     <e lm="bielskoki"><i>bielsko</i><par n="pols/ki__adj"/></e>
@@ -34465,6 +34484,7 @@
     <e lm="buk"><i>buk</i><par n="brzeg__n"/></e>
     <e lm="brzeg"><i>brzeg</i><par n="brzeg__n"/></e>
     <e lm="analiza"><i>analiz</i><par n="analiz/a__n"/></e>
+    <e lm="prognoza"><i>prognoz</i><par n="analiz/a__n"/></e>
     <e lm="antena"><i>anten</i><par n="analiz/a__n"/></e>
     <e lm="barwa"><i>barw</i><par n="analiz/a__n"/></e>
     <e lm="dziewczyna"><i>dziewczyn</i><par n="analiz/a__n"/></e>
@@ -35859,6 +35879,49 @@
     <p>
       <l>Babo<b/>Jago</l>
       <r>Baba<b/>Jaga<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- święty Jerzy -->
+  <e>
+    <p>
+      <l>święty<b/>Jerzy</l>
+      <r>święty<b/>Jerzy<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>świętego<b/>Jerzego</l>
+      <r>święty<b/>Jerzy<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>świętemu<b/>Jerzemu</l>
+      <r>święty<b/>Jerzy<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>świętego<b/>Jerzego</l>
+      <r>święty<b/>Jerzy<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>świętym<b/>Jerzym</l>
+      <r>święty<b/>Jerzy<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>świętym<b/>Jerzym</l>
+      <r>święty<b/>Jerzy<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>święty<b/>Jerzy</l>
+      <r>święty<b/>Jerzy<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
     </p>
   </e>
   <!-- Chińska Republika Ludowa -->
