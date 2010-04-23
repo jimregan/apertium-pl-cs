@@ -14246,7 +14246,15 @@
         </p>
         <par n="BASE__będący"/>
       </e>
+    </pardef>
 
+    <pardef n="trzeba__vaux">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vaux"/></r>
+        </p>
+      </e>
     </pardef>
     <pardef n="m/óc__vaux">
       <e>
@@ -34257,6 +34265,8 @@
     <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="mieć"><i>m</i><par n="m/ieć__vbhaver"/></e>
     <e lm="móc"><i>m</i><par n="m/óc__vaux"/></e>
+    <e lm="trzeba"><i>trzeba</i><par n="trzeba__vaux"/></e>
+    <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
     <e lm="przeczytać"><i>przeczyt</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="pojechać"><i>pojech</i><par n="przeczyt/ać__vblex"/></e>

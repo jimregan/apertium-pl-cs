@@ -17566,6 +17566,9 @@
       <e><p>          <l>ohly</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>ohla</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="třeba__vaux">
+      <e><p><l></l><r><s n="vaux"/></r></p></e>
+    </pardef>
 
     <pardef n="č/íst__vblex">
       <e><p>          <l>íst</l><r>íst<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
@@ -22453,6 +22456,8 @@
     <e lm="být"><par n="v_neg"/><i></i><par n="/být__vbser"/></e>
     <e lm="mít"><par n="v_neg"/><i>m</i><par n="m/ít__vbhaver"/></e>
     <e lm="moci"><par n="v_neg"/><i>m</i><par n="m/oci__vaux"/></e>
+    <e lm="třeba"><par n="v_neg"/><i>třeba</i><par n="třeba__vaux"/></e>
+    <e lm="možna"><par n="v_neg"/><i>možna</i><par n="třeba__vaux"/></e>
 
     <e lm="číst"><par n="v_neg"/><i>č</i><par n="č/íst__vblex"/></e>
     <e lm="vědět"><par n="v_neg"/><i>v</i><par n="v/ědět__vblex"/></e>
