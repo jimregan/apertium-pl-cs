@@ -10165,6 +10165,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="tel/e__n">
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ata</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ete</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eti</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atům</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ata</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ata</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eti</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atech</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>etem</l>
+          <r>e<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>aty</l>
+          <r>e<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="kolej__n">
       <e>
         <p>
@@ -21303,6 +21389,7 @@
     <e lm="kokotina"><i>kokotin</i><par n="dob/a__n"/></e>
     <e lm="kolaborace"><i>kolaborac</i><par n="šíj/e__n"/></e>
     <e lm="kolej"><i>kolej</i><par n="kolej__n"/></e>
+    <e lm="tele"><i>tel</i><par n="tel/e__n"/></e>
     <e lm="koljuška"><i>koljuš</i><par n="dív/ka__n"/></e>
     <e lm="kolo"><i>kol</i><par n="kol/o__n"/></e>
     <e lm="komodita"><i>komodit</i><par n="kos/a__n"/></e>
