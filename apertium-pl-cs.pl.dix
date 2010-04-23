@@ -16542,6 +16542,100 @@
         <par n="BASE__zdanie"/>
       </e>
     </pardef>
+    <pardef n="nieb/o__n">
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="niebi/osa__n">
+      <e>
+        <p>
+          <l>osa</l>
+          <r>osa<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r>osa<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>osom</l>
+          <r>osa<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>osa</l>
+          <r>osa<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>osami</l>
+          <r>osa<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>osach</l>
+          <r>osa<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>esiech</l>
+          <r>osa<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>osa</l>
+          <r>osa<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__piwo">
       <e>
         <p>
@@ -34302,6 +34396,8 @@
     <e lm="jabłko Adama"><i>jabł</i><par n="jabł/ko__n"/><p><l><b/>Adama</l><r><g><b/>Adama</g></r></p></e>
     <e lm="mleko"><i>mlek</i><par n="wojsk/o__n"/></e>
     <e lm="auto"><i>au</i><par n="au/to__n"/></e>
+    <e lm="niebo"><i>nieb</i><par n="nieb/o__n"/></e>
+    <e lm="niebiosa"><i>niebi</i><par n="niebi/osa__n"/></e>
     <e lm="piwo"><i>piw</i><par n="piw/o__n"/></e>
     <e lm="rano"><i>ran</i><par n="piw/o__n"/></e>
     <e lm="drzewo"><i>drzew</i><par n="piw/o__n"/></e>
