@@ -8758,89 +8758,89 @@
         </p>
       </e>
     </pardef>
-    <pardef n="ho/r__n">
+    <pardef n="ho/ra__n">
       <e>
         <p>
-          <l>r</l>
-          <r>r<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <l>ra</l>
+          <r>ra<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ry</l>
-          <r>r<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ry</l>
-          <r>r<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>r</l>
-          <r>r<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ře</l>
-          <r>r<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>rám</l>
-          <r>r<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ru</l>
-          <r>r<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ry</l>
-          <r>r<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ro</l>
-          <r>r<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ry</l>
-          <r>r<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ře</l>
-          <r>r<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>rách</l>
-          <r>r<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>rou</l>
-          <r>r<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>rami</l>
-          <r>r<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <r>ra<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
     </pardef>
@@ -21369,7 +21369,7 @@
     <e lm="homokláda"><i>homoklád</i><par n="dob/a__n"/></e>
     <e lm="homonymum"><i>homonym</i><par n="sput/um__n"/></e>
     <e lm="homosexuál"><i>homosexuál</i><par n="man__n"/></e>
-    <e lm="hor"><i>ho</i><par n="ho/r__n"/></e>
+    <e lm="hora"><i>ho</i><par n="ho/ra__n"/></e>
     <e lm="hormon"><i>hormon</i><par n="bor__n"/></e>
     <e lm="hospitalisace"><i>hospitalisac</i><par n="šíj/e__n"/></e>
     <e lm="hospitalizace"><i>hospitalizac</i><par n="šíj/e__n"/></e>
@@ -21928,6 +21928,7 @@
     <e lm="smrtka"><i>smrt</i><par n="dív/ka__n"/></e>
     <e lm="snob"><i>snob</i><par n="man__n"/></e>
     <e lm="sobota"><i>sobot</i><par n="dob/a__n"/></e>
+    <e lm="teplota"><i>teplot</i><par n="dob/a__n"/></e>
     <e lm="sodík"><i>sodí</i><par n="ro/k__n"/></e>
     <e lm="souhvězdí"><i>souhvězdí</i><par n="úterý__n"/></e>
     <e lm="souš"><i>souš</i><par n="souš/__n"/></e>
