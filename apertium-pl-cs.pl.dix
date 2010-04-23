@@ -34182,6 +34182,13 @@
     <e lm="zenit"><i>zeni</i><par n="hi/t__n"/></e>
 
 
+    <e lm="czwartek"><i>czwart</i><par n="stat/ek__n"/></e>
+    <e lm="piątek"><i>piąt</i><par n="stat/ek__n"/></e>
+    <e lm="wtorek"><i>wtor</i><par n="stat/ek__n"/></e>
+    <e lm="wyjątek"><i>wyjąt</i><par n="stat/ek__n"/></e>
+    <e lm="związek"><i>związ</i><par n="stat/ek__n"/></e>
+
+
     <e lm="ambulans"><i>ambulans</i><par n="sklep__n"/></e>
     <e lm="ekran"><i>ekran</i><par n="sklep__n"/></e>
     <e lm="faks"><i>faks</i><par n="sklep__n"/></e> <!-- check -->
