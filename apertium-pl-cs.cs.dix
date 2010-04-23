@@ -20501,6 +20501,7 @@
     <e lm="však"><i>však</i><par n="jestli__cnjadv"/></e>
     <e lm="proto"><i>proto</i><par n="jestli__cnjadv"/></e>
     <e lm="poněvadž"><i>poněvadž</i><par n="jestli__cnjadv"/></e>
+    <e lm="přitom"><i>přitom</i><par n="jestli__cnjadv"/></e>
 
     <!-- Prepositions -->
     <e lm="bez"><i>bez</i><par n="za__pr"/></e>
@@ -20698,6 +20699,7 @@
     <e lm="sladký"><i>sladký</i><par n="tehdy__adv"/></e>
     <e lm="toliko"><i>toliko</i><par n="tehdy__adv"/></e>
     <e lm="vzhůru nohama"><i>vzhůru<b/>nohama</i><par n="tehdy__adv"/></e>
+    <e lm="zároveň"><i>zároveň</i><par n="tehdy__adv"/></e>
 
     <!-- Nouns -->
 
