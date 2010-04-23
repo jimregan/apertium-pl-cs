@@ -20451,6 +20451,7 @@
     <!-- Adverbs -->
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="kde"><i>kde</i><par n="jak__adv"/></e>
+    <e lm="kam"><i>kam</i><par n="jak__adv"/></e>
     <e lm="zda"><i>zda</i><par n="jak__adv"/></e>
 
     <e lm="daleko"><i>daleko</i><par n="daleko__adv"/></e>
@@ -21171,6 +21172,7 @@
     <e lm="hospitalisace"><i>hospitalisac</i><par n="šíj/e__n"/></e>
     <e lm="hospitalizace"><i>hospitalizac</i><par n="šíj/e__n"/></e>
     <e lm="hospodářství"><i>hospodářství</i><par n="hospodářství__n"/></e>
+    <e lm="cizoložství"><i>cizoložství</i><par n="hospodářství__n"/></e>
     <e lm="houf"><i>houf</i><par n="bor__n"/></e>
     <e lm="housle"><i>housl</i><par n="housl/e__n"/></e>
     <e lm="hovado"><i>hovad</i><par n="aut/o__n"/></e>
@@ -22330,6 +22332,7 @@
     <e lm="aha"><i>aha</i><par n="ahoj__ij"/></e>
     <e lm="dobrou noc"><i>dobrou<b/>noc</i><par n="ahoj__ij"/></e>
     <e lm="mňam"><i>mňam</i><par n="ahoj__ij"/></e>
+    <e lm="haló"><i>haló</i><par n="ahoj__ij"/></e>
     <e lm="na shledanou"><i>na<b/>shledanou</i><par n="ahoj__ij"/></e>
     <e lm="zítra na shledanou"><i>zítra<b/>na<b/>shledanou</i><par n="ahoj__ij"/></e>
 

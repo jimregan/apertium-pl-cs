@@ -31458,6 +31458,7 @@
     <e lm="dobranoc"><i>dobranoc</i><par n="cześć__ij"/></e>
     <e lm="dzień dobry"><i>dzień<b/>dobry</i><par n="cześć__ij"/></e>
     <e lm="mniam"><i>mniam</i><par n="cześć__ij"/></e>
+    <e lm="halo"><i>halo</i><par n="cześć__ij"/></e>
     <e lm="do widzenia"><i>do<b/>widzenia</i><par n="cześć__ij"/></e>
     <e lm="do jutra"><i>do<b/>jutra</i><par n="cześć__ij"/></e>
     <e lm="do zobaczenia"><i>do<b/>zobaczenia</i><par n="cześć__ij"/></e>
@@ -31533,6 +31534,7 @@
     <e lm="jak"><i>jak</i><par n="gdzie__adv"/></e>
     <e lm="kiedy"><i>kiedy</i><par n="gdzie__adv"/></e>
     <e lm="czy"><i>czy</i><par n="gdzie__adv"/></e>
+    <e lm="dokąd"><i>dokąd</i><par n="gdzie__adv"/></e>
 
     <e lm="nie"><i>nie</i><par n="tu__adv"/></e>
     <e lm="naj"><i>naj</i><par n="tu__adv"/></e>
@@ -31599,6 +31601,7 @@
     <e lm="mleko"><i>mlek</i><par n="wojsk/o__n"/></e>
     <e lm="auto"><i>au</i><par n="au/to__n"/></e>
     <e lm="piwo"><i>piw</i><par n="piw/o__n"/></e>
+    <e lm="cudzołóstwo"><i>cudzołóstw</i><par n="piw/o__n"/></e>
     <e lm="miasto"><i>mi</i><par n="mi/asto__n"/></e>
     <e lm="ciasto"><i>ci</i><par n="mi/asto__n"/></e>
     <e lm="maj"><i>maj</i><par n="maj__n"/></e>
