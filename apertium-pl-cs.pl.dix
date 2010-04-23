@@ -17886,109 +17886,207 @@
       <e>
         <p>
           <l>oł</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>oła</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ołowi</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>oła</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ołem</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ele</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ele</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>eli</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ołowie</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
-      <e r="LR">
+      <e>
         <p>
           <l>oły</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ołów</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ołom</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>oły</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ołami</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ołach</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>eli</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
           <l>ołowie</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+          <r>oł<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oły</l>
+          <r>oł<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="diab/eł__n">
+      <e>
+        <p>
+          <l>eł</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łu</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ła</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łem</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>le</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>le</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e r="LR">
         <p>
-          <l>oły</l>
-          <r>oł<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+          <l>li</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ły</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łów</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łom</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ły</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łami</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łach</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>li</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ły</l>
+          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
@@ -31642,6 +31740,7 @@
     <e lm="syn"><i>syn</i><par n="syn__n"/></e>
     <e lm="lekarz"><i>lekarz</i><par n="lekarz__n"/></e>
     <e lm="anioł"><i>ani</i><par n="ani/oł__n"/></e>
+    <e lm="diabeł"><i>diab</i><par n="diab/eł__n"/></e>
     <e lm="jeniec"><i>je</i><par n="je/niec__n"/></e>
     <e lm="młodzieniec"><i>młodzie</i><par n="młodzie/niec__n"/></e>
     <e lm="chłopiec"><i>chłop</i><par n="chłop/iec__n"/></e>
