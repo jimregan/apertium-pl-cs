@@ -12675,6 +12675,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="stup/eň__n">
+      <e>
+        <p>
+          <l>eň</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ně</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ně</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňů</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ňům</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ně</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ně</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ních</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>něm</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>eň<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="wasabi__n">
       <e>
         <p>
@@ -21684,6 +21770,7 @@
     <e lm="plutokracie"><i>plutokraci</i><par n="šíj/e__n"/></e>
     <e lm="plutonium"><i>plutoni</i><par n="bary/um__n"/></e>
     <e lm="plíseň"><i>plís</i><par n="plís/eň__n"/></e>
+    <e lm="stupeň"><i>stup</i><par n="stup/eň__n"/></e>
     <e lm="pochva"><i>poch</i><par n="bar/va__n"/></e>
     <e lm="pocit"><i>pocit</i><par n="bor__n"/></e>
     <e lm="podoustev"><i>podoust</i><par n="kr/ev__n"/></e>
