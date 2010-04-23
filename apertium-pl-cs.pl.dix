@@ -31611,12 +31611,12 @@
     <e lm="doń"><p><l>doń</l><r>do<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
     <e lm="weń"><p><l>weń</l><r>w<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
     <e lm="nań"><p><l>nań</l><r>na<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-    <e lm="dlań"><p><l>dlań</l><r>dla<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/><s n="gen"/></r></p></e>
-    <e lm="doń"><p><l>doń</l><r>do<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/><s n="gen"/></r></p></e>
-    <e lm="weń"><p><l>weń</l><r>w<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/><s n="acc"/></r></p></e>
-    <e lm="nań"><p><l>nań</l><r>na<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="dlań"><p><l>dlań</l><r>dla<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e lm="doń"><p><l>doń</l><r>do<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e lm="weń"><p><l>weń</l><r>w<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="nań"><p><l>nań</l><r>na<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
     <e lm="bezeń"><p><l>bezeń</l><r>bez<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
-    <e lm="bezeń"><p><l>bezeń</l><r>bez<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e lm="bezeń"><p><l>bezeń</l><r>bez<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
 
     <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
     <e lm="aż"><i>aż</i><par n="że__cnjsub"/></e>
