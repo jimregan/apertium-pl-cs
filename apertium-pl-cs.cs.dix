@@ -20633,6 +20633,8 @@
 
     <e lm="další" i="yes"><i>dalš</i><par n="dalš/í__adj"/></e>
     <e lm="nový"><par n="nej__adv"/><i>nov</i><par n="nov/ý__adj"/></e>
+    <e lm="svatý"><par n="nej__adv"/><i>svat</i><par n="nov/ý__adj"/></e>
+    <e lm="jasný"><par n="nej__adv"/><i>jasn</i><par n="nov/ý__adj"/></e>
     <e lm="novoučký"><p><l>novouč</l><r>nový</r></p><par n="novouč/ký__adj"/></e>
     <e lm="chytrý"><par n="nej__adv"/><i>chyt</i><par n="chyt/rý__adj"/></e>
     <e lm="evropský"><par n="nej__adv"/><i>evrop</i><par n="evrop/ský__adj"/></e>
