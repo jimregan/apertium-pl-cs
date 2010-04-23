@@ -1119,7 +1119,7 @@
       <e>
         <p>
 	  <l></l>
-	  <r><s n="np"/><s n="ant"/><s n="f"/><s n="indecl"/></r>
+	  <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="indecl"/></r>
 	</p>
       </e>
     </pardef>
@@ -32433,13 +32433,44 @@
     <e lm="złość"><i>złoś</i><par n="miłoś/ć__n"/></e>
     <e lm="zwykłość"><i>zwykłoś</i><par n="miłoś/ć__n"/></e>
 
+    <e lm="Ariane"><i>Ariane</i><par n="Britney__np"/></e>
+    <e lm="Astrid"><i>Astrid</i><par n="Britney__np"/></e>
+    <e lm="Audrey"><i>Audrey</i><par n="Britney__np"/></e>
+    <e lm="Barbie"><i>Barbie</i><par n="Britney__np"/></e>
+    <e lm="Betty"><i>Betty</i><par n="Britney__np"/></e>
     <e lm="Britney"><i>Britney</i><par n="Britney__np"/></e>
+    <e lm="Christie"><i>Christie</i><par n="Britney__np"/></e>
+    <e lm="Christine"><i>Christine</i><par n="Britney__np"/></e>
+    <e lm="Clare"><i>Clare</i><par n="Britney__np"/></e>
+    <e lm="Courtney"><i>Courtney</i><par n="Britney__np"/></e>
+    <e lm="Danielle"><i>Danielle</i><par n="Britney__np"/></e>
+    <e lm="Demi"><i>Demi</i><par n="Britney__np"/></e>
+    <e lm="Eileen"><i>Eileen</i><par n="Britney__np"/></e>
+    <e lm="Ester"><i>Ester</i><par n="Britney__np"/></e>
+    <e lm="Fanny"><i>Fanny</i><par n="Britney__np"/></e>
+    <e lm="Fany"><i>Fany</i><par n="Britney__np"/></e>
+    <e lm="Gigi"><i>Gigi</i><par n="Britney__np"/></e>
+    <e lm="Hillary"><i>Hillary</i><par n="Britney__np"/></e>
+    <e lm="Inge"><i>Inge</i><par n="Britney__np"/></e>
+    <e lm="Ingrid"><i>Ingrid</i><par n="Britney__np"/></e>
+    <e lm="Irene"><i>Irene</i><par n="Britney__np"/></e>
+    <e lm="Jamie"><i>Jamie</i><par n="Britney__np"/></e>
+    <e lm="Jo"><i>Jo</i><par n="Britney__np"/></e>
+    <e lm="Joy"><i>Joy</i><par n="Britney__np"/></e>
+    <e lm="Kathleen"><i>Kathleen</i><par n="Britney__np"/></e>
+    <e lm="Keri"><i>Keri</i><par n="Britney__np"/></e>
     <e lm="Lynne"><i>Lynne</i><par n="Britney__np"/></e>
     <e lm="Lynn"><i>Lynn</i><par n="Britney__np"/></e>
-    <e lm="Irene"><i>Irene</i><par n="Britney__np"/></e>
+    <e lm="Máří"><i>Máří</i><par n="Britney__np"/></e>
     <e lm="Mary"><i>Mary</i><par n="Britney__np"/></e>
-    <e lm="Keri"><i>Keri</i><par n="Britney__np"/></e>
-    <e lm="Jamie"><i>Jamie</i><par n="Britney__np"/></e>
+    <e lm="Maureen"><i>Maureen</i><par n="Britney__np"/></e>
+    <e lm="Megan"><i>Megan</i><par n="Britney__np"/></e>
+    <e lm="Molly"><i>Molly</i><par n="Britney__np"/></e>
+    <e lm="Nancy"><i>Nancy</i><par n="Britney__np"/></e>
+    <e lm="Naomi"><i>Naomi</i><par n="Britney__np"/></e>
+    <e lm="Romy"><i>Romy</i><par n="Britney__np"/></e>
+    <e lm="Sharon"><i>Sharon</i><par n="Britney__np"/></e>
+    <e lm="Steffi"><i>Steffi</i><par n="Britney__np"/></e>
     <e lm="Adelina"><i>Adelin</i><par n="Iz/a__np"/></e>
     <e lm="Adelina"><i>Adelin</i><par n="Iz/ka__np_dim"/></e>
     <e lm="Adrianna"><i>Adriann</i><par n="Iz/a__np"/></e>
