@@ -4045,9 +4045,6 @@
     <e><p><l>obroża<s n="FIX"/></l><r>límec<s n="FIX"/></r></p></e>
     <e><p><l>obroża<s n="FIX"/></l><r>obojek<s n="FIX"/></r></p></e>
     <e><p><l>obrzezanie<s n="FIX"/></l><r>obřízka<s n="FIX"/></r></p></e>
-    <e><p><l>obrócić się (''w stronę/do czegoś'')<s n="FIX"/></l><r>tvář<s n="FIX"/></r></p></e>
-    <e><p><l>obrócić się (''w stronę/do czegoś'')<s n="FIX"/></l><r>strana<s n="FIX"/></r></p></e>
-    <e><p><l>obrócić się (''w stronę/do czegoś'')<s n="FIX"/></l><r>čelit<s n="FIX"/></r></p></e>
     <e><p><l>obserwatorium<s n="FIX"/></l><r>hvězdárna<s n="FIX"/></r></p></e>
     <e><p><l>obszar<s n="FIX"/></l><r>koule<s n="FIX"/></r></p></e>
     <e><p><l>obszar<s n="FIX"/></l><r>kulová plocha<s n="FIX"/></r></p></e>
@@ -4116,17 +4113,6 @@
     <e><p><l>odłamek<s n="FIX"/></l><r>tříska<s n="FIX"/></r></p></e>
     <e><p><l>ogier<s n="FIX"/></l><r>hřebec<s n="FIX"/></r></p></e>
     <e><p><l>ogień<s n="FIX"/></l><r>oheň<s n="FIX"/></r></p></e>
-    <e><p><l>ogień<s n="FIX"/></l><r>požár<s n="FIX"/></r></p></e>
-    <e><p><l>ogień<s n="FIX"/></l><r>kamna<s n="FIX"/></r></p></e>
-    <e><p><l>ogień<s n="FIX"/></l><r>vyhodit<s n="FIX"/></r></p></e>
-    <e><p><l>ogień<s n="FIX"/></l><r>střílet<s n="FIX"/></r></p></e>
-    <e><p><l>ogień<s n="FIX"/></l><r>vystřelit<s n="FIX"/></r></p></e>
-    <e><p><l>ogień<s n="FIX"/></l><r>vypálit<s n="FIX"/></r></p></e>
-    <e><p><l>ogień<s n="FIX"/></l><r>palba<s n="FIX"/></r></p></e>
-    <e><p><l>ogień<s n="FIX"/></l><r>světlo<s n="FIX"/></r></p></e>
-    <e><p><l>ogień<s n="FIX"/></l><r>zapálit<s n="FIX"/></r></p></e>
-    <e><p><l>ogień<s n="FIX"/></l><r>osvětlit<s n="FIX"/></r></p></e>
-    <e><p><l>ogień<s n="FIX"/></l><r>světlý<s n="FIX"/></r></p></e>
     <e><p><l>oglądać<s n="FIX"/></l><r>hodinky<s n="FIX"/></r></p></e>
     <e><p><l>oglądać<s n="FIX"/></l><r>dívat se<s n="FIX"/></r></p></e>
     <e><p><l>oglądać<s n="FIX"/></l><r>hlídka<s n="FIX"/></r></p></e>
@@ -4299,14 +4285,7 @@
     <e><p><l>otwarty<s n="FIX"/></l><r>otevřít<s n="FIX"/></r></p></e>
     <e><p><l>otwarty<s n="FIX"/></l><r>otevřen<s n="FIX"/></r></p></e>
     <e><p><l>otwarty<s n="FIX"/></l><r>veřejný<s n="FIX"/></r></p></e>
-    <e><p><l>otwierać<s n="FIX"/></l><r>otevřený<s n="FIX"/></r></p></e>
     <e><p><l>otwierać<s n="FIX"/></l><r>otevřít<s n="FIX"/></r></p></e>
-    <e><p><l>otwierać<s n="FIX"/></l><r>otevřen<s n="FIX"/></r></p></e>
-    <e><p><l>otwierać<s n="FIX"/></l><r>veřejný<s n="FIX"/></r></p></e>
-    <e><p><l>otwierać się<s n="FIX"/></l><r>otevřený<s n="FIX"/></r></p></e>
-    <e><p><l>otwierać się<s n="FIX"/></l><r>otevřít<s n="FIX"/></r></p></e>
-    <e><p><l>otwierać się<s n="FIX"/></l><r>otevřen<s n="FIX"/></r></p></e>
-    <e><p><l>otwierać się<s n="FIX"/></l><r>veřejný<s n="FIX"/></r></p></e>
     <e><p><l>otwór<s n="FIX"/></l><r>díra<s n="FIX"/></r></p></e>
     <e><p><l>otwór<s n="FIX"/></l><r>jamka<s n="FIX"/></r></p></e>
     <e><p><l>otwór<s n="FIX"/></l><r>ústa<s n="FIX"/></r></p></e>
