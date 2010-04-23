@@ -37,6 +37,7 @@
     <sdef n="top"     c="miejsce"/>
     <sdef n="ant"     c="imię"/>
     <sdef n="cog"     c="nazwisko"/>
+    <sdef n="al"      c="altres"/>
 
     <!-- osoby -->
     <sdef n="p1"      c="pierwsza osoba"/>
