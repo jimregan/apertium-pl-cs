@@ -20628,6 +20628,8 @@
     <!-- FIXME: add 'nej' -->
     <e lm="finanční"><par n="nej__adv"/><i>finančn</i><par n="finančn/í__adj"/></e>
     <e lm="úřední"><par n="nej__adv"/><i>úředn</i><par n="finančn/í__adj"/></e>
+    <e lm="jarní"><par n="nej__adv"/><i>jarn</i><par n="finančn/í__adj"/></e>
+    <e lm="doplní"><par n="nej__adv"/><i>dopln</i><par n="finančn/í__adj"/></e>
 
     <e lm="další" i="yes"><i>dalš</i><par n="dalš/í__adj"/></e>
     <e lm="nový"><par n="nej__adv"/><i>nov</i><par n="nov/ý__adj"/></e>
@@ -21163,6 +21165,7 @@
     <e lm="cajk"><i>caj</i><par n="caj/k__n"/></e>
     <e lm="candát"><i>candát</i><par n="man__n"/></e>
     <e lm="cecky"><i>cec</i><par n="cec/ky__n"/></e>
+    <e lm="typicky"><i>typic</i><par n="cec/ky__n"/></e>
     <e lm="cejn"><i>cejn</i><par n="man__n"/></e>
     <e lm="cejnek"><i>cejn</i><par n="nác/ek__n"/></e>
     <e lm="cena"><i>cen</i><par n="dob/a__n"/></e>
