@@ -34127,6 +34127,24 @@
     <e lm="łopatka"><i>łopat</i><par n="mat/ka__n"/></e>
     <e lm="ścieżka"><i>ścież</i><par n="mat/ka__n"/></e>
 
+    <e lm="aksjomat"><i>aksjoma</i><par n="hi/t__n"/></e>
+    <e lm="atrament"><i>atramen</i><par n="hi/t__n"/></e>
+    <e lm="banknot"><i>bankno</i><par n="hi/t__n"/></e>
+    <e lm="bukiet"><i>bukie</i><par n="hi/t__n"/></e>
+    <e lm="hit"><i>hi</i><par n="hi/t__n"/></e>
+    <e lm="klarnet"><i>klarne</i><par n="hi/t__n"/></e>
+    <e lm="kwadrat"><i>kwadra</i><par n="hi/t__n"/></e>
+    <e lm="meczet"><i>mecze</i><par n="hi/t__n"/></e>
+    <e lm="obiekt"><i>obiek</i><par n="hi/t__n"/></e>
+    <e lm="odbyt"><i>odby</i><par n="hi/t__n"/></e>
+    <e lm="przedmiot"><i>przedmio</i><par n="hi/t__n"/></e>
+    <e lm="samolot"><i>samolo</i><par n="hi/t__n"/></e>
+    <e lm="skrót"><i>skró</i><par n="hi/t__n"/></e>
+    <e lm="szkielet"><i>szkiele</i><par n="hi/t__n"/></e>
+    <e lm="sztylet"><i>sztyle</i><par n="hi/t__n"/></e>
+    <e lm="zenit"><i>zeni</i><par n="hi/t__n"/></e>
+
+
     <e lm="ambulans"><i>ambulans</i><par n="sklep__n"/></e>
     <e lm="ekran"><i>ekran</i><par n="sklep__n"/></e>
     <e lm="faks"><i>faks</i><par n="sklep__n"/></e> <!-- check -->
@@ -34154,6 +34172,27 @@
     <e lm="wulkan"><i>wulkan</i><par n="sklep__n"/></e>
     <e lm="ślub"><i>ślub</i><par n="sklep__n"/></e>
 
+    <e lm="cena"><i>cen</i><par n="analiz/a__n"/></e>
+    <e lm="dolina"><i>dolin</i><par n="analiz/a__n"/></e>
+    <e lm="firma"><i>firm</i><par n="analiz/a__n"/></e>
+    <e lm="gmina"><i>gmin</i><par n="analiz/a__n"/></e>
+    <e lm="godzina"><i>godzin</i><par n="analiz/a__n"/></e>
+    <e lm="jarzębina"><i>jarzębin</i><par n="analiz/a__n"/></e>
+    <e lm="kawa"><i>kaw</i><par n="analiz/a__n"/></e>
+    <e lm="korona"><i>koron</i><par n="analiz/a__n"/></e>
+    <e lm="kosa"><i>kos</i><par n="analiz/a__n"/></e>
+    <e lm="leszczyna"><i>leszczyn</i><par n="analiz/a__n"/></e>
+    <e lm="lipa"><i>lip</i><par n="analiz/a__n"/></e>
+    <e lm="lokomotywa"><i>lokomotyw</i><par n="analiz/a__n"/></e>
+    <e lm="roślina"><i>roślin</i><par n="analiz/a__n"/></e>
+    <e lm="rzeźba"><i>rzeźb</i><par n="analiz/a__n"/></e>
+    <e lm="strona"><i>stron</i><par n="analiz/a__n"/></e>
+    <e lm="wydma"><i>wydm</i><par n="analiz/a__n"/></e>
+    <e lm="wyspa"><i>wysp</i><par n="analiz/a__n"/></e>
+    <e lm="zima"><i>zim</i><par n="analiz/a__n"/></e>
+    <e lm="śledziona"><i>śledzion</i><par n="analiz/a__n"/></e>
+    <e lm="śliwa"><i>śliw</i><par n="analiz/a__n"/></e>
+    <e lm="żaba"><i>żab</i><par n="analiz/a__n"/></e>
 
     <e lm="ojciec"><i>ojc</i><par n="ojc/iec__n"/></e>
     <e lm="samochód"><i>samoch</i><par n="samoch/ód__n"/></e>
