@@ -405,7 +405,9 @@
      <e><p><l>Budapeszt<s n="np"/><s n="top"/><s n="mi"/></l><r>Budapešť<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
      <e><p><l>Bukareszt<s n="np"/><s n="top"/><s n="mi"/></l><r>Bukurešť<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
      <e><p><l>Bułgar<s n="n"/><s n="mp"/></l><r>Bulhar<s n="n"/><s n="ma"/></r></p></e>
-
+     <e><p><l>szewc<s n="n"/><s n="mp"/></l><r>švec<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>Włoch<s n="n"/><s n="mp"/></l><r>Ital<s n="n"/><s n="ma"/></r></p></e>
+     <e><p><l>Węgier<s n="n"/><s n="mp"/></l><r>Maďar<s n="n"/><s n="ma"/></r></p></e>
 
 
      <e><p><l>arsen<s n="n"/><s n="mi"/></l><r>arzen<s n="n"/><s n="mi"/></r></p></e>
@@ -2158,7 +2160,7 @@
     <e><p><l>Liechtenstein<s n="np"/><s n="top"/><s n="mi"/></l><r>Lichtenštejnsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Lipsk<s n="np"/><s n="top"/><s n="mi"/></l><r>Lipsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Litwa<s n="np"/><s n="top"/><s n="f"/></l><r>Litva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Włochy<s n="np"/><s n="top"/><s n="f"/></l><r>Itálie<s n="np"/><s n="top"/><s n="f"/></r></p><par n="pl_sgpl"/></e>
+    <e><p><l>Włochy<s n="np"/><s n="top"/><s n="mi"/></l><r>Itálie<s n="np"/><s n="top"/><s n="f"/></r></p><par n="pl_sgpl"/></e>
     <e><p><l>Londyn<s n="np"/><s n="top"/><s n="mi"/></l><r>Londýn<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Luksemburg<s n="np"/><s n="top"/><s n="mi"/></l><r>Lucembursko<s n="np"/><s n="top"/><s n="nt"/></r></p><par n="sg_sgpl"/></e>
     <e><p><l>Lwów<s n="np"/><s n="top"/><s n="mi"/></l><r>Lvov<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
