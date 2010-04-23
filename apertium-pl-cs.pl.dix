@@ -35924,6 +35924,49 @@
       <r>święty<b/>Jerzy<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
     </p>
   </e>
+  <!-- święty Mikołaj -->
+  <e>
+    <p>
+      <l>święty<b/>Mikołaj</l>
+      <r>święty<b/>Mikołaj<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>świętego<b/>Mikołaja</l>
+      <r>święty<b/>Mikołaj<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>świętemu<b/>Mikołajowi</l>
+      <r>święty<b/>Mikołaj<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>świętego<b/>Mikołaja</l>
+      <r>święty<b/>Mikołaj<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>świętym<b/>Mikołajem</l>
+      <r>święty<b/>Mikołaj<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>świętym<b/>Mikołaju</l>
+      <r>święty<b/>Mikołaj<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>święty<b/>Mikołaju</l>
+      <r>święty<b/>Mikołaj<s n="np"/><s n="ant"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+    </p>
+  </e>
   <!-- Chińska Republika Ludowa -->
   <e>
     <p>
