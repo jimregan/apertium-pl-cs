@@ -31565,6 +31565,15 @@
     <e lm="trochę"><i>trochę</i><par n="tu__adv"/></e>
     <e lm="dużo"><i>dużo</i><par n="tu__adv"/></e>
     <e lm="za dużo" r="RL"><i>za<b/>dużo</i><par n="tu__adv"/></e>
+    <e lm="codziennie"><i>codziennie</i><par n="tu__adv"/></e>
+    <e lm="cotygodniowo"><i>cotygodniowo</i><par n="tu__adv"/></e>
+    <e lm="nagle"><i>nagle</i><par n="tu__adv"/></e>
+    <e lm="na zdrowie"><i>na<b/>zdrowie</i><par n="tu__adv"/></e>
+    <e lm="na zawsze"><i>na<b/>zawsze</i><par n="tu__adv"/></e>
+    <e lm="na przykład"><i>na<b/>przykład</i><par n="tu__adv"/></e>
+    <e lm="niedawno"><i>niedawno</i><par n="tu__adv"/></e>
+    <e lm="dokładnie"><i>dokładnie</i><par n="tu__adv"/></e>
+    <e lm="szczęśliwie"><i>szczęśliwie</i><par n="tu__adv"/></e>
 
     <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="mieć"><i>m</i><par n="m/ieć__vbhaver"/></e>
