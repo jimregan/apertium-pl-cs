@@ -24847,6 +24847,86 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__statek">
+      <e>
+        <p>
+          <l>ek</l>
+          <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kowi</l>
+          <r><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kiem</l>
+          <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ku</l>
+          <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ku</l>
+          <r><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ków</l>
+          <r><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kom</l>
+          <r><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kami</l>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kach</l>
+          <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ek</l>
+          <r><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__bat">
       <e>
         <p>
@@ -24942,6 +25022,33 @@
         </p>
       </e>
     </pardef>
+    <pardef n="hi/t__n">
+      <e>
+        <p>
+          <l>t</l>
+          <r>t<s n="n"/></r>
+        </p>
+        <par n="BASE__bat"/>
+      </e>
+      <e>
+        <p>
+          <l>tu</l>
+          <r>t<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cie</l>
+          <r>t<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cie</l>
+          <r>t<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="amety/st__n">
       <e>
         <p>
@@ -24972,87 +25079,31 @@
     <pardef n="stat/ek__n">
       <e>
         <p>
-          <l>ek</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>ku</l>
           <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>kowi</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+          <l></l>
+          <r>ek<s n="n"/></r>
+        </p>
+        <par n="BASE__statek"/>
+      </e>
+    </pardef>
+    <pardef n="młot/ek__n">
+      <e>
+        <p>
+          <l>ka</l>
+          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>kiem</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+          <l></l>
+          <r>ek<s n="n"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>ku</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ku</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ki</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ków</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>kom</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>kami</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>kach</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ek</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ki</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ki</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
-        </p>
+        <par n="BASE__statek"/>
       </e>
     </pardef>
     <pardef n="dom__n">
