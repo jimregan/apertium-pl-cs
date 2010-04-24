@@ -187,7 +187,7 @@
 
 <!-- Reguły rzeczownikowe -->
 
-  <rule>
+  <rule comment="REGLA: nom">
      <pattern>
        <pattern-item n="nom"/>
      </pattern>
@@ -212,7 +212,7 @@
        </out>
      </action>
   </rule>
-  <rule>
+  <rule comment="REGLA: adj nom">
      <pattern>
        <pattern-item n="adj"/>
        <pattern-item n="nom"/>
@@ -248,7 +248,7 @@
      </action>
   </rule>
 
-  <rule>
+  <rule comment="REGLA: adj">
      <pattern>
        <pattern-item n="adj"/>
      </pattern>
@@ -273,7 +273,8 @@
        </out>
      </action>
   </rule>
-  <rule>
+
+  <rule comment="REGLA: adv adj">
      <pattern>
        <pattern-item n="adv"/>
        <pattern-item n="adj"/>
