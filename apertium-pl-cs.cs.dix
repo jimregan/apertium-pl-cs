@@ -20492,6 +20492,8 @@
     <e lm="ale"><i>ale</i><par n="a__cnjcoo"/></e>
     <e lm="ani"><i>ani</i><par n="a__cnjcoo"/></e>
     <e lm="než"><i>než</i><par n="a__cnjcoo"/></e>
+    <e lm="čili"><i>čili</i><par n="a__cnjcoo"/></e>
+    <e lm="leč"><i>leč</i><par n="a__cnjcoo"/></e>
     <e lm="až"><i>až</i><par n="až__cnjsub"/></e>
     <e lm="že"><i>že</i><par n="až__cnjsub"/></e>
     <e lm="by"><i>by</i><par n="aby__cnjsub"/></e>
@@ -20707,6 +20709,8 @@
     <e lm="toliko"><i>toliko</i><par n="tehdy__adv"/></e>
     <e lm="vzhůru nohama"><i>vzhůru<b/>nohama</i><par n="tehdy__adv"/></e>
     <e lm="zároveň"><i>zároveň</i><par n="tehdy__adv"/></e>
+    <e lm="ovšem"><i>ovšem</i><par n="tehdy__adv"/></e>
+    <e lm="zatímco"><i>zatímco</i><par n="tehdy__adv"/></e>
 
     <!-- Nouns -->
 
