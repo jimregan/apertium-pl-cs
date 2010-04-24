@@ -20507,6 +20507,8 @@
     <e lm="pokud"><i>pokud</i><par n="jestli__cnjadv"/></e>
     <e lm="neboť"><i>neboť</i><par n="jestli__cnjadv"/></e>
     <e lm="protože"><i>protože</i><par n="jestli__cnjadv"/></e>
+    <e lm="poněvadž"><i>poněvadž</i><par n="jestli__cnjadv"/></e>
+    <e lm="ačkoliv"><i>ačkoliv</i><par n="jestli__cnjadv"/></e>
 
     <!-- Prepositions -->
     <e lm="bez"><i>bez</i><par n="za__pr"/></e>
