@@ -36991,6 +36991,49 @@
       <r>Stany<b/>Zjednoczone<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
     </p>
   </e>
+  <!-- Góry Izerskie -->
+  <e>
+    <p>
+      <l>Góry<b/>Izerskie</l>
+      <r>Góry<b/>Izerskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Gór<b/>Izerskich</l>
+      <r>Góry<b/>Izerskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górom<b/>Izerskim</l>
+      <r>Góry<b/>Izerskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Izerskie</l>
+      <r>Góry<b/>Izerskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górami<b/>Izerskimi</l>
+      <r>Góry<b/>Izerskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górach<b/>Izerskich</l>
+      <r>Góry<b/>Izerskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Izerskie</l>
+      <r>Góry<b/>Izerskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
   <!-- Wielka Brytania -->
   <e>
     <p>
