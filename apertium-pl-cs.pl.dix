@@ -34619,6 +34619,7 @@
     <e lm="pasta"><i>pa</i><par n="pa/sta__n"/></e>
     <e lm="wiosna"><i>wio</i><par n="wio/sna__n"/></e>
     <e lm="stopień"><i>stop</i><par n="p/ień__n"/></e>
+    <e lm="stopień Celsjusza"><i>stop</i><par n="p/ień__n"/><p><l><b/>Celsjusza</l><r><g><b/>Celsjusza</g></r></p></e>
     <e lm="noc"><i>noc</i><par n="noc__n"/></e>
     <e lm="wieś"><i>w</i><par n="w/ieś__n"/></e>
     <e lm="dłoń"><i>dło</i><par n="dło/ń__n"/></e>

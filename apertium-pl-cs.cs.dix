@@ -22181,6 +22181,7 @@
     <e lm="plutonium"><i>plutoni</i><par n="bary/um__n"/></e>
     <e lm="plíseň"><i>plís</i><par n="plís/eň__n"/></e>
     <e lm="stupeň"><i>stup</i><par n="stup/eň__n"/></e>
+    <e lm="stupeň Celsia"><i>stup</i><par n="stup/eň__n"/><p><l><b/>Celsia</l><r><g><b/>Celsia</g></r></p></e>
     <e lm="pochva"><i>poch</i><par n="bar/va__n"/></e>
     <e lm="pocit"><i>pocit</i><par n="bor__n"/></e>
     <e lm="podoustev"><i>podoust</i><par n="kr/ev__n"/></e>
