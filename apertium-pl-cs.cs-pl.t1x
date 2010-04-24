@@ -72,6 +72,12 @@
      <cat-item tags="det"/>
      <cat-item tags="det.*"/>
   </def-cat>
+  <def-cat n="sent">
+     <cat-item tags="sent"/>
+  </def-cat>
+  <def-cat n="coma">
+     <cat-item tags="cm"/>
+  </def-cat>
 </section-def-cats>
 
 <section-def-attrs>
@@ -162,6 +168,9 @@
   <def-var n="number"/>
   <def-var n="genere"/>
   <def-var n="case_chunk"/>
+  <def-var n="EOS" v="true"/>
+  <def-var n="caseFirstWord"/>
+  <def-var n="prep_lem"/>
 </section-def-vars>
 <section-def-lists>
   <def-list n="dat_prep">
@@ -182,7 +191,83 @@
     <list-item v="na"/>
   </def-list>
 </section-def-lists>
+<section-def-macros>
+    <def-macro n="f_bcond" npar="2">
+      <choose>
+        <when>
+          <test>
+            <not>
+              <equal>
+                <b pos="1"/>
+                <lit v=" "/>
+              </equal>
+            </not>
+          </test>
+          <out>
+            <b pos="1"/>
+          </out>
+        </when>             
+      </choose>
+    </def-macro>
+    <def-macro n="firstWord" npar="1"><!--nova versió 8-febr-08  -->
+      
+          <choose>
+            <when>
+              <test>
+                <equal> 
+                  <var n="EOS"/>
+                  <lit v="true"/>
+                </equal> 
+              </test>
+<!--              <choose>
+                <when>
+                  <test>
+                    <and>
+                      <equal>
+                        <clip pos="1" side="sl" part="a_np_acr"/>
+                        <lit v=""/>
+                      </equal>
+                      <not>
+                        <in>
+                          <clip pos="1" side="tl" part="lem"/>
+                          <list n="en_majuscules"/>
+                        </in>
+                      </not>
+                    </and>
+                  </test>
+                  <modify-case>
+                    <clip pos="1" side="tl" part="lem"/>
+                    <lit v="aa"/>
+                  </modify-case>
+                </when>
+              </choose> -->
+              <let>
+                <var n="caseFirstWord"/>
+                <lit v="Aa"/>
+              </let>
+            </when>
+            <otherwise> 
+              <let>
+                <var n="caseFirstWord"/>
+                <lit v="aa"/>
+              </let>
+            </otherwise>
+          </choose>
+<!--    </when>
+        <otherwise>
+          <let>
+            <var n="caseFirstWord"/>
+            <lit v="aa"/>
+          </let>
+        </otherwise>
+      </choose>-->
+      <let>
+        <var n="EOS"/>
+        <lit v="false"/>
+      </let>
+    </def-macro>
 
+</section-def-macros>
 <section-rules>
 
 <!-- Reguły rzeczownikowe -->
@@ -192,6 +277,9 @@
        <pattern-item n="nom"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="nom" case="caseFirstWord">
            <tags>
@@ -218,6 +306,9 @@
        <pattern-item n="nom"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="adj_nom" case="caseFirstWord">
            <tags>
@@ -253,6 +344,9 @@
        <pattern-item n="adj"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="adj" case="caseFirstWord">
            <tags>
@@ -280,6 +374,9 @@
        <pattern-item n="adj"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="adv_adj" case="caseFirstWord">
            <tags>
@@ -312,6 +409,9 @@
        <pattern-item n="verbpast"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="verb" case="caseFirstWord">
            <tags>
@@ -340,6 +440,9 @@
        <pattern-item n="bytpast"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="verb" case="caseFirstWord">
            <tags>
@@ -367,6 +470,9 @@
        <pattern-item n="bytpres"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="verb" case="caseFirstWord">
            <tags>
@@ -396,6 +502,9 @@
        <pattern-item n="verbpast"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="verb" case="caseFirstWord">
            <tags>
@@ -426,6 +535,9 @@
        <pattern-item n="bytpres"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="verb" case="caseFirstWord">
            <tags>
@@ -455,6 +567,9 @@
        <pattern-item n="bytpres"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="być" case="caseFirstWord">
            <tags>
@@ -482,6 +597,9 @@
        <pattern-item n="bytpast"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="być" case="caseFirstWord">
            <tags>
@@ -510,6 +628,9 @@
        <pattern-item n="bytpres"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="być" case="caseFirstWord">
            <tags>
@@ -537,6 +658,9 @@
        <pattern-item n="bytenc"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="cnjenc" case="caseFirstWord">
            <tags>
@@ -567,6 +691,9 @@
        <pattern-item n="inf"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="aux_inf" case="caseFirstWord">
            <tags>
@@ -589,6 +716,96 @@
           </chunk>
         </out>
      </action>
+  </rule>
+
+    <rule comment="REGLA: PREP">
+      <pattern>
+        <pattern-item n="pr"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <let>
+          <var n="prep_lem"/>
+          <clip pos="1" side="tl" part="lem"/>
+        </let>
+        <out>
+          <chunk namefrom="prep_lem" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PREP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_prp"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule> <!-- REGLA: reset variables-->
+      <pattern>
+        <pattern-item n="sent"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <not>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="lem"/>
+                    <lit v=";"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="lem"/>
+                    <lit v=":"/>
+                  </equal>
+                </or>
+              </not>
+            </test>           
+            <let>
+              <var n="EOS"/>
+              <lit v="true"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <chunk name="punt">
+            <tags>
+              <tag><lit-tag v="sent"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
+  <rule comment="REGLA: reset variables">
+      <pattern>
+        <pattern-item n="coma"/>
+      </pattern>
+      <action>
+        <let>
+          <var n="EOS"/>
+          <lit v="false"/>
+        </let>
+        <out>
+          <chunk name="coma">
+            <tags>
+              <tag><lit-tag v="cm"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
   </rule>
 
 </section-rules>
