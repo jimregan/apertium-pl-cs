@@ -17699,6 +17699,27 @@
       <e><p>          <l>ěli</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p>          <l>ěly</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>ěla</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ěv</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pp"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ěv</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pp"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ěvši</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ěvši</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ěvše</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ěvše</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ěvše</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pp"/><s n="nt"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>aje</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>aje</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ajíc</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ajíc</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ajíce</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ajíce</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ajíce</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ěj</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ějme</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ějte</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+
     </pardef>
     <pardef n="m/oci__vaux">
       <e><p>          <l>oci</l><r>oci<s n="vaux"/><s n="imperf"/><s n="inf"/></r></p></e>

@@ -20,6 +20,7 @@
   </def-cat>
   <def-cat n="vblex">
      <cat-item tags="vblex.*"/>
+     <cat-item tags="vbhaver.*"/>
   </def-cat>
   <def-cat n="prn">
      <cat-item tags="prn.*"/>
