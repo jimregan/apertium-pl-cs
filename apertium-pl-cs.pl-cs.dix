@@ -1184,8 +1184,40 @@
     <e><p><l>dama<s n="n"/><s n="f"/></l><r>dáma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dar<s n="n"/><s n="mi"/></l><r>dar<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>depresja<s n="n"/><s n="f"/></l><r>deprese<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dinozaur<s n="n"/><s n="ma"/></l><r>dinosaurus<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>tyranozaur<s n="n"/><s n="ma"/></l><r>tyranosaurus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dinozaur<s n="n"/><s n="ma"/></l><r>dinosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>tyranozaur<s n="n"/><s n="ma"/></l><r>tyranosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>alamozaur<s n="n"/><s n="ma"/></l><r>alamosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>allozaur<s n="n"/><s n="ma"/></l><r>allosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>ankylozaur<s n="n"/><s n="ma"/></l><r>ankylosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>archozaur<s n="n"/><s n="ma"/></l><r>archosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>brachiozaur<s n="n"/><s n="ma"/></l><r>brachiosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>branchiozaur<s n="n"/><s n="ma"/></l><r>branchiosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>brontozaur<s n="n"/><s n="ma"/></l><r>brontosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>celurozaur<s n="n"/><s n="ma"/></l><r>coelurosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>centrozaur<s n="n"/><s n="ma"/></l><r>centrosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>ceratozaur<s n="n"/><s n="ma"/></l><r>ceratosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>chasmozaur<s n="n"/><s n="ma"/></l><r>chasmosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>daspletozaur<s n="n"/><s n="ma"/></l><r>daspletosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>deinonychozaur<s n="n"/><s n="ma"/></l><r>deinonychosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>dromeozaur<s n="n"/><s n="ma"/></l><r>dromaeosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>edafozaur<s n="n"/><s n="ma"/></l><r>edaphosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>eurinozaur<s n="n"/><s n="ma"/></l><r>eurhinosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>gigantozaur<s n="n"/><s n="ma"/></l><r>gigantosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>hadrozaur<s n="n"/><s n="ma"/></l><r>hadrosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>karnozaur<s n="n"/><s n="ma"/></l><r>carnosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>kotylozaur<s n="n"/><s n="ma"/></l><r>cotylosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>mastodonzaur<s n="n"/><s n="ma"/></l><r>mastodonsaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>megalozaur<s n="n"/><s n="ma"/></l><r>megalosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>mezozaur<s n="n"/><s n="ma"/></l><r>mesosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>mozazaur<s n="n"/><s n="ma"/></l><r>mosasaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>parejazaur<s n="n"/><s n="ma"/></l><r>pareiasaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>pelykozaur<s n="n"/><s n="ma"/></l><r>pelycosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>plezjozaur<s n="n"/><s n="ma"/></l><r>plesiosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>pliozaur<s n="n"/><s n="ma"/></l><r>pliosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>pterozaur<s n="n"/><s n="ma"/></l><r>pterosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>stegozaur<s n="n"/><s n="ma"/></l><r>stegosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>styrakozaur<s n="n"/><s n="ma"/></l><r>styracosaurus<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>waranozaur<s n="n"/><s n="ma"/></l><r>varanosaurus<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>dobro<s n="n"/><s n="nt"/></l><r>dobro<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>dobry<s n="adj"/><s n="sint"/></l><r>dobrý<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>dobrze<s n="adv"/><s n="sint"/></l><r>dobře<s n="adv"/><s n="sint"/></r></p></e>

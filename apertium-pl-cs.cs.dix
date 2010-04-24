@@ -5489,6 +5489,116 @@
         </p>
       </e>
     </pardef>
+    <pardef n="dinosau/rus__n">
+      <e>
+        <p>
+          <l>rus</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ři</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>rové</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ra</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rů</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ru</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rovi</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rům</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ra</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>re</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>re</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ři</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>rové</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ru</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rovi</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rech</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rem</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e c="FIXME - guess">
+        <p>
+          <l>ří</l>
+          <r>rus<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="emisa/r__n">
       <e>
         <p>
@@ -21460,9 +21570,44 @@
     <e lm="héterismus"><i>héterism</i><par n="ile/us__n"/></e>
     <e lm="héterizmus"><i>héterizm</i><par n="ile/us__n"/></e>
     <e lm="hřib"><i>hřib</i><par n="bor__n"/></e>
-    <e lm="ichtyosaurus"><i>ichtyosaur</i><par n="géni/us__n"/></e>
-    <e lm="dinosaurus"><i>dinosaur</i><par n="géni/us__n"/></e>
-    <e lm="tyranosaurus"><i>tyranosaur</i><par n="géni/us__n"/></e>
+    <e lm="ichtyosaurus"><i>ichtyosau</i><par n="dinosau/rus__n"/></e>
+    <e lm="dinosaurus"><i>dinosau</i><par n="dinosau/rus__n"/></e>
+    <e lm="tyranosaurus"><i>tyranosau</i><par n="dinosau/rus__n"/></e>
+    <e lm="coelurosaurus"><i>coelurosau</i><par n="dinosau/rus__n"/></e>
+    <e lm="coelurosaurus" r="LR"><p><l>célurosau</l><r>coelurosau</r></p><par n="dinosau/rus__n"/></e>
+    <e lm="edaphosaurus"><i>edaphosau</i><par n="dinosau/rus__n"/></e>
+    <e lm="edaphosaurus" r="LR"><p><l>edafosau</l><r>edaphosau</r></p><par n="dinosau/rus__n"/></e>
+    <e lm="styracosaurus"><i>styracosau</i><par n="dinosau/rus__n"/></e>
+    <e lm="styracosaurus" r="LR"><p><l>styrakosau</l><r>styracosau</r></p><par n="dinosau/rus__n"/></e>
+    <e lm="alamosaurus"><i>alamosau<par n="dinosau/rus__n"/></e>
+    <e lm="allosaurus"><i>allosau<par n="dinosau/rus__n"/></e>
+    <e lm="ankylosaurus"><i>ankylosau<par n="dinosau/rus__n"/></e>
+    <e lm="archosaurus"><i>archosau<par n="dinosau/rus__n"/></e>
+    <e lm="brachiosaurus"><i>brachiosau<par n="dinosau/rus__n"/></e>
+    <e lm="branchiosaurus"><i>branchiosau<par n="dinosau/rus__n"/></e>
+    <e lm="brontosaurus"><i>brontosau<par n="dinosau/rus__n"/></e>
+    <e lm="centrosaurus"><i>centrosau<par n="dinosau/rus__n"/></e>
+    <e lm="ceratosaurus"><i>ceratosau<par n="dinosau/rus__n"/></e>
+    <e lm="chasmosaurus"><i>chasmosau<par n="dinosau/rus__n"/></e>
+    <e lm="daspletosaurus"><i>daspletosau<par n="dinosau/rus__n"/></e>
+    <e lm="deinonychosaurus"><i>deinonychosau<par n="dinosau/rus__n"/></e>
+    <e lm="dromaeosaurus"><i>dromaeosau<par n="dinosau/rus__n"/></e>
+    <e lm="eurhinosaurus"><i>eurhinosau<par n="dinosau/rus__n"/></e>
+    <e lm="gigantosaurus"><i>gigantosau<par n="dinosau/rus__n"/></e>
+    <e lm="hadrosaurus"><i>hadrosau<par n="dinosau/rus__n"/></e>
+    <e lm="carnosaurus"><i>carnosau<par n="dinosau/rus__n"/></e>
+    <e lm="cotylosaurus"><i>cotylosau<par n="dinosau/rus__n"/></e>
+    <e lm="mastodonsaurus"><i>mastodonsau<par n="dinosau/rus__n"/></e>
+    <e lm="megalosaurus"><i>megalosau<par n="dinosau/rus__n"/></e>
+    <e lm="mesosaurus"><i>mesosau<par n="dinosau/rus__n"/></e>
+    <e lm="mosasaurus"><i>mosasau<par n="dinosau/rus__n"/></e>
+    <e lm="pareiasaurus"><i>pareiasau<par n="dinosau/rus__n"/></e>
+    <e lm="pelycosaurus"><i>pelycosau<par n="dinosau/rus__n"/></e>
+    <e lm="plesiosaurus"><i>plesiosau<par n="dinosau/rus__n"/></e>
+    <e lm="pliosaurus"><i>pliosau<par n="dinosau/rus__n"/></e>
+    <e lm="pterosaurus"><i>pterosau<par n="dinosau/rus__n"/></e>
+    <e lm="stegosaurus"><i>stegosau<par n="dinosau/rus__n"/></e>
+    <e lm="varanosaurus"><i>varanosau<par n="dinosau/rus__n"/></e>
     <e lm="idea"><i>ide</i><par n="ide/a__n"/></e>
     <e lm="ideogram"><i>ideogram</i><par n="bor__n"/></e>
     <e lm="idiom"><i>idiom</i><par n="bor__n"/></e>
