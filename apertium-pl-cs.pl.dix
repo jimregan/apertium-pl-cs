@@ -14674,6 +14674,93 @@
         </p>
       </e>
     </pardef>
+    <pardef n="dopeł/nić__vblex">
+      <e>
+         <p>
+          <l>nić</l>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nię</l>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nisz</l>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nimy</l>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nicie</l>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nią</l>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>ń</l>
+          <r>nić<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__imperative"/>
+      </e>
+
+      <e>
+        <p>
+          <l>ni</l>
+          <r>nić<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytać-past"/>
+      </e>
+
+      <e>
+        <p>
+          <l>nie</l>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>nino</l>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niwszy</l>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="wie/dzieć__vblex">
       <e>
          <p>
@@ -34578,6 +34665,7 @@
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
     <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
     <e lm="przeczytać"><i>przeczyt</i><par n="przeczyt/ać__vblex"/></e>
+    <e lm="dopełnić"><i>dopeł</i><par n="dopeł/nić__vblex"/></e>
     <e lm="pojechać"><i>pojech</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="dać"><i>d</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="oddać"><i>odd</i><par n="przeczyt/ać__vblex"/></e>
