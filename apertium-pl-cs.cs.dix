@@ -17471,6 +17471,139 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Odersk/é_vrchy__np">
+      <e>
+        <p>
+          <l>é<b/>vrchy</l>
+          <r>é<b/>vrchy<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ých<b/>vrchů</l>
+          <r>é<b/>vrchy<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ým<b/>vrchům</l>
+          <r>é<b/>vrchy<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>vrchy</l>
+          <r>é<b/>vrchy<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>vrchy</l>
+          <r>é<b/>vrchy<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ých<b/>vrších</l>
+          <r>é<b/>vrchy<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ými<b/>vrchy</l>
+          <r>é<b/>vrchy<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Hostýnsko-vsetínsk/á_hornatina__np">
+      <e>
+        <p>
+          <l>á<b/>hornatina</l>
+          <r>á<b/>hornatina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>hornatiny</l>
+          <r>á<b/>hornatina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>hornatině</l>
+          <r>á<b/>hornatina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ou<b/>hornatinu</l>
+          <r>á<b/>hornatina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>á<b/>hornatino</l>
+          <r>á<b/>hornatina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>hornatině</l>
+          <r>á<b/>hornatina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ou<b/>hornatinou</l>
+          <r>á<b/>hornatina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Vizovick/á_vrchovina__np">
+      <e>
+        <p>
+          <l>á<b/>vrchovina</l>
+          <r>á<b/>vrchovina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>vrchoviny</l>
+          <r>á<b/>vrchovina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>vrchovině</l>
+          <r>á<b/>vrchovina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ou<b/>vrchovinu</l>
+          <r>á<b/>vrchovina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>á<b/>vrchovino</l>
+          <r>á<b/>vrchovina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>vrchovině</l>
+          <r>á<b/>vrchovina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ou<b/>vrchovinou</l>
+          <r>á<b/>vrchovina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="Pozna/ň__np">
       <e><p>          <l>ň</l><r>ň<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p>          <l>ň</l><r>ň<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -22750,6 +22883,14 @@
     <e lm="Toruň"><i>Toru</i><par n="Pozna/ň__np"/></e>
     <e lm="Budapešť"><i>Budapeš</i><par n="Budapeš/ť__np"/></e>
     <e lm="Jizerské hory"><i>Jizersk</i><par n="Jizersk/é_hory__np"/></e>
+    <e lm="Orlické hory"><i>Orlick</i><par n="Jizersk/é_hory__np"/></e>
+    <e lm="Rychlebské hory"><i>Rychlebsk</i><par n="Jizersk/é_hory__np"/></e>
+    <e lm="Lužické hory"><i>Lužick</i><par n="Jizersk/é_hory__np"/></e>
+    <e lm="Stolové hory"><i>Stolov</i><par n="Jizersk/é_hory__np"/></e>
+    <e lm="Oderské vrchy"><i>Odersk</i><par n="Odersk/é_vrchy__np"/></e>
+    <e lm="Vsetínské vrchy"><i>Vsetíns</i><par n="Odersk/é_vrchy__np"/></e>
+    <e lm="Hostýnsko-vsetínská hornatina"><i>Hostýnsko-vsetínsk</i><par n="Hostýnsko-vsetínsk/á_hornatina__np"/></e>
+    <e lm="Vizovická vrchovina"><i>Vizovick</i><par n="Vizovick/á_vrchovina__np"/></e>
 
     <e lm="Itálie"><i>Itáli</i><par n="Itáli/e__np"/></e>
 

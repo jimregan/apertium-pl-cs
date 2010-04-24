@@ -37034,6 +37034,393 @@
       <r>Góry<b/>Izerskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
     </p>
   </e>
+  <!-- Góry Hostyńskie -->
+  <e>
+    <p>
+      <l>Góry<b/>Hostyńskie</l>
+      <r>Góry<b/>Hostyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Gór<b/>Hostyńskich</l>
+      <r>Góry<b/>Hostyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górom<b/>Hostyńskim</l>
+      <r>Góry<b/>Hostyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Hostyńskie</l>
+      <r>Góry<b/>Hostyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górami<b/>Hostyńskimi</l>
+      <r>Góry<b/>Hostyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górach<b/>Hostyńskich</l>
+      <r>Góry<b/>Hostyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Hostyńskie</l>
+      <r>Góry<b/>Hostyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- Góry Hostyńsko-Wsetyńskie -->
+  <e>
+    <p>
+      <l>Góry<b/>Hostyńsko-Wsetyńskie</l>
+      <r>Góry<b/>Hostyńsko-Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Gór<b/>Hostyńsko-Wsetyńskich</l>
+      <r>Góry<b/>Hostyńsko-Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górom<b/>Hostyńsko-Wsetyńskim</l>
+      <r>Góry<b/>Hostyńsko-Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Hostyńsko-Wsetyńskie</l>
+      <r>Góry<b/>Hostyńsko-Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górami<b/>Hostyńsko-Wsetyńskimi</l>
+      <r>Góry<b/>Hostyńsko-Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górach<b/>Hostyńsko-Wsetyńskich</l>
+      <r>Góry<b/>Hostyńsko-Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Hostyńsko-Wsetyńskie</l>
+      <r>Góry<b/>Hostyńsko-Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- Góry Orlickie -->
+  <e>
+    <p>
+      <l>Góry<b/>Orlickie</l>
+      <r>Góry<b/>Orlickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Gór<b/>Orlickich</l>
+      <r>Góry<b/>Orlickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górom<b/>Orlickim</l>
+      <r>Góry<b/>Orlickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Orlickie</l>
+      <r>Góry<b/>Orlickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górami<b/>Orlickimi</l>
+      <r>Góry<b/>Orlickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górach<b/>Orlickich</l>
+      <r>Góry<b/>Orlickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Orlickie</l>
+      <r>Góry<b/>Orlickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- Góry Wizowickie -->
+  <e>
+    <p>
+      <l>Góry<b/>Wizowickie</l>
+      <r>Góry<b/>Wizowickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Gór<b/>Wizowickich</l>
+      <r>Góry<b/>Wizowickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górom<b/>Wizowickim</l>
+      <r>Góry<b/>Wizowickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Wizowickie</l>
+      <r>Góry<b/>Wizowickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górami<b/>Wizowickimi</l>
+      <r>Góry<b/>Wizowickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górach<b/>Wizowickich</l>
+      <r>Góry<b/>Wizowickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Wizowickie</l>
+      <r>Góry<b/>Wizowickie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- Góry Żytawskie -->
+  <e>
+    <p>
+      <l>Góry<b/>Żytawskie</l>
+      <r>Góry<b/>Żytawskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Gór<b/>Żytawskich</l>
+      <r>Góry<b/>Żytawskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górom<b/>Żytawskim</l>
+      <r>Góry<b/>Żytawskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Żytawskie</l>
+      <r>Góry<b/>Żytawskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górami<b/>Żytawskimi</l>
+      <r>Góry<b/>Żytawskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górach<b/>Żytawskich</l>
+      <r>Góry<b/>Żytawskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Żytawskie</l>
+      <r>Góry<b/>Żytawskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- Góry Odrzańskie -->
+  <e>
+    <p>
+      <l>Góry<b/>Odrzańskie</l>
+      <r>Góry<b/>Odrzańskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Gór<b/>Odrzańskich</l>
+      <r>Góry<b/>Odrzańskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górom<b/>Odrzańskim</l>
+      <r>Góry<b/>Odrzańskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Odrzańskie</l>
+      <r>Góry<b/>Odrzańskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górami<b/>Odrzańskimi</l>
+      <r>Góry<b/>Odrzańskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górach<b/>Odrzańskich</l>
+      <r>Góry<b/>Odrzańskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Odrzańskie</l>
+      <r>Góry<b/>Odrzańskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- Góry Wsetyńskie -->
+  <e>
+    <p>
+      <l>Góry<b/>Wsetyńskie</l>
+      <r>Góry<b/>Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Gór<b/>Wsetyńskich</l>
+      <r>Góry<b/>Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górom<b/>Wsetyńskim</l>
+      <r>Góry<b/>Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Wsetyńskie</l>
+      <r>Góry<b/>Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górami<b/>Wsetyńskimi</l>
+      <r>Góry<b/>Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górach<b/>Wsetyńskich</l>
+      <r>Góry<b/>Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Wsetyńskie</l>
+      <r>Góry<b/>Wsetyńskie<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- Góry Złote -->
+  <e>
+    <p>
+      <l>Góry<b/>Złote</l>
+      <r>Góry<b/>Złote<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Gór<b/>Złotych</l>
+      <r>Góry<b/>Złote<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górom<b/>Złotym</l>
+      <r>Góry<b/>Złote<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Złote</l>
+      <r>Góry<b/>Złote<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górami<b/>Złotymi</l>
+      <r>Góry<b/>Złote<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górach<b/>Złotych</l>
+      <r>Góry<b/>Złote<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Złote</l>
+      <r>Góry<b/>Złote<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- Góry Stołowe -->
+  <e>
+    <p>
+      <l>Góry<b/>Stołowe</l>
+      <r>Góry<b/>Stołowe<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Gór<b/>Stołowych</l>
+      <r>Góry<b/>Stołowe<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górom<b/>Stołowym</l>
+      <r>Góry<b/>Stołowe<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Stołowe</l>
+      <r>Góry<b/>Stołowe<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górami<b/>Stołowymi</l>
+      <r>Góry<b/>Stołowe<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Górach<b/>Stołowych</l>
+      <r>Góry<b/>Stołowe<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Góry<b/>Stołowe</l>
+      <r>Góry<b/>Stołowe<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
   <!-- Wielka Brytania -->
   <e>
     <p>
