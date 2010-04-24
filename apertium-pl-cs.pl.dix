@@ -34626,10 +34626,21 @@
     <e lm="ćma"><i></i><par n="/ćma__n"/></e>
     <e lm="język"><i>język</i><par n="kajak__n"/></e>
     <e lm="kajak"><i>kajak</i><par n="kajak__n"/></e>
+    <e lm="akademik"><i>akademik</i><par n="kajak__n"/></e>
+    <e lm="jajnik"><i>jajnik</i><par n="kajak__n"/></e>
+    <e lm="mianownik"><i>mianownik</i><par n="kajak__n"/></e>
+    <e lm="podręcznik"><i>podręcznik</i><par n="kajak__n"/></e>
+    <e lm="spójnik"><i>spójnik</i><par n="kajak__n"/></e>
+    <e lm="słonecznik"><i>słonecznik</i><par n="kajak__n"/></e>
+    <e lm="zwrotnik"><i>zwrotnik</i><par n="kajak__n"/></e>
+    <e lm="świerk"><i>świerk</i><par n="kajak__n"/></e>
+    <e lm="strajk"><i>strajk</i><par n="strajk__n"/></e>
+    <e lm="rok"><i>rok</i><par n="strajk__n"/></e>
     <e lm="dzięgiel"><i>dzięg</i><par n="dzięg/iel__n"/></e>
     <e lm="dzień"><i>d</i><par n="d/zień__n"/></e>
     <e lm="tydzień"><i>ty</i><par n="ty/dzień__n"/></e>
     <e lm="przeddzień"><i>przed</i><par n="przed/dzień__n"/></e>
+    <e lm="miesiąc"><i>miesi</i><par n="miesi/ąc__n"/></e>
     
     <e lm="barometr"><i>barometr</i><par n="mur__n"/></e>    
     <e lm="bar"><i>bar</i><par n="mur__n"/></e>    

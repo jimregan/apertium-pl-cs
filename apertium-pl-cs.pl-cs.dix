@@ -2147,12 +2147,13 @@
     <e><p><l>ścieżka<b/>rowerowa<s n="n"/></l><r>cyklostezka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orkiestra<b/>dęta<s n="n"/></l><r>dechovka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zapalenie<g><b/>skóry</g><s n="n"/><s n="nt"/></l><r>dermatitida<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>powieść<b/>detektywistyczna<s n="n"/></l><r>detektivka<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>strajk<b/>głodowy<s n="n"/></l><r>hladovka<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>kolej<b/>linowa<s n="n"/></l><r>lanovka<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>alfabet<b/>łaciński<s n="n"/></l><r>latinka<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bilet<b/>lotniczy<s n="n"/></l><r>letenka<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>zwolnienie<b/>lekarskie<s n="n"/></l><r>neschopenka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>powieść<b/>detektywistyczna<s n="n"/><s n="f"/></l><r>detektivka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>strajk<b/>głodowy<s n="n"/><s n="mi"/></l><r>hladovka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>strajk<s n="n"/><s n="mi"/></l><r>stávka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kolej<b/>linowa<s n="n"/><s n="f"/></l><r>lanovka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alfabet<b/>łaciński<s n="n"/><s n="mi"/></l><r>latinka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bilet<b/>lotniczy<s n="n"/><s n="mi"/></l><r>letenka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zwolnienie<b/>lekarskie<s n="n"/><s n="nt"/></l><r>neschopenka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lampa<b/>naftowa<s n="n"/></l><r>petrolejka<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>okręt<b/>podwodny<s n="n"/></l><r>ponorka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>łódź<b/>podwodna<s n="n"/></l><r>ponorka<s n="n"/><s n="f"/></r></p></e>
