@@ -26,6 +26,8 @@ dev/bidix-to-tag -text
 dev/cs.cnj-missing.txt -text
 dev/czech-top1000 -text
 dev/frek2apertium.pl -text
+dev/hitparade_cs -text
+dev/hitparade_pl -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/interwiki.cs-pl -text
