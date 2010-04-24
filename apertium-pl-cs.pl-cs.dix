@@ -1845,7 +1845,8 @@
     <e><p><l>ucho<s n="n"/><s n="nt"/></l><r>ucho<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>neurologia<s n="n"/><s n="f"/></l><r>neurologie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>niebo<s n="n"/><s n="nt"/><s n="sg"/></l><r>nebe<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>niebosa<s n="n"/><s n="nt"/><s n="pl"/></l><r>nebe<s n="n"/><s n="nt"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>niebosa<s n="n"/><s n="nt"/><s n="pl"/></l><r>nebe<s n="n"/><s n="nt"/><s n="pl"/></r></p></e>
+    <e><p><l>niebosa<s n="n"/><s n="nt"/><s n="pl"/></l><r>nebesa<s n="n"/><s n="nt"/><s n="pl"/></r></p></e>
     <e><p><l>neon<s n="n"/><s n="mi"/></l><r>neon<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>napój<s n="n"/><s n="mi"/></l><r>nápoj<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>miedź<s n="n"/><s n="f"/></l><r>měď<s n="n"/><s n="f"/></r></p></e>

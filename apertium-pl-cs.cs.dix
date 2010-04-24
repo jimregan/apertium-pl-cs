@@ -14348,6 +14348,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="nebes/a__n">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ům</l>
+          <r>a<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ích</l>
+          <r>a<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>a<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="moř/e__n">
       <e>
         <p>
@@ -21688,6 +21732,7 @@
     <e lm="nauka"><i>nau</i><par n="dý/ka__n"/></e>
     <e lm="nať"><i>na</i><par n="ři/ť__n"/></e>
     <e lm="nebe"><i>neb</i><par n="moř/e__n"/></e>
+    <e lm="nebesa"><i>nebes</i><par n="nebes/a__n"/></e>
     <e lm="nebožtík"><i>nebožtí</i><par n="vl/k__n"/></e>
     <e lm="neděle"><i>neděl</i><par n="šíj/e__n"/></e>
     <e lm="nekňuba"><i>nekňub</i><par n="poser/a__n"/></e>
