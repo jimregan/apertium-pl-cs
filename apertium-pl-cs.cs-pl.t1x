@@ -212,6 +212,41 @@
        </out>
      </action>
   </rule>
+  <rule>
+     <pattern>
+       <pattern-item n="adj"/>
+       <pattern-item n="nom"/>
+     </pattern>
+     <action>
+       <out>
+         <chunk name="adj_nom" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SN"/></tag>
+             <tag><clip pos="2" side="tl" part="gen"/></tag>
+             <tag><clip pos="2" side="tl" part="nbr"/></tag>
+             <tag><clip pos="2" side="tl" part="cas"/></tag>
+           </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="a_adj"/>
+             <clip pos="1" side="tl" part="gen" link-to="2"/>
+             <clip pos="1" side="tl" part="nbr" link-to="3"/>
+             <clip pos="1" side="tl" part="cas" link-to="4"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+           <b pos="1"/>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="a_nom"/>
+             <clip pos="2" side="tl" part="gen" link-to="2"/>
+             <clip pos="2" side="tl" part="nbr" link-to="3"/>
+             <clip pos="2" side="tl" part="cas" link-to="4"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+       </out>
+     </action>
+  </rule>
 
   <rule>
      <pattern>
@@ -268,43 +303,6 @@
        </out>
      </action>
   </rule>
-
-  <rule>
-     <pattern>
-       <pattern-item n="adj"/>
-       <pattern-item n="nom"/>
-     </pattern>
-     <action>
-       <out>
-         <chunk name="adj_nom" case="caseFirstWord">
-           <tags>
-             <tag><lit-tag v="SN"/></tag>
-             <tag><clip pos="2" side="tl" part="gen"/></tag>
-             <tag><clip pos="2" side="tl" part="nbr"/></tag>
-             <tag><clip pos="2" side="tl" part="cas"/></tag>
-           </tags>
-           <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="tl" part="a_adj"/>
-             <clip pos="2" side="tl" part="gen" link-to="2"/>
-             <clip pos="2" side="tl" part="nbr" link-to="3"/>
-             <clip pos="2" side="tl" part="cas" link-to="4"/>
-             <clip pos="1" side="tl" part="lemq"/>
-           </lu>
-           <b pos="1"/>
-           <lu>
-             <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="tl" part="a_nom"/>
-             <clip pos="2" side="tl" part="gen" link-to="2"/>
-             <clip pos="2" side="tl" part="nbr" link-to="3"/>
-             <clip pos="2" side="tl" part="cas" link-to="4"/>
-             <clip pos="2" side="tl" part="lemq"/>
-           </lu>
-         </chunk>
-       </out>
-     </action>
-  </rule>
-
 
 <!-- Reguły czasownikowe -->
 
