@@ -14338,6 +14338,87 @@
       </e>
 
     </pardef>
+    <pardef n="powin/ien__vaux">
+      <e>
+        <p>
+          <l>ienem</l>
+          <r>ien<s n="vaux"/><s n="p1"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nam</l>
+          <r>ien<s n="vaux"/><s n="p1"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ieneś</l>
+          <r>ien<s n="vaux"/><s n="p2"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>naś</l>
+          <r>ien<s n="vaux"/><s n="p2"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ien</l>
+          <r>ien<s n="vaux"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>na</l>
+          <r>ien<s n="vaux"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>no</l>
+          <r>ien<s n="vaux"/><s n="p3"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niśmy</l>
+          <r>ien<s n="vaux"/><s n="p1"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nyśmy</l>
+          <r>ien<s n="vaux"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niście</l>
+          <r>ien<s n="vaux"/><s n="p2"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nyście</l>
+          <r>ien<s n="vaux"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r>ien<s n="vaux"/><s n="p3"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ny</l>
+          <r>ien<s n="vaux"/><s n="p3"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="m/ieć__vbhaver">
       <e>
         <p>
@@ -34359,6 +34440,7 @@
     <e lm="móc"><i>m</i><par n="m/óc__vaux"/></e>
     <e lm="trzeba"><i>trzeba</i><par n="trzeba__vaux"/></e>
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
+    <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
     <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
     <e lm="przeczytać"><i>przeczyt</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="pojechać"><i>pojech</i><par n="przeczyt/ać__vblex"/></e>
