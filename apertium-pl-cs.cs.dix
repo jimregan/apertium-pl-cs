@@ -20869,6 +20869,7 @@
     <e lm="leč"><i>leč</i><par n="a__cnjcoo"/></e>
     <e lm="až"><i>až</i><par n="až__cnjsub"/></e>
     <e lm="že"><i>že</i><par n="až__cnjsub"/></e>
+    <e lm="když"><i>když</i><par n="až__cnjsub"/></e>
     <e lm="by"><i>by</i><par n="aby__cnjsub"/></e>
     <e lm="aby"><i>aby</i><par n="aby__cnjsub"/></e>
     <e lm="kdyby"><i>kdyby</i><par n="aby__cnjsub"/></e>
@@ -21012,7 +21013,6 @@
     <e lm="finanční"><par n="nej__adv"/><i>finančn</i><par n="finančn/í__adj"/></e>
     <e lm="úřední"><par n="nej__adv"/><i>úředn</i><par n="finančn/í__adj"/></e>
     <e lm="jarní"><par n="nej__adv"/><i>jarn</i><par n="finančn/í__adj"/></e>
-    <e lm="doplní"><par n="nej__adv"/><i>dopln</i><par n="finančn/í__adj"/></e>
 
     <e lm="další" i="yes"><i>dalš</i><par n="dalš/í__adj"/></e>
     <e lm="nový"><par n="nej__adv"/><i>nov</i><par n="nov/ý__adj"/></e>
@@ -21057,6 +21057,9 @@
     <e lm="podle"><p><l>podleji</l><r>podle</r></p><par n="dál__adv"/></e>
     <e lm="podle"><p><l>nejpodleji</l><r>podle</r></p><par n="nejdál__adv"/></e>
     <e lm="odtud"><i>odtud</i><par n="tehdy__adv"/></e>
+    <e lm="zde"><i>zde</i><par n="tehdy__adv"/></e>
+    <e lm="již"><i>již</i><par n="tehdy__adv"/></e>
+    <e lm="jen"><i>jen</i><par n="tehdy__adv"/></e>
     <e lm="ráno"><i>ráno</i><par n="tehdy__adv"/></e>
     <e lm="tehdy"><i>tehdy</i><par n="tehdy__adv"/></e>
     <e lm="ještě"><i>ještě</i><par n="tehdy__adv"/></e>
