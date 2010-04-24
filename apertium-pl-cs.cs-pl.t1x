@@ -29,6 +29,15 @@
      <cat-item lemma="být" tags="vbser.pres"/>
      <cat-item lemma="být" tags="vbser.pres.*"/>
   </def-cat>
+  <def-cat n="inf">
+     <cat-item tags="vbser.inf"/>
+     <cat-item tags="vblex.imperf.inf"/>
+     <cat-item tags="vblex.perf.inf"/>
+  </def-cat>
+  <def-cat n="haverpast">
+     <cat-item lemma="mít" tags="vbhaver.imperf.past"/>
+     <cat-item lemma="mít" tags="vbhaver.imperf.past.*"/>
+  </def-cat>
   <def-cat n="bytenc">
      <cat-item lemma="být" tags="vbser.pres.p1.sg"/>
      <cat-item lemma="být" tags="vbser.pres.p2.sg"/>
@@ -477,6 +486,36 @@
                 <clip pos="2" side="tl" part="nbr" link-to="3"/>
               </lu>
             </mlu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+  <rule comment="by mělo být -> powinno być">
+     <pattern>
+       <pattern-item n="by"/>
+       <pattern-item n="haverpast"/>
+       <pattern-item n="inf"/>
+     </pattern>
+     <action>
+       <out>
+         <chunk name="aux_inf" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="PD"/></tag>
+              <tag><clip pos="2" side="tl" part="gen"/></tag>
+              <tag><clip pos="2" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <lit v="powinien"/>
+              <lit-tag v="vaux"/>
+              <lit-tag v="2"/>
+              <clip pos="2" side="tl" part="gen" link-to="3"/>
+              <clip pos="2" side="tl" part="nbr" link-to="4"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
           </chunk>
         </out>
      </action>
