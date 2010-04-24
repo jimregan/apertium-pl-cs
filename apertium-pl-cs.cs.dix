@@ -21461,6 +21461,8 @@
     <e lm="héterizmus"><i>héterizm</i><par n="ile/us__n"/></e>
     <e lm="hřib"><i>hřib</i><par n="bor__n"/></e>
     <e lm="ichtyosaurus"><i>ichtyosaur</i><par n="géni/us__n"/></e>
+    <e lm="dinosaurus"><i>dinosaur</i><par n="géni/us__n"/></e>
+    <e lm="tyranosaurus"><i>tyranosaur</i><par n="géni/us__n"/></e>
     <e lm="idea"><i>ide</i><par n="ide/a__n"/></e>
     <e lm="ideogram"><i>ideogram</i><par n="bor__n"/></e>
     <e lm="idiom"><i>idiom</i><par n="bor__n"/></e>
