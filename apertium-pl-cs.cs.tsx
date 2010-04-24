@@ -246,6 +246,7 @@
   <prefer tags="prn.emph.p3.ma.pl.loc"/>
   <prefer tags="prn.emph.p3.f.sg.nom"/>
   <prefer tags="vbhaver.imperf.pres.p3.sg"/>
+  <prefer tags="vbser.pres.p3.sg"/>
 </preferences>
 
  <discard-on-ambiguity>
