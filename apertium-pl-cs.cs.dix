@@ -82,6 +82,7 @@
     <sdef n="preadv" c=""/>
     <sdef n="dim"    c=""/>
     <sdef n="ij"     c=""/>
+    <sdef n="percent" c=""/>
   </sdefs>
   <pardefs>
     <!-- Punctuation -->
@@ -130,7 +131,7 @@
         </p>
       </e>
       <e>
-        <re>[0-9]+</re>
+        <re>[0-9][0-9]+</re>
         <p>
           <l/>
           <r><s n="num"/><s n="qnt"/></r>
