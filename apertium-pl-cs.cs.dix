@@ -21003,6 +21003,7 @@
     <e lm="dánský"><par n="nej__adv"/><i>dán</i><par n="evrop/ský__adj"/></e>
     <e lm="jihoslovanský"><par n="nej__adv"/><i>jihoslovan</i><par n="evrop/ský__adj"/></e>
     <e lm="jizerský"><par n="nej__adv"/><i>jizer</i><par n="evrop/ský__adj"/></e>
+    <e lm="typický"><par n="nej__adv"/><i>typi</i><par n="exotermi/cký__adj"/></e>
     <e lm="exotermický"><par n="nej__adv"/><i>exotermi</i><par n="exotermi/cký__adj"/></e>
     <e lm="celý"><i>cel</i><par n="cel/ý__adj"/></e>
 
@@ -21064,6 +21065,7 @@
     <e lm="zároveň"><i>zároveň</i><par n="tehdy__adv"/></e>
     <e lm="ovšem"><i>ovšem</i><par n="tehdy__adv"/></e>
     <e lm="zatímco"><i>zatímco</i><par n="tehdy__adv"/></e>
+    <e lm="typicky"><i>typicky</i><par n="tehdy__adv"/></e>
 
     <!-- Nouns -->
 
@@ -21533,7 +21535,6 @@
     <e lm="cajk"><i>caj</i><par n="caj/k__n"/></e>
     <e lm="candát"><i>candát</i><par n="man__n"/></e>
     <e lm="cecky"><i>cec</i><par n="cec/ky__n"/></e>
-    <e lm="typicky"><i>typic</i><par n="cec/ky__n"/></e>
     <e lm="cejn"><i>cejn</i><par n="man__n"/></e>
     <e lm="cejnek"><i>cejn</i><par n="nác/ek__n"/></e>
     <e lm="cena"><i>cen</i><par n="dob/a__n"/></e>
