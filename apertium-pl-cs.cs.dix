@@ -20749,6 +20749,27 @@
         </p>
       </e>
     </pardef>
+    <pardef n="víkendov/ý__adj">
+      <e>
+        <p>
+          <l>í</l>
+          <r>ý<s n="adj"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>í</l>
+          <r>ý<s n="adj"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ý<s n="adj"/></r>
+        </p>
+        <par n="nov/ý__BASE"/>
+      </e>
+    </pardef>
     <pardef n="exotermi/cký__adj">
       <e>
         <p>
@@ -21005,6 +21026,7 @@
     <e lm="jizerský"><par n="nej__adv"/><i>jizer</i><par n="evrop/ský__adj"/></e>
     <e lm="typický"><par n="nej__adv"/><i>typi</i><par n="exotermi/cký__adj"/></e>
     <e lm="exotermický"><par n="nej__adv"/><i>exotermi</i><par n="exotermi/cký__adj"/></e>
+    <e lm="víkendový"><par n="nej__adv"/><i>víkendov</i><par n="víkendov/ý__adj"/></e>
     <e lm="celý"><i>cel</i><par n="cel/ý__adj"/></e>
 
     <!-- Adverbs -->
