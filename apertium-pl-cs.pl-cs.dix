@@ -2566,6 +2566,10 @@
     <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
     <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><i>1<s n="num"/><s n="sg"/></i></e>
+    <e><i>2<s n="num"/><s n="pl"/></i></e>
+    <e><i>3<s n="num"/><s n="pl"/></i></e>
+    <e><i>4<s n="num"/><s n="pl"/></i></e>
  
 
   </section>
