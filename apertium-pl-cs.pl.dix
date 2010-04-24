@@ -25468,6 +25468,54 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__ser">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="PBASE__bat"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ser__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/></r>
+        </p>
+        <par n="BASE__ser"/>
+      </e>
+    </pardef>
     <pardef n="z/ąb__n">
       <e>
         <p>
@@ -34827,6 +34875,7 @@
     <e lm="bat"><i>ba</i><par n="ba/t__n"/></e>
     <e lm="ametyst"><i>amety</i><par n="amety/st__n"/></e>
     <e lm="ząb"><i>z</i><par n="z/ąb__n"/></e>
+    <e lm="ser"><i>ser</i><par n="ser__n"/></e>
     <e a="kurnik" lm="akronim"><i>akronim</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="autobus"><i>autobus</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="hinduizm"><i>hinduizm</i><par n="sklep__n"/></e>
