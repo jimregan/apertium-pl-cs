@@ -328,22 +328,6 @@
       <e><p>          <l>ami</l><r>a<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
       <e><p>          <l>y</l><r>a<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
-    <pardef n="cha/ta__n_f">
-      <e><p>          <l>ta</l><r>ta<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p>          <l>tę</l><r>ta<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e><p>          <l>ty</l><r>ta<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e><p>          <l>cie</l><r>ta<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
-      <e><p>          <l>cie</l><r>ta<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
-      <e><p>          <l>tą</l><r>ta<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
-      <e><p>          <l>to</l><r>ta<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e><p>          <l>ty</l><r>ta<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p>          <l>ty</l><r>ta<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p>          <l>t</l><r>ta<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e><p>          <l>tom</l><r>ta<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e><p>          <l>tach</l><r>ta<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e><p>          <l>tami</l><r>ta<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
-      <e><p>          <l>ty</l><r>ta<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
-    </pardef>
     <pardef n="lodow/iec__n_mi">
       <e><p>          <l>iec</l><r>iec<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p>          <l>iec</l><r>iec<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -2204,7 +2188,6 @@
     <e lm="akademik"><i>akademik</i><par n="jajnik__n_mi"/></e>
     <e lm="aksjomat"><i>aksjoma</i><par n="hi/t__n"/></e>
     <e lm="ametyst"><i>amety</i><par n="li/st__n_mi"/></e>
-    <e lm="aorta"><i>aor</i><par n="cha/ta__n_f"/></e>
     <e lm="astronauta"><i>astronau</i><par n="astronau/ta__n_mp"/></e>
     <e lm="astronomia"><i>astronomi</i><par n="astronomi/a__n_ma"/></e>
     <e lm="atrament"><i>atramen</i><par n="hi/t__n"/></e>
@@ -2212,7 +2195,6 @@
     <e lm="bajt"><i>baj</i><par n="baj/t__n_mi"/></e>
     <e lm="banknot"><i>bankno</i><par n="hi/t__n"/></e>
     <e lm="bar"><i>bar</i><par n="bar__n_mi"/></e>
-    <e lm="batuta"><i>batu</i><par n="cha/ta__n_f"/></e>
     <e lm="beryl"><i>beryl</i><par n="tal__n_mi"/></e>
     <e lm="biblioteka"><i>bibliote</i><par n="nau/ka__n_f"/></e>
     <e lm="bitwa"><i>bit</i><par n="kur/wa__n_f"/></e>
@@ -2228,7 +2210,6 @@
     <e lm="byk"><i>byk</i><par n="byk__n_ma"/></e>
     <e lm="bóg"><i>b</i><par n="b/óg__n_mp"/></e>
     <e lm="cena"><i>cen</i><par n="analiz/a__n"/></e>
-    <e lm="chata"><i>cha</i><par n="cha/ta__n_f"/></e>
     <e lm="chleb"><i>chleb</i><par n="gram__n_mi"/></e>
     <e lm="chlew"><i>chlew</i><par n="chlew__n_mi"/></e>
     <e lm="chmura"><i>chmur</i><par n="kur/a__n_f"/></e>
@@ -2293,7 +2274,6 @@
     <e lm="kiur"><i>kiur</i><par n="kiur__n_mi"/></e>
     <e lm="klarnet"><i>klarne</i><par n="hi/t__n"/></e>
     <e lm="klasztor"><i>klasztor</i><par n="bar__n_mi"/></e>
-    <e lm="kobieta"><i>kobie</i><par n="cha/ta__n_f"/></e>
     <e lm="kogut"><i>kogu</i><par n="robo/t__n_ma"/></e>
     <e lm="komputer"><i>komputer</i><par n="kiur__n_mi"/></e>
     <e lm="korona"><i>koron</i><par n="analiz/a__n"/></e>
@@ -2327,7 +2307,6 @@
     <e lm="mieszkanie"><i>mieszka</i><par n="mieszka/nie__n_nt"/></e>
     <e lm="migdał"><i>migda</i><par n="migda/ł__n_mi"/></e>
     <e lm="minerał"><i>minera</i><par n="minera/ł__n_mi"/></e>
-    <e lm="minuta"><i>minu</i><par n="cha/ta__n_f"/></e>
     <e lm="mięso"><i>mięs</i><par n="nieb/o__n_nt"/></e>
     <e lm="monitor"><i>monitor</i><par n="kiur__n_mi"/></e>
     <e lm="morderca"><i>morderc</i><par n="morderc/a__n_mi"/></e>
@@ -2361,7 +2340,6 @@
     <e lm="pingwin"><i>pingwin</i><par n="ren__n_mi"/></e>
     <e lm="pizda"><i>pi</i><par n="pi/zda__n_f"/></e>
     <e lm="piątek"><i>piąt</i><par n="piąt/ek__n_mi"/></e>
-    <e lm="planeta"><i>plane</i><par n="cha/ta__n_f"/></e>
     <e lm="pochwa"><i>poch</i><par n="kur/wa__n_f"/></e>
     <e lm="pocisk"><i>pocisk</i><par n="lek__n_mi"/></e>
     <e lm="podręcznik"><i>podręcznik</i><par n="jajnik__n_mi"/></e>
@@ -2378,7 +2356,6 @@
     <e lm="rekin"><i>rekin</i><par n="rekin__n_ma"/></e>
     <e lm="ren"><i>ren</i><par n="ren__n_mi"/></e>
     <e lm="republika"><i>republi</i><par n="nau/ka__n_f"/></e>
-    <e lm="reszta"><i>resz</i><par n="cha/ta__n_f"/></e>
     <e lm="robot"><i>robo</i><par n="robo/t__n_ma"/></e>
     <e lm="rod"><i>rod</i><par n="rod__n_mi"/></e>
     <e lm="rok"><i></i><par n="/rok__n_mi"/></e>

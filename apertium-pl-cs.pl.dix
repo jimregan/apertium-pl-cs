@@ -34522,6 +34522,13 @@
     <e lm="cukrzyca"><i>cukrzyc</i><par n="ulic/a__n"/></e>
     <e lm="bitwa"><i>bit</i><par n="bit/wa__n"/></e>
     <e lm="kurwa"><i>kur</i><par n="bit/wa__n"/></e>
+
+    <e lm="kobieta"><i>kobie</i><par n="cha/ta__n"/></e>
+    <e lm="minuta"><i>minu</i><par n="cha/ta__n"/></e>
+    <e lm="planeta"><i>plane</i><par n="cha/ta__n"/></e>
+    <e lm="reszta"><i>resz</i><par n="cha/ta__n"/></e>
+
+
     <e lm="chata"><i>cha</i><par n="cha/ta__n"/></e>
     <e lm="aorta"><i>aor</i><par n="cha/ta__n"/></e>
     <e lm="batuta"><i>batu</i><par n="cha/ta__n"/></e>
