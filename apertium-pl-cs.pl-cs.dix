@@ -308,6 +308,7 @@
     <e r="LR"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     <e><p><l>kto<s n="prn"/><s n="itg"/><s n="mp"/></l><r>kdo<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
     <e><p><l>ktoś<s n="prn"/><s n="ind"/><s n="mp"/></l><r>někdo<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
+    <e r="LR"><p><l>który<s n="prn"/><s n="itg"/><s n="mp"/></l><r>který<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
     <e><p><l>który<s n="prn"/><s n="itg"/></l><r>který<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>niektóry<s n="prn"/><s n="ind"/></l><r>některý<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>którykolwiek<s n="prn"/><s n="ind"/></l><r>kterýkoliv<s n="prn"/><s n="ind"/></r></p></e>
@@ -319,8 +320,11 @@
     <e><p><l>oba<s n="prn"/><s n="ind"/></l><r>oba<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>się<s n="prn"/><s n="ref"/></l><r>se<s n="prn"/><s n="ref"/></r></p></e>
 
+    <e r="LR"><p><l>mój<s n="prn"/><s n="pos"/><s n="mp"/></l><r>můj<s n="prn"/><s n="pos"/><s n="ma"/></r></p></e>
     <e><p><l>mój<s n="prn"/><s n="pos"/></l><r>můj<s n="prn"/><s n="pos"/></r></p></e>
+    <e r="LR"><p><l>twój<s n="prn"/><s n="pos"/><s n="mp"/></l><r>tvůj<s n="prn"/><s n="pos"/><s n="ma"/></r></p></e>
     <e><p><l>twój<s n="prn"/><s n="pos"/></l><r>tvůj<s n="prn"/><s n="pos"/></r></p></e>
+    <e r="LR"><p><l>swój<s n="prn"/><s n="pos"/><s n="mp"/></l><r>svůj<s n="prn"/><s n="pos"/><s n="ma"/></r></p></e>
     <e><p><l>swój<s n="prn"/><s n="pos"/></l><r>svůj<s n="prn"/><s n="pos"/></r></p></e>
 <!--
      <e><p><l>co<b/>bądź<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
@@ -331,6 +335,7 @@
 -->
 
     <e><p><l>nic<s n="prn"/><s n="ind"/></l><r>nic<s n="prn"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>żaden<s n="prn"/><s n="ind"/><s n="mp"/></l><r>žádný<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
     <e><p><l>żaden<s n="prn"/><s n="ind"/></l><r>žádný<s n="prn"/><s n="ind"/></r></p></e>
 
     <e><p><l>gdzie<s n="rel"/><s n="adv"/></l><r>kde<s n="rel"/><s n="adv"/></r></p></e>
