@@ -212,8 +212,10 @@
     <e><p><l>jeśli<s n="cnjadv"/></l><r>jestli<s n="cnjadv"/></r></p></e>
     <e r="RL"><p><l>jeśli<s n="cnjadv"/></l><r>pokud<s n="cnjadv"/></r></p></e>
     <e><p><l>bowiem<s n="cnjadv"/></l><r>neboť<s n="cnjadv"/></r></p></e>
+    <e><p><l>bo<s n="cnjadv"/></l><r>nebo<s n="cnjadv"/></r></p></e>
     <e><p><l>dlatego<b/>że<s n="cnjadv"/></l><r>protože<s n="cnjadv"/></r></p></e>
     <e r="RL"><p><l>ponieważ<s n="cnjadv"/></l><r>poněvadž<s n="cnjadv"/></r></p></e>
+    <!--<e><p><l>ponieważ<s n="cnjadv"/></l><r>poněvadž<s n="cnjadv"/></r></p></e>-->
     <e r="LR"><p><l>ponieważ<s n="cnjadv"/></l><r>protože<s n="cnjadv"/></r></p></e>
     <e><p><l>aczkolwiek<s n="cnjadv"/></l><r>ačkoliv<s n="cnjadv"/></r></p></e>
     <e><p><l>jednak<s n="adv"/></l><r>ovšem<s n="adv"/></r></p></e>
@@ -224,7 +226,6 @@
     <e r="RL"><p><l>przecież<s n="cnjadv"/></l><r>však<s n="cnjadv"/></r></p></e>
     <e><p><l>dlatego<s n="cnjadv"/></l><r>proto<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>przeto<s n="cnjadv"/></l><r>proto<s n="cnjadv"/></r></p></e>
-    <e><p><l>ponieważ<s n="cnjadv"/></l><r>poněvadž<s n="cnjadv"/></r></p></e>
     <e><p><l>podczas<b/>gdy<s n="cnjadv"/></l><r>přitom<s n="cnjadv"/></r></p></e>
 
      <!-- Prepositions -->

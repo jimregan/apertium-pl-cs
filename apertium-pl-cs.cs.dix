@@ -5,6 +5,7 @@
     <sdef n="n"/>
     <sdef n="np"/>
     <sdef n="sent"/>
+    <sdef n="cm"/>
     <sdef n="num"/>
     <sdef n="rel"/>
     <sdef n="prn"/>
@@ -96,6 +97,16 @@
         </p>
       </e>
     </pardef>
+
+    <pardef n="coma">
+      <e>
+        <p>
+          <l>,</l>
+          <r>,<s n="cm"/></r>
+        </p>
+      </e>
+    </pardef>
+
  
     <!-- Abbreviations -->
 
@@ -20965,6 +20976,7 @@
     <e lm="přitom"><i>přitom</i><par n="jestli__cnjadv"/></e>
     <e lm="pokud"><i>pokud</i><par n="jestli__cnjadv"/></e>
     <e lm="neboť"><i>neboť</i><par n="jestli__cnjadv"/></e>
+    <e lm="nebo"><i>nebo</i><par n="jestli__cnjadv"/></e>
     <e lm="protože"><i>protože</i><par n="jestli__cnjadv"/></e>
     <e lm="poněvadž"><i>poněvadž</i><par n="jestli__cnjadv"/></e>
     <e lm="ačkoliv"><i>ačkoliv</i><par n="jestli__cnjadv"/></e>
@@ -23306,6 +23318,9 @@
     </e>
     <e>
       <par n="separa"/> 
+    </e>
+    <e>
+      <par n="coma"/> 
     </e>
   </section>
 
