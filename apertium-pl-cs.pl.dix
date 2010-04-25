@@ -35421,7 +35421,7 @@
     <e lm="siedemnaście"><i>siedemna</i><par n="jedena/ście__num"/></e>
     <e lm="osiemnaście"><i>osiemna</i><par n="jedena/ście__num"/></e>
     <e lm="dziewiętnaście"><i>dziewiętna</i><par n="jedena/ście__num"/></e>
-    <e lm="kilkanaście"><i>kilk</i><par n="dw/anaście__num"/></e>
+    <e lm="kilkanaście" i="yes"><i>kilk</i><par n="dw/anaście__num"/></e>
     <e lm="dwadzieścia"><i>dw</i><par n="dw/adzieścia__num"/></e>
     <e lm="trzydzieści"><i>trzydzie</i><par n="trzydzie/ści__num"/></e>
     <e lm="czterdzieści"><i>czterdzie</i><par n="trzydzie/ści__num"/></e>

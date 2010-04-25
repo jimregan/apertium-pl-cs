@@ -420,6 +420,19 @@
     <e><p><l>sto<s n="n"/><s n="nt"/><s n="pl"/></l><r>sto<s n="n"/><s n="nt"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>sto<s n="n"/><s n="nt"/><s n="pl"/></l><r>sto<s n="n"/><s n="nt"/><s n="du"/></r></p></e>
 
+    <e r="LR"><p><l>pięćset<s n="num"/><s n="qnt"/><s n="mp"/></l><r>pět<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+    <e><p><l>pięćset<s n="num"/><s n="qnt"/><s n="nm"/></l><r>pět<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>sześćset<s n="num"/><s n="qnt"/><s n="mp"/></l><r>šest<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+    <e><p><l>sześćset<s n="num"/><s n="qnt"/><s n="nm"/></l><r>šest<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>siedemset<s n="num"/><s n="qnt"/><s n="mp"/></l><r>sedm<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+    <e><p><l>siedemset<s n="num"/><s n="qnt"/><s n="nm"/></l><r>sedm<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>osiemset<s n="num"/><s n="qnt"/><s n="mp"/></l><r>osm<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+    <e><p><l>osiemset<s n="num"/><s n="qnt"/><s n="nm"/></l><r>osm<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>dziewięćset<s n="num"/><s n="qnt"/><s n="mp"/></l><r>devět<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+    <e><p><l>dziewięćset<s n="num"/><s n="qnt"/><s n="nm"/></l><r>devět<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
+
+
+
     <e r="LR"><p><l>kilka<s n="det"/><s n="qnt"/><s n="mp"/></l><r>několik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
     <e><p><l>kilka<s n="det"/><s n="qnt"/><s n="nm"/></l><r>několik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
 
@@ -2567,6 +2580,7 @@
     <e><p><l>cm<s n="abbr"/></l><r>cm<s n="abbr"/></r></p></e>
     <e><p><l>km<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
     <e><p><l>św<s n="abbr"/></l><r>sv<s n="abbr"/></r></p></e>
+    <e><p><l>nr<s n="abbr"/></l><r>č<s n="abbr"/></r></p></e>
 
      <!-- Punctuation -->
 
