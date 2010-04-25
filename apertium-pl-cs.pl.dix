@@ -16935,6 +16935,27 @@
         <par n="BASE__piwo"/>
       </e>
     </pardef>
+    <pardef n="l/ato__n">
+      <e>
+        <p>
+          <l>ecie</l>
+          <r>ato<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ato<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ato<s n="n"/></r>
+        </p>
+        <par n="BASE__piwo"/>
+      </e>
+    </pardef>
     <pardef n="jut/ro__n">
       <e>
         <p>
@@ -22404,6 +22425,42 @@
           <r>ota<s n="n"/></r>
         </p>
         <par n="BASE__sobota"/>
+      </e>
+    </pardef>
+    <pardef n="BASE__gra">
+      <e>
+        <p>
+          <l>rze</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rze</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ier</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>r</l>
+          <r></r>
+        </p>
+        <par n="PBASE__woda"/>
+      </e>
+    </pardef>
+    <pardef n="g/ra__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ra<s n="n"/></r>
+        </p>
+        <par n="BASE__gra"/>
       </e>
     </pardef>
     <pardef n="BASE__chata">
@@ -34227,6 +34284,8 @@
     <e lm="km"><i>km</i><par n="np__abbr"/></e>
     <e lm="kg"><i>kg</i><par n="np__abbr"/></e>
     <e lm="cm"><i>cm</i><par n="np__abbr"/></e>
+    <e lm="nr"><i>nr</i><par n="np__abbr"/></e>
+    <e lm="św"><i>św</i><par n="np__abbr"/></e>
 
     <e lm="ale"><i>ale</i><par n="i__cnjcoo"/></e>
     <e lm="i"><i>i</i><par n="i__cnjcoo"/></e>
@@ -34237,6 +34296,7 @@
     <e lm="czy"><i>czy</i><par n="i__cnjcoo"/></e>
     <e lm="niż"><i>niż</i><par n="i__cnjcoo"/></e>
     <e lm="ani"><i>ani</i><par n="i__cnjcoo"/></e>
+    <e lm="lub"><i>lub</i><par n="i__cnjcoo"/></e>
     <e lm="czyli"><i>czyli</i><par n="i__cnjcoo"/></e>
     <e lm="lecz"><i>lecz</i><par n="i__cnjcoo"/></e>
     <e lm="jeśli"><i>jeśli</i><par n="jeśli__cnjadv"/></e>
@@ -34645,6 +34705,7 @@
     <e lm="niech"><i>niech</i><par n="tu__adv"/></e>
     <e lm="niechaj"><i>niechaj</i><par n="tu__adv"/></e>
 
+    <e lm="nigdy"><i>nigdy</i><par n="tu__adv"/></e>
     <e lm="stąd"><i>stąd</i><par n="tu__adv"/></e>
     <e lm="niedaleko"><i>niedaleko</i><par n="tu__adv"/></e>
     <e lm="daleko"><i>daleko</i><par n="tu__adv"/></e>
@@ -34684,6 +34745,8 @@
     <e lm="jednak"><i>jednak</i><par n="tu__adv"/></e>
     <e lm="tymczasem"><i>tymczasem</i><par n="tu__adv"/></e>
     <e lm="typowo"><i>typowo</i><par n="tu__adv"/></e>
+    <e lm="też"><i>też</i><par n="tu__adv"/></e>
+    <e lm="nawet"><i>nawet</i><par n="tu__adv"/></e>
 
     <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="mieć"><i>m</i><par n="m/ieć__vbhaver"/></e>
@@ -34839,6 +34902,7 @@
     <e lm="auto"><i>au</i><par n="au/to__n"/></e>
     <e lm="niebo"><i>nieb</i><par n="nieb/o__n"/></e>
     <e lm="niebiosa"><i>niebi</i><par n="niebi/osa__n"/></e>
+    <e lm="lato"><i>l</i><par n="l/ato__n"/></e>
     <e lm="piwo"><i>piw</i><par n="piw/o__n"/></e>
     <e lm="rano"><i>ran</i><par n="piw/o__n"/></e>
     <e lm="drzewo"><i>drzew</i><par n="piw/o__n"/></e>
@@ -34953,6 +35017,8 @@
     <e lm="temperatura"><i>temperatur</i><par n="viagr/a__n"/></e>
     <e lm="góra"><i>gór</i><par n="viagr/a__n"/></e>
     <e lm="doba"><i>d</i><par n="d/oba__n"/></e>
+    <e lm="osoba"><i>os</i><par n="d/oba__n"/></e>
+    <e lm="gra"><i>g</i><par n="g/ra__n"/></e>
     <e lm="rzeka"><i>rze</i><par n="rze/ka__n"/></e>
     <e lm="biblioteka"><i>bibliote</i><par n="rze/ka__n"/></e>
     <e lm="pasta"><i>pa</i><par n="pa/sta__n"/></e>
