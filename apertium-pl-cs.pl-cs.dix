@@ -992,6 +992,7 @@
     <e><p><l>zło<s n="n"/><s n="nt"/></l><r>zlo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>mleko<s n="n"/><s n="nt"/></l><r>mléko<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>samochód<s n="n"/><s n="mi"/></l><r>auto<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>lato<s n="n"/><s n="nt"/></l><r>léto<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>wnuk<s n="n"/><s n="mp"/></l><r>vnuk<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>miasto<s n="n"/><s n="nt"/></l><r>město<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tur<s n="n"/><s n="ma"/></l><r>tur<s n="n"/><s n="ma"/></r></p></e>
@@ -2560,6 +2561,7 @@
     <e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
     <e><p><l>cm<s n="abbr"/></l><r>cm<s n="abbr"/></r></p></e>
     <e><p><l>km<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
+    <e><p><l>św<s n="abbr"/></l><r>sv<s n="abbr"/></r></p></e>
 
      <!-- Punctuation -->
 

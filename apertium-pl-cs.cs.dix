@@ -383,6 +383,26 @@
       <e>       <p>          <l>tech</l><r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
       <e>       <p>          <l>ty</l><r>to<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
+    <pardef n="l/éto__n">
+      <e>       <p>          <l>éto</l><r>éto<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>éta</l><r>éto<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>étu</l><r>éto<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>éto</l><r>éto<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>éto</l><r>éto<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>étu</l><r>éto<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e r="LR">       <p>          <l>étě</l><r>éto<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>étem</l><r>éto<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r></p></e>
+
+      <e>       <p>          <l>éta</l><r>éto<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>et</l><r>éto<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>étům</l><r>éto<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>éta</l><r>éto<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>éta</l><r>éto<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>étech</l><r>éto<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e r="LR">       <p>          <l>etech</l><r>éto<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>éty</l><r>éto<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e r="LR">       <p>          <l>ety</l><r>éto<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
+    </pardef>
 
     <pardef n="kolik__det"> 
       <!-- kolik 'how many', několik 'several', tolik 'so many', and mnoho 'much, many' all 
@@ -21662,6 +21682,7 @@
     <e lm="atestace"><i>atestac</i><par n="šíj/e__n"/></e>
     <e lm="atom"><i>atom</i><par n="bor__n"/></e>
     <e lm="auto"><i>aut</i><par n="aut/o__n"/></e>
+    <e lm="léto"><i>l</i><par n="l/éto__n"/></e>
     <e lm="automobil"><i>automobil</i><par n="bor__n"/></e>
     <e lm="autoremedura"><i>autoremedu</i><par n="sí/ra__n"/></e>
     <e lm="axiologie"><i>axiologi</i><par n="šíj/e__n"/></e>
@@ -23154,6 +23175,7 @@
     <e lm="cm"><i>cm</i><par n="např__abbr"/></e>
     <e lm="km"><i>km</i><par n="např__abbr"/></e>
     <e lm="kg"><i>kg</i><par n="např__abbr"/></e>
+    <e lm="sv"><i>sv</i><par n="např__abbr"/></e>
 
     <e lm="ahoj"><i>ahoj</i><par n="ahoj__ij"/></e>
     <e lm="dobrý den"><i>dobrý<b/>den</i><par n="ahoj__ij"/></e>
