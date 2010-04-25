@@ -120,6 +120,16 @@
      <attr-item tags="adj.itg"/>
   </def-attr>
 
+  <def-attr n="a_adv">
+     <attr-item tags="adv"/>
+     <attr-item tags="adv.comp"/>
+     <attr-item tags="adv.sup"/>
+     <attr-item tags="adv.sint"/>
+     <attr-item tags="adv.sint.comp"/>
+     <attr-item tags="adv.sint.sup"/>
+     <attr-item tags="adv.itg"/>
+  </def-attr>
+
   <def-attr n="a_prn">
      <attr-item tags="prn"/>
      <attr-item tags="prn.ind"/>
@@ -146,6 +156,11 @@
      <attr-item tags="p1"/>
      <attr-item tags="p2"/>
      <attr-item tags="p3"/>
+  </def-attr>
+
+  <def-attr n="grau_adj">
+     <attr-item tags="comp"/>
+     <attr-item tags="sup"/>
   </def-attr>
 
   <def-attr n="asp">
@@ -180,6 +195,8 @@
   <def-var n="EOS" v="true"/>
   <def-var n="caseFirstWord"/>
   <def-var n="prep_lem"/>
+  <def-var n="adv_adjectiu"/>
+  <def-var n="superlatiu1"/>
 </section-def-vars>
 <section-def-lists>
   <def-list n="dat_prep">
@@ -275,6 +292,175 @@
         <lit v="false"/>
       </let>
     </def-macro>
+    <def-macro n="adv_adj" npar="2"><!-- (per a fer el comparatiu si cal: 'més fosc' = darker; i també per a canviar 'well' per 'very' davant adjectius )". En les regles, és obligatori que s'executi després de la macro 'f_superlatiu1' aplicada a l'adjectiu. -->
+	<choose>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="nej"/>
+		</equal>
+                <or>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint.comp"/>
+		  </equal>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+                </or>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		  <lit-tag v="sup"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="hodně"/>
+		</equal>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="a_adv"/> 
+		  <lit-tag v="adv.sint.comp"/>
+		</equal>
+		<equal>
+		  <clip pos="2" side="tl" part="a_adj"/> 
+		  <lit-tag v="adj.sint"/>
+		</equal>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		  <lit-tag v="comp"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="hodně"/>
+		</equal>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="a_adv"/> 
+		  <lit-tag v="adv.sint.sup"/>
+		</equal>
+		<equal>
+		  <clip pos="2" side="tl" part="a_adj"/> 
+		  <lit-tag v="adj.sint"/>
+		</equal>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		  <lit-tag v="sup"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="hodně"/>
+		</equal>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="a_adv"/> 
+		  <lit-tag v="adv.sint.comp"/>
+		</equal>
+                <not>
+  		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+                </not>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+                  <lit v="bardzo"/>
+                  <lit-tag v="adv.sint.comp"/>
+                  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="hodně"/>
+		</equal>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="a_adv"/> 
+		  <lit-tag v="adv.sint.sup"/>
+		</equal>
+                <not>
+  		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+                </not>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+                  <lit v="bardzo"/>
+                  <lit-tag v="adv.sint.sup"/>
+                  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <otherwise>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="1" side="tl" part="whole"/> 
+		  <lit v="$ ^"/>
+		  <var n="superlatiu1"/>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </otherwise>
+	</choose>
+		
+</def-macro>
 
 </section-def-macros>
 <section-rules>
@@ -386,6 +572,10 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="adv_adj">
+         <with-param pos="1"/>
+         <with-param pos="2"/>
+       </call-macro>
        <out>
          <chunk name="adv_adj" case="caseFirstWord">
            <tags>
@@ -395,16 +585,7 @@
              <tag><clip pos="2" side="tl" part="cas"/></tag>
            </tags>
            <lu>
-             <clip pos="1" side="tl" part="whole"/>
-           </lu>
-           <b pos="1"/>
-           <lu>
-             <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="tl" part="a_adj"/>
-             <clip pos="2" side="tl" part="gen" link-to="2"/>
-             <clip pos="2" side="tl" part="nbr" link-to="3"/>
-             <clip pos="2" side="tl" part="cas" link-to="4"/>
-             <clip pos="2" side="tl" part="lemq"/>
+             <var n="adv_adjectiu"/>
            </lu>
          </chunk>
        </out>
