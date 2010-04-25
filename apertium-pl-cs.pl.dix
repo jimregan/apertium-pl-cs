@@ -34999,6 +34999,7 @@
     <e lm="z wyjątkiem"><p><l>z<b/>wyjątkiem</l><r>z<b/>wyjątkiem<s n="pr"/></r></p></e>
     <e lm="bez względu na"><p><l>bez<b/>względu<b/>na</l><r>bez<b/>względu<b/>na<s n="pr"/></r></p></e>
     <e lm="ze względu na"><p><l>ze<b/>względu<b/>na</l><r>ze<b/>względu<b/>na<s n="pr"/></r></p></e>
+    <e lm="z względu na" r="LR"><p><l>z<b/>względu<b/>na</l><r>ze<b/>względu<b/>na<s n="pr"/></r></p></e>
     <e lm="z powodu"><p><l>z<b/>powodu</l><r>z<b/>powodu<s n="pr"/></r></p></e>
     <e lm="względem"><p><l>względem</l><r>względem<s n="pr"/></r></p></e>
     <e lm="ku woli"><p><l>ku<b/>woli</l><r>ku<b/>woli<s n="pr"/></r></p></e>
