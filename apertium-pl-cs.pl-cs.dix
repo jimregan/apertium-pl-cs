@@ -611,6 +611,7 @@
     <e><p><l>codzienny<s n="adj"/></l><r>denní<s n="adj"/></r></p></e>
     <e><p><l>cotygodniowo<s n="adv"/></l><r>týdně<s n="adv"/></r></p></e>
     <e><p><l>cudzołóstwo<s n="n"/><s n="nt"/></l><r>cizoložství<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>królestwo<s n="n"/><s n="nt"/></l><r>království<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>do<b/>góry<b/>nogami<s n="adv"/></l><r>vzhůru<b/>nohama<s n="adv"/></r></p></e>
     <e><p><l>czekać<s n="vblex"/></l><r>čekat<s n="vblex"/></r></p></e>
     <e><p><l>czekolada<s n="n"/><s n="f"/></l><r>čokoláda<s n="n"/><s n="f"/></r></p></e>
@@ -2621,6 +2622,9 @@
     <e><p><l>Nowa<b/>Zelandia<s n="np"/><s n="top"/><s n="f"/></l><r>Nový<b/>Zéland<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Biała<b/>Podlaska<s n="np"/><s n="top"/><s n="f"/></l><r>Biała<b/>Podlaska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Azja<b/>Mniejsza<s n="np"/><s n="top"/><s n="f"/></l><r>Malá<b/>Asie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Republika<b/>Czeska<s n="np"/><s n="top"/><s n="f"/></l><r>Česká<b/>Republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Republika<b/>Irlandzka<s n="np"/><s n="top"/><s n="f"/></l><r>Irská<b/>Republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Republika<g><b/>Irlandii</g><s n="np"/><s n="top"/><s n="f"/></l><r>Irská<b/>Republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
     <e><p><l>Morze<b/>Bałtyckie<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Baltské<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
     <e><p><l>Morze<b/>Czarne<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Černé<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>

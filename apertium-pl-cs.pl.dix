@@ -34655,6 +34655,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Republi/ka__np">
+      <e>
+        <p>
+          <l>ka</l>
+          <r>ka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ki</l>
+          <r>ka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ce</l>
+          <r>ka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kę</l>
+          <r>ka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ką</l>
+          <r>ka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ce</l>
+          <r>ka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ko</l>
+          <r>ka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Kowals/ki__np">
       <e>
         <p>
@@ -35661,6 +35705,7 @@
     <e lm="rano"><i>ran</i><par n="piw/o__n"/></e>
     <e lm="drzewo"><i>drzew</i><par n="piw/o__n"/></e>
     <e lm="cudzołóstwo"><i>cudzołóstw</i><par n="piw/o__n"/></e>
+    <e lm="królestwo"><i>królestw</i><par n="piw/o__n"/></e>
     <e lm="miasto"><i>mi</i><par n="mi/asto__n"/></e>
     <e lm="ciasto"><i>ci</i><par n="mi/asto__n"/></e>
     <e lm="maj"><i>maj</i><par n="maj__n"/></e>
@@ -37085,6 +37130,7 @@
     <e lm="Kozyra"><i>Kozyr</i><par n="Kozyr/a__np"/></e>
 
     <e lm="Bielsko-Biała"><i>Bielsk</i><par n="Bielsk/o-Biała__np"/></e>
+    <e lm="Republika Irlandii"><i>Republi</i><par n="Republi/ka__np"/><p><l><b/>Irlandii</l><r><g><b/>Irlandii</g></r></p></e>
     <e lm="Poznań"><i>Pozna</i><par n="Pozna/ń__np"/></e>
     <e lm="Toruń"><i>Toru</i><par n="Pozna/ń__np"/></e>
     <e lm="Tyrol"><i>Tyrol</i><par n="Tyrol__np"/></e>
@@ -38000,6 +38046,92 @@
     <p>
       <l>Papuo-Nowa<b/>Gwineo</l>
       <r>Papua-Nowa<b/>Gwinea<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- Republika Czeska -->
+  <e>
+    <p>
+      <l>Republika<b/>Czeska</l>
+      <r>Republika<b/>Czeska<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republiki<b/>Czeskiej</l>
+      <r>Republika<b/>Czeska<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republice<b/>Czeskiej</l>
+      <r>Republika<b/>Czeska<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republikę<b/>Czeską</l>
+      <r>Republika<b/>Czeska<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republiką<b/>Czeską</l>
+      <r>Republika<b/>Czeska<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republice<b/>Czeskiej</l>
+      <r>Republika<b/>Czeska<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republiko<b/>Czeska</l>
+      <r>Republika<b/>Czeska<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- Republika Irlandzka -->
+  <e>
+    <p>
+      <l>Republika<b/>Irlandzka</l>
+      <r>Republika<b/>Irlandzka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republiki<b/>Irlandzkiej</l>
+      <r>Republika<b/>Irlandzka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republice<b/>Irlandzkiej</l>
+      <r>Republika<b/>Irlandzka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republikę<b/>Irlandzką</l>
+      <r>Republika<b/>Irlandzka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republiką<b/>Irlandzką</l>
+      <r>Republika<b/>Irlandzka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republice<b/>Irlandzkiej</l>
+      <r>Republika<b/>Irlandzka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Republiko<b/>Irlandzka</l>
+      <r>Republika<b/>Irlandzka<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
     </p>
   </e>
   <!-- Nowa Gwinea -->
