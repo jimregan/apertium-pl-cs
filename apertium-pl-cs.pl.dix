@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-  <alphabet>AaÁáÄäBbCcČčDdĎďEeÉéFfGgHhIiÍíJjKkLlĽľĹĺMmNnŇňOoÓóÔôPpQqRrŔŕSsŠšTtŤťUuÚúVvWwXxYyÝýZzŽžĄąĆćĘęŁłŃńÓóŚśQqŻżŹź</alphabet>
+  <alphabet>AaÁáÄäBbCcČčDdĎďEeÉéFfGgHhIiÍíJjKkLlĽľĹĺMmNnŇňOoÓóÔôPpQqRrŔŕSsŠšTtŤťUuÚúVvWwXxYyÝýZzŽžĄąĆćĘęŁłŃńÓóŚśQqŻżŹźÁČĎÉĚÍŇŘŠŤÚŮÝŽáčďéěíňřšťúůýž</alphabet>
   <sdefs>
     <!-- części mowy -->
     <sdef n="n"       c="rzeczownik"/>   
@@ -17245,7 +17245,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="np"/><s n="ant"/><s n="dim"/></r>
+          <r><s n="np"/><s n="ant"/><s n="mp"/><s n="dim"/></r>
         </p>
         <par n="BASE__Marek"/>
       </e>
@@ -23431,7 +23431,7 @@
       <e>
         <p>
           <l></l>
-          <r>ta<s n="np"/><s n="ant"/><s n="dim"/></r>
+          <r>ta<s n="np"/><s n="ant"/><s n="f"/><s n="dim"/></r>
         </p>
         <par n="BASE__matka"/>
       </e>
@@ -23440,7 +23440,7 @@
       <e>
         <p>
           <l></l>
-          <r>a<s n="np"/><s n="ant"/><s n="dim"/></r>
+          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="dim"/></r>
         </p>
         <par n="BASE__matka"/>
       </e>
@@ -23449,7 +23449,7 @@
       <e>
         <p>
           <l></l>
-          <r>na<s n="np"/><s n="ant"/><s n="dim"/></r>
+          <r>na<s n="np"/><s n="ant"/><s n="f"/><s n="dim"/></r>
         </p>
         <par n="BASE__matka"/>
       </e>
@@ -23458,7 +23458,7 @@
       <e>
         <p>
           <l></l>
-          <r>sia<s n="np"/><s n="ant"/><s n="dim"/></r>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="dim"/></r>
         </p>
         <par n="BASE__Gośka"/>
       </e>
@@ -36918,6 +36918,168 @@
     <e lm="Tadek"><i>Tad</i><par n="Mar/ek__np"/></e>
     <e lm="Rysiek"><i>Ry</i><par n="Ry/siek__np"/></e>
     <e lm="Stasiek"><i>Sta</i><par n="Ry/siek__np"/></e>
+    <e lm="Agáta"><i>Agá</i><par n="Bea/ta__np"/></e>
+    <e lm="Agáta"><i>Agá</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Alberta"><i>Alber</i><par n="Bea/ta__np"/></e>
+    <e lm="Alberta"><i>Alber</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Aneta"><i>Ane</i><par n="Bea/ta__np"/></e>
+    <e lm="Aneta"><i>Ane</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Anita"><i>Ani</i><par n="Bea/ta__np"/></e>
+    <e lm="Anita"><i>Ani</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Augusta"><i>Augus</i><par n="Bea/ta__np"/></e>
+    <e lm="Augusta"><i>Augus</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Berta"><i>Ber</i><par n="Bea/ta__np"/></e>
+    <e lm="Berta"><i>Ber</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Charlotta"><i>Charlot</i><par n="Bea/ta__np"/></e>
+    <e lm="Charlotta"><i>Charlot</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Delvita"><i>Delvi</i><par n="Bea/ta__np"/></e>
+    <e lm="Delvita"><i>Delvi</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Edita"><i>Edi</i><par n="Bea/ta__np"/></e>
+    <e lm="Edita"><i>Edi</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Evita"><i>Evi</i><par n="Bea/ta__np"/></e>
+    <e lm="Evita"><i>Evi</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Gréta"><i>Gré</i><par n="Bea/ta__np"/></e>
+    <e lm="Gréta"><i>Gré</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Iveta"><i>Ive</i><par n="Bea/ta__np"/></e>
+    <e lm="Iveta"><i>Ive</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Judita"><i>Judi</i><par n="Bea/ta__np"/></e>
+    <e lm="Judita"><i>Judi</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Lolita"><i>Loli</i><par n="Bea/ta__np"/></e>
+    <e lm="Lolita"><i>Loli</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Margareta"><i>Margare</i><par n="Bea/ta__np"/></e>
+    <e lm="Margareta"><i>Margare</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Margita"><i>Margi</i><par n="Bea/ta__np"/></e>
+    <e lm="Margita"><i>Margi</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Markéta"><i>Marké</i><par n="Bea/ta__np"/></e>
+    <e lm="Markéta"><i>Marké</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Marta"><i>Mar</i><par n="Bea/ta__np"/></e>
+    <e lm="Marta"><i>Mar</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Renata"><i>Rena</i><par n="Bea/ta__np"/></e>
+    <e lm="Renata"><i>Rena</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Rita"><i>Ri</i><par n="Bea/ta__np"/></e>
+    <e lm="Rita"><i>Ri</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Roberta"><i>Rober</i><par n="Bea/ta__np"/></e>
+    <e lm="Roberta"><i>Rober</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Valetta"><i>Valet</i><par n="Bea/ta__np"/></e>
+    <e lm="Valetta"><i>Valet</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Yvetta"><i>Yvet</i><par n="Bea/ta__np"/></e>
+    <e lm="Yvetta"><i>Yvet</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Eva"><i>Ev</i><par n="Iz/a__np"/></e>
+    <e lm="Eva"><i>Ev</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Adina"><i>Adin</i><par n="Iz/a__np"/></e>
+    <e lm="Adina"><i>Adin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Adriana"><i>Adrian</i><par n="Iz/a__np"/></e>
+    <e lm="Adriana"><i>Adrian</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Alana"><i>Alan</i><par n="Iz/a__np"/></e>
+    <e lm="Alana"><i>Alan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Blažena"><i>Blažen</i><par n="Iz/a__np"/></e>
+    <e lm="Blažena"><i>Blažen</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Bohdana"><i>Bohdan</i><par n="Iz/a__np"/></e>
+    <e lm="Bohdana"><i>Bohdan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Boleslava"><i>Boleslav</i><par n="Iz/a__np"/></e>
+    <e lm="Boleslava"><i>Boleslav</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Božena"><i>Božen</i><par n="Iz/a__np"/></e>
+    <e lm="Božena"><i>Božen</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Carolina"><i>Carolin</i><par n="Iz/a__np"/></e>
+    <e lm="Carolina"><i>Carolin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Donna"><i>Donn</i><par n="Iz/a__np"/></e>
+    <e lm="Donna"><i>Donn</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Elena"><i>Elen</i><par n="Iz/a__np"/></e>
+    <e lm="Elena"><i>Elen</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Gábina"><i>Gábin</i><par n="Iz/a__np"/></e>
+    <e lm="Gábina"><i>Gábin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Galina"><i>Galin</i><par n="Iz/a__np"/></e>
+    <e lm="Galina"><i>Galin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Gina"><i>Gin</i><par n="Iz/a__np"/></e>
+    <e lm="Gina"><i>Gin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Irina"><i>Irin</i><par n="Iz/a__np"/></e>
+    <e lm="Irina"><i>Irin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Iva"><i>Iv</i><par n="Iz/a__np"/></e>
+    <e lm="Iva"><i>Iv</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Ivana"><i>Ivan</i><par n="Iz/a__np"/></e>
+    <e lm="Ivana"><i>Ivan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Ivona"><i>Ivon</i><par n="Iz/a__np"/></e>
+    <e lm="Ivona"><i>Ivon</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Jana"><i>Jan</i><par n="Iz/a__np"/></e>
+    <e lm="Jana"><i>Jan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Jaroslava"><i>Jaroslav</i><par n="Iz/a__np"/></e>
+    <e lm="Jaroslava"><i>Jaroslav</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Jelena"><i>Jelen</i><par n="Iz/a__np"/></e>
+    <e lm="Jelena"><i>Jelen</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Jena"><i>Jen</i><par n="Iz/a__np"/></e>
+    <e lm="Jena"><i>Jen</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Jiřina"><i>Jiřin</i><par n="Iz/a__np"/></e>
+    <e lm="Jiřina"><i>Jiřin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Joana"><i>Joan</i><par n="Iz/a__np"/></e>
+    <e lm="Joana"><i>Joan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Johana"><i>Johan</i><par n="Iz/a__np"/></e>
+    <e lm="Johana"><i>Johan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Johanna"><i>Johann</i><par n="Iz/a__np"/></e>
+    <e lm="Johanna"><i>Johann</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Jolana"><i>Jolan</i><par n="Iz/a__np"/></e>
+    <e lm="Jolana"><i>Jolan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Josefa"><i>Josef</i><par n="Iz/a__np"/></e>
+    <e lm="Josefa"><i>Josef</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Josefína"><i>Josefín</i><par n="Iz/a__np"/></e>
+    <e lm="Josefína"><i>Josefín</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Karolína"><i>Karolín</i><par n="Iz/a__np"/></e>
+    <e lm="Karolína"><i>Karolín</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Katarina"><i>Katarin</i><par n="Iz/a__np"/></e>
+    <e lm="Katarina"><i>Katarin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Kateřina"><i>Kateřin</i><par n="Iz/a__np"/></e>
+    <e lm="Kateřina"><i>Kateřin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Kristina"><i>Kristin</i><par n="Iz/a__np"/></e>
+    <e lm="Kristina"><i>Kristin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Kristýna"><i>Kristýn</i><par n="Iz/a__np"/></e>
+    <e lm="Kristýna"><i>Kristýn</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Lana"><i>Lan</i><par n="Iz/a__np"/></e>
+    <e lm="Lana"><i>Lan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Madona"><i>Madon</i><par n="Iz/a__np"/></e>
+    <e lm="Madona"><i>Madon</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Madonna"><i>Madonn</i><par n="Iz/a__np"/></e>
+    <e lm="Madonna"><i>Madonn</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Magdaléna"><i>Magdalén</i><par n="Iz/a__np"/></e>
+    <e lm="Magdaléna"><i>Magdalén</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Mahulena"><i>Mahulen</i><par n="Iz/a__np"/></e>
+    <e lm="Mahulena"><i>Mahulen</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Martina"><i>Martin</i><par n="Iz/a__np"/></e>
+    <e lm="Martina"><i>Martin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Miloslava"><i>Miloslav</i><par n="Iz/a__np"/></e>
+    <e lm="Miloslava"><i>Miloslav</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Minerva"><i>Minerv</i><par n="Iz/a__np"/></e>
+    <e lm="Minerva"><i>Minerv</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Miroslava"><i>Miroslav</i><par n="Iz/a__np"/></e>
+    <e lm="Miroslava"><i>Miroslav</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Mona"><i>Mon</i><par n="Iz/a__np"/></e>
+    <e lm="Mona"><i>Mon</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Olina"><i>Olin</i><par n="Iz/a__np"/></e>
+    <e lm="Olina"><i>Olin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Roxana"><i>Roxan</i><par n="Iz/a__np"/></e>
+    <e lm="Roxana"><i>Roxan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Stanislava"><i>Stanislav</i><par n="Iz/a__np"/></e>
+    <e lm="Stanislava"><i>Stanislav</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Světlana"><i>Světlan</i><par n="Iz/a__np"/></e>
+    <e lm="Světlana"><i>Světlan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Taťána"><i>Taťán</i><par n="Iz/a__np"/></e>
+    <e lm="Taťána"><i>Taťán</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Taťjana"><i>Taťjan</i><par n="Iz/a__np"/></e>
+    <e lm="Taťjana"><i>Taťjan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Valentina"><i>Valentin</i><par n="Iz/a__np"/></e>
+    <e lm="Valentina"><i>Valentin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Valentýna"><i>Valentýn</i><par n="Iz/a__np"/></e>
+    <e lm="Valentýna"><i>Valentýn</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Viviana"><i>Vivian</i><par n="Iz/a__np"/></e>
+    <e lm="Viviana"><i>Vivian</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Vladislava"><i>Vladislav</i><par n="Iz/a__np"/></e>
+    <e lm="Vladislava"><i>Vladislav</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Yvona"><i>Yvon</i><par n="Iz/a__np"/></e>
+    <e lm="Yvona"><i>Yvon</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Zdislava"><i>Zdislav</i><par n="Iz/a__np"/></e>
+    <e lm="Zdislava"><i>Zdislav</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Žitava"><i>Žitav</i><par n="Iz/a__np"/></e>
+    <e lm="Žitava"><i>Žitav</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Zuzana"><i>Zuzan</i><par n="Iz/a__np"/></e>
+    <e lm="Zuzana"><i>Zuzan</i><par n="Iz/ka__np_dim"/></e>
 
     <e lm="Mikulicz"><i>Mikulicz</i><par n="Mikulicz__np"/></e>
     <e lm="Kozyra"><i>Kozyr</i><par n="Kozyr/a__np"/></e>

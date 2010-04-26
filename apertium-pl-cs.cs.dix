@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-  <alphabet>AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž</alphabet>
+  <alphabet>AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzžĄĆĘŃŚŻŹŁąćęńśżźł</alphabet>
   <sdefs>
     <sdef n="n"/>
     <sdef n="np"/>
@@ -3217,90 +3217,117 @@
         </p>
       </e>
     </pardef>
-    <pardef n="dív/ka__n">
+    <pardef n="BASE__dívka">
       <e>
         <p>
           <l>ka</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ky</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ky</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ek</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ce</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kám</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ku</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ky</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ko</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ky</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ce</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kách</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kou</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kami</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="dív/ka__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ka<s n="n"/></r>
+        </p>
+        <par n="BASE__dívka"/>
+      </e>
+    </pardef>
+    <pardef n="Blan/ka__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__dívka"/>
+      </e>
+    </pardef>
+    <pardef n="Markét/ka__np">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="dim"/></r>
+        </p>
+        <par n="BASE__dívka"/>
       </e>
     </pardef>
     <pardef n="dob/a__n">
@@ -23671,6 +23698,234 @@
     <e lm="Fryderyka"><i>Frydery</i><par n="Moni/ka__np"/></e>
     <e lm="Monika"><i>Moni</i><par n="Moni/ka__np"/></e>
     <e lm="Ludwika"><i>Ludwi</i><par n="Moni/ka__np"/></e>
+    <e lm="Agnieszka"><i>Agniesz</i><par n="Blan/ka__np"/></e>
+    <e lm="Blanka"><i>Blan</i><par n="Blan/ka__np"/></e>
+    <e lm="Eva"><i>Ev</i><par n="Ann/a__np"/></e>
+    <e lm="Ewa"><i>Ew</i><par n="Ann/a__np"/></e>
+    <e lm="Ada"><i>Ad</i><par n="Ann/a__np"/></e>
+    <e lm="Adina"><i>Adin</i><par n="Ann/a__np"/></e>
+    <e lm="Adriana"><i>Adrian</i><par n="Ann/a__np"/></e>
+    <e lm="Agáta"><i>Agát</i><par n="Ann/a__np"/></e>
+    <e lm="Alana"><i>Alan</i><par n="Ann/a__np"/></e>
+    <e lm="Alberta"><i>Albert</i><par n="Ann/a__np"/></e>
+    <e lm="Alma"><i>Alm</i><par n="Ann/a__np"/></e>
+    <e lm="Alžběta"><i>Alžbět</i><par n="Ann/a__np"/></e>
+    <e lm="Amanda"><i>Amand</i><par n="Ann/a__np"/></e>
+    <e lm="Aneta"><i>Anet</i><par n="Ann/a__np"/></e>
+    <e lm="Anita"><i>Anit</i><par n="Ann/a__np"/></e>
+    <e lm="Augusta"><i>August</i><par n="Ann/a__np"/></e>
+    <e lm="Beata"><i>Beat</i><par n="Ann/a__np"/></e>
+    <e lm="Berta"><i>Bert</i><par n="Ann/a__np"/></e>
+    <e lm="Blažena"><i>Blažen</i><par n="Ann/a__np"/></e>
+    <e lm="Bohdana"><i>Bohdan</i><par n="Ann/a__np"/></e>
+    <e lm="Boleslava"><i>Boleslav</i><par n="Ann/a__np"/></e>
+    <e lm="Božena"><i>Božen</i><par n="Ann/a__np"/></e>
+    <e lm="Breda"><i>Bred</i><par n="Ann/a__np"/></e>
+    <e lm="Brenda"><i>Brend</i><par n="Ann/a__np"/></e>
+    <e lm="Carolina"><i>Carolin</i><par n="Ann/a__np"/></e>
+    <e lm="Charlotta"><i>Charlott</i><par n="Ann/a__np"/></e>
+    <e lm="Dana"><i>Dan</i><par n="Ann/a__np"/></e>
+    <e lm="Delvita"><i>Delvit</i><par n="Ann/a__np"/></e>
+    <e lm="Diana"><i>Dian</i><par n="Ann/a__np"/></e>
+    <e lm="Donna"><i>Donn</i><par n="Ann/a__np"/></e>
+    <e lm="Edita"><i>Edit</i><par n="Ann/a__np"/></e>
+    <e lm="Elena"><i>Elen</i><par n="Ann/a__np"/></e>
+    <e lm="Emma"><i>Emm</i><par n="Ann/a__np"/></e>
+    <e lm="Esmeralda"><i>Esmerald</i><par n="Ann/a__np"/></e>
+    <e lm="Evita"><i>Evit</i><par n="Ann/a__np"/></e>
+    <e lm="Gábina"><i>Gábin</i><par n="Ann/a__np"/></e>
+    <e lm="Galina"><i>Galin</i><par n="Ann/a__np"/></e>
+    <e lm="Gertruda"><i>Gertrud</i><par n="Ann/a__np"/></e>
+    <e lm="Gina"><i>Gin</i><par n="Ann/a__np"/></e>
+    <e lm="Gréta"><i>Grét</i><par n="Ann/a__np"/></e>
+    <e lm="Halina"><i>Halin</i><par n="Ann/a__np"/></e>
+    <e lm="Helena"><i>Helen</i><par n="Ann/a__np"/></e>
+    <e lm="Ida"><i>Id</i><par n="Ann/a__np"/></e>
+    <e lm="Ilona"><i>Ilon</i><par n="Ann/a__np"/></e>
+    <e lm="Irena"><i>Iren</i><par n="Ann/a__np"/></e>
+    <e lm="Irina"><i>Irin</i><par n="Ann/a__np"/></e>
+    <e lm="Iva"><i>Iv</i><par n="Ann/a__np"/></e>
+    <e lm="Ivana"><i>Ivan</i><par n="Ann/a__np"/></e>
+    <e lm="Iveta"><i>Ivet</i><par n="Ann/a__np"/></e>
+    <e lm="Ivona"><i>Ivon</i><par n="Ann/a__np"/></e>
+    <e lm="Jana"><i>Jan</i><par n="Ann/a__np"/></e>
+    <e lm="Jaroslava"><i>Jaroslav</i><par n="Ann/a__np"/></e>
+    <e lm="Jelena"><i>Jelen</i><par n="Ann/a__np"/></e>
+    <e lm="Jena"><i>Jen</i><par n="Ann/a__np"/></e>
+    <e lm="Jiřina"><i>Jiřin</i><par n="Ann/a__np"/></e>
+    <e lm="Joana"><i>Joan</i><par n="Ann/a__np"/></e>
+    <e lm="Joanna"><i>Joann</i><par n="Ann/a__np"/></e>
+    <e lm="Johana"><i>Johan</i><par n="Ann/a__np"/></e>
+    <e lm="Johanna"><i>Johann</i><par n="Ann/a__np"/></e>
+    <e lm="Jolana"><i>Jolan</i><par n="Ann/a__np"/></e>
+    <e lm="Josefa"><i>Josef</i><par n="Ann/a__np"/></e>
+    <e lm="Josefína"><i>Josefín</i><par n="Ann/a__np"/></e>
+    <e lm="Judita"><i>Judit</i><par n="Ann/a__np"/></e>
+    <e lm="Karolina"><i>Karolin</i><par n="Ann/a__np"/></e>
+    <e lm="Karolína"><i>Karolín</i><par n="Ann/a__np"/></e>
+    <e lm="Katarina"><i>Katarin</i><par n="Ann/a__np"/></e>
+    <e lm="Kateřina"><i>Kateřin</i><par n="Ann/a__np"/></e>
+    <e lm="Kristina"><i>Kristin</i><par n="Ann/a__np"/></e>
+    <e lm="Kristýna"><i>Kristýn</i><par n="Ann/a__np"/></e>
+    <e lm="Lana"><i>Lan</i><par n="Ann/a__np"/></e>
+    <e lm="Lena"><i>Len</i><par n="Ann/a__np"/></e>
+    <e lm="Linda"><i>Lind</i><par n="Ann/a__np"/></e>
+    <e lm="Lolita"><i>Lolit</i><par n="Ann/a__np"/></e>
+    <e lm="Madona"><i>Madon</i><par n="Ann/a__np"/></e>
+    <e lm="Madonna"><i>Madonn</i><par n="Ann/a__np"/></e>
+    <e lm="Magda"><i>Magd</i><par n="Ann/a__np"/></e>
+    <e lm="Magdalena"><i>Magdalen</i><par n="Ann/a__np"/></e>
+    <e lm="Magdaléna"><i>Magdalén</i><par n="Ann/a__np"/></e>
+    <e lm="Mahulena"><i>Mahulen</i><par n="Ann/a__np"/></e>
+    <e lm="Margareta"><i>Margaret</i><par n="Ann/a__np"/></e>
+    <e lm="Margita"><i>Margit</i><par n="Ann/a__np"/></e>
+    <e lm="Marianna"><i>Mariann</i><par n="Ann/a__np"/></e>
+    <e lm="Markéta"><i>Markét</i><par n="Ann/a__np"/></e>
+    <e lm="Marta"><i>Mart</i><par n="Ann/a__np"/></e>
+    <e lm="Martina"><i>Martin</i><par n="Ann/a__np"/></e>
+    <e lm="Milena"><i>Milen</i><par n="Ann/a__np"/></e>
+    <e lm="Miloslava"><i>Miloslav</i><par n="Ann/a__np"/></e>
+    <e lm="Minerva"><i>Minerv</i><par n="Ann/a__np"/></e>
+    <e lm="Miroslava"><i>Miroslav</i><par n="Ann/a__np"/></e>
+    <e lm="Mona"><i>Mon</i><par n="Ann/a__np"/></e>
+    <e lm="Nina"><i>Nin</i><par n="Ann/a__np"/></e>
+    <e lm="Olina"><i>Olin</i><par n="Ann/a__np"/></e>
+    <e lm="Regina"><i>Regin</i><par n="Ann/a__np"/></e>
+    <e lm="Renata"><i>Renat</i><par n="Ann/a__np"/></e>
+    <e lm="Rita"><i>Rit</i><par n="Ann/a__np"/></e>
+    <e lm="Roberta"><i>Robert</i><par n="Ann/a__np"/></e>
+    <e lm="Roxana"><i>Roxan</i><par n="Ann/a__np"/></e>
+    <e lm="Sabina"><i>Sabin</i><par n="Ann/a__np"/></e>
+    <e lm="Sonja"><i>Sonj</i><par n="Ann/a__np"/></e>
+    <e lm="Stanislava"><i>Stanislav</i><par n="Ann/a__np"/></e>
+    <e lm="Světlana"><i>Světlan</i><par n="Ann/a__np"/></e>
+    <e lm="Taťána"><i>Taťán</i><par n="Ann/a__np"/></e>
+    <e lm="Tatiana"><i>Tatian</i><par n="Ann/a__np"/></e>
+    <e lm="Taťjana"><i>Taťjan</i><par n="Ann/a__np"/></e>
+    <e lm="Valentina"><i>Valentin</i><par n="Ann/a__np"/></e>
+    <e lm="Valentýna"><i>Valentýn</i><par n="Ann/a__np"/></e>
+    <e lm="Valetta"><i>Valett</i><par n="Ann/a__np"/></e>
+    <e lm="Vanda"><i>Vand</i><par n="Ann/a__np"/></e>
+    <e lm="Viviana"><i>Vivian</i><par n="Ann/a__np"/></e>
+    <e lm="Vladislava"><i>Vladislav</i><par n="Ann/a__np"/></e>
+    <e lm="Wanda"><i>Wand</i><par n="Ann/a__np"/></e>
+    <e lm="Yvetta"><i>Yvett</i><par n="Ann/a__np"/></e>
+    <e lm="Yvona"><i>Yvon</i><par n="Ann/a__np"/></e>
+    <e lm="Zdislava"><i>Zdislav</i><par n="Ann/a__np"/></e>
+    <e lm="Zuzana"><i>Zuzan</i><par n="Ann/a__np"/></e>
+    <e lm="Eva"><i>Ev</i><par n="Markét/ka__np"/></e>
+    <e lm="Ewa"><i>Ew</i><par n="Markét/ka__np"/></e>
+    <e lm="Ada"><i>Ad</i><par n="Markét/ka__np"/></e>
+    <e lm="Adina"><i>Adin</i><par n="Markét/ka__np"/></e>
+    <e lm="Adriana"><i>Adrian</i><par n="Markét/ka__np"/></e>
+    <e lm="Agáta"><i>Agát</i><par n="Markét/ka__np"/></e>
+    <e lm="Alana"><i>Alan</i><par n="Markét/ka__np"/></e>
+    <e lm="Alberta"><i>Albert</i><par n="Markét/ka__np"/></e>
+    <e lm="Alma"><i>Alm</i><par n="Markét/ka__np"/></e>
+    <e lm="Alžběta"><i>Alžbět</i><par n="Markét/ka__np"/></e>
+    <e lm="Amanda"><i>Amand</i><par n="Markét/ka__np"/></e>
+    <e lm="Aneta"><i>Anet</i><par n="Markét/ka__np"/></e>
+    <e lm="Anita"><i>Anit</i><par n="Markét/ka__np"/></e>
+    <e lm="Augusta"><i>August</i><par n="Markét/ka__np"/></e>
+    <e lm="Beata"><i>Beat</i><par n="Markét/ka__np"/></e>
+    <e lm="Berta"><i>Bert</i><par n="Markét/ka__np"/></e>
+    <e lm="Blažena"><i>Blažen</i><par n="Markét/ka__np"/></e>
+    <e lm="Bohdana"><i>Bohdan</i><par n="Markét/ka__np"/></e>
+    <e lm="Boleslava"><i>Boleslav</i><par n="Markét/ka__np"/></e>
+    <e lm="Božena"><i>Božen</i><par n="Markét/ka__np"/></e>
+    <e lm="Breda"><i>Bred</i><par n="Markét/ka__np"/></e>
+    <e lm="Brenda"><i>Brend</i><par n="Markét/ka__np"/></e>
+    <e lm="Carolina"><i>Carolin</i><par n="Markét/ka__np"/></e>
+    <e lm="Charlotta"><i>Charlott</i><par n="Markét/ka__np"/></e>
+    <e lm="Dana"><i>Dan</i><par n="Markét/ka__np"/></e>
+    <e lm="Delvita"><i>Delvit</i><par n="Markét/ka__np"/></e>
+    <e lm="Diana"><i>Dian</i><par n="Markét/ka__np"/></e>
+    <e lm="Donna"><i>Donn</i><par n="Markét/ka__np"/></e>
+    <e lm="Edita"><i>Edit</i><par n="Markét/ka__np"/></e>
+    <e lm="Elena"><i>Elen</i><par n="Markét/ka__np"/></e>
+    <e lm="Emma"><i>Emm</i><par n="Markét/ka__np"/></e>
+    <e lm="Esmeralda"><i>Esmerald</i><par n="Markét/ka__np"/></e>
+    <e lm="Evita"><i>Evit</i><par n="Markét/ka__np"/></e>
+    <e lm="Gábina"><i>Gábin</i><par n="Markét/ka__np"/></e>
+    <e lm="Galina"><i>Galin</i><par n="Markét/ka__np"/></e>
+    <e lm="Gertruda"><i>Gertrud</i><par n="Markét/ka__np"/></e>
+    <e lm="Gina"><i>Gin</i><par n="Markét/ka__np"/></e>
+    <e lm="Gréta"><i>Grét</i><par n="Markét/ka__np"/></e>
+    <e lm="Halina"><i>Halin</i><par n="Markét/ka__np"/></e>
+    <e lm="Helena"><i>Helen</i><par n="Markét/ka__np"/></e>
+    <e lm="Ida"><i>Id</i><par n="Markét/ka__np"/></e>
+    <e lm="Ilona"><i>Ilon</i><par n="Markét/ka__np"/></e>
+    <e lm="Irena"><i>Iren</i><par n="Markét/ka__np"/></e>
+    <e lm="Irina"><i>Irin</i><par n="Markét/ka__np"/></e>
+    <e lm="Iva"><i>Iv</i><par n="Markét/ka__np"/></e>
+    <e lm="Ivana"><i>Ivan</i><par n="Markét/ka__np"/></e>
+    <e lm="Iveta"><i>Ivet</i><par n="Markét/ka__np"/></e>
+    <e lm="Ivona"><i>Ivon</i><par n="Markét/ka__np"/></e>
+    <e lm="Jana"><i>Jan</i><par n="Markét/ka__np"/></e>
+    <e lm="Jaroslava"><i>Jaroslav</i><par n="Markét/ka__np"/></e>
+    <e lm="Jelena"><i>Jelen</i><par n="Markét/ka__np"/></e>
+    <e lm="Jena"><i>Jen</i><par n="Markét/ka__np"/></e>
+    <e lm="Jiřina"><i>Jiřin</i><par n="Markét/ka__np"/></e>
+    <e lm="Joana"><i>Joan</i><par n="Markét/ka__np"/></e>
+    <e lm="Joanna"><i>Joann</i><par n="Markét/ka__np"/></e>
+    <e lm="Johana"><i>Johan</i><par n="Markét/ka__np"/></e>
+    <e lm="Johanna"><i>Johann</i><par n="Markét/ka__np"/></e>
+    <e lm="Jolana"><i>Jolan</i><par n="Markét/ka__np"/></e>
+    <e lm="Josefa"><i>Josef</i><par n="Markét/ka__np"/></e>
+    <e lm="Josefína"><i>Josefín</i><par n="Markét/ka__np"/></e>
+    <e lm="Judita"><i>Judit</i><par n="Markét/ka__np"/></e>
+    <e lm="Karolina"><i>Karolin</i><par n="Markét/ka__np"/></e>
+    <e lm="Karolína"><i>Karolín</i><par n="Markét/ka__np"/></e>
+    <e lm="Katarina"><i>Katarin</i><par n="Markét/ka__np"/></e>
+    <e lm="Kateřina"><i>Kateřin</i><par n="Markét/ka__np"/></e>
+    <e lm="Kristina"><i>Kristin</i><par n="Markét/ka__np"/></e>
+    <e lm="Kristýna"><i>Kristýn</i><par n="Markét/ka__np"/></e>
+    <e lm="Lana"><i>Lan</i><par n="Markét/ka__np"/></e>
+    <e lm="Lena"><i>Len</i><par n="Markét/ka__np"/></e>
+    <e lm="Linda"><i>Lind</i><par n="Markét/ka__np"/></e>
+    <e lm="Lolita"><i>Lolit</i><par n="Markét/ka__np"/></e>
+    <e lm="Madona"><i>Madon</i><par n="Markét/ka__np"/></e>
+    <e lm="Madonna"><i>Madonn</i><par n="Markét/ka__np"/></e>
+    <e lm="Magda"><i>Magd</i><par n="Markét/ka__np"/></e>
+    <e lm="Magdalena"><i>Magdalen</i><par n="Markét/ka__np"/></e>
+    <e lm="Magdaléna"><i>Magdalén</i><par n="Markét/ka__np"/></e>
+    <e lm="Mahulena"><i>Mahulen</i><par n="Markét/ka__np"/></e>
+    <e lm="Margareta"><i>Margaret</i><par n="Markét/ka__np"/></e>
+    <e lm="Margita"><i>Margit</i><par n="Markét/ka__np"/></e>
+    <e lm="Marianna"><i>Mariann</i><par n="Markét/ka__np"/></e>
+    <e lm="Markéta"><i>Markét</i><par n="Markét/ka__np"/></e>
+    <e lm="Marta"><i>Mart</i><par n="Markét/ka__np"/></e>
+    <e lm="Martina"><i>Martin</i><par n="Markét/ka__np"/></e>
+    <e lm="Milena"><i>Milen</i><par n="Markét/ka__np"/></e>
+    <e lm="Miloslava"><i>Miloslav</i><par n="Markét/ka__np"/></e>
+    <e lm="Minerva"><i>Minerv</i><par n="Markét/ka__np"/></e>
+    <e lm="Miroslava"><i>Miroslav</i><par n="Markét/ka__np"/></e>
+    <e lm="Mona"><i>Mon</i><par n="Markét/ka__np"/></e>
+    <e lm="Nina"><i>Nin</i><par n="Markét/ka__np"/></e>
+    <e lm="Olina"><i>Olin</i><par n="Markét/ka__np"/></e>
+    <e lm="Regina"><i>Regin</i><par n="Markét/ka__np"/></e>
+    <e lm="Renata"><i>Renat</i><par n="Markét/ka__np"/></e>
+    <e lm="Rita"><i>Rit</i><par n="Markét/ka__np"/></e>
+    <e lm="Roberta"><i>Robert</i><par n="Markét/ka__np"/></e>
+    <e lm="Roxana"><i>Roxan</i><par n="Markét/ka__np"/></e>
+    <e lm="Sabina"><i>Sabin</i><par n="Markét/ka__np"/></e>
+    <e lm="Stanislava"><i>Stanislav</i><par n="Markét/ka__np"/></e>
+    <e lm="Světlana"><i>Světlan</i><par n="Markét/ka__np"/></e>
+    <e lm="Taťána"><i>Taťán</i><par n="Markét/ka__np"/></e>
+    <e lm="Tatiana"><i>Tatian</i><par n="Markét/ka__np"/></e>
+    <e lm="Taťjana"><i>Taťjan</i><par n="Markét/ka__np"/></e>
+    <e lm="Valentina"><i>Valentin</i><par n="Markét/ka__np"/></e>
+    <e lm="Valentýna"><i>Valentýn</i><par n="Markét/ka__np"/></e>
+    <e lm="Valetta"><i>Valett</i><par n="Markét/ka__np"/></e>
+    <e lm="Vanda"><i>Vand</i><par n="Markét/ka__np"/></e>
+    <e lm="Viviana"><i>Vivian</i><par n="Markét/ka__np"/></e>
+    <e lm="Vladislava"><i>Vladislav</i><par n="Markét/ka__np"/></e>
+    <e lm="Wanda"><i>Wand</i><par n="Markét/ka__np"/></e>
+    <e lm="Yvetta"><i>Yvett</i><par n="Markét/ka__np"/></e>
+    <e lm="Yvona"><i>Yvon</i><par n="Markét/ka__np"/></e>
+    <e lm="Zdislava"><i>Zdislav</i><par n="Markét/ka__np"/></e>
+    <e lm="Žitava"><i>Žitav</i><par n="Markét/ka__np"/></e>
+    <e lm="Zuzana"><i>Zuzan</i><par n="Markét/ka__np"/></e>
 
     <e lm="Afrika"><i>Afri</i><par n="Afri/ka__np"/></e>
     <e lm="Jizerka"><i>Jizer</i><par n="Afri/ka__np"/></e>
