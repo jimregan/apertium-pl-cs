@@ -21712,7 +21712,7 @@
     <e lm="evropský"><par n="nej__adv"/><i>evrop</i><par n="če/ský__adj"/></e>
     <e lm="dánský"><par n="nej__adv"/><i>dán</i><par n="če/ský__adj"/></e>
     <e lm="jihoslovanský"><par n="nej__adv"/><i>jihoslovan</i><par n="če/ský__adj"/></e>
-    <e lm="jizerský"><par n="nej__adv"/><i>jizer</i><par n="če/ský__adj"/></e>
+    <e lm="jizerský"><par n="nej__adv"/><i>jizer</i><par n="evrop/ský__adj"/></e>
 
     <e lm="afgánský"><par n="nej__adv"/><i>afgán</i><par n="če/ský__adj"/></e>
     <e lm="arabský"><par n="nej__adv"/><i>arab</i><par n="če/ský__adj"/></e>
@@ -21744,8 +21744,8 @@
     <e lm="japonský"><par n="nej__adv"/><i>japon</i><par n="če/ský__adj"/></e>
     <e lm="keltský"><par n="nej__adv"/><i>kelt</i><par n="če/ský__adj"/></e>
     <e lm="klingonský"><par n="nej__adv"/><i>klingon</i><par n="če/ský__adj"/></e>
-    <e lm="královský"><par n="nej__adv"/><i>králov</i><par n="če/ský__adj"/></e>
-    <e lm="křesťanský"><par n="nej__adv"/><i>křesťan</i><par n="če/ský__adj"/></e>
+    <e lm="královský"><par n="nej__adv"/><i>králov</i><par n="evrop/ský__adj"/></e>
+    <e lm="křesťanský"><par n="nej__adv"/><i>křesťan</i><par n="evrop/ský__adj"/></e>
     <e lm="kurdský"><par n="nej__adv"/><i>kurd</i><par n="če/ský__adj"/></e>
     <e lm="latinský"><par n="nej__adv"/><i>latin</i><par n="če/ský__adj"/></e>
     <e lm="litevský"><par n="nej__adv"/><i>litev</i><par n="če/ský__adj"/></e>

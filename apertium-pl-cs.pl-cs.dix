@@ -1397,11 +1397,10 @@
     <e><p><l>indiański<s n="adj"/></l><r>indiánský<s n="adj"/></r></p></e>
     <e><p><l>indonezyjski<s n="adj"/></l><r>indonéský<s n="adj"/></r></p></e>
     <e><p><l>indyjski<s n="adj"/></l><r>indický<s n="adj"/></r></p></e>
-    <e><p><l>indyjski<s n="adj"/></l><r>indiánský<s n="adj"/></r></p></e>
     <e><p><l>japoński<s n="adj"/></l><r>japonský<s n="adj"/></r></p></e>
     <e><p><l>klingoński<s n="adj"/></l><r>klingonský<s n="adj"/></r></p></e>
     <e><p><l>kurdyjski<s n="adj"/></l><r>kurdský<s n="adj"/></r></p></e>
-    <e><p><l>latynoski<s n="adj"/></l><r>latinský<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>latynoski<s n="adj"/></l><r>latinský<s n="adj"/></r></p></e>
     <e><p><l>litewski<s n="adj"/></l><r>litevský<s n="adj"/></r></p></e>
     <e><p><l>macierzyński<s n="adj"/></l><r>mateřský<s n="adj"/></r></p></e>
     <e><p><l>malajski<s n="adj"/></l><r>malajský<s n="adj"/></r></p></e>

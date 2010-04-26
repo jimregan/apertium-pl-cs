@@ -69,6 +69,7 @@
   </def-cat>
   <def-cat n="adjcpd">
      <cat-item tags="adj.cpd"/>
+     <cat-item tags="adj.sint.cpd"/>
   </def-cat>
   <def-cat n="adj">
      <cat-item tags="adj.*"/>
@@ -137,6 +138,9 @@
      <attr-item tags="adj.sint.comp"/>
      <attr-item tags="adj.sint.sup"/>
      <attr-item tags="adj.itg"/>
+     <attr-item tags="adj.cpd"/>
+     <attr-item tags="adj.sint.cpd"/>
+     <attr-item tags="adj.po"/>
   </def-attr>
 
   <def-attr n="a_adv">
@@ -327,6 +331,62 @@
                 <or>
 		  <equal>
 		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.cpd"/>
+		  </equal>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint.cpd"/>
+		  </equal>
+                </or>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+                  <lit v="bardzo"/>
+                  <lit-tag v="adv.sint.sup"/>
+                  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when> <!-- putting this here for testvoc, maybe something better can be done -->
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="nej"/>
+		</equal>
+		<equal>
+		  <clip pos="2" side="tl" part="a_adj"/> 
+		  <lit-tag v="adj.po"/>
+		</equal>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+                  <lit v="bardzo"/>
+                  <lit-tag v="adv.sint.sup"/>
+                  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="nej"/>
+		</equal>
+                <or>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
 		    <lit-tag v="adj.sint.comp"/>
 		  </equal>
 		  <equal>
@@ -343,6 +403,38 @@
 	    <let>
 	      <var n="adv_adjectiu"/>
 		<concat>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="nej"/>
+		</equal>
+                <not>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+                </not>
+	      </and>
+	    </test>
+            <let>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <lit-tag v="adj"/>
+            </let>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+                  <lit v="bardzo"/>
+                  <lit-tag v="adv.sint.sup"/>
+                  <lit v="$ ^"/>
 		  <clip pos="2" side="tl" part="lemh"/> 
 		  <clip pos="2" side="tl" part="a_adj"/>
                   <lit-tag v="2.3.4"/>
