@@ -18255,7 +18255,50 @@
         </p>
       </e>
     </pardef>
-
+    <pardef n="Spojen/é_království__np">
+      <e>
+        <p>
+          <l>é<b/>království</l>
+          <r>é<b/>království<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ého<b/>království</l>
+          <r>é<b/>království<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ému<b/>království</l>
+          <r>é<b/>království<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>království</l>
+          <r>é<b/>království<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>království</l>
+          <r>é<b/>království<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ém<b/>království</l>
+          <r>é<b/>království<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ým<b/>královstvím</l>
+          <r>é<b/>království<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Pozna/ň__np">
       <e><p>          <l>ň</l><r>ň<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p>          <l>ň</l><r>ň<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -24115,6 +24158,8 @@
     <e lm="Vizovická vrchovina"><i>Vizovick</i><par n="Vizovick/á_vrchovina__np"/></e>
     <e lm="Česká republika"><i>Česk</i><par n="Česk/á_republika__np"/></e>
     <e lm="Irská republika"><i>Irsk</i><par n="Česk/á_republika__np"/></e>
+    <e lm="Spojené království"><i>Spojen</i><par n="Spojen/é_království__np"/></e>
+    <e lm="Spojené království Velké Británie a Severního Irska"><i>Spojen</i><par n="Spojen/é_království__np"/><p><l><b/>Velké<b/>Británie<b/>a<b/>Severního<b/>Irska</l><r><g><b/>Velké<b/>Británie<b/>a<b/>Severního<b/>Irska</g></p></e>
 
     <e lm="Itálie"><i>Itáli</i><par n="Itáli/e__np"/></e>
 

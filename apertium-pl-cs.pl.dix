@@ -33434,6 +33434,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Zjednoczon/e_Królestwo__np">
+      <e>
+        <p>
+          <l>e<b/>Królestwo</l>
+          <r>e<b/>Królestwo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ego<b/>Królestwa</l>
+          <r>e<b/>Królestwo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>emu<b/>Królestwu</l>
+          <r>e<b/>Królestwo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>Królestwo</l>
+          <r>e<b/>Królestwo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ym<b/>Królestwem</l>
+          <r>e<b/>Królestwo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ym<b/>Królestwie</l>
+          <r>e<b/>Królestwo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e<b/>Królestwo</l>
+          <r>e<b/>Królestwo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Pozna/ń__np">
       <e>
         <p>
@@ -37141,6 +37185,8 @@
     <e lm="Kozyra"><i>Kozyr</i><par n="Kozyr/a__np"/></e>
 
     <e lm="Bielsko-Biała"><i>Bielsk</i><par n="Bielsk/o-Biała__np"/></e>
+    <e lm="Zjednoczone Królestwo"><i>Zjednoczon</i><par n="Zjednoczon/e_Królestwo__np"/></e>
+    <e lm="Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"><i>Zjednoczon</i><par n="Zjednoczon/e_Królestwo__np"/><p><l><b/>Wielkiej<b/>Brytanii<b/>i<b/>Irlandii<b/>Północnej</l><r><g><b/>Wielkiej<b/>Brytanii<b/>i<b/>Irlandii<b/>Północnej</g></r></p></e>
     <e lm="Republika Irlandii"><i>Republi</i><par n="Republi/ka__np"/><p><l><b/>Irlandii</l><r><g><b/>Irlandii</g></r></p></e>
     <e lm="Poznań"><i>Pozna</i><par n="Pozna/ń__np"/></e>
     <e lm="Toruń"><i>Toru</i><par n="Pozna/ń__np"/></e>
