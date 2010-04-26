@@ -18754,7 +18754,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="n"/></r>
+          <r></r>
         </p>
         <par n="PBASE__filozofia"/>
       </e>
@@ -18769,7 +18769,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="n"/></r>
+          <r></r>
         </p>
         <par n="PBASE__filozofia"/>
       </e>
@@ -37875,6 +37875,49 @@
       <r>Karlowe<b/>Wary<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
     </p>
   </e>
+  <!-- Wielka Britania -->
+  <e>
+    <p>
+      <l>Wielka<b/>Britania</l>
+      <r>Wielka<b/>Britania<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Wielkiej<b/>Britanii</l>
+      <r>Wielka<b/>Britania<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Wielkiej<b/>Britanii</l>
+      <r>Wielka<b/>Britania<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Wielką<b/>Britanię</l>
+      <r>Wielka<b/>Britania<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Wielką<b/>Britanią</l>
+      <r>Wielka<b/>Britania<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Wielkiej<b/>Britanii</l>
+      <r>Wielka<b/>Britania<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Wielka<b/>Britanio</l>
+      <r>Wielka<b/>Britania<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+    </p>
+  </e>
   <!-- Antigua i Barbuda-->
   <e>
     <p>
@@ -37890,7 +37933,7 @@
   </e>
   <!-- sjp.pl has the above, pl.wiktionary had this (until I changed it); pl.wikipedia uses /both/;
        we use this, because Komisja Standaryzacji Nazw Geograficznych Poza Granicami Rzeczypospolitej Polskiej (phew!)
-       say so: http://www.gugik.gov.pl/komisja/pliki/wykaz.pdf-->
+       say so: http://www.gugik.gov.pl/komisja/pliki/wykaz.pdf -->
   <e r="LR">
     <p>
       <l>Antiguy<b/>i<b/>Barbudy</l>
