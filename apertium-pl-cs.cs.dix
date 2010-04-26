@@ -24381,6 +24381,50 @@
       <r>svatý<b/>Mikuláš<s n="np"/><s n="ant"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
     </p>
   </e>
+  <!-- Velká Británie -->
+  <e>
+    <p>
+      <l>Velká<b/>Británie</l>
+      <r>Velká<b/>Británie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Velké<b/>Británie</l>
+      <r>Velká<b/>Británie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Velké<b/>Británii</l>
+      <r>Velká<b/>Británie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Velkou<b/>Británii</l>
+      <r>Velká<b/>Británie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Velkou<b/>Británií</l>
+      <r>Velká<b/>Británie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Velké<b/>Británii</l>
+      <r>Velká<b/>Británie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>Velká<b/>Británie</l>
+      <r>Velká<b/>Británie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+    </p>
+  </e>
+
   </section>
 
   <section id="final" type="inconditional">
