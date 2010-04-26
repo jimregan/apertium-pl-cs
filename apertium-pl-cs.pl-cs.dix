@@ -2600,6 +2600,27 @@
     <e><p><l>Szkocja<s n="np"/><s n="top"/><s n="f"/></l><r>Skotsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Śląsk<s n="np"/><s n="top"/><s n="mi"/></l><r>Slezsko<s n="np"/><s n="top"/><s n="nt"/></r></p><par n="sg_sgpl"/></e>
     <e><p><l>Tyrol<s n="np"/><s n="top"/><s n="mi"/></l><r>Tyrolsko<s n="np"/><s n="top"/><s n="nt"/></r></p><par n="sg_sgpl"/></e>
+    <e><p><l>Morskie<b/>Oko<s n="np"/><s n="top"/><s n="nt"/></l><r>Morskie<b/>Oko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Ocean<b/>Atlantycki<s n="np"/><s n="top"/><s n="mi"/></l><r>Atlantský<b/>oceán<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Ocean<b/>Spokojny<s n="np"/><s n="top"/><s n="mi"/></l><r>Tichý<b/>oceán<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Ocean<b/>Arktyczny<s n="np"/><s n="top"/><s n="mi"/></l><r>Severní<b/>ledový<b/>oceán<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Ocean<b/>Południowy<s n="np"/><s n="top"/><s n="mi"/></l><r>Jižní<b/>oceán<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Ocean<b/>Indyjski<s n="np"/><s n="top"/><s n="mi"/></l><r>Indický<b/>oceán<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Chińska<b/>Republika<b/>Ludowa<s n="np"/><s n="top"/><s n="f"/></l><r>Čínská<b/>lidová<b/>republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Wielki<b/>Mur<b/>Chiński<s n="np"/><s n="top"/><s n="mi"/></l><r>Velká<b/>čínská<b/>zeď<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Karlowe<b/>Wary<s n="np"/><s n="top"/></l><r>Karlovy<b/>Vary<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Bańska<b/>Bystrzyca<s n="np"/><s n="top"/></l><r>Banská<b/>Bystrica<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Papua-Nowa<b/>Gwinea<s n="np"/><s n="top"/><s n="f"/></l><r>Papua-Nová<b/>Guinea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Nowa<b/>Gwinea<s n="np"/><s n="top"/><s n="f"/></l><r>Nová<b/>Guinea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Korea<b/>Południowa<s n="np"/><s n="top"/><s n="f"/></l><r>Jižní<b/>Korea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Korea<b/>Północna<s n="np"/><s n="top"/><s n="f"/></l><r>Severní<b/>Korea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Stany<b/>Zjednoczone<s n="np"/><s n="top"/></l><r>Spojené<b/>státy<b/>americké<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Zjednoczone<b/>Emiraty<b/>Arabskie<s n="np"/><s n="top"/></l><r>Spojené<b/>arabské<b/>emiráty<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Ameryka<b/>Środkowa<s n="np"/><s n="top"/><s n="f"/></l><r>Střední<b/>Amerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Bliski<b/>Wschód<s n="np"/><s n="top"/><s n="mi"/></l><r>Blízký<b/>východ<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Nowa<b/>Zelandia<s n="np"/><s n="top"/><s n="f"/></l><r>Nový<b/>Zéland<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Biała<b/>Podlaska<s n="np"/><s n="top"/><s n="f"/></l><r>Biała<b/>Podlaska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Azja<b/>Mniejsza<s n="np"/><s n="top"/><s n="f"/></l><r>Malá<b/>Asie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
     <e><p><l>Morze<b/>Bałtyckie<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Baltské<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
     <e><p><l>Morze<b/>Czarne<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Černé<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
