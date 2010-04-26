@@ -23798,6 +23798,10 @@
     <e lm="Alberta"><i>Albert</i><par n="Ann/a__np"/></e>
     <e lm="Alma"><i>Alm</i><par n="Ann/a__np"/></e>
     <e lm="Alžběta"><i>Alžbět</i><par n="Ann/a__np"/></e>
+    <e lm="Alžběta I"><i>Alžbět</i><par n="Ann/a__np"/><p><l><b/>I</l><r><g><b/>I</g></r></p></e>
+    <e lm="Alžběta II"><i>Alžbět</i><par n="Ann/a__np"/><p><l><b/>II</l><r><g><b/>II</g></r></p></e>
+    <e lm="Elżbieta"><i>Elżbiet</i><par n="Ann/a__np"/></e>
+    <e lm="Elżbieta"><i>Elżbiet</i><par n="Markét/ka__np"/></e>
     <e lm="Amanda"><i>Amand</i><par n="Ann/a__np"/></e>
     <e lm="Aneta"><i>Anet</i><par n="Ann/a__np"/></e>
     <e lm="Anita"><i>Anit</i><par n="Ann/a__np"/></e>
