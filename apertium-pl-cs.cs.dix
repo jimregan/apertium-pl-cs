@@ -18211,6 +18211,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Česk/á_republika__np">
+      <e>
+        <p>
+          <l>á<b/>republika</l>
+          <r>á<b/>republika<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>republiky</l>
+          <r>á<b/>republika<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>republice</l>
+          <r>á<b/>republika<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ou<b/>republiku</l>
+          <r>á<b/>republika<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>á<b/>republiko</l>
+          <r>á<b/>republika<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é<b/>republice</l>
+          <r>á<b/>republika<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ou<b/>republikou</l>
+          <r>á<b/>republika<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="Pozna/ň__np">
       <e><p>          <l>ň</l><r>ň<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -24068,6 +24112,8 @@
     <e lm="Vsetínské vrchy"><i>Vsetínsk</i><par n="Odersk/é_vrchy__np"/></e>
     <e lm="Hostýnsko-vsetínská hornatina"><i>Hostýnsko-vsetínsk</i><par n="Hostýnsko-vsetínsk/á_hornatina__np"/></e>
     <e lm="Vizovická vrchovina"><i>Vizovick</i><par n="Vizovick/á_vrchovina__np"/></e>
+    <e lm="Česká republika"><i>Česk</i><par n="Česk/á_republika__np"/></e>
+    <e lm="Irská republika"><i>Irsk</i><par n="Česk/á_republika__np"/></e>
 
     <e lm="Itálie"><i>Itáli</i><par n="Itáli/e__np"/></e>
 
