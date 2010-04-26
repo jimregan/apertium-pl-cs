@@ -2622,9 +2622,9 @@
     <e><p><l>Nowa<b/>Zelandia<s n="np"/><s n="top"/><s n="f"/></l><r>Nový<b/>Zéland<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Biała<b/>Podlaska<s n="np"/><s n="top"/><s n="f"/></l><r>Biała<b/>Podlaska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Azja<b/>Mniejsza<s n="np"/><s n="top"/><s n="f"/></l><r>Malá<b/>Asie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Republika<b/>Czeska<s n="np"/><s n="top"/><s n="f"/></l><r>Česká<b/>Republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>Republika<b/>Irlandzka<s n="np"/><s n="top"/><s n="f"/></l><r>Irská<b/>Republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Republika<g><b/>Irlandii</g><s n="np"/><s n="top"/><s n="f"/></l><r>Irská<b/>Republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Republika<b/>Czeska<s n="np"/><s n="top"/><s n="f"/></l><r>Česká<b/>republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Republika<b/>Irlandzka<s n="np"/><s n="top"/><s n="f"/></l><r>Irská<b/>republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Republika<g><b/>Irlandii</g><s n="np"/><s n="top"/><s n="f"/></l><r>Irská<b/>republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
     <e><p><l>Morze<b/>Bałtyckie<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Baltské<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
     <e><p><l>Morze<b/>Czarne<s n="np"/><s n="hyd"/><s n="nt"/></l><r>Černé<b/>moře<s n="np"/><s n="hyd"/><s n="nt"/></r></p></e>
