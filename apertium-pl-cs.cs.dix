@@ -84,6 +84,7 @@
     <sdef n="dim"    c=""/>
     <sdef n="ij"     c=""/>
     <sdef n="cpd"    c=""/>
+    <sdef n="po"     c=""/>
     <sdef n="percent" c=""/>
   </sdefs>
   <pardefs>
@@ -21344,6 +21345,46 @@
         <par n="dalš/í__BASE"/>
       </e>
     </pardef>
+    <pardef n="če/ský__adj">
+      <e>
+        <p>
+          <l>ští</l>
+          <r>ský<s n="adj"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ští</l>
+          <r>ský<s n="adj"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sk</l>
+          <r>ský<s n="adj"/></r>
+        </p>
+        <par n="nov/ý__BASE"/>
+      </e>
+      <e>
+        <p>
+          <l>sko</l>
+          <r>ský<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sky</l>
+          <r>ský<s n="adj"/><s n="po"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>štějš</l>
+          <r>ský<s n="adj"/><s n="comp"/></r>
+        </p>
+        <par n="dalš/í__BASE"/>
+      </e>
+    </pardef>
     <pardef n="evrop/ský__adj">
       <e>
         <p>
@@ -21367,13 +21408,13 @@
       <e>
         <p>
           <l>sko</l>
-          <r>ský<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+          <r>ský<s n="adj"/><s n="cpd"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>štějš</l>
-          <r>ský<s n="adj"/><s n="sint"/><s n="comp"/></r>
+          <r>ský<s n="adj"/><s n="comp"/></r>
         </p>
         <par n="dalš/í__BASE"/>
       </e>
@@ -21422,13 +21463,13 @@
       <e>
         <p>
           <l>cko</l>
-          <r>cký<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+          <r>cký<s n="adj"/><s n="cpd"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>čtějš</l>
-          <r>cký<s n="adj"/><s n="sint"/><s n="comp"/></r>
+          <r>cký<s n="adj"/><s n="comp"/></r>
         </p>
         <par n="dalš/í__BASE"/>
       </e>
@@ -21668,70 +21709,70 @@
     <e lm="jasný"><par n="nej__adv"/><i>jasn</i><par n="nov/ý__adj"/></e>
     <e lm="novoučký"><p><l>novouč</l><r>nový</r></p><par n="novouč/ký__adj"/></e>
     <e lm="chytrý"><par n="nej__adv"/><i>chyt</i><par n="chyt/rý__adj"/></e>
-    <e lm="evropský"><par n="nej__adv"/><i>evrop</i><par n="evrop/ský__adj"/></e>
-    <e lm="dánský"><par n="nej__adv"/><i>dán</i><par n="evrop/ský__adj"/></e>
-    <e lm="jihoslovanský"><par n="nej__adv"/><i>jihoslovan</i><par n="evrop/ský__adj"/></e>
-    <e lm="jizerský"><par n="nej__adv"/><i>jizer</i><par n="evrop/ský__adj"/></e>
+    <e lm="evropský"><par n="nej__adv"/><i>evrop</i><par n="če/ský__adj"/></e>
+    <e lm="dánský"><par n="nej__adv"/><i>dán</i><par n="če/ský__adj"/></e>
+    <e lm="jihoslovanský"><par n="nej__adv"/><i>jihoslovan</i><par n="če/ský__adj"/></e>
+    <e lm="jizerský"><par n="nej__adv"/><i>jizer</i><par n="če/ský__adj"/></e>
 
-    <e lm="afgánský"><par n="nej__adv"/><i>afgán</i><par n="evrop/ský__adj"/></e>
-    <e lm="arabský"><par n="nej__adv"/><i>arab</i><par n="evrop/ský__adj"/></e>
-    <e lm="aramejský"><par n="nej__adv"/><i>aramej</i><par n="evrop/ský__adj"/></e>
-    <e lm="argentinský"><par n="nej__adv"/><i>argentin</i><par n="evrop/ský__adj"/></e>
-    <e lm="arménský"><par n="nej__adv"/><i>armén</i><par n="evrop/ský__adj"/></e>
-    <e lm="asijský"><par n="nej__adv"/><i>asij</i><par n="evrop/ský__adj"/></e>
-    <e lm="australský"><par n="nej__adv"/><i>austral</i><par n="evrop/ský__adj"/></e>
-    <e lm="barbarský"><par n="nej__adv"/><i>barbar</i><par n="evrop/ský__adj"/></e>
-    <e lm="baškirský"><par n="nej__adv"/><i>baškir</i><par n="evrop/ský__adj"/></e>
-    <e lm="běloruský"><par n="nej__adv"/><i>běloru</i><par n="evrop/ský__adj"/></e>
-    <e lm="bengálský"><par n="nej__adv"/><i>bengál</i><par n="evrop/ský__adj"/></e>
-    <e lm="bílský"><par n="nej__adv"/><i>bíl</i><par n="evrop/ský__adj"/></e>
-    <e lm="brazilský"><par n="nej__adv"/><i>brazil</i><par n="evrop/ský__adj"/></e>
-    <e lm="britský"><par n="nej__adv"/><i>brit</i><par n="evrop/ský__adj"/></e>
-    <e lm="bulharský"><par n="nej__adv"/><i>bulhar</i><par n="evrop/ský__adj"/></e>
-    <e lm="český"><par n="nej__adv"/><i>če</i><par n="evrop/ský__adj"/></e>
-    <e lm="chorvatský"><par n="nej__adv"/><i>chorvat</i><par n="evrop/ský__adj"/></e>
-    <e lm="čínský"><par n="nej__adv"/><i>čín</i><par n="evrop/ský__adj"/></e>
-    <e lm="egyptský"><par n="nej__adv"/><i>egypt</i><par n="evrop/ský__adj"/></e>
-    <e lm="faerský"><par n="nej__adv"/><i>faer</i><par n="evrop/ský__adj"/></e>
-    <e lm="finský"><par n="nej__adv"/><i>fin</i><par n="evrop/ský__adj"/></e>
-    <e lm="francouzský"><par n="nej__adv"/><i>francouz</i><par n="evrop/ský__adj"/></e>
-    <e lm="hebrejský"><par n="nej__adv"/><i>hebrej</i><par n="evrop/ský__adj"/></e>
-    <e lm="holandský"><par n="nej__adv"/><i>holand</i><par n="evrop/ský__adj"/></e>
-    <e lm="indiánský"><par n="nej__adv"/><i>indián</i><par n="evrop/ský__adj"/></e>
-    <e lm="indonéský"><par n="nej__adv"/><i>indoné</i><par n="evrop/ský__adj"/></e>
-    <e lm="italský"><par n="nej__adv"/><i>ital</i><par n="evrop/ský__adj"/></e>
-    <e lm="japonský"><par n="nej__adv"/><i>japon</i><par n="evrop/ský__adj"/></e>
-    <e lm="keltský"><par n="nej__adv"/><i>kelt</i><par n="evrop/ský__adj"/></e>
-    <e lm="klingonský"><par n="nej__adv"/><i>klingon</i><par n="evrop/ský__adj"/></e>
-    <e lm="královský"><par n="nej__adv"/><i>králov</i><par n="evrop/ský__adj"/></e>
-    <e lm="křesťanský"><par n="nej__adv"/><i>křesťan</i><par n="evrop/ský__adj"/></e>
-    <e lm="kurdský"><par n="nej__adv"/><i>kurd</i><par n="evrop/ský__adj"/></e>
-    <e lm="latinský"><par n="nej__adv"/><i>latin</i><par n="evrop/ský__adj"/></e>
-    <e lm="litevský"><par n="nej__adv"/><i>litev</i><par n="evrop/ský__adj"/></e>
-    <e lm="lotyšský"><par n="nej__adv"/><i>lotyš</i><par n="evrop/ský__adj"/></e>
-    <e lm="maďarský"><par n="nej__adv"/><i>maďar</i><par n="evrop/ský__adj"/></e>
-    <e lm="malajský"><par n="nej__adv"/><i>malaj</i><par n="evrop/ský__adj"/></e>
-    <e lm="mateřský"><par n="nej__adv"/><i>mateř</i><par n="evrop/ský__adj"/></e>
-    <e lm="mongolský"><par n="nej__adv"/><i>mongol</i><par n="evrop/ský__adj"/></e>
+    <e lm="afgánský"><par n="nej__adv"/><i>afgán</i><par n="če/ský__adj"/></e>
+    <e lm="arabský"><par n="nej__adv"/><i>arab</i><par n="če/ský__adj"/></e>
+    <e lm="aramejský"><par n="nej__adv"/><i>aramej</i><par n="če/ský__adj"/></e>
+    <e lm="argentinský"><par n="nej__adv"/><i>argentin</i><par n="če/ský__adj"/></e>
+    <e lm="arménský"><par n="nej__adv"/><i>armén</i><par n="če/ský__adj"/></e>
+    <e lm="asijský"><par n="nej__adv"/><i>asij</i><par n="če/ský__adj"/></e>
+    <e lm="australský"><par n="nej__adv"/><i>austral</i><par n="če/ský__adj"/></e>
+    <e lm="barbarský"><par n="nej__adv"/><i>barbar</i><par n="če/ský__adj"/></e>
+    <e lm="baškirský"><par n="nej__adv"/><i>baškir</i><par n="če/ský__adj"/></e>
+    <e lm="běloruský"><par n="nej__adv"/><i>běloru</i><par n="če/ský__adj"/></e>
+    <e lm="bengálský"><par n="nej__adv"/><i>bengál</i><par n="če/ský__adj"/></e>
+    <e lm="bílský"><par n="nej__adv"/><i>bíl</i><par n="če/ský__adj"/></e>
+    <e lm="brazilský"><par n="nej__adv"/><i>brazil</i><par n="če/ský__adj"/></e>
+    <e lm="britský"><par n="nej__adv"/><i>brit</i><par n="če/ský__adj"/></e>
+    <e lm="bulharský"><par n="nej__adv"/><i>bulhar</i><par n="če/ský__adj"/></e>
+    <e lm="český"><par n="nej__adv"/><i>če</i><par n="če/ský__adj"/></e>
+    <e lm="chorvatský"><par n="nej__adv"/><i>chorvat</i><par n="če/ský__adj"/></e>
+    <e lm="čínský"><par n="nej__adv"/><i>čín</i><par n="če/ský__adj"/></e>
+    <e lm="egyptský"><par n="nej__adv"/><i>egypt</i><par n="če/ský__adj"/></e>
+    <e lm="faerský"><par n="nej__adv"/><i>faer</i><par n="če/ský__adj"/></e>
+    <e lm="finský"><par n="nej__adv"/><i>fin</i><par n="če/ský__adj"/></e>
+    <e lm="francouzský"><par n="nej__adv"/><i>francouz</i><par n="če/ský__adj"/></e>
+    <e lm="hebrejský"><par n="nej__adv"/><i>hebrej</i><par n="če/ský__adj"/></e>
+    <e lm="holandský"><par n="nej__adv"/><i>holand</i><par n="če/ský__adj"/></e>
+    <e lm="indiánský"><par n="nej__adv"/><i>indián</i><par n="če/ský__adj"/></e>
+    <e lm="indonéský"><par n="nej__adv"/><i>indoné</i><par n="če/ský__adj"/></e>
+    <e lm="italský"><par n="nej__adv"/><i>ital</i><par n="če/ský__adj"/></e>
+    <e lm="japonský"><par n="nej__adv"/><i>japon</i><par n="če/ský__adj"/></e>
+    <e lm="keltský"><par n="nej__adv"/><i>kelt</i><par n="če/ský__adj"/></e>
+    <e lm="klingonský"><par n="nej__adv"/><i>klingon</i><par n="če/ský__adj"/></e>
+    <e lm="královský"><par n="nej__adv"/><i>králov</i><par n="če/ský__adj"/></e>
+    <e lm="křesťanský"><par n="nej__adv"/><i>křesťan</i><par n="če/ský__adj"/></e>
+    <e lm="kurdský"><par n="nej__adv"/><i>kurd</i><par n="če/ský__adj"/></e>
+    <e lm="latinský"><par n="nej__adv"/><i>latin</i><par n="če/ský__adj"/></e>
+    <e lm="litevský"><par n="nej__adv"/><i>litev</i><par n="če/ský__adj"/></e>
+    <e lm="lotyšský"><par n="nej__adv"/><i>lotyš</i><par n="če/ský__adj"/></e>
+    <e lm="maďarský"><par n="nej__adv"/><i>maďar</i><par n="če/ský__adj"/></e>
+    <e lm="malajský"><par n="nej__adv"/><i>malaj</i><par n="če/ský__adj"/></e>
+    <e lm="mateřský"><par n="nej__adv"/><i>mateř</i><par n="če/ský__adj"/></e>
+    <e lm="mongolský"><par n="nej__adv"/><i>mongol</i><par n="če/ský__adj"/></e>
     <e lm="mořský"><par n="nej__adv"/><i>moř</i><par n="evrop/ský__adj"/></e>
-    <e lm="norský"><par n="nej__adv"/><i>nor</i><par n="evrop/ský__adj"/></e>
-    <e lm="otcovský"><par n="nej__adv"/><i>otcov</i><par n="evrop/ský__adj"/></e>
+    <e lm="norský"><par n="nej__adv"/><i>nor</i><par n="če/ský__adj"/></e>
+    <e lm="otcovský"><par n="nej__adv"/><i>otcov</i><par n="če/ský__adj"/></e>
     <e lm="partyzánský"><par n="nej__adv"/><i>partyzán</i><par n="evrop/ský__adj"/></e>
-    <e lm="polský"><par n="nej__adv"/><i>pol</i><par n="evrop/ský__adj"/></e>
-    <e lm="portugalský"><par n="nej__adv"/><i>portugal</i><par n="evrop/ský__adj"/></e>
+    <e lm="polský"><par n="nej__adv"/><i>pol</i><par n="če/ský__adj"/></e>
+    <e lm="portugalský"><par n="nej__adv"/><i>portugal</i><par n="če/ský__adj"/></e>
     <e lm="proletářský"><par n="nej__adv"/><i>proletář</i><par n="evrop/ský__adj"/></e>
-    <e lm="rakouský"><par n="nej__adv"/><i>rakou</i><par n="evrop/ský__adj"/></e>
-    <e lm="římský"><par n="nej__adv"/><i>řím</i><par n="evrop/ský__adj"/></e>
-    <e lm="rumunský"><par n="nej__adv"/><i>rumun</i><par n="evrop/ský__adj"/></e>
-    <e lm="ruský"><par n="nej__adv"/><i>ru</i><par n="evrop/ský__adj"/></e>
-    <e lm="satanský"><par n="nej__adv"/><i>satan</i><par n="evrop/ský__adj"/></e>
-    <e lm="slovanský"><par n="nej__adv"/><i>slovan</i><par n="evrop/ský__adj"/></e>
-    <e lm="španělský"><par n="nej__adv"/><i>španěl</i><par n="evrop/ský__adj"/></e>
-    <e lm="srbský"><par n="nej__adv"/><i>srb</i><par n="evrop/ský__adj"/></e>
-    <e lm="švýcarský"><par n="nej__adv"/><i>švýcar</i><par n="evrop/ský__adj"/></e>
+    <e lm="rakouský"><par n="nej__adv"/><i>rakou</i><par n="če/ský__adj"/></e>
+    <e lm="římský"><par n="nej__adv"/><i>řím</i><par n="če/ský__adj"/></e>
+    <e lm="rumunský"><par n="nej__adv"/><i>rumun</i><par n="če/ský__adj"/></e>
+    <e lm="ruský"><par n="nej__adv"/><i>ru</i><par n="če/ský__adj"/></e>
+    <e lm="satanský"><par n="nej__adv"/><i>satan</i><par n="če/ský__adj"/></e>
+    <e lm="slovanský"><par n="nej__adv"/><i>slovan</i><par n="če/ský__adj"/></e>
+    <e lm="španělský"><par n="nej__adv"/><i>španěl</i><par n="če/ský__adj"/></e>
+    <e lm="srbský"><par n="nej__adv"/><i>srb</i><par n="če/ský__adj"/></e>
+    <e lm="švýcarský"><par n="nej__adv"/><i>švýcar</i><par n="če/ský__adj"/></e>
     <e lm="vegetariánský"><par n="nej__adv"/><i>vegetarián</i><par n="evrop/ský__adj"/></e>
-    <e lm="velšský"><par n="nej__adv"/><i>velš</i><par n="evrop/ský__adj"/></e>
-    <e lm="židovský"><par n="nej__adv"/><i>židov</i><par n="evrop/ský__adj"/></e>
+    <e lm="velšský"><par n="nej__adv"/><i>velš</i><par n="če/ský__adj"/></e>
+    <e lm="židovský"><par n="nej__adv"/><i>židov</i><par n="če/ský__adj"/></e>
 
 
 
@@ -21784,7 +21825,7 @@
     <e lm="jenom"><i>jenom</i><par n="tehdy__adv"/></e>
     <e lm="trochu"><i>trochu</i><par n="tehdy__adv"/></e>
     <e lm="také"><i>také</i><par n="tehdy__adv"/></e>
-    <e lm="nej" r="RL"><i>nej</i><par n="tehdy__adv"/></e>
+    <e lm="nej"><i>nej</i><par n="tehdy__adv"/></e>
     <e lm="nechť"><i>nechť</i><par n="tehdy__adv"/></e>
     <e lm="ať"><i>ať</i><par n="tehdy__adv"/></e>
     <e lm="denně"><i>denně</i><par n="tehdy__adv"/></e>

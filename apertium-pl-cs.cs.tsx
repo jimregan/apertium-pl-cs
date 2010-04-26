@@ -104,6 +104,9 @@
   <def-label name="NE" closed="true">
     <tags-item lemma="ne" tags="adv"/>
   </def-label> 
+  <def-label name="NEJ" closed="true">
+    <tags-item lemma="nej" tags="adv"/>
+  </def-label> 
   <def-label name="MOCI" closed="true">
     <tags-item lemma="moci" tags="vaux.imperf.*.*.*"/>
   </def-label> 
@@ -201,6 +204,19 @@
     <sequence>
       <label-item label="NE"/>
       <label-item label="SERFUT"/>
+    </sequence>
+  </def-mult>
+  <!-- Kludge -->
+  <def-mult name="NEJCOMP">  
+    <sequence>
+      <label-item label="NEJ"/>
+      <tags-item tags="adj.comp.*.*.*"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJSINTCOMP">  
+    <sequence>
+      <label-item label="NEJ"/>
+      <tags-item tags="adj.sint.comp.*.*.*"/>
     </sequence>
   </def-mult>
 </tagset>

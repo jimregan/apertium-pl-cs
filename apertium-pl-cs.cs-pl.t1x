@@ -64,6 +64,12 @@
   <def-cat n="cnjcoo">
      <cat-item tags="cnjcoo"/>
   </def-cat>
+  <def-cat n="adjpo">
+     <cat-item tags="adj.po"/>
+  </def-cat>
+  <def-cat n="adjcpd">
+     <cat-item tags="adj.cpd"/>
+  </def-cat>
   <def-cat n="adj">
      <cat-item tags="adj.*"/>
      <cat-item tags="vblex.imperf.pprs.*"/>
@@ -306,6 +312,10 @@
       </let>
     </def-macro>
     <def-macro n="adv_adj" npar="2"><!-- (per a fer el comparatiu si cal: 'més fosc' = darker; i també per a canviar 'well' per 'very' davant adjectius )". En les regles, és obligatori que s'executi després de la macro 'f_superlatiu1' aplicada a l'adjectiu. -->
+        <let>
+          <var n="adv_adjectiu"/>
+          <lit v=""/>
+        </let>
 	<choose>
 	  <when>
 	    <test>
@@ -326,12 +336,15 @@
                 </or>
 	      </and>
 	    </test>
+            <let>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <lit-tag v="adj.sint.sup"/>
+            </let>
 	    <let>
 	      <var n="adv_adjectiu"/>
 		<concat>
 		  <clip pos="2" side="tl" part="lemh"/> 
 		  <clip pos="2" side="tl" part="a_adj"/>
-		  <lit-tag v="sup"/>
                   <lit-tag v="2.3.4"/>
 		  <clip pos="2" side="tl" part="lemq"/> 
 		</concat>
@@ -348,18 +361,27 @@
 		  <clip pos="1" side="sl" part="a_adv"/> 
 		  <lit-tag v="adv.sint.comp"/>
 		</equal>
-		<equal>
-		  <clip pos="2" side="tl" part="a_adj"/> 
-		  <lit-tag v="adj.sint"/>
-		</equal>
+                <or>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint.comp"/>
+		  </equal>
+                </or>
 	      </and>
 	    </test>
+            <let>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <lit-tag v="adj.sint.comp"/>
+            </let>
 	    <let>
 	      <var n="adv_adjectiu"/>
 		<concat>
 		  <clip pos="2" side="tl" part="lemh"/> 
 		  <clip pos="2" side="tl" part="a_adj"/>
-		  <lit-tag v="comp"/>
                   <lit-tag v="2.3.4"/>
 		  <clip pos="2" side="tl" part="lemq"/> 
 		</concat>
@@ -376,18 +398,27 @@
 		  <clip pos="1" side="sl" part="a_adv"/> 
 		  <lit-tag v="adv.sint.sup"/>
 		</equal>
-		<equal>
-		  <clip pos="2" side="tl" part="a_adj"/> 
-		  <lit-tag v="adj.sint"/>
-		</equal>
+                <or>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint.comp"/>
+		  </equal>
+                </or>
 	      </and>
 	    </test>
+            <let>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <lit-tag v="adj.sint.sup"/>
+            </let>
 	    <let>
 	      <var n="adv_adjectiu"/>
 		<concat>
 		  <clip pos="2" side="tl" part="lemh"/> 
 		  <clip pos="2" side="tl" part="a_adj"/>
-		  <lit-tag v="sup"/>
                   <lit-tag v="2.3.4"/>
 		  <clip pos="2" side="tl" part="lemq"/> 
 		</concat>
@@ -472,6 +503,58 @@
 	    </let>
 	  </otherwise>
 	</choose>
+    </def-macro>
+
+    <def-macro n="degreeadj" npar="1">
+        <let>
+          <var n="adv_adjectiu"/>
+          <lit v=""/>
+        </let>
+	<choose>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="a_adj"/> 
+		  <lit-tag v="adj.comp"/>
+		</equal>
+                <not>
+ 		  <equal>
+		    <clip pos="1" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+                </not>
+	      </and>
+	    </test>
+	    <let>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <lit-tag v="adj"/>
+	    </let>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+                  <lit v="bardzo"/>
+                  <lit-tag v="adv.sint.comp"/>
+                  <lit v="$ ^"/>
+		  <clip pos="1" side="tl" part="lemh"/> 
+		  <clip pos="1" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="1" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <otherwise>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="1" side="tl" part="lemh"/> 
+		  <clip pos="1" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="1" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </otherwise>
+	</choose>
 		
 </def-macro>
 
@@ -517,6 +600,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="degreeadj">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="adj_nom" case="caseFirstWord">
            <tags>
@@ -526,12 +612,7 @@
              <tag><clip pos="2" side="tl" part="cas"/></tag>
            </tags>
            <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="tl" part="a_adj"/>
-             <clip pos="1" side="tl" part="gen" link-to="2"/>
-             <clip pos="1" side="tl" part="nbr" link-to="3"/>
-             <clip pos="1" side="tl" part="cas" link-to="4"/>
-             <clip pos="1" side="tl" part="lemq"/>
+             <var n="adv_adjectiu"/>
            </lu>
            <b pos="1"/>
            <lu>
@@ -547,12 +628,60 @@
      </action>
   </rule>
 
+  <rule comment="REGLA: adjpo">
+     <pattern>
+       <pattern-item n="adjpo"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="po_adj" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="ADV"/></tag>
+           </tags>
+           <lu>
+             <lit v="po"/>
+             <lit-tag v="pr"/>
+           </lu>
+           <b/>
+           <lu>
+             <clip pos="1" side="tl" part="whole"/>
+           </lu>
+         </chunk>
+       </out>
+     </action>
+  </rule>
+  <rule comment="REGLA: adjcpd">
+     <pattern>
+       <pattern-item n="adjcpd"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="adjcpd" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SA"/></tag>
+           </tags>
+           <lu>
+             <clip pos="1" side="tl" part="whole"/>
+           </lu>
+         </chunk>
+       </out>
+     </action>
+  </rule>
   <rule comment="REGLA: adj">
      <pattern>
        <pattern-item n="adj"/>
      </pattern>
      <action>
        <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="degreeadj">
          <with-param pos="1"/>
        </call-macro>
        <out>
@@ -564,12 +693,7 @@
              <tag><clip pos="1" side="tl" part="cas"/></tag>
            </tags>
            <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="tl" part="a_adj"/>
-             <clip pos="1" side="tl" part="gen" link-to="2"/>
-             <clip pos="1" side="tl" part="nbr" link-to="3"/>
-             <clip pos="1" side="tl" part="cas" link-to="4"/>
-             <clip pos="1" side="tl" part="lemq"/>
+             <var n="adv_adjectiu"/>
            </lu>
          </chunk>
        </out>
