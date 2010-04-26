@@ -18664,7 +18664,7 @@
         <par n="BASE__anatomia"/>
       </e>
     </pardef>
-    <pardef n="BASE__filozofia">
+   <pardef n="PBASE__filozofia">
       <e>
         <p>
           <l>a</l>
@@ -18715,12 +18715,6 @@
       </e>
       <e>
         <p>
-          <l>i</l>
-          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>om</l>
           <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
@@ -18750,6 +18744,45 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__filozofia">
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/></r>
+        </p>
+        <par n="PBASE__filozofia"/>
+      </e>
+    </pardef>
+    <pardef n="BASE__fala">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/></r>
+        </p>
+        <par n="PBASE__filozofia"/>
+      </e>
+    </pardef>
+     <pardef n="fal/a__n">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="n"/></r>
+        </p>
+        <par n="BASE__fala"/>
+      </e>
+    </pardef>   
     <pardef n="filozofi/a__n">
       <e>
         <p>
@@ -23738,7 +23771,7 @@
       <e>
         <p>
           <l>si</l>
-          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
@@ -35853,7 +35886,9 @@
     <e lm="minuta"><i>minu</i><par n="cha/ta__n"/></e>
     <e lm="planeta"><i>plane</i><par n="cha/ta__n"/></e>
     <e lm="reszta"><i>resz</i><par n="cha/ta__n"/></e>
-
+    
+    <e lm="fala"><i>fal</i><par n="fal/a__n"/></e>
+    <e lm="niedziela"><i>niedziel</i><par n="fal/a__n"/></e>
 
     <e lm="chata"><i>cha</i><par n="cha/ta__n"/></e>
     <e lm="aorta"><i>aor</i><par n="cha/ta__n"/></e>
@@ -37233,6 +37268,7 @@
     <e lm="Mokrsko"><i>Mokrsk</i><par n="Broumovsk/o__np"/></e>
     <e lm="San Francisco"><i>San<b/>Francisco</i><par n="San_Francisco__np"/></e>
     <e lm="UE"><i>UE</i><par n="UE__np"/></e>
+
 
     <e lm="Australijka"><i>Australij</i><par n="mat/ka__n"/></e>
     <e lm="Alpejka"><i>Alpej</i><par n="mat/ka__n"/></e>
