@@ -17245,7 +17245,7 @@
       <e>
         <p>
           <l></l>
-          <r><s n="np"/><s n="ant"/><s n="mp"/><s n="dim"/></r>
+          <r><s n="np"/><s n="ant"/><s n="dim"/></r>
         </p>
         <par n="BASE__Marek"/>
       </e>
@@ -23026,6 +23026,15 @@
         <par n="BASE__oda"/>
       </e>
     </pardef>
+    <pardef n="Wand/a__np">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__oda"/>
+      </e>
+    </pardef>
     <pardef n="analiz/a__n">
       <e>
         <p>
@@ -23431,7 +23440,7 @@
       <e>
         <p>
           <l></l>
-          <r>ta<s n="np"/><s n="ant"/><s n="f"/><s n="dim"/></r>
+          <r>ta<s n="np"/><s n="ant"/><s n="dim"/></r>
         </p>
         <par n="BASE__matka"/>
       </e>
@@ -23440,7 +23449,7 @@
       <e>
         <p>
           <l></l>
-          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="dim"/></r>
+          <r>a<s n="np"/><s n="ant"/><s n="dim"/></r>
         </p>
         <par n="BASE__matka"/>
       </e>
@@ -23449,7 +23458,7 @@
       <e>
         <p>
           <l></l>
-          <r>na<s n="np"/><s n="ant"/><s n="f"/><s n="dim"/></r>
+          <r>na<s n="np"/><s n="ant"/><s n="dim"/></r>
         </p>
         <par n="BASE__matka"/>
       </e>
@@ -23458,7 +23467,7 @@
       <e>
         <p>
           <l></l>
-          <r>sia<s n="np"/><s n="ant"/><s n="f"/><s n="dim"/></r>
+          <r>sia<s n="np"/><s n="ant"/><s n="dim"/></r>
         </p>
         <par n="BASE__Gośka"/>
       </e>
@@ -37125,6 +37134,8 @@
     <e lm="Žitava"><i>Žitav</i><par n="Iz/ka__np_dim"/></e>
     <e lm="Zuzana"><i>Zuzan</i><par n="Iz/a__np"/></e>
     <e lm="Zuzana"><i>Zuzan</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Wanda"><i>Wand</i><par n="Wand/a__np"/></e>
+    <e lm="Wanda"><i>Wand</i><par n="Iz/ka__np_dim"/></e>
 
     <e lm="Mikulicz"><i>Mikulicz</i><par n="Mikulicz__np"/></e>
     <e lm="Kozyra"><i>Kozyr</i><par n="Kozyr/a__np"/></e>
