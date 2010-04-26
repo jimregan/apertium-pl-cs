@@ -18600,10 +18600,10 @@
       <e r="LR"><p>   <l>ohu</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p>          <l>ůžeš</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p>          <l>ůže</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ůžeme</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ůžete</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ůžou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>   <l>ohou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ůžeme</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ůžete</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ůžou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="LR"><p>   <l>ohou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
       <e><p>          <l>ohl</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>ohla</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
@@ -24159,7 +24159,7 @@
     <e lm="Česká republika"><i>Česk</i><par n="Česk/á_republika__np"/></e>
     <e lm="Irská republika"><i>Irsk</i><par n="Česk/á_republika__np"/></e>
     <e lm="Spojené království"><i>Spojen</i><par n="Spojen/é_království__np"/></e>
-    <e lm="Spojené království Velké Británie a Severního Irska"><i>Spojen</i><par n="Spojen/é_království__np"/><p><l><b/>Velké<b/>Británie<b/>a<b/>Severního<b/>Irska</l><r><g><b/>Velké<b/>Británie<b/>a<b/>Severního<b/>Irska</g></p></e>
+    <e lm="Spojené království Velké Británie a Severního Irska"><i>Spojen</i><par n="Spojen/é_království__np"/><p><l><b/>Velké<b/>Británie<b/>a<b/>Severního<b/>Irska</l><r><g><b/>Velké<b/>Británie<b/>a<b/>Severního<b/>Irska</g></r></p></e>
 
     <e lm="Itálie"><i>Itáli</i><par n="Itáli/e__np"/></e>
 
