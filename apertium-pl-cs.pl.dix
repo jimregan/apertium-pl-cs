@@ -17138,6 +17138,138 @@
         </p>
       </e>
     </pardef>
+    <pardef n="PBASE__astronom_sg">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owi</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="PBASE__chłop_sg">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="PBASE__chłop_pl">
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__Marek">
       <e>
         <p>
@@ -19227,55 +19359,71 @@
         <par n="PBASE__mp_pl"/>
       </e>
     </pardef>
-    <pardef n="astronom__n">
+    
+    <pardef n="BASE__astronom">
       <e>
         <p>
           <l></l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r></r>
         </p>
+        <par n="PBASE__astronom_sg"/>
       </e>
       <e>
         <p>
-          <l>a</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+          <l></l>
+          <r></r>
         </p>
+        <par n="PBASE__mp_pl"/>
+      </e>
+    </pardef>
+    <pardef n="BASE__kretyn">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="PBASE__astronom_sg"/>
       </e>
       <e>
         <p>
-          <l>owi</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+          <l></l>
+          <r></r>
         </p>
+        <par n="PBASE__chłop_pl"/>
+      </e>
+    </pardef>
+    <pardef n="BASE__chłop">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="PBASE__chłop_sg"/>
       </e>
       <e>
         <p>
-          <l>a</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+          <l></l>
+          <r></r>
         </p>
+        <par n="PBASE__chłop_pl"/>
       </e>
-      <e>
-        <p>
-          <l>em</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ie</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ie</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
+    </pardef>
+    <pardef n="astronom__n">
+       <e>
         <p>
           <l></l>
           <r><s n="n"/></r>
         </p>
-        <par n="PBASE__mp_pl"/>
+        <par n="BASE__astronom"/>
+      </e>
+    </pardef>
+    <pardef n="kretyn__n">
+       <e>
+        <p>
+          <l></l>
+          <r><s n="n"/></r>
+        </p>
+        <par n="BASE__kretyn"/>
       </e>
     </pardef>
     <pardef n="studen/t__n">
@@ -20185,44 +20333,9 @@
       <e>
         <p>
           <l></l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="n"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owi</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>em</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ie</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ie</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
+        <par n="PBASE__astronom_sg"/>
       </e>
       <e>
         <p>
@@ -20963,48 +21076,13 @@
       <e>
         <p>
           <l></l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="n"/></r>
         </p>
+        <par n="PBASE__astronom_sg"/>
       </e>
       <e>
         <p>
-          <l>a</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owi</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>em</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ie</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ie</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owie</l>
+          <l></l>
           <r><s n="n"/></r>
         </p>
         <par n="PBASE__mp_pl"/>
@@ -22011,91 +22089,14 @@
       <e>
         <p>
           <l></l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="n"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>u</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>em</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ie</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ie</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
-        </p>
+        <par n="BASE__chłop"/>
       </e>
       <e r="LR">
         <p>
           <l>y</l>
           <r><s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ów</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>om</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ów</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ami</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ach</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e r="LR">
@@ -35816,6 +35817,9 @@
     <e lm="dziecko"><i>dzie</i><par n="dzie/cko__n"/></e>
     <e lm="śpioch"><i>śpioch</i><par n="śpioch__n"/></e>
     <e lm="astronom"><i>astronom</i><par n="astronom__n"/></e>
+    <e lm="kretyn"><i>kretyn</i><par n="kretyn__n"/></e>
+    <e lm="blondyn"><i>blondyn</i><par n="kretyn__n"/></e>
+    <e lm="kapłan"><i>kapłan</i><par n="kretyn__n"/></e>
     <e lm="mąż"><i>m</i><par n="m/ąż__n"/></e>
     <e lm="student"><i>studen</i><par n="studen/t__n"/></e>
     <e lm="brat"><i>bra</i><par n="bra/t__n"/></e>
