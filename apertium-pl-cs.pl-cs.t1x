@@ -58,6 +58,9 @@
   <def-cat n="cnjcoo">
      <cat-item tags="cnjcoo"/>
   </def-cat>
+  <def-cat n="sent">
+     <cat-item tags="sent"/>
+  </def-cat>
   <def-cat n="det">
      <cat-item tags="det"/>
      <cat-item tags="det.*"/>
@@ -733,6 +736,47 @@
         </out>
      </action>
   </rule>
+
+    <rule> <!-- REGLA: reset variables-->
+      <pattern>
+        <pattern-item n="sent"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <not>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="lem"/>
+                    <lit v=";"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="lem"/>
+                    <lit v=":"/>
+                  </equal>
+                </or>
+              </not>
+            </test>
+            <let>
+              <var n="EOS"/>
+              <lit v="true"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <chunk name="punt">
+            <tags>
+              <tag><lit-tag v="sent"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
   <rule comment="REGLA: prnpos">
      <pattern>
        <pattern-item n="prnpos"/>
