@@ -311,12 +311,7 @@
              <tag><clip pos="1" side="tl" part="cas"/></tag>
            </tags>
            <lu>
-             <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="tl" part="a_adj"/>
-             <clip pos="2" side="tl" part="gen" link-to="2"/>
-             <clip pos="2" side="tl" part="nbr" link-to="3"/>
-             <clip pos="2" side="tl" part="cas" link-to="4"/>
-             <clip pos="2" side="tl" part="lemq"/>
+             <clip pos="2" side="tl" part="whole"/>
            </lu>
          </chunk>
        </out>
