@@ -398,6 +398,10 @@
            </lu>
          </chunk>
        </out>
+       <call-macro n="f_bcond">
+         <with-param pos="1"/>
+         <with-param pos="2"/>
+       </call-macro>
      </action>
   </rule>
   <rule comment="REGLA: adj nom">
