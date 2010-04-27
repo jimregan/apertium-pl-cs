@@ -151,20 +151,8 @@
     <tags-item tags="n.*.*.voc"/>
   </def-label> 
   <def-label name="ADJCOMP">
-    <tags-item tags="adj.comp.*.*.nom"/>
-    <tags-item tags="adj.comp.*.*.gen"/>
-    <tags-item tags="adj.comp.*.*.dat"/>
-    <tags-item tags="adj.comp.*.*.acc"/>
-    <tags-item tags="adj.comp.*.*.ins"/>
-    <tags-item tags="adj.comp.*.*.loc"/>
-    <tags-item tags="adj.comp.*.*.voc"/>
-    <tags-item tags="adj.sint.comp.*.*.nom"/>
-    <tags-item tags="adj.sint.comp.*.*.gen"/>
-    <tags-item tags="adj.sint.comp.*.*.dat"/>
-    <tags-item tags="adj.sint.comp.*.*.acc"/>
-    <tags-item tags="adj.sint.comp.*.*.ins"/>
-    <tags-item tags="adj.sint.comp.*.*.loc"/>
-    <tags-item tags="adj.sint.comp.*.*.voc"/>
+    <tags-item tags="adj.comp.*"/>
+    <tags-item tags="adj.sint.comp.*"/>
   </def-label> 
 
 

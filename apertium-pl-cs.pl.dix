@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-  <alphabet>AaÁáÄäBbCcČčDdĎďEeÉéFfGgHhIiÍíJjKkLlĽľĹĺMmNnŇňOoÓóÔôPpQqRrŔŕSsŠšTtŤťUuÚúVvWwXxYyÝýZzŽžĄąĆćĘęŁłŃńÓóŚśQqŻżŹźÁČĎÉĚÍŇŘŠŤÚŮÝŽáčďéěíňřšťúůýž</alphabet>
+  <alphabet>AaÁáÄäBbCcČčDdĎďEeÉéFfGgHhIiÍíJjKkLlĽľĹĺMmNnŇňOoÓóÔôPpQqRrŔŕSsŠšTtŤťUuÚúVvWwXxYyÝýZzŽžĄąĆćĘęŁłŃńÓóŚśQqŻżŹźÁČĎÉĚÍŇŘŠŤÚŮÝŽáčďéěíňřšťúůýžĕ</alphabet>
   <sdefs>
     <!-- części mowy -->
     <sdef n="n"       c="rzeczownik"/>   
@@ -35642,6 +35642,7 @@
     <e lm="niebiosa"><i>niebi</i><par n="niebi/osa__n"/></e>
     <e lm="lato"><i>l</i><par n="l/ato__n"/></e>
     <e lm="piwo"><i>piw</i><par n="piw/o__n"/></e>
+    <e lm="prawo"><i>praw</i><par n="piw/o__n"/></e>
     <e lm="rano"><i>ran</i><par n="piw/o__n"/></e>
     <e lm="drzewo"><i>drzew</i><par n="piw/o__n"/></e>
     <e lm="cudzołóstwo"><i>cudzołóstw</i><par n="piw/o__n"/></e>
@@ -35920,6 +35921,7 @@
     <e lm="gram"><i>gram</i><par n="minus__n"/></e>
 
     <e lm="aborcja"><i>aborc</i><par n="dysertac/ja__n"/></e>
+    <e lm="deklaracja"><i>deklarac</i><par n="dysertac/ja__n"/></e>
     <e lm="absolutyzacja"><i>absolutyzac</i><par n="dysertac/ja__n"/></e>
     <e lm="adiektywizacja"><i>adiektywizac</i><par n="dysertac/ja__n"/></e>
     <e lm="afrykanizacja"><i>afrykanizac</i><par n="dysertac/ja__n"/></e>
