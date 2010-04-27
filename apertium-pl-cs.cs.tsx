@@ -210,13 +210,13 @@
   <def-mult name="NEJCOMP">  
     <sequence>
       <label-item label="NEJ"/>
-      <tags-item tags="adj.comp.*.*.*"/>
+      <tags-item tags="adj.comp.*"/>
     </sequence>
   </def-mult>
   <def-mult name="NEJSINTCOMP">  
     <sequence>
       <label-item label="NEJ"/>
-      <tags-item tags="adj.sint.comp.*.*.*"/>
+      <tags-item tags="adj.sint.comp.*"/>
     </sequence>
   </def-mult>
 </tagset>
