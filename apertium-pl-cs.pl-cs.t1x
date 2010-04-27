@@ -24,6 +24,9 @@
   <def-cat n="prn">
      <cat-item tags="prn.*"/>
   </def-cat>
+  <def-cat n="prnpos">
+     <cat-item tags="prn.pos.*"/>
+  </def-cat>
   <def-cat n="adj">
      <cat-item tags="adj.*"/>
      <cat-item tags="vblex.imperf.pp.*"/>
@@ -97,6 +100,8 @@
      <attr-item tags="prn"/>
      <attr-item tags="prn.ind"/>
      <attr-item tags="prn.itg"/>
+     <attr-item tags="prn.pos"/>
+     <attr-item tags="prn.pos.uns"/>
   </def-attr>
 
   <def-attr n="tns">
@@ -521,6 +526,70 @@
             </lu>
           </chunk>
         </out>
+     </action>
+  </rule>
+  <rule comment="REGLA: adj nom">
+     <pattern>
+       <pattern-item n="prnpos"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="gen"/>
+               <lit-tag v="mp"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="gen"/>
+             <lit-tag v="ma"/>
+           </let>
+         </when>
+       </choose>
+       <choose>
+         <when>
+           <test>
+             <and>
+               <equal>
+                 <clip pos="1" side="sl" part="a_prn"/>
+                 <lit-tag v="prn.pos.uns"/>
+               </equal>
+               <not>
+                 <equal>
+                   <clip pos="1" side="sl" part="cas"/>
+                   <lit-tag v="nom"/>
+                 </equal>
+               </not>
+             </and>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="a_prn"/>
+             <lit-tag v="prn.pos"/>
+           </let>
+         </when>
+       </choose>
+       <out>
+         <chunk name="prnpos" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SN"/></tag>
+             <tag><clip pos="1" side="tl" part="gen"/></tag>
+             <tag><clip pos="1" side="tl" part="nbr"/></tag>
+             <tag><clip pos="1" side="tl" part="cas"/></tag>
+           </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="a_prn"/>
+             <clip pos="1" side="tl" part="gen" link-to="2"/>
+             <clip pos="1" side="tl" part="nbr" link-to="3"/>
+             <clip pos="1" side="tl" part="cas" link-to="4"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+       </out>
      </action>
   </rule>
 
