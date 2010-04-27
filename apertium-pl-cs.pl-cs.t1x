@@ -37,6 +37,10 @@
   <def-cat n="nie">
      <cat-item lemma="nie" tags="adv"/>
   </def-cat>
+  <def-cat n="adv">
+     <cat-item tags="adv"/>
+     <cat-item tags="adv.*"/>
+  </def-cat>
   <def-cat n="po">
      <cat-item lemma="po" tags="pr"/>
   </def-cat>
@@ -160,6 +164,7 @@
   <def-var n="caseFirstWord"/>
   <def-var n="adv_adjectiu"/>
   <def-var n="EOS" v="true"/>
+  <def-var n="superlatiu1"/>
 </section-def-vars>
 
 <section-def-macros>
@@ -355,6 +360,166 @@
           </otherwise>
         </choose>
     </def-macro>
+    <def-macro n="adv_adj" npar="2">
+        <let>
+          <var n="adv_adjectiu"/>
+          <lit v=""/>
+        </let>
+	<choose>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="dużo"/>
+		</equal>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="a_adv"/> 
+		  <lit-tag v="adv.sint.comp"/>
+		</equal>
+                <or>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint.comp"/>
+		  </equal>
+                </or>
+	      </and>
+	    </test>
+            <let>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <lit-tag v="adj.sint.comp"/>
+            </let>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="dużo"/>
+		</equal>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="a_adv"/> 
+		  <lit-tag v="adv.sint.sup"/>
+		</equal>
+                <or>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint.comp"/>
+		  </equal>
+                </or>
+	      </and>
+	    </test>
+            <let>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <lit-tag v="adj.sint.sup"/>
+            </let>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="bardzo"/>
+		</equal>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="a_adv"/> 
+		  <lit-tag v="adv.sint.comp"/>
+		</equal>
+                <not>
+  		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+                </not>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+                  <lit v="hodně"/>
+                  <lit-tag v="adv.sint.comp"/>
+                  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="dużo"/>
+		</equal>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="a_adv"/> 
+		  <lit-tag v="adv.sint.sup"/>
+		</equal>
+                <not>
+  		  <equal>
+		    <clip pos="2" side="tl" part="a_adj"/> 
+		    <lit-tag v="adj.sint"/>
+		  </equal>
+                </not>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+                  <lit v="hodně"/>
+                  <lit-tag v="adv.sint.sup"/>
+                  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <otherwise>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="1" side="tl" part="whole"/> 
+		  <lit v="$ ^"/>
+		  <var n="superlatiu1"/>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </otherwise>
+	</choose>
+    </def-macro>
 </section-def-macros>
 
 <section-rules>
@@ -445,6 +610,35 @@
              <clip pos="2" side="tl" part="lemq"/>
            </lu>
          </chunk>
+       </out>
+     </action>
+  </rule>
+
+  <rule comment="REGLA: adv adj">
+     <pattern>
+       <pattern-item n="adv"/>
+       <pattern-item n="adj"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="adv_adj">
+         <with-param pos="1"/>
+         <with-param pos="2"/>
+       </call-macro>
+       <out>
+         <chunk name="adv_adj" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SA"/></tag>
+             <tag><clip pos="2" side="tl" part="gen"/></tag>
+             <tag><clip pos="2" side="tl" part="nbr"/></tag>
+             <tag><clip pos="2" side="tl" part="cas"/></tag>
+           </tags>
+           <lu>
+             <var n="adv_adjectiu"/>
+           </lu>
+         </chunk>       
        </out>
      </action>
   </rule>
