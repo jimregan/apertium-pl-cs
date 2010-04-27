@@ -150,6 +150,22 @@
   <def-label name="NOMVOC">
     <tags-item tags="n.*.*.voc"/>
   </def-label> 
+  <def-label name="ADJCOMP">
+    <tags-item tags="adj.comp.*.*.nom"/>
+    <tags-item tags="adj.comp.*.*.gen"/>
+    <tags-item tags="adj.comp.*.*.dat"/>
+    <tags-item tags="adj.comp.*.*.acc"/>
+    <tags-item tags="adj.comp.*.*.ins"/>
+    <tags-item tags="adj.comp.*.*.loc"/>
+    <tags-item tags="adj.comp.*.*.voc"/>
+    <tags-item tags="adj.sint.comp.*.*.nom"/>
+    <tags-item tags="adj.sint.comp.*.*.gen"/>
+    <tags-item tags="adj.sint.comp.*.*.dat"/>
+    <tags-item tags="adj.sint.comp.*.*.acc"/>
+    <tags-item tags="adj.sint.comp.*.*.ins"/>
+    <tags-item tags="adj.sint.comp.*.*.loc"/>
+    <tags-item tags="adj.sint.comp.*.*.voc"/>
+  </def-label> 
 
 
   <def-mult name="NEMOCI" closed="true">  
@@ -210,13 +226,7 @@
   <def-mult name="NEJCOMP">  
     <sequence>
       <label-item label="NEJ"/>
-      <tags-item tags="adj.comp.*"/>
-    </sequence>
-  </def-mult>
-  <def-mult name="NEJSINTCOMP">  
-    <sequence>
-      <label-item label="NEJ"/>
-      <tags-item tags="adj.sint.comp.*"/>
+      <label-item label="ADJCOMP"/>
     </sequence>
   </def-mult>
 </tagset>
