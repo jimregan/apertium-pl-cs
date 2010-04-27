@@ -34,6 +34,9 @@
      <cat-item tags="vbser.pp.*"/>
      <cat-item tags="vblex.imperf.pprs.*"/>
   </def-cat>
+  <def-cat n="nie">
+     <cat-item lemma="nie" tags="adv"/>
+  </def-cat>
   <def-cat n="po">
      <cat-item lemma="po" tags="pr"/>
   </def-cat>
@@ -528,7 +531,7 @@
         </out>
      </action>
   </rule>
-  <rule comment="REGLA: adj nom">
+  <rule comment="REGLA: prnpos">
      <pattern>
        <pattern-item n="prnpos"/>
      </pattern>
@@ -759,6 +762,209 @@
             </out>
           </otherwise>
         </choose>
+     </action>
+  </rule>
+  <rule>
+     <pattern>
+       <pattern-item n="nie"/>
+       <pattern-item n="vblex"/>
+     </pattern>
+     <action>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="2" side="sl" part="tns"/>
+               <lit-tag v="past"/>
+             </equal>
+           </test>
+           <choose>
+             <when>
+               <test>
+                 <equal>
+                   <clip pos="2" side="tl" part="prs"/>
+                   <lit-tag v="p3"/>
+                 </equal>
+               </test>
+               <out>
+                 <chunk name="ne_verbpast" case="caseFirstWord">
+                   <tags>
+                     <tag><lit-tag v="SV"/></tag>
+                      <tag><clip pos="2" side="tl" part="tns"/></tag>
+                      <tag><clip pos="2" side="tl" part="gen"/></tag>
+                      <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                    </tags>
+                    <mlu>
+                      <lu>
+                        <lit v="ne"/>
+                        <lit-tag v="adv"/>
+                      </lu>
+                      <lu>
+                        <clip pos="2" side="tl" part="lem"/>
+                        <clip pos="2" side="tl" part="a_vrb"/>
+                        <clip pos="2" side="tl" part="asp"/>
+                        <clip pos="2" side="tl" part="tns"/>
+                        <clip pos="2" side="tl" part="gen"/>
+                        <clip pos="2" side="tl" part="nbr"/>
+                      </lu>
+                    </mlu>
+                  </chunk>
+                </out>
+             </when>
+             <otherwise>
+               <out>
+                <chunk name="ne_verbpast" case="caseFirstWord">
+                  <tags>
+                    <tag><lit-tag v="SV"/></tag>
+                     <tag><clip pos="2" side="tl" part="tns"/></tag>
+                     <tag><clip pos="2" side="tl" part="gen"/></tag>
+                     <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                   </tags>
+                   <mlu>
+                     <lu>
+                       <lit v="ne"/>
+                       <lit-tag v="adv"/>
+                     </lu>
+                     <lu>
+                       <clip pos="2" side="tl" part="lem"/>
+                       <clip pos="2" side="tl" part="a_vrb"/>
+                       <clip pos="2" side="tl" part="asp"/>
+                       <clip pos="2" side="tl" part="tns"/>
+                       <clip pos="2" side="tl" part="gen"/>
+                       <clip pos="2" side="tl" part="nbr"/>
+                     </lu>
+                   </mlu>
+                   <b/>
+                   <lu>
+                     <lit v="být"/>
+                     <lit-tag v="vbser"/>
+                     <lit-tag v="pres"/>
+                     <clip pos="2" side="tl" part="prs"/>
+                     <clip pos="2" side="tl" part="nbr"/>
+                   </lu>
+                 </chunk>
+               </out>
+             </otherwise>
+           </choose>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <clip pos="2" side="sl" part="tns"/>
+               <lit-tag v="cni"/>
+             </equal>
+           </test>
+           <choose>
+             <when>
+               <test>
+                 <equal>
+                   <clip pos="2" side="tl" part="prs"/>
+                   <lit-tag v="p3"/>
+                 </equal>
+               </test>
+               <out>
+                 <chunk name="ne_verbcni" case="caseFirstWord">
+                   <tags>
+                     <tag><lit-tag v="SV"/></tag>
+                      <tag><clip pos="2" side="tl" part="tns"/></tag>
+                      <tag><clip pos="2" side="tl" part="gen"/></tag>
+                      <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                    </tags>
+                    <mlu>
+                     <lu>
+                       <lit v="ne"/>
+                       <lit-tag v="adv"/>
+                     </lu>
+                     <lu>
+                       <clip pos="2" side="tl" part="lem"/>
+                       <clip pos="2" side="tl" part="a_vrb"/>
+                       <clip pos="2" side="tl" part="asp"/>
+                       <lit-tag v="past"/>
+                       <clip pos="2" side="tl" part="gen"/>
+                       <clip pos="2" side="tl" part="nbr"/>
+                     </lu>
+                   </mlu>
+                   <b/>
+                   <lu>
+                     <lit v="by"/>
+                     <lit-tag v="cnjsub"/>
+                   </lu>
+                </chunk>
+               </out>
+             </when>
+             <otherwise>
+               <out>
+                <chunk name="ne_verbcni" case="caseFirstWord">
+                  <tags>
+                    <tag><lit-tag v="SV"/></tag>
+                     <tag><clip pos="2" side="tl" part="tns"/></tag>
+                     <tag><clip pos="2" side="tl" part="gen"/></tag>
+                     <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                   </tags>
+                   <mlu>
+                     <lu>
+                       <lit v="ne"/>
+                       <lit-tag v="adv"/>
+                     </lu>
+                     <lu>
+                       <clip pos="2" side="tl" part="lem"/>
+                       <clip pos="2" side="tl" part="a_vrb"/>
+                       <clip pos="2" side="tl" part="asp"/>
+                       <lit-tag v="past"/>
+                       <clip pos="2" side="tl" part="gen"/>
+                       <clip pos="2" side="tl" part="nbr"/>
+                     </lu>
+                   </mlu>
+                   <b/>
+                   <mlu>
+                     <lu>
+                       <lit v="by"/>
+                       <lit-tag v="cnjsub"/>
+                     </lu>
+                     <lu>
+                       <lit v="být"/>
+                       <lit-tag v="vbser"/>
+                       <lit-tag v="pres"/>
+                       <clip pos="2" side="tl" part="prs"/>
+                       <clip pos="2" side="tl" part="nbr"/>
+                     </lu>
+                   </mlu>
+                 </chunk>
+               </out>
+             </otherwise>
+           </choose>
+         </when>
+         <otherwise>  
+           <out>
+             <chunk name="ne_verb" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="2" side="tl" part="tns"/></tag>
+                  <tag><clip pos="2" side="tl" part="prs"/></tag>
+                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                </tags>
+                <mlu>
+                  <lu>
+                    <lit v="ne"/>
+                    <lit-tag v="adv"/>
+                  </lu>
+                  <lu>
+                    <clip pos="2" side="tl" part="lem"/>
+                    <clip pos="2" side="tl" part="a_vrb"/>
+                    <clip pos="2" side="tl" part="asp"/>
+                    <clip pos="2" side="tl" part="tns"/>
+                    <clip pos="2" side="tl" part="prs"/>
+                    <clip pos="2" side="tl" part="nbr"/>
+                  </lu>
+                </mlu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
+        <call-macro n="f_bcond">
+         <with-param pos="1"/>
+         <with-param pos="2"/>
+        </call-macro>
      </action>
   </rule>
 
