@@ -236,7 +236,7 @@
                 <concat>
                   <lit v="nej"/>
                   <lit-tag v="adv"/>
-                  <lit v="$^"/>
+                  <lit v="+"/>
                   <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_adj"/>
                   <lit-tag v="2.3.4"/>
