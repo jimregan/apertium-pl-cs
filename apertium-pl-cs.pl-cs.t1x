@@ -213,6 +213,42 @@
               <and>
                 <equal caseless="yes">
                   <clip pos="1" side="sl" part="a_adj"/>
+                  <lit-tag v="adj.sint.sup"/>
+                </equal>
+                <or>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_adj"/>
+                    <lit-tag v="adj.sint"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_adj"/>
+                    <lit-tag v="adj.sint.sup"/>
+                  </equal>
+                </or>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <lit-tag v="adj.sint.comp"/>
+            </let>
+            <let>
+              <var n="adv_adjectiu"/>
+                <concat>
+                  <lit v="nej"/>
+                  <lit-tag v="adv"/>
+                  <lit v="$^"/>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </concat>
+            </let>
+          </when>
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="1" side="sl" part="a_adj"/>
                   <lit-tag v="adj.comp"/>
                 </equal>
                 <not>
@@ -230,8 +266,40 @@
             <let>
               <var n="adv_adjectiu"/>
                 <concat>
-                  <lit v="bardzo"/>
+                  <lit v="hodně"/>
                   <lit-tag v="adv.sint.comp"/>
+                  <lit v="$ ^"/>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_adj"/>
+                  <lit-tag v="2.3.4"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </concat>
+            </let>
+          </when>
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="1" side="sl" part="a_adj"/>
+                  <lit-tag v="adj.sup"/>
+                </equal>
+                <not>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_adj"/>
+                    <lit-tag v="adj.sint"/>
+                  </equal>
+                </not>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <lit-tag v="adj"/>
+            </let>
+            <let>
+              <var n="adv_adjectiu"/>
+                <concat>
+                  <lit v="hodně"/>
+                  <lit-tag v="adv.sint.sup"/>
                   <lit v="$ ^"/>
                   <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_adj"/>
@@ -327,6 +395,26 @@
        <pattern-item n="adj"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="gen"/>
+               <lit-tag v="mp"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="gen"/>
+             <lit-tag v="ma"/>
+           </let>
+         </when>
+       </choose>
+       <call-macro n="degreeadj">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="adj" case="caseFirstWord">
            <tags>
@@ -336,12 +424,7 @@
              <tag><clip pos="1" side="tl" part="cas"/></tag>
            </tags>
            <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="tl" part="a_adj"/>
-             <clip pos="1" side="tl" part="gen" link-to="2"/>
-             <clip pos="1" side="tl" part="nbr" link-to="3"/>
-             <clip pos="1" side="tl" part="cas" link-to="4"/>
-             <clip pos="1" side="tl" part="lemq"/>
+             <var n="adv_adjectiu"/>
            </lu>
          </chunk>
        </out>
