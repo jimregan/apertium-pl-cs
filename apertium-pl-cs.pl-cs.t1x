@@ -35,6 +35,12 @@
      <cat-item tags="pr"/>
      <cat-item tags="pr.*"/>
   </def-cat>
+  <def-cat n="cnjsub">
+     <cat-item tags="cnjsub"/>
+  </def-cat>
+  <def-cat n="cnjcoo">
+     <cat-item tags="cnjcoo"/>
+  </def-cat>
   <def-cat n="det">
      <cat-item tags="det"/>
      <cat-item tags="det.*"/>
@@ -342,6 +348,47 @@
      </action>
   </rule>
 
+  <rule comment="cnjcoo">
+     <pattern>
+       <pattern-item n="cnjcoo"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="cnj" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="cnjcoo"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+  <rule comment="cnjsub">
+     <pattern>
+       <pattern-item n="cnjsub"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="cnj" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="cnjsub"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
 
   <rule>
      <pattern>
