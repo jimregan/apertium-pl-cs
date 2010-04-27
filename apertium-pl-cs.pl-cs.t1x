@@ -31,6 +31,13 @@
      <cat-item tags="vbser.pp.*"/>
      <cat-item tags="vblex.imperf.pprs.*"/>
   </def-cat>
+  <def-cat n="po">
+     <cat-item lemma="po" tags="pr"/>
+  </def-cat>
+  <def-cat n="adjpo">
+     <cat-item tags="adj.po.*"/>
+     <cat-item tags="adj.po"/>
+  </def-cat>
   <def-cat n="pr">
      <cat-item tags="pr"/>
      <cat-item tags="pr.*"/>
@@ -69,6 +76,7 @@
      <attr-item tags="adj.dim"/>
      <attr-item tags="adj.sint.dim"/>
      <attr-item tags="adj.itg"/>
+     <attr-item tags="adj.po"/>
   </def-attr>
 
   <def-attr n="a_vrb">
@@ -146,23 +154,6 @@
 </section-def-vars>
 
 <section-def-macros>
-    <def-macro n="f_bcond" npar="2">
-      <choose>
-        <when>
-          <test>
-            <not>
-              <equal>
-                <b pos="1"/>
-                <lit v=" "/>
-              </equal>
-            </not>
-          </test>
-          <out>
-            <b pos="1"/>
-          </out>
-        </when>             
-      </choose>
-    </def-macro>
     <def-macro n="firstWord" npar="1"><!--nova versió 8-febr-08  -->
           <choose>
             <when>
@@ -230,42 +221,6 @@
               <and>
                 <equal caseless="yes">
                   <clip pos="1" side="sl" part="a_adj"/>
-                  <lit-tag v="adj.sint.sup"/>
-                </equal>
-                <or>
-                  <equal>
-                    <clip pos="1" side="tl" part="a_adj"/>
-                    <lit-tag v="adj.sint"/>
-                  </equal>
-                  <equal>
-                    <clip pos="1" side="tl" part="a_adj"/>
-                    <lit-tag v="adj.sint.sup"/>
-                  </equal>
-                </or>
-              </and>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="a_adj"/>
-              <lit-tag v="adj.sint.comp"/>
-            </let>
-            <let>
-              <var n="adv_adjectiu"/>
-                <concat>
-                  <lit v="nej"/>
-                  <lit-tag v="adv"/>
-                  <lit v="+"/>
-                  <clip pos="1" side="tl" part="lemh"/>
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <lit-tag v="2.3.4"/>
-                  <clip pos="1" side="tl" part="lemq"/>
-                </concat>
-            </let>
-          </when>
-          <when>
-            <test>
-              <and>
-                <equal caseless="yes">
-                  <clip pos="1" side="sl" part="a_adj"/>
                   <lit-tag v="adj.comp"/>
                 </equal>
                 <not>
@@ -283,40 +238,8 @@
             <let>
               <var n="adv_adjectiu"/>
                 <concat>
-                  <lit v="hodně"/>
+                  <lit v="bardzo"/>
                   <lit-tag v="adv.sint.comp"/>
-                  <lit v="$ ^"/>
-                  <clip pos="1" side="tl" part="lemh"/>
-                  <clip pos="1" side="tl" part="a_adj"/>
-                  <lit-tag v="2.3.4"/>
-                  <clip pos="1" side="tl" part="lemq"/>
-                </concat>
-            </let>
-          </when>
-          <when>
-            <test>
-              <and>
-                <equal caseless="yes">
-                  <clip pos="1" side="sl" part="a_adj"/>
-                  <lit-tag v="adj.sup"/>
-                </equal>
-                <not>
-                  <equal>
-                    <clip pos="1" side="tl" part="a_adj"/>
-                    <lit-tag v="adj.sint"/>
-                  </equal>
-                </not>
-              </and>
-            </test>
-            <let>
-              <clip pos="1" side="tl" part="a_adj"/>
-              <lit-tag v="adj"/>
-            </let>
-            <let>
-              <var n="adv_adjectiu"/>
-                <concat>
-                  <lit v="hodně"/>
-                  <lit-tag v="adv.sint.sup"/>
                   <lit v="$ ^"/>
                   <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_adj"/>
@@ -370,6 +293,36 @@
      </action>
   </rule>
 
+  <rule comment="REGLA: po adjpo">
+     <pattern>
+       <pattern-item n="po"/>
+       <pattern-item n="adjpo"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="adj" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SN"/></tag>
+             <tag><clip pos="1" side="tl" part="gen"/></tag>
+             <tag><clip pos="1" side="tl" part="nbr"/></tag>
+             <tag><clip pos="1" side="tl" part="cas"/></tag>
+           </tags>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="a_adj"/>
+             <clip pos="2" side="tl" part="gen" link-to="2"/>
+             <clip pos="2" side="tl" part="nbr" link-to="3"/>
+             <clip pos="2" side="tl" part="cas" link-to="4"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+       </out>
+     </action>
+  </rule>
+
   <rule comment="REGLA: adj nom">
      <pattern>
        <pattern-item n="adj"/>
@@ -395,12 +348,12 @@
            </lu>
            <b pos="1"/>
            <lu>
-             <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="tl" part="a_nom"/>
-             <clip pos="2" side="tl" part="gen" link-to="2"/>
-             <clip pos="2" side="tl" part="nbr" link-to="3"/>
-             <clip pos="2" side="tl" part="cas" link-to="4"/>
-             <clip pos="2" side="tl" part="lemq"/>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="a_adj"/>
+             <clip pos="1" side="tl" part="gen" link-to="2"/>
+             <clip pos="1" side="tl" part="nbr" link-to="3"/>
+             <clip pos="1" side="tl" part="cas" link-to="4"/>
+             <clip pos="1" side="tl" part="lemq"/>
            </lu>
          </chunk>
        </out>
@@ -412,26 +365,6 @@
        <pattern-item n="adj"/>
      </pattern>
      <action>
-       <call-macro n="firstWord">
-         <with-param pos="1"/>
-       </call-macro>
-       <choose>
-         <when>
-           <test>
-             <equal>
-               <clip pos="1" side="sl" part="gen"/>
-               <lit-tag v="mp"/>
-             </equal>
-           </test>
-           <let>
-             <clip pos="1" side="tl" part="gen"/>
-             <lit-tag v="ma"/>
-           </let>
-         </when>
-       </choose>
-       <call-macro n="degreeadj">
-         <with-param pos="1"/>
-       </call-macro>
        <out>
          <chunk name="adj" case="caseFirstWord">
            <tags>
@@ -441,7 +374,12 @@
              <tag><clip pos="1" side="tl" part="cas"/></tag>
            </tags>
            <lu>
-             <var n="adv_adjectiu"/>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="a_adj"/>
+             <clip pos="1" side="tl" part="gen" link-to="2"/>
+             <clip pos="1" side="tl" part="nbr" link-to="3"/>
+             <clip pos="1" side="tl" part="cas" link-to="4"/>
+             <clip pos="1" side="tl" part="lemq"/>
            </lu>
          </chunk>
        </out>
