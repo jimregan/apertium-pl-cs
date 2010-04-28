@@ -1050,6 +1050,311 @@
     <tags-item tags="det.ord.nt.pl.voc"/>
   </def-label> 
 
+  <def-label name="PRNFSGNOM">
+    <tags-item tags="prn.pos.f.sg.nom"/>
+    <tags-item tags="prn.pos.uns.f.sg.nom"/>
+    <tags-item tags="prn.ind.f.sg.nom"/>
+    <tags-item tags="prn.itg.f.sg.nom"/>
+  </def-label> 
+  <def-label name="PRNMASGNOM">
+    <tags-item tags="prn.pos.ma.sg.nom"/>
+    <tags-item tags="prn.pos.uns.ma.sg.nom"/>
+    <tags-item tags="prn.ind.ma.sg.nom"/>
+    <tags-item tags="prn.itg.ma.sg.nom"/>
+  </def-label> 
+  <def-label name="PRNMISGNOM">
+    <tags-item tags="prn.pos.mi.sg.nom"/>
+    <tags-item tags="prn.pos.uns.mi.sg.nom"/>
+    <tags-item tags="prn.ind.mi.sg.nom"/>
+    <tags-item tags="prn.itg.mi.sg.nom"/>
+  </def-label> 
+  <def-label name="PRNNTSGNOM">
+    <tags-item tags="prn.pos.nt.sg.nom"/>
+    <tags-item tags="prn.pos.uns.nt.sg.nom"/>
+    <tags-item tags="prn.ind.nt.sg.nom"/>
+    <tags-item tags="prn.itg.nt.sg.nom"/>
+  </def-label> 
+  <def-label name="PRNFSGGEN">
+    <tags-item tags="prn.pos.f.sg.gen"/>
+    <tags-item tags="prn.ind.f.sg.gen"/>
+    <tags-item tags="prn.itg.f.sg.gen"/>
+  </def-label> 
+  <def-label name="PRNMASGGEN">
+    <tags-item tags="prn.pos.ma.sg.gen"/>
+    <tags-item tags="prn.ind.ma.sg.gen"/>
+    <tags-item tags="prn.itg.ma.sg.gen"/>
+  </def-label> 
+  <def-label name="PRNMISGGEN">
+    <tags-item tags="prn.pos.mi.sg.gen"/>
+    <tags-item tags="prn.ind.mi.sg.gen"/>
+    <tags-item tags="prn.itg.mi.sg.gen"/>
+  </def-label> 
+  <def-label name="PRNNTSGGEN">
+    <tags-item tags="prn.pos.nt.sg.gen"/>
+    <tags-item tags="prn.ind.nt.sg.gen"/>
+    <tags-item tags="prn.itg.nt.sg.gen"/>
+  </def-label> 
+  <def-label name="PRNFSGDAT">
+    <tags-item tags="prn.pos.f.sg.dat"/>
+    <tags-item tags="prn.ind.f.sg.dat"/>
+    <tags-item tags="prn.itg.f.sg.dat"/>
+  </def-label> 
+  <def-label name="PRNMASGDAT">
+    <tags-item tags="prn.pos.ma.sg.dat"/>
+    <tags-item tags="prn.ind.ma.sg.dat"/>
+    <tags-item tags="prn.itg.ma.sg.dat"/>
+  </def-label> 
+  <def-label name="PRNMISGDAT">
+    <tags-item tags="prn.pos.mi.sg.dat"/>
+    <tags-item tags="prn.ind.mi.sg.dat"/>
+    <tags-item tags="prn.itg.mi.sg.dat"/>
+  </def-label> 
+  <def-label name="PRNNTSGDAT">
+    <tags-item tags="prn.pos.nt.sg.dat"/>
+    <tags-item tags="prn.ind.nt.sg.dat"/>
+    <tags-item tags="prn.itg.nt.sg.dat"/>
+  </def-label> 
+  <def-label name="PRNFSGACC">
+    <tags-item tags="prn.pos.f.sg.acc"/>
+    <tags-item tags="prn.pos.uns.f.sg.acc"/>
+    <tags-item tags="prn.ind.f.sg.acc"/>
+    <tags-item tags="prn.itg.f.sg.acc"/>
+  </def-label> 
+  <def-label name="PRNMASGACC">
+    <tags-item tags="prn.pos.ma.sg.acc"/>
+    <tags-item tags="prn.pos.uns.ma.sg.acc"/>
+    <tags-item tags="prn.ind.ma.sg.acc"/>
+    <tags-item tags="prn.itg.ma.sg.acc"/>
+  </def-label> 
+  <def-label name="PRNMISGACC">
+    <tags-item tags="prn.pos.mi.sg.acc"/>
+    <tags-item tags="prn.pos.uns.mi.sg.acc"/>
+    <tags-item tags="prn.ind.mi.sg.acc"/>
+    <tags-item tags="prn.itg.mi.sg.acc"/>
+  </def-label> 
+  <def-label name="PRNNTSGACC">
+    <tags-item tags="prn.pos.nt.sg.acc"/>
+    <tags-item tags="prn.pos.uns.nt.sg.acc"/>
+    <tags-item tags="prn.ind.nt.sg.acc"/>
+    <tags-item tags="prn.itg.nt.sg.acc"/>
+  </def-label> 
+  <def-label name="PRNFSGINS">
+    <tags-item tags="prn.pos.f.sg.ins"/>
+    <tags-item tags="prn.ind.f.sg.ins"/>
+    <tags-item tags="prn.itg.f.sg.ins"/>
+  </def-label> 
+  <def-label name="PRNMASGINS">
+    <tags-item tags="prn.pos.ma.sg.ins"/>
+    <tags-item tags="prn.ind.ma.sg.ins"/>
+    <tags-item tags="prn.itg.ma.sg.ins"/>
+  </def-label> 
+  <def-label name="PRNMISGINS">
+    <tags-item tags="prn.pos.mi.sg.ins"/>
+    <tags-item tags="prn.ind.mi.sg.ins"/>
+    <tags-item tags="prn.itg.mi.sg.ins"/>
+  </def-label> 
+  <def-label name="PRNNTSGINS">
+    <tags-item tags="prn.pos.nt.sg.ins"/>
+    <tags-item tags="prn.ind.nt.sg.ins"/>
+    <tags-item tags="prn.itg.nt.sg.ins"/>
+  </def-label> 
+  <def-label name="PRNFSGLOC">
+    <tags-item tags="prn.pos.f.sg.loc"/>
+    <tags-item tags="prn.ind.f.sg.loc"/>
+    <tags-item tags="prn.itg.f.sg.loc"/>
+  </def-label> 
+  <def-label name="PRNMASGLOC">
+    <tags-item tags="prn.pos.ma.sg.loc"/>
+    <tags-item tags="prn.ind.ma.sg.loc"/>
+    <tags-item tags="prn.itg.ma.sg.loc"/>
+  </def-label> 
+  <def-label name="PRNMISGLOC">
+    <tags-item tags="prn.pos.mi.sg.loc"/>
+    <tags-item tags="prn.ind.mi.sg.loc"/>
+    <tags-item tags="prn.itg.mi.sg.loc"/>
+  </def-label> 
+  <def-label name="PRNNTSGLOC">
+    <tags-item tags="prn.pos.nt.sg.loc"/>
+    <tags-item tags="prn.ind.nt.sg.loc"/>
+    <tags-item tags="prn.itg.nt.sg.loc"/>
+  </def-label> 
+  <def-label name="PRNFSGVOC">
+    <tags-item tags="prn.pos.f.sg.voc"/>
+    <tags-item tags="prn.pos.uns.f.sg.voc"/>
+    <tags-item tags="prn.ind.f.sg.voc"/>
+    <tags-item tags="prn.itg.f.sg.voc"/>
+  </def-label> 
+  <def-label name="PRNMASGVOC">
+    <tags-item tags="prn.pos.ma.sg.voc"/>
+    <tags-item tags="prn.pos.uns.ma.sg.voc"/>
+    <tags-item tags="prn.ind.ma.sg.voc"/>
+    <tags-item tags="prn.itg.ma.sg.voc"/>
+  </def-label> 
+  <def-label name="PRNMISGVOC">
+    <tags-item tags="prn.pos.mi.sg.voc"/>
+    <tags-item tags="prn.pos.uns.mi.sg.voc"/>
+    <tags-item tags="prn.ind.mi.sg.voc"/>
+    <tags-item tags="prn.itg.mi.sg.voc"/>
+  </def-label> 
+  <def-label name="PRNNTSGVOC">
+    <tags-item tags="prn.pos.nt.sg.voc"/>
+    <tags-item tags="prn.pos.uns.nt.sg.voc"/>
+    <tags-item tags="prn.ind.nt.sg.voc"/>
+    <tags-item tags="prn.itg.nt.sg.voc"/>
+  </def-label> 
+  <def-label name="PRNFPLNOM">
+    <tags-item tags="prn.pos.f.pl.nom"/>
+    <tags-item tags="prn.pos.uns.f.pl.nom"/>
+    <tags-item tags="prn.ind.f.pl.nom"/>
+    <tags-item tags="prn.itg.f.pl.nom"/>
+  </def-label> 
+  <def-label name="PRNMAPLNOM">
+    <tags-item tags="prn.pos.ma.pl.nom"/>
+    <tags-item tags="prn.pos.uns.ma.pl.nom"/>
+    <tags-item tags="prn.ind.ma.pl.nom"/>
+    <tags-item tags="prn.itg.ma.pl.nom"/>
+  </def-label> 
+  <def-label name="PRNMIPLNOM">
+    <tags-item tags="prn.pos.mi.pl.nom"/>
+    <tags-item tags="prn.pos.uns.mi.pl.nom"/>
+    <tags-item tags="prn.ind.mi.pl.nom"/>
+    <tags-item tags="prn.itg.mi.pl.nom"/>
+  </def-label> 
+  <def-label name="PRNNTPLNOM">
+    <tags-item tags="prn.pos.nt.pl.nom"/>
+    <tags-item tags="prn.pos.uns.nt.pl.nom"/>
+    <tags-item tags="prn.ind.nt.pl.nom"/>
+    <tags-item tags="prn.itg.nt.pl.nom"/>
+  </def-label> 
+  <def-label name="PRNFPLGEN">
+    <tags-item tags="prn.pos.f.pl.gen"/>
+    <tags-item tags="prn.ind.f.pl.gen"/>
+    <tags-item tags="prn.itg.f.pl.gen"/>
+  </def-label> 
+  <def-label name="PRNMAPLGEN">
+    <tags-item tags="prn.pos.ma.pl.gen"/>
+    <tags-item tags="prn.ind.ma.pl.gen"/>
+    <tags-item tags="prn.itg.ma.pl.gen"/>
+  </def-label> 
+  <def-label name="PRNMIPLGEN">
+    <tags-item tags="prn.pos.mi.pl.gen"/>
+    <tags-item tags="prn.ind.mi.pl.gen"/>
+    <tags-item tags="prn.itg.mi.pl.gen"/>
+  </def-label> 
+  <def-label name="PRNNTPLGEN">
+    <tags-item tags="prn.pos.nt.pl.gen"/>
+    <tags-item tags="prn.ind.nt.pl.gen"/>
+    <tags-item tags="prn.itg.nt.pl.gen"/>
+  </def-label> 
+  <def-label name="PRNFPLDAT">
+    <tags-item tags="prn.pos.f.pl.dat"/>
+    <tags-item tags="prn.ind.f.pl.dat"/>
+    <tags-item tags="prn.itg.f.pl.dat"/>
+  </def-label> 
+  <def-label name="PRNMAPLDAT">
+    <tags-item tags="prn.pos.ma.pl.dat"/>
+    <tags-item tags="prn.ind.ma.pl.dat"/>
+    <tags-item tags="prn.itg.ma.pl.dat"/>
+  </def-label> 
+  <def-label name="PRNMIPLDAT">
+    <tags-item tags="prn.pos.mi.pl.dat"/>
+    <tags-item tags="prn.ind.mi.pl.dat"/>
+    <tags-item tags="prn.itg.mi.pl.dat"/>
+  </def-label> 
+  <def-label name="PRNNTPLDAT">
+    <tags-item tags="prn.pos.nt.pl.dat"/>
+    <tags-item tags="prn.ind.nt.pl.dat"/>
+    <tags-item tags="prn.itg.nt.pl.dat"/>
+  </def-label> 
+  <def-label name="PRNFPLACC">
+    <tags-item tags="prn.pos.f.pl.acc"/>
+    <tags-item tags="prn.pos.uns.f.pl.acc"/>
+    <tags-item tags="prn.ind.f.pl.acc"/>
+    <tags-item tags="prn.itg.f.pl.acc"/>
+  </def-label> 
+  <def-label name="PRNMAPLACC">
+    <tags-item tags="prn.pos.ma.pl.acc"/>
+    <tags-item tags="prn.pos.uns.ma.pl.acc"/>
+    <tags-item tags="prn.ind.ma.pl.acc"/>
+    <tags-item tags="prn.itg.ma.pl.acc"/>
+  </def-label> 
+  <def-label name="PRNMIPLACC">
+    <tags-item tags="prn.pos.mi.pl.acc"/>
+    <tags-item tags="prn.pos.uns.mi.pl.acc"/>
+    <tags-item tags="prn.ind.mi.pl.acc"/>
+    <tags-item tags="prn.itg.mi.pl.acc"/>
+  </def-label> 
+  <def-label name="PRNNTPLACC">
+    <tags-item tags="prn.pos.nt.pl.acc"/>
+    <tags-item tags="prn.pos.uns.nt.pl.acc"/>
+    <tags-item tags="prn.ind.nt.pl.acc"/>
+    <tags-item tags="prn.itg.nt.pl.acc"/>
+  </def-label> 
+  <def-label name="PRNFPLINS">
+    <tags-item tags="prn.pos.f.pl.ins"/>
+    <tags-item tags="prn.ind.f.pl.ins"/>
+    <tags-item tags="prn.itg.f.pl.ins"/>
+  </def-label> 
+  <def-label name="PRNMAPLINS">
+    <tags-item tags="prn.pos.ma.pl.ins"/>
+    <tags-item tags="prn.ind.ma.pl.ins"/>
+    <tags-item tags="prn.itg.ma.pl.ins"/>
+  </def-label> 
+  <def-label name="PRNMIPLINS">
+    <tags-item tags="prn.pos.mi.pl.ins"/>
+    <tags-item tags="prn.ind.mi.pl.ins"/>
+    <tags-item tags="prn.itg.mi.pl.ins"/>
+  </def-label> 
+  <def-label name="PRNNTPLINS">
+    <tags-item tags="prn.pos.nt.pl.ins"/>
+    <tags-item tags="prn.ind.nt.pl.ins"/>
+    <tags-item tags="prn.itg.nt.pl.ins"/>
+  </def-label> 
+  <def-label name="PRNFPLLOC">
+    <tags-item tags="prn.pos.f.pl.loc"/>
+    <tags-item tags="prn.ind.f.pl.loc"/>
+    <tags-item tags="prn.itg.f.pl.loc"/>
+  </def-label> 
+  <def-label name="PRNMAPLLOC">
+    <tags-item tags="prn.pos.ma.pl.loc"/>
+    <tags-item tags="prn.ind.ma.pl.loc"/>
+    <tags-item tags="prn.itg.ma.pl.loc"/>
+  </def-label> 
+  <def-label name="PRNMIPLLOC">
+    <tags-item tags="prn.pos.mi.pl.loc"/>
+    <tags-item tags="prn.ind.mi.pl.loc"/>
+    <tags-item tags="prn.itg.mi.pl.loc"/>
+  </def-label> 
+  <def-label name="PRNNTPLLOC">
+    <tags-item tags="prn.pos.nt.pl.loc"/>
+    <tags-item tags="prn.ind.nt.pl.loc"/>
+    <tags-item tags="prn.itg.nt.pl.loc"/>
+  </def-label> 
+  <def-label name="PRNFPLVOC">
+    <tags-item tags="prn.pos.f.pl.voc"/>
+    <tags-item tags="prn.pos.uns.f.pl.voc"/>
+    <tags-item tags="prn.ind.f.pl.voc"/>
+    <tags-item tags="prn.itg.f.pl.voc"/>
+  </def-label> 
+  <def-label name="PRNMAPLVOC">
+    <tags-item tags="prn.pos.ma.pl.voc"/>
+    <tags-item tags="prn.pos.uns.ma.pl.voc"/>
+    <tags-item tags="prn.ind.ma.pl.voc"/>
+    <tags-item tags="prn.itg.ma.pl.voc"/>
+  </def-label> 
+  <def-label name="PRNMIPLVOC">
+    <tags-item tags="prn.pos.mi.pl.voc"/>
+    <tags-item tags="prn.pos.uns.mi.pl.voc"/>
+    <tags-item tags="prn.ind.mi.pl.voc"/>
+    <tags-item tags="prn.itg.mi.pl.voc"/>
+  </def-label> 
+  <def-label name="PRNNTPLVOC">
+    <tags-item tags="prn.pos.nt.pl.voc"/>
+    <tags-item tags="prn.pos.uns.nt.pl.voc"/>
+    <tags-item tags="prn.ind.nt.pl.voc"/>
+    <tags-item tags="prn.itg.nt.pl.voc"/>
+  </def-label> 
+
   <def-label name="NOMNOM">
     <tags-item tags="n.*.*.nom"/>
   </def-label> 

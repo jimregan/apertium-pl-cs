@@ -8,6 +8,12 @@
   <def-label name="abbr" closed="true">
     <tags-item tags="abbr"/>
   </def-label>
+  <def-label name="num.pl" closed="true">
+    <tags-item tags="num.pl"/>
+  </def-label>
+  <def-label name="num.qnt" closed="true">
+    <tags-item tags="num.qnt"/>
+  </def-label>
   <def-label name="adj.comp.f.pl.acc" closed="true">
     <tags-item tags="adj.comp.f.pl.acc"/>
   </def-label>
