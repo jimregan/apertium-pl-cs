@@ -19,12 +19,6 @@
     <tags-item tags="adv.sint.comp"/>
     <tags-item tags="adv.sint.sup"/>
   </def-label> 
-  <def-label name="PR" closed="true">
-    <tags-item tags="pr"/>
-  </def-label> 
-  <def-label name="PO" closed="true">
-    <tags-item lemma="po" tags="pr"/>
-  </def-label> 
   <def-label name="NOMPR" closed="true">
     <tags-item lemma="ako" tags="pr"/>
   </def-label> 
@@ -75,6 +69,9 @@
     <tags-item lemma="pod" tags="pr"/>
     <tags-item lemma="pred" tags="pr"/>
     <tags-item lemma="za" tags="pr"/>
+  </def-label> 
+  <def-label name="PR" closed="true">
+    <tags-item tags="pr"/>
   </def-label> 
   <def-label name="P3DETPOS" closed="true">
     <tags-item lemma="jeho" tags="det.pos.adv"/>
