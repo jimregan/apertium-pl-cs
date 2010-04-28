@@ -38,6 +38,19 @@
   <def-label name="SE" closed="true">
     <tags-item lemma="se" tags="prn.ref.acc"/>
   </def-label> 
+  <def-label name="SEINS" closed="true">
+    <tags-item lemma="se" tags="prn.ref.ins"/>
+  </def-label> 
+  <def-label name="SEGEN" closed="true">
+    <tags-item lemma="se" tags="prn.ref.gen"/>
+  </def-label> 
+  <def-label name="SEDAT" closed="true">
+    <tags-item lemma="sa" tags="prn.ref.dat"/>
+    <tags-item lemma="se" tags="prn.ref.dat"/>
+  </def-label> 
+  <def-label name="SELOC" closed="true">
+    <tags-item lemma="se" tags="prn.ref.loc"/>
+  </def-label> 
   <def-label name="ABBR">
     <tags-item tags="abbr"/>
   </def-label> 
@@ -76,6 +89,27 @@
     <tags-item tags="adj.po"/>
     <tags-item tags="adj.sint.po"/>
   </def-label> 
+  <def-label name="NUM34NOM">
+    <tags-item tags="num.mf.pl.nom"/>
+  </def-label> 
+  <def-label name="NUM34GEN" closed="true">
+    <tags-item tags="num.mf.pl.gen"/>
+  </def-label> 
+  <def-label name="NUM34DAT" closed="true">
+    <tags-item tags="num.mf.pl.dat"/>
+  </def-label> 
+  <def-label name="NUM34ACC" closed="true">
+    <tags-item tags="num.mf.pl.acc"/>
+  </def-label> 
+  <def-label name="NUM34INS" closed="true">
+    <tags-item tags="num.mf.pl.ins"/>
+  </def-label> 
+  <def-label name="NUM34LOC" closed="true">
+    <tags-item tags="num.mf.pl.loc"/>
+  </def-label> 
+  <def-label name="NUM34VOC" closed="true">
+    <tags-item tags="num.mf.pl.voc"/>
+  </def-label> 
   <def-label name="NUMSG" closed="true">
     <tags-item tags="num.sg"/>
   </def-label> 
@@ -89,38 +123,15 @@
     <tags-item tags="num.qnt"/>
     <tags-item tags="num.qnt.*"/>
   </def-label> 
-  <def-label name="NUM34NOM" closed="true">
-    <tags-item lemma="tři" tags="num.mf.pl.nom"/>
-    <tags-item lemma="čtyři" tags="num.mf.pl.nom"/>
-  </def-label> 
-  <def-label name="NUM34GEN" closed="true">
-    <tags-item lemma="tři" tags="num.mf.pl.gen"/>
-    <tags-item lemma="čtyři" tags="num.mf.pl.gen"/>
-  </def-label> 
-  <def-label name="NUM34DAT" closed="true">
-    <tags-item lemma="tři" tags="num.mf.pl.dat"/>
-    <tags-item lemma="čtyři" tags="num.mf.pl.dat"/>
-  </def-label> 
-  <def-label name="NUM34ACC" closed="true">
-    <tags-item lemma="tři" tags="num.mf.pl.acc"/>
-    <tags-item lemma="čtyři" tags="num.mf.pl.acc"/>
-  </def-label> 
-  <def-label name="NUM34INS" closed="true">
-    <tags-item lemma="tři" tags="num.mf.pl.ins"/>
-    <tags-item lemma="čtyři" tags="num.mf.pl.ins"/>
-  </def-label> 
-  <def-label name="NUM34LOC" closed="true">
-    <tags-item lemma="tři" tags="num.mf.pl.loc"/>
-    <tags-item lemma="čtyři" tags="num.mf.pl.loc"/>
-  </def-label> 
-  <def-label name="NUM34VOC" closed="true">
-    <tags-item lemma="tři" tags="num.mf.pl.voc"/>
-    <tags-item lemma="čtyři" tags="num.mf.pl.voc"/>
-  </def-label> 
 
   <def-label name="ADVAUX" closed="true">
-    <tags-item lemma="třeba" tags="vaux"/>
-    <tags-item lemma="možna" tags="vaux"/>
+    <tags-item tags="vaux"/>
+  </def-label> 
+
+  <def-label name="AUXINF" closed="true">
+    <tags-item tags="vbser.inf"/>
+    <tags-item tags="vbhaver.imperf.inf"/>
+    <tags-item tags="vaux.imperf.inf"/>
   </def-label> 
 
   <def-label name="ADV">
@@ -986,6 +997,7 @@
     <tags-item tags="det.pos.f.pl.nom"/>
     <tags-item tags="det.pos.uns.f.pl.nom"/>
     <tags-item lemma="jeden" tags="num.f.pl.nom"/>
+    <tags-item lemma="dva" tags="num.f.pl.nom"/>
     <tags-item tags="det.qnt.f.pl.nom"/>
     <tags-item tags="det.ind.f.pl.nom"/>
     <tags-item tags="det.itg.f.pl.nom"/>
@@ -996,6 +1008,7 @@
     <tags-item tags="det.pos.ma.pl.nom"/>
     <tags-item tags="det.pos.uns.ma.pl.nom"/>
     <tags-item lemma="jeden" tags="num.ma.pl.nom"/>
+    <tags-item lemma="dva" tags="num.ma.pl.nom"/>
     <tags-item tags="det.qnt.ma.pl.nom"/>
     <tags-item tags="det.ind.ma.pl.nom"/>
     <tags-item tags="det.itg.ma.pl.nom"/>
@@ -1006,6 +1019,7 @@
     <tags-item tags="det.pos.mi.pl.nom"/>
     <tags-item tags="det.pos.uns.mi.pl.nom"/>
     <tags-item lemma="jeden" tags="num.mi.pl.nom"/>
+    <tags-item lemma="dva" tags="num.mi.pl.nom"/>
     <tags-item tags="det.qnt.mi.pl.nom"/>
     <tags-item tags="det.ind.mi.pl.nom"/>
     <tags-item tags="det.itg.mi.pl.nom"/>
@@ -1016,6 +1030,7 @@
     <tags-item tags="det.pos.nt.pl.nom"/>
     <tags-item tags="det.pos.uns.nt.pl.nom"/>
     <tags-item lemma="jeden" tags="num.nt.pl.nom"/>
+    <tags-item lemma="dva" tags="num.nt.pl.nom"/>
     <tags-item tags="det.qnt.nt.pl.nom"/>
     <tags-item tags="det.ind.nt.pl.nom"/>
     <tags-item tags="det.itg.nt.pl.nom"/>
@@ -1025,6 +1040,7 @@
   <def-label name="DETFPLGEN">
     <tags-item tags="det.pos.f.pl.gen"/>
     <tags-item lemma="jeden" tags="num.f.pl.gen"/>
+    <tags-item lemma="dva" tags="num.f.pl.gen"/>
     <tags-item tags="det.qnt.f.pl.gen"/>
     <tags-item tags="det.ind.f.pl.gen"/>
     <tags-item tags="det.itg.f.pl.gen"/>
@@ -1034,6 +1050,7 @@
   <def-label name="DETMAPLGEN">
     <tags-item tags="det.pos.ma.pl.gen"/>
     <tags-item lemma="jeden" tags="num.ma.pl.gen"/>
+    <tags-item lemma="dva" tags="num.ma.pl.gen"/>
     <tags-item tags="det.qnt.ma.pl.gen"/>
     <tags-item tags="det.ind.ma.pl.gen"/>
     <tags-item tags="det.itg.ma.pl.gen"/>
@@ -1043,6 +1060,7 @@
   <def-label name="DETMIPLGEN">
     <tags-item tags="det.pos.mi.pl.gen"/>
     <tags-item lemma="jeden" tags="num.mi.pl.gen"/>
+    <tags-item lemma="dva" tags="num.mi.pl.gen"/>
     <tags-item tags="det.qnt.mi.pl.gen"/>
     <tags-item tags="det.ind.mi.pl.gen"/>
     <tags-item tags="det.itg.mi.pl.gen"/>
@@ -1052,6 +1070,7 @@
   <def-label name="DETNTPLGEN">
     <tags-item tags="det.pos.nt.pl.gen"/>
     <tags-item lemma="jeden" tags="num.nt.pl.gen"/>
+    <tags-item lemma="dva" tags="num.nt.pl.gen"/>
     <tags-item tags="det.qnt.nt.pl.gen"/>
     <tags-item tags="det.ind.nt.pl.gen"/>
     <tags-item tags="det.itg.nt.pl.gen"/>
@@ -1061,6 +1080,7 @@
   <def-label name="DETFPLDAT">
     <tags-item tags="det.pos.f.pl.dat"/>
     <tags-item lemma="jeden" tags="num.f.pl.dat"/>
+    <tags-item lemma="dva" tags="num.f.pl.dat"/>
     <tags-item tags="det.qnt.f.pl.dat"/>
     <tags-item tags="det.ind.f.pl.dat"/>
     <tags-item tags="det.itg.f.pl.dat"/>
@@ -1070,6 +1090,7 @@
   <def-label name="DETMAPLDAT">
     <tags-item tags="det.pos.ma.pl.dat"/>
     <tags-item lemma="jeden" tags="num.ma.pl.dat"/>
+    <tags-item lemma="dva" tags="num.ma.pl.dat"/>
     <tags-item tags="det.qnt.ma.pl.dat"/>
     <tags-item tags="det.ind.ma.pl.dat"/>
     <tags-item tags="det.itg.ma.pl.dat"/>
@@ -1079,6 +1100,7 @@
   <def-label name="DETMIPLDAT">
     <tags-item tags="det.pos.mi.pl.dat"/>
     <tags-item lemma="jeden" tags="num.mi.pl.dat"/>
+    <tags-item lemma="dva" tags="num.mi.pl.dat"/>
     <tags-item tags="det.qnt.mi.pl.dat"/>
     <tags-item tags="det.ind.mi.pl.dat"/>
     <tags-item tags="det.itg.mi.pl.dat"/>
@@ -1088,6 +1110,7 @@
   <def-label name="DETNTPLDAT">
     <tags-item tags="det.pos.nt.pl.dat"/>
     <tags-item lemma="jeden" tags="num.nt.pl.dat"/>
+    <tags-item lemma="dva" tags="num.nt.pl.dat"/>
     <tags-item tags="det.qnt.nt.pl.dat"/>
     <tags-item tags="det.ind.nt.pl.dat"/>
     <tags-item tags="det.itg.nt.pl.dat"/>
@@ -1098,6 +1121,7 @@
     <tags-item tags="det.pos.f.pl.acc"/>
     <tags-item tags="det.pos.uns.f.pl.acc"/>
     <tags-item lemma="jeden" tags="num.f.pl.acc"/>
+    <tags-item lemma="dva" tags="num.f.pl.acc"/>
     <tags-item tags="det.qnt.f.pl.acc"/>
     <tags-item tags="det.ind.f.pl.acc"/>
     <tags-item tags="det.itg.f.pl.acc"/>
@@ -1108,6 +1132,7 @@
     <tags-item tags="det.pos.ma.pl.acc"/>
     <tags-item tags="det.pos.uns.ma.pl.acc"/>
     <tags-item lemma="jeden" tags="num.ma.pl.acc"/>
+    <tags-item lemma="dva" tags="num.ma.pl.acc"/>
     <tags-item tags="det.qnt.ma.pl.acc"/>
     <tags-item tags="det.ind.ma.pl.acc"/>
     <tags-item tags="det.itg.ma.pl.acc"/>
@@ -1118,6 +1143,7 @@
     <tags-item tags="det.pos.mi.pl.acc"/>
     <tags-item tags="det.pos.uns.mi.pl.acc"/>
     <tags-item lemma="jeden" tags="num.mi.pl.acc"/>
+    <tags-item lemma="dva" tags="num.mi.pl.acc"/>
     <tags-item tags="det.qnt.mi.pl.acc"/>
     <tags-item tags="det.ind.mi.pl.acc"/>
     <tags-item tags="det.itg.mi.pl.acc"/>
@@ -1128,6 +1154,7 @@
     <tags-item tags="det.pos.nt.pl.acc"/>
     <tags-item tags="det.pos.uns.nt.pl.acc"/>
     <tags-item lemma="jeden" tags="num.nt.pl.acc"/>
+    <tags-item lemma="dva" tags="num.nt.pl.acc"/>
     <tags-item tags="det.qnt.nt.pl.acc"/>
     <tags-item tags="det.ind.nt.pl.acc"/>
     <tags-item tags="det.itg.nt.pl.acc"/>
@@ -1137,6 +1164,7 @@
   <def-label name="DETFPLINS">
     <tags-item tags="det.pos.f.pl.ins"/>
     <tags-item lemma="jeden" tags="num.f.pl.ins"/>
+    <tags-item lemma="dva" tags="num.f.pl.ins"/>
     <tags-item tags="det.qnt.f.pl.ins"/>
     <tags-item tags="det.ind.f.pl.ins"/>
     <tags-item tags="det.itg.f.pl.ins"/>
@@ -1146,6 +1174,7 @@
   <def-label name="DETMAPLINS">
     <tags-item tags="det.pos.ma.pl.ins"/>
     <tags-item lemma="jeden" tags="num.ma.pl.ins"/>
+    <tags-item lemma="dva" tags="num.ma.pl.ins"/>
     <tags-item tags="det.qnt.ma.pl.ins"/>
     <tags-item tags="det.ind.ma.pl.ins"/>
     <tags-item tags="det.itg.ma.pl.ins"/>
@@ -1155,6 +1184,7 @@
   <def-label name="DETMIPLINS">
     <tags-item tags="det.pos.mi.pl.ins"/>
     <tags-item lemma="jeden" tags="num.mi.pl.ins"/>
+    <tags-item lemma="dva" tags="num.mi.pl.ins"/>
     <tags-item tags="det.qnt.mi.pl.ins"/>
     <tags-item tags="det.ind.mi.pl.ins"/>
     <tags-item tags="det.itg.mi.pl.ins"/>
@@ -1164,6 +1194,7 @@
   <def-label name="DETNTPLINS">
     <tags-item tags="det.pos.nt.pl.ins"/>
     <tags-item lemma="jeden" tags="num.nt.pl.ins"/>
+    <tags-item lemma="dva" tags="num.nt.pl.ins"/>
     <tags-item tags="det.qnt.nt.pl.ins"/>
     <tags-item tags="det.ind.nt.pl.ins"/>
     <tags-item tags="det.itg.nt.pl.ins"/>
@@ -1173,6 +1204,7 @@
   <def-label name="DETFPLLOC">
     <tags-item tags="det.pos.f.pl.loc"/>
     <tags-item lemma="jeden" tags="num.f.pl.loc"/>
+    <tags-item lemma="dva" tags="num.f.pl.loc"/>
     <tags-item tags="det.qnt.f.pl.loc"/>
     <tags-item tags="det.ind.f.pl.loc"/>
     <tags-item tags="det.itg.f.pl.loc"/>
@@ -1182,6 +1214,7 @@
   <def-label name="DETMAPLLOC">
     <tags-item tags="det.pos.ma.pl.loc"/>
     <tags-item lemma="jeden" tags="num.ma.pl.loc"/>
+    <tags-item lemma="dva" tags="num.ma.pl.loc"/>
     <tags-item tags="det.qnt.ma.pl.loc"/>
     <tags-item tags="det.ind.ma.pl.loc"/>
     <tags-item tags="det.itg.ma.pl.loc"/>
@@ -1191,6 +1224,7 @@
   <def-label name="DETMIPLLOC">
     <tags-item tags="det.pos.mi.pl.loc"/>
     <tags-item lemma="jeden" tags="num.mi.pl.loc"/>
+    <tags-item lemma="dva" tags="num.mi.pl.loc"/>
     <tags-item tags="det.qnt.mi.pl.loc"/>
     <tags-item tags="det.ind.mi.pl.loc"/>
     <tags-item tags="det.itg.mi.pl.loc"/>
@@ -1200,6 +1234,7 @@
   <def-label name="DETNTPLLOC">
     <tags-item tags="det.pos.nt.pl.loc"/>
     <tags-item lemma="jeden" tags="num.nt.pl.loc"/>
+    <tags-item lemma="dva" tags="num.nt.pl.loc"/>
     <tags-item tags="det.qnt.nt.pl.loc"/>
     <tags-item tags="det.ind.nt.pl.loc"/>
     <tags-item tags="det.itg.nt.pl.loc"/>
@@ -1210,6 +1245,7 @@
     <tags-item tags="det.pos.f.pl.voc"/>
     <tags-item tags="det.pos.uns.f.pl.voc"/>
     <tags-item lemma="jeden" tags="num.f.pl.voc"/>
+    <tags-item lemma="dva" tags="num.f.pl.voc"/>
     <tags-item tags="det.qnt.f.pl.voc"/>
     <tags-item tags="det.ind.f.pl.voc"/>
     <tags-item tags="det.itg.f.pl.voc"/>
@@ -1220,6 +1256,7 @@
     <tags-item tags="det.pos.ma.pl.voc"/>
     <tags-item tags="det.pos.uns.ma.pl.voc"/>
     <tags-item lemma="jeden" tags="num.ma.pl.voc"/>
+    <tags-item lemma="dva" tags="num.ma.pl.voc"/>
     <tags-item tags="det.qnt.ma.pl.voc"/>
     <tags-item tags="det.ind.ma.pl.voc"/>
     <tags-item tags="det.itg.ma.pl.voc"/>
@@ -1230,6 +1267,7 @@
     <tags-item tags="det.pos.mi.pl.voc"/>
     <tags-item tags="det.pos.uns.mi.pl.voc"/>
     <tags-item lemma="jeden" tags="num.mi.pl.voc"/>
+    <tags-item lemma="dva" tags="num.mi.pl.voc"/>
     <tags-item tags="det.qnt.mi.pl.voc"/>
     <tags-item tags="det.ind.mi.pl.voc"/>
     <tags-item tags="det.itg.mi.pl.voc"/>
@@ -1240,6 +1278,7 @@
     <tags-item tags="det.pos.nt.pl.voc"/>
     <tags-item tags="det.pos.uns.nt.pl.voc"/>
     <tags-item lemma="jeden" tags="num.nt.pl.voc"/>
+    <tags-item lemma="dva" tags="num.nt.pl.voc"/>
     <tags-item tags="det.qnt.nt.pl.voc"/>
     <tags-item tags="det.ind.nt.pl.voc"/>
     <tags-item tags="det.itg.nt.pl.voc"/>
@@ -2186,6 +2225,7 @@
    <discard tags="n.nt.pl.voc"/>
    <discard tags="np.top.nt.sg.voc"/>
    <discard tags="np.top.nt.pl.voc"/>
+   <discard tags="num.mf.pl.voc"/>
  </discard-on-ambiguity>
 
 </tagger>

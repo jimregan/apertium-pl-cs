@@ -24,7 +24,7 @@ $(TAGGER)/$(LANG1).dic: $(BASENAME).$(LANG1).dix $(PREFIX).automorf.bin
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
 	apertium-validate-tagger $(TSX_FILE)
 	lt-expand $(BASENAME).$(LANG1).dix | grep -v "__REGEXP__" | grep -v ":<:" |\
-	awk 'BEGIN{FS=":>:|:"}{print $$1 ".";}' | apertium-destxt >$(LANG1).dic.expanded
+	awk 'BEGIN{FS=":>:|:"}{print $$1 ".";}' >$(LANG1).dic.expanded
 	@echo "." >>$(LANG1).dic.expanded
 	@echo "?" >>$(LANG1).dic.expanded
 	@echo ";" >>$(LANG1).dic.expanded
@@ -48,7 +48,8 @@ $(TAGGER)/$(LANG1).dic: $(BASENAME).$(LANG1).dix $(PREFIX).automorf.bin
 
 $(TAGGER)/$(LANG1).crp: $(PREFIX).automorf.bin $(TAGGER)/$(LANG1).crp.txt
 	apertium-destxt < $(TAGGER)/$(LANG1).crp.txt | \
-	lt-proc $(PREFIX).automorf.bin | \
+	lt-proc $(PREFIX).automorf.bin> $(TAGGER)/$(LANG1).crp
+#	lt-proc $(PREFIX).automorf.bin | \
 	# awk '{gsub(/\/([^< ]+)<n><acr><sp>/,""); print;}' | \
 	sed -r 's/\/[A-Z]+<n><acr><sp>//g' | \
 	sed -r 's/\^([^$$/\\ ]+)\$$/^\1\/\1<n><acr><sp>$$/g' > $(TAGGER)/$(LANG1).crp
