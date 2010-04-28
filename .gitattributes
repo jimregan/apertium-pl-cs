@@ -22,6 +22,7 @@
 /apertium-pl-cs.post-pl.dix -text
 /autogen.sh -text
 /configure.ac -text
+/cs-pl-unsupervised.make -text
 /cs-pl.prob -text
 dev/apertium-pl-cs.pl-cs-crossed.dix -text
 dev/bidix-to-tag -text
