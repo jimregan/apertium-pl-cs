@@ -12,7 +12,7 @@ all: $(PREFIX).prob
 
 $(PREFIX).prob: $(TSX_FILE) $(TAGGER)/$(LANG1).dic $(TAGGER)/$(LANG1).crp
 	apertium-validate-tagger $(TSX_FILE)
-	apertium-tagger -t $(TAGGER_UNSUPERVISED_ITERATIONS) \
+	apertium-tagger -d -t $(TAGGER_UNSUPERVISED_ITERATIONS) \
                            $(TAGGER)/$(LANG1).dic \
                            $(TAGGER)/$(LANG1).crp \
                            $(TSX_FILE) \

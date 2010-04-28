@@ -16,14 +16,24 @@
     <tags-item tags="vbser.pres.p2.pl"/>
     <tags-item tags="vbser.pres.p2.sg"/>
   </def-label> 
+  <def-label name="BYTPAST" closed="true">
+    <tags-item tags="vbser.past.*"/>
+  </def-label> 
+  <def-label name="BYTFUT" closed="true">
+    <tags-item tags="vbser.fti.*"/>
+  </def-label> 
+  <def-label name="BYTPRES" closed="true">
+    <tags-item tags="vbser.pres.*"/>
+  </def-label> 
   <def-label name="IJ">
     <tags-item tags="ij"/>
   </def-label> 
   <def-label name="ADVITG">
     <tags-item tags="adv.itg"/>
   </def-label> 
-  <def-label name="RELADV" closed="true">
+  <def-label name="REL" closed="true">
     <tags-item tags="rel.adv"/>
+    <tags-item lemma="co" tags="rel.an.nt.sg"/>
   </def-label> 
   <def-label name="SE" closed="true">
     <tags-item lemma="se" tags="prn.ref.acc"/>
@@ -70,6 +80,8 @@
     <tags-item tags="num.sg"/>
   </def-label> 
   <def-label name="NUMPL">
+    <tags-item tags="num"/>
+    <tags-item tags="num.percent"/>
     <tags-item tags="num.pl"/>
     <tags-item tags="num.pl.*"/>
   </def-label> 
@@ -77,6 +89,40 @@
     <tags-item tags="num.qnt"/>
     <tags-item tags="num.qnt.*"/>
   </def-label> 
+  <def-label name="NUM34NOM" closed="true">
+    <tags-item lemma="tři" tags="num.mf.pl.nom"/>
+    <tags-item lemma="čtyři" tags="num.mf.pl.nom"/>
+  </def-label> 
+  <def-label name="NUM34GEN" closed="true">
+    <tags-item lemma="tři" tags="num.mf.pl.gen"/>
+    <tags-item lemma="čtyři" tags="num.mf.pl.gen"/>
+  </def-label> 
+  <def-label name="NUM34DAT" closed="true">
+    <tags-item lemma="tři" tags="num.mf.pl.dat"/>
+    <tags-item lemma="čtyři" tags="num.mf.pl.dat"/>
+  </def-label> 
+  <def-label name="NUM34ACC" closed="true">
+    <tags-item lemma="tři" tags="num.mf.pl.acc"/>
+    <tags-item lemma="čtyři" tags="num.mf.pl.acc"/>
+  </def-label> 
+  <def-label name="NUM34INS" closed="true">
+    <tags-item lemma="tři" tags="num.mf.pl.ins"/>
+    <tags-item lemma="čtyři" tags="num.mf.pl.ins"/>
+  </def-label> 
+  <def-label name="NUM34LOC" closed="true">
+    <tags-item lemma="tři" tags="num.mf.pl.loc"/>
+    <tags-item lemma="čtyři" tags="num.mf.pl.loc"/>
+  </def-label> 
+  <def-label name="NUM34VOC" closed="true">
+    <tags-item lemma="tři" tags="num.mf.pl.voc"/>
+    <tags-item lemma="čtyři" tags="num.mf.pl.voc"/>
+  </def-label> 
+
+  <def-label name="ADVAUX" closed="true">
+    <tags-item lemma="třeba" tags="vaux"/>
+    <tags-item lemma="možna" tags="vaux"/>
+  </def-label> 
+
   <def-label name="ADV">
     <tags-item tags="adv"/>
     <tags-item tags="adv.sint"/>
@@ -1293,6 +1339,7 @@
   </def-label> 
   <def-label name="PRNFSGINS">
     <tags-item tags="prn.pos.f.sg.ins"/>
+    <tags-item tags="prn.pos.uns.f.sg.ins"/>
     <tags-item tags="prn.ind.f.sg.ins"/>
     <tags-item tags="prn.itg.f.sg.ins"/>
   </def-label> 
