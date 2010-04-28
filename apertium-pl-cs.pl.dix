@@ -12745,7 +12745,7 @@
         </p>
        </e>
     </pardef>
-    <pardef n="BASE__czytać-past">
+    <pardef n="BASE__czytałem">
       <e>
         <p>
           <l>łem</l>
@@ -13205,7 +13205,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="BASE__ciąć-past">
+    <pardef n="BASE__ciąłem">
       <e>
         <p>
           <l>ąłem</l>
@@ -13435,7 +13435,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="BASE__jeść-past">
+    <pardef n="BASE__jadłem">
       <e>
         <p>
           <l>adłem</l>
@@ -13665,7 +13665,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="BASE__móc-past">
+    <pardef n="BASE__mógłem">
       <e>
         <p>
           <l>łem</l>
@@ -14177,7 +14177,7 @@
           <l>by</l>
           <r>być<s n="vbser"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -14335,7 +14335,7 @@
           <l>og</l>
           <r>óc<s n="vaux"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__móc-past"/>
+        <par n="BASE__mógłem"/>
       </e>
       <e>
         <p>
@@ -14577,7 +14577,7 @@
           <l>a</l>
           <r>ać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -14672,7 +14672,7 @@
           <l>a</l>
           <r>ać<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -14759,7 +14759,7 @@
           <l>ni</l>
           <r>nić<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -14994,7 +14994,7 @@
           <l></l>
           <r>eść<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__jeść-past"/>
+        <par n="BASE__jadłem"/>
       </e>
 
       <e>
@@ -15090,7 +15090,7 @@
           <l>a</l>
           <r>ać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -15186,7 +15186,7 @@
           <l>a</l>
           <r>ać<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -15349,7 +15349,7 @@
           <l>zi</l>
           <r>ziąć<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__ciąć-past"/>
+        <par n="BASE__ciąłem"/>
       </e>
 
       <e>
@@ -15438,7 +15438,7 @@
           <l>ra</l>
           <r>rać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -15534,7 +15534,7 @@
           <l>ywa</l>
           <r>ywać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -15630,7 +15630,7 @@
           <l>owa</l>
           <r>ować<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -15726,7 +15726,7 @@
           <l>iwa</l>
           <r>iwać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -15822,7 +15822,7 @@
           <l></l>
           <r>ć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -15918,7 +15918,7 @@
           <l>y</l>
           <r>yć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -16014,7 +16014,7 @@
           <l>i</l>
           <r>ić<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -16206,7 +16206,7 @@
           <l>ści</l>
           <r>ścić<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -16302,7 +16302,7 @@
           <l>si</l>
           <r>sić<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -16441,7 +16441,7 @@
           <l>ywa</l>
           <r>ywać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -16592,7 +16592,7 @@
           <l>ga</l>
           <r>gać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -16743,7 +16743,7 @@
           <l>wa</l>
           <r>wać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -16875,14 +16875,14 @@
           <l>eł</l>
           <r>leć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
       <e r="LR">
         <p>
           <l>ieli</l>
           <r>leć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
@@ -17034,14 +17034,14 @@
           <l>zmeł</l>
           <r>zemleć<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
           <l>zmieli</l>
           <r>zemleć<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__czytać-past"/>
+        <par n="BASE__czytałem"/>
       </e>
 
       <e>
