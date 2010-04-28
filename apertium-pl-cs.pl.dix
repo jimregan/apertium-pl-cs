@@ -17405,7 +17405,7 @@
       <e>
         <p>
           <l>k</l>
-          <r><s n="mp"/></r>
+          <r></r>
         </p>
         <par n="PBASE__mp_pl"/>
       </e>
@@ -17456,7 +17456,7 @@
       <e>
         <p>
           <l>śk</l>
-          <r><s n="mp"/></r>
+          <r></r>
         </p>
         <par n="PBASE__mp_pl"/>
       </e>
@@ -33239,7 +33239,7 @@
       <e>
         <p>
           <l>ł</l>
-          <r>eł<s n="np"/><s n="ant"/><s n="mp"/></r>
+          <r>eł<s n="np"/><s n="ant"/></r>
         </p>
         <par n="PBASE__mp_pl"/>
       </e>
