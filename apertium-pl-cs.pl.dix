@@ -14474,27 +14474,10 @@
       </e>
       <e>
         <p>
-          <l>asz</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>a</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>amy</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>acie</l>
-          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
@@ -14545,27 +14528,10 @@
       </e>
       <e>
         <p>
-          <l>asz</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>amy</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>acie</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
@@ -14640,27 +14606,10 @@
       </e>
       <e>
         <p>
-          <l>asz</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>a</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+          <r>ać<s n="vbhaver"/><s n="perf"/><s n="fti"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>amy</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>acie</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
@@ -14727,27 +14676,10 @@
       </e>
       <e>
         <p>
-          <l>nisz</l>
-          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>ni</l>
-          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>nimy</l>
-          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nicie</l>
-          <r>nić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
