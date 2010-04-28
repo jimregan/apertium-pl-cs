@@ -12707,7 +12707,7 @@
       </e>
     </pardef>
 
-    <pardef n="BASE__imperative">
+    <pardef n="BASE__czytaj">
        <e>
          <p>
            <l></l>
@@ -12975,7 +12975,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="BASE__wiedzieć-past">
+    <pardef n="BASE__wiedziałem">
       <e>
         <p>
           <l>ałem</l>
@@ -14126,6 +14126,33 @@
       </e>
     </pardef>
 
+    <pardef n="BASE__czyta">
+      <e>
+        <p>
+          <l>sz</l>
+          <r><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>my</l>
+          <r><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cie</l>
+          <r><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="/być__vbser">
       <e>
         <p>
@@ -14301,27 +14328,10 @@
       </e>
       <e>
         <p>
-          <l>ożesz</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>oże</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>óc<s n="vaux"/><s n="imperf"/><s n="pres"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>ożemy</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ożecie</l>
-          <r>óc<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
@@ -14498,7 +14508,7 @@
           <l>i</l>
           <r>ieć<s n="vbhaver"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__wiedzieć-past"/>
+        <par n="BASE__wiedziałem"/>
       </e>
 
       <e>
@@ -14506,7 +14516,7 @@
           <l>iej</l>
           <r>ieć<s n="vbhaver"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -14569,7 +14579,7 @@
           <l>aj</l>
           <r>ać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -14664,7 +14674,7 @@
           <l>aj</l>
           <r>ać<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -14751,7 +14761,7 @@
           <l>ń</l>
           <r>nić<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -14838,7 +14848,7 @@
           <l>dz</l>
           <r>dzieć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -14846,7 +14856,7 @@
           <l>dzi</l>
           <r>dzieć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__wiedzieć-past"/>
+        <par n="BASE__wiedziałem"/>
       </e>
       <e>
         <p>
@@ -14905,7 +14915,7 @@
           <l>iej</l>
           <r>ieć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -14913,7 +14923,7 @@
           <l>i</l>
           <r>ieć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__wiedzieć-past"/>
+        <par n="BASE__wiedziałem"/>
       </e>
 
       <e>
@@ -14986,7 +14996,7 @@
           <l>edz</l>
           <r>eść<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -15082,7 +15092,7 @@
           <l>z</l>
           <r>ać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -15178,7 +15188,7 @@
           <l>z</l>
           <r>ać<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -15267,7 +15277,7 @@
           <l>idź</l>
           <r>iść<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -15341,7 +15351,7 @@
           <l>eź</l>
           <r>ziąć<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -15430,7 +15440,7 @@
           <l>ierz</l>
           <r>rać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -15526,7 +15536,7 @@
           <l>uj</l>
           <r>ywać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -15622,7 +15632,7 @@
           <l>uj</l>
           <r>ować<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -15718,7 +15728,7 @@
           <l>uj</l>
           <r>iwać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -15814,7 +15824,7 @@
           <l>j</l>
           <r>ć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -15910,7 +15920,7 @@
           <l></l>
           <r>yć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -16006,7 +16016,7 @@
           <l></l>
           <r>ić<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -16102,7 +16112,7 @@
           <l>ij</l>
           <r>ieć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -16110,7 +16120,7 @@
           <l>i</l>
           <r>ieć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__wiedzieć-past"/>
+        <par n="BASE__wiedziałem"/>
       </e>
 
       <e>
@@ -16198,7 +16208,7 @@
           <l>ść</l>
           <r>ścić<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -16294,7 +16304,7 @@
           <l>ś</l>
           <r>sić<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -16426,14 +16436,14 @@
           <l>uj</l>
           <r>ywać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
       <e r="LR">
         <p>
           <l>ywaj</l>
           <r>ywać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -16577,14 +16587,14 @@
           <l>żyj</l>
           <r>gać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
       <e r="LR">
         <p>
           <l>gaj</l>
           <r>gać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -16728,14 +16738,14 @@
           <l>wij</l>
           <r>wać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
       <e r="LR">
         <p>
           <l>owij</l>
           <r>wać<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -16867,7 +16877,7 @@
           <l>iel</l>
           <r>leć<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
@@ -17026,7 +17036,7 @@
           <l>zmiel</l>
           <r>zemleć<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__imperative"/>
+        <par n="BASE__czytaj"/>
       </e>
 
       <e>
