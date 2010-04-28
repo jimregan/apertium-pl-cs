@@ -5,8 +5,8 @@ LANG2=pl
 TAGGER=$(LANG1)-tagger-data
 PREFIX=$(LANG1)-$(LANG2)
 
-#TSXFILE=$(BASENAME).$(LANG1).tsx
-TSX_FILE=dev/generated-cs.tsx
+TSX_FILE=$(BASENAME).$(LANG1).tsx
+#TSX_FILE=dev/generated-cs.tsx
 
 all: $(PREFIX).prob
 

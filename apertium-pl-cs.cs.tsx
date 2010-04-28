@@ -10,8 +10,52 @@
   <def-label name="CNJSUB" closed="true">
     <tags-item tags="cnjsub"/>
   </def-label> 
+  <def-label name="BYTENC" closed="true">
+    <tags-item tags="vbser.pres.p1.pl"/>
+    <tags-item tags="vbser.pres.p1.sg"/>
+    <tags-item tags="vbser.pres.p2.pl"/>
+    <tags-item tags="vbser.pres.p2.sg"/>
+  </def-label> 
   <def-label name="IJ">
     <tags-item tags="ij"/>
+  </def-label> 
+  <def-label name="ADVITG">
+    <tags-item tags="adv.itg"/>
+  </def-label> 
+  <def-label name="PRPERSPPR" closed="true">
+    <tags-item lemma="prpers" tags="prn.ppr.p3.*"/>
+  </def-label> 
+  <def-label name="PRPERSNOM" closed="true">
+    <tags-item lemma="prpers" tags="prn.*.*.*.nom"/>
+  </def-label> 
+  <def-label name="PRPERSGEN" closed="true">
+    <tags-item lemma="prpers" tags="prn.*.*.*.gen"/>
+  </def-label> 
+  <def-label name="PRPERSDAT" closed="true">
+    <tags-item lemma="prpers" tags="prn.*.*.*.dat"/>
+  </def-label> 
+  <def-label name="PRPERSACC" closed="true">
+    <tags-item lemma="prpers" tags="prn.*.*.*.acc"/>
+  </def-label> 
+  <def-label name="PRPERSINS" closed="true">
+    <tags-item lemma="prpers" tags="prn.*.*.*.ins"/>
+  </def-label> 
+  <def-label name="PRPERSLOC" closed="true">
+    <tags-item lemma="prpers" tags="prn.*.*.*.loc"/>
+  </def-label> 
+  <def-label name="PRPERSVOC" closed="true">
+    <tags-item lemma="prpers" tags="prn.*.*.*.voc"/>
+  </def-label> 
+  <def-label name="PREADV" closed="true">
+    <tags-item tags="preadv"/>
+  </def-label> 
+  <def-label name="ADJCPD">
+    <tags-item tags="adj.cpd"/>
+    <tags-item tags="adj.sint.cpd"/>
+  </def-label> 
+  <def-label name="ADJPO">
+    <tags-item tags="adj.po"/>
+    <tags-item tags="adj.sint.po"/>
   </def-label> 
   <def-label name="NUMSG" closed="true">
     <tags-item tags="num.sg"/>
@@ -89,9 +133,40 @@
     <tags-item lemma="ich" tags="det.pos.adv"/>
   </def-label> 
 
+<!--
   <def-label name="PRPERS" closed="true">
     <tags-item lemma="prpers" tags="prn.*"/>
   </def-label> 
+-->
+  <def-label name="QNTNOM" closed="true">
+    <tags-item tags="det.qnt.mf.pl.nom"/>
+    <tags-item tags="num.qnt.mf.pl.nom"/>
+  </def-label> 
+  <def-label name="QNTGEN" closed="true">
+    <tags-item tags="det.qnt.mf.pl.gen"/>
+    <tags-item tags="num.qnt.mf.pl.gen"/>
+  </def-label> 
+  <def-label name="QNTDAT" closed="true">
+    <tags-item tags="det.qnt.mf.pl.dat"/>
+    <tags-item tags="num.qnt.mf.pl.dat"/>
+  </def-label> 
+  <def-label name="QNTACC" closed="true">
+    <tags-item tags="det.qnt.mf.pl.acc"/>
+    <tags-item tags="num.qnt.mf.pl.acc"/>
+  </def-label> 
+  <def-label name="QNTINS" closed="true">
+    <tags-item tags="det.qnt.mf.pl.ins"/>
+    <tags-item tags="num.qnt.mf.pl.ins"/>
+  </def-label> 
+  <def-label name="QNTLOC" closed="true">
+    <tags-item tags="det.qnt.mf.pl.loc"/>
+    <tags-item tags="num.qnt.mf.pl.loc"/>
+  </def-label> 
+  <def-label name="QNTVOC" closed="true">
+    <tags-item tags="det.qnt.mf.pl.voc"/>
+    <tags-item tags="num.qnt.mf.pl.voc"/>
+  </def-label> 
+
 
   <def-label name="P3PRNNONPR" closed="true">
     <tags-item lemma="prpers" tags="prn.emph.p3.m.sg.acc"/>
@@ -103,13 +178,6 @@
     <tags-item lemma="prpers" tags="prn.emph.p3.mf.sg.acc"/>
     <tags-item lemma="prpers" tags="prn.emph.p3.mf.sg.gen"/>
     <tags-item lemma="prpers" tags="prn.emph.p3.f.sg.dat"/>
-  </def-label> 
-
-  <def-label name="ADJPO">
-    <tags-item tags="adj.po"/>
-  </def-label> 
-  <def-label name="ADJCPD">
-    <tags-item tags="adj.cpd"/>
   </def-label> 
 
   <def-label name="NE" closed="true">
@@ -593,6 +661,7 @@
     <tags-item tags="det.ind.f.sg.nom"/>
     <tags-item tags="det.itg.f.sg.nom"/>
     <tags-item tags="det.ord.f.sg.nom"/>
+    <tags-item tags="det.dem.f.sg.nom"/>
   </def-label> 
   <def-label name="DETMASGNOM">
     <tags-item tags="det.pos.ma.sg.nom"/>
@@ -602,6 +671,7 @@
     <tags-item tags="det.ind.ma.sg.nom"/>
     <tags-item tags="det.itg.ma.sg.nom"/>
     <tags-item tags="det.ord.ma.sg.nom"/>
+    <tags-item tags="det.dem.ma.sg.nom"/>
   </def-label> 
   <def-label name="DETMISGNOM">
     <tags-item tags="det.pos.mi.sg.nom"/>
@@ -611,6 +681,7 @@
     <tags-item tags="det.ind.mi.sg.nom"/>
     <tags-item tags="det.itg.mi.sg.nom"/>
     <tags-item tags="det.ord.mi.sg.nom"/>
+    <tags-item tags="det.dem.mi.sg.nom"/>
   </def-label> 
   <def-label name="DETNTSGNOM">
     <tags-item tags="det.pos.nt.sg.nom"/>
@@ -620,41 +691,51 @@
     <tags-item tags="det.ind.nt.sg.nom"/>
     <tags-item tags="det.itg.nt.sg.nom"/>
     <tags-item tags="det.ord.nt.sg.nom"/>
+    <tags-item tags="det.dem.nt.sg.nom"/>
   </def-label> 
   <def-label name="DETFSGGEN">
     <tags-item tags="det.pos.f.sg.gen"/>
+    <tags-item tags="det.pos.uns.f.sg.gen"/>
     <tags-item lemma="jeden" tags="num.f.sg.gen"/>
     <tags-item tags="det.qnt.f.sg.gen"/>
     <tags-item tags="det.ind.f.sg.gen"/>
     <tags-item tags="det.itg.f.sg.gen"/>
     <tags-item tags="det.ord.f.sg.gen"/>
+    <tags-item tags="det.dem.f.sg.gen"/>
   </def-label> 
   <def-label name="DETMASGGEN">
     <tags-item tags="det.pos.ma.sg.gen"/>
+    <tags-item tags="det.pos.uns.ma.sg.gen"/>
     <tags-item lemma="jeden" tags="num.ma.sg.gen"/>
     <tags-item tags="det.qnt.ma.sg.gen"/>
     <tags-item tags="det.ind.ma.sg.gen"/>
     <tags-item tags="det.itg.ma.sg.gen"/>
     <tags-item tags="det.ord.ma.sg.gen"/>
+    <tags-item tags="det.dem.ma.sg.gen"/>
   </def-label> 
   <def-label name="DETMISGGEN">
     <tags-item tags="det.pos.mi.sg.gen"/>
+    <tags-item tags="det.pos.uns.mi.sg.gen"/>
     <tags-item lemma="jeden" tags="num.mi.sg.gen"/>
     <tags-item tags="det.qnt.mi.sg.gen"/>
     <tags-item tags="det.ind.mi.sg.gen"/>
     <tags-item tags="det.itg.mi.sg.gen"/>
     <tags-item tags="det.ord.mi.sg.gen"/>
+    <tags-item tags="det.dem.mi.sg.gen"/>
   </def-label> 
   <def-label name="DETNTSGGEN">
     <tags-item tags="det.pos.nt.sg.gen"/>
+    <tags-item tags="det.pos.uns.nt.sg.gen"/>
     <tags-item lemma="jeden" tags="num.nt.sg.gen"/>
     <tags-item tags="det.qnt.nt.sg.gen"/>
     <tags-item tags="det.ind.nt.sg.gen"/>
     <tags-item tags="det.itg.nt.sg.gen"/>
     <tags-item tags="det.ord.nt.sg.gen"/>
+    <tags-item tags="det.dem.nt.sg.gen"/>
   </def-label> 
   <def-label name="DETFSGDAT">
     <tags-item tags="det.pos.f.sg.dat"/>
+    <tags-item tags="det.pos.uns.f.sg.dat"/>
     <tags-item lemma="jeden" tags="num.f.sg.dat"/>
     <tags-item tags="det.qnt.f.sg.dat"/>
     <tags-item tags="det.ind.f.sg.dat"/>
@@ -731,6 +812,7 @@
   </def-label> 
   <def-label name="DETMASGINS">
     <tags-item tags="det.pos.ma.sg.ins"/>
+    <tags-item tags="det.pos.uns.ma.sg.ins"/>
     <tags-item lemma="jeden" tags="num.ma.sg.ins"/>
     <tags-item tags="det.qnt.ma.sg.ins"/>
     <tags-item tags="det.ind.ma.sg.ins"/>
@@ -739,6 +821,7 @@
   </def-label> 
   <def-label name="DETMISGINS">
     <tags-item tags="det.pos.mi.sg.ins"/>
+    <tags-item tags="det.pos.uns.mi.sg.ins"/>
     <tags-item lemma="jeden" tags="num.mi.sg.ins"/>
     <tags-item tags="det.qnt.mi.sg.ins"/>
     <tags-item tags="det.ind.mi.sg.ins"/>
@@ -747,6 +830,7 @@
   </def-label> 
   <def-label name="DETNTSGINS">
     <tags-item tags="det.pos.nt.sg.ins"/>
+    <tags-item tags="det.pos.uns.nt.sg.ins"/>
     <tags-item lemma="jeden" tags="num.nt.sg.ins"/>
     <tags-item tags="det.qnt.nt.sg.ins"/>
     <tags-item tags="det.ind.nt.sg.ins"/>
@@ -755,6 +839,7 @@
   </def-label> 
   <def-label name="DETFSGLOC">
     <tags-item tags="det.pos.f.sg.loc"/>
+    <tags-item tags="det.pos.uns.f.sg.loc"/>
     <tags-item lemma="jeden" tags="num.f.sg.loc"/>
     <tags-item tags="det.qnt.f.sg.loc"/>
     <tags-item tags="det.ind.f.sg.loc"/>
@@ -1084,6 +1169,7 @@
   </def-label> 
   <def-label name="PRNFSGGEN">
     <tags-item tags="prn.pos.f.sg.gen"/>
+    <tags-item tags="prn.pos.uns.f.sg.gen"/>
     <tags-item tags="prn.ind.f.sg.gen"/>
     <tags-item tags="prn.itg.f.sg.gen"/>
   </def-label> 
@@ -1104,6 +1190,7 @@
   </def-label> 
   <def-label name="PRNFSGDAT">
     <tags-item tags="prn.pos.f.sg.dat"/>
+    <tags-item tags="prn.pos.uns.f.sg.dat"/>
     <tags-item tags="prn.ind.f.sg.dat"/>
     <tags-item tags="prn.itg.f.sg.dat"/>
   </def-label> 
@@ -1168,6 +1255,7 @@
   </def-label> 
   <def-label name="PRNFSGLOC">
     <tags-item tags="prn.pos.f.sg.loc"/>
+    <tags-item tags="prn.pos.uns.f.sg.loc"/>
     <tags-item tags="prn.ind.f.sg.loc"/>
     <tags-item tags="prn.itg.f.sg.loc"/>
   </def-label> 
@@ -1365,31 +1453,49 @@
 
   <def-label name="NOMNOM">
     <tags-item tags="n.*.*.nom"/>
+    <tags-item tags="np.*.*.*.nom"/>
   </def-label> 
   <def-label name="NOMGEN">
     <tags-item tags="n.*.*.gen"/>
+    <tags-item tags="np.*.*.*.gen"/>
   </def-label> 
   <def-label name="NOMDAT">
     <tags-item tags="n.*.*.dat"/>
+    <tags-item tags="np.*.*.*.dat"/>
   </def-label> 
   <def-label name="NOMACC">
     <tags-item tags="n.*.*.acc"/>
+    <tags-item tags="np.*.*.*.acc"/>
   </def-label> 
   <def-label name="NOMINS">
     <tags-item tags="n.*.*.ins"/>
+    <tags-item tags="np.*.*.*.ins"/>
   </def-label> 
   <def-label name="NOMLOC">
     <tags-item tags="n.*.*.loc"/>
+    <tags-item tags="np.*.*.*.loc"/>
   </def-label> 
   <def-label name="NOMVOC">
     <tags-item tags="n.*.*.voc"/>
+    <tags-item tags="np.*.*.*.voc"/>
   </def-label> 
+  <def-label name="NOM">
+    <tags-item tags="n.*"/>
+    <tags-item tags="np.*"/>
+  </def-label> 
+<!--
   <def-label name="ADJCOMP">
     <tags-item tags="adj.comp.*"/>
     <tags-item tags="adj.sint.comp.*"/>
   </def-label> 
+-->
 
-
+  <def-mult name="CNJSUBBYTENC" closed="true">
+    <sequence>
+      <label-item label="CNJSUB"/>
+      <label-item label="BYTENC"/>
+    </sequence>
+  </def-mult>
   <def-mult name="NEMOCI" closed="true">  
     <sequence>
       <label-item label="NE"/>
@@ -1835,6 +1941,14 @@
   <label-sequence>
     <label-item label="INSPR"/>
     <label-item label="NEJADJNTPLDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="NOM"/>
+    <label-item label="PRPERSPPR"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="PREADV"/>
+    <label-item label="PRPERSPPR"/>
   </label-sequence>
 </forbid>
 
