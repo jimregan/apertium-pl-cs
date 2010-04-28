@@ -25,7 +25,7 @@
   <def-label name="PO" closed="true">
     <tags-item lemma="po" tags="pr"/>
   </def-label> 
-  <def-label name="PRCASELESS" closed="true">
+  <def-label name="NOMPR" closed="true">
     <tags-item lemma="ako" tags="pr"/>
   </def-label> 
   <def-label name="GENPR" closed="true">
@@ -1436,11 +1436,341 @@
       <label-item label="SERFUT"/>
     </sequence>
   </def-mult>
-  <!-- Kludge -->
-  <def-mult name="NEJCOMP">  
+
+  <def-mult name="NEJADJFSGNOM">
     <sequence>
       <label-item label="NEJ"/>
-      <label-item label="ADJCOMP"/>
+      <label-item label="ADJFSGNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFSGGEN">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFSGGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFSGDAT">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFSGDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFSGACC">  
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFSGACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFSGINS">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFSGINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFSGLOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFSGLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFSGVOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFSGVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMASGNOM">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMASGNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMASGGEN">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMASGGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMASGDAT">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMASGDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMASGACC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMASGACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMASGINS">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMASGINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMASGLOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMASGLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMASGVOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMASGVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMISGNOM">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMISGNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMISGGEN">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMISGGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMISGDAT">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMISGDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMISGACC">  
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMISGACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMISGINS">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMISGINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMISGLOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMISGLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMISGVOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMISGVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTSGNOM">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTSGNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTSGGEN">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTSGGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTSGDAT">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTSGDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTSGACC">  
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTSGACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTSGINS">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTSGINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTSGLOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTSGLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTSGVOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTSGVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFPLNOM">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFPLNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFPLGEN">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFPLGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFPLDAT">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFPLDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFPLACC">  
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFPLACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFPLINS">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFPLINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFPLLOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFPLLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJFPLVOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJFPLVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMAPLNOM">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMAPLNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMAPLGEN">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMAPLGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMAPLDAT">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMAPLDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMAPLACC">  
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMAPLACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMAPLINS">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMAPLINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMAPLLOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMAPLLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMAPLVOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMAPLVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMIPLNOM">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMIPLNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMIPLGEN">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMIPLGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMIPLDAT">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMIPLDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMIPLACC">  
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMIPLACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMIPLINS">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMIPLINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMIPLLOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMIPLLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJMIPLVOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJMIPLVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTPLNOM">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTPLNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTPLGEN">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTPLGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTPLDAT">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTPLDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTPLACC">  
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTPLACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTPLINS">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTPLINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTPLLOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTPLLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEJADJNTPLVOC">
+    <sequence>
+      <label-item label="NEJ"/>
+      <label-item label="ADJNTPLVOC"/>
     </sequence>
   </def-mult>
 </tagset>
@@ -1458,6 +1788,46 @@
     <label-item label="NESERFUT"/>
     <label-item label="PERF"/>
   </label-sequence>
+  <label-sequence>
+    <label-item label="NOMPR"/>
+    <label-item label="ADJMASGACC"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="NOMPR"/>
+    <label-item label="NEJADJMASGACC"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="NOMPR"/>
+    <label-item label="ADJMAPLACC"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="NOMPR"/>
+    <label-item label="NEJADJMAPLACC"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="ADJMASGDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="NEJADJMASGDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="ADJMISGDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="NEJADJMISGDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="ADJNTPLDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="NEJADJNTPLDAT"/>
+  </label-sequence>
 </forbid>
 
 <enforce-rules>
@@ -1466,9 +1836,104 @@
       <label-item label="P3DETPOS"/>
     </label-set>
   </enforce-after>
-  <enforce-after label="PO">
+  <enforce-after label="NOMPR">
     <label-set>
-      <label-item label="ADJPO"/>
+      <label-item label="ADJMASGNOM"/>
+      <label-item label="ADJMISGNOM"/>
+      <label-item label="ADJFSGNOM"/>
+      <label-item label="ADJNTSGNOM"/>
+      <label-item label="ADJMAPLNOM"/>
+      <label-item label="ADJMIPLNOM"/>
+      <label-item label="ADJFPLNOM"/>
+      <label-item label="ADJNTPLNOM"/>
+      <label-item label="NEJADJMASGNOM"/>
+      <label-item label="NEJADJMISGNOM"/>
+      <label-item label="NEJADJFSGNOM"/>
+      <label-item label="NEJADJNTSGNOM"/>
+      <label-item label="NEJADJMAPLNOM"/>
+      <label-item label="NEJADJMIPLNOM"/>
+      <label-item label="NEJADJFPLNOM"/>
+      <label-item label="NEJADJNTPLNOM"/>
+    </label-set>
+  </enforce-after>
+  <enforce-after label="GENPR">
+    <label-set>
+      <label-item label="ADJMASGGEN"/>
+      <label-item label="ADJMISGGEN"/>
+      <label-item label="ADJFSGGEN"/>
+      <label-item label="ADJNTSGGEN"/>
+      <label-item label="ADJMAPLGEN"/>
+      <label-item label="ADJMIPLGEN"/>
+      <label-item label="ADJFPLGEN"/>
+      <label-item label="ADJNTPLGEN"/>
+      <label-item label="NEJADJMASGGEN"/>
+      <label-item label="NEJADJMISGGEN"/>
+      <label-item label="NEJADJFSGGEN"/>
+      <label-item label="NEJADJNTSGGEN"/>
+      <label-item label="NEJADJMAPLGEN"/>
+      <label-item label="NEJADJMIPLGEN"/>
+      <label-item label="NEJADJFPLGEN"/>
+      <label-item label="NEJADJNTPLGEN"/>
+    </label-set>
+  </enforce-after>
+  <enforce-after label="DATPR">
+    <label-set>
+      <label-item label="ADJMASGDAT"/>
+      <label-item label="ADJMISGDAT"/>
+      <label-item label="ADJFSGDAT"/>
+      <label-item label="ADJNTSGDAT"/>
+      <label-item label="ADJMAPLDAT"/>
+      <label-item label="ADJMIPLDAT"/>
+      <label-item label="ADJFPLDAT"/>
+      <label-item label="ADJNTPLDAT"/>
+      <label-item label="NEJADJMASGDAT"/>
+      <label-item label="NEJADJMISGDAT"/>
+      <label-item label="NEJADJFSGDAT"/>
+      <label-item label="NEJADJNTSGDAT"/>
+      <label-item label="NEJADJMAPLDAT"/>
+      <label-item label="NEJADJMIPLDAT"/>
+      <label-item label="NEJADJFPLDAT"/>
+      <label-item label="NEJADJNTPLDAT"/>
+    </label-set>
+  </enforce-after>
+  <enforce-after label="INSPR">
+    <label-set>
+      <label-item label="ADJMASGINS"/>
+      <label-item label="ADJMISGINS"/>
+      <label-item label="ADJFSGINS"/>
+      <label-item label="ADJNTSGINS"/>
+      <label-item label="ADJMAPLINS"/>
+      <label-item label="ADJMIPLINS"/>
+      <label-item label="ADJFPLINS"/>
+      <label-item label="ADJNTPLINS"/>
+      <label-item label="NEJADJMASGINS"/>
+      <label-item label="NEJADJMISGINS"/>
+      <label-item label="NEJADJFSGINS"/>
+      <label-item label="NEJADJNTSGINS"/>
+      <label-item label="NEJADJMAPLINS"/>
+      <label-item label="NEJADJMIPLINS"/>
+      <label-item label="NEJADJFPLINS"/>
+      <label-item label="NEJADJNTPLINS"/>
+    </label-set>
+  </enforce-after>
+  <enforce-after label="LOCPR">
+    <label-set>
+      <label-item label="ADJMASGLOC"/>
+      <label-item label="ADJMISGLOC"/>
+      <label-item label="ADJFSGLOC"/>
+      <label-item label="ADJNTSGLOC"/>
+      <label-item label="ADJMAPLLOC"/>
+      <label-item label="ADJMIPLLOC"/>
+      <label-item label="ADJFPLLOC"/>
+      <label-item label="ADJNTPLLOC"/>
+      <label-item label="NEJADJMASGLOC"/>
+      <label-item label="NEJADJMISGLOC"/>
+      <label-item label="NEJADJFSGLOC"/>
+      <label-item label="NEJADJNTSGLOC"/>
+      <label-item label="NEJADJMAPLLOC"/>
+      <label-item label="NEJADJMIPLLOC"/>
+      <label-item label="NEJADJFPLLOC"/>
+      <label-item label="NEJADJNTPLLOC"/>
     </label-set>
   </enforce-after>
 </enforce-rules>
