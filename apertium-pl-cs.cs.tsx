@@ -13,6 +13,17 @@
   <def-label name="IJ">
     <tags-item tags="ij"/>
   </def-label> 
+  <def-label name="NUMSG" closed="true">
+    <tags-item tags="num.sg"/>
+  </def-label> 
+  <def-label name="NUMPL">
+    <tags-item tags="num.pl"/>
+    <tags-item tags="num.pl.*"/>
+  </def-label> 
+  <def-label name="NUMQNT">
+    <tags-item tags="num.qnt"/>
+    <tags-item tags="num.qnt.*"/>
+  </def-label> 
   <def-label name="ADV">
     <tags-item tags="adv"/>
     <tags-item tags="adv.sint"/>

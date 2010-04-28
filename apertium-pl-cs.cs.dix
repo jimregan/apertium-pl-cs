@@ -21698,7 +21698,9 @@
     <e lm="nad"><i>nad</i><par n="za__pr"/></e>
     <e lm="naproti"><i>naproti</i><par n="za__pr"/></e>
     <e lm="o"><i>o</i><par n="za__pr"/></e>
-    <e lm="od"><i>od</i><par n="za__pr"/></e>
+    <e lm="od" r="LR"><i>od</i><par n="za__pr"/></e>
+    <e lm="od" r="LR"><p><l>ode</l><r>od</r></p><par n="za__pr"/></e>
+    <e lm="od" r="RL"><p><l><a/>od</l><r>od</r></p><par n="za__pr"/></e>
     <e lm="okolo"><i>okolo</i><par n="za__pr"/></e>
     <e lm="oproti"><i>oproti</i><par n="za__pr"/></e>
     <e lm="po"><i>po</i><par n="za__pr"/></e>

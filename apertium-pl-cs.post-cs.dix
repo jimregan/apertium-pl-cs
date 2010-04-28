@@ -132,6 +132,14 @@
         <i>mn</i>
       </e>
     </pardef>
+    <pardef n="ode">
+      <e>
+        <i>dn</i>
+      </e>
+      <e>
+        <i>mn</i>
+      </e>
+    </pardef>
   </pardefs>
 
   <section id="main" type="standard">
@@ -172,6 +180,19 @@
       <p>
         <l><a/>s<b/></l>
         <r>s<b/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l><a/>od<b/></l>
+        <r>ode<b/></r>
+      </p>
+      <par n="ode"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>od<b/></l>
+        <r>od<b/></r>
       </p>
     </e>
   </section>
