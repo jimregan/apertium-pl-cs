@@ -14,6 +14,9 @@
   <def-label name="num.qnt" closed="true">
     <tags-item tags="num.qnt"/>
   </def-label>
+  <def-label name="num.percent" closed="true">
+    <tags-item tags="num.percent"/>
+  </def-label>
   <def-label name="adj.comp.f.pl.acc" closed="true">
     <tags-item tags="adj.comp.f.pl.acc"/>
   </def-label>

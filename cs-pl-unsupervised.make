@@ -5,22 +5,25 @@ LANG2=pl
 TAGGER=$(LANG1)-tagger-data
 PREFIX=$(LANG1)-$(LANG2)
 
+#TSXFILE=$(BASENAME).$(LANG1).tsx
+TSX_FILE=dev/generated-cs.tsx
+
 all: $(PREFIX).prob
 
-$(PREFIX).prob: $(BASENAME).$(LANG1).tsx $(TAGGER)/$(LANG1).dic $(TAGGER)/$(LANG1).crp
-	apertium-validate-tagger $(BASENAME).$(LANG1).tsx
+$(PREFIX).prob: $(TSX_FILE) $(TAGGER)/$(LANG1).dic $(TAGGER)/$(LANG1).crp
+	apertium-validate-tagger $(TSX_FILE)
 	apertium-tagger -t $(TAGGER_UNSUPERVISED_ITERATIONS) \
                            $(TAGGER)/$(LANG1).dic \
                            $(TAGGER)/$(LANG1).crp \
-                           $(BASENAME).$(LANG1).tsx \
+                           $(TSX_FILE) \
                            $(PREFIX).prob;
 
 $(TAGGER)/$(LANG1).dic: $(BASENAME).$(LANG1).dix $(PREFIX).automorf.bin
 	@echo "Generating $@";
 	@echo "This may take some time. Please, take a cup of coffee and come back later.";
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
-	apertium-validate-tagger $(BASENAME).$(LANG1).tsx
-	lt-expand $(BASENAME).$(LANG1).dixtmp1 | grep -v "__REGEXP__" | grep -v ":<:" |\
+	apertium-validate-tagger $(TSX_FILE)
+	lt-expand $(BASENAME).$(LANG1).dix | grep -v "__REGEXP__" | grep -v ":<:" |\
 	awk 'BEGIN{FS=":>:|:"}{print $$1 ".";}' | apertium-destxt >$(LANG1).dic.expanded
 	@echo "." >>$(LANG1).dic.expanded
 	@echo "?" >>$(LANG1).dic.expanded
@@ -40,7 +43,7 @@ $(TAGGER)/$(LANG1).dic: $(BASENAME).$(LANG1).dix $(PREFIX).automorf.bin
 	# awk '{gsub(/\/([^< ]+)<n><acr><sp>/,""); print;}' | \
 	sed -r 's/\/[A-Z]+<n><acr><sp>//g' | \
 	sed -r 's/\^([^$$/\\ ]+)\$$/^\1\/\1<n><acr><sp>$$/g' | \
-	apertium-filter-ambiguity $(BASENAME).$(LANG1).tsx > $@
+	apertium-filter-ambiguity $(TSX_FILE) > $@
 	rm $(LANG1).dic.expanded;
 
 $(TAGGER)/$(LANG1).crp: $(PREFIX).automorf.bin $(TAGGER)/$(LANG1).crp.txt
