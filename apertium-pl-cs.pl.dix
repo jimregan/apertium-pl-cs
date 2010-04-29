@@ -14343,7 +14343,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="BASE__iść-past">
+    <pardef n="BASE__szedłem">
       <e>
         <p>
           <l>szedłem</l>
@@ -14581,6 +14581,248 @@
       <e>
         <p>
           <l>szłyby</l>
+          <r><s n="cni"/><s n="p3"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__nadszedłem">
+      <e>
+        <p>
+          <l>szedłem</l>
+          <r><s n="past"/><s n="p1"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>eszłem</l>
+          <r><s n="past"/><s n="p1"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszłam</l>
+          <r><s n="past"/><s n="p1"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szedłeś</l>
+          <r><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>eszłeś</l>
+          <r><s n="past"/><s n="p2"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszłaś</l>
+          <r><s n="past"/><s n="p2"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szedł</l>
+          <r><s n="past"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszła</l>
+          <r><s n="past"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszło</l>
+          <r><s n="past"/><s n="p3"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>eszłom</l>
+          <r><s n="past"/><s n="p1"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>eszłoś</l>
+          <r><s n="past"/><s n="p2"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszliśmy</l>
+          <r><s n="past"/><s n="p1"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>eszlimy</l>
+          <r><s n="past"/><s n="p1"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszliście</l>
+          <r><s n="past"/><s n="p2"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>eszlicie</l>
+          <r><s n="past"/><s n="p2"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszli</l>
+          <r><s n="past"/><s n="p3"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszłyśmy</l>
+          <r><s n="past"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>eszłymy</l>
+          <r><s n="past"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszłyście</l>
+          <r><s n="past"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>eszłycie</l>
+          <r><s n="past"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszły</l>
+          <r><s n="past"/><s n="p3"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szedłbym</l>
+          <r><s n="cni"/><s n="p1"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszłabym</l>
+          <r><s n="cni"/><s n="p1"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szedłbyś</l>
+          <r><s n="cni"/><s n="p2"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszłabyś</l>
+          <r><s n="cni"/><s n="p2"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szedłby</l>
+          <r><s n="cni"/><s n="p3"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszłaby</l>
+          <r><s n="cni"/><s n="p3"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszłoby</l>
+          <r><s n="cni"/><s n="p3"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>eszłobym</l>
+          <r><s n="cni"/><s n="p1"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="LR" c="teor">
+        <p>
+          <l>eszłobyś</l>
+          <r><s n="cni"/><s n="p2"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszlibyśmy</l>
+          <r><s n="cni"/><s n="p1"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>eszlibymy</l>
+          <r><s n="cni"/><s n="p1"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszlibyście</l>
+          <r><s n="cni"/><s n="p2"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>eszlibycie</l>
+          <r><s n="cni"/><s n="p2"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszliby</l>
+          <r><s n="cni"/><s n="p3"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszłybyśmy</l>
+          <r><s n="cni"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>eszłybymy</l>
+          <r><s n="cni"/><s n="p1"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszłybyście</l>
+          <r><s n="cni"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR" c="niepop">
+        <p>
+          <l>eszłybycie</l>
+          <r><s n="cni"/><s n="p2"/><s n="nm"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eszłyby</l>
           <r><s n="cni"/><s n="p3"/><s n="nm"/><s n="pl"/></r>
         </p>
       </e>
@@ -15677,7 +15919,7 @@
           <l></l>
           <r>iść<s n="vblex"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__iść-past"/>
+        <par n="BASE__szedłem"/>
       </e>
 
       <e>
@@ -17548,7 +17790,7 @@
           <l></l>
           <r>jść<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__iść-past"/>
+        <par n="BASE__szedłem"/>
       </e>
       <e>
         <p>
@@ -17603,7 +17845,7 @@
           <l>o</l>
           <r>ójść<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__iść-past"/>
+        <par n="BASE__szedłem"/>
       </e>
       <e>
         <p>
@@ -17658,7 +17900,7 @@
           <l></l>
           <r>ejść<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__iść-past"/>
+        <par n="BASE__nadszedłem"/>
       </e>
       <e>
         <p>
@@ -35554,6 +35796,17 @@
     <e lm="wierzyć"><i>wierz</i><par n="wierz/yć__vblex"/></e>
     <e lm="bić"><i>bi</i><par n="bi/ć__vblex"/></e>
     <e lm="czuć"><i>czu</i><par n="bi/ć__vblex"/></e>
+    <e lm="obiecywać"><i>obiec</i><par n="obiec/ywać__vblex"/></e>
+    <e lm="malować"><i>mal</i><par n="mal/ować__vblex"/></e>
+    <e lm="ostrzeliwać"><i>ostrzel</i><par n="ostrzel/iwać__vblex"/></e>
+    <e lm="wykonywać"><i>wykon</i><par n="wykon/ywać__vblex"/></e>
+    <e lm="łgać"><i>ł</i><par n="ł/gać__vblex"/></e>
+    <e lm="zwać"><i>z</i><par n="z/wać__vblex"/></e>
+    <e lm="mleć"><i>m</i><par n="m/leć__vblex"/></e>
+    <e lm="zemleć"><i></i><par n="/zemleć__vblex"/></e>
+    <e lm="wyjść"><i>wy</i><par n="wy/jść__vblex"/></e>
+    <e lm="pójść"><i>p</i><par n="p/ójść__vblex"/></e>
+    <e lm="nadejść"><i>nad</i><par n="nad/ejść__vblex"/></e>
 
     <e lm="biegunka"><i>biegun</i><par n="mat/ka__n"/></e>
     <e lm="bułka"><i>buł</i><par n="mat/ka__n"/></e>
