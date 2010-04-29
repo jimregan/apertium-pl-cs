@@ -19658,56 +19658,21 @@
       <e>
         <p>
           <l></l>
-          <r></r>
+          <r><s n="n"/></r>
         </p>
         <par n="PBASE__lekarz_sg"/>
       </e>
       <e>
         <p>
-          <l>owie</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+          <l></l>
+          <r><s n="n"/></r>
         </p>
+        <par n="PBASE__mp_pl"/>
       </e>
       <e r="LR">
         <p>
           <l>y</l>
           <r><s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ów</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>om</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ów</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ami</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ach</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owie</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e r="LR">
@@ -19721,7 +19686,7 @@
       <e>
         <p>
           <l></l>
-          <r></r>
+          <r><s n="n"/></r>
         </p>
         <par n="PBASE__lekarz_sg"/>
       </e>
@@ -21256,7 +21221,7 @@
       <e>
         <p>
           <l></l>
-          <r></r>
+          <r><s n="n"/></r>
         </p>
         <par n="PBASE__lekarz_sg"/>
       </e>
@@ -22171,56 +22136,21 @@
       <e>
         <p>
           <l></l>
-          <r></r>
+          <r><s n="n"/></r>
         </p>
         <par n="PBASE__lekarz_sg"/>
       </e>
       <e>
         <p>
-          <l>y</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+          <l></l>
+          <r><s n="n"/></r>
         </p>
+        <par n="PBASE__śpioch_pl"/>
       </e>
       <e r="LR">
         <p>
           <l>e</l>
           <r><s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ów</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>om</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ów</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ami</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ach</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>y</l>
-          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e r="LR">
@@ -22234,7 +22164,7 @@
       <e>
         <p>
           <l></l>
-          <r></r>
+          <r><s n="n"/></r>
         </p>
         <par n="PBASE__lekarz_sg"/>
       </e>
