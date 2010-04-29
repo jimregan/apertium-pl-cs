@@ -17502,6 +17502,171 @@
         </p>
       </e>
     </pardef>
+    <pardef n="wy/jść__vblex">
+      <e>
+        <p>
+          <l>jść</l>
+          <r>jść<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>jdę</l>
+          <r>jść<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jdzie</l>
+          <r>jść<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>jdą</l>
+          <r>jść<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jś</l>
+          <r>jść<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__picie"/>
+      </e>
+      <e>
+        <p>
+          <l>jdź</l>
+          <r>jść<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>jść<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__iść-past"/>
+      </e>
+      <e>
+        <p>
+          <l>szedłszy</l>
+          <r>jść<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="p/ójść__vblex">
+      <e>
+        <p>
+          <l>ójść</l>
+          <r>ójść<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>ójdę</l>
+          <r>ójść<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ójdzie</l>
+          <r>ójść<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>ójdą</l>
+          <r>ójść<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ójś</l>
+          <r>ójść<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__picie"/>
+      </e>
+      <e>
+        <p>
+          <l>ójdź</l>
+          <r>ójść<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>ójść<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__iść-past"/>
+      </e>
+      <e>
+        <p>
+          <l>oszedłszy</l>
+          <r>ójść<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="nad/ejść__vblex">
+      <e>
+        <p>
+          <l>ejść</l>
+          <r>ejść<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>ejdę</l>
+          <r>ejść<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ejdzie</l>
+          <r>ejść<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>ejdą</l>
+          <r>ejść<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ejś</l>
+          <r>ejść<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__picie"/>
+      </e>
+      <e>
+        <p>
+          <l>ejdź</l>
+          <r>ejść<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ejść<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__iść-past"/>
+      </e>
+      <e>
+        <p>
+          <l>szedłszy</l>
+          <r>ejść<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="PBASE__mp_pl">
       <e c="Regular nominal plurals">
