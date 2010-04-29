@@ -15309,7 +15309,7 @@
       <e>
         <p>
           <l>a</l>
-          <r>ać<s n="vbhaver"/><s n="perf"/><s n="fti"/></r>
+          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
@@ -17906,6 +17906,146 @@
         <p>
           <l>szedłszy</l>
           <r>ejść<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="sp/ojrzeć__vblex">
+      <e>
+         <p>
+          <l>ojrzeć</l>
+          <r>ojrzeć<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ojrzę</l>
+          <r>ojrzeć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ojrzy</l>
+          <r>ojrzeć<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>ojrzą</l>
+          <r>ojrzeć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>ójrz</l>
+          <r>ojrzeć<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ojrzyj</l>
+          <r>ojrzeć<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+
+      <e>
+        <p>
+          <l>ojrza</l>
+          <r>ojrzeć<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytałem"/>
+      </e>
+
+      <e>
+        <p>
+          <l>ojrze</l>
+          <r>ojrzeć<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>ojrzano</l>
+          <r>ojrzeć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ojrzawszy</l>
+          <r>ojrzeć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="zacz/ąć__vblex">
+      <e>
+         <p>
+          <l>ąć</l>
+          <r>ąć<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nę</l>
+          <r>ąć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nie</l>
+          <r>ąć<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>ną</l>
+          <r>ąć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>nij</l>
+          <r>ąć<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+
+      <e>
+        <p>
+          <l></l>
+          <r>ąć<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__ciąłem"/>
+      </e>
+
+      <e>
+        <p>
+          <l>ę</l>
+          <r>ąć<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__picie"/>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r>ąć<s n="vblex"/><s n="perf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__wzięty"/>
+      </e>
+      <e>
+        <p>
+          <l>ęto</l>
+          <r>ąć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ąwszy</l>
+          <r>ąć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
         </p>
       </e>
     </pardef>
