@@ -825,7 +825,7 @@
     <e><p><l>ozon<s n="n"/><s n="mi"/></l><r>ozón<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>pallad<s n="n"/><s n="mi"/></l><r>palladium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>państwo<s n="n"/><s n="nt"/></l><r>stát<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>pingwin<s n="n"/><s n="mi"/></l><r>tučňák<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>pingwin<s n="n"/><s n="ma"/></l><r>tučňák<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>planeta<s n="n"/><s n="f"/></l><r>planeta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pluton<s n="n"/><s n="mi"/></l><r>plutonium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pochwa<s n="n"/><s n="f"/></l><r>vagína<s n="n"/><s n="f"/></r></p></e>
@@ -2039,7 +2039,7 @@
     <e><p><l>chłopak<s n="n"/><s n="mp"/></l><r>kluk<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>biblioteka<s n="n"/><s n="f"/></l><r>knihovna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kobyla<s n="n"/><s n="f"/></l><r>kobyla<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>kogut<s n="n"/><s n="ma"/></l><r>kokot<s n="n"/><s n="ma"/></r></p></e>
+    <e r="RL"><p><l>kogut<s n="n"/><s n="ma"/></l><r>kokot<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>towar<s n="n"/><s n="mi"/></l><r>komodita<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>komputer<s n="n"/><s n="mi"/></l><r>komp<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>końcówka<s n="n"/><s n="f"/></l><r>koncovka<s n="n"/><s n="f"/></r></p></e>

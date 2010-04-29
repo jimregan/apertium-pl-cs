@@ -20073,6 +20073,57 @@
         <par n="BASE__rekin"/>
       </e>
     </pardef>
+    <pardef n="robo/t__n">
+      <e>
+        <p>
+          <l>t</l>
+          <r>t<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r>t<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>towi</l>
+          <r>t<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r>t<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tem</l>
+          <r>t<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cie</l>
+          <r>t<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cie</l>
+          <r>t<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>t</l>
+          <r>t<s n="n"/><s n="ma"/></r>
+        </p>
+        <par n="PBASE__bat_pl"/>
+      </e>
+    </pardef>
     <pardef n="studen/t__n">
       <e>
         <p>
@@ -20931,104 +20982,6 @@
         <p>
           <l>y</l>
           <r><s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="face/t__n">
-      <e>
-        <p>
-          <l>t</l>
-          <r>t<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ta</l>
-          <r>t<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>towi</l>
-          <r>t<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ta</l>
-          <r>t<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>tem</l>
-          <r>t<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>cie</l>
-          <r>t<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>cie</l>
-          <r>t<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ci</l>
-          <r>t<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l>ty</l>
-          <r>t<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>tów</l>
-          <r>t<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>tom</l>
-          <r>t<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>tów</l>
-          <r>t<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>tami</l>
-          <r>t<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>tach</l>
-          <r>t<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ci</l>
-          <r>t<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l>ty</l>
-          <r>t<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
@@ -31194,6 +31147,12 @@
       </e>
       <e>
         <p>
+          <l>est</l>
+          <r>est<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>tem</l>
           <r>est<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
         </p>
@@ -31212,51 +31171,10 @@
       </e>
       <e>
         <p>
-          <l>ty</l>
-          <r>est<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+          <l>t</l>
+          <r>est<s n="n"/><s n="mi"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>tów</l>
-          <r>est<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>tom</l>
-          <r>est<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>tami</l>
-          <r>est<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>tach</l>
-          <r>est<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>est</l>
-          <r>est<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ty</l>
-          <r>est<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ty</l>
-          <r>est<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
-        </p>
+        <par n="PBASE__bat_pl"/>
       </e>
     </pardef>
     <pardef n="kwi/at__n">
@@ -35632,6 +35550,9 @@
     <e lm="rekin"><i>rekin</i><par n="rekin__n"/></e>
     <e lm="wieloryb"><i>wieloryb</i><par n="rekin__n"/></e>
     <e lm="penis"><i>penis</i><par n="rekin__n"/></e>
+    <e lm="pingwin"><i>pingwin</i><par n="rekin__n"/></e>    
+    <e lm="robot"><i>robo</i><par n="robo/t__n"/></e>
+    <e lm="kogut"><i>kogu</i><par n="robo/t__n"/></e>
     <e lm="mąż"><i>m</i><par n="m/ąż__n"/></e>
     <e lm="student"><i>studen</i><par n="studen/t__n"/></e>
     <e lm="brat"><i>bra</i><par n="bra/t__n"/></e>
@@ -35642,6 +35563,10 @@
     <e lm="diabeł"><i>diab</i><par n="diab/eł__n"/></e>
     <e lm="jeniec"><i>je</i><par n="je/niec__n"/></e>
     <e lm="młodzieniec"><i>młodzie</i><par n="młodzie/niec__n"/></e>
+    <e lm="kasztanowiec"><i>kasztanow</i><par n="lip/iec__n"/></e>
+    <e lm="lodowiec"><i>lodow</i><par n="lip/iec__n"/></e>
+    <e lm="lipiec"><i>lip</i><par n="lip/iec__n"/></e>
+    <e lm="chrzest"><i>chrz</i><par n="chrz/est__n"/></e>
     <e lm="chłopiec"><i>chłop</i><par n="chłop/iec__n"/></e>
     <e lm="błazen"><i>bła</i><par n="bła/zen__n"/></e>
     <e lm="Arab"><i>Arab</i><par n="Arab__n"/></e>
