@@ -2041,7 +2041,7 @@
     <e><p><l>kobyla<s n="n"/><s n="f"/></l><r>kobyla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kogut<s n="n"/><s n="ma"/></l><r>kokot<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>towar<s n="n"/><s n="mi"/></l><r>komodita<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>komputer<s n="n"/><s n="mi"/></l><r>komp<s n="n"/><s n="mi"/></r></p></e>
+    <e r="RL"><p><l>komputer<s n="n"/><s n="mi"/></l><r>komp<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>końcówka<s n="n"/><s n="f"/></l><r>koncovka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>konsensus<s n="n"/><s n="mi"/></l><r>konsensus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>kompromis<s n="n"/><s n="mi"/></l><r>konsensus<s n="n"/><s n="mi"/></r></p></e>
