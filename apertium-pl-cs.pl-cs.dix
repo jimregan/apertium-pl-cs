@@ -1074,7 +1074,6 @@
     <e><p><l>obiekt<s n="n"/><s n="mi"/></l><r>objekt<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>pas<s n="n"/><s n="mi"/></l><r>pás<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>piątek<s n="n"/><s n="mi"/></l><r>pátek<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>penis<s n="n"/><s n="mi"/></l><r>penis<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>rok<s n="n"/><s n="mi"/></l><r>rok<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>smoking<s n="n"/><s n="mi"/></l><r>smoking<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>szkuner<s n="n"/><s n="mi"/></l><r>škuner<s n="n"/><s n="mi"/></r></p></e>
@@ -2001,7 +2000,8 @@
     <e><p><l>chata<s n="n"/><s n="f"/></l><r>chatka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chłopiec<s n="n"/><s n="mp"/></l><r>chlapec<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>suka<s n="n"/><s n="f"/></l><r>čubka<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>penis<s n="n"/><s n="mi"/></l><r>čurák<s n="n"/><s n="ma"/></r></p></e>
+    <e r="RL"><p><l>penis<s n="n"/><s n="mi"/></l><r>čurák<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>penis<s n="n"/><s n="mi"/></l><r>penis<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>debil<s n="n"/><s n="mp"/></l><r>debil<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>dymisja<s n="n"/><s n="f"/></l><r>demise<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tablica<s n="n"/><s n="f"/></l><r>deska<s n="n"/><s n="f"/></r></p></e>
