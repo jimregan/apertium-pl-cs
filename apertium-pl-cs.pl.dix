@@ -14962,7 +14962,7 @@
       </e>
       <e>
         <p>
-          <l>adz</l>
+          <l>edz</l>
           <r>eść<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
@@ -15232,6 +15232,13 @@
           <l>idąc</l>
           <r>iść<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
         </p>
+      </e>
+      <e>
+        <p>
+          <l>iś</l>
+          <r>iść<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__picie"/>
       </e>
     </pardef>
     <pardef n="w/ziąć__vblex">
