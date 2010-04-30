@@ -16312,33 +16312,95 @@
       </e>
       <e>
         <p>
+          <l>iwuję</l>
+          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iwuje</l>
+          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>iwują</l>
+          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>iwuj</l>
+          <r>iwać<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+
+      <e>
+        <p>
+          <l>iwa</l>
+          <r>iwać<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytałem"/>
+      </e>
+
+      <e>
+        <p>
+          <l>iwując</l>
+          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+      <e>
+        <p>
+          <l>iwując</l>
+          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>iwa</l>
+          <r>iwać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>iwan</l>
+          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__kochany"/>
+      </e>
+
+      <e>
+        <p>
+          <l>iwano</l>
+          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="oszuk/iwać__vblex">
+      <e>
+         <p>
+          <l>iwać</l>
+          <r>iwać<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>uję</l>
           <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ujesz</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>uje</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>ujemy</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ujecie</l>
-          <r>iwać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
@@ -19172,7 +19234,7 @@
       </e>
       <e>
         <p>
-          <l>anie</l>
+          <l>a</l>
           <r>ać<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
         </p>
         <par n="BASE__zdanie"/>
@@ -37489,7 +37551,9 @@
     <e lm="czuć"><i>czu</i><par n="bi/ć__vblex"/></e>
     <e lm="obiecywać"><i>obiec</i><par n="obiec/ywać__vblex"/></e>
     <e lm="malować"><i>mal</i><par n="mal/ować__vblex"/></e>
+    <e lm="rysować"><i>rys</i><par n="mal/ować__vblex"/></e>
     <e lm="ostrzeliwać"><i>ostrzel</i><par n="ostrzel/iwać__vblex"/></e>
+    <e lm="oszukiwać"><i>oszuk</i><par n="oszuk/iwać__vblex"/></e>
     <e lm="wykonywać"><i>wykon</i><par n="wykon/ywać__vblex"/></e>
     <e lm="łgać"><i>ł</i><par n="ł/gać__vblex"/></e>
     <e lm="zwać"><i>z</i><par n="z/wać__vblex"/></e>
@@ -37520,6 +37584,9 @@
     <e lm="powziąć"><i>pow</i><par n="pow/ziąć__vblex"/></e>
     <e lm="zapomnieć"><i>zapomn</i><par n="zapomn/ieć__vblex"/></e>
     <e lm="dawać"><i>da</i><par n="da/wać__vblex"/></e>
+    <e lm="spojrzeć"><i>sp</i><par n="sp/ojrzeć__vblex"/></e>
+    <e lm="grzać"><i>grz</i><par n="grz/ać__vblex"/></e>
+    <e lm="zacząć"><i>zacz</i><par n="zacz/ąć__vblex"/></e>
 
 
     <e lm="biegunka"><i>biegun</i><par n="mat/ka__n"/></e>
