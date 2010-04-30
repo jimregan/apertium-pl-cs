@@ -22450,6 +22450,32 @@
         </p>
       </e>
     </pardef>
+    <pardef n="PBASE__apostoł_sg">
+      <e>
+        <p>
+          <l>ła</l>
+          <r><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łem</l>
+          <r><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>le</l>
+          <r><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>le</l>
+          <r><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="anatomi/a__n">
       <e>
         <p>
@@ -23576,12 +23602,6 @@
       </e>
       <e>
         <p>
-          <l>ła</l>
-          <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>łu</l>
           <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
         </p>
@@ -23594,21 +23614,17 @@
       </e>
       <e>
         <p>
-          <l>łem</l>
-          <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+          <l></l>
+          <r>eł<s n="n"/><s n="ma"/></r>
         </p>
+        <par n="PBASE__apostoł_sg"/>
       </e>
       <e>
         <p>
-          <l>le</l>
-          <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+          <l>ł</l>
+          <r>eł<s n="n"/><s n="ma"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>le</l>
-          <r>eł<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
-        </p>
+        <par n="PBASE__bat_pl"/>
       </e>
       <e r="LR">
         <p>
@@ -23616,51 +23632,9 @@
           <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l>ły</l>
-          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łów</l>
-          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łom</l>
-          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ły</l>
-          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łami</l>
-          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łach</l>
-          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
       <e r="LR">
         <p>
           <l>li</l>
-          <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ły</l>
           <r>eł<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
@@ -24549,12 +24523,6 @@
       </e>
       <e>
         <p>
-          <l>ła</l>
-          <r>ł<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>łowi</l>
           <r>ł<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
         </p>
@@ -24567,21 +24535,10 @@
       </e>
       <e>
         <p>
-          <l>łem</l>
-          <r>ł<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+          <l></l>
+          <r>ł<s n="n"/><s n="mp"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>le</l>
-          <r>ł<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>le</l>
-          <r>ł<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
+        <par n="PBASE__apostoł_sg"/>
       </e>
       <e>
         <p>
@@ -30500,17 +30457,45 @@
         </p>
       </e>
     </pardef>
-    <pardef n="or/zeł__n">
+    <pardef n="migda/ł__n">
       <e>
         <p>
-          <l>zeł</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+          <l>ł</l>
+          <r>ł<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>łowi</l>
+          <r>ł<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ła</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+          <r>ł<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ł<s n="n"/><s n="mi"/></r>
+        </p>
+        <par n="PBASE__apostoł_sg"/>
+      </e>
+      <e>
+        <p>
+          <l>ł</l>
+          <r>ł<s n="n"/><s n="mi"/></r>
+        </p>
+        <par n="PBASE__bat_pl"/>
+      </e>
+    </pardef>
+    <pardef n="or/zeł__n">
+      <e>
+        <p>
+          <l>zeł</l>
+          <r>zeł<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
@@ -30521,69 +30506,23 @@
       </e>
       <e>
         <p>
-          <l>łem</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>le</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>le</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ły</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łów</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łom</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łami</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łach</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>ła</l>
           <r>zeł<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ły</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+          <l></l>
+          <r>zeł<s n="n"/><s n="ma"/></r>
         </p>
+        <par n="PBASE__apostoł_sg"/>
       </e>
       <e>
         <p>
-          <l>ły</l>
-          <r>zeł<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+          <l>ł</l>
+          <r>zeł<s n="n"/><s n="ma"/></r>
         </p>
+        <par n="PBASE__bat_pl"/>
       </e>
     </pardef>
     <pardef n="wąg/ier__n">
@@ -30834,62 +30773,8 @@
       </e>
       <e>
         <p>
-          <l>ła</l>
-          <r>ieł<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>łowi</l>
           <r>ieł<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łem</l>
-          <r>ieł<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>le</l>
-          <r>ieł<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>le</l>
-          <r>ieł<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ły</l>
-          <r>ieł<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łów</l>
-          <r>ieł<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łom</l>
-          <r>ieł<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łami</l>
-          <r>ieł<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łach</l>
-          <r>ieł<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
@@ -30900,15 +30785,17 @@
       </e>
       <e>
         <p>
-          <l>ły</l>
-          <r>ieł<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+          <l></l>
+          <r>ieł<s n="n"/><s n="mi"/></r>
         </p>
+        <par n="PBASE__apostoł_sg"/>
       </e>
       <e>
         <p>
-          <l>ły</l>
-          <r>ieł<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+          <l>ł</l>
+          <r>ieł<s n="n"/><s n="mi"/></r>
         </p>
+        <par n="PBASE__bat_pl"/>
       </e>
     </pardef>
     <pardef n="wąg/ier__n">
@@ -38563,6 +38450,7 @@
     <e lm="chłopiec"><i>chłop</i><par n="chłop/iec__n"/></e>
     <e lm="błazen"><i>bła</i><par n="bła/zen__n"/></e>
     <e lm="Arab"><i>Arab</i><par n="Arab__n"/></e>
+    <e lm="migdał"><i>migda</i><par n="migda/ł__n"/></e>
     <e lm="apostoł"><i>aposto</i><par n="aposto/ł__n"/></e>
     <e lm="inżynier"><i>inżynier</i><par n="inżynier__n"/></e>
     <e lm="poseł"><i>po</i><par n="po/seł__n"/></e>
@@ -38612,10 +38500,10 @@
     <e lm="ciocia"><i>cio</i><par n="cio/cia__n"/></e>
     <e lm="babcia"><i>bab</i><par n="cio/cia__n"/></e>
     <e lm="ulica"><i>ulic</i><par n="ulic/a__n"/></e>
+    <e lm="gąsienica"><i>gąsienic</i><par n="ulic/a__n"/></e>
     <e lm="cukrzyca"><i>cukrzyc</i><par n="ulic/a__n"/></e>
     <e lm="bitwa"><i>bit</i><par n="bit/wa__n"/></e>
     <e lm="kurwa"><i>kur</i><par n="bit/wa__n"/></e>
-
     <e lm="kobieta"><i>kobie</i><par n="cha/ta__n"/></e>
     <e lm="minuta"><i>minu</i><par n="cha/ta__n"/></e>
     <e lm="planeta"><i>plane</i><par n="cha/ta__n"/></e>
