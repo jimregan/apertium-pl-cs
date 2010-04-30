@@ -15692,27 +15692,10 @@
       </e>
       <e>
         <p>
-          <l>zesz</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>ze</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>zemy</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zecie</l>
-          <r>ać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
@@ -15760,7 +15743,7 @@
       </e>
       <e>
         <p>
-          <l>a</l>
+          <l>an</l>
           <r>ać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
@@ -18821,10 +18804,10 @@
       </e>
       <e>
         <p>
-          <l>zia</l>
+          <l>zi</l>
           <r>zieć<s n="vblex"/><s n="perf"/></r>
         </p>
-        <par n="BASE__czytałem"/>
+        <par n="BASE__widziałem"/>
       </e>
       <e>
         <p>
@@ -37570,6 +37553,7 @@
     <e lm="cierpieć"><i>cierp</i><par n="cierp/ieć__vblex"/></e>
     <e lm="powziąć"><i>pow</i><par n="pow/ziąć__vblex"/></e>
     <e lm="zapomnieć"><i>zapomn</i><par n="zapomn/ieć__vblex"/></e>
+    <e lm="dawać"><i>da</i><par n="da/wać__vblex"/></e>
 
 
     <e lm="biegunka"><i>biegun</i><par n="mat/ka__n"/></e>
