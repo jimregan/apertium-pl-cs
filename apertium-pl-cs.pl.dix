@@ -19662,6 +19662,368 @@
         </p>
       </e>
     </pardef>
+    <pardef n="gry/źć__vblex">
+      <e>
+        <p>
+          <l>źć</l>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zę</l>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zie</l>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>zą</l>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ź</l>
+          <r>źć<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>z</l>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+        </p>
+        <par n="BASE__czytałem"/>
+      </e>
+      <e>
+        <p>
+          <l>ziono</l>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zi</l>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>zie</l>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>ząc</l>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ząc</l>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+    </pardef>
+    <pardef n="wi/eźć__vblex">
+      <e>
+        <p>
+          <l>eźć</l>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ozę</l>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ezie</l>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>ozą</l>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eź</l>
+          <r>eźć<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>óz</l>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+        </p>
+        <par n="BASE__czytałem"/>
+      </e>
+      <e>
+        <p>
+          <l>eziono</l>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ezi</l>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>ezie</l>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>oząc</l>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oząc</l>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+    </pardef>
+    <pardef n="wyna/leźć__vblex">
+      <e>
+        <p>
+          <l>leźć</l>
+          <r>leźć<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jdę</l>
+          <r>leźć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jdzie</l>
+          <r>leźć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>jdą</l>
+          <r>leźć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jdź</l>
+          <r>leźć<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>leź</l>
+          <r>leźć<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>laz</l>
+          <r>leźć<s n="vblex"/><s n="perf"/></r>
+        </p>
+      </e>
+      <par n="BASE__czytałem"/>
+      <e>
+        <p>
+          <l>leziono</l>
+          <r>leźć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lezi</l>
+          <r>leźć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>lezie</l>
+          <r>leźć<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>lazłszy</l>
+          <r>leźć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="obl/eźć__vblex">
+      <e>
+        <p>
+          <l>eźć</l>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ezę</l>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ezie</l>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>ezą</l>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eź</l>
+          <r>eźć<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>az</l>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+        </p>
+        <par n="BASE__cztałem"/>
+      </e>
+      <e>
+        <p>
+          <l>eziono</l>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ezi</l>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>ezie</l>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>azłszy</l>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ni/eść__vblex">
+      <e>
+        <p>
+          <l>eść</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>osę</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esie</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>osą</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eś</l>
+          <r>eść<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>ósł</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esiono</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esi</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>esie</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>osąc</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>osąc</l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+    </pardef>
 
     <pardef n="PBASE__mp_pl">
       <e c="Regular nominal plurals">
@@ -37587,7 +37949,11 @@
     <e lm="spojrzeć"><i>sp</i><par n="sp/ojrzeć__vblex"/></e>
     <e lm="grzać"><i>grz</i><par n="grz/ać__vblex"/></e>
     <e lm="zacząć"><i>zacz</i><par n="zacz/ąć__vblex"/></e>
-
+    <e lm="gryźć"><i>gry</i><par n="gry/źć__vblex"/></e>
+    <e lm="wieźć"><i>wi</i><par n="wi/eźć__vblex"/></e>
+    <e lm="wynaleźć"><i>wyna</i><par n="wyna/leźć__vblex"/></e>
+    <e lm="obleźć"><i>obl</i><par n="obl/eźć__vblex"/></e>
+    <e lm="nieść"><i>ni</i><par n="ni/eść__vblex"/></e>
 
     <e lm="biegunka"><i>biegun</i><par n="mat/ka__n"/></e>
     <e lm="bułka"><i>buł</i><par n="mat/ka__n"/></e>
