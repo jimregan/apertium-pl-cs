@@ -15832,7 +15832,7 @@
       </e>
       <e>
         <p>
-          <l>a</l>
+          <l>an</l>
           <r>ać<s n="vblex"/><s n="perf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
@@ -16194,7 +16194,7 @@
       </e>
       <e>
         <p>
-          <l>ywa</l>
+          <l>ywan</l>
           <r>ywać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
@@ -16290,7 +16290,7 @@
       </e>
       <e>
         <p>
-          <l>owa</l>
+          <l>owan</l>
           <r>ować<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
@@ -16386,7 +16386,7 @@
       </e>
       <e>
         <p>
-          <l>iwa</l>
+          <l>iwan</l>
           <r>iwać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
@@ -16770,7 +16770,7 @@
       </e>
       <e i="yes">
         <p>
-          <l>ia</l>
+          <l>ian</l>
           <r>ieć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
@@ -17101,7 +17101,7 @@
       </e>
       <e>
         <p>
-          <l>ywa</l>
+          <l>ywan</l>
           <r>ywać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
@@ -17252,7 +17252,7 @@
       </e>
       <e>
         <p>
-          <l>ga</l>
+          <l>gan</l>
           <r>gać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
@@ -17280,27 +17280,10 @@
       </e>
       <e>
         <p>
-          <l>wiesz</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>wie</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>wiemy</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>wiecie</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
@@ -17322,27 +17305,10 @@
       </e>
       <e r="LR">
         <p>
-          <l>owiesz</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
           <l>owie</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l>owiemy</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l>owiecie</l>
-          <r>wać<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
-        </p>
+        <par n="BASE__czyta"/>
       </e>
       <e r="LR">
         <p>
@@ -17403,7 +17369,7 @@
       </e>
       <e>
         <p>
-          <l>wa</l>
+          <l>wan</l>
           <r>wać<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__kochany"/>
