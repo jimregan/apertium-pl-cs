@@ -19678,7 +19678,7 @@
       <e>
         <p>
           <l>zie</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
@@ -19698,7 +19698,7 @@
       <e>
         <p>
           <l>z</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+          <r>źć<s n="vblex"/><s n="imperf"/></r>
         </p>
         <par n="BASE__czytałem"/>
       </e>
@@ -19711,7 +19711,7 @@
       <e>
         <p>
           <l>zi</l>
-          <r>źć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r>źć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -19752,7 +19752,7 @@
       <e>
         <p>
           <l>ezie</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
@@ -19785,7 +19785,7 @@
       <e>
         <p>
           <l>ezi</l>
-          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r>eźć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -19826,7 +19826,7 @@
       <e>
         <p>
           <l>jdzie</l>
-          <r>leźć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+          <r>leźć<s n="vblex"/><s n="perf"/><s n="fti"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
@@ -19855,8 +19855,8 @@
           <l>laz</l>
           <r>leźć<s n="vblex"/><s n="perf"/></r>
         </p>
+        <par n="BASE__czytałem"/>
       </e>
-      <par n="BASE__czytałem"/>
       <e>
         <p>
           <l>leziono</l>
@@ -19866,7 +19866,7 @@
       <e>
         <p>
           <l>lezi</l>
-          <r>leźć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r>leźć<s n="vblex"/><s n="perf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -19900,7 +19900,7 @@
       <e>
         <p>
           <l>ezie</l>
-          <r>eźć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="fti"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
@@ -19920,9 +19920,9 @@
       <e>
         <p>
           <l>az</l>
-          <r>eźć<s n="vblex"/><s n="perf"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="past"/></r>
         </p>
-        <par n="BASE__cztałem"/>
+        <par n="BASE__czytałem"/>
       </e>
       <e>
         <p>
@@ -19933,7 +19933,7 @@
       <e>
         <p>
           <l>ezi</l>
-          <r>eźć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
@@ -19967,7 +19967,7 @@
       <e>
         <p>
           <l>esie</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
@@ -19986,9 +19986,10 @@
       </e>
       <e>
         <p>
-          <l>ósł</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+          <l></l>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="past"/></r>
         </p>
+        <par n="BASE__niosłem"/>
       </e>
       <e>
         <p>
@@ -19999,7 +20000,7 @@
       <e>
         <p>
           <l>esi</l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r>eść<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
         </p>
         <par n="BASE__jedzony"/>
       </e>
