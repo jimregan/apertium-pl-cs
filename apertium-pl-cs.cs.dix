@@ -14549,6 +14549,27 @@
         </p>
       </e>
     </pardef>
+    <pardef n="moc__n">
+      <e>
+        <p>
+          <l/>
+          <r/>
+        </p>
+        <par n="věc__n"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ích</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ím</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="o/ko__n">
       <e>
         <p>
@@ -22774,6 +22795,8 @@
     <e lm="jezero"><i>jezer</i><par n="kol/o__n"/></e>
     <e lm="jeřabina"><i>jeřabin</i><par n="dob/a__n"/></e>
     <e lm="jeřáb"><i>jeřáb</i><par n="man__n"/></e>
+    <e lm="moc"><i>moc</i><par n="moc__n"/></e>
+    <e lm="bezmoc"><i>bezmoc</i><par n="moc__n"/></e>
     <e lm="ješitnost"><i>ješitnost</i><par n="věc__n"/></e>
     <e lm="archaičnost"><i>archaičnost</i><par n="věc__n"/></e>
     <e lm="arkádovost"><i>arkádovost</i><par n="věc__n"/></e>

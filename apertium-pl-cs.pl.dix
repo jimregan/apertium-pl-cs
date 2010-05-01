@@ -38724,6 +38724,7 @@
     <e lm="banknot"><i>bankno</i><par n="hi/t__n"/></e>
     <e lm="bukiet"><i>bukie</i><par n="hi/t__n"/></e>
     <e lm="hit"><i>hi</i><par n="hi/t__n"/></e>
+    <e lm="nit"><i>ni</i><par n="hi/t__n"/></e>
     <e lm="klarnet"><i>klarne</i><par n="hi/t__n"/></e>
     <e lm="kwadrat"><i>kwadra</i><par n="hi/t__n"/></e>
     <e lm="meczet"><i>mecze</i><par n="hi/t__n"/></e>
@@ -39880,6 +39881,7 @@
     <e lm="naiwność"><i>naiwnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="niepopularność"><i>niepopularnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="nierówność"><i>nierównoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="nić"><i>ni</i><par n="miłoś/ć__n"/></e>
 
     <e lm="Ariane"><i>Ariane</i><par n="Britney__np"/></e>
     <e lm="Astrid"><i>Astrid</i><par n="Britney__np"/></e>
