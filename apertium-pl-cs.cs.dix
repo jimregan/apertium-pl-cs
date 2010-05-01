@@ -22775,6 +22775,24 @@
     <e lm="jeřabina"><i>jeřabin</i><par n="dob/a__n"/></e>
     <e lm="jeřáb"><i>jeřáb</i><par n="man__n"/></e>
     <e lm="ješitnost"><i>ješitnost</i><par n="věc__n"/></e>
+    <e lm="archaičnost"><i>archaičnost</i><par n="věc__n"/></e>
+    <e lm="arkádovost"><i>arkádovost</i><par n="věc__n"/></e>
+    <e lm="autentičnost"><i>autentičnost</i><par n="věc__n"/></e>
+    <e lm="bázlivost"><i>bázlivost</i><par n="věc__n"/></e>
+    <e lm="bezbožnost"><i>bezbožnost</i><par n="věc__n"/></e>
+    <e lm="bezcitnost"><i>bezcitnost</i><par n="věc__n"/></e>
+    <e lm="bezectnost"><i>bezectnost</i><par n="věc__n"/></e>
+    <e lm="legálnost"><i>legálnost</i><par n="věc__n"/></e>
+    <e lm="lehkomyslnost"><i>lehkomyslnost</i><par n="věc__n"/></e>
+    <e lm="lehkověrnost"><i>lehkověrnost</i><par n="věc__n"/></e>
+    <e lm="lidskost"><i>lidskost</i><par n="věc__n"/></e>
+    <e lm="línost"><i>línost</i><par n="věc__n"/></e>
+    <e lm="málomluvnost"><i>málomluvnost</i><par n="věc__n"/></e>
+    <e lm="možnost"><i>možnost</i><par n="věc__n"/></e>
+    <e lm="mravopočestnost"><i>mravopočestnost</i><par n="věc__n"/></e>
+    <e lm="mstivost"><i>mstivost</i><par n="věc__n"/></e>
+    <e lm="monotónnost"><i>monotónnost</i><par n="věc__n"/></e>
+    <e lm="nerovnost"><i>nerovnost</i><par n="věc__n"/></e>
     <e lm="ježdík"><i>ježdí</i><par n="ja/k__n"/></e>
     <e lm="jinovatka"><i>jinovat</i><par n="dív/ka__n"/></e>
     <e lm="jmenovatel"><i>jmenovatel</i><par n="muž__n"/></e>
@@ -22840,6 +22858,14 @@
     <e lm="kvalita" c="check"><i>kvalit</i><par n="dob/a__n"/></e>
     <e lm="asociativita" c="check"><i>asociativit</i><par n="dob/a__n"/></e>
     <e lm="aktivita" c="check"><i>aktivit</i><par n="dob/a__n"/></e>
+    <e lm="agresivita" c="check"><i>agresivit</i><par n="dob/a__n"/></e>
+    <e lm="aktivita" c="check"><i>aktivit</i><par n="dob/a__n"/></e>
+    <e lm="anonymita" c="check"><i>anonymit</i><par n="dob/a__n"/></e>
+    <e lm="asertivita" c="check"><i>asertivit</i><par n="dob/a__n"/></e>
+    <e lm="mobilita" c="check"><i>mobilit</i><par n="dob/a__n"/></e>
+    <e lm="modernita" c="check"><i>modernit</i><par n="dob/a__n"/></e>
+    <e lm="naivita" c="check"><i>naivit</i><par n="dob/a__n"/></e>
+    <e lm="nepopularita" c="check"><i>nepopularit</i><par n="dob/a__n"/></e>
 
     <e lm="konsensus"><i>konsens</i><par n="ile/us__n"/></e>
     <e lm="konsenzus"><i>konsenz</i><par n="ile/us__n"/></e>
@@ -23254,6 +23280,7 @@
     <e lm="spiritualita"><i>spiritualit</i><par n="dob/a__n"/></e>
     <e lm="společenství"><i>společenství</i><par n="úterý__n"/></e>
     <e lm="království"><i>království</i><par n="úterý__n"/></e>
+    <e lm="bankovnictví"><i>bankovnictví</i><par n="úterý__n"/></e>
     <e lm="společnost"><i>společnost</i><par n="věc__n"/></e>
     <e lm="sputum"><i>sput</i><par n="sput/um__n"/></e>
     <e lm="spádnice"><i>spádnic</i><par n="plotic/e__n"/></e>
