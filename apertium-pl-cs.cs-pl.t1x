@@ -129,8 +129,9 @@
   </def-attr>
 
   <def-attr n="a_adj">
-     <attr-item tags="vblex.imperf.pprs"/>
-     <attr-item tags="vblex.imperf.pp"/>
+     <attr-item tags="vblex.imperf.pprs.adj"/>
+     <attr-item tags="vblex.imperf.pp.adj"/>
+     <attr-item tags="vblex.perf.pp.adj"/>
      <attr-item tags="adj"/>
      <attr-item tags="adj.comp"/>
      <attr-item tags="adj.sup"/>
@@ -141,6 +142,12 @@
      <attr-item tags="adj.cpd"/>
      <attr-item tags="adj.sint.cpd"/>
      <attr-item tags="adj.po"/>
+  </def-attr>
+  <def-attr n="a_part">
+     <attr-item tags="pprs"/>
+     <attr-item tags="pp"/>
+     <attr-item tags="pprs.adj"/>
+     <attr-item tags="pp.adj"/>
   </def-attr>
 
   <def-attr n="a_adv">
@@ -314,6 +321,36 @@
         <var n="EOS"/>
         <lit v="false"/>
       </let>
+    </def-macro>
+    <def-macro n="canvi_part" npar="1">
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="a_part"/>
+                <lit-tag v="pp.adj"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="a_part"/>
+              <lit-tag v="pp"/>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="a_part"/>
+                <lit-tag v="pprs.adj"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="a_part"/>
+              <lit-tag v="pprs"/>
+            </let>
+          </when>
+        </choose>
     </def-macro>
     <def-macro n="adv_adj" npar="2"><!-- (per a fer el comparatiu si cal: 'més fosc' = darker; i també per a canviar 'well' per 'very' davant adjectius )". En les regles, és obligatori que s'executi després de la macro 'f_superlatiu1' aplicada a l'adjectiu. -->
         <let>

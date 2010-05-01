@@ -379,6 +379,36 @@
           </when>
         </choose>
     </def-macro>
+    <def-macro n="canvi_part" npar="1">
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="a_part"/>
+                <lit-tag v="pp"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="a_part"/>
+              <lit-tag v="pp.adj"/>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="a_part"/>
+                <lit-tag v="pprs"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="a_part"/>
+              <lit-tag v="pprs.adj"/>
+            </let>
+          </when>
+        </choose>
+    </def-macro>
     <def-macro n="adv_adj" npar="2">
         <let>
           <var n="adv_adjectiu"/>
