@@ -20668,6 +20668,88 @@
         </p>
       </e>
     </pardef>
+    <pardef n="PBASE__sarna_sg">
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="PBASE__sarna_pl">
+      <e>
+        <p>
+          <l>ny</l>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nom</l>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ny</l>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nami</l>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nach</l>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ny</l>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="PBASE__cień_sg">
       <e>
         <p>
@@ -21728,54 +21810,29 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__sarna">
+      <e>
+        <p>
+          <l>n</l>
+          <r></r>
+        </p>
+        <par n="PBASE__sarna_sg"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="PBASE__sarna_pl"/>
+      </e>
+    </pardef>
     <pardef n="sar/na__n">
       <e>
         <p>
-          <l>na</l>
-          <r>na<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <l></l>
+          <r>na<s n="n"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>ny</l>
-          <r>na<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nie</l>
-          <r>na<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nę</l>
-          <r>na<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ną</l>
-          <r>na<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nie</l>
-          <r>na<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>no</l>
-          <r>na<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ny</l>
-          <r>na<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
+        <par n="BASE__sarna"/>
       </e>
       <e>
         <p>
@@ -21783,34 +21840,19 @@
           <r>na<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
+    </pardef>
+    <pardef n="wan/na__n">
       <e>
         <p>
-          <l>nom</l>
-          <r>na<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <l></l>
+          <r>na<s n="n"/></r>
         </p>
+        <par n="BASE__sarna"/>
       </e>
       <e>
         <p>
-          <l>ny</l>
-          <r>na<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nami</l>
-          <r>na<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nach</l>
-          <r>na<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ny</l>
-          <r>na<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <l>ien</l>
+          <r>na<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
     </pardef>
@@ -38639,6 +38681,7 @@
     <e lm="wesele"><i>wesel</i><par n="wesel/e__n"/></e>
     <e lm="wole"><i>wol</i><par n="wol/e__n"/></e>
     <e lm="pnącze"><i>pnącz</i><par n="pnącz/e__n"/></e>
+    <e lm="wanna"><i>wan</i><par n="wan/na__n"/></e>
     <e lm="sarna"><i>sar</i><par n="sar/na__n"/></e>
     <e lm="szyja"><i>szy</i><par n="szy/ja__n"/></e>
     <e lm="żołądź"><i>żoł</i><par n="żoł/ądź__n"/></e>
