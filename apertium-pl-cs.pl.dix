@@ -20970,6 +20970,82 @@
         </p>
       </e>
     </pardef>
+    <pardef n="PBASE__wojsko_sg">
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="PBASE__wojsko_pl">
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="PBASE__śpioch_pl">
       <e>
         <p>
@@ -21220,32 +21296,13 @@
         <par n="PBASE__mp_pl"/>
       </e>
     </pardef>
-
-
-    <pardef n="PBASE__wojsko">
+    <pardef n="BASE__wojsko">
       <e>
         <p>
-          <l>o</l>
-          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
+          <l></l>
+          <r></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>u</l>
-          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>o</l>
-          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
-        </p>
+        <par n="PBASE__wojsko_sg"/>
       </e>
       <e>
         <p>
@@ -21255,60 +21312,10 @@
       </e>
       <e>
         <p>
-          <l>u</l>
-          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>o</l>
-          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>om</l>
-          <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ami</l>
-          <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ach</l>
-          <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="BASE__wojsko">
-      <e>
-        <p>
           <l></l>
           <r></r>
         </p>
-        <par n="PBASE__wojsko"/>
+        <par n="PBASE__wojsko_pl"/>
       </e>
       <e>
         <p>
@@ -21357,12 +21364,88 @@
           <l>k</l>
           <r>ko<s n="n"/></r>
         </p>
-        <par n="PBASE__wojsko"/>
+        <par n="PBASE__wojsko_sg"/>
+      </e>
+      <e>
+        <p>
+          <l>kiem</l>
+          <r>ko<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>k</l>
+          <r>ko<s n="n"/></r>
+        </p>
+        <par n="PBASE__wojsko_pl"/>
       </e>
       <e>
         <p>
           <l>ek</l>
-          <r>ko<s n="nt"/><s n="pl"/><s n="gen"/></r>
+          <r>ko<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="u/cho__n">
+      <e>
+        <p>
+          <l>ch</l>
+          <r>cho<s n="n"/></r>
+        </p>
+        <par n="PBASE__wojsko_sg"/>
+      </e>
+      <e>
+        <p>
+          <l>chem</l>
+          <r>cho<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szy</l>
+          <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szu</l>
+          <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>szów</l>
+          <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szom</l>
+          <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szy</l>
+          <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szami</l>
+          <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szach</l>
+          <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>szy</l>
+          <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
@@ -22833,6 +22916,57 @@
           <r>a<s n="n"/></r>
         </p>
         <par n="PBASE__anatomia_sg"/>
+      </e>
+    </pardef>
+    <pardef n="top/ola__n">
+      <e>
+        <p>
+          <l>ol</l>
+          <r>ola<s n="n"/></r>
+        </p>
+        <par n="PBASE__anatomia_sg"/>
+      </e>
+      <e>
+        <p>
+          <l>ole</l>
+          <r>ola<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ól</l>
+          <r>ola<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>olom</l>
+          <r>ola<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ole</l>
+          <r>ola<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>olami</l>
+          <r>ola<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>olach</l>
+          <r>ola<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ole</l>
+          <r>ola<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
       </e>
     </pardef>
    <pardef n="PBASE__filozofia">
@@ -38662,6 +38796,7 @@
     <e lm="śliwa"><i>śliw</i><par n="analiz/a__n"/></e>
     <e lm="żaba"><i>żab</i><par n="analiz/a__n"/></e>
 
+    <e lm="ucho"><i>u</i><par n="u/cho__n"/></e>
     <e lm="ojciec"><i>ojc</i><par n="ojc/iec__n"/></e>
     <e lm="samochód"><i>samoch</i><par n="samoch/ód__n"/></e>
     <e lm="wojsko"><i>wojsk</i><par n="wojsk/o__n"/></e>
@@ -39339,7 +39474,8 @@
     <e lm="germanistyka"><i>germanisty</i><par n="rze/ka__n"/></e>
     <e lm="bajka"><i>baj</i><par n="mat/ka__n"/></e>
     <e lm="córka"><i>cór</i><par n="mat/ka__n"/></e>
-   
+    
+    <e lm="topola"><i>top</i><par n="top/ola__n"/></e>
     <e lm="dżungla"><i>dżungl</i><par n="filozofi/a__n"/></e>
     <e lm="czapla"><i>czapl</i><par n="filozofi/a__n"/></e>
     <e lm="muszla"><i>muszl</i><par n="filozofi/a__n"/></e>

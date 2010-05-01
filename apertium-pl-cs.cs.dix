@@ -7186,7 +7186,7 @@
           <r>cho<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>cha</l>
           <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
@@ -7198,13 +7198,13 @@
           <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>cha</l>
           <r>cho<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>ch</l>
           <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
@@ -7222,7 +7222,7 @@
           <r>cho<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>chům</l>
           <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
@@ -7240,7 +7240,7 @@
           <r>cho<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>cha</l>
           <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
@@ -7258,7 +7258,7 @@
           <r>cho<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>cha</l>
           <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
@@ -7276,7 +7276,7 @@
           <r>cho<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>chách</l>
           <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
@@ -7294,7 +7294,7 @@
           <r>cho<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>chy</l>
           <r>cho<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
