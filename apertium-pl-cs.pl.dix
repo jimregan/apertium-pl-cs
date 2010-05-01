@@ -21636,6 +21636,98 @@
         <par n="BASE__piwo"/>
       </e>
     </pardef>
+    <pardef n="żoł/ądź__n">
+      <e>       
+        <p>
+          <l>ądź</l> 
+          <r>ądź<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>       
+        <p>
+          <l>ędzia</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ędziowi</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>       
+        <p>
+          <l>ądź</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">       
+        <p>
+          <l>ędzia</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>       
+        <p>
+          <l>ędziem</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>       
+        <p>
+          <l>ędziu</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ędziu</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ędzie</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>       
+        <p>
+          <l>ędzi</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ędziom</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ędzie</l> 
+          <r>ądź<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>       
+        <p>
+          <l>ędziami</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>       
+        <p>
+          <l>ędziach</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ędzie</l>
+          <r>ądź<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="pnącz/e__n">
       <e>
         <p>
@@ -30457,40 +30549,6 @@
         </p>
       </e>
     </pardef>
-    <pardef n="migda/ł__n">
-      <e>
-        <p>
-          <l>ł</l>
-          <r>ł<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>łowi</l>
-          <r>ł<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ła</l>
-          <r>ł<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r>ł<s n="n"/><s n="mi"/></r>
-        </p>
-        <par n="PBASE__apostoł_sg"/>
-      </e>
-      <e>
-        <p>
-          <l>ł</l>
-          <r>ł<s n="n"/><s n="mi"/></r>
-        </p>
-        <par n="PBASE__bat_pl"/>
-      </e>
-    </pardef>
     <pardef n="or/zeł__n">
       <e>
         <p>
@@ -38409,6 +38467,7 @@
     <e lm="wesele"><i>wesel</i><par n="wesel/e__n"/></e>
     <e lm="wole"><i>wol</i><par n="wol/e__n"/></e>
     <e lm="pnącze"><i>pnącz</i><par n="pnącz/e__n"/></e>
+    <e lm="żołądź"><i>żoł</i><par n="żoł/ądź__n"/></e>
     <e lm="koło"><i>k</i><par n="k/oło__n"/></e>
     <e lm="ciało"><i>ci</i><par n="ci/ało__n"/></e>
     <e lm="sto"><i>s</i><par n="s/to__n"/></e>
@@ -38450,7 +38509,6 @@
     <e lm="chłopiec"><i>chłop</i><par n="chłop/iec__n"/></e>
     <e lm="błazen"><i>bła</i><par n="bła/zen__n"/></e>
     <e lm="Arab"><i>Arab</i><par n="Arab__n"/></e>
-    <e lm="migdał"><i>migda</i><par n="migda/ł__n"/></e>
     <e lm="apostoł"><i>aposto</i><par n="aposto/ł__n"/></e>
     <e lm="inżynier"><i>inżynier</i><par n="inżynier__n"/></e>
     <e lm="poseł"><i>po</i><par n="po/seł__n"/></e>
