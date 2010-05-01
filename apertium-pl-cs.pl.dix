@@ -22884,6 +22884,57 @@
         <par n="BASE__filozofia"/>
       </e>
     </pardef>
+    <pardef n="choch/la__n">
+      <e>
+        <p>
+          <l>l</l>
+          <r>la<s n="n"/></r>
+        </p>
+        <par n="PBASE__anatomia_sg"/>
+      </e>
+      <e>
+        <p>
+          <l>le</l>
+          <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>el</l>
+          <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lom</l>
+          <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>le</l>
+          <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lami</l>
+          <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lach</l>
+          <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>le</l>
+          <r>la<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Irlandi/a__np">
       <e>
         <p>
@@ -39397,6 +39448,7 @@
     <e lm="chemia"><i>chemi</i><par n="filozofi/a__n"/></e>
     <e lm="alergia"><i>alergi</i><par n="filozofi/a__n"/></e>
     <e lm="amnestia"><i>amnesti</i><par n="filozofi/a__n"/></e>
+    <e lm="chochla"><i>choch</i><par n="choch/la__n"/></e>
     <e lm="anatomia"><i>anatomi</i><par n="anatomi/a__n"/></e>
     <e lm="apostasia"><i>apostasi</i><par n="filozofi/a__n"/></e>
     <e lm="astronomia"><i>astronomi</i><par n="filozofi/a__n"/></e>
