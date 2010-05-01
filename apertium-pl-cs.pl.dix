@@ -21728,6 +21728,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="szy/ja__n">
+      <e>
+        <p>
+          <l>ja</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ję</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ją</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+        <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jo</l>
+          <r>ja<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>je</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>j</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jom</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>je</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+       <e>
+        <p>
+          <l>jami</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jach</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>je</l>
+          <r>ja<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="pnącz/e__n">
       <e>
         <p>
@@ -38467,6 +38553,7 @@
     <e lm="wesele"><i>wesel</i><par n="wesel/e__n"/></e>
     <e lm="wole"><i>wol</i><par n="wol/e__n"/></e>
     <e lm="pnącze"><i>pnącz</i><par n="pnącz/e__n"/></e>
+    <e lm="szyja"><i>szy</i><par n="szy/ja__n"/></e>
     <e lm="żołądź"><i>żoł</i><par n="żoł/ądź__n"/></e>
     <e lm="koło"><i>k</i><par n="k/oło__n"/></e>
     <e lm="ciało"><i>ci</i><par n="ci/ało__n"/></e>
