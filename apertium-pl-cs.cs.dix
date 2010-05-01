@@ -22684,6 +22684,7 @@
     <e lm="hybrid"><i>hybrid</i><par n="man__n"/></e>
     <e lm="hydrofor"><i>hydrofor</i><par n="bor__n"/></e>
     <e lm="hydrosféra"><i>hydrosfé</i><par n="sí/ra__n"/></e>
+    <e lm="nevěra"><i>nevě</i><par n="sí/ra__n"/></e>
     <e lm="hyfa"><i>hyf</i><par n="dob/a__n"/></e>
     <e lm="hygiena"><i>hygien</i><par n="dob/a__n"/></e>
     <e lm="hyperkeratóza"><i>hyperkeratóz</i><par n="kos/a__n"/></e>
@@ -22816,6 +22817,16 @@
     <e lm="mstivost"><i>mstivost</i><par n="věc__n"/></e>
     <e lm="monotónnost"><i>monotónnost</i><par n="věc__n"/></e>
     <e lm="nerovnost"><i>nerovnost</i><par n="věc__n"/></e>
+    <e lm="nemovitost"><i>nemovitost</i><par n="věc__n"/></e>
+    <e lm="nemožnost"><i>nemožnost</i><par n="věc__n"/></e>
+    <e lm="nespolehlivost"><i>nespolehlivost</i><par n="věc__n"/></e>
+    <e lm="nespravedlnost"><i>nespravedlnost</i><par n="věc__n"/></e>
+    <e lm="nestejnorodost"><i>nestejnorodost</i><par n="věc__n"/></e>
+    <e lm="netrpělivost"><i>netrpělivost</i><par n="věc__n"/></e>
+    <e lm="neústupnost"><i>neústupnost</i><par n="věc__n"/></e>
+    <e lm="nevrlost"><i>nevrlost</i><par n="věc__n"/></e>
+    <e lm="neznalost"><i>neznalost</i><par n="věc__n"/></e>
+    <e lm="nevěrohodnost"><i>nevěrohodnost</i><par n="věc__n"/></e>
     <e lm="ježdík"><i>ježdí</i><par n="ja/k__n"/></e>
     <e lm="jinovatka"><i>jinovat</i><par n="dív/ka__n"/></e>
     <e lm="jmenovatel"><i>jmenovatel</i><par n="muž__n"/></e>
@@ -22889,6 +22900,8 @@
     <e lm="modernita" c="check"><i>modernit</i><par n="dob/a__n"/></e>
     <e lm="naivita" c="check"><i>naivit</i><par n="dob/a__n"/></e>
     <e lm="nepopularita" c="check"><i>nepopularit</i><par n="dob/a__n"/></e>
+    <e lm="nevina" c="check"><i>nevin</i><par n="dob/a__n"/></e>
+    <e lm="neutralita" c="check"><i>neutralit</i><par n="dob/a__n"/></e>
 
     <e lm="konsensus"><i>konsens</i><par n="ile/us__n"/></e>
     <e lm="konsenzus"><i>konsenz</i><par n="ile/us__n"/></e>
