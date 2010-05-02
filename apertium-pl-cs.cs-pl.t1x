@@ -64,6 +64,32 @@
      <cat-item tags="vaux.imperf.pprs.adj"/>
      <cat-item tags="vaux.imperf.pprs.adj.*"/>
   </def-cat>
+  <def-cat n="part_pp">
+     <cat-item tags="vblex.perf.pp.ma.sg"/>
+     <cat-item tags="vblex.perf.pp.mi.sg"/>
+     <cat-item tags="vblex.perf.pp.f.sg"/>
+     <cat-item tags="vblex.perf.pp.nt.sg"/>
+     <cat-item tags="vblex.perf.pp.ma.pl"/>
+     <cat-item tags="vblex.perf.pp.mi.pl"/>
+     <cat-item tags="vblex.perf.pp.f.pl"/>
+     <cat-item tags="vblex.perf.pp.nt.pl"/>
+     <cat-item tags="vblex.imperf.pp.ma.sg"/>
+     <cat-item tags="vblex.imperf.pp.mi.sg"/>
+     <cat-item tags="vblex.imperf.pp.f.sg"/>
+     <cat-item tags="vblex.imperf.pp.nt.sg"/>
+     <cat-item tags="vblex.imperf.pp.ma.pl"/>
+     <cat-item tags="vblex.imperf.pp.mi.pl"/>
+     <cat-item tags="vblex.imperf.pp.f.pl"/>
+     <cat-item tags="vblex.imperf.pp.nt.pl"/>
+     <cat-item tags="vaux.imperf.pp.ma.sg"/>
+     <cat-item tags="vaux.imperf.pp.mi.sg"/>
+     <cat-item tags="vaux.imperf.pp.f.sg"/>
+     <cat-item tags="vaux.imperf.pp.nt.sg"/>
+     <cat-item tags="vaux.imperf.pp.ma.pl"/>
+     <cat-item tags="vaux.imperf.pp.mi.pl"/>
+     <cat-item tags="vaux.imperf.pp.f.pl"/>
+     <cat-item tags="vaux.imperf.pp.nt.pl"/>
+  </def-cat>
   <def-cat n="by">
      <cat-item lemma="by" tags="cnjsub"/>
   </def-cat>
@@ -93,8 +119,6 @@
   </def-cat>
   <def-cat n="adj">
      <cat-item tags="adj.*"/>
-     <cat-item tags="vblex.imperf.pprs.*"/>
-     <cat-item tags="vblex.imperf.pp.*"/>
   </def-cat>
   <def-cat n="adv">
      <cat-item tags="adv"/>
@@ -877,6 +901,38 @@
               <clip pos="1" side="tl" part="gen" link-to="4"/>
               <clip pos="1" side="tl" part="nbr" link-to="5"/>
               <clip pos="1" side="tl" part="cas" link-to="6"/>
+              <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+       </out>
+     </action>
+  </rule>
+  <rule comment="REGLA: part">
+     <pattern>
+       <pattern-item n="part_pp"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="part_pp" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SA"/></tag>
+             <tag><clip pos="1" side="tl" part="asp"/></tag>
+             <tag><clip pos="1" side="tl" part="a_part"/></tag>
+             <tag><clip pos="1" side="tl" part="gen"/></tag>
+             <tag><clip pos="1" side="tl" part="nbr"/></tag>
+             <tag><lit-tag v="nom"/></tag> <!-- change in t3, leave as is for now -->
+           </tags>
+           <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <clip pos="1" side="tl" part="asp" link-to="2"/>
+              <clip pos="1" side="tl" part="a_part" link-to="3"/>
+              <clip pos="1" side="tl" part="gen" link-to="4"/>
+              <clip pos="1" side="tl" part="nbr" link-to="5"/>
+              <lit-tag v="6"/>
               <clip pos="1" side="tl" part="lemq"/>
            </lu>
          </chunk>
