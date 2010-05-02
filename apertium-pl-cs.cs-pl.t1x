@@ -44,6 +44,14 @@
      <cat-item lemma="být" tags="vbser.pres.p1.pl"/>
      <cat-item lemma="být" tags="vbser.pres.p2.pl"/>
   </def-cat>
+  <def-cat n="tgv">
+     <cat-item tags="vblex.imperf.tgv.pprs"/>
+     <cat-item tags="vblex.imperf.tgv.pprs.*"/>
+     <cat-item tags="vblex.perf.tgv.pp"/>
+     <cat-item tags="vblex.perf.tgv.pp.*"/>
+     <cat-item tags="vblex.imperf.tgv.pp"/>
+     <cat-item tags="vblex.imperf.tgv.pp.*"/>
+  </def-cat>
   <def-cat n="by">
      <cat-item lemma="by" tags="cnjsub"/>
   </def-cat>
