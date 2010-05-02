@@ -21939,6 +21939,178 @@
         </p>
       </e>
     </pardef>
+    <pardef n="pielu/cha__n">
+      <e>
+        <p>
+          <l>cha</l>
+          <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>chy</l>
+          <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sze</l>
+          <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>chę</l>
+          <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>chą</l>
+          <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sze</l>
+          <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cho</l>
+          <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>chy</l>
+          <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ch</l>
+          <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>chom</l>
+          <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>chy</l>
+          <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>chami</l>
+          <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>chach</l>
+          <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>chy</l>
+          <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="m/orze__n">
+      <e>
+        <p>
+          <l>orze</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orza</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orzu</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orze</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orzem</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orzu</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orze</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orza</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>órz</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orzom</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+       <p>
+          <l>orza</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orzami</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orzach</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orza</l>
+          <r>orze<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="szy/ja__n">
       <e>
         <p>
@@ -38827,6 +38999,9 @@
     <e lm="kwiat"><i>kwi</i><par n="kwi/at__n"/></e>
     <e lm="wanna"><i>wan</i><par n="wan/na__n"/></e>
     <e lm="sarna"><i>sar</i><par n="sar/na__n"/></e>
+    <e lm="morze"><i>m</i><par n="m/orze__n"/></e>
+    <e lm="pielucha"><i>pielu</i><par n="pielu/cha__n"/></e>
+    <e lm="olcha"><i>ol</i><par n="pielu/cha__n"/></e>
     <e lm="szyja"><i>szy</i><par n="szy/ja__n"/></e>
     <e lm="żołądź"><i>żoł</i><par n="żoł/ądź__n"/></e>
     <e lm="koło"><i>k</i><par n="k/oło__n"/></e>
