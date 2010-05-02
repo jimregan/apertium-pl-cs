@@ -27288,6 +27288,101 @@
         <par n="BASE__gwiazda"/>
       </e>
     </pardef>
+    <pardef n="BASE__pustynia">
+      <e>
+        <p>
+          <l>nia</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nię</l>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nią</l>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ni</l>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nie</l>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ń</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niom</l>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nie</l>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niami</l>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niach</l>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nie</l>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="pusty/nia__n">
+      <e>
+        <p>
+          <l></l>
+          <r>nia<s n="n"/></r>
+        </p>
+        <par n="BASE__pustynia"/>
+      </e>
+      <e>
+        <p>
+          <l>nio</l>
+          <r>nia<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__flaga">
       <e>
         <p>
@@ -27467,86 +27562,15 @@
     <pardef n="A/nia__np">
       <e>
         <p>
-          <l>nia</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <l></l>
+          <r>nia<s n="np"/><s n="ant"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>ni</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ni</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nię</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nią</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="ins"/></r>
-        </p>
+        <par n="BASE__pustynia"/>
       </e>
       <e>
         <p>
           <l>niu</l>
           <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nie</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ń</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niom</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niami</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niach</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ni</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nie</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nie</l>
-          <r>nia<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
@@ -39114,6 +39138,7 @@
     <e lm="pogoda"><i>pog</i><par n="w/oda__n"/></e>
     <e lm="oda"><i>od</i><par n="od/a__n"/></e>
     <e lm="gwiazda"><i>gwi</i><par n="gwi/azda__n"/></e>
+    <e lm="pustynia"><i>pusty</i><par n="pusty/nia__n"/></e>
     <e lm="flaga"><i>fla</i><par n="fla/ga__n"/></e>
     <e lm="sobota"><i>sob</i><par n="sob/ota__n"/></e>
     <e lm="viagra"><i>viagr</i><par n="viagr/a__n"/></e>
