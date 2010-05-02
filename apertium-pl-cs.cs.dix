@@ -19249,6 +19249,7 @@
       <e><p>          <l>o</l><r><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
       <e><p>          <l>i</l><r><s n="past"/><s n="ma"/><s n="pl"/></r></p></e>
       <e><p>          <l>y</l><r><s n="past"/><s n="mi"/><s n="pl"/></r></p></e>
+      <e r="RL"><p>          <l>y</l><r><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p>          <l>y</l><r><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>a</l><r><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>

@@ -34,6 +34,8 @@
   </def-cat>
   <def-cat n="vblex">
      <cat-item tags="vblex.*"/>
+     <cat-item tags="vbhaver.*"/>
+     <cat-item tags="vaux.*"/>
   </def-cat>
   <def-cat n="prn">
      <cat-item tags="prn.*"/>
@@ -91,6 +93,11 @@
 
   <def-attr n="a_prp">
      <attr-item tags="pr"/>
+  </def-attr>
+
+  <def-attr n="a_imp">
+     <attr-item tags="imp"/>
+     <attr-item tags="imp.emph"/>
   </def-attr>
 
   <def-attr n="a_adj">
@@ -425,6 +432,22 @@
             <let>
               <clip pos="1" side="tl" part="a_part"/>
               <lit-tag v="pprs.adj"/>
+            </let>
+          </when>
+        </choose>
+    </def-macro>
+    <def-macro n="canvi_imp" npar="1">
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="a_imp"/>
+                <lit-tag v="imp.emph"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="a_imp"/>
+              <lit-tag v="imp"/>
             </let>
           </when>
         </choose>
@@ -936,6 +959,12 @@
        <pattern-item n="vblex"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="canvi_imp">
+         <with-param pos="1"/>
+       </call-macro>
        <choose>
          <when>
            <test>
