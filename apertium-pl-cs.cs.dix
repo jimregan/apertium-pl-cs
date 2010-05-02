@@ -19353,6 +19353,19 @@
       <e><p>          <l>tou</l><r>íst<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
 
       <e><p>          <l>etl</l><r>íst<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+
+      <e><p>          <l>tě</l><r>íst<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>tě</l><r>íst<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l>tíc</l><r>íst<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>tíc</l><r>íst<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>tíce</l><r>íst<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>tíce</l><r>íst<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>tíce</l><r>íst<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>tění</l><r>íst<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
+      <e><p>          <l>těn</l><r>íst<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
+      <e><p>          <l>tíc</l><r>íst<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="dalš/í__BASE"/></e>
+      <e><p>          <l>těn</l><r>íst<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
     </pardef>
 
     <pardef n="obr/nit__vblex">
