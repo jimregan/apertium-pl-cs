@@ -22839,6 +22839,15 @@
     <e lm="nevrlost"><i>nevrlost</i><par n="věc__n"/></e>
     <e lm="neznalost"><i>neznalost</i><par n="věc__n"/></e>
     <e lm="nevěrohodnost"><i>nevěrohodnost</i><par n="věc__n"/></e>
+    <e lm="náhodnost"><i>náhodnost</i><par n="věc__n"/></e>
+    <e lm="čitelnost"><i>čitelnost</i><par n="věc__n"/></e>
+    <e lm="nedostupnost"><i>nedostupnost</i><par n="věc__n"/></e>
+    <e lm="přesnost"><i>přesnost</i><par n="věc__n"/></e>
+    <e lm="dostupnost"><i>dostupnost</i><par n="věc__n"/></e>
+    <e lm="směšnost"><i>směšnost</i><par n="věc__n"/></e>
+    <e lm="temnost"><i>temnost</i><par n="věc__n"/></e>
+    <e lm="červenost"><i>červenost</i><par n="věc__n"/></e>
+    <e lm="jasnost"><i>jasnost</i><par n="věc__n"/></e>
     <e lm="ježdík"><i>ježdí</i><par n="ja/k__n"/></e>
     <e lm="jinovatka"><i>jinovat</i><par n="dív/ka__n"/></e>
     <e lm="jmenovatel"><i>jmenovatel</i><par n="muž__n"/></e>
