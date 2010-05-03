@@ -20624,6 +20624,44 @@
         </p>
       </e>
     </pardef>
+    <pardef n="PBASE__styczeń_pl">
+      <e>
+        <p>
+          <l>nie</l>
+          <r><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niów</l>
+          <r><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niom</l>
+          <r><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niami</l>
+          <r><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niach</l>
+          <r><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nie</l>
+          <r><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="PBASE__słoń_pl">
       <e>
         <p>
@@ -22967,6 +23005,82 @@
         </p>
       </e>
     </pardef>
+    <pardef n="PBASE__lipiec_sg">
+      <e>
+        <p>
+          <l>ca</l>
+          <r><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cowi</l>
+          <r><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cem</l>
+          <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cu</l>
+          <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cu</l>
+          <r><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="PBASE__lipiec_pl">
+      <e>
+        <p>
+          <l>ce</l>
+          <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ców</l>
+          <r><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>com</l>
+          <r><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ce</l>
+          <r><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cami</l>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cach</l>
+          <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ce</l>
+          <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="PBASE__anatomia_sg">
       <e>
         <p>
@@ -24633,89 +24747,60 @@
         </p>
       </e>
     </pardef>
-    <pardef n="trut/eń__n_mp">
+    <pardef n="trut/eń__n">
       <e>
         <p>
           <l>eń</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r>eń<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>nia</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+          <r>eń<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>niowi</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niem</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niu</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niu</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nie</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niów</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niom</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niami</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niach</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+          <r>eń<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>nia</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+          <r>eń<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
         </p>
+      </e>
+      <e>
+        <p>
+          <l>niem</l>
+          <r>eń<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niu</l>
+          <r>eń<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>niu</l>
+          <r>eń<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>eń<s n="n"/><s n="ma"/></r>
+        </p>
+        <par n="PBASE__styczeń_pl"/>
       </e>
       <e>
         <p>
           <l>niów</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nie</l>
-          <r>eń<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+          <r>eń<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
     </pardef>
@@ -32504,6 +32589,12 @@
       </e>
       <e>
         <p>
+          <l>eń</l>
+          <r>eń<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>niem</l>
           <r>eń<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
         </p>
@@ -32522,50 +32613,15 @@
       </e>
       <e>
         <p>
-          <l>nie</l>
-          <r>eń<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+          <l></l>
+          <r>eń<s n="n"/><s n="mi"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>niów</l>
-          <r>eń<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niom</l>
-          <r>eń<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niami</l>
-          <r>eń<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niach</l>
-          <r>eń<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>eń</l>
-          <r>eń<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
-        </p>
+        <par n="PBASE__styczeń_pl"/>
       </e>
       <e>
         <p>
           <l>nie</l>
           <r>eń<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nie</l>
-          <r>eń<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
@@ -32676,6 +32732,12 @@
       </e>
       <e>
         <p>
+          <l>zień</l>
+          <r>zień<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>niem</l>
           <r>zień<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
         </p>
@@ -32694,39 +32756,10 @@
       </e>
       <e>
         <p>
-          <l>nie</l>
-          <r>zień<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+          <l></l>
+          <r>zień<s n="n"/><s n="mi"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>niów</l>
-          <r>zień<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niom</l>
-          <r>zień<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niami</l>
-          <r>zień<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>niach</l>
-          <r>zień<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zień</l>
-          <r>zień<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
-        </p>
+        <par n="PBASE__styczeń_pl"/>
       </e>
       <e>
         <p>
@@ -32734,78 +32767,19 @@
           <r>zień<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l>nie</l>
-          <r>zień<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="lip/iec__n">
       <e>
         <p>
+          <l></l>
+          <r>iec<s n="n"/></r>
+        </p>
+        <par n="PBASE__lipiec_sg"/>
+      </e>
+      <e>
+        <p>
           <l>iec</l>
           <r>iec<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ca</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>cowi</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>cem</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>cu</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>cu</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ce</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ców</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>com</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>cami</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>cach</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
@@ -32816,15 +32790,38 @@
       </e>
       <e>
         <p>
-          <l>ce</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+          <l></l>
+          <r>iec<s n="n"/></r>
+        </p>
+        <par n="PBASE__lipiec_pl"/>
+      </e>
+    </pardef>
+    <pardef n="zawil/ec__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ec<s n="n"/></r>
+        </p>
+        <par n="PBASE__lipiec_sg"/>
+      </e>
+      <e>
+        <p>
+          <l>ec</l>
+          <r>ec<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>ce</l>
-          <r>iec<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+          <l>ec</l>
+          <r>ec<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
         </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ec<s n="n"/></r>
+        </p>
+        <par n="PBASE__lipiec_pl"/>
       </e>
     </pardef>
     <pardef n="b/niec__n">
@@ -35893,6 +35890,12 @@
       </e>
       <e>
         <p>
+          <l>ec</l>
+          <r>ec<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>cem</l>
           <r>ec<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
         </p>
@@ -35911,51 +35914,10 @@
       </e>
       <e>
         <p>
-          <l>ce</l>
-          <r>ec<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+          <l></l>
+          <r>ec<s n="n"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>ców</l>
-          <r>ec<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>com</l>
-          <r>ec<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>cami</l>
-          <r>ec<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>cach</l>
-          <r>ec<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ec</l>
-          <r>ec<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ce</l>
-          <r>ec<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ce</l>
-          <r>ec<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
-        </p>
+        <par n="PBASE__lipiec_pl"/>
       </e>
     </pardef>
     <pardef n="nik/iel__n">
@@ -39060,10 +39022,12 @@
     <e lm="lekarz"><i>lekarz</i><par n="lekarz__n"/></e>
     <e lm="anioł"><i>ani</i><par n="ani/oł__n"/></e>
     <e lm="diabeł"><i>diab</i><par n="diab/eł__n"/></e>
+    <e lm="truteń"><i>trut</i><par n="trut/eń__n"/></e>
     <e lm="jeniec"><i>je</i><par n="je/niec__n"/></e>
     <e lm="młodzieniec"><i>młodzie</i><par n="młodzie/niec__n"/></e>
     <e lm="kasztanowiec"><i>kasztanow</i><par n="lip/iec__n"/></e>
     <e lm="lodowiec"><i>lodow</i><par n="lip/iec__n"/></e>
+    <e lm="zawilec"><i>zawil</i><par n="zawil/ec__n"/></e>
     <e lm="lipiec"><i>lip</i><par n="lip/iec__n"/></e>
     <e lm="chrzest"><i>chrz</i><par n="chrz/est__n"/></e>
     <e lm="chłopiec"><i>chłop</i><par n="chłop/iec__n"/></e>
