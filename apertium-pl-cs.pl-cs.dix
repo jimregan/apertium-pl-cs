@@ -773,10 +773,9 @@
     <e><p><l>mierzyć<s n="vblex"/></l><r>měřit<s n="vblex"/></r></p></e>
     <e><p><l>miotać<s n="vblex"/></l><r>metat<s n="vblex"/></r></p></e>
     <e><p><l>mijać<s n="vblex"/></l><r>míjet<s n="vblex"/></r></p></e>
-    <e><p><l>minąć<s n="vblex"/></l><r>minout<s n="vblex"/></r></p></e>
+    <e><p><l>minąć<s n="vblex"/><s n="perf"/></l><r>minout<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>mieszać<s n="vblex"/></l><r>míšit<s n="vblex"/></r></p></e>
-    <e><p><l>mieć<s n="vblex"/></l><r>mít<s n="vblex"/></r></p></e>
-    <e><p><l>kochać<s n="vblex"/></l><r>milovat<s n="vblex"/></r></p></e>
+    <e><p><l>kochać<s n="vblex"/><s n="imperf"/></l><r>milovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>milczeć<s n="vblex"/></l><r>mlčet<s n="vblex"/></r></p></e>
     <e><p><l>mówić<s n="vblex"/></l><r>mluvit<s n="vblex"/></r></p></e>
     <e><p><l>miauczyć<s n="vblex"/></l><r>mňoukat<s n="vblex"/></r></p></e>
