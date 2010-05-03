@@ -19243,8 +19243,7 @@
       <e><p><l>ne</l><r>ne<s n="adv"/><j/></r></p></e>
     </pardef>
     <pardef n="BASE__četl">
-      <e><p>          <l></l><r><s n="past"/><s n="ma"/><s n="sg"/></r></p></e>
-      <e><p>          <l></l><r><s n="past"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l></l><r><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>a</l><r><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>o</l><r><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
       <e><p>          <l>i</l><r><s n="past"/><s n="ma"/><s n="pl"/></r></p></e>
@@ -19254,8 +19253,7 @@
       <e><p>          <l>a</l><r><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="BASE__chtěn">
-      <e><p>          <l></l><r><s n="pp"/><s n="ma"/><s n="sg"/></r></p></e>
-      <e><p>          <l></l><r><s n="pp"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l></l><r><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p>          <l>a</l><r><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>o</l><r><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
       <e><p>          <l>i</l><r><s n="pp"/><s n="ma"/><s n="pl"/></r></p></e>
