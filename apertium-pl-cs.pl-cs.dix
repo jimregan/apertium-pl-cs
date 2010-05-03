@@ -618,7 +618,9 @@
     <e><p><l>cudzołóstwo<s n="n"/><s n="nt"/></l><r>cizoložství<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>królestwo<s n="n"/><s n="nt"/></l><r>království<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>do<b/>góry<b/>nogami<s n="adv"/></l><r>vzhůru<b/>nohama<s n="adv"/></r></p></e>
-    <e><p><l>czekać<s n="vblex"/></l><r>čekat<s n="vblex"/></r></p></e>
+    <e><p><l>czekać<s n="vblex"/><s n="imperf"/></l><r>čekat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>pompować<s n="vblex"/><s n="imperf"/></l><r>pumpovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>napompować<s n="vblex"/><s n="perf"/></l><r>napumpovat<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>abdykować<s n="vblex"/></l><r>abdikovat<s n="vblex"/></r></p></e>
     <e><p><l>absorbować<s n="vblex"/></l><r>absorbovat<s n="vblex"/></r></p></e>
     <e><p><l>adoptować<s n="vblex"/></l><r>adoptovat<s n="vblex"/></r></p></e>
