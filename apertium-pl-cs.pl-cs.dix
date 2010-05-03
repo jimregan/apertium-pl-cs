@@ -619,6 +619,8 @@
     <e><p><l>królestwo<s n="n"/><s n="nt"/></l><r>království<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>do<b/>góry<b/>nogami<s n="adv"/></l><r>vzhůru<b/>nohama<s n="adv"/></r></p></e>
     <e><p><l>czekać<s n="vblex"/><s n="imperf"/></l><r>čekat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>grzać<s n="vblex"/><s n="imperf"/></l><r>hřát<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zagrzać<s n="vblex"/><s n="perf"/></l><r>zahřát<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>pompować<s n="vblex"/><s n="imperf"/></l><r>pumpovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>napompować<s n="vblex"/><s n="perf"/></l><r>napumpovat<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>abdykować<s n="vblex"/></l><r>abdikovat<s n="vblex"/></r></p></e>
@@ -663,6 +665,14 @@
     <e><p><l>częstować<s n="vblex"/></l><r>častovat<s n="vblex"/></r></p></e>
     <e><p><l>czekać<s n="vblex"/></l><r>čekat<s n="vblex"/></r></p></e>
     <e><p><l>czernieć<s n="vblex"/></l><r>černat<s n="vblex"/></r></p></e>
+    <e><p><l>orać<s n="vblex"/><s n="imperf"/></l><r>orat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>malować<s n="vblex"/><s n="imperf"/></l><r>malovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wierzyć<s n="vblex"/><s n="imperf"/></l><r>věřit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>grzmieć<s n="vblex"/><s n="imperf"/></l><r>hřmít<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>rozkazać<s n="vblex"/><s n="perf"/></l><r>rozkázat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>gryźć<s n="vblex"/><s n="imperf"/></l><r>kousat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zacząć<s n="vblex"/><s n="perf"/></l><r>začít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>ostrzeliwać<s n="vblex"/><s n="imperf"/></l><r>ostřelovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>czerpać<s n="vblex"/></l><r>čerpat<s n="vblex"/></r></p></e>
     <e><p><l>czerwienić<s n="vblex"/></l><r>červenat<s n="vblex"/></r></p></e>
     <e><p><l>czytać<s n="vblex"/></l><r>číst<s n="vblex"/></r></p></e>
