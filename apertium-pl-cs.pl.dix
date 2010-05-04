@@ -23452,6 +23452,15 @@
         <par n="BASE__filozofia"/>
       </e>
     </pardef>
+    <pardef n="Alicj/a__np">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__filozofia"/>
+      </e>
+    </pardef>
     <pardef n="dysertac/ja__n">
       <e>
         <p>
@@ -23887,6 +23896,15 @@
         <p>
           <l></l>
           <r><s n="n"/></r>
+        </p>
+        <par n="BASE__astronom"/>
+      </e>
+    </pardef>
+    <pardef n="Adam__np">
+       <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="ant"/></r>
         </p>
         <par n="BASE__astronom"/>
       </e>
@@ -38976,6 +38994,11 @@
     <e lm="dziecko"><i>dzie</i><par n="dzie/cko__n"/></e>
     <e lm="śpioch"><i>śpioch</i><par n="śpioch__n"/></e>
     <e lm="astronom"><i>astronom</i><par n="astronom__n"/></e>
+    <e lm="filozof"><i>filozof</i><par n="astronom__n"/></e>
+    <e lm="kuzyn"><i>kuzyn</i><par n="astronom__n"/></e>
+    <e lm="szef"><i>szef</i><par n="astronom__n"/></e>
+    <e lm="pornograf"><i>pornograf</i><par n="astronom__n"/></e>
+    <e lm="ojczym"><i>ojczym</i><par n="astronom__n"/></e>
     <e lm="kretyn"><i>kretyn</i><par n="kretyn__n"/></e>
     <e lm="blondyn"><i>blondyn</i><par n="kretyn__n"/></e>
     <e lm="kapłan"><i>kapłan</i><par n="kretyn__n"/></e>
@@ -39009,6 +39032,20 @@
     <e lm="przyjaciel"><i>przyjaci</i><par n="przyjaci/el__n"/></e>
     <e lm="syn"><i>syn</i><par n="syn__n"/></e>
     <e lm="lekarz"><i>lekarz</i><par n="lekarz__n"/></e>
+    <e lm="drukarz"><i>drukarz</i><par n="lekarz__n"/></e>
+    <e lm="dziennikarz"><i>dziennikarz</i><par n="lekarz__n"/></e>
+    <e lm="garncarz"><i>garncarz</i><par n="lekarz__n"/></e>
+    <e lm="gracz"><i>gracz</i><par n="lekarz__n"/></e>
+    <e lm="kominiarz"><i>kominiarz</i><par n="lekarz__n"/></e>
+    <e lm="malarz"><i>malarz</i><par n="lekarz__n"/></e>
+    <e lm="palacz"><i>palacz</i><par n="lekarz__n"/></e>
+    <e lm="pasterz"><i>pasterz</i><par n="lekarz__n"/></e>
+    <e lm="piekarz"><i>piekarz</i><par n="lekarz__n"/></e>
+    <e lm="pszczelarz"><i>pszczelarz</i><par n="lekarz__n"/></e>
+    <e lm="rycerz"><i>rycerz</i><par n="lekarz__n"/></e>
+    <e lm="rzeźbiarz"><i>rzeźbiarz</i><par n="lekarz__n"/></e>
+    <e lm="tłumacz"><i>tłumacz</i><par n="lekarz__n"/></e>
+    <e lm="żołnierz"><i>żołnierz</i><par n="lekarz__n"/></e>
     <e lm="anioł"><i>ani</i><par n="ani/oł__n"/></e>
     <e lm="diabeł"><i>diab</i><par n="diab/eł__n"/></e>
     <e lm="truteń"><i>trut</i><par n="trut/eń__n"/></e>
@@ -39452,6 +39489,18 @@
     <e lm="pas"><i>pas</i><par n="minus__n"/></e>
     <e lm="gram"><i>gram</i><par n="minus__n"/></e>
 
+    <e lm="azyl"><i>azyl</i><par n="gaj__n"/></e>
+    <e lm="bal"><i>bal</i><par n="gaj__n"/></e>
+    <e lm="cel"><i>cel</i><par n="gaj__n"/></e>
+    <e lm="deszcz"><i>deszcz</i><par n="gaj__n"/></e>
+    <e lm="klej"><i>klej</i><par n="gaj__n"/></e>
+    <e lm="kurz"><i>kurz</i><par n="gaj__n"/></e>
+    <e lm="marsz"><i>marsz</i><par n="gaj__n"/></e>
+    <e lm="mecz"><i>mecz</i><par n="gaj__n"/></e>
+    <e lm="olej"><i>olej</i><par n="gaj__n"/></e>
+    <e lm="owoc"><i>owoc</i><par n="gaj__n"/></e>
+    <e lm="pałac"><i>pałac</i><par n="gaj__n"/></e>
+    <e lm="szkic"><i>szkic</i><par n="gaj__n"/></e>
     <e lm="aborcja"><i>aborc</i><par n="dysertac/ja__n"/></e>
     <e lm="deklaracja"><i>deklarac</i><par n="dysertac/ja__n"/></e>
     <e lm="absolutyzacja"><i>absolutyzac</i><par n="dysertac/ja__n"/></e>
@@ -39814,8 +39863,11 @@
     <e lm="germanistyka"><i>germanisty</i><par n="rze/ka__n"/></e>
     <e lm="bajka"><i>baj</i><par n="mat/ka__n"/></e>
     <e lm="córka"><i>cór</i><par n="mat/ka__n"/></e>
-    
     <e lm="topola"><i>top</i><par n="top/ola__n"/></e>
+    <e lm="fasola"><i>fasol</i><par n="filozofi/a__n"/></e>
+    <e lm="aureola"><i>aureol</i><par n="filozofi/a__n"/></e>
+    <e lm="aria"><i>ari</i><par n="filozofi/a__n"/></e>
+    <e lm="drumla"><i>druml</i><par n="filozofi/a__n"/></e>
     <e lm="dżungla"><i>dżungl</i><par n="filozofi/a__n"/></e>
     <e lm="czapla"><i>czapl</i><par n="filozofi/a__n"/></e>
     <e lm="muszla"><i>muszl</i><par n="filozofi/a__n"/></e>
@@ -40454,6 +40506,12 @@
     <e lm="Ludwika"><i>Ludwi</i><par n="Domini/ka__np"/></e>
     <e lm="Agnieszka"><i>Agniesz</i><par n="Agniesz/ka__np"/></e>
     <e lm="Blanka"><i>Blan</i><par n="Agniesz/ka__np"/></e>
+    <e lm="Julia"><i>Juli</i><par n="Alicj/a__np"/></e>
+    <e lm="Alicja"><i>Alicj</i><par n="Alicj/a__np"/></e>
+    <e lm="Emilia"><i>Emili</i><par n="Alicj/a__np"/></e>
+    <e lm="Maria"><i>Mari</i><par n="Alicj/a__np"/></e>
+    <e lm="Wigilia"><i>Wigili</i><par n="Alicj/a__np"/></e>
+    <e lm="Wiktoria"><i>Wiktori</i><par n="Alicj/a__np"/></e>
     <e lm="Ola"><i>Ol</i><par n="Ol/a__np"/></e>
     <e lm="Tola"><i>Tol</i><par n="Ol/a__np"/></e>
     <e lm="Ala"><i>Al</i><par n="Ol/a__np"/></e>
@@ -40499,6 +40557,14 @@
     <e lm="Libor"><i>Libor</i><par n="Piotr__np"/></e>
     <e lm="Silvestr"><i>Silvestr</i><par n="Piotr__np"/></e>
     <e lm="Valtr"><i>Valtr</i><par n="Piotr__np"/></e>
+    <e lm="Adam"><i>Adam</i><par n="Adam__np"/></e>
+    <e lm="Filip"><i>Filip</i><par n="Adam__np"/></e>
+    <e lm="Jakub"><i>Jakub</i><par n="Adam__np"/></e>
+    <e lm="Józef"><i>Józef</i><par n="Adam__np"/></e>
+    <e lm="Krzysztof"><i>Krzysztof</i><par n="Adam__np"/></e>
+    <e lm="Marcin"><i>Marcin</i><par n="Adam__np"/></e>
+    <e lm="Serb"><i>Serb</i><par n="Adam__np"/></e>
+    <e lm="Stanisław"><i>Stanisław</i><par n="Adam__np"/></e>
     <e lm="Marek"><i>Mar</i><par n="Mar/ek__np"/></e>
     <e lm="Jarek"><i>Jar</i><par n="Mar/ek__np"/></e>
     <e lm="Darek"><i>Dar</i><par n="Mar/ek__np"/></e>
@@ -40699,6 +40765,12 @@
     <e lm="Słowacja"><i>Słowac</i><par n="Słowac/ja__np"/></e>
     <e lm="Tunezja"><i>Tunez</i><par n="Słowac/ja__np"/></e>
     <e lm="Turcja"><i>Turc</i><par n="Słowac/ja__np"/></e>
+    <e lm="Belgia"><i>Belgi</i><par n="Irlandi/a__np"/></e>
+    <e lm="Erytrea"><i>Erytre</i><par n="Irlandi/a__np"/></e>
+    <e lm="Francja"><i>Francj</i><par n="Irlandi/a__np"/></e>
+    <e lm="Gambia"><i>Gambi</i><par n="Irlandi/a__np"/></e>
+    <e lm="Grecja"><i>Grecj</i><par n="Irlandi/a__np"/></e>
+    <e lm="Gruzja"><i>Gruzj</i><par n="Irlandi/a__np"/></e>
     <e lm="Bavaria"><i>Bavari</i><par n="Irlandi/a__np"/></e>
     <e lm="Bułgaria"><i>Bułgari</i><par n="Irlandi/a__np"/></e>
     <e lm="Estonia"><i>Estoni</i><par n="Irlandi/a__np"/></e>
