@@ -1888,18 +1888,19 @@
     </pardef>
     <pardef n="astronau/ta__n_mp">
       <e><p>          <l>ta</l><r>ta<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p>          <l>tę</l><r>ta<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p>          <l>ty</l><r>ta<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p>          <l>cie</l><r>ta<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r></p></e>
-      <e><p>          <l>cie</l><r>ta<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p>          <l>tę</l><r>ta<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p>          <l>tą</l><r>ta<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p>          <l>cie</l><r>ta<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r></p></e>
       <e><p>          <l>to</l><r>ta<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r></p></e>
+
       <e><p>          <l>ci</l><r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p>          <l>tów</l><r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r></p></e>
       <e><p>          <l>tów</l><r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p>          <l>tom</l><r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e><p>          <l>tach</l><r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p>          <l>tów</l><r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r></p></e>
       <e><p>          <l>tami</l><r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p>          <l>tach</l><r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p>          <l>ci</l><r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
     <pardef n="pułkowni/k__n_mp">

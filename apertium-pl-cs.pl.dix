@@ -23865,6 +23865,57 @@
         <par n="BASE__rekin"/>
       </e>
     </pardef>
+    <pardef n="cudzysł/ów__n">
+      <e>
+        <p>
+          <l>ów</l>
+          <r>ów<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owu</l>
+          <r>ów<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owowi</l>
+          <r>ów<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>ów<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owem</l>
+          <r>ów<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owie</l>
+          <r>ów<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owie</l>
+          <r>ów<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ow</l>
+          <r>ów<s n="n"/><s n="mi"/></r>
+        </p>
+        <par n="PBASE__bat_pl"/>
+      </e>
+    </pardef>
     <pardef n="robo/t__n">
       <e>
         <p>
@@ -29199,6 +29250,12 @@
       </e>
       <e>
         <p>
+          <l>ór</l>
+          <r>ór<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>orem</l>
           <r>ór<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
         </p>
@@ -29217,51 +29274,10 @@
       </e>
       <e>
         <p>
-          <l>ory</l>
-          <r>ór<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+          <l>or</l>
+          <r>ór<s n="n"/><s n="mi"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>orów</l>
-          <r>ór<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>orom</l>
-          <r>ór<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>orami</l>
-          <r>ór<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>orach</l>
-          <r>ór<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ór</l>
-          <r>ór<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ory</l>
-          <r>ór<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ory</l>
-          <r>ór<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
-        </p>
+        <par n="PBASE__bat_pl"/>
       </e>
     </pardef>
     <pardef n="gwiazdozbi/ór__n">
@@ -38977,6 +38993,9 @@
     <e lm="ciasto"><i>ci</i><par n="mi/asto__n"/></e>
     <e lm="maj"><i>maj</i><par n="maj__n"/></e>
     <e lm="styczeń"><i>stycz</i><par n="stycz/eń__n"/></e>
+    <e lm="stół"><i>st</i><par n="st/ół__n"/></e>
+    <e lm="wór"><i>w</i><par n="w/ór__n"/></e>
+    <e lm="topór"><i>top</i><par n="w/ór__n"/></e>
     <e lm="gwiazdozbiór"><i>gwiazdozbi</i><par n="gwiazdozbi/ór__n"/></e>
     <e lm="słowo"><i>sł</i><par n="sł/owo__n"/></e>
     <e lm="wesele"><i>wesel</i><par n="wesel/e__n"/></e>
@@ -39160,6 +39179,7 @@
     <e lm="świat"><i>świ</i><par n="świ/at__n"/></e>
     <e lm="luty"><i>lut</i><par n="lut/y__n"/></e>
     <e lm="statek"><i>stat</i><par n="stat/ek__n"/></e>
+    <e lm="cudzysłów"><i>cudzysł</i><par n="cudzysł/ów__n"/></e>
     <e lm="bat"><i>ba</i><par n="ba/t__n"/></e>
     <e lm="ametyst"><i>amety</i><par n="amety/st__n"/></e>
     <e lm="ząb"><i>z</i><par n="z/ąb__n"/></e>
