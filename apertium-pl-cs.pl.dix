@@ -39399,6 +39399,46 @@
     <e lm="portal"><i>portal</i><par n="hotel__n"/></e>
     <e lm="kucharz"><i>kucharz</i><par n="lekarz__n"/></e>
     <e lm="mieszkanie"><i>mieszka</i><par n="trzęsie/nie__n"/></e>
+    <e lm="ciśnienie"><i>ciśnie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="naczynie"><i>naczy</i><par n="trzęsie/nie__n"/></e>
+    <e lm="niepowodzenie"><i>niepowodze</i><par n="trzęsie/nie__n"/></e>
+    <e lm="orzeczenie"><i>orzecze</i><par n="trzęsie/nie__n"/></e>
+    <e lm="podniebienie"><i>podniebie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="pokolenie"><i>pokole</i><par n="trzęsie/nie__n"/></e>
+    <e lm="ćwiczenie"><i>ćwicze</i><par n="trzęsie/nie__n"/></e>
+    <e lm="dodawanie"><i>dodawa</i><par n="trzęsie/nie__n"/></e>
+    <e lm="doświadczenie"><i>doświadcze</i><par n="trzęsie/nie__n"/></e>
+    <e lm="działanie"><i>działa</i><par n="trzęsie/nie__n"/></e>
+    <e lm="dzielenie"><i>dziele</i><par n="trzęsie/nie__n"/></e>
+    <e lm="istnienie"><i>istnie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="marzenie"><i>marze</i><par n="trzęsie/nie__n"/></e>
+    <e lm="mnożenie"><i>mnoże</i><par n="trzęsie/nie__n"/></e>
+    <e lm="odejmowanie"><i>odejmowa</i><par n="trzęsie/nie__n"/></e>
+    <e lm="ostrzeżenie"><i>ostrzeże</i><par n="trzęsie/nie__n"/></e>
+    <e lm="poronienie"><i>poronie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="pragnienie"><i>pragnie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="przekonanie"><i>przekona</i><par n="trzęsie/nie__n"/></e>
+    <e lm="przeziębienie"><i>przeziębie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="przyspieszenie"><i>przyspiesze</i><par n="trzęsie/nie__n"/></e>
+    <e lm="pytanie"><i>pyta</i><par n="trzęsie/nie__n"/></e>
+    <e lm="rozwidlenie"><i>rozwidle</i><par n="trzęsie/nie__n"/></e>
+    <e lm="równanie"><i>równa</i><par n="trzęsie/nie__n"/></e>
+    <e lm="skrzyżowanie"><i>skrzyżowa</i><par n="trzęsie/nie__n"/></e>
+    <e lm="tłumaczenie"><i>tłumacze</i><par n="trzęsie/nie__n"/></e>
+    <e lm="ubezpieczenie"><i>ubezpiecze</i><par n="trzęsie/nie__n"/></e>
+    <e lm="upokorzenie"><i>upokorze</i><par n="trzęsie/nie__n"/></e>
+    <e lm="urządzenie"><i>urządze</i><par n="trzęsie/nie__n"/></e>
+    <e lm="więzienie"><i>więzie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="wydarzenie"><i>wydarze</i><par n="trzęsie/nie__n"/></e>
+    <e lm="zachowanie"><i>zachowa</i><par n="trzęsie/nie__n"/></e>
+    <e lm="zaćmienie"><i>zaćmie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="zadanie"><i>zada</i><par n="trzęsie/nie__n"/></e>
+    <e lm="zainteresowanie"><i>zainteresowa</i><par n="trzęsie/nie__n"/></e>
+    <e lm="zdanie"><i>zda</i><par n="trzęsie/nie__n"/></e>
+    <e lm="zdrobnienie"><i>zdrobnie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="zmartwienie"><i>zmartwie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="zmartwychwstanie"><i>zmartwychwsta</i><par n="trzęsie/nie__n"/></e>
+    <e lm="życzenie"><i>życze</i><par n="trzęsie/nie__n"/></e>
     <e lm="łóżko"><i>łóż</i><par n="jabł/ko__n"/></e>
     <e lm="ułamek"><i>ułam</i><par n="stat/ek__n"/></e>
     <e lm="stożek"><i>stoż</i><par n="stat/ek__n"/></e>
