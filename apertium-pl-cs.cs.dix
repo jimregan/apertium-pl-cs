@@ -19285,6 +19285,14 @@
       <e><p>          <l>buď</l><r>být<s n="vbser"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p>          <l>buďme</l><r>být<s n="vbser"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p>          <l>buďte</l><r>být<s n="vbser"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>jsa</l><r>být<s n="vbser"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jsa</l><r>být<s n="vbser"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jsouc</l><r>být<s n="vbser"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jsouc</l><r>být<s n="vbser"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jsouce</l><r>být<s n="vbser"/><s n="tgv"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>jsouce</l><r>být<s n="vbser"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>jsouce</l><r>být<s n="vbser"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="m/ít__vbhaver">
