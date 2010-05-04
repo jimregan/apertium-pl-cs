@@ -19530,6 +19530,10 @@
       <e><p>          <l>těn</l><r>íst<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
       <e><p>          <l>tíc</l><r>íst<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="dalš/í__BASE"/></e>
       <e><p>          <l>těn</l><r>íst<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
+
+      <e><p>          <l>ti</l><r>íst<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>těme</l><r>íst<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>těte</l><r>íst<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="obr/nit__vblex">
@@ -19628,6 +19632,36 @@
       <e><p>          <l>ez</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p>          <l>ezme</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p>          <l>ezte</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+
+    </pardef>
+    <pardef n="vyráb/ět__vblex">
+      <e><p>          <l>ět</l><r>ět<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+
+      <e><p>          <l>ím</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íš</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>í</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íme</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>íte</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ějí</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="LR"><p>          <l>í</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ěl</l><r>ět<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>ěn</l><r>ět<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
+      <e><p>          <l>ění</l><r>ět<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
+      <e><p>          <l>ějíc</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="dalš/í__BASE"/></e>
+      <e><p>          <l>ěn</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
+
+      <e><p>          <l>ěje</l><r>ět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ěje</l><r>ět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ějíc</l><r>ět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ějíc</l><r>ět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ějíce</l><r>ět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ějíce</l><r>ět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ějíce</l><r>ět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ěj</l><r>ět<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ějme</l><r>ět<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ějte</l><r>ět<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
 
     </pardef>
     <pardef n="mil/ovat__vblex">
