@@ -19279,12 +19279,12 @@
       <e><p>          <l>budete</l><r>být<s n="vbser"/><s n="fti"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p>          <l>budou</l><r>být<s n="vbser"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>byl</l><r>být<s n="vbser"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>byla</l><r>být<s n="vbser"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>bylo</l><r>být<s n="vbser"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
-      <e><p>          <l>byli</l><r>být<s n="vbser"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p>          <l>byly</l><r>být<s n="vbser"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
-      <e><p>          <l>byla</l><r>být<s n="vbser"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+      <e><p>          <l>byl</l><r>být<s n="vbser"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>jsouc</l><r>být<s n="vbser"/><s n="pprs"/><s n="adj"/></r></p><par n="dalš/í__BASE"/></e>
+
+      <e><p>          <l>buď</l><r>být<s n="vbser"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>buďme</l><r>být<s n="vbser"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>buďte</l><r>být<s n="vbser"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="m/ít__vbhaver">
@@ -19335,6 +19335,13 @@
       <e r="LR"><p>   <l>ohou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
       <e><p>          <l>ohl</l><r>oci<s n="vaux"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>oha</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>oha</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ohouc</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ohouc</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ohouce</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ohouce</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ohouce</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="třeba__vaux">
       <e><p><l></l><r><s n="vaux"/></r></p></e>
