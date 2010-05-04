@@ -12058,219 +12058,236 @@
         </p>
       </e>
     </pardef>
-    <pardef n="każd/y__prn">
+    <pardef n="BASE__każdy">
       <e>
         <p>
           <l>y</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="mp"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ego</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="mp"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>emu</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ego</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="mp"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ym</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="mp"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ym</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="mp"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ego</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>emu</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ego</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ym</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ym</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="ma"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ego</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>emu</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ym</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ym</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ej</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ej</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ą</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ą</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ej</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>a</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ego</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>emu</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ym</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ym</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>y<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
-
+    <pardef n="każd/y__prn">
+      <e>
+        <p>
+          <l></l>
+          <r>y<s n="prn"/><s n="ind"/></r>
+        </p>
+        <par n="BASE__każdy"/>
+      </e>
+    </pardef>
+    <pardef n="każd/y__det">
+      <e>
+        <p>
+          <l></l>
+          <r>y<s n="det"/><s n="ind"/></r>
+        </p>
+        <par n="BASE__każdy"/>
+      </e>
+    </pardef>
     <pardef n="pierw/szy__det">
       <e>
         <p>
@@ -38308,6 +38325,8 @@
     <e lm="inny"><i>inn</i><par n="inn/y__det"/></e>
     <e lm="dużo"><i>dużo</i><par n="dużo__det"/></e>
     <e lm="tyle"><i>tyle</i><par n="dużo__det"/></e>
+    <e lm="każdy"><i>każd</i><par n="każd/y__prn"/></e>
+    <e lm="każdy"><i>każd</i><par n="każd/y__det"/></e>
 
     <e lm="to"><i></i><par n="/to__det"/></e>
     <e lm="co"><i>c</i><par n="c/o__det"/></e>

@@ -21635,6 +21635,24 @@
       </e>
     </pardef>
 
+    <pardef n="každ/ý__prn">
+      <e>
+        <p>
+          <l></l>
+          <r>ý<s n="prn"/><s n="ind"/></r>
+        </p>
+        <par n="BASE__nov/ý"/>
+      </e>
+    </pardef>
+    <pardef n="každ/ý__det">
+      <e>
+        <p>
+          <l></l>
+          <r>ý<s n="det"/><s n="ind"/></r>
+        </p>
+        <par n="BASE__nov/ý"/>
+      </e>
+    </pardef>
     <pardef n="nov/ý__adj">
       <e>
         <p>
@@ -21980,6 +21998,8 @@
     <e lm="cokoliv"><i></i><par n="/cokoliv__prn"/></e>
     <e lm="něco"><i>ně</i><par n="ně/co__prn"/></e>
     <e lm="se"><i></i><par n="/se__prn"/></e>
+    <e lm="každý"><i>každ</i><par n="každ/ý__prn"/></e>
+    <e lm="každý"><i>každ</i><par n="každ/ý__det"/></e>
 
     <e lm="kde"><i>kde</i><par n="kde__rel"/></e>
     <e lm="co"><i>co</i><par n="co__rel"/></e>
@@ -22050,6 +22070,8 @@
     <e lm="finanční"><par n="nej__adv"/><i>finančn</i><par n="finančn/í__adj"/></e>
     <e lm="úřední"><par n="nej__adv"/><i>úředn</i><par n="finančn/í__adj"/></e>
     <e lm="jarní"><par n="nej__adv"/><i>jarn</i><par n="finančn/í__adj"/></e>
+    <e lm="mezinárodní"><par n="nej__adv"/><i>mezinárodn</i><par n="finančn/í__adj"/></e>
+    <e lm="národnostní"><par n="nej__adv"/><i>národnostn</i><par n="finančn/í__adj"/></e>
 
     <e lm="další" i="yes"><i>dalš</i><par n="dalš/í__adj"/></e>
     <e lm="nový"><par n="nej__adv"/><i>nov</i><par n="nov/ý__adj"/></e>
