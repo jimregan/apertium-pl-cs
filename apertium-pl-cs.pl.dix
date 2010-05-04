@@ -20536,6 +20536,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="PBASE__inżynier_sg">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>owi</l>
+          <r><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef> 
     <pardef n="PBASE__bat_pl">
       <e>
         <p>
@@ -25429,44 +25473,9 @@
       <e>
         <p>
           <l></l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="n"/><s n="mp"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owi</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>em</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ze</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ze</l>
-          <r><s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
+        <par n="PBASE__inżynier_sg"/>
       </e>
       <e>
         <p>
@@ -30646,48 +30655,64 @@
         <par n="BASE__owies"/>
       </e>
     </pardef>
+    <pardef n="aktor__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mp"/></r>
+        </p>
+        <par n="PBASE__inżynier_sg"/>
+      </e>
+      <e>
+        <p>
+          <l>zy</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zy</l>
+          <r><s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="tur__n">
       <e>
         <p>
           <l></l>
-          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="n"/><s n="ma"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owi</l>
-          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>em</l>
-          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ze</l>
-          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ze</l>
-          <r><s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
-        </p>
+        <par n="PBASE__inżynier_sg"/>
       </e>
       <e>
         <p>
@@ -39034,7 +39059,25 @@
     <e lm="robot"><i>robo</i><par n="robo/t__n"/></e>
     <e lm="kogut"><i>kogu</i><par n="robo/t__n"/></e>
     <e lm="mąż"><i>m</i><par n="m/ąż__n"/></e>
+    <e lm="aktor"><i>aktor</i><par n="aktor__n"/></e>
+    <e lm="autor"><i>autor</i><par n="aktor__n"/></e>
+    <e lm="doktor"><i>doktor</i><par n="aktor__n"/></e>
+    <e lm="fryzjer"><i>fryzjer</i><par n="aktor__n"/></e>
+    <e lm="kelner"><i>kelner</i><par n="aktor__n"/></e>
+    <e lm="miliarder"><i>miliarder</i><par n="aktor__n"/></e>
+    <e lm="milioner"><i>milioner</i><par n="aktor__n"/></e>
+    <e lm="premier"><i>premier</i><par n="aktor__n"/></e>
+    <e lm="Szwajcar"><i>Szwajcar</i><par n="aktor__n"/></e>
     <e lm="student"><i>studen</i><par n="studen/t__n"/></e>
+    <e lm="adwokat"><i>adwoka</i><par n="studen/t__n"/></e>
+    <e lm="Chorwat"><i>Chorwa</i><par n="studen/t__n"/></e>
+    <e lm="dyrygent"><i>dyrygen</i><par n="studen/t__n"/></e>
+    <e lm="kandydat"><i>kandyda</i><par n="studen/t__n"/></e>
+    <e lm="opat"><i>opa</i><par n="studen/t__n"/></e>
+    <e lm="pirat"><i>pira</i><par n="studen/t__n"/></e>
+    <e lm="policjant"><i>policjan</i><par n="studen/t__n"/></e>
+    <e lm="prezydent"><i>prezyden</i><par n="studen/t__n"/></e>
+    <e lm="Szkot"><i>Szko</i><par n="studen/t__n"/></e>
     <e lm="brat"><i>bra</i><par n="bra/t__n"/></e>
     <e lm="przyjaciel"><i>przyjaci</i><par n="przyjaci/el__n"/></e>
     <e lm="syn"><i>syn</i><par n="syn__n"/></e>
@@ -39182,6 +39225,10 @@
     <e lm="cudzysłów"><i>cudzysł</i><par n="cudzysł/ów__n"/></e>
     <e lm="bat"><i>ba</i><par n="ba/t__n"/></e>
     <e lm="ametyst"><i>amety</i><par n="amety/st__n"/></e>
+    <e lm="agrest"><i>agre</i><par n="amety/st__n"/></e>
+    <e lm="chwast"><i>chwa</i><par n="amety/st__n"/></e>
+    <e lm="most"><i>mo</i><par n="amety/st__n"/></e>
+    <e lm="toast"><i>toa</i><par n="amety/st__n"/></e>
     <e lm="ząb"><i>z</i><par n="z/ąb__n"/></e>
     <e lm="ser"><i>ser</i><par n="ser__n"/></e>
     <e a="kurnik" lm="akronim"><i>akronim</i><par n="sklep__n"/></e>
