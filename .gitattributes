@@ -43,6 +43,8 @@ dev/speling-paradigms.py -text
 dev/testvoc-summary.cs-pl.txt -text
 dev/testvoc-summary.pl-cs.txt -text
 dev/todo -text
+dev/undhr-cs.txt -text
+dev/undhr-pl.txt -text
 dev/wikt.full-form.pl -text
 dev/wikt.full-form.pl.dix -text
 misc/bort.xsl -text
