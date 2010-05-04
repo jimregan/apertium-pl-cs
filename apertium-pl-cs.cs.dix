@@ -19600,6 +19600,36 @@
       <e><p>          <l>ězte</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
 
     </pardef>
+    <pardef n="v/ézt__vblex">
+      <e><p>          <l>ézt</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+
+      <e><p>          <l>ezu</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ezeš</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>eze</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ezeme</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e r="LR"><p>          <l>ezem</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ezete</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ezou</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ezl</l><r>ézt<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>ezen</l><r>ézt<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
+      <e><p>          <l>ezení</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
+      <e><p>          <l>ezouc</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="dalš/í__BASE"/></e>
+      <e><p>          <l>ezen</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
+
+      <e><p>          <l>eza</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>eza</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ezouc</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ezouc</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ezouce</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ezouce</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ezouce</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ez</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ezme</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ezte</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+
+    </pardef>
     <pardef n="mil/ovat__vblex">
       <e><p>          <l>ovat</l><r>ovat<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
 
@@ -22301,7 +22331,9 @@
 
     <e lm="typický"><par n="nej__adv"/><i>typi</i><par n="exotermi/cký__adj"/></e>
     <e lm="exotermický"><par n="nej__adv"/><i>exotermi</i><par n="exotermi/cký__adj"/></e>
+    <e lm="demokratický"><par n="nej__adv"/><i>demokrati</i><par n="exotermi/cký__adj"/></e>
     <e lm="víkendový"><par n="nej__adv"/><i>víkendov</i><par n="víkendov/ý__adj"/></e>
+    <e lm="spravedlivý"><par n="nej__adv"/><i>spravedliv</i><par n="víkendov/ý__adj"/></e>
     <e lm="celý"><i>cel</i><par n="cel/ý__adj"/></e>
 
     <!-- Adverbs -->
@@ -24241,6 +24273,7 @@
     <e lm="napumpovat"><par n="v_neg"/><i>napump</i><par n="napump/ovat__vblex"/></e>
     <e lm="dávat"><par n="v_neg"/><i>dáv</i><par n="dáv/at__vblex"/></e>
     <e lm="péci"><par n="v_neg"/><i>p</i><par n="p/éci__vblex"/></e>
+    <e lm="vézt"><par n="v_neg"/><i>v</i><par n="v/ézt__vblex"/></e>
 
     <!-- Proper nouns -->
   
