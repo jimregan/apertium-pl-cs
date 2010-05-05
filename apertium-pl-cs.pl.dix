@@ -40784,12 +40784,12 @@
     <e lm="Słowacja"><i>Słowac</i><par n="Słowac/ja__np"/></e>
     <e lm="Tunezja"><i>Tunez</i><par n="Słowac/ja__np"/></e>
     <e lm="Turcja"><i>Turc</i><par n="Słowac/ja__np"/></e>
+    <e lm="Francja"><i>Franc</i><par n="Słowac/ja__np"/></e>
+    <e lm="Grecja"><i>Grec</i><par n="Słowac/ja__np"/></e>
+    <e lm="Gruzja"><i>Gruz</i><par n="Słowac/ja__np"/></e>
+    <e lm="Gambia"><i>Gambi</i><par n="Irlandi/a__np"/></e>
     <e lm="Belgia"><i>Belgi</i><par n="Irlandi/a__np"/></e>
     <e lm="Erytrea"><i>Erytre</i><par n="Irlandi/a__np"/></e>
-    <e lm="Francja"><i>Francj</i><par n="Irlandi/a__np"/></e>
-    <e lm="Gambia"><i>Gambi</i><par n="Irlandi/a__np"/></e>
-    <e lm="Grecja"><i>Grecj</i><par n="Irlandi/a__np"/></e>
-    <e lm="Gruzja"><i>Gruzj</i><par n="Irlandi/a__np"/></e>
     <e lm="Bavaria"><i>Bavari</i><par n="Irlandi/a__np"/></e>
     <e lm="Bułgaria"><i>Bułgari</i><par n="Irlandi/a__np"/></e>
     <e lm="Estonia"><i>Estoni</i><par n="Irlandi/a__np"/></e>
@@ -40807,6 +40807,8 @@
     <e lm="Transylvania"><i>Transylvani</i><par n="Irlandi/a__np"/></e>
     <e lm="Słowenia"><i>Słoweni</i><par n="Irlandi/a__np"/></e>
     <e lm="Tajlandia"><i>Tajlandi</i><par n="Irlandi/a__np"/></e>
+    <e lm="Dania"><i>Dani</i><par n="Irlandi/a__np"/></e>
+    <e lm="Hiszpania"><i>Hiszpani</i><par n="Irlandi/a__np"/></e>
     <e lm="Broumovsko"><i>Broumovsk</i><par n="Broumovsk/o__np"/></e>
     <e lm="Broumovsko" r="LR"><p><l>Broumowsk</l><r>Broumovsk</r></p><par n="Broumovsk/o__np"/></e>
     <e lm="Chodsko"><i>Chodsk</i><par n="Broumovsk/o__np"/></e>
@@ -40814,6 +40816,7 @@
     <e lm="Mokrsko"><i>Mokrsk</i><par n="Broumovsk/o__np"/></e>
     <e lm="San Francisco"><i>San<b/>Francisco</i><par n="San_Francisco__np"/></e>
     <e lm="UE"><i>UE</i><par n="UE__np"/></e>
+    <e lm="Węgry"><i>Węg</i><par n="Węg/ry__np"/></e>
 
 
     <e lm="Australijka"><i>Australij</i><par n="mat/ka__n"/></e>
