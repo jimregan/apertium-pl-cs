@@ -19501,6 +19501,28 @@
       <e><p>          <l>ohouce</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>ohouce</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="mus/et__vaux">
+      <e><p>          <l>et</l><r>et<s n="vaux"/><s n="imperf"/><s n="inf"/></r></p></e>
+
+      <e><p>          <l>ím</l><r>et<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íš</l><r>et<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>í</l><r>et<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íme</l><r>et<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>íte</l><r>et<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ejí</l><r>et<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="LR"><p>   <l>í</l><r>et<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>el</l><r>et<s n="vaux"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>ejíc</l><r>et<s n="vaux"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="dalš/í__BASE"/></e>
+
+      <e><p>          <l>eje</l><r>et<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>eje</l><r>et<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ejíc</l><r>et<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ejíc</l><r>et<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ejíce</l><r>et<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ejíce</l><r>et<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ejíce</l><r>et<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="třeba__vaux">
       <e><p><l></l><r><s n="vaux"/></r></p></e>
     </pardef>
@@ -24441,6 +24463,7 @@
     <e><p><l>není</l><r>ne<s n="adv"/><j/>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="mít"><par n="v_neg"/><i>m</i><par n="m/ít__vbhaver"/></e>
     <e lm="moci"><par n="v_neg"/><i>m</i><par n="m/oci__vaux"/></e>
+    <e lm="muset"><par n="v_neg"/><i>mus</i><par n="mus/et__vaux"/></e>
     <e lm="třeba"><par n="v_neg"/><i>třeba</i><par n="třeba__vaux"/></e>
     <e lm="možna"><par n="v_neg"/><i>možna</i><par n="třeba__vaux"/></e>
 

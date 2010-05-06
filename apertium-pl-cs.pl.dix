@@ -15095,6 +15095,59 @@
       </e>
 
     </pardef>
+    <pardef n="mus/ieć__vaux">
+      <e>
+        <p>
+          <l>ieć</l>
+          <r>ieć<s n="vaux"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+
+      <!-- Present -->
+      <e>
+        <p>
+          <l>zę</l>
+          <r>ieć<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ieć<s n="vaux"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>zą</l>
+          <r>ieć<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>i</l>
+          <r>ieć<s n="vaux"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__wiedziałem"/>
+      </e>
+
+      <e>
+        <p>
+          <l>ząc</l>
+          <r>ieć<s n="vaux"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>ząc</l>
+          <r>ieć<s n="vaux"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+
+    </pardef>
     <pardef n="powin/ien__vaux">
       <e>
         <p>
@@ -38757,6 +38810,7 @@
     <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="mieć"><i>m</i><par n="m/ieć__vbhaver"/></e>
     <e lm="móc"><i>m</i><par n="m/óc__vaux"/></e>
+    <e lm="musieć"><i>mus</i><par n="mus/ieć__vaux"/></e>
     <e lm="trzeba"><i>trzeba</i><par n="trzeba__vaux"/></e>
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
