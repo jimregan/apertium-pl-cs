@@ -33399,92 +33399,6 @@
         </p>
       </e>
     </pardef>
-    <pardef n="młot/ek__n">
-      <e>
-        <p>
-          <l>ek</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ka</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>kowi</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>kiem</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ku</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ku</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ki</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ków</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>kom</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>kami</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>kach</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ek</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ki</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ki</l>
-          <r>ek<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="miech__n">
       <e>
         <p>
@@ -38949,7 +38863,113 @@
     <e lm="wyjątek"><i>wyjąt</i><par n="stat/ek__n"/></e>
     <e lm="związek"><i>związ</i><par n="stat/ek__n"/></e>
     <e lm="minus"><i>minus</i><par n="minus__n"/></e>
+    <e lm="kłos"><i>kłos</i><par n="minus__n"/></e>
+    <e lm="komin"><i>komin</i><par n="minus__n"/></e>
+    <e lm="kręgosłup"><i>kręgosłup</i><par n="minus__n"/></e>
+    <e lm="melon"><i>melon</i><par n="minus__n"/></e>
+    <e lm="nos"><i>nos</i><par n="minus__n"/></e>
+    <e lm="ogon"><i>ogon</i><par n="minus__n"/></e>
+    <e lm="plus"><i>plus</i><par n="minus__n"/></e>
+    <e lm="sierp"><i>sierp</i><par n="minus__n"/></e>
+    <e lm="tulipan"><i>tulipan</i><par n="minus__n"/></e>
+    <e lm="tuzin"><i>tuzin</i><par n="minus__n"/></e>
+    <e lm="włos"><i>włos</i><par n="minus__n"/></e>
     <e lm="ambulans"><i>ambulans</i><par n="sklep__n"/></e>
+
+    <e lm="adres"><i>adres</i><par n="sklep__n"/></e>
+    <e lm="algorytm"><i>algorytm</i><par n="sklep__n"/></e>
+    <e lm="aminokwas"><i>aminokwas</i><par n="sklep__n"/></e>
+    <e lm="anagram"><i>anagram</i><par n="sklep__n"/></e>
+    <e lm="antonim"><i>antonim</i><par n="sklep__n"/></e>
+    <e lm="apostrof"><i>apostrof</i><par n="sklep__n"/></e>
+    <e lm="atlas"><i>atlas</i><par n="sklep__n"/></e>
+    <e lm="balkon"><i>balkon</i><par n="sklep__n"/></e>
+    <e lm="balon"><i>balon</i><par n="sklep__n"/></e>
+    <e lm="batyskaf"><i>batyskaf</i><par n="sklep__n"/></e>
+    <e lm="boks"><i>boks</i><par n="sklep__n"/></e>
+    <e lm="butan"><i>butan</i><par n="sklep__n"/></e>
+    <e lm="czyn"><i>czyn</i><par n="sklep__n"/></e>
+    <e lm="dowcip"><i>dowcip</i><par n="sklep__n"/></e>
+    <e lm="dym"><i>dym</i><par n="sklep__n"/></e>
+    <e lm="dyplom"><i>dyplom</i><par n="sklep__n"/></e>
+    <e lm="dywan"><i>dywan</i><par n="sklep__n"/></e>
+    <e lm="dzwon"><i>dzwon</i><par n="sklep__n"/></e>
+    <e lm="dżem"><i>dżem</i><par n="sklep__n"/></e>
+    <e lm="egzorcyzm"><i>egzorcyzm</i><par n="sklep__n"/></e>
+    <e lm="elektron"><i>elektron</i><par n="sklep__n"/></e>
+    <e lm="enzym"><i>enzym</i><par n="sklep__n"/></e>
+    <e lm="etap"><i>etap</i><par n="sklep__n"/></e>
+    <e lm="eufemizm"><i>eufemizm</i><par n="sklep__n"/></e>
+    <e lm="film"><i>film</i><par n="sklep__n"/></e>
+    <e lm="fonem"><i>fonem</i><par n="sklep__n"/></e>
+    <e lm="foton"><i>foton</i><par n="sklep__n"/></e>
+    <e lm="gaz"><i>gaz</i><par n="sklep__n"/></e>
+    <e lm="gen"><i>gen</i><par n="sklep__n"/></e>
+    <e lm="głos"><i>głos</i><par n="sklep__n"/></e>
+    <e lm="hałas"><i>hałas</i><par n="sklep__n"/></e>
+    <e lm="harmonogram"><i>harmonogram</i><par n="sklep__n"/></e>
+    <e lm="hełm"><i>hełm</i><par n="sklep__n"/></e>
+    <e lm="herb"><i>herb</i><par n="sklep__n"/></e>
+    <e lm="horoskop"><i>horoskop</i><par n="sklep__n"/></e>
+    <e lm="iloczyn"><i>iloczyn</i><par n="sklep__n"/></e>
+    <e lm="iloraz"><i>iloraz</i><par n="sklep__n"/></e>
+    <e lm="karabin"><i>karabin</i><par n="sklep__n"/></e>
+    <e lm="keczup"><i>keczup</i><par n="sklep__n"/></e>
+    <e lm="klakson"><i>klakson</i><par n="sklep__n"/></e>
+    <e lm="klawesyn"><i>klawesyn</i><par n="sklep__n"/></e>
+    <e lm="klub"><i>klub</i><par n="sklep__n"/></e>
+    <e lm="konkurs"><i>konkurs</i><par n="sklep__n"/></e>
+    <e lm="kontrabas"><i>kontrabas</i><par n="sklep__n"/></e>
+    <e lm="kryzys"><i>kryzys</i><par n="sklep__n"/></e>
+    <e lm="kwiatostan"><i>kwiatostan</i><par n="sklep__n"/></e>
+    <e lm="leksem"><i>leksem</i><par n="sklep__n"/></e>
+    <e lm="logarytm"><i>logarytm</i><par n="sklep__n"/></e>
+    <e lm="magazyn"><i>magazyn</i><par n="sklep__n"/></e>
+    <e lm="magnes"><i>magnes</i><par n="sklep__n"/></e>
+    <e lm="magnetofon"><i>magnetofon</i><par n="sklep__n"/></e>
+    <e lm="mechanizm"><i>mechanizm</i><par n="sklep__n"/></e>
+    <e lm="morfem"><i>morfem</i><par n="sklep__n"/></e>
+    <e lm="nerw"><i>nerw</i><par n="sklep__n"/></e>
+    <e lm="notes"><i>notes</i><par n="sklep__n"/></e>
+    <e lm="obraz"><i>obraz</i><par n="sklep__n"/></e>
+    <e lm="okres"><i>okres</i><par n="sklep__n"/></e>
+    <e lm="okup"><i>okup</i><par n="sklep__n"/></e>
+    <e lm="orgazm"><i>orgazm</i><par n="sklep__n"/></e>
+    <e lm="paradoks"><i>paradoks</i><par n="sklep__n"/></e>
+    <e lm="płyn"><i>płyn</i><par n="sklep__n"/></e>
+    <e lm="podpis"><i>podpis</i><par n="sklep__n"/></e>
+    <e lm="pogrzeb"><i>pogrzeb</i><par n="sklep__n"/></e>
+    <e lm="poziom"><i>poziom</i><par n="sklep__n"/></e>
+    <e lm="przepis"><i>przepis</i><par n="sklep__n"/></e>
+    <e lm="puzon"><i>puzon</i><par n="sklep__n"/></e>
+    <e lm="remis"><i>remis</i><par n="sklep__n"/></e>
+    <e lm="romb"><i>romb</i><par n="sklep__n"/></e>
+    <e lm="rubin"><i>rubin</i><par n="sklep__n"/></e>
+    <e lm="rum"><i>rum</i><par n="sklep__n"/></e>
+    <e lm="saksofon"><i>saksofon</i><par n="sklep__n"/></e>
+    <e lm="skarb"><i>skarb</i><par n="sklep__n"/></e>
+    <e lm="sklep"><i>sklep</i><par n="sklep__n"/></e>
+    <e lm="slup"><i>slup</i><par n="sklep__n"/></e>
+    <e lm="spadochron"><i>spadochron</i><par n="sklep__n"/></e>
+    <e lm="stadion"><i>stadion</i><par n="sklep__n"/></e>
+    <e lm="staw"><i>staw</i><par n="sklep__n"/></e>
+    <e lm="syrop"><i>syrop</i><par n="sklep__n"/></e>
+    <e lm="szablon"><i>szablon</i><par n="sklep__n"/></e>
+    <e lm="szampon"><i>szampon</i><par n="sklep__n"/></e>
+    <e lm="szum"><i>szum</i><par n="sklep__n"/></e>
+    <e lm="tajfun"><i>tajfun</i><par n="sklep__n"/></e>
+    <e lm="teleskop"><i>teleskop</i><par n="sklep__n"/></e>
+    <e lm="tłum"><i>tłum</i><par n="sklep__n"/></e>
+    <e lm="tom"><i>tom</i><par n="sklep__n"/></e>
+    <e lm="ton"><i>ton</i><par n="sklep__n"/></e>
+    <e lm="trapez"><i>trapez</i><par n="sklep__n"/></e>
+    <e lm="tryb"><i>tryb</i><par n="sklep__n"/></e>
+    <e lm="wiąz"><i>wiąz</i><par n="sklep__n"/></e>
+    <e lm="wielomian"><i>wielomian</i><par n="sklep__n"/></e>
+    <e lm="wpływ"><i>wpływ</i><par n="sklep__n"/></e>
+    <e lm="wstęp"><i>wstęp</i><par n="sklep__n"/></e>
+    <e lm="zlew"><i>zlew</i><par n="sklep__n"/></e>
+    <e lm="życiorys"><i>życiorys</i><par n="sklep__n"/></e>
     <e lm="ekran"><i>ekran</i><par n="sklep__n"/></e>
     <e lm="faks"><i>faks</i><par n="sklep__n"/></e> <!-- check -->
     <e lm="grab"><i>grab</i><par n="sklep__n"/></e>
@@ -39248,6 +39268,7 @@
     <e lm="pustynia"><i>pusty</i><par n="pusty/nia__n"/></e>
     <e lm="flaga"><i>fla</i><par n="fla/ga__n"/></e>
     <e lm="sobota"><i>sob</i><par n="sob/ota__n"/></e>
+    <e lm="artykuł"><i>artyku</i><par n="wa/ł__n"/></e>
     <e lm="viagra"><i>viagr</i><par n="viagr/a__n"/></e>
     <e lm="chmura"><i>chmur</i><par n="viagr/a__n"/></e>
     <e lm="temperatura"><i>temperatur</i><par n="viagr/a__n"/></e>
@@ -39367,6 +39388,24 @@
     <e lm="czas"><i>czas</i><par n="sklep__n"/></e>
     <e lm="świat"><i>świ</i><par n="świ/at__n"/></e>
     <e lm="luty"><i>lut</i><par n="lut/y__n"/></e>
+    <e lm="mostek"><i>most</i><par n="młot/ek__n"/></e>
+    <e lm="móżdżek"><i>móżdż</i><par n="młot/ek__n"/></e>
+    <e lm="nadgarstek"><i>nadgarst</i><par n="młot/ek__n"/></e>
+    <e lm="napletek"><i>naplet</i><par n="młot/ek__n"/></e>
+    <e lm="pępek"><i>pęp</i><par n="młot/ek__n"/></e>
+    <e lm="podbródek"><i>podbród</i><par n="młot/ek__n"/></e>
+    <e lm="policzek"><i>policz</i><par n="młot/ek__n"/></e>
+    <e lm="pośladek"><i>poślad</i><par n="młot/ek__n"/></e>
+    <e lm="przecinek"><i>przecin</i><par n="młot/ek__n"/></e>
+    <e lm="przyimek"><i>przyim</i><par n="młot/ek__n"/></e>
+    <e lm="przysłówek"><i>przysłów</i><par n="młot/ek__n"/></e>
+    <e lm="sznurek"><i>sznur</i><par n="młot/ek__n"/></e>
+    <e lm="środek"><i>środ</i><par n="młot/ek__n"/></e>
+    <e lm="worek"><i>wor</i><par n="młot/ek__n"/></e>
+    <e lm="zaimek"><i>zaim</i><par n="młot/ek__n"/></e>
+    <e lm="zegarek"><i>zegar</i><par n="młot/ek__n"/></e>
+    <e lm="żołądek"><i>żołąd</i><par n="młot/ek__n"/></e>
+    <e lm="młotek"><i>młot</i><par n="młot/ek__n"/></e>
     <e lm="statek"><i>stat</i><par n="stat/ek__n"/></e>
     <e lm="cudzysłów"><i>cudzysł</i><par n="cudzysł/ów__n"/></e>
     <e lm="bat"><i>ba</i><par n="ba/t__n"/></e>
@@ -39445,6 +39484,7 @@
     <e lm="kompas"><i>kompas</i><par n="sklep__n"/></e>
     <e lm="drzewo"><i>drzew</i><par n="piw/o__n"/></e>
     <e lm="piwo"><i>piw</i><par n="piw/o__n"/></e>
+    <e lm="różnica"><i>różnic</i><par n="ulic/a__n"/></e>
     <e lm="praca"><i>prac</i><par n="ulic/a__n"/></e>
     <e lm="mgławica"><i>mgławic</i><par n="ulic/a__n"/></e>
     <e lm="tablica"><i>tablic</i><par n="ulic/a__n"/></e>
@@ -39467,6 +39507,7 @@
     <e lm="list"><i>li</i><par n="amety/st__n"/></e>
     <e lm="pacjent"><i>pacjen</i><par n="studen/t__n"/></e>
     <e lm="umiejętność"><i>umiejętnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="czynność"><i>czynnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="chciwość"><i>chciwoś</i><par n="miłoś/ć__n"/></e>
     <e lm="częstotliwość"><i>częstotliwoś</i><par n="miłoś/ć__n"/></e>
     <e lm="długość"><i>długoś</i><par n="miłoś/ć__n"/></e>
@@ -39494,6 +39535,12 @@
     <e lm="większość"><i>większoś</i><par n="miłoś/ć__n"/></e>
     <e lm="własność"><i>własnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="twarz"><i>twarz</i><par n="noc__n"/></e>
+    <e lm="ciecz"><i>ciecz</i><par n="noc__n"/></e>
+    <e lm="klacz"><i>klacz</i><par n="noc__n"/></e>
+    <e lm="kradzież"><i>kradzież</i><par n="noc__n"/></e>
+    <e lm="macierz"><i>macierz</i><par n="noc__n"/></e>
+    <e lm="podróż"><i>podróż</i><par n="noc__n"/></e>
+    <e lm="smycz"><i>smycz</i><par n="noc__n"/></e>
     <e lm="muzułmanin"><i>muzułman</i><par n="Afrykan/in__n"/></e>
     <e lm="łodyga"><i>łody</i><par n="fla/ga__n"/></e>
     <e lm="zawód"><i>zaw</i><par n="samoch/ód__n"/></e>
@@ -39502,6 +39549,30 @@
     <e lm="ognisko"><i>ognisk</i><par n="wojsk/o__n"/></e>
     <e lm="sosna"><i>so</i><par n="wio/sna__n"/></e>
     <e lm="pułkownik"><i>pułkowni</i><par n="Pola/k__n"/></e>
+    <e lm="agnostyk"><i>agnosty</i><par n="Pola/k__n"/></e>
+    <e lm="alkoholik"><i>alkoholi</i><par n="Pola/k__n"/></e>
+    <e lm="Austriak"><i>Austria</i><par n="Pola/k__n"/></e>
+    <e lm="historyk"><i>history</i><par n="Pola/k__n"/></e>
+    <e lm="kierownik"><i>kierowni</i><par n="Pola/k__n"/></e>
+    <e lm="laik"><i>lai</i><par n="Pola/k__n"/></e>
+    <e lm="łucznik"><i>łuczni</i><par n="Pola/k__n"/></e>
+    <e lm="muzyk"><i>muzy</i><par n="Pola/k__n"/></e>
+    <e lm="niewolnik"><i>niewolni</i><par n="Pola/k__n"/></e>
+    <e lm="ogrodnik"><i>ogrodni</i><par n="Pola/k__n"/></e>
+    <e lm="polityk"><i>polity</i><par n="Pola/k__n"/></e>
+    <e lm="pracownik"><i>pracowni</i><par n="Pola/k__n"/></e>
+    <e lm="robotnik"><i>robotni</i><par n="Pola/k__n"/></e>
+    <e lm="rolnik"><i>rolni</i><par n="Pola/k__n"/></e>
+    <e lm="rybak"><i>ryba</i><par n="Pola/k__n"/></e>
+    <e lm="rzemieślnik"><i>rzemieślni</i><par n="Pola/k__n"/></e>
+    <e lm="rzeźnik"><i>rzeźni</i><par n="Pola/k__n"/></e>
+    <e lm="Słowak"><i>Słowa</i><par n="Pola/k__n"/></e>
+    <e lm="strażak"><i>straża</i><par n="Pola/k__n"/></e>
+    <e lm="strażnik"><i>strażni</i><par n="Pola/k__n"/></e>
+    <e lm="użytkownik"><i>użytkowni</i><par n="Pola/k__n"/></e>
+    <e lm="zakładnik"><i>zakładni</i><par n="Pola/k__n"/></e>
+    <e lm="złotnik"><i>złotni</i><par n="Pola/k__n"/></e>
+    <e lm="żebrak"><i>żebra</i><par n="Pola/k__n"/></e>
     <e lm="trójkąt"><i>trójką</i><par n="ba/t__n"/></e>
     <e lm="bajt"><i>baj</i><par n="ba/t__n"/></e>
     <e lm="osoba"><i>os</i><par n="d/oba__n"/></e>
@@ -39574,6 +39645,7 @@
     <e lm="owoc"><i>owoc</i><par n="gaj__n"/></e>
     <e lm="pałac"><i>pałac</i><par n="gaj__n"/></e>
     <e lm="szkic"><i>szkic</i><par n="gaj__n"/></e>
+    <e lm="kraj"><i>kraj</i><par n="gaj__n"/></e> 
     <e lm="aborcja"><i>aborc</i><par n="dysertac/ja__n"/></e>
     <e lm="deklaracja"><i>deklarac</i><par n="dysertac/ja__n"/></e>
     <e lm="absolutyzacja"><i>absolutyzac</i><par n="dysertac/ja__n"/></e>
@@ -40155,7 +40227,6 @@
     <e lm="czlenitość"><i>czlenitoś</i><par n="miłoś/ć__n"/></e>
     <e lm="czujność"><i>czujnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="czułość"><i>czułoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="czynność"><i>czynnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="defensywność"><i>defensywnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="definitywność"><i>definitywnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="deklaratywność"><i>deklaratywnoś</i><par n="miłoś/ć__n"/></e>
