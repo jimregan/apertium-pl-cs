@@ -24445,6 +24445,7 @@
     <e lm="možna"><par n="v_neg"/><i>možna</i><par n="třeba__vaux"/></e>
 
     <e lm="číst"><par n="v_neg"/><i>č</i><par n="č/íst__vblex"/></e>
+    <e lm="přečíst"><par n="v_neg"/><i>přeč</i><par n="přeč/íst__vblex"/></e>
     <e lm="vědět"><par n="v_neg"/><i>v</i><par n="v/ědět__vblex"/></e>
     <e lm="napsat"><par n="v_neg"/><i>naps</i><par n="naps/at__vblex"/></e>
     <e lm="chtít"><par n="v_neg"/><i>ch</i><par n="ch/tít__vblex"/></e>
@@ -24461,6 +24462,10 @@
     <e lm="dávat"><par n="v_neg"/><i>dáv</i><par n="dáv/at__vblex"/></e>
     <e lm="péci"><par n="v_neg"/><i>p</i><par n="p/éci__vblex"/></e>
     <e lm="vézt"><par n="v_neg"/><i>v</i><par n="v/ézt__vblex"/></e>
+    <e lm="hnát"><par n="v_neg"/><i></i><par n="/hnát__vblex"/></e>
+    <e lm="hrát"><par n="v_neg"/><i>hr</i><par n="hr/át__vblex"/></e>
+    <e lm="žít"><par n="v_neg"/><i>ž</i><par n="ž/ít__vblex"/></e>
+    <e lm="krýt"><par n="v_neg"/><i>kr</i><par n="kr/ýt__vblex"/></e>
 
     <!-- Proper nouns -->
   
