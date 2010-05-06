@@ -39388,10 +39388,99 @@
     <e lm="minuta"><i>minu</i><par n="cha/ta__n"/></e>
     <e lm="planeta"><i>plane</i><par n="cha/ta__n"/></e>
     <e lm="reszta"><i>resz</i><par n="cha/ta__n"/></e>
-    
     <e lm="fala"><i>fal</i><par n="fal/a__n"/></e>
     <e lm="niedziela"><i>niedziel</i><par n="fal/a__n"/></e>
-
+    <e lm="agat"><i>aga</i><par n="hi/t__n"/></e>
+    <e lm="alfabet"><i>alfabe</i><par n="hi/t__n"/></e>
+    <e lm="amulet"><i>amule</i><par n="hi/t__n"/></e>
+    <e lm="aspekt"><i>aspek</i><par n="hi/t__n"/></e>
+    <e lm="bagnet"><i>bagne</i><par n="hi/t__n"/></e>
+    <e lm="bazalt"><i>bazal</i><par n="hi/t__n"/></e>
+    <e lm="budżet"><i>budże</i><par n="hi/t__n"/></e>
+    <e lm="celibat"><i>celiba</i><par n="hi/t__n"/></e>
+    <e lm="cytat"><i>cyta</i><par n="hi/t__n"/></e>
+    <e lm="dokument"><i>dokumen</i><par n="hi/t__n"/></e>
+    <e lm="dramat"><i>drama</i><par n="hi/t__n"/></e>
+    <e lm="drut"><i>dru</i><par n="hi/t__n"/></e>
+    <e lm="Egipt"><i>Egip</i><par n="hi/t__n"/></e>
+    <e lm="fagot"><i>fago</i><par n="hi/t__n"/></e>
+    <e lm="fakt"><i>fak</i><par n="hi/t__n"/></e>
+    <e lm="flet"><i>fle</i><par n="hi/t__n"/></e>
+    <e lm="granit"><i>grani</i><par n="hi/t__n"/></e>
+    <e lm="gwałt"><i>gwał</i><par n="hi/t__n"/></e>
+    <e lm="horyzont"><i>horyzon</i><par n="hi/t__n"/></e>
+    <e lm="jogurt"><i>jogur</i><par n="hi/t__n"/></e>
+    <e lm="klimat"><i>klima</i><par n="hi/t__n"/></e>
+    <e lm="komitet"><i>komite</i><par n="hi/t__n"/></e>
+    <e lm="kontynent"><i>kontynen</i><par n="hi/t__n"/></e>
+    <e lm="kształt"><i>kształ</i><par n="hi/t__n"/></e>
+    <e lm="labirynt"><i>labiryn</i><par n="hi/t__n"/></e>
+    <e lm="maszt"><i>masz</i><par n="hi/t__n"/></e>
+    <e lm="muszkiet"><i>muszkie</i><par n="hi/t__n"/></e>
+    <e lm="namiot"><i>namio</i><par n="hi/t__n"/></e>
+    <e lm="paradygmat"><i>paradygma</i><par n="hi/t__n"/></e>
+    <e lm="parlament"><i>parlamen</i><par n="hi/t__n"/></e>
+    <e lm="pasztet"><i>paszte</i><par n="hi/t__n"/></e>
+    <e lm="pat"><i>pa</i><par n="hi/t__n"/></e>
+    <e lm="pistolet"><i>pistole</i><par n="hi/t__n"/></e>
+    <e lm="plakat"><i>plaka</i><par n="hi/t__n"/></e>
+    <e lm="płot"><i>pło</i><par n="hi/t__n"/></e>
+    <e lm="podmiot"><i>podmio</i><par n="hi/t__n"/></e>
+    <e lm="port"><i>por</i><par n="hi/t__n"/></e>
+    <e lm="prezent"><i>prezen</i><par n="hi/t__n"/></e>
+    <e lm="projekt"><i>projek</i><par n="hi/t__n"/></e>
+    <e lm="punkt"><i>punk</i><par n="hi/t__n"/></e>
+    <e lm="raport"><i>rapor</i><par n="hi/t__n"/></e>
+    <e lm="sakrament"><i>sakramen</i><par n="hi/t__n"/></e>
+    <e lm="sport"><i>spor</i><par n="hi/t__n"/></e>
+    <e lm="start"><i>star</i><par n="hi/t__n"/></e>
+    <e lm="sufit"><i>sufi</i><par n="hi/t__n"/></e>
+    <e lm="szczyt"><i>szczy</i><par n="hi/t__n"/></e>
+    <e lm="świt"><i>świ</i><par n="hi/t__n"/></e>
+    <e lm="temat"><i>tema</i><par n="hi/t__n"/></e>
+    <e lm="testament"><i>testamen</i><par n="hi/t__n"/></e>
+    <e lm="uniwersytet"><i>uniwersyte</i><par n="hi/t__n"/></e>
+    <e lm="żywopłot"><i>żywopło</i><par n="hi/t__n"/></e>
+    <e lm="gruczoł"><i>gruczo</i><par n="wa/ł__n"/></e>
+    <e lm="inkunabuł"><i>inkunabu</i><par n="wa/ł__n"/></e>
+    <e lm="kanał"><i>kana</i><par n="wa/ł__n"/></e>
+    <e lm="karnawał"><i>karnawa</i><par n="wa/ł__n"/></e>
+    <e lm="kryształ"><i>kryszta</i><par n="wa/ł__n"/></e>
+    <e lm="kwartał"><i>kwarta</i><par n="wa/ł__n"/></e>
+    <e lm="materiał"><i>materia</i><par n="wa/ł__n"/></e>
+    <e lm="oddział"><i>oddzia</i><par n="wa/ł__n"/></e>
+    <e lm="podział"><i>podzia</i><par n="wa/ł__n"/></e>
+    <e lm="rozdział"><i>rozdzia</i><par n="wa/ł__n"/></e>
+    <e lm="rytuał"><i>rytua</i><par n="wa/ł__n"/></e>
+    <e lm="strzał"><i>strza</i><par n="wa/ł__n"/></e>
+    <e lm="tył"><i>ty</i><par n="wa/ł__n"/></e>
+    <e lm="tytuł"><i>tytu</i><par n="wa/ł__n"/></e>
+    <e lm="dochód"><i>doch</i><par n="samoch/ód__n"/></e>
+    <e lm="lód"><i>l</i><par n="samoch/ód__n"/></e>
+    <e lm="moczowód"><i>moczow</i><par n="samoch/ód__n"/></e>
+    <e lm="naród"><i>nar</i><par n="samoch/ód__n"/></e>
+    <e lm="ogród"><i>ogr</i><par n="samoch/ód__n"/></e>
+    <e lm="poród"><i>por</i><par n="samoch/ód__n"/></e>
+    <e lm="rozwód"><i>rozw</i><par n="samoch/ód__n"/></e>
+    <e lm="wschód"><i>wsch</i><par n="samoch/ód__n"/></e>
+    <e lm="zachód"><i>zach</i><par n="samoch/ód__n"/></e>
+    <e lm="czerwiec"><i>czerw</i><par n="lip/iec__n"/></e>
+    <e lm="kawowiec"><i>kawow</i><par n="lip/iec__n"/></e>
+    <e lm="parowiec"><i>parow</i><par n="lip/iec__n"/></e>
+    <e lm="wieżowiec"><i>wieżow</i><par n="lip/iec__n"/></e>
+    <e lm="żaglowiec"><i>żaglow</i><par n="lip/iec__n"/></e>
+    <e lm="arcybiskup"><i>arcybiskup</i><par n="kretyn__n"/></e>
+    <e lm="biskup"><i>biskup</i><par n="kretyn__n"/></e>
+    <e lm="dżentelmen"><i>dżentelmen</i><par n="kretyn__n"/></e>
+    <e lm="klaun"><i>klaun</i><par n="kretyn__n"/></e>
+    <e lm="murzyn"><i>murzyn</i><par n="kretyn__n"/></e>
+    <e lm="olbrzym"><i>olbrzym</i><par n="kretyn__n"/></e>
+    <e lm="pielgrzym"><i>pielgrzym</i><par n="kretyn__n"/></e>
+    <e lm="jagnię"><i>jagni</i><par n="zwierz/ę__n"/></e>
+    <e lm="niemowlę"><i>niemowl</i><par n="zwierz/ę__n"/></e>
+    <e lm="pisklę"><i>piskl</i><par n="zwierz/ę__n"/></e>
+    <e lm="plemię"><i>plemi</i><par n="imi/ę__n"/></e>
+    <e lm="celnik"><i>celni</i><par n="Pola/k__n"/></e>
     <e lm="chata"><i>cha</i><par n="cha/ta__n"/></e>
     <e lm="aorta"><i>aor</i><par n="cha/ta__n"/></e>
     <e lm="batuta"><i>batu</i><par n="cha/ta__n"/></e>
