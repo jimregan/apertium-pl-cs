@@ -38858,6 +38858,29 @@
     <e lm="adwent"><i>adwen</i><par n="hi/t__n"/></e>
     <e lm="akcent"><i>akcen</i><par n="hi/t__n"/></e>
     <e lm="czwartek"><i>czwart</i><par n="stat/ek__n"/></e>
+    <e lm="budynek"><i>budyn</i><par n="stat/ek__n"/></e>
+    <e lm="czosnek"><i>czosn</i><par n="stat/ek__n"/></e>
+    <e lm="dodatek"><i>dodat</i><par n="stat/ek__n"/></e>
+    <e lm="gatunek"><i>gatun</i><par n="stat/ek__n"/></e>
+    <e lm="kierunek"><i>kierun</i><par n="stat/ek__n"/></e>
+    <e lm="napiwek"><i>napiw</i><par n="stat/ek__n"/></e>
+    <e lm="obowiązek"><i>obowiąz</i><par n="stat/ek__n"/></e>
+    <e lm="pocałunek"><i>pocałun</i><par n="stat/ek__n"/></e>
+    <e lm="początek"><i>począt</i><par n="stat/ek__n"/></e>
+    <e lm="podatek"><i>podat</i><par n="stat/ek__n"/></e>
+    <e lm="poniedziałek"><i>poniedział</i><par n="stat/ek__n"/></e>
+    <e lm="posiłek"><i>posił</i><par n="stat/ek__n"/></e>
+    <e lm="rachunek"><i>rachun</i><par n="stat/ek__n"/></e>
+    <e lm="rynek"><i>ryn</i><par n="stat/ek__n"/></e>
+    <e lm="rysunek"><i>rysun</i><par n="stat/ek__n"/></e>
+    <e lm="spadek"><i>spad</i><par n="stat/ek__n"/></e>
+    <e lm="szczypiorek"><i>szczypior</i><par n="stat/ek__n"/></e>
+    <e lm="upadek"><i>upad</i><par n="stat/ek__n"/></e>
+    <e lm="warunek"><i>warun</i><par n="stat/ek__n"/></e>
+    <e lm="wątek"><i>wąt</i><par n="stat/ek__n"/></e>
+    <e lm="wypadek"><i>wypad</i><par n="stat/ek__n"/></e>
+    <e lm="wysiłek"><i>wysił</i><par n="stat/ek__n"/></e>
+    <e lm="zamek"><i>zam</i><par n="stat/ek__n"/></e>
     <e lm="piątek"><i>piąt</i><par n="stat/ek__n"/></e>
     <e lm="wtorek"><i>wtor</i><par n="stat/ek__n"/></e>
     <e lm="wyjątek"><i>wyjąt</i><par n="stat/ek__n"/></e>
@@ -39158,6 +39181,14 @@
     <e lm="wojsko"><i>wojsk</i><par n="wojsk/o__n"/></e>
     <e lm="jabłko"><i>jabł</i><par n="jabł/ko__n"/></e>
     <e lm="jabłko Adama"><i>jabł</i><par n="jabł/ko__n"/><p><l><b/>Adama</l><r><g><b/>Adama</g></r></p></e>
+    <e lm="białko"><i>biał</i><par n="jabł/ko__n"/></e>
+    <e lm="biurko"><i>biur</i><par n="jabł/ko__n"/></e>
+    <e lm="gniazdko"><i>gniazd</i><par n="jabł/ko__n"/></e>
+    <e lm="jajko"><i>jaj</i><par n="jabł/ko__n"/></e>
+    <e lm="kaczątko"><i>kacząt</i><par n="jabł/ko__n"/></e>
+    <e lm="sitko"><i>sit</i><par n="jabł/ko__n"/></e>
+    <e lm="żelazko"><i>żelaz</i><par n="jabł/ko__n"/></e>
+    <e lm="żółtko"><i>żółt</i><par n="jabł/ko__n"/></e>
     <e lm="mleko"><i>mlek</i><par n="wojsk/o__n"/></e>
     <e lm="auto"><i>au</i><par n="au/to__n"/></e>
     <e lm="niebo"><i>nieb</i><par n="nieb/o__n"/></e>
@@ -39167,6 +39198,27 @@
     <e lm="prawo"><i>praw</i><par n="piw/o__n"/></e>
     <e lm="rano"><i>ran</i><par n="piw/o__n"/></e>
     <e lm="drzewo"><i>drzew</i><par n="piw/o__n"/></e>
+    <e lm="bóstwo"><i>bóstw</i><par n="piw/o__n"/></e>
+    <e lm="kasyno"><i>kasyn</i><par n="piw/o__n"/></e>
+    <e lm="kino"><i>kin</i><par n="piw/o__n"/></e>
+    <e lm="kłamstwo"><i>kłamstw</i><par n="piw/o__n"/></e>
+    <e lm="kolano"><i>kolan</i><par n="piw/o__n"/></e>
+    <e lm="księstwo"><i>księstw</i><par n="piw/o__n"/></e>
+    <e lm="lekarstwo"><i>lekarstw</i><par n="piw/o__n"/></e>
+    <e lm="ludobójstwo"><i>ludobójstw</i><par n="piw/o__n"/></e>
+    <e lm="małżeństwo"><i>małżeństw</i><par n="piw/o__n"/></e>
+    <e lm="mięso"><i>mięs</i><par n="piw/o__n"/></e>
+    <e lm="morderstwo"><i>morderstw</i><par n="piw/o__n"/></e>
+    <e lm="niebezpieczeństwo"><i>niebezpieczeństw</i><par n="piw/o__n"/></e>
+    <e lm="obywatelstwo"><i>obywatelstw</i><par n="piw/o__n"/></e>
+    <e lm="okrucieństwo"><i>okrucieństw</i><par n="piw/o__n"/></e>
+    <e lm="opactwo"><i>opactw</i><par n="piw/o__n"/></e>
+    <e lm="paliwo"><i>paliw</i><par n="piw/o__n"/></e>
+    <e lm="państwo"><i>państw</i><par n="piw/o__n"/></e>
+    <e lm="pianino"><i>pianin</i><par n="piw/o__n"/></e>
+    <e lm="przestępstwo"><i>przestępstw</i><par n="piw/o__n"/></e>
+    <e lm="samobójstwo"><i>samobójstw</i><par n="piw/o__n"/></e>
+    <e lm="wino"><i>win</i><par n="piw/o__n"/></e>
     <e lm="cudzołóstwo"><i>cudzołóstw</i><par n="piw/o__n"/></e>
     <e lm="królestwo"><i>królestw</i><par n="piw/o__n"/></e>
     <e lm="miasto"><i>mi</i><par n="mi/asto__n"/></e>
@@ -39231,6 +39283,24 @@
     <e lm="kapłan"><i>kapłan</i><par n="kretyn__n"/></e>
     <e lm="rekin"><i>rekin</i><par n="rekin__n"/></e>
     <e lm="wieloryb"><i>wieloryb</i><par n="rekin__n"/></e>
+    <e lm="as"><i>as</i><par n="rekin__n"/></e>
+    <e lm="bizon"><i>bizon</i><par n="rekin__n"/></e>
+    <e lm="bocian"><i>bocian</i><par n="rekin__n"/></e>
+    <e lm="demon"><i>demon</i><par n="rekin__n"/></e>
+    <e lm="gawron"><i>gawron</i><par n="rekin__n"/></e>
+    <e lm="hipopotam"><i>hipopotam</i><par n="rekin__n"/></e>
+    <e lm="kameleon"><i>kameleon</i><par n="rekin__n"/></e>
+    <e lm="kormoran"><i>kormoran</i><par n="rekin__n"/></e>
+    <e lm="krab"><i>krab</i><par n="rekin__n"/></e>
+    <e lm="lis"><i>lis</i><par n="rekin__n"/></e>
+    <e lm="morświn"><i>morświn</i><par n="rekin__n"/></e>
+    <e lm="pelikan"><i>pelikan</i><par n="rekin__n"/></e>
+    <e lm="płaz"><i>płaz</i><par n="rekin__n"/></e>
+    <e lm="sęp"><i>sęp</i><par n="rekin__n"/></e>
+    <e lm="sfinks"><i>sfinks</i><par n="rekin__n"/></e>
+    <e lm="sum"><i>sum</i><par n="rekin__n"/></e>
+    <e lm="szympans"><i>szympans</i><par n="rekin__n"/></e>
+    <e lm="tygrys"><i>tygrys</i><par n="rekin__n"/></e>
     <e lm="penis"><i>penis</i><par n="rekin__n"/></e>
     <e lm="pingwin"><i>pingwin</i><par n="rekin__n"/></e>    
     <e lm="robot"><i>robo</i><par n="robo/t__n"/></e>
@@ -39518,6 +39588,14 @@
     <e lm="wieś"><i>w</i><par n="w/ieś__n"/></e>
     <e lm="jesień"><i>jesie</i><par n="jesie/ń__n"/></e>
     <e lm="broń"><i>bro</i><par n="jesie/ń__n"/></e>
+    <e lm="czasoprzestrzeń"><i>czasoprzestrze</i><par n="jesie/ń__n"/></e>
+    <e lm="czerwień"><i>czerwie</i><par n="jesie/ń__n"/></e>
+    <e lm="jabłoń"><i>jabło</i><par n="jesie/ń__n"/></e>
+    <e lm="kieszeń"><i>kiesze</i><par n="jesie/ń__n"/></e>
+    <e lm="krtań"><i>krta</i><par n="jesie/ń__n"/></e>
+    <e lm="otchłań"><i>otchła</i><par n="jesie/ń__n"/></e>
+    <e lm="przyjaźń"><i>przyjaź</i><par n="jesie/ń__n"/></e>
+    <e lm="zieleń"><i>ziele</i><par n="jesie/ń__n"/></e>
     <e lm="dłoń"><i>dło</i><par n="dło/ń__n"/></e>
     <e lm="cześć"><i>cz</i><par n="cz/eść__n"/></e>
     <e lm="ćma"><i></i><par n="/ćma__n"/></e>
@@ -39629,6 +39707,13 @@
     <e lm="zegarek"><i>zegar</i><par n="młot/ek__n"/></e>
     <e lm="żołądek"><i>żołąd</i><par n="młot/ek__n"/></e>
     <e lm="młotek"><i>młot</i><par n="młot/ek__n"/></e>
+    <e lm="dwukropek"><i>dwukrop</i><par n="młot/ek__n"/></e>
+    <e lm="dzwonek"><i>dzwon</i><par n="młot/ek__n"/></e>
+    <e lm="języczek"><i>języcz</i><par n="młot/ek__n"/></e>
+    <e lm="kawałek"><i>kawał</i><par n="młot/ek__n"/></e>
+    <e lm="kłębek"><i>kłęb</i><par n="młot/ek__n"/></e>
+    <e lm="kominek"><i>komin</i><par n="młot/ek__n"/></e>
+    <e lm="kubek"><i>kub</i><par n="młot/ek__n"/></e>
     <e lm="statek"><i>stat</i><par n="stat/ek__n"/></e>
     <e lm="cudzysłów"><i>cudzysł</i><par n="cudzysł/ów__n"/></e>
     <e lm="bat"><i>ba</i><par n="ba/t__n"/></e>
@@ -39693,6 +39778,100 @@
     <e lm="buk"><i>buk</i><par n="brzeg__n"/></e>
     <e lm="brzeg"><i>brzeg</i><par n="brzeg__n"/></e>
     <e lm="analiza"><i>analiz</i><par n="analiz/a__n"/></e>
+
+    <e lm="antylopa"><i>antylop</i><par n="analiz/a__n"/></e>
+    <e lm="bomba"><i>bomb</i><par n="analiz/a__n"/></e>
+    <e lm="cipa"><i>cip</i><par n="analiz/a__n"/></e>
+    <e lm="cytryna"><i>cytryn</i><par n="analiz/a__n"/></e>
+    <e lm="dama"><i>dam</i><par n="analiz/a__n"/></e>
+    <e lm="drabina"><i>drabin</i><par n="analiz/a__n"/></e>
+    <e lm="duma"><i>dum</i><par n="analiz/a__n"/></e>
+    <e lm="dupa"><i>dup</i><par n="analiz/a__n"/></e>
+    <e lm="dżuma"><i>dżum</i><par n="analiz/a__n"/></e>
+    <e lm="fontanna"><i>fontann</i><par n="analiz/a__n"/></e>
+    <e lm="fosa"><i>fos</i><par n="analiz/a__n"/></e>
+    <e lm="fotosynteza"><i>fotosyntez</i><par n="analiz/a__n"/></e>
+    <e lm="grupa"><i>grup</i><par n="analiz/a__n"/></e>
+    <e lm="grypa"><i>gryp</i><par n="analiz/a__n"/></e>
+    <e lm="grzywa"><i>grzyw</i><par n="analiz/a__n"/></e>
+    <e lm="guma"><i>gum</i><par n="analiz/a__n"/></e>
+    <e lm="harfa"><i>harf</i><par n="analiz/a__n"/></e>
+    <e lm="ikona"><i>ikon</i><par n="analiz/a__n"/></e>
+    <e lm="impreza"><i>imprez</i><par n="analiz/a__n"/></e>
+    <e lm="izba"><i>izb</i><par n="analiz/a__n"/></e>
+    <e lm="jeżyna"><i>jeżyn</i><par n="analiz/a__n"/></e>
+    <e lm="kalarepa"><i>kalarep</i><par n="analiz/a__n"/></e>
+    <e lm="kanapa"><i>kanap</i><par n="analiz/a__n"/></e>
+    <e lm="kasa"><i>kas</i><par n="analiz/a__n"/></e>
+    <e lm="kiełbasa"><i>kiełbas</i><par n="analiz/a__n"/></e>
+    <e lm="klasa"><i>klas</i><par n="analiz/a__n"/></e>
+    <e lm="klątwa"><i>klątw</i><par n="analiz/a__n"/></e>
+    <e lm="kolumna"><i>kolumn</i><par n="analiz/a__n"/></e>
+    <e lm="koniczyna"><i>koniczyn</i><par n="analiz/a__n"/></e>
+    <e lm="kuna"><i>kun</i><par n="analiz/a__n"/></e>
+    <e lm="kupa"><i>kup</i><par n="analiz/a__n"/></e>
+    <e lm="kuropatwa"><i>kuropatw</i><par n="analiz/a__n"/></e>
+    <e lm="laguna"><i>lagun</i><par n="analiz/a__n"/></e>
+    <e lm="lama"><i>lam</i><par n="analiz/a__n"/></e>
+    <e lm="larwa"><i>larw</i><par n="analiz/a__n"/></e>
+    <e lm="lawa"><i>law</i><par n="analiz/a__n"/></e>
+    <e lm="lawina"><i>lawin</i><par n="analiz/a__n"/></e>
+    <e lm="liczba"><i>liczb</i><par n="analiz/a__n"/></e>
+    <e lm="lima"><i>lim</i><par n="analiz/a__n"/></e>
+    <e lm="lina"><i>lin</i><par n="analiz/a__n"/></e>
+    <e lm="malina"><i>malin</i><par n="analiz/a__n"/></e>
+    <e lm="małpa"><i>małp</i><par n="analiz/a__n"/></e>
+    <e lm="mama"><i>mam</i><par n="analiz/a__n"/></e>
+    <e lm="mapa"><i>map</i><par n="analiz/a__n"/></e>
+    <e lm="meduza"><i>meduz</i><par n="analiz/a__n"/></e>
+    <e lm="melisa"><i>melis</i><par n="analiz/a__n"/></e>
+    <e lm="mewa"><i>mew</i><par n="analiz/a__n"/></e>
+    <e lm="modlitwa"><i>modlitw</i><par n="analiz/a__n"/></e>
+    <e lm="morwa"><i>morw</i><par n="analiz/a__n"/></e>
+    <e lm="nimfa"><i>nimf</i><par n="analiz/a__n"/></e>
+    <e lm="obrona"><i>obron</i><par n="analiz/a__n"/></e>
+    <e lm="odmiana"><i>odmian</i><par n="analiz/a__n"/></e>
+    <e lm="odraza"><i>odraz</i><par n="analiz/a__n"/></e>
+    <e lm="opona"><i>opon</i><par n="analiz/a__n"/></e>
+    <e lm="osa"><i>os</i><par n="analiz/a__n"/></e>
+    <e lm="pajęczyna"><i>pajęczyn</i><par n="analiz/a__n"/></e>
+    <e lm="palma"><i>palm</i><par n="analiz/a__n"/></e>
+    <e lm="piżama"><i>piżam</i><par n="analiz/a__n"/></e>
+    <e lm="pokrzywa"><i>pokrzyw</i><par n="analiz/a__n"/></e>
+    <e lm="pompa"><i>pomp</i><par n="analiz/a__n"/></e>
+    <e lm="potrzeba"><i>potrzeb</i><par n="analiz/a__n"/></e>
+    <e lm="prezerwatywa"><i>prezerwatyw</i><par n="analiz/a__n"/></e>
+    <e lm="próba"><i>prób</i><par n="analiz/a__n"/></e>
+    <e lm="reklama"><i>reklam</i><par n="analiz/a__n"/></e>
+    <e lm="rodzina"><i>rodzin</i><par n="analiz/a__n"/></e>
+    <e lm="rzepa"><i>rzep</i><par n="analiz/a__n"/></e>
+    <e lm="rzęsa"><i>rzęs</i><par n="analiz/a__n"/></e>
+    <e lm="scena"><i>scen</i><par n="analiz/a__n"/></e>
+    <e lm="sława"><i>sław</i><par n="analiz/a__n"/></e>
+    <e lm="sprężyna"><i>sprężyn</i><par n="analiz/a__n"/></e>
+    <e lm="sylaba"><i>sylab</i><par n="analiz/a__n"/></e>
+    <e lm="szafa"><i>szaf</i><par n="analiz/a__n"/></e>
+    <e lm="szansa"><i>szans</i><par n="analiz/a__n"/></e>
+    <e lm="ściana"><i>ścian</i><par n="analiz/a__n"/></e>
+    <e lm="ślina"><i>ślin</i><par n="analiz/a__n"/></e>
+    <e lm="śmietana"><i>śmietan</i><par n="analiz/a__n"/></e>
+    <e lm="tama"><i>tam</i><par n="analiz/a__n"/></e>
+    <e lm="taśma"><i>taśm</i><par n="analiz/a__n"/></e>
+    <e lm="trawa"><i>traw</i><par n="analiz/a__n"/></e>
+    <e lm="trzcina"><i>trzcin</i><par n="analiz/a__n"/></e>
+    <e lm="tuba"><i>tub</i><par n="analiz/a__n"/></e>
+    <e lm="warstwa"><i>warstw</i><par n="analiz/a__n"/></e>
+    <e lm="wierzba"><i>wierzb</i><par n="analiz/a__n"/></e>
+    <e lm="witamina"><i>witamin</i><par n="analiz/a__n"/></e>
+    <e lm="wiza"><i>wiz</i><par n="analiz/a__n"/></e>
+    <e lm="wrona"><i>wron</i><par n="analiz/a__n"/></e>
+    <e lm="wymiana"><i>wymian</i><par n="analiz/a__n"/></e>
+    <e lm="zabawa"><i>zabaw</i><par n="analiz/a__n"/></e>
+    <e lm="zięba"><i>zięb</i><par n="analiz/a__n"/></e>
+    <e lm="zmiana"><i>zmian</i><par n="analiz/a__n"/></e>
+    <e lm="zupa"><i>zup</i><par n="analiz/a__n"/></e>
+    <e lm="żona"><i>żon</i><par n="analiz/a__n"/></e>
+    <e lm="żurawina"><i>żurawin</i><par n="analiz/a__n"/></e>
     <e lm="prognoza"><i>prognoz</i><par n="analiz/a__n"/></e>
     <e lm="antena"><i>anten</i><par n="analiz/a__n"/></e>
     <e lm="barwa"><i>barw</i><par n="analiz/a__n"/></e>
@@ -39835,6 +40014,8 @@
     <e lm="więzienie"><i>więzie</i><par n="trzęsie/nie__n"/></e>
     <e lm="wydarzenie"><i>wydarze</i><par n="trzęsie/nie__n"/></e>
     <e lm="zachowanie"><i>zachowa</i><par n="trzęsie/nie__n"/></e>
+    <e lm="trawienie"><i>trawie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="widzenie"><i>widze</i><par n="trzęsie/nie__n"/></e>
     <e lm="zaćmienie"><i>zaćmie</i><par n="trzęsie/nie__n"/></e>
     <e lm="zadanie"><i>zada</i><par n="trzęsie/nie__n"/></e>
     <e lm="zainteresowanie"><i>zainteresowa</i><par n="trzęsie/nie__n"/></e>
@@ -40230,6 +40411,126 @@
     <e lm="galaktyka"><i>galakty</i><par n="rze/ka__n"/></e>
     <e lm="germanistyka"><i>germanisty</i><par n="rze/ka__n"/></e>
     <e lm="bajka"><i>baj</i><par n="mat/ka__n"/></e>
+    <e lm="aktorka"><i>aktor</i><par n="mat/ka__n"/></e>
+    <e lm="bałałajka"><i>bałałaj</i><par n="mat/ka__n"/></e>
+    <e lm="beczka"><i>becz</i><par n="mat/ka__n"/></e>
+    <e lm="biedronka"><i>biedron</i><par n="mat/ka__n"/></e>
+    <e lm="bramka"><i>bram</i><par n="mat/ka__n"/></e>
+    <e lm="butelka"><i>butel</i><par n="mat/ka__n"/></e>
+    <e lm="całka"><i>cał</i><par n="mat/ka__n"/></e>
+    <e lm="cebulka"><i>cebul</i><par n="mat/ka__n"/></e>
+    <e lm="choinka"><i>choin</i><par n="mat/ka__n"/></e>
+    <e lm="ciężarówka"><i>ciężarów</i><par n="mat/ka__n"/></e>
+    <e lm="ciotka"><i>ciot</i><par n="mat/ka__n"/></e>
+    <e lm="czapka"><i>czap</i><par n="mat/ka__n"/></e>
+    <e lm="cząstka"><i>cząst</i><par n="mat/ka__n"/></e>
+    <e lm="czkawka"><i>czkaw</i><par n="mat/ka__n"/></e>
+    <e lm="deskorolka"><i>deskorol</i><par n="mat/ka__n"/></e>
+    <e lm="doniczka"><i>donicz</i><par n="mat/ka__n"/></e>
+    <e lm="drukarka"><i>drukar</i><par n="mat/ka__n"/></e>
+    <e lm="fretka"><i>fret</i><par n="mat/ka__n"/></e>
+    <e lm="gąbka"><i>gąb</i><par n="mat/ka__n"/></e>
+    <e lm="gorączka"><i>gorącz</i><par n="mat/ka__n"/></e>
+    <e lm="gruszka"><i>grusz</i><par n="mat/ka__n"/></e>
+    <e lm="gumka"><i>gum</i><par n="mat/ka__n"/></e>
+    <e lm="huśtawka"><i>huśtaw</i><par n="mat/ka__n"/></e>
+    <e lm="Jamajka"><i>Jamaj</i><par n="mat/ka__n"/></e>
+    <e lm="jaskółka"><i>jaskół</i><par n="mat/ka__n"/></e>
+    <e lm="jaszczurka"><i>jaszczur</i><par n="mat/ka__n"/></e>
+    <e lm="jedynka"><i>jedyn</i><par n="mat/ka__n"/></e>
+    <e lm="jemiołuszka"><i>jemiołusz</i><par n="mat/ka__n"/></e>
+    <e lm="kaczka"><i>kacz</i><par n="mat/ka__n"/></e>
+    <e lm="kamizelka"><i>kamizel</i><par n="mat/ka__n"/></e>
+    <e lm="kawka"><i>kaw</i><par n="mat/ka__n"/></e>
+    <e lm="kijanka"><i>kijan</i><par n="mat/ka__n"/></e>
+    <e lm="kołysanka"><i>kołysan</i><par n="mat/ka__n"/></e>
+    <e lm="konewka"><i>konew</i><par n="mat/ka__n"/></e>
+    <e lm="krewetka"><i>krewet</i><par n="mat/ka__n"/></e>
+    <e lm="kropka"><i>krop</i><par n="mat/ka__n"/></e>
+    <e lm="krzyżówka"><i>krzyżów</i><par n="mat/ka__n"/></e>
+    <e lm="kukułka"><i>kukuł</i><par n="mat/ka__n"/></e>
+    <e lm="laska"><i>las</i><par n="mat/ka__n"/></e>
+    <e lm="linijka"><i>linij</i><par n="mat/ka__n"/></e>
+    <e lm="lodówka"><i>lodów</i><par n="mat/ka__n"/></e>
+    <e lm="łapówka"><i>łapów</i><par n="mat/ka__n"/></e>
+    <e lm="łazienka"><i>łazien</i><par n="mat/ka__n"/></e>
+    <e lm="łechtaczka"><i>łechtacz</i><par n="mat/ka__n"/></e>
+    <e lm="łuska"><i>łus</i><par n="mat/ka__n"/></e>
+    <e lm="łydka"><i>łyd</i><par n="mat/ka__n"/></e>
+    <e lm="łyżeczka"><i>łyżecz</i><par n="mat/ka__n"/></e>
+    <e lm="łyżka"><i>łyż</i><par n="mat/ka__n"/></e>
+    <e lm="macka"><i>mac</i><par n="mat/ka__n"/></e>
+    <e lm="malinka"><i>malin</i><par n="mat/ka__n"/></e>
+    <e lm="marchewka"><i>marchew</i><par n="mat/ka__n"/></e>
+    <e lm="marynarka"><i>marynar</i><par n="mat/ka__n"/></e>
+    <e lm="mrówka"><i>mrów</i><par n="mat/ka__n"/></e>
+    <e lm="myszka"><i>mysz</i><par n="mat/ka__n"/></e>
+    <e lm="mżawka"><i>mżaw</i><par n="mat/ka__n"/></e>
+    <e lm="nerka"><i>ner</i><par n="mat/ka__n"/></e>
+    <e lm="niespodzianka"><i>niespodzian</i><par n="mat/ka__n"/></e>
+    <e lm="niezapominajka"><i>niezapominaj</i><par n="mat/ka__n"/></e>
+    <e lm="oliwka"><i>oliw</i><par n="mat/ka__n"/></e>
+    <e lm="orka"><i>or</i><par n="mat/ka__n"/></e>
+    <e lm="pamiątka"><i>pamiąt</i><par n="mat/ka__n"/></e>
+    <e lm="perliczka"><i>perlicz</i><par n="mat/ka__n"/></e>
+    <e lm="pielęgniarka"><i>pielęgniar</i><par n="mat/ka__n"/></e>
+    <e lm="pietruszka"><i>pietrusz</i><par n="mat/ka__n"/></e>
+    <e lm="pigułka"><i>piguł</i><par n="mat/ka__n"/></e>
+    <e lm="pijawka"><i>pijaw</i><par n="mat/ka__n"/></e>
+    <e lm="piłka"><i>pił</i><par n="mat/ka__n"/></e>
+    <e lm="piosenka"><i>piosen</i><par n="mat/ka__n"/></e>
+    <e lm="płaszczka"><i>płaszcz</i><par n="mat/ka__n"/></e>
+    <e lm="płomykówka"><i>płomyków</i><par n="mat/ka__n"/></e>
+    <e lm="poduszka"><i>podusz</i><par n="mat/ka__n"/></e>
+    <e lm="pomyłka"><i>pomył</i><par n="mat/ka__n"/></e>
+    <e lm="popielniczka"><i>popielnicz</i><par n="mat/ka__n"/></e>
+    <e lm="porażka"><i>poraż</i><par n="mat/ka__n"/></e>
+    <e lm="porzeczka"><i>porzecz</i><par n="mat/ka__n"/></e>
+    <e lm="półka"><i>pół</i><par n="mat/ka__n"/></e>
+    <e lm="pralka"><i>pral</i><par n="mat/ka__n"/></e>
+    <e lm="próbówka"><i>próbów</i><par n="mat/ka__n"/></e>
+    <e lm="przepiórka"><i>przepiór</i><par n="mat/ka__n"/></e>
+    <e lm="pułapka"><i>pułap</i><par n="mat/ka__n"/></e>
+    <e lm="pustułka"><i>pustuł</i><par n="mat/ka__n"/></e>
+    <e lm="randka"><i>rand</i><par n="mat/ka__n"/></e>
+    <e lm="rozrywka"><i>rozryw</i><par n="mat/ka__n"/></e>
+    <e lm="samogłoska"><i>samogłos</i><par n="mat/ka__n"/></e>
+    <e lm="siatkówka"><i>siatków</i><par n="mat/ka__n"/></e>
+    <e lm="siódemka"><i>siódem</i><par n="mat/ka__n"/></e>
+    <e lm="słomka"><i>słom</i><par n="mat/ka__n"/></e>
+    <e lm="soczewka"><i>soczew</i><par n="mat/ka__n"/></e>
+    <e lm="spółgłoska"><i>spółgłos</i><par n="mat/ka__n"/></e>
+    <e lm="sraczka"><i>sracz</i><par n="mat/ka__n"/></e>
+    <e lm="strzałka"><i>strzał</i><par n="mat/ka__n"/></e>
+    <e lm="sukienka"><i>sukien</i><par n="mat/ka__n"/></e>
+    <e lm="suszarka"><i>suszar</i><par n="mat/ka__n"/></e>
+    <e lm="szczepionka"><i>szczepion</i><par n="mat/ka__n"/></e>
+    <e lm="szczotka"><i>szczot</i><par n="mat/ka__n"/></e>
+    <e lm="szminka"><i>szmin</i><par n="mat/ka__n"/></e>
+    <e lm="szpilka"><i>szpil</i><par n="mat/ka__n"/></e>
+    <e lm="szwagierka"><i>szwagier</i><par n="mat/ka__n"/></e>
+    <e lm="śliwka"><i>śliw</i><par n="mat/ka__n"/></e>
+    <e lm="śmieciarka"><i>śmieciar</i><par n="mat/ka__n"/></e>
+    <e lm="śnieżka"><i>śnież</i><par n="mat/ka__n"/></e>
+    <e lm="śpiączka"><i>śpiącz</i><par n="mat/ka__n"/></e>
+    <e lm="taczka"><i>tacz</i><par n="mat/ka__n"/></e>
+    <e lm="tarka"><i>tar</i><par n="mat/ka__n"/></e>
+    <e lm="teczka"><i>tecz</i><par n="mat/ka__n"/></e>
+    <e lm="temperówka"><i>temperów</i><par n="mat/ka__n"/></e>
+    <e lm="tkanka"><i>tkan</i><par n="mat/ka__n"/></e>
+    <e lm="tokarka"><i>tokar</i><par n="mat/ka__n"/></e>
+    <e lm="trójka"><i>trój</i><par n="mat/ka__n"/></e>
+    <e lm="umywalka"><i>umywal</i><par n="mat/ka__n"/></e>
+    <e lm="walizka"><i>waliz</i><par n="mat/ka__n"/></e>
+    <e lm="ważka"><i>waż</i><par n="mat/ka__n"/></e>
+    <e lm="wróżka"><i>wróż</i><par n="mat/ka__n"/></e>
+    <e lm="wykałaczka"><i>wykałacz</i><par n="mat/ka__n"/></e>
+    <e lm="zabawka"><i>zabaw</i><par n="mat/ka__n"/></e>
+    <e lm="zagadka"><i>zagad</i><par n="mat/ka__n"/></e>
+    <e lm="zamrażarka"><i>zamrażar</i><par n="mat/ka__n"/></e>
+    <e lm="zmywarka"><i>zmywar</i><par n="mat/ka__n"/></e>
+    <e lm="żarówka"><i>żarów</i><par n="mat/ka__n"/></e>
+    <e lm="żyletka"><i>żylet</i><par n="mat/ka__n"/></e>
     <e lm="córka"><i>cór</i><par n="mat/ka__n"/></e>
     <e lm="topola"><i>top</i><par n="top/ola__n"/></e>
     <e lm="fasola"><i>fasol</i><par n="filozofi/a__n"/></e>
@@ -40300,6 +40601,19 @@
     <e lm="jesiotr"><i>jesiotr</i><par n="tur__n"/></e>
     <e lm="ichtiozaur"><i>ichtiozaur</i><par n="tur__n"/></e>
     <e lm="dinozaur"><i>dinozaur</i><par n="tur__n"/></e>
+    <e lm="dolar"><i>dolar</i><par n="tur__n"/></e>
+    <e lm="dromader"><i>dromader</i><par n="tur__n"/></e>
+    <e lm="hamburger"><i>hamburger</i><par n="tur__n"/></e>
+    <e lm="jaguar"><i>jaguar</i><par n="tur__n"/></e>
+    <e lm="joker"><i>joker</i><par n="tur__n"/></e>
+    <e lm="kalmar"><i>kalmar</i><par n="tur__n"/></e>
+    <e lm="kangur"><i>kangur</i><par n="tur__n"/></e>
+    <e lm="kocur"><i>kocur</i><par n="tur__n"/></e>
+    <e lm="komar"><i>komar</i><par n="tur__n"/></e>
+    <e lm="ogier"><i>ogier</i><par n="tur__n"/></e>
+    <e lm="renifer"><i>renifer</i><par n="tur__n"/></e>
+    <e lm="szczur"><i>szczur</i><par n="tur__n"/></e>
+    <e lm="żubr"><i>żubr</i><par n="tur__n"/></e>
     <e lm="tyranozaur"><i>tyranozaur</i><par n="tur__n"/></e>
     <e lm="allozaur"><i>allozaur</i><par n="tur__n"/></e>
     <e lm="allozaur" r="LR"><p><l>alozaur</l><r>allozaur</r></p><par n="tur__n"/></e>
