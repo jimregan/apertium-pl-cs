@@ -38484,6 +38484,46 @@
     <e lm="święty"><i>świę</i><par n="świę/ty__adj"/></e>
     <e lm="święty"><p><l>święt</l><r>święty</r></p><par n="lep/szy__adj"/></e>
     <e lm="święty"><p><l>najświęt</l><r>święty</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="kompetentny"><i>kompetentn</i><par n="now/y__adj"/></e>
+    <e lm="kompetentny"><p><l>kompetentniej</l><r>kompetentny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="kompetentny"><p><l>najkompetentniej</l><r>kompetentny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="kulturalny"><i>kulturaln</i><par n="now/y__adj"/></e>
+    <e lm="kulturalny"><p><l>kulturalniej</l><r>kulturalny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="kulturalny"><p><l>najkulturalniej</l><r>kulturalny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="moralny"><i>moraln</i><par n="now/y__adj"/></e>
+    <e lm="moralny"><p><l>moralniej</l><r>moralny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="moralny"><p><l>najmoralniej</l><r>moralny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="niewinny"><i>niewinn</i><par n="now/y__adj"/></e>
+    <e lm="niewinny"><p><l>niewinniej</l><r>niewinny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="niewinny"><p><l>najniewinniej</l><r>niewinny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="okrutny"><i>okrutn</i><par n="now/y__adj"/></e>
+    <e lm="okrutny"><p><l>okrutniej</l><r>okrutny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="okrutny"><p><l>najokrutniej</l><r>okrutny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="polityczny"><i>polityczn</i><par n="now/y__adj"/></e>
+    <e lm="polityczny"><p><l>polityczniej</l><r>polityczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="polityczny"><p><l>najpolitycznej</l><r>polityczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="powszechny"><i>powszechn</i><par n="now/y__adj"/></e>
+    <e lm="powszechny"><p><l>powszechniej</l><r>powszechny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="powszechny"><p><l>najpowszechniej</l><r>powszechny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="rzetelny"><i>rzeteln</i><par n="now/y__adj"/></e>
+    <e lm="rzetelny"><p><l>rzetelniej</l><r>rzetelny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="rzetelny"><p><l>najrzetelniej</l><r>rzetelny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="specjalny"><i>specjaln</i><par n="now/y__adj"/></e>
+    <e lm="specjalny"><p><l>specjalniej</l><r>specjalny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="specjalny"><p><l>najspecjalniej</l><r>specjalny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="spokojny"><i>spokojn</i><par n="now/y__adj"/></e>
+    <e lm="spokojny"><p><l>spokojniej</l><r>spokojny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="spokojny"><p><l>najspokojniej</l><r>spokojny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="sprzeczny"><i>sprzeczn</i><par n="now/y__adj"/></e>
+    <e lm="sprzeczny"><p><l>sprzeczniej</l><r>sprzeczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="sprzeczny"><p><l>najsprzeczniej</l><r>sprzeczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="swobodny"><i>swobodn</i><par n="now/y__adj"/></e>
+    <e lm="swobodny"><p><l>swobodniej</l><r>swobodny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="swobodny"><p><l>najswobodniej</l><r>swobodny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="naturalny"><i>naturaln</i><par n="now/y__adj"/></e>
+    <e lm="naturalny"><p><l>naturalniej</l><r>naturalny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="naturalny"><p><l>najnaturalniej</l><r>naturalny</r></p><par n="najlep/szy__adj"/></e>
+
     <!-- non-synthetic, with obsolete comparatives -->
     <e lm="żółty"><i>żół</i><par n="żół/ty__adj"/></e>
     <e lm="żółtszy" r="LR"><p><l>żółt</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
@@ -38503,6 +38543,40 @@
     <e lm="weekendowy"><i>weekendow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="wiosenny"><i>wiosenn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="typowy"><i>typow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="prywatny"><i>prywatn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pełny"><i>pełn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="niezależny"><i>niezależn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="niezbędny"><i>niezbędn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="niezbywalny"><i>niezbywaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="płatny"><i>płatn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="prawny"><i>prawn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="artystyczny"><i>artystyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ogólny"><i>ogóln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezpłatny"><i>bezpłatn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezstronny"><i>bezstronn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="społeczny"><i>społeczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="materialny"><i>materialn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="demokratyczny"><i>demokratyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dostępny"><i>dostępn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jednakowy"><i>jednakow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="krajowy"><i>krajow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="międzynarodowy"><i>międzynarodow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="narodowy"><i>narodow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="naukowy"><i>naukow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="niemożliwy"><i>niemożliw</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="obowiązkowy"><i>obowiązkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="okresowy"><i>okresow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="podstawowy"><i>podstawow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zawodowy"><i>zawodow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="życiowy"><i>życiow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="domowy"><i>domow</i><par n="egzotermiczn/y__adj"/></e>
+
+    <e lm="członkowski"><i>członkows</i><par n="mors/ki__adj"/></e>
+    <e lm="lekarski"><i>lekars</i><par n="mors/ki__adj"/></e>
+    <e lm="literacki"><i>literac</i><par n="mors/ki__adj"/></e>
+    <e lm="ludzki"><i>ludz</i><par n="mors/ki__adj"/></e>
+    <e lm="małżeński"><i>małżeńs</i><par n="mors/ki__adj"/></e>
+    <e lm="nieludzki"><i>nieludz</i><par n="mors/ki__adj"/></e>
 
     <e lm="bielski"><i>biels</i><par n="pols/ki__adj"/></e>
     <e lm="bielskoki"><i>bielsko</i><par n="pols/ki__adj"/></e>
