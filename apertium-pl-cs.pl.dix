@@ -38517,6 +38517,10 @@
     <e lm="dojrzały"><i>dojrza</i><par n="ma/ły__adj"/></e>
     <e lm="dojrzały"><p><l>dojrzal</l><r>dojrzały</r></p><par n="lep/szy__adj"/></e>
     <e lm="dojrzały"><p><l>najdojrzal</l><r>dojrzały</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="wytrwały"><i>wytrwa</i><par n="ma/ły__adj"/></e>
+    <e lm="wytrwały"><p><l>wytrwal</l><r>wytrwały</r></p><par n="lep/szy__adj"/></e>
+    <e lm="wytrwały"><p><l>najwytrwal</l><r>wytrwały</r></p><par n="najlep/szy__adj"/></e>
+
     <e lm="zły"><i></i><par n="/zły__adj"/></e>
     <e lm="zły"><p><l>gor</l><r>zły</r></p><par n="lep/szy__adj"/></e>
     <e lm="zły"><p><l>najgor</l><r>zły</r></p><par n="najlep/szy__adj"/></e>
@@ -38614,6 +38618,13 @@
     <e lm="naturalny"><i>naturaln</i><par n="now/y__adj"/></e>
     <e lm="naturalny"><p><l>naturalniej</l><r>naturalny</r></p><par n="lep/szy__adj"/></e>
     <e lm="naturalny"><p><l>najnaturalniej</l><r>naturalny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="skuteczny"><i>skuteczn</i><par n="now/y__adj"/></e>
+    <e lm="skuteczny"><p><l>skuteczniej</l><r>skuteczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="skuteczny"><p><l>najskuteczniej</l><r>skuteczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="sprawiedliwy"><i>sprawiedliw</i><par n="now/y__adj"/></e>
+    <e lm="sprawiedliwy"><p><l>sprawiedliw</l><r>sprawiedliwy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="sprawiedliwy"><p><l>najsprawiedliw</l><r>sprawiedliwy</r></p><par n="najlep/szy__adj"/></e>
+
 
     <!-- non-synthetic, with obsolete comparatives -->
     <e lm="żółty"><i>żół</i><par n="żół/ty__adj"/></e>
@@ -38622,8 +38633,24 @@
     <e lm="żółciejszy" r="LR"><p><l>żółciej</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
     <e lm="najżółciejszy" r="LR"><p><l>najżółciej</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
 
+    <e lm="całkowity"><i>całkowi</i><par n="żół/ty__adj"/></e>   
     <e lm="cały"><i>ca</i><par n="ca/ły__adj"/></e>
+    <e lm="podległy"><i>podleg</i><par n="ca/ły__adj"/></e>
+    <e lm="niepodległy"><i>niepodleg</i><par n="ca/ły__adj"/></e>
     <e lm="dorosły"><i>doro</i><par n="doro/sły__adj"/></e>
+    <e lm="wzniosły"><i>wznio</i><par n="doro/sły__adj"/></e>
+    <e lm="indiwidualny"><i>indywidualn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tajny"><i>tajn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rasowy"><i>rasow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="słuszny"><i>słuszn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="techniczny"><i>techniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wspólny"><i>wspóln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="powolny"><i>powoln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rodzinny"><i>rodzinn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rozsądny"><i>rozsądn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="równorzędny"><i>równorzędn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="równoważny"><i>równoważn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="publiczny"><i>publiczn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="egzotermiczny"><i>egzotermiczn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="tematyczny"><i>tematyczn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="alfabetyczny"><i>alfabetyczn</i><par n="egzotermiczn/y__adj"/></e>
@@ -38661,6 +38688,8 @@
     <e lm="zawodowy"><i>zawodow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="życiowy"><i>życiow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="domowy"><i>domow</i><par n="egzotermiczn/y__adj"/></e>
+
+
 
     <e lm="członkowski"><i>członkows</i><par n="mors/ki__adj"/></e>
     <e lm="lekarski"><i>lekars</i><par n="mors/ki__adj"/></e>
