@@ -38316,6 +38316,10 @@
     <e lm="kiedy"><i>kiedy</i><par n="by__cnjsub"/></e>
     <e lm="aby"><i>aby</i><par n="by__cnjsub"/></e>
     <e lm="żeby"><i>żeby</i><par n="by__cnjsub"/></e>
+    <e lm="dopóki"><i>dopóki</i><par n="że__cnjsub"/></e>
+    <e lm="dopóty"><i>dopóty</i><par n="że__cnjsub"/></e>
+    <e lm="iż"><i>iż</i><par n="że__cnjsub"/></e>
+    <e lm="gdy"><i>gdy</i><par n="że__cnjsub"/></e>
 
     <e lm="np"><i>np</i><par n="np__abbr"/></e>
     <e lm="tzw"><i>tzw</i><par n="np__abbr"/></e>
@@ -38340,6 +38344,11 @@
     <e lm="lub"><i>lub</i><par n="i__cnjcoo"/></e>
     <e lm="czyli"><i>czyli</i><par n="i__cnjcoo"/></e>
     <e lm="lecz"><i>lecz</i><par n="i__cnjcoo"/></e>
+    <e lm="jak również"><i>jak<b/>również</i><par n="i__cnjcoo"/></e>
+    <e lm="tudzież"><i>tudzież</i><par n="i__cnjcoo"/></e>
+    <e lm="bądź"><i>bądź</i><par n="i__cnjcoo"/></e>
+    <e lm="ni"><i>ni</i><par n="i__cnjcoo"/></e>
+    
     <e lm="jeśli"><i>jeśli</i><par n="jeśli__cnjadv"/></e>
     <e lm="jeżeli"><i>jeżeli</i><par n="jeśli__cnjadv"/></e>
     <e lm="przecież"><i>przecież</i><par n="jeśli__cnjadv"/></e>
@@ -38352,6 +38361,17 @@
     <e lm="bo"><i>bo</i><par n="jeśli__cnjadv"/></e>
     <e lm="dlatego że"><i>dlatego<b/>że</i><par n="jeśli__cnjadv"/></e>
     <e lm="aczkolwiek"><i>aczkolwiek</i><par n="jeśli__cnjadv"/></e>
+    <e lm="mianowicie"><i>mianowicie</i><par n="jeśli__cnjadv"/></e>
+    <e lm="więc"><i>więc</i><par n="jeśli__cnjadv"/></e>
+    <e lm="zatem"><i>zatem</i><par n="jeśli__cnjadv"/></e>
+    <e lm="toteż"><i>toteż</i><par n="jeśli__cnjadv"/></e>
+    <e lm="natomiast"><i>natomiast</i><par n="jeśli__cnjadv"/></e>
+    <e lm="jednak"><i>jednak</i><par n="jeśli__cnjadv"/></e>
+    <e lm="zaś"><i>zaś</i><par n="jeśli__cnjadv"/></e>
+    <e lm="chociaż"><i>chociaż</i><par n="jeśli__cnjadv"/></e>
+    <e lm="gdyż"><i>gdyż</i><par n="jeśli__cnjadv"/></e>
+    <e lm="choć"><i>choć</i><par n="jeśli__cnjadv"/></e>
+    <e lm="zanim"><i>zanim</i><par n="jeśli__cnjadv"/></e>
 
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
     <e lm="kto"><i>k</i><par n="k/to__prn"/></e>
