@@ -39151,6 +39151,7 @@
     <e lm="morela"><i>morel</i><par n="fal/a__n"/></e>
     <e lm="tabela"><i>tabel</i><par n="fal/a__n"/></e>
     <e lm="cnota"><i>cn</i><par n="sob/ota__n"/></e>
+    <e lm="kara"><i>kar</i><par n="viagr/a__n"/></e>
     <e lm="cyfra"><i>cyfr</i><par n="viagr/a__n"/></e>
     <e lm="dziura"><i>dziur</i><par n="viagr/a__n"/></e>
     <e lm="era"><i>er</i><par n="viagr/a__n"/></e>
@@ -39632,6 +39633,7 @@
     <e lm="spódnica"><i>spódnic</i><par n="ulic/a__n"/></e>
     <e lm="stolica"><i>stolic</i><par n="ulic/a__n"/></e>
     <e lm="susza"><i>susz</i><par n="ulic/a__n"/></e>
+    <e lm="nędza"><i>nędz</i><par n="ulic/a__n"/></e>
     <e lm="szachownica"><i>szachownic</i><par n="ulic/a__n"/></e>
     <e lm="średnica"><i>średnic</i><par n="ulic/a__n"/></e>
     <e lm="świeca"><i>świec</i><par n="ulic/a__n"/></e>
@@ -40324,6 +40326,14 @@
     <e lm="pałac"><i>pałac</i><par n="gaj__n"/></e>
     <e lm="szkic"><i>szkic</i><par n="gaj__n"/></e>
     <e lm="kraj"><i>kraj</i><par n="gaj__n"/></e> 
+
+
+    <e lm="konstytucja"><i>konstytuc</i><par n="dysertac/ja__n"/></e>
+    <e lm="korespondencja"><i>korespondenc</i><par n="dysertac/ja__n"/></e>
+    <e lm="egzystencja"><i>egzystenc</i><par n="dysertac/ja__n"/></e>
+    <e lm="dyskryminacja"><i>dyskryminac</i><par n="dysertac/ja__n"/></e>
+    <e lm="informacja"><i>informac</i><par n="dysertac/ja__n"/></e>
+    <e lm="integracja"><i>integrac</i><par n="dysertac/ja__n"/></e>
     <e lm="aborcja"><i>aborc</i><par n="dysertac/ja__n"/></e>
     <e lm="deklaracja"><i>deklarac</i><par n="dysertac/ja__n"/></e>
     <e lm="absolutyzacja"><i>absolutyzac</i><par n="dysertac/ja__n"/></e>
@@ -41165,6 +41175,8 @@
     <e lm="nielubość"><i>nieluboś</i><par n="miłoś/ć__n"/></e>
     <e lm="nienawiść"><i>nienawiś</i><par n="miłoś/ć__n"/></e>
     <e lm="nieprawość"><i>nieprawoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="korzyść"><i>korzyś</i><par n="miłoś/ć__n"/></e>
+    <e lm="pamięć"><i>pamię</i><par n="miłoś/ć__n"/></e>
     <e lm="nieprzyjemność"><i>nieprzyjemnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="nowość"><i>nowoś</i><par n="miłoś/ć__n"/></e>
     <e lm="obcojęzyczność"><i>obcojęzycznoś</i><par n="miłoś/ć__n"/></e>
