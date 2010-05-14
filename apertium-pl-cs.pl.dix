@@ -38457,8 +38457,8 @@
     <e lm="ktoś"><i>k</i><par n="k/toś__prn"/></e>
     <e lm="który"><i>któr</i><par n="któr/y__prn"/></e>
     <e lm="którykolwiek"><i>któr</i><par n="któr/ykolwiek__prn"/></e>
-    <e lm="jakikolwiek"><i>któr</i><par n="ja/kikolwiek__prn"/></e>
-    <e lm="czyjkolwiek"><i>któr</i><par n="czy/jkolwiek__prn"/></e>
+    <e lm="jakikolwiek"><i>ja</i><par n="ja/kikolwiek__prn"/></e>
+    <e lm="czyjkolwiek"><i>czy</i><par n="czy/jkolwiek__prn"/></e>
     <e lm="któryś"><i>któr</i><par n="któr/yś__prn"/></e>
     <e lm="niektóry"><i>niektór</i><par n="niektór/y__prn"/></e>
     <e lm="inny"><i>inn</i><par n="inn/y__det"/></e>
