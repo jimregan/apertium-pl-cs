@@ -2915,7 +2915,7 @@
       </e>
       <e>
         <p>
-          <l>gio</l>
+          <l>go</l>
           <r>gi<s n="adj"/><s n="sint"/><s n="cpd"/></r>
         </p>
       </e>
@@ -38574,6 +38574,15 @@
     <e lm="drogi"><i>dro</i><par n="dro/gi__adj"/></e>
     <e lm="drogi"><p><l>droż</l><r>drogi</r></p><par n="lep/szy__adj"/></e>
     <e lm="drogi"><p><l>najdroż</l><r>drogi</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="długi"><i>dłu</i><par n="dro/gi__adj"/></e>
+    <e lm="długi"><p><l>dłuż</l><r>długi</r></p><par n="lep/szy__adj"/></e>
+    <e lm="długi"><p><l>najdłuż</l><r>długi</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="tęgi"><i>tę</i><par n="dro/gi__adj"/></e>
+    <e lm="tęgi"><p><l>tęż</l><r>tęgi</r></p><par n="lep/szy__adj"/></e>
+    <e lm="tęgi"><p><l>najtęż</l><r>tęgi</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ubogi"><i>ubo</i><par n="dro/gi__adj"/></e>
+    <e lm="ubogi"><p><l>uboż</l><r>ubogi</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ubogi"><p><l>najuboż</l><r>ubogi</r></p><par n="najlep/szy__adj"/></e>
     <e lm="ostry"><i>ost</i><par n="dob/ry__adj"/></e>
     <e lm="ostry"><p><l>ostrzej</l><r>ostry</r></p><par n="lep/szy__adj"/></e>
     <e lm="ostry"><p><l>najostrzej</l><r>ostry</r></p><par n="najlep/szy__adj"/></e>
@@ -38620,6 +38629,57 @@
     <e lm="bliski"><i>blis</i><par n="słod/ki__adj"/></e>
     <e lm="bliski"><p><l>bliż</l><r>bliski</r></p><par n="lep/szy__adj"/></e>
     <e lm="bliski"><p><l>najbliż</l><r>bliski</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="brzydki"><i>brzyd</i><par n="słod/ki__adj"/></e>
+    <e lm="brzydki"><p><l>brzyd</l><r>brzydki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="brzydki"><p><l>najbrzyd</l><r>brzydki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ciężki"><i>cięż</i><par n="słod/ki__adj"/></e>
+    <e lm="ciężki"><p><l>cięż</l><r>ciężki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ciężki"><p><l>najcięż</l><r>ciężki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="dziki"><i>dzi</i><par n="słod/ki__adj"/></e>
+    <e lm="dziki"><p><l>dzik</l><r>dziki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="dziki"><p><l>najdzik</l><r>dziki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="elegancki"><i>eleganc</i><par n="słod/ki__adj"/></e>
+    <e lm="elegancki"><p><l>elegant</l><r>elegancki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="elegancki"><p><l>najelegant</l><r>elegancki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="giętki"><i>gięt</i><par n="słod/ki__adj"/></e>
+    <e lm="giętki"><p><l>gięt</l><r>giętki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="giętki"><p><l>najgięt</l><r>giętki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="gładki"><i>gład</i><par n="słod/ki__adj"/></e>
+    <e lm="gładki"><p><l>gład</l><r>gładki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="gładki"><p><l>najgład</l><r>gładki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="głęboki"><i>głębo</i><par n="słod/ki__adj"/></e>
+    <e lm="głęboki"><p><l>głęb</l><r>głęboki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="głęboki"><p><l>najgłęb</l><r>głęboki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="krótki"><i>krót</i><par n="słod/ki__adj"/></e>
+    <e lm="krótki"><p><l>krót</l><r>krótki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="krótki"><p><l>najkrót</l><r>krótki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="lekki"><i>lek</i><par n="słod/ki__adj"/></e>
+    <e lm="lekki"><p><l>lżej</l><r>lekki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="lekki"><p><l>najlżej</l><r>lekki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="miękki"><i>mięk</i><par n="słod/ki__adj"/></e>
+    <e lm="miękki"><p><l>mięk</l><r>miękki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="miękki"><p><l>najmięk</l><r>miękki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="niski"><i>nis</i><par n="słod/ki__adj"/></e>
+    <e lm="niski"><p><l>niż</l><r>niski</r></p><par n="lep/szy__adj"/></e>
+    <e lm="niski"><p><l>najniż</l><r>niski</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="prędki"><i>pręd</i><par n="słod/ki__adj"/></e>
+    <e lm="prędki"><p><l>pręd</l><r>prędki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="prędki"><p><l>najpręd</l><r>prędki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="płytki"><i>płyt</i><par n="słod/ki__adj"/></e>
+    <e lm="płytki"><p><l>płyt</l><r>płytki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="płytki"><p><l>najpłyt</l><r>płytki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="rzadki"><i>rzad</i><par n="słod/ki__adj"/></e>
+    <e lm="rzadki"><p><l>rzad</l><r>rzadki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="rzadki"><p><l>najrzad</l><r>rzadki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="szeroki"><i>szero</i><par n="słod/ki__adj"/></e>
+    <e lm="szeroki"><p><l>szer</l><r>szeroki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="szeroki"><p><l>najszer</l><r>szeroki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="szybki"><i>szyb</i><par n="słod/ki__adj"/></e>
+    <e lm="szybki"><p><l>szyb</l><r>szybki</r></p><par n="lep/szy__adj"/></e>
+    <e lm="szybki"><p><l>najszyb</l><r>szybki</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="wąski"><i>wąs</i><par n="słod/ki__adj"/></e>
+    <e lm="wąski"><p><l>węż</l><r>wąski</r></p><par n="lep/szy__adj"/></e>
+    <e lm="wąski"><p><l>najwęż</l><r>wąski</r></p><par n="najlep/szy__adj"/></e>
     <e lm="nowy"><i>now</i><par n="now/y__adj"/></e>
     <e lm="nowy"><p><l>now</l><r>nowy</r></p><par n="lep/szy__adj"/></e>
     <e lm="nowy"><p><l>najnow</l><r>nowy</r></p><par n="najlep/szy__adj"/></e>
@@ -38636,6 +38696,9 @@
     <e lm="głupi"><i>głup</i><par n="głup/i__adj"/></e>
     <e lm="głupi"><p><l>głup</l><r>głupi</r></p><par n="lep/szy__adj"/></e>
     <e lm="głupi"><p><l>najgłup</l><r>głupi</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="dostatni"><i>dostatn</i><par n="głup/i__adj"/></e>
+    <e lm="dostatni"><p><l>dostatniej</l><r>dostatni</r></p><par n="lep/szy__adj"/></e>
+    <e lm="dostatni"><p><l>najdostatniej</l><r>dostatni</r></p><par n="najlep/szy__adj"/></e>
     <e lm="brudny"><i>brudn</i><par n="now/y__adj"/></e>
     <e lm="brudny"><p><l>brudniej</l><r>brudny</r></p><par n="lep/szy__adj"/></e>
     <e lm="brudny"><p><l>najbrudniej</l><r>brudny</r></p><par n="najlep/szy__adj"/></e>
