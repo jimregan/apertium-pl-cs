@@ -188,47 +188,66 @@
   </pardefs>
 
   <section id="main" type="standard">
-     <!-- Conjunctions -->
 
+     <!-- Conjunctions -->
     <e><p><l>aż<s n="cnjsub"/></l><r>až<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>żeby<s n="cnjsub"/></l><r>aby<s n="cnjsub"/></r></p></e>
     <e><p><l>kiedy<s n="cnjsub"/></l><r>když<s n="cnjsub"/></r></p></e>
+    <e><p><l>gdy<s n="cnjsub"/></l><r>kdy<s n="cnjsub"/></r></p></e>
     <e><p><l>że<s n="cnjsub"/></l><r>že<s n="cnjsub"/></r></p></e>
+    <e><p><l>iż<s n="cnjsub"/></l><r>že<s n="cnjsub"/></r></p></e>
     <e><p><l>by<s n="cnjsub"/></l><r>by<s n="cnjsub"/></r></p></e>
     <e><p><l>aby<s n="cnjsub"/></l><r>aby<s n="cnjsub"/></r></p></e>
     <e><p><l>gdyby<s n="cnjsub"/></l><r>kdyby<s n="cnjsub"/></r></p></e>
+    <e><p><l>dopóki<s n="cnjsub"/></l><r>dokud<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>póki<s n="cnjsub"/></l><r>dokud<s n="cnjsub"/></r></p></e>
+
     <e><p><l>czy<s n="cnjcoo"/></l><r>či<s n="cnjcoo"/></r></p></e>
     <e><p><l>ale<s n="cnjcoo"/></l><r>ale<s n="cnjcoo"/></r></p></e>
     <e><p><l>ani<s n="cnjcoo"/></l><r>ani<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>ni<s n="cnjcoo"/></l><r>ani<s n="cnjcoo"/></r></p></e>
     <e><p><l>i<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
     <e><p><l>a<b/>także<s n="cnjcoo"/></l><r>a<b/>také<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>jak<b/>również<s n="cnjcoo"/></l><r>a<b/>také<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>a<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
     <e r="RL"><p><l>i<s n="cnjcoo"/></l><r>i<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>oraz<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
     <e><p><l>niż<s n="cnjcoo"/></l><r>než<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>aniżeli<s n="cnjcoo"/></l><r>než<s n="cnjcoo"/></r></p></e>
     <e><p><l>albo<s n="cnjcoo"/></l><r>nebo<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>albo<s n="cnjcoo"/></l><r>anebo<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>lub<s n="cnjcoo"/></l><r>nebo<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>bądź<s n="cnjcoo"/></l><r>nebo<s n="cnjcoo"/></r></p></e>
     <e><p><l>czyli<s n="cnjcoo"/></l><r>čili<s n="cnjcoo"/></r></p></e>
-    <e><p><l>lecz<s n="cnjcoo"/></l><r>leč<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>lecz<s n="cnjcoo"/></l><r>leč<s n="cnjcoo"/></r></p></e>
+    <e><p><l>lecz<s n="cnjcoo"/></l><r>nýbrž<s n="cnjcoo"/></r></p></e>
+
     <e><p><l>jeśli<s n="cnjadv"/></l><r>jestli<s n="cnjadv"/></r></p></e>
     <e r="RL"><p><l>jeśli<s n="cnjadv"/></l><r>pokud<s n="cnjadv"/></r></p></e>
     <e><p><l>bowiem<s n="cnjadv"/></l><r>neboť<s n="cnjadv"/></r></p></e>
-    <e><p><l>bo<s n="cnjadv"/></l><r>nebo<s n="cnjadv"/></r></p></e>
+    <e><p><l>albowiem<s n="cnjadv"/></l><r>neboť<s n="cnjadv"/></r></p></e>
+    <e><p><l>bo<s n="cnjadv"/></l><r>neboť<s n="cnjadv"/></r></p></e>
     <e><p><l>dlatego<b/>że<s n="cnjadv"/></l><r>protože<s n="cnjadv"/></r></p></e>
     <e r="RL"><p><l>ponieważ<s n="cnjadv"/></l><r>poněvadž<s n="cnjadv"/></r></p></e>
-    <!--<e><p><l>ponieważ<s n="cnjadv"/></l><r>poněvadž<s n="cnjadv"/></r></p></e>-->
+    <e r="RL"><p><l>ponieważ<s n="cnjadv"/></l><r>jelikož<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>ponieważ<s n="cnjadv"/></l><r>protože<s n="cnjadv"/></r></p></e>
     <e><p><l>aczkolwiek<s n="cnjadv"/></l><r>ačkoliv<s n="cnjadv"/></r></p></e>
-    <e><p><l>jednak<s n="adv"/></l><r>ovšem<s n="adv"/></r></p></e>
-    <e><p><l>tymczasem<s n="adv"/></l><r>zatímco<s n="adv"/></r></p></e>
-    <e><p><l>z<b/>drugiej<b/>strony<s n="adv"/></l><r>na<b/>druhé<b/>straně<s n="adv"/></r></p></e>
+    <e><p><l>pomimo<b/>że<s n="cnjadv"/></l><r>přestože<s n="cnjadv"/></r></p></e>
+    <e><p><l>mimo<b/>że<s n="cnjadv"/></l><r>přestože<s n="cnjadv"/></r></p></e>
     <e><p><l>jeżeli<s n="cnjadv"/></l><r>jestliže<s n="cnjadv"/></r></p></e>
     <e><p><l>przecież<s n="cnjadv"/></l><r>přece<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>przecie<s n="cnjadv"/></l><r>přece<s n="cnjadv"/></r></p></e>
     <e r="RL"><p><l>przecież<s n="cnjadv"/></l><r>však<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>tudzież<s n="cnjadv"/></l><r>tudíž<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>a<b/>więc<s n="cnjadv"/></l><r>tudíž<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>toteż<s n="cnjadv"/></l><r>tudíž<s n="cnjadv"/></r></p></e>
+    <e r="RL"><p><l>zatem<s n="cnjadv"/></l><r>teda<s n="cnjadv"/></r></p></e>
+    <e><p><l>zatem<s n="cnjadv"/></l><r>tedy<s n="cnjadv"/></r></p></e>
     <e><p><l>dlatego<s n="cnjadv"/></l><r>proto<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>przeto<s n="cnjadv"/></l><r>proto<s n="cnjadv"/></r></p></e>
     <e><p><l>podczas<b/>gdy<s n="cnjadv"/></l><r>přitom<s n="cnjadv"/></r></p></e>
+    <e><p><l>mianowicie<s n="cnjadv"/></l><r>totiž<s n="cnjadv"/></r></p></e>
+    <e><p><l>natomiast<s n="cnjadv"/></l><r>naopak<s n="cnjadv"/></r></p></e>
 
      <!-- Prepositions -->
 
@@ -279,7 +298,8 @@
     <e><p><l>ku<s n="pr"/></l><r>k<s n="pr"/></r></p></e>
     <e><p><l>naprzeciwko<s n="pr"/></l><r>naproti<s n="pr"/></r></p></e>
     <e r="LR"><p><l>wokół<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
-    <e><p><l>około<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>około<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
+    <e><p><l>około<s n="pr"/></l><r>asi<s n="pr"/></r></p></e>
     <e><p><l>oprócz<s n="pr"/></l><r>vyjma<s n="pr"/></r></p></e>
     <e r="RL"><p><l>oprócz<s n="pr"/></l><r>krom<s n="pr"/></r></p></e>
     <e r="LR"><p><l>gwoli<s n="pr"/></l><r>kvůli<s n="pr"/></r></p></e>
@@ -488,6 +508,7 @@
     <e><p><l>ewangeliarz<s n="n"/><s n="mi"/></l><r>evangeliář<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>tokamak<s n="n"/><s n="mi"/></l><r>tokamak<s n="n"/><s n="mi"/></r></p></e>
     <e c="check"><p><l>język<b/>słoweński<s n="n"/><s n="mi"/></l><r>slovinština<s n="n"/><s n="f"/></r></p></e>
+
     <e><p><l>grecki<s n="adj"/></l><r>řecký<s n="adj"/></r></p></e>
     <e><p><l>weekendowy<s n="adj"/></l><r>víkendový<s n="adj"/></r></p></e>
     <e><p><l>typowy<s n="adj"/></l><r>typický<s n="adj"/></r></p></e>
@@ -1488,6 +1509,7 @@
     <e><p><l>dokładnie<s n="adv"/></l><r>přesně<s n="adv"/></r></p></e>
     <e><p><l>także<s n="adv"/></l><r>také<s n="adv"/></r></p></e>
     <e r="LR"><p><l>też<s n="adv"/></l><r>také<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>również<s n="adv"/></l><r>také<s n="adv"/></r></p></e>
     <e><p><l>naj<s n="adv"/></l><r>nej<s n="adv"/></r></p></e>
     <e><p><l>nawet<s n="adv"/></l><r>dokonce<s n="adv"/></r></p></e>
     <e><p><l>jedynie<s n="adv"/></l><r>jenom<s n="adv"/></r></p></e>
@@ -1643,6 +1665,7 @@
     <e><p><l>bezrobotny<s n="adj"/></l><r>nezaměstnaný<s n="adj"/></r></p></e>
     <e><p><l>beztroski<s n="adj"/></l><r>bezstarostný<s n="adj"/></r></p></e>
     <e><p><l>białoruski<s n="adj"/></l><r>běloruský<s n="adj"/></r></p></e>
+    <e><p><l>złoty<s n="adj"/></l><r>zlatý<s n="adj"/></r></p></e>
     <e><p><l>biały<s n="adj"/></l><r>bílý<s n="adj"/></r></p></e>
     <e><p><l>brudny<s n="adj"/></l><r>špinavý<s n="adj"/></r></p></e>
     <e><p><l>brytyjski<s n="adj"/></l><r>britský<s n="adj"/></r></p></e>
@@ -2222,6 +2245,13 @@
     <e><p><l>cysta<s n="n"/><s n="f"/></l><r>cysta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kosmonauta<s n="n"/><s n="mp"/></l><r>kosmonaut<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>amur<s n="n"/><s n="ma"/></l><r>amur<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>błazen<s n="n"/><s n="mp"/></l><r>blázen<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>bóstwo<s n="n"/><s n="nt"/></l><r>bůh<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>mama<s n="n"/><s n="f"/></l><r>matka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lekarstwo<s n="n"/><s n="nt"/></l><r>léčivo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>enzym<s n="n"/><s n="mi"/></l><r>enzym<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>penis<s n="n"/><s n="ma"/></l><r>penis<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>otchłań<s n="n"/><s n="f"/></l><r>limbus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>azyl<s n="n"/><s n="mi"/></l><r>azyl<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bieda<s n="n"/><s n="f"/></l><r>chudoba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bunt<s n="n"/><s n="mi"/></l><r>rebelie<s n="n"/><s n="f"/></r></p></e>
@@ -2952,18 +2982,27 @@
     <e><p><l>Morfeusz<s n="np"/><s n="ant"/><s n="mp"/></l><r>Morfeus<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
     <e><p><l>Sokrates<s n="np"/><s n="ant"/><s n="mp"/></l><r>Sókratés<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
 
-<!-- Adverbs -->
-
+    <!-- Interrogative adverbs -->
     <e><p><l>jak<s n="adv"/><s n="itg"/></l><r>jak<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>gdzie<s n="adv"/><s n="itg"/></l><r>kde<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>czy<s n="adv"/><s n="itg"/></l><r>zda<s n="adv"/><s n="itg"/></r></p></e>
-
-    <e><p><l>zbyt<s n="preadv"/></l><r>příliš<s n="preadv"/></r></p></e>
-    <e r="LR"><p><l>za<s n="preadv"/></l><r>příliš<s n="preadv"/></r></p></e>
+    <e><p><l>dokąd<s n="adv"/><s n="itg"/></l><r>dokud<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>skąd<s n="adv"/><s n="itg"/></l><r>odkud<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>kiedy<s n="adv"/><s n="itg"/></l><r>kdý<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>którędy<s n="adv"/><s n="itg"/></l><r>kudy<s n="adv"/><s n="itg"/></r></p></e>
+  
+    <!-- Adverbs -->
+    <e><p><l>jednak<s n="adv"/></l><r>avšak<s n="adv"/></r></p></e>
+    <e><p><l>tymczasem<s n="adv"/></l><r>zatímco<s n="adv"/></r></p></e>
+    <e><p><l>z<b/>drugiej<b/>strony<s n="adv"/></l><r>na<b/>druhé<b/>straně<s n="adv"/></r></p></e>
     <e r="RL"><p><l>za<b/>dużo<s n="adv"/></l><r>příliš<s n="adv"/></r></p></e>
-
     <e><p><l>nie<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
-    <e><p><l>kiedyś<s n="adv"/></l><r>jednou<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>tak<s n="adv"/></l><r>ano<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>tak<s n="adv"/></l><r>jo<s n="adv"/></r></p></e>
+    <e><p><l>no<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+    <e><p><l>tak<s n="adv"/></l><r>tak<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>kiedyś<s n="adv"/></l><r>jednou<s n="adv"/></r></p></e>
+    <e><p><l>kiedyś<s n="adv"/></l><r>někdy<s n="adv"/></r></p></e>
     <e><p><l>daleko<s n="adv"/></l><r>daleko<s n="adv"/></r></p></e>
     <e><p><l>stąd<s n="adv"/></l><r>odtud<s n="adv"/></r></p></e>
     <e><p><l>wtedy<s n="adv"/></l><r>tehdy<s n="adv"/></r></p></e>
@@ -2973,10 +3012,30 @@
     <e r="RL"><p><l>już<s n="adv"/></l><r>již<s n="adv"/></r></p></e>
     <e r="RL"><p><l>tu<s n="adv"/></l><r>zde<s n="adv"/></r></p></e>
     <e><p><l>tylko<s n="adv"/></l><r>toliko<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>prawdopodobnie<s n="adv"/></l><r>asi<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>prawdopodobnie<s n="adv"/></l><r>zřejmě<s n="adv"/></r></p></e>
+    <e><p><l>prawdopodobnie<s n="adv"/></l><r>pravděpodobně<s n="adv"/></r></p></e>
+    <e><p><l>zaraz<s n="adv"/></l><r>hned<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>wnet<s n="adv"/></l><r>hned<s n="adv"/></r></p></e>
+    <e><p><l>może<s n="adv"/></l><r>možná<s n="adv"/></r></p></e>
+    <e><p><l>być<b/>może<s n="adv"/></l><r>snad<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>w<b/>końcu<s n="adv"/></l><r>konečně<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>wreszcie<s n="adv"/></l><r>konečně<s n="adv"/></r></p></e>
+    <e><p><l>nareszcie<s n="adv"/></l><r>konečně<s n="adv"/></r></p></e>
+    <e><p><l>ostatecznie<s n="adv"/></l><r>nakonec<s n="adv"/></r></p></e>
+    <e><p><l>potem<s n="adv"/></l><r>potom<s n="adv"/></r></p></e>
+    <e><p><l>oczywiście<s n="adv"/></l><r>ovšemže<s n="adv"/></r></p></e>
+    <e><p><l>oczywiście<s n="adv"/></l><r>samozřejmě<s n="adv"/></r></p></e>
+    <e><p><l>bezpośrednio<s n="adv"/></l><r>přímo<s n="adv"/></r></p></e>
+    <e><p><l>raczej<s n="adv"/></l><r>spíše<s n="adv"/></r></p></e>
+    <e><p><l>w rzeczywistości<s n="adv"/></l><r>vlastně<s n="adv"/></r></p></e>
+    <e><p><l>w ogóle<s n="adv"/></l><r>vůbec<s n="adv"/></r></p></e>
 
+    <!-- Pre-adverbs -->
+    <e><p><l>zbyt<s n="preadv"/></l><r>příliš<s n="preadv"/></r></p></e>
+    <e r="LR"><p><l>za<s n="preadv"/></l><r>příliš<s n="preadv"/></r></p></e>
 
-     <!-- Verbs -->
-
+    <!-- Verbs -->
     <e><p><l>być<s n="vbser"/></l><r>být<s n="vbser"/></r></p></e>
     <e><p><l>mieć<s n="vbhaver"/><s n="imperf"/></l><r>mít<s n="vbhaver"/><s n="imperf"/></r></p></e>
     <e><p><l>móc<s n="vaux"/><s n="imperf"/></l><r>moci<s n="vaux"/><s n="imperf"/></r></p></e>

@@ -89,9 +89,9 @@
     <sdef n="po"     c=""/>
     <sdef n="percent" c=""/>
   </sdefs>
+
   <pardefs>
     <!-- Punctuation -->
-
     <pardef n="separa">
       <e>
         <re>[.\?;:!]</re>
@@ -101,7 +101,6 @@
         </p>
       </e>
     </pardef>
-
     <pardef n="coma">
       <e>
         <p>
@@ -111,9 +110,7 @@
       </e>
     </pardef>
 
- 
     <!-- Abbreviations -->
-
     <pardef n="např__abbr">
       <e><p><l></l><r><s n="abbr"/></r></p></e>
     </pardef>
@@ -121,8 +118,8 @@
     <pardef n="ahoj__ij">
       <e><p><l></l><r><s n="ij"/></r></p></e>
     </pardef>
+ 
     <!-- Numerals -->
-
     <pardef n="numeros">
       <e>
         <i>1</i>
@@ -167,6 +164,7 @@
         </p>
       </e>
     </pardef>
+
     <!-- Adjective bases -->
     <pardef n="dalš/í__BASE">
       <e>
@@ -1716,7 +1714,6 @@
     </pardef>
 
     <!-- Conjunctions -->
-
     <pardef n="a__cnjcoo">
       <e>
         <p>
@@ -1733,7 +1730,6 @@
         </p>
       </e>
     </pardef>
-
     <pardef n="až__cnjsub">
       <e>
         <p>
@@ -1742,7 +1738,6 @@
         </p>
       </e>
     </pardef>
-
     <pardef n="aby__cnjsub">
       <e>
         <p>
@@ -2620,8 +2615,6 @@
         </p>
       </e>
     </pardef>
-
-
     <pardef n="/co__prn">
       <e>
         <p>
@@ -19710,61 +19703,6 @@
       <e><p>          <l>žeňme</l><r>hnát<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p>          <l>žeňte</l><r>hnát<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
-    <pardef n="pro/sit__vblex">
-      <e><p>          <l>sit</l><r>sit<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
-
-      <e><p>          <l>sím</l><r>sit<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p>          <l>síš</l><r>sit<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p>          <l>sí</l><r>sit<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p>          <l>síme</l><r>sit<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p>          <l>síte</l><r>sit<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p>          <l>sí</l><r>sit<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-
-      <e><p>          <l>sil</l><r>sit<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
-
-      <e><p>          <l>se</l><r>sit<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
-      <e><p>          <l>se</l><r>sit<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
-      <e><p>          <l>síc</l><r>sit<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>síc</l><r>sit<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
-      <e><p>          <l>síce</l><r>sit<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p>          <l>síce</l><r>sit<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
-      <e><p>          <l>síce</l><r>sit<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
-
-      <e><p>          <l>šení</l><r>sit<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
-      <e><p>          <l>šen</l><r>sit<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
-      <e><p>          <l>síc</l><r>sit<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="dalš/í__BASE"/></e>
-      <e><p>          <l>šen</l><r>sit<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
-
-      <e><p>          <l>s</l><r>sit<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p>          <l>sme</l><r>sit<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p>          <l>ste</l><r>sit<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
-    </pardef>
-    <pardef n="pr/dět__vblex">
-      <e><p>          <l>dět</l><r>dět<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
-
-      <e><p>          <l>dím</l><r>dět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p>          <l>díš</l><r>dět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p>          <l>dí</l><r>dět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p>          <l>díme</l><r>dět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p>          <l>díte</l><r>dět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p>          <l>dí</l><r>dět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-
-      <e><p>          <l>děl</l><r>dět<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
-
-      <e><p>          <l>dě</l><r>dět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
-      <e><p>          <l>dě</l><r>dět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
-      <e><p>          <l>díc</l><r>dět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>díc</l><r>dět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
-      <e><p>          <l>díce</l><r>dět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p>          <l>díce</l><r>dět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
-      <e><p>          <l>díce</l><r>dět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
-
-      <e><p>          <l>díc</l><r>dět<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="dalš/í__BASE"/></e>
-
-      <e><p>          <l>ď</l><r>dět<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p>          <l>ďme</l><r>dět<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p>          <l>ďte</l><r>dět<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
-    </pardef>
 
     <pardef n="obr/nit__vblex">
       <e><p>          <l>nit</l><r>nit<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
@@ -20138,7 +20076,6 @@
         </p>
       </e>
     </pardef>
-
     <pardef n="tehdy__adv">
       <e>
         <p>
@@ -22352,25 +22289,38 @@
     <e lm="než"><i>než</i><par n="a__cnjcoo"/></e>
     <e lm="čili"><i>čili</i><par n="a__cnjcoo"/></e>
     <e lm="leč"><i>leč</i><par n="a__cnjcoo"/></e>
+    <e lm="nýbrž"><i>leč</i><par n="a__cnjcoo"/></e>
+
     <e lm="až"><i>až</i><par n="až__cnjsub"/></e>
     <e lm="že"><i>že</i><par n="až__cnjsub"/></e>
     <e lm="když"><i>když</i><par n="až__cnjsub"/></e>
+    <e lm="kdy"><i>kdy</i><par n="aby__cnjsub"/></e>
     <e lm="by"><i>by</i><par n="aby__cnjsub"/></e>
     <e lm="aby"><i>aby</i><par n="aby__cnjsub"/></e>
     <e lm="kdyby"><i>kdyby</i><par n="aby__cnjsub"/></e>
+    <e lm="dokud"><i>dokud</i><par n="aby__cnjsub"/></e>
+
     <e lm="jestli"><i>jestli</i><par n="jestli__cnjadv"/></e>
     <e lm="jestliže"><i>jestliže</i><par n="jestli__cnjadv"/></e>
     <e lm="přece"><i>přece</i><par n="jestli__cnjadv"/></e>
     <e lm="však"><i>však</i><par n="jestli__cnjadv"/></e>
+    <e lm="avšak"><i>avšak</i><par n="jestli__cnjadv"/></e>
     <e lm="proto"><i>proto</i><par n="jestli__cnjadv"/></e>
     <e lm="poněvadž"><i>poněvadž</i><par n="jestli__cnjadv"/></e>
+    <e lm="jelikož"><i>jelikož</i><par n="jestli__cnjadv"/></e>
     <e lm="přitom"><i>přitom</i><par n="jestli__cnjadv"/></e>
     <e lm="pokud"><i>pokud</i><par n="jestli__cnjadv"/></e>
     <e lm="neboť"><i>neboť</i><par n="jestli__cnjadv"/></e>
     <e lm="nebo"><i>nebo</i><par n="jestli__cnjadv"/></e>
+    <e lm="anebo"><i>anebo</i><par n="jestli__cnjadv"/></e>
     <e lm="protože"><i>protože</i><par n="jestli__cnjadv"/></e>
-    <e lm="poněvadž"><i>poněvadž</i><par n="jestli__cnjadv"/></e>
     <e lm="ačkoliv"><i>ačkoliv</i><par n="jestli__cnjadv"/></e>
+    <e lm="přestože"><i>přestože</i><par n="jestli__cnjadv"/></e>
+    <e lm="totiž"><i>totiž</i><par n="jestli__cnjadv"/></e>
+    <e lm="tudíž"><i>tudíž</i><par n="jestli__cnjadv"/></e>
+    <e lm="naopak"><i>naopak</i><par n="jestli__cnjadv"/></e>
+    <e lm="teda"><i>teda</i><par n="jestli__cnjadv"/></e>
+    <e lm="tedy"><i>tedy</i><par n="jestli__cnjadv"/></e>
 
     <!-- Prepositions -->
     <e lm="bez"><i>bez</i><par n="za__pr"/></e>
@@ -22396,6 +22346,7 @@
     <e lm="od" r="LR"><p><l>ode</l><r>od</r></p><par n="za__pr"/></e>
     <e lm="od" r="RL"><p><l><a/>od</l><r>od</r></p><par n="za__pr"/></e>
     <e lm="okolo"><i>okolo</i><par n="za__pr"/></e>
+    <e lm="asi"><i>asi</i><par n="za__pr"/></e>
     <e lm="oproti"><i>oproti</i><par n="za__pr"/></e>
     <e lm="po"><i>po</i><par n="za__pr"/></e>
     <e lm="pod"><i>pod</i><par n="za__pr"/></e>
@@ -22590,22 +22541,26 @@
     <e lm="vegetariánský"><par n="nej__adv"/><i>vegetarián</i><par n="evrop/ský__adj"/></e>
     <e lm="velšský"><par n="nej__adv"/><i>velš</i><par n="če/ský__adj"/></e>
     <e lm="židovský"><par n="nej__adv"/><i>židov</i><par n="če/ský__adj"/></e>
-
-
-
     <e lm="typický"><par n="nej__adv"/><i>typi</i><par n="exotermi/cký__adj"/></e>
     <e lm="exotermický"><par n="nej__adv"/><i>exotermi</i><par n="exotermi/cký__adj"/></e>
     <e lm="demokratický"><par n="nej__adv"/><i>demokrati</i><par n="exotermi/cký__adj"/></e>
     <e lm="víkendový"><par n="nej__adv"/><i>víkendov</i><par n="víkendov/ý__adj"/></e>
     <e lm="spravedlivý"><par n="nej__adv"/><i>spravedliv</i><par n="víkendov/ý__adj"/></e>
     <e lm="celý"><i>cel</i><par n="cel/ý__adj"/></e>
+    <e lm="zlatý"><i>zlat</i><par n="cel/ý__adj"/></e>
 
-    <!-- Adverbs -->
+	<!-- Adverbs -->
+    <!-- Interrogative adverbs -->
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="kde"><i>kde</i><par n="jak__adv"/></e>
     <e lm="kam"><i>kam</i><par n="jak__adv"/></e>
     <e lm="zda"><i>zda</i><par n="jak__adv"/></e>
+    <e lm="dokud"><i>dokud</i><par n="jak__adv"/></e>
+    <e lm="odkud"><i>odkud</i><par n="jak__adv"/></e>
+    <e lm="kdý"><i>kdý</i><par n="jak__adv"/></e>
+    <e lm="kudy"><i>kudy</i><par n="jak__adv"/></e>
 
+	<!-- Synthetic adverbs -->
     <e lm="daleko"><i>daleko</i><par n="daleko__adv"/></e>
     <e lm="daleko"><p><l>dál</l><r>daleko</r></p><par n="dál__adv"/></e>
     <e lm="daleko"><p><l>nejdál</l><r>daleko</r></p><par n="nejdál__adv"/></e>
@@ -22627,6 +22582,11 @@
     <e lm="podle"><i>podle</i><par n="daleko__adv"/></e>
     <e lm="podle"><p><l>podleji</l><r>podle</r></p><par n="dál__adv"/></e>
     <e lm="podle"><p><l>nejpodleji</l><r>podle</r></p><par n="nejdál__adv"/></e>
+    <e lm="přímo"><i>přímo</i><par n="daleko__adv"/></e>
+    <e lm="přímo"><p><l>příměji</l><r>přímo</r></p><par n="dál__adv"/></e>
+    <e lm="přímo"><p><l>nejpříměji</l><r>přímo</r></p><par n="nejdál__adv"/></e>
+
+	<!-- Non-synthetic adverbs -->
     <e lm="odtud"><i>odtud</i><par n="tehdy__adv"/></e>
     <e lm="zde"><i>zde</i><par n="tehdy__adv"/></e>
     <e lm="již"><i>již</i><par n="tehdy__adv"/></e>
@@ -22638,8 +22598,11 @@
     <e lm="velice"><i>velice</i><par n="tehdy__adv"/></e>
     <e lm="jednou"><i>jednou</i><par n="tehdy__adv"/></e>
     <e lm="příliš"><i>příliš</i><par n="tehdy__adv"/></e>
-    <e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
     <e lm="ne"><i>ne</i><par n="tehdy__adv"/></e>
+    <e lm="tak"><i>tak</i><par n="tehdy__adv"/></e>
+    <e lm="jo"><i>jo</i><par n="tehdy__adv"/></e>
+    <e lm="ano"><i>ano</i><par n="tehdy__adv"/></e>
+    <e lm="no"><i>no</i><par n="tehdy__adv"/></e>
     <e lm="už"><i>už</i><par n="tehdy__adv"/></e>
     <e lm="jenom"><i>jenom</i><par n="tehdy__adv"/></e>
     <e lm="trochu"><i>trochu</i><par n="tehdy__adv"/></e>
@@ -22665,9 +22628,24 @@
     <e lm="dokonce"><i>dokonce</i><par n="tehdy__adv"/></e>
     <e lm="nikdy"><i>nikdy</i><par n="tehdy__adv"/></e>
     <e lm="na druhé straně"><i>na<b/>druhé<b/>straně</i><par n="tehdy__adv"/></e>
+    <e lm="hned"><i>hned</i><par n="tehdy__adv"/></e>
+    <e lm="možná"><i>možná</i><par n="tehdy__adv"/></e>
+    <e lm="nakonec"><i>nakonec</i><par n="tehdy__adv"/></e>
+    <e lm="konečně"><i>konečně</i><par n="tehdy__adv"/></e>
+    <e lm="potom"><i>potom</i><par n="tehdy__adv"/></e>
+    <e lm="poté"><i>poté</i><par n="tehdy__adv"/></e>
+    <e lm="ovšemže"><i>ovšemže</i><par n="tehdy__adv"/></e>
+    <e lm="samozřejmě"><i>samozřejmě</i><par n="tehdy__adv"/></e>
+    <e lm="snad"><i>snad</i><par n="tehdy__adv"/></e>
+    <e lm="spíše"><i>spíše</i><par n="tehdy__adv"/></e>
+    <e lm="vlastně"><i>vlastně</i><par n="tehdy__adv"/></e>
+    <e lm="vůbec"><i>vůbec</i><par n="tehdy__adv"/></e>
+    <e lm="zřejmě"><i>zřejmě</i><par n="tehdy__adv"/></e>
+
+    <!-- Pre-adverbs -->
+    <e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
 
     <!-- Nouns -->
-
     <e lm="aak"><i>aak</i><par n="bor__n"/></e>
     <e lm="plán"><i>plán</i><par n="bor__n"/></e>
     <e lm="akt"><i>akt</i><par n="bor__n"/></e>
@@ -24280,7 +24258,6 @@
     <e lm="chatka"><i>chat</i><par n="dív/ka__n"/></e>
     <e lm="choutka"><i>chout</i><par n="dív/ka__n"/></e>
     <e lm="chudinka"><i>chudin</i><par n="dív/ka__n"/></e>
-    <e lm="chvilka"><i>chvil</i><par n="dív/ka__n"/></e>
     <e lm="cibulka"><i>cibul</i><par n="dív/ka__n"/></e>
     <e lm="cukrovinka"><i>cukrovin</i><par n="dív/ka__n"/></e>
     <e lm="cukrovka"><i>cukrov</i><par n="dív/ka__n"/></e>
@@ -25040,14 +25017,12 @@
     <e lm="Řecko"><i>Řec</i><par n="Čes/ko__np"/></e>
 
     <!-- Abbreviations -->
-
     <e lm="např"><i>např</i><par n="např__abbr"/></e>
     <e lm="tzv"><i>tzv</i><par n="např__abbr"/></e>
     <e lm="cca"><i>cca</i><par n="např__abbr"/></e>
     <e lm="atd"><i>atd</i><par n="např__abbr"/></e>
     <e lm="tj"><i>tj</i><par n="např__abbr"/></e>
     <e lm="č"><i>č</i><par n="např__abbr"/></e>
-
     <e lm="cm"><i>cm</i><par n="např__abbr"/></e>
     <e lm="km"><i>km</i><par n="např__abbr"/></e>
     <e lm="kg"><i>kg</i><par n="např__abbr"/></e>

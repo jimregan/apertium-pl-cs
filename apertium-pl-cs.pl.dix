@@ -1224,57 +1224,81 @@
     <pardef n="jeśli__cnjadv">
       <e>
         <p>
-	  <l></l>
-	  <r><s n="cnjadv"/></r>
-	</p>
+	      <l></l>
+	      <r><s n="cnjadv"/></r>
+	    </p>
       </e>
     </pardef>
     <pardef n="gdzie__adv">
       <e>
         <p>
-	  <l></l>
-	  <r><s n="adv"/><s n="itg"/></r>
-	</p>
+	      <l></l>
+	      <r><s n="adv"/><s n="itg"/></r>
+	    </p>
       </e>
     </pardef>
     <pardef n="gdzie__rel">
       <e>
         <p>
-	  <l></l>
-	  <r><s n="rel"/><s n="adv"/></r>
-	</p>
+	      <l></l>
+	      <r><s n="rel"/><s n="adv"/></r>
+	    </p>
       </e>
     </pardef>
     <pardef n="zbyt__preadv">
       <e>
         <p>
-	  <l></l>
-	  <r><s n="preadv"/></r>
-	</p>
+	      <l></l>
+	      <r><s n="preadv"/></r>
+	    </p>
       </e>
     </pardef>
     <pardef n="co__rel">
       <e>
         <p>
-	  <l></l>
-	  <r><s n="rel"/><s n="an"/><s n="nt"/><s n="sg"/></r>
-	</p>
+	      <l></l>
+	      <r><s n="rel"/><s n="an"/><s n="nt"/><s n="sg"/></r>
+	    </p>
       </e>
     </pardef>
     <pardef n="tu__adv">
       <e>
         <p>
-	  <l></l>
-	  <r><s n="adv"/></r>
-	</p>
+	      <l></l>
+	      <r><s n="adv"/></r>
+	    </p>
+      </e>
+    </pardef>
+    <pardef n="dobrze__adv">
+      <e>
+        <p>
+	      <l></l>
+	      <r><s n="adv"/><s n="sint"/></r>
+	    </p>
+      </e>
+    </pardef>
+    <pardef n="lepiej__adv">
+      <e>
+        <p>
+	      <l></l>
+	      <r><s n="adv"/><s n="sint"/><s n="comp"/></r>
+	    </p>
+      </e>
+    </pardef>
+    <pardef n="najlepiej__adv">
+      <e>
+        <p>
+	      <l></l>
+	      <r><s n="adv"/><s n="sint"/><s n="sup"/></r>
+	    </p>
       </e>
     </pardef>
     <pardef n="jej__det">
       <e>
         <p>
-	  <l></l>
-	  <r><s n="det"/><s n="pos"/><s n="sp"/></r>
-	</p>
+	      <l></l>
+	      <r><s n="det"/><s n="pos"/><s n="sp"/></r>
+	    </p>
       </e>
     </pardef>
     <pardef n="dużo__det">
@@ -38388,18 +38412,7 @@
     <e lm="bezeń"><p><l>bezeń</l><r>bez<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
     <e lm="bezeń"><p><l>bezeń</l><r>bez<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
 
-    <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
-    <e lm="aż"><i>aż</i><par n="że__cnjsub"/></e>
-    <e lm="by"><i>by</i><par n="by__cnjsub"/></e>
-    <e lm="gdyby"><i>gdyby</i><par n="by__cnjsub"/></e>
-    <e lm="kiedy"><i>kiedy</i><par n="by__cnjsub"/></e>
-    <e lm="aby"><i>aby</i><par n="by__cnjsub"/></e>
-    <e lm="żeby"><i>żeby</i><par n="by__cnjsub"/></e>
-    <e lm="dopóki"><i>dopóki</i><par n="że__cnjsub"/></e>
-    <e lm="dopóty"><i>dopóty</i><par n="że__cnjsub"/></e>
-    <e lm="iż"><i>iż</i><par n="że__cnjsub"/></e>
-    <e lm="gdy"><i>gdy</i><par n="że__cnjsub"/></e>
-
+    <!-- Abbreviations -->
     <e lm="np"><i>np</i><par n="np__abbr"/></e>
     <e lm="tzw"><i>tzw</i><par n="np__abbr"/></e>
     <e lm="itd"><i>itd</i><par n="np__abbr"/></e>
@@ -38411,6 +38424,20 @@
     <e lm="nr"><i>nr</i><par n="np__abbr"/></e>
     <e lm="św"><i>św</i><par n="np__abbr"/></e>
 
+	<!-- Conjunctions -->
+    <e lm="że"><i>że</i><par n="że__cnjsub"/></e>
+    <e lm="aż"><i>aż</i><par n="że__cnjsub"/></e>
+    <e lm="by"><i>by</i><par n="by__cnjsub"/></e>
+    <e lm="gdyby"><i>gdyby</i><par n="by__cnjsub"/></e>
+    <e lm="kiedy"><i>kiedy</i><par n="by__cnjsub"/></e>
+    <e lm="aby"><i>aby</i><par n="by__cnjsub"/></e>
+    <e lm="żeby"><i>żeby</i><par n="by__cnjsub"/></e>
+    <e lm="dopóki"><i>dopóki</i><par n="że__cnjsub"/></e>
+    <e lm="póki"><i>póki</i><par n="że__cnjsub"/></e>
+    <e lm="dopóty"><i>dopóty</i><par n="że__cnjsub"/></e>
+    <e lm="iż"><i>iż</i><par n="że__cnjsub"/></e>
+    <e lm="gdy"><i>gdy</i><par n="że__cnjsub"/></e>
+
     <e lm="ale"><i>ale</i><par n="i__cnjcoo"/></e>
     <e lm="i"><i>i</i><par n="i__cnjcoo"/></e>
     <e lm="a"><i>a</i><par n="i__cnjcoo"/></e>
@@ -38418,6 +38445,7 @@
     <e lm="oraz"><i>oraz</i><par n="i__cnjcoo"/></e>
     <e lm="albo"><i>albo</i><par n="i__cnjcoo"/></e>
     <e lm="czy"><i>czy</i><par n="i__cnjcoo"/></e>
+    <e lm="aniżeli"><i>aniżeli</i><par n="i__cnjcoo"/></e>
     <e lm="niż"><i>niż</i><par n="i__cnjcoo"/></e>
     <e lm="ani"><i>ani</i><par n="i__cnjcoo"/></e>
     <e lm="lub"><i>lub</i><par n="i__cnjcoo"/></e>
@@ -38437,11 +38465,13 @@
     <e lm="ponieważ"><i>ponieważ</i><par n="jeśli__cnjadv"/></e>
     <e lm="podczas gdy"><i>podczas<b/>gdy</i><par n="jeśli__cnjadv"/></e>
     <e lm="bowiem"><i>bowiem</i><par n="jeśli__cnjadv"/></e>
+    <e lm="albowiem"><i>albowiem</i><par n="jeśli__cnjadv"/></e>
     <e lm="bo"><i>bo</i><par n="jeśli__cnjadv"/></e>
     <e lm="dlatego że"><i>dlatego<b/>że</i><par n="jeśli__cnjadv"/></e>
     <e lm="aczkolwiek"><i>aczkolwiek</i><par n="jeśli__cnjadv"/></e>
     <e lm="mianowicie"><i>mianowicie</i><par n="jeśli__cnjadv"/></e>
     <e lm="więc"><i>więc</i><par n="jeśli__cnjadv"/></e>
+    <e lm="a więc"><i>a<b/>więc</i><par n="jeśli__cnjadv"/></e>
     <e lm="zatem"><i>zatem</i><par n="jeśli__cnjadv"/></e>
     <e lm="toteż"><i>toteż</i><par n="jeśli__cnjadv"/></e>
     <e lm="natomiast"><i>natomiast</i><par n="jeśli__cnjadv"/></e>
@@ -38450,6 +38480,8 @@
     <e lm="chociaż"><i>chociaż</i><par n="jeśli__cnjadv"/></e>
     <e lm="gdyż"><i>gdyż</i><par n="jeśli__cnjadv"/></e>
     <e lm="choć"><i>choć</i><par n="jeśli__cnjadv"/></e>
+    <e lm="pomimo że"><i>pomimo<b/>że</i><par n="jeśli__cnjadv"/></e>
+    <e lm="mimo że"><i>mimo<b/>że</i><par n="jeśli__cnjadv"/></e>
     <e lm="zanim"><i>zanim</i><par n="jeśli__cnjadv"/></e>
 
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
@@ -38465,8 +38497,8 @@
     <e lm="dużo"><i>dużo</i><par n="dużo__det"/></e>
     <e lm="tyle"><i>tyle</i><par n="dużo__det"/></e>
     <e lm="każdy"><i>każd</i><par n="każd/y__prn"/></e>
-    <e lm="każdy"><i>każd</i><par n="każd/y__det"/></e>
 
+    <e lm="każdy"><i>każd</i><par n="każd/y__det"/></e>
     <e lm="to"><i></i><par n="/to__det"/></e>
     <e lm="co"><i>c</i><par n="c/o__det"/></e>
     <e lm="tamto"><i>tam</i><par n="tam/to__det"/></e>
@@ -38610,7 +38642,219 @@
     <e lm="wytrwały"><i>wytrwa</i><par n="ma/ły__adj"/></e>
     <e lm="wytrwały"><p><l>wytrwal</l><r>wytrwały</r></p><par n="lep/szy__adj"/></e>
     <e lm="wytrwały"><p><l>najwytrwal</l><r>wytrwały</r></p><par n="najlep/szy__adj"/></e>
-
+    <e lm="rozległy"><i>rozleg</i><par n="ma/ły__adj"/></e>
+    <e lm="rozległy"><p><l>rozleglej</l><r>rozległy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="rozległy"><p><l>najrozleglej</l><r>rozległy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="zwykły"><i>zwyk</i><par n="ma/ły__adj"/></e>
+    <e lm="zwykły"><p><l>zwyklej</l><r>zwykły</r></p><par n="lep/szy__adj"/></e>
+    <e lm="zwykły"><p><l>najzwyklej</l><r>zwykły</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="aktualny"><i>aktualn</i><par n="now/y__adj"/></e>
+    <e lm="aktualny"><p><l>aktualniej</l><r>aktualny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="aktualny"><p><l>najaktualniej</l><r>aktualny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="aktywny"><i>aktywn</i><par n="now/y__adj"/></e>
+    <e lm="aktywny"><p><l>aktywniej</l><r>aktywny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="aktywny"><p><l>najaktywniej</l><r>aktywny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="bezwzględny"><i>bezwzględn</i><par n="now/y__adj"/></e>
+    <e lm="bezwzględny"><p><l>bezwzględniej</l><r>bezwzględny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="bezwzględny"><p><l>najbezwzględniej</l><r>bezwzględny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="cenny"><i>cenn</i><par n="now/y__adj"/></e>
+    <e lm="cenny"><p><l>cenniejszyl</l><r>cenny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="cenny"><p><l>najcenniejszyl</l><r>cenny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="charakterystyczny"><i>charakterystyczn</i><par n="now/y__adj"/></e>
+    <e lm="charakterystyczny"><p><l>charakterystyczniej</l><r>charakterystyczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="charakterystyczny"><p><l>najcharakterystyczniej</l><r>charakterystyczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="czynny"><i>czynn</i><par n="now/y__adj"/></e>
+    <e lm="czynny"><p><l>czynniej</l><r>czynny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="czynny"><p><l>najczynniej</l><r>czynny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ekonomiczny"><i>ekonomiczn</i><par n="now/y__adj"/></e>
+    <e lm="ekonomiczny"><p><l>ekonomiczniej</l><r>ekonomiczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ekonomiczny"><p><l>najekonomiczniej</l><r>ekonomiczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="gwałtowny"><i>gwałtown</i><par n="now/y__adj"/></e>
+    <e lm="gwałtowny"><p><l>gwałtowniej</l><r>gwałtowny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="gwałtowny"><p><l>najgwałtowniej</l><r>gwałtowny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="główny"><i>główn</i><par n="now/y__adj"/></e>
+    <e lm="główny"><p><l>główniej</l><r>główny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="główny"><p><l>najgłówniej</l><r>główny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="intensywny"><i>intensywn</i><par n="now/y__adj"/></e>
+    <e lm="intensywny"><p><l>intensywniej</l><r>intensywny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="intensywny"><p><l>najintensywniej</l><r>intensywny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="istotny"><i>istotn</i><par n="now/y__adj"/></e>
+    <e lm="istotny"><p><l>istotniej</l><r>istotny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="istotny"><p><l>najistotniej</l><r>istotny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="karny"><i>karn</i><par n="now/y__adj"/></e>
+    <e lm="karny"><p><l>karniej</l><r>karny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="karny"><p><l>najkarniej</l><r>karny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="konieczny"><i>konieczn</i><par n="now/y__adj"/></e>
+    <e lm="konieczny"><p><l>konieczniej</l><r>konieczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="konieczny"><p><l>najkonieczniej</l><r>konieczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="konkretny"><i>konkretn</i><par n="now/y__adj"/></e>
+    <e lm="konkretny"><p><l>konkretniej</l><r>konkretny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="konkretny"><p><l>najkonkretniej</l><r>konkretny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="korzystny"><i>korzystn</i><par n="now/y__adj"/></e>
+    <e lm="korzystny"><p><l>korzystniej</l><r>korzystny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="korzystny"><p><l>najkorzystniej</l><r>korzystny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="liberalny"><i>liberaln</i><par n="now/y__adj"/></e>
+    <e lm="liberalny"><p><l>liberalniej</l><r>liberalny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="liberalny"><p><l>najliberalniej</l><r>liberalny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="liczny"><i>liczn</i><par n="now/y__adj"/></e>
+    <e lm="liczny"><p><l>liczniej</l><r>liczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="liczny"><p><l>najliczniej</l><r>liczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="możliwy"><i>możliw</i><par n="now/y__adj"/></e>
+    <e lm="możliwy"><p><l>możliw</l><r>możliwy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="możliwy"><p><l>najmożliw</l><r>możliwy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="negatywny"><i>negatywn</i><par n="now/y__adj"/></e>
+    <e lm="negatywny"><p><l>negatywniej</l><r>negatywny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="negatywny"><p><l>najnegatywniej</l><r>negatywny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="obronny"><i>obronn</i><par n="now/y__adj"/></e>
+    <e lm="obronny"><p><l>obronniej</l><r>obronny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="obronny"><p><l>najobronniej</l><r>obronny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="odpowiedzialny"><i>odpowiedzialn</i><par n="now/y__adj"/></e>
+    <e lm="odpowiedzialny"><p><l>odpowiedzialniej</l><r>odpowiedzialny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="odpowiedzialny"><p><l>najodpowiedzialniej</l><r>odpowiedzialny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ogromny"><i>ogromn</i><par n="now/y__adj"/></e>
+    <e lm="ogromny"><p><l>ogromniej</l><r>ogromny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ogromny"><p><l>najogromniej</l><r>ogromny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="oryginalny"><i>oryginaln</i><par n="now/y__adj"/></e>
+    <e lm="oryginalny"><p><l>oryginalniej</l><r>oryginalny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="oryginalny"><p><l>najoryginalniej</l><r>oryginalny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="pierwotny"><i>pierwotn</i><par n="now/y__adj"/></e>
+    <e lm="pierwotny"><p><l>pierwotniej</l><r>pierwotny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="pierwotny"><p><l>najpierwotniej</l><r>pierwotny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="piękny"><i>piękn</i><par n="now/y__adj"/></e>
+    <e lm="piękny"><p><l>piękniej</l><r>piękny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="piękny"><p><l>najpiękniej</l><r>piękny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="podobny"><i>podobn</i><par n="now/y__adj"/></e>
+    <e lm="podobny"><p><l>podobniej</l><r>podobny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="podobny"><p><l>najpodobniej</l><r>podobny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="popularny"><i>popularn</i><par n="now/y__adj"/></e>
+    <e lm="popularny"><p><l>popularniej</l><r>popularny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="popularny"><p><l>najpopularniej</l><r>popularny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="potrzebny"><i>potrzebn</i><par n="now/y__adj"/></e>
+    <e lm="potrzebny"><p><l>potrzebniej</l><r>potrzebny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="potrzebny"><p><l>najpotrzebniej</l><r>potrzebny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="potężny"><i>potężn</i><par n="now/y__adj"/></e>
+    <e lm="potężny"><p><l>potężniej</l><r>potężny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="potężny"><p><l>najpotężniej</l><r>potężny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="poważny"><i>poważn</i><par n="now/y__adj"/></e>
+    <e lm="poważny"><p><l>poważniej</l><r>poważny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="poważny"><p><l>najpoważniej</l><r>poważny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="pozytywny"><i>pozytywn</i><par n="now/y__adj"/></e>
+    <e lm="pozytywny"><p><l>pozytywniej</l><r>pozytywny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="pozytywny"><p><l>najpozytywniej</l><r>pozytywny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="praktyczny"><i>praktyczn</i><par n="now/y__adj"/></e>
+    <e lm="praktyczny"><p><l>praktyczniej</l><r>praktyczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="praktyczny"><p><l>najpraktyczniej</l><r>praktyczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="prawdopodobny"><i>prawdopodobn</i><par n="now/y__adj"/></e>
+    <e lm="prawdopodobny"><p><l>prawdopodobniej</l><r>prawdopodobny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="prawdopodobny"><p><l>najprawdopodobniej</l><r>prawdopodobny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="prawdziwy"><i>prawdziw</i><par n="now/y__adj"/></e>
+    <e lm="prawdziwy"><p><l>prawdziw</l><r>prawdziwy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="prawdziwy"><p><l>najprawdziw</l><r>prawdziwy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="przeciwny"><i>przeciwn</i><par n="now/y__adj"/></e>
+    <e lm="przeciwny"><p><l>przedziwniej</l><r>przeciwny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="przeciwny"><p><l>najprzedziwniej</l><r>przeciwny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="przydatny"><i>przydatn</i><par n="now/y__adj"/></e>
+    <e lm="przydatny"><p><l>przydatniej</l><r>przydatny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="przydatny"><p><l>najprzydatniej</l><r>przydatny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="regularny"><i>regularn</i><par n="now/y__adj"/></e>
+    <e lm="regularny"><p><l>regularniej</l><r>regularny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="regularny"><p><l>najregularniej</l><r>regularny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="religijny"><i>religijn</i><par n="now/y__adj"/></e>
+    <e lm="religijny"><p><l>religijniej</l><r>religijny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="religijny"><p><l>najreligijniej</l><r>religijny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="rolny"><i>roln</i><par n="now/y__adj"/></e>
+    <e lm="rolny"><p><l>rojniej</l><r>rolny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="rolny"><p><l>najrojniej</l><r>rolny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="różny"><i>różn</i><par n="now/y__adj"/></e>
+    <e lm="różny"><p><l>różniej</l><r>różny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="różny"><p><l>najróżniej</l><r>różny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="różnorodny"><i>różnorodn</i><par n="now/y__adj"/></e>
+    <e lm="różnorodny"><p><l>różnorodniej</l><r>różnorodny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="różnorodny"><p><l>najróżnorodniej</l><r>różnorodny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="samodzielny"><i>samodzieln</i><par n="now/y__adj"/></e>
+    <e lm="samodzielny"><p><l>samodzielniej</l><r>samodzielny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="samodzielny"><p><l>najsamodzielniej</l><r>samodzielny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="silny"><i>siln</i><par n="now/y__adj"/></e>
+    <e lm="silny"><p><l>silniej</l><r>silny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="silny"><p><l>najsilniej</l><r>silny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="specyficzny"><i>specyficzn</i><par n="now/y__adj"/></e>
+    <e lm="specyficzny"><p><l>specyficzniej</l><r>specyficzny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="specyficzny"><p><l>najspecyficzniej</l><r>specyficzny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="szczególny"><i>szczególn</i><par n="now/y__adj"/></e>
+    <e lm="szczególny"><p><l>szczególniej</l><r>szczególny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="szczególny"><p><l>najszczególniej</l><r>szczególny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="sztuczny"><i>sztuczn</i><par n="now/y__adj"/></e>
+    <e lm="sztuczny"><p><l>sztuczniej</l><r>sztuczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="sztuczny"><p><l>najsztuczniej</l><r>sztuczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="słaby"><i>słab</i><par n="now/y__adj"/></e>
+    <e lm="słaby"><p><l>słab</l><r>słaby</r></p><par n="lep/szy__adj"/></e>
+    <e lm="słaby"><p><l>najsłab</l><r>słaby</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="słoneczny"><i>słoneczn</i><par n="now/y__adj"/></e>
+    <e lm="słoneczny"><p><l>słoneczniej</l><r>słoneczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="słoneczny"><p><l>najsłoneczniej</l><r>słoneczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="słynny"><i>słynn</i><par n="now/y__adj"/></e>
+    <e lm="słynny"><p><l>słynniej</l><r>słynny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="słynny"><p><l>najsłynniej</l><r>słynny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="tradycyjny"><i>tradycyjn</i><par n="now/y__adj"/></e>
+    <e lm="tradycyjny"><p><l>tradycyjniej</l><r>tradycyjny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="tradycyjny"><p><l>najtradycyjniej</l><r>tradycyjny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="trudny"><i>trudn</i><par n="now/y__adj"/></e>
+    <e lm="trudny"><p><l>trudniej</l><r>trudny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="trudny"><p><l>najtrudniej</l><r>trudny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="waleczny"><i>waleczn</i><par n="now/y__adj"/></e>
+    <e lm="waleczny"><p><l>waleczniej</l><r>waleczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="waleczny"><p><l>najwaleczniej</l><r>waleczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="wartościowy"><i>wartościow</i><par n="now/y__adj"/></e>
+    <e lm="wartościowy"><p><l>wartościow</l><r>wartościowy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="wartościowy"><p><l>najwartościow</l><r>wartościowy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ważny"><i>ważn</i><par n="now/y__adj"/></e>
+    <e lm="ważny"><p><l>ważniej</l><r>ważny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ważny"><p><l>najważniej</l><r>ważny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="widoczny"><i>widoczn</i><par n="now/y__adj"/></e>
+    <e lm="widoczny"><p><l>widoczniej</l><r>widoczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="widoczny"><p><l>najwidoczniej</l><r>widoczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="wierny"><i>wiern</i><par n="now/y__adj"/></e>
+    <e lm="wierny"><p><l>wierniej</l><r>wierny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="wierny"><p><l>najwierniej</l><r>wierny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="wybitny"><i>wybitn</i><par n="now/y__adj"/></e>
+    <e lm="wybitny"><p><l>wybitniej</l><r>wybitny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="wybitny"><p><l>najwybitniej</l><r>wybitny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="wyraźny"><i>wyraźn</i><par n="now/y__adj"/></e>
+    <e lm="wyraźny"><p><l>wyraźniej</l><r>wyraźny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="wyraźny"><p><l>najwyraźniej</l><r>wyraźny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="właściwy"><i>właściw</i><par n="now/y__adj"/></e>
+    <e lm="właściwy"><p><l>właściw</l><r>właściwy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="właściwy"><p><l>najwłaściw</l><r>właściwy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="zdolny"><i>zdoln</i><par n="now/y__adj"/></e>
+    <e lm="zdolny"><p><l>zdolniej</l><r>zdolny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="zdolny"><p><l>najzdolniej</l><r>zdolny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="zgodny"><i>zgodn</i><par n="now/y__adj"/></e>
+    <e lm="zgodny"><p><l>zgodniej</l><r>zgodny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="zgodny"><p><l>najzgodniej</l><r>zgodny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="znaczny"><i>znaczn</i><par n="now/y__adj"/></e>
+    <e lm="znaczny"><p><l>znaczniej</l><r>znaczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="znaczny"><p><l>najznaczniej</l><r>znaczny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="zwyczajny"><i>zwyczajn</i><par n="now/y__adj"/></e>
+    <e lm="zwyczajny"><p><l>zwyczajniej</l><r>zwyczajny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="zwyczajny"><p><l>najzwyczajniej</l><r>zwyczajny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="łatwy"><i>łatw</i><par n="now/y__adj"/></e>
+    <e lm="łatwy"><p><l>łatwiej</l><r>łatwy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="łatwy"><p><l>najłatwiej</l><r>łatwy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="żywy"><i>żyw</i><par n="now/y__adj"/></e>
+    <e lm="żywy"><p><l>żyw</l><r>żywy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="żywy"><p><l>najżyw</l><r>żywy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="stary"><i>star</i><par n="dob/ry__adj"/></e>
+    <e lm="stary"><p><l>star</l><r>stary</r></p><par n="lep/szy__adj"/></e>
+    <e lm="stary"><p><l>najstar</l><r>stary</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="bogaty"><i>bogat</i><par n="świę/ty__adj"/></e>
+    <e lm="bogaty"><p><l>bogat</l><r>bogaty</r></p><par n="lep/szy__adj"/></e>
+    <e lm="bogaty"><p><l>najbogat</l><r>bogaty</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="pospolity"><i>pospolit</i><par n="świę/ty__adj"/></e>
+    <e lm="pospolity"><p><l>pospolit</l><r>pospolity</r></p><par n="lep/szy__adj"/></e>
+    <e lm="pospolity"><p><l>najpospolit</l><r>pospolity</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="rozmaity"><i>rozmait</i><par n="świę/ty__adj"/></e>
+    <e lm="rozmaity"><p><l>rozmait</l><r>rozmaity</r></p><par n="lep/szy__adj"/></e>
+    <e lm="rozmaity"><p><l>najrozmait</l><r>rozmaity</r></p><par n="najlep/szy__adj"/></e>
     <e lm="zły"><i></i><par n="/zły__adj"/></e>
     <e lm="zły"><p><l>gor</l><r>zły</r></p><par n="lep/szy__adj"/></e>
     <e lm="zły"><p><l>najgor</l><r>zły</r></p><par n="najlep/szy__adj"/></e>
@@ -38769,7 +39013,6 @@
     <e lm="sprawiedliwy"><p><l>sprawiedliw</l><r>sprawiedliwy</r></p><par n="lep/szy__adj"/></e>
     <e lm="sprawiedliwy"><p><l>najsprawiedliw</l><r>sprawiedliwy</r></p><par n="najlep/szy__adj"/></e>
 
-
     <!-- non-synthetic, with obsolete comparatives -->
     <e lm="żółty"><i>żół</i><par n="żół/ty__adj"/></e>
     <e lm="żółtszy" r="LR"><p><l>żółt</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
@@ -38777,6 +39020,7 @@
     <e lm="żółciejszy" r="LR"><p><l>żółciej</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
     <e lm="najżółciejszy" r="LR"><p><l>najżółciej</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
 
+    <e lm="złoty"><i>zło</i><par n="żół/ty__adj"/></e>
     <e lm="całkowity"><i>całkowi</i><par n="żół/ty__adj"/></e>   
     <e lm="cały"><i>ca</i><par n="ca/ły__adj"/></e>
     <e lm="podległy"><i>podleg</i><par n="ca/ły__adj"/></e>
@@ -38937,9 +39181,6 @@
     <e lm="do jutra"><i>do<b/>jutra</i><par n="cześć__ij"/></e>
     <e lm="do zobaczenia"><i>do<b/>zobaczenia</i><par n="cześć__ij"/></e>
 
-    <e lm="zbyt"><i>zbyt</i><par n="zbyt__preadv"/></e>
-    <e lm="za"><i>za</i><par n="zbyt__preadv"/></e>
-
     <e lm="gdzie"><i>gdzie</i><par n="gdzie__rel"/></e>
     <e lm="co"><i>co</i><par n="co__rel"/></e>
     <e lm="co"><i>c</i><par n="c/o__prn"/></e>
@@ -38952,8 +39193,6 @@
     <e lm="ktoś"><i>k</i><par n="k/toś__prn"/></e>
     <e lm="ktokolwiek"><i>k</i><par n="k/tokolwiek__prn"/></e>
     <e lm="kto bądź"><i>k</i><par n="k/to_bądź__prn"/></e>
-    <e lm="ile"><i>il</i><par n="il/e__det"/></e>
-    <e lm="ile"><i>il</i><par n="il/e__prn"/></e>
     <e lm="ilekolwiek"><i>il</i><par n="il/ekolwiek__prn"/></e>
     <e lm="ile bądź"><i>il</i><par n="il/e_bądź__prn"/></e>
     <e lm="wiele"><i>wiel</i><par n="wiel/e__det"/></e>
@@ -39004,22 +39243,71 @@
     <e lm="czworo"><i>czwor</i><par n="czwor/o__det"/></e>
     <e lm="czworo"><i>czwor</i><par n="czwor/o__prn"/></e>
 
+    <!-- Adverbs -->
+    <!-- Interrogative adverbs -->
     <e lm="gdzie"><i>gdzie</i><par n="gdzie__adv"/></e>
     <e lm="jak"><i>jak</i><par n="gdzie__adv"/></e>
     <e lm="kiedy"><i>kiedy</i><par n="gdzie__adv"/></e>
     <e lm="czy"><i>czy</i><par n="gdzie__adv"/></e>
     <e lm="dokąd"><i>dokąd</i><par n="gdzie__adv"/></e>
+    <e lm="skąd"><i>skąd</i><par n="gdzie__adv"/></e>
+    <e lm="którędy"><i>którędy</i><par n="gdzie__adv"/></e>
 
+    <!-- Synthetic adverbs -->
+    <e lm="dobrze"><i>dobrze</i><par n="dobrze__adv"/></e>
+    <e lm="dobrze"><p><l>lepiej</l><r>dobrze</r></p><par n="lepiej__adv"/></e>
+    <e lm="dobrze"><p><l>najlepiej</l><r>dobrze<s n="adv"/></r></p><par n="najlepiej__adv"/></e>
+    <e lm="źle"><i>źle</i><par n="dobrze__adv"/></e>
+    <e lm="źle"><p><l>gorzej</l><r>źle</r></p><par n="lepiej__adv"/></e>
+    <e lm="źle"><p><l>najgorzej</l><r>źle</r></p><par n="najlepiej__adv"/></e>
+    <e lm="bardzo"><i>bardzo</i><par n="dobrze__adv"/></e>
+    <e lm="bardzo"><p><l>bardziej</l><r>bardzo></r></p><par n="lepiej__adv"/></e>
+    <e lm="bardzo"><p><l>najbardziej</l><r>bardzo</r></p><par n="najlepiej__adv"/></e>
+    <e lm="wiele"><i>wiele</i><par n="dobrze__adv"/></e>
+    <e lm="wiele"><p><l>więcej</l><r>wiele</r></p><par n="lepiej__adv"/></e>
+    <e lm="wiele"><p><l>najwięcej</l><r>wiele</r></p><par n="najlepiej__adv"/></e>
+    <e lm="mało"><i>mało</i><par n="dobrze__adv"/></e>
+    <e lm="mało"><p><l>mniej</l><r>mało</r></p><par n="lepiej__adv"/></e>
+    <e lm="mało"><p><l>najmniej</l><r>mało</r></p><par n="najlepiej__adv"/></e>
+    <e lm="daleko"><i>daleko</i><par n="dobrze__adv"/></e>
+    <e lm="daleko"><p><l>dalej</l><r>daleko</r></p><par n="lepiej__adv"/></e>
+    <e lm="daleko"><p><l>najdalej</l><r>daleko</r></p><par n="najlepiej__adv"/></e>
+    <e lm="podle"><i>podle</i><par n="dobrze__adv"/></e>
+    <e lm="podle"><p><l>podlej</l><r>podle</r></p><par n="lepiej__adv"/></e>
+    <e lm="podle"><p><l>najpodlej</l><r>podle</r></p><par n="najlepiej__adv"/></e>
+    <e lm="rano"><i>rano</i><par n="dobrze__adv"/></e>
+    <e lm="rano"><p><l>raniej</l><r>rano</r></p><par n="lepiej__adv"/></e>
+    <e lm="rano"><p><l>najraniej</l><r>rano</r></p><par n="najlepiej__adv"/></e>
+    <e lm="blisko"><i>blisko</i><par n="dobrze__adv"/></e>
+    <e lm="blisko"><p><l>bliżej</l><r>blisko</r></p><par n="lepiej__adv"/></e>
+    <e lm="blisko"><p><l>najbliżej</l><r>blisko</r></p><par n="najlepiej__adv"/></e>
+    <e lm="dokładnie"><i>dokładnie</i><par n="dobrze__adv"/></e>
+    <e lm="dokładnie"><p><l>dokładniej</l><r>dokładnie</r></p><par n="lepiej__adv"/></e>
+    <e lm="dokładnie"><p><l>najdokładniej</l><r>dokładnie</r></p><par n="najlepiej__adv"/></e>
+    <e lm="szczęśliwie"><i>szczęśliwie</i><par n="dobrze__adv"/></e>
+    <e lm="szczęśliwie"><p><l>szczęśliwiej</l><r>szczęśliwie</r></p><par n="lepiej__adv"/></e>
+    <e lm="szczęśliwie"><p><l>najszczęśliwiej</l><r>szczęśliwie</r></p><par n="najlepiej__adv"/></e>
+    <e lm="prawdopodobnie"><i>prawdopodobnie</i><par n="dobrze__adv"/></e>
+    <e lm="prawdopodobnie"><p><l>prawdopodobniej</l><r>prawdopodobnie</r></p><par n="lepiej__adv"/></e>
+    <e lm="prawdopodobnie"><p><l>najprawdopodobniej</l><r>prawdopodobnie</r></p><par n="najlepiej__adv"/></e>
+    <e lm="szybko"><i>szybko</i><par n="dobrze__adv"/></e>
+    <e lm="szybko"><p><l>szybciej</l><r>szybko</r></p><par n="lepiej__adv"/></e>
+    <e lm="szybko"><p><l>najszybciej</l><r>szybko<s n="adv"/></r></p><par n="najlepiej__adv"/></e>
+    <e lm="późno"><i>późno</i><par n="dobrze__adv"/></e>
+    <e lm="późno"><p><l>później</l><r>późno</r></p><par n="lepiej__adv"/></e>
+    <e lm="późno"><p><l>najpóźniej</l><r>późno<s n="adv"/></r></p><par n="najlepiej__adv"/></e>
+ 
+    <!-- Non-synthetic adverbs -->
     <e lm="nie"><i>nie</i><par n="tu__adv"/></e>
+    <e lm="tak"><i>tak</i><par n="tu__adv"/></e>
+    <e lm="no"><i>no</i><par n="tu__adv"/></e>
     <e lm="naj"><i>naj</i><par n="tu__adv"/></e>
     <e lm="niech"><i>niech</i><par n="tu__adv"/></e>
     <e lm="niechaj"><i>niechaj</i><par n="tu__adv"/></e>
-
     <e lm="nigdy"><i>nigdy</i><par n="tu__adv"/></e>
     <e lm="stąd"><i>stąd</i><par n="tu__adv"/></e>
     <e lm="niedaleko"><i>niedaleko</i><par n="tu__adv"/></e>
-    <e lm="daleko"><i>daleko</i><par n="tu__adv"/></e>
-    <e lm="blisko"><i>blisko</i><par n="tu__adv"/></e>
+    <e lm="przypuszczalnie"><i>przypuszczalnie</i><par n="tu__adv"/></e>
     <e lm="tu"><i>tu</i><par n="tu__adv"/></e>
     <e lm="tutaj"><i>tutaj</i><par n="tu__adv"/></e>
     <e lm="tam"><i>tam</i><par n="tu__adv"/></e>
@@ -39035,6 +39323,7 @@
     <e lm="jeszcze"><i>jeszcze</i><par n="tu__adv"/></e>
     <e lm="już"><i>już</i><par n="tu__adv"/></e>
     <e lm="także"><i>także</i><par n="tu__adv"/></e>
+    <e lm="również"><i>również</i><par n="tu__adv"/></e>
     <e lm="tylko"><i>tylko</i><par n="tu__adv"/></e>
     <e lm="jedynie"><i>jedynie</i><par n="tu__adv"/></e>
     <e lm="trochę"><i>trochę</i><par n="tu__adv"/></e>
@@ -39047,8 +39336,6 @@
     <e lm="na zawsze"><i>na<b/>zawsze</i><par n="tu__adv"/></e>
     <e lm="na przykład"><i>na<b/>przykład</i><par n="tu__adv"/></e>
     <e lm="niedawno"><i>niedawno</i><par n="tu__adv"/></e>
-    <e lm="dokładnie"><i>dokładnie</i><par n="tu__adv"/></e>
-    <e lm="szczęśliwie"><i>szczęśliwie</i><par n="tu__adv"/></e>
     <e lm="słodko"><i>słodko</i><par n="tu__adv"/></e>
     <e lm="do góry nogami"><i>do<b/>góry<b/>nogami</i><par n="tu__adv"/></e>
     <e lm="jednocześnie"><i>jednocześnie</i><par n="tu__adv"/></e>
@@ -39058,7 +39345,38 @@
     <e lm="też"><i>też</i><par n="tu__adv"/></e>
     <e lm="nawet"><i>nawet</i><par n="tu__adv"/></e>
     <e lm="z drugiej strony"><i>z<b/>drugiej<b/>strony</i><par n="tu__adv"/></e>
+    <e lm="w niedługim czasie"><i>w<b/>niedługim<b/>czasie</i><par n="tu__adv"/></e>
+    <e lm="z marszu"><i>z<b/>marszu</i><par n="tu__adv"/></e>
+    <e lm="z miejsca"><i>z<b/>miejsca</i><par n="tu__adv"/></e>
+    <e lm="od ręki"><i>od<b/>ręki</i><par n="tu__adv"/></e>
+    <e lm="od razu"><i>od<b/>razu</i><par n="tu__adv"/></e>
+    <e lm="niebawem"><i>niebawem</i><par n="tu__adv"/></e>
+    <e lm="wkrótce"><i>wkrótce</i><par n="tu__adv"/></e>
+    <e lm="zaraz"><i>zaraz</i><par n="tu__adv"/></e>
+    <e lm="rychło"><i>rychło</i><par n="tu__adv"/></e>
+    <e lm="niedługo"><i>niedługo</i><par n="tu__adv"/></e>
+    <e lm="natychmiast"><i>natychmiast</i><par n="tu__adv"/></e>
+    <e lm="niezwłocznie"><i>niezwłocznie</i><par n="tu__adv"/></e>
+    <e lm="wnet"><i>wnet</i><par n="tu__adv"/></e>
+    <e lm="potem"><i>potem</i><par n="tu__adv"/></e>
+    <e lm="może"><i>może</i><par n="tu__adv"/></e>
+    <e lm="być może"><i>być<b/>może</i><par n="tu__adv"/></e>
+    <e lm="ostatecznie"><i>ostatecznie</i><par n="tu__adv"/></e>
+    <e lm="wreszcie"><i>wreszcie</i><par n="tu__adv"/></e>
+    <e lm="nareszcie"><i>nareszcie</i><par n="tu__adv"/></e>
+    <e lm="w końcu"><i>w<b/>końcu</i><par n="tu__adv"/></e>
+    <e lm="potem"><i>potem</i><par n="tu__adv"/></e>
+    <e lm="oczywiście"><i>oczywiście</i><par n="tu__adv"/></e>
+    <e lm="bezpośrednio"><i>bezpośrednio</i><par n="tu__adv"/></e>
+    <e lm="raczej"><i>raczej</i><par n="tu__adv"/></e>
+    <e lm="w rzeczywistości"><i>w<b/>rzeczywistości</i><par n="tu__adv"/></e>
+    <e lm="w ogóle"><i>w<b/>ogóle</i><par n="tu__adv"/></e>
 
+    <!-- Pre-adverbs -->
+    <e lm="zbyt"><i>zbyt</i><par n="zbyt__preadv"/></e>
+    <e lm="za"><i>za</i><par n="zbyt__preadv"/></e>
+
+	<!-- Verbs -->
     <e lm="być"><i></i><par n="/być__vbser"/></e>
     <e lm="mieć"><i>m</i><par n="m/ieć__vbhaver"/></e>
     <e lm="móc"><i>m</i><par n="m/óc__vaux"/></e>
@@ -40305,7 +40623,6 @@
     <e lm="bursztyn"><i>bursztyn</i><par n="sklep__n"/></e>
     <e lm="kompas"><i>kompas</i><par n="sklep__n"/></e>
     <e lm="drzewo"><i>drzew</i><par n="piw/o__n"/></e>
-    <e lm="piwo"><i>piw</i><par n="piw/o__n"/></e>
     <e lm="różnica"><i>różnic</i><par n="ulic/a__n"/></e>
     <e lm="praca"><i>prac</i><par n="ulic/a__n"/></e>
     <e lm="mgławica"><i>mgławic</i><par n="ulic/a__n"/></e>
@@ -41086,32 +41403,6 @@
     <e lm="marskość wątroby"><i>marskoś</i><par n="miłoś/ć__n"/><p><l><b/>wątroby</l><r><g><b/>wątroby</g></r></p></e>
     <e lm="trzęsienie ziemi"><i>trzęsie</i><par n="trzęsie/nie__n"/><p><l><b/>ziemi</l><r><g><b/>ziemi</g></r></p></e>
     <e lm="śniadanie"><i>śniada</i><par n="trzęsie/nie__n"/></e>
-
-    <e lm="dobrze"><p><l>dobrze</l><r>dobrze<s n="adv"/><s n="sint"/></r></p></e>
-    <e lm="dobrze"><p><l>lepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e lm="dobrze"><p><l>najlepiej</l><r>dobrze<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
-    <e lm="źle"><p><l>źle</l><r>źle<s n="adv"/><s n="sint"/></r></p></e>
-    <e lm="źle"><p><l>gorzej</l><r>źle<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e lm="źle"><p><l>najgorzej</l><r>źle<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
-    <e lm="bardzo"><p><l>bardzo</l><r>bardzo<s n="adv"/><s n="sint"/></r></p></e>
-    <e lm="bardzo"><p><l>bardziej</l><r>bardzo<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e lm="bardzo"><p><l>najbardziej</l><r>bardzo<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
-    <e lm="wiele"><p><l>wiele</l><r>wiele<s n="adv"/><s n="sint"/></r></p></e>
-    <e lm="wiele"><p><l>więcej</l><r>wiele<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e lm="wiele"><p><l>najwięcej</l><r>wiele<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
-    <e lm="mało"><p><l>mało</l><r>mało<s n="adv"/><s n="sint"/></r></p></e>
-    <e lm="mało"><p><l>mniej</l><r>mało<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e lm="mało"><p><l>najmniej</l><r>mało<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
-    <e lm="daleko"><p><l>daleko</l><r>daleko<s n="adv"/><s n="sint"/></r></p></e>
-    <e lm="daleko"><p><l>dalej</l><r>daleko<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e lm="daleko"><p><l>najdalej</l><r>daleko<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
-    <e lm="podle"><p><l>podle</l><r>podle<s n="adv"/><s n="sint"/></r></p></e>
-    <e lm="podle"><p><l>podlej</l><r>podle<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e lm="podle"><p><l>najpodlej</l><r>podle<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
-    <e lm="rano"><p><l>rano</l><r>rano<s n="adv"/><s n="sint"/></r></p></e>
-    <e lm="rano"><p><l>raniej</l><r>rano<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
-    <e lm="rano"><p><l>najraniej</l><r>rano<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
-
     <e lm="absolutność"><i>absolutnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="absurdalność"><i>absurdalnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="adaptabilność"><i>adaptabilnoś</i><par n="miłoś/ć__n"/></e>
