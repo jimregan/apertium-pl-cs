@@ -2730,7 +2730,6 @@
       </e>
     </pardef>
 
-
     <!-- Relatives -->
     <pardef n="kde__rel">
       <e>
@@ -2748,11 +2747,6 @@
         </p>
       </e>
     </pardef>
-
-
-
-
-
 
     <!-- Nouns -->
     <pardef n="sí/h__n">
@@ -3141,7 +3135,6 @@
         </p>
       </e>
     </pardef>
-
     <pardef n="boxe/r__n">
       <e>
         <p>
@@ -22070,7 +22063,6 @@
         <par n="dalš/í__BASE"/>
       </e>
     </pardef>
-
     <pardef n="každ/ý__prn">
       <e>
         <p>
@@ -22333,6 +22325,7 @@
 
   </pardefs>
   <section id="main" type="standard">
+
     <!-- Conjunctions -->
     <e lm="a"><i>a</i><par n="a__cnjcoo"/></e>
     <e lm="i"><i>i</i><par n="a__cnjcoo"/></e>
@@ -22378,7 +22371,9 @@
     <e lm="tedy"><i>tedy</i><par n="jestli__cnjadv"/></e>
 
     <!-- Prepositions -->
-    <e lm="bez"><i>bez</i><par n="za__pr"/></e>
+    <e lm="bez" r="LR"><p><l>bez</l><r>bez<s n="pr"/></r></p></e>
+    <e lm="beze" r="LR"><p><l>beze</l><r>bez<s n="pr"/></r></p></e>
+    <e lm="bez" r="RL"><p><l><a/>bez</l><r>bez<s n="pr"/></r></p></e>
     <e lm="jako"><i>jako</i><par n="za__pr"/></e>
     <e lm="během"><i>během</i><par n="za__pr"/></e>
     <e lm="do"><i>do</i><par n="za__pr"/></e>
@@ -22393,6 +22388,7 @@
     <e lm="mezi"><i>mezi</i><par n="za__pr"/></e>
     <e lm="mimo"><i>mimo</i><par n="za__pr"/></e>
     <e lm="místo"><i>místo</i><par n="za__pr"/></e>
+    <e lm="namísto"><i>namísto</i><par n="za__pr"/></e>
     <e lm="na"><i>na</i><par n="za__pr"/></e>
     <e lm="nad"><i>nad</i><par n="za__pr"/></e>
     <e lm="naproti"><i>naproti</i><par n="za__pr"/></e>
@@ -22433,11 +22429,16 @@
     <e lm="nedaleko"><i>nedaleko</i><par n="za__pr"/></e>
     <e lm="s výjimkou"><i>s<b/>výjimkou</i><par n="za__pr"/></e>
     <e lm="poblíž"><i>poblíž</i><par n="za__pr"/></e>
+    <e lm="kromě"><i>kromě</i><par n="za__pr"/></e>
+    <e lm="vůči"><i>vůči</i><par n="za__pr"/></e>
+    <e lm="přes"><i>přes</i><par n="za__pr"/></e>
+    <e lm="jakožto"><i>jakožto</i><par n="za__pr"/></e>
+    <e lm="krát"><i>krát</i><par n="za__pr"/></e>
+    <e lm="na pokraji"><i>na<b/>pokraji</i><par n="za__pr"/></e>
+    <e lm="na rozdíl od"><i>na<b/>rozdíl<b/>od</i><par n="za__pr"/></e>
 
     <!-- Pronouns -->
-
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
-
     <e lm="kdo"><i>k</i><par n="k/do__prn"/></e>
     <e lm="někdo"><i>něk</i><par n="něk/do__prn"/></e>
     <e lm="kdokoliv"><i>k</i><par n="k/dokoliv__prn"/></e>
@@ -22452,18 +22453,15 @@
     <e lm="něco"><i>ně</i><par n="ně/co__prn"/></e>
     <e lm="se"><i></i><par n="/se__prn"/></e>
     <e lm="každý"><i>každ</i><par n="každ/ý__prn"/></e>
-    <e lm="každý"><i>každ</i><par n="každ/ý__det"/></e>
-
-    <e lm="kde"><i>kde</i><par n="kde__rel"/></e>
-    <e lm="co"><i>co</i><par n="co__rel"/></e>
-
     <e lm="můj"><i>m</i><par n="m/ůj__prn"/></e>
     <e lm="tvůj"><i>tv</i><par n="m/ůj__prn"/></e>
     <e lm="svůj"><i>sv</i><par n="m/ůj__prn"/></e>
 
+    <!-- Relatives -->
+    <e lm="kde"><i>kde</i><par n="kde__rel"/></e>
+    <e lm="co"><i>co</i><par n="co__rel"/></e>
 
     <!-- Numbers -->
-
     <e lm="jeden"><i>jed</i><par n="jed/en__num"/></e>
     <e lm="dva"><i>dv</i><par n="dv/a__num"/></e>
     <e lm="tři"><i>tř</i><par n="tř/i__num"/></e>
@@ -22505,6 +22503,7 @@
 -->
 
     <!-- Determiners -->
+    <e lm="každý"><i>každ</i><par n="každ/ý__det"/></e>
     <e lm="co"><i></i><par n="co__det"/></e>
     <e lm="to"><i></i><par n="to__det"/></e>
     <e lm="toto"><i></i><par n="toto__det"/></e>
@@ -24585,7 +24584,6 @@
     <e lm="zrcadlovka"><i>zrcadlov</i><par n="dív/ka__n"/></e>
 
     <!-- Verbs -->
-
     <e lm="být"><par n="v_neg"/><i></i><par n="/být__vbser"/></e>
     <e><p><l>je</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e><p><l>není</l><r>ne<s n="adv"/><j/>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -24601,6 +24599,7 @@
     <e lm="napsat"><par n="v_neg"/><i>naps</i><par n="naps/at__vblex"/></e>
     <e lm="chtít"><par n="v_neg"/><i>ch</i><par n="ch/tít__vblex"/></e>
     <e lm="doplnit"><par n="v_neg"/><i>dopl</i><par n="obr/nit__vblex"/></e>
+    <e lm="změnit"><par n="v_neg"/><i>změ</i><par n="obr/nit__vblex"/></e>
     <e lm="minout"><par n="v_neg"/><i>min</i><par n="min/out__vblex"/></e>
     <e lm="milovat"><par n="v_neg"/><i>mil</i><par n="mil/ovat__vblex"/></e>
     <e lm="datovat"><par n="v_neg"/><i>dat</i><par n="mil/ovat__vblex"/></e>
@@ -24619,7 +24618,6 @@
     <e lm="krýt"><par n="v_neg"/><i>kr</i><par n="kr/ýt__vblex"/></e>
 
     <!-- Proper nouns -->
-  
     <e lm="Petr"><i>Pet</i><par n="Pet/r__np"/></e>
     <e lm="Connor"><i>Conno</i><par n="Pet/r__np"/></e>
     <e lm="Ctibor"><i>Ctibo</i><par n="Pet/r__np"/></e>
@@ -25083,6 +25081,7 @@
     <e lm="kg"><i>kg</i><par n="např__abbr"/></e>
     <e lm="sv"><i>sv</i><par n="např__abbr"/></e>
 
+	<!-- Interjunctions -->
     <e lm="ahoj"><i>ahoj</i><par n="ahoj__ij"/></e>
     <e lm="dobrý den"><i>dobrý<b/>den</i><par n="ahoj__ij"/></e>
     <e lm="ach"><i>ach</i><par n="ahoj__ij"/></e>

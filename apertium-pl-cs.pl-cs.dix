@@ -250,13 +250,13 @@
     <e><p><l>natomiast<s n="cnjadv"/></l><r>naopak<s n="cnjadv"/></r></p></e>
 
      <!-- Prepositions -->
-
     <e r="RL"><p><l>o<s n="pr"/></l><r>stran<s n="pr"/></r></p></e>
     <e><p><l>przy<b/>pomocy<s n="pr"/></l><r>pomocí<s n="pr"/></r></p></e>
     <e><p><l>między<s n="pr"/></l><r>mezi<s n="pr"/></r></p></e>
     <e r="LR"><p><l>pomiędzy<s n="pr"/></l><r>mezi<s n="pr"/></r></p></e>
     <e><p><l>przed<s n="pr"/></l><r>před<s n="pr"/></r></p></e>
-    <e><p><l>przez<s n="pr"/></l><r>skrz<s n="pr"/></r></p></e>
+    <e><p><l>przez<s n="pr"/></l><r>přes<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>przez<s n="pr"/></l><r>skrz<s n="pr"/></r></p></e>
     <e><p><l>nad<s n="pr"/></l><r>nad<s n="pr"/></r></p></e>
     <e><p><l>bez<s n="pr"/></l><r>bez<s n="pr"/></r></p></e>
     <e><p><l>jako<s n="pr"/></l><r>jako<s n="pr"/></r></p></e>
@@ -280,6 +280,7 @@
     <e r="LR"><p><l>poza<s n="pr"/></l><r>mimo<s n="pr"/></r></p></e>
     <e r="LR"><p><l>spoza<s n="pr"/></l><r>mimo<s n="pr"/></r></p></e>
     <e><p><l>zamiast<s n="pr"/></l><r>místo<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>zamiast<s n="pr"/></l><r>namísto<s n="pr"/></r></p></e>
     <e><p><l>obok<s n="pr"/></l><r>vedle<s n="pr"/></r></p></e>
     <e><p><l>podczas<s n="pr"/></l><r>během<s n="pr"/></r></p></e>
     <e><p><l>wzdłuż<s n="pr"/></l><r>podél<s n="pr"/></r></p></e>
@@ -294,8 +295,8 @@
     <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
     <e><p><l>znad<s n="pr"/></l><r>z<b/>nad<s n="pr"/></r></p></e>
     <e><p><l>bez<b/>względu<b/>na<s n="pr"/></l><r>bez<b/>ohledu<b/>na<s n="pr"/></r></p></e>
-
     <e><p><l>ku<s n="pr"/></l><r>k<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>ku<s n="pr"/></l><r>ku<s n="pr"/></r></p></e>
     <e><p><l>naprzeciwko<s n="pr"/></l><r>naproti<s n="pr"/></r></p></e>
     <e r="LR"><p><l>wokół<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
     <e r="RL"><p><l>około<s n="pr"/></l><r>okolo<s n="pr"/></r></p></e>
@@ -307,7 +308,13 @@
     <e><p><l>z<b/>powodu<s n="pr"/></l><r>kvůli<s n="pr"/></r></p></e>
     <e><p><l>ze<b/>względu<b/>na<s n="pr"/></l><r>s<b/>ohledem<b/>na<s n="pr"/></r></p></e>
     <e r="RL"><p><l>oprócz<s n="pr"/></l><r>kromě<s n="pr"/></r></p></e>
+    <e><p><l>dzięki<s n="pr"/></l><r>díky<s n="pr"/></r></p></e>
+    <e><p><l>wobec<s n="pr"/></l><r>vůči<s n="pr"/></r></p></e>
+    <e><p><l>razy<s n="pr"/></l><r>krát<s n="pr"/></r></p></e>
+    <e><p><l>na<b/>skraju<s n="pr"/></l><r>na<b/>pokraji<s n="pr"/></r></p></e>
+    <e><p><l>w<b/>przeciwieństwie<b/>do<s n="pr"/></l><r>na<b/>rozdíl<b/>od<s n="pr"/></r></p></e>
 
+	<!-- Interjunctions -->
     <e><p><l>dzień<b/>dobry<s n="ij"/></l><r>dobrý<b/>den<s n="ij"/></r></p></e>
     <e><p><l>do<b/>widzenia<s n="ij"/></l><r>na<b/>shledanou<s n="ij"/></r></p></e>
     <e r="LR"><p><l>do<b/>zobaczenia<s n="ij"/></l><r>na<b/>shledanou<s n="ij"/></r></p></e>
@@ -316,18 +323,61 @@
     <e><p><l>cześć<s n="ij"/></l><r>ahoj<s n="ij"/></r></p></e>
 
      <!-- Pronouns -->
- 
     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
-    <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
-    <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
-    <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="m"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="ma"/><s n="sg"/></r></p></e>
-    <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="f"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="f"/></r></p></e>
-    <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="nt"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="nt"/></r></p></e>
-
-    <e r="RL"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
-    <e><p><l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-    <e r="LR"><p><l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e>
+	   <p>
+          <l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/><s n="nom"/></l>
+		  <r>prpers<s n="prn"/><s n="p3"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+       </p>
+    </e>
+    <e>
+       <p>
+ 		  <l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l>
+ 		  <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+       </p>
+    </e>
+    <e>
+       <p>
+          <l>prpers<s n="prn"/><s n="p3"/><s n="m"/></l>
+	      <r>prpers<s n="prn"/><s n="p3"/><s n="m"/></r>
+       </p>
+    </e>
+    <e r="LR">
+	   <p>
+          <l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="sg"/></l>
+	      <r>prpers<s n="prn"/><s n="p3"/><s n="ma"/><s n="sg"/></r>
+	   </p>
+    </e>
+    <e>
+       <p>
+          <l>prpers<s n="prn"/><s n="p3"/><s n="f"/></l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/></r>
+       </p>
+    </e>
+    <e>
+       <p>
+          <l>prpers<s n="prn"/><s n="p3"/><s n="nt"/></l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="nt"/></r>
+       </p>
+    </e>
+    <e r="RL">
+	   <p>
+          <l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l>
+	      <r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+       </p>
+    </e>
+    <e>
+       <p>
+          <l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/></l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
+       </p>
+    </e>
+    <e r="LR">
+       <p>
+          <l>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
+      </p>
+    </e>
     <e><p><l>kto<s n="prn"/><s n="itg"/><s n="mp"/></l><r>kdo<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
     <e><p><l>ktoś<s n="prn"/><s n="ind"/><s n="mp"/></l><r>někdo<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
     <e r="LR"><p><l>który<s n="prn"/><s n="itg"/><s n="mp"/></l><r>který<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
@@ -355,15 +405,15 @@
      <e><p><l>dwoje<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
      <e><p><l>troje<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
 -->
-
     <e><p><l>nic<s n="prn"/><s n="ind"/></l><r>nic<s n="prn"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>żaden<s n="prn"/><s n="ind"/><s n="mp"/></l><r>žádný<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
     <e><p><l>żaden<s n="prn"/><s n="ind"/></l><r>žádný<s n="prn"/><s n="ind"/></r></p></e>
 
+    <!-- Relatives -->
     <e><p><l>gdzie<s n="rel"/><s n="adv"/></l><r>kde<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>co<s n="rel"/><s n="an"/></l><r>co<s n="rel"/><s n="an"/></r></p></e>
 
-     <!-- Determiners -->
+    <!-- Determiners -->
     <e><p><l>inny<s n="det"/></l><r>jiný<s n="det"/></r></p></e>
     <e><p><l>mój<s n="det"/></l><r>můj<s n="det"/></r></p></e>
     <e><p><l>twój<s n="det"/></l><r>tvůj<s n="det"/></r></p></e>
@@ -509,6 +559,7 @@
     <e><p><l>tokamak<s n="n"/><s n="mi"/></l><r>tokamak<s n="n"/><s n="mi"/></r></p></e>
     <e c="check"><p><l>język<b/>słoweński<s n="n"/><s n="mi"/></l><r>slovinština<s n="n"/><s n="f"/></r></p></e>
 
+    <!-- Adjectives -->
     <e><p><l>grecki<s n="adj"/></l><r>řecký<s n="adj"/></r></p></e>
     <e><p><l>weekendowy<s n="adj"/></l><r>víkendový<s n="adj"/></r></p></e>
     <e><p><l>typowy<s n="adj"/></l><r>typický<s n="adj"/></r></p></e>
@@ -3065,7 +3116,6 @@
     <e><p><l>napisać<s n="vblex"/><s n="perf"/></l><r>napsat<s n="vblex"/><s n="perf"/></r></p></e>
 
      <!-- Interjections -->
-
     <e><p><l>dzięki<s n="ij"/></l><r>díky<s n="ij"/></r></p></e>
     <e><p><l>ach<s n="ij"/></l><r>ach<s n="ij"/></r></p></e>
     <e><p><l>aha<s n="ij"/></l><r>aha<s n="ij"/></r></p></e>
