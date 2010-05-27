@@ -37779,7 +37779,10 @@
     <e lm="do"><p><l>do</l><r>do<s n="pr"/></r></p></e>
     <e lm="na"><p><l>na</l><r>na<s n="pr"/></r></p></e>
     <e lm="oprócz"><p><l>oprócz</l><r>oprócz<s n="pr"/></r></p></e>
+    <e lm="prócz"><p><l>prócz</l><r>prócz<s n="pr"/></r></p></e>
     <e lm="wokół"><p><l>wokół</l><r>wokół<s n="pr"/></r></p></e>
+    <e lm="wokoło"><p><l>wokoło</l><r>wokoło<s n="pr"/></r></p></e>
+    <e lm="naokoło"><p><l>naokoło</l><r>naokoło<s n="pr"/></r></p></e>
     <e lm="naprzeciwko"><p><l>naprzeciwko</l><r>naprzeciwko<s n="pr"/></r></p></e>
     <e lm="naprzeciw"><p><l>naprzeciw</l><r>naprzeciw<s n="pr"/></r></p></e>
     <e lm="od" r="LR"><p><l>od</l><r>od<s n="pr"/></r></p></e>
@@ -37812,6 +37815,9 @@
     <e lm="dla"><p><l>dla</l><r>dla<s n="pr"/></r></p></e>
     <e lm="aż do"><p><l>aż<b/>do</l><r>aż<b/>do<s n="pr"/></r></p></e>
     <e lm="podczas"><p><l>podczas</l><r>podczas<s n="pr"/></r></p></e>
+    <e lm="w czasie"><p><l>w<b/>czasie</l><r>w<b/>czasie<s n="pr"/></r></p></e>
+    <e lm="w trakcie"><p><l>w<b/>trakcie</l><r>w<b/>trakcie<s n="pr"/></r></p></e>
+    <e lm="w przeciągu"><p><l>w<b/>przeciągu</l><r>w<b/>przeciągu<s n="pr"/></r></p></e>
     <e lm="u"><p><l>u</l><r>u<s n="pr"/></r></p></e>
     <e lm="przed" r="LR"><p><l>przed</l><r>przed<s n="pr"/></r></p></e>
     <e lm="przede" r="LR"><p><l>przede</l><r>przed<s n="pr"/></r></p></e>
@@ -37832,14 +37838,24 @@
     <e lm="dookoła"><p><l>dookoła</l><r>dookoła<s n="pr"/></r></p></e>
     <e lm="mimo"><p><l>mimo</l><r>mimo<s n="pr"/></r></p></e>
     <e lm="pomimo"><p><l>pomimo</l><r>pomimo<s n="pr"/></r></p></e>
+    <e lm="nie zważając na"><p><l>nie<b/>zważając<b/>na</l><r>nie<b/>zważając<b/>na<s n="pr"/></r></p></e>
+    <e lm="wbrew"><p><l>wbrew</l><r>wbrew<s n="pr"/></r></p></e>
     <e lm="między"><p><l>między</l><r>między<s n="pr"/></r></p></e>
     <e lm="blisko"><p><l>blisko</l><r>blisko<s n="pr"/></r></p></e>
     <e lm="przeciw"><p><l>przeciw</l><r>przeciw<s n="pr"/></r></p></e>
+    <e lm="przeciwko"><p><l>przeciwko</l><r>przeciwko<s n="pr"/></r></p></e>
     <e lm="jako"><p><l>jako</l><r>jako<s n="pr"/></r></p></e>
     <e lm="przy"><p><l>przy</l><r>przy<s n="pr"/></r></p></e>
     <e lm="niedaleko"><p><l>niedaleko</l><r>niedaleko<s n="pr"/></r></p></e>
     <e lm="zamiast"><p><l>zamiast</l><r>zamiast<s n="pr"/></r></p></e>
+    <e lm="w zamian"><p><l>w<b/>zamian</l><r>w<b/>zamian<s n="pr"/></r></p></e>
     <e lm="według"><p><l>według</l><r>według<s n="pr"/></r></p></e>
+    <e lm="podług"><p><l>podług</l><r>podług<s n="pr"/></r></p></e>
+    <e lm="wedle"><p><l>wedle</l><r>wedle<s n="pr"/></r></p></e>
+    <e lm="zgodnie z"><p><l>zgodnie<b/>z</l><r>zgodnie<b/>z<s n="pr"/></r></p></e>
+    <e lm="w wyniku"><p><l>w<b/>wyniku</l><r>w<b/>wyniku<s n="pr"/></r></p></e>
+    <e lm="na skutek"><p><l>na<b/>skutek</l><r>na<b/>skutek<s n="pr"/></r></p></e>
+    <e lm="wskutek"><p><l>wskutek</l><r>wskutek<s n="pr"/></r></p></e>
     <e lm="z wyjątkiem"><p><l>z<b/>wyjątkiem</l><r>z<b/>wyjątkiem<s n="pr"/></r></p></e>
     <e lm="bez względu na"><p><l>bez<b/>względu<b/>na</l><r>bez<b/>względu<b/>na<s n="pr"/></r></p></e>
     <e lm="ze względu na"><p><l>ze<b/>względu<b/>na</l><r>ze<b/>względu<b/>na<s n="pr"/></r></p></e>
@@ -37869,6 +37885,16 @@
     <e lm="razy"><p><l>razy</l><r>razy<s n="pr"/></r></p></e>
     <e lm="na skraju"><p><l>na<b/>skraju</l><r>na<b/>skraju<s n="pr"/></r></p></e>
     <e lm="w przeciwieństwie do"><p><l>w<b/>przeciwieństwie<b/>do</l><r>w<b/>przeciwieństwie<b/>do<s n="pr"/></r></p></e>
+    <e lm="wśród"><p><l>wśród</l><r>wśród<s n="pr"/></r></p></e>
+    <e lm="spośród"><p><l>spośród</l><r>spośród<s n="pr"/></r></p></e>
+    <e lm="z przodu"><p><l>z<b/>przodu</l><r>z<b/>przodu<s n="pr"/></r></p></e>
+    <e lm="ponadto"><p><l>ponadto</l><r>ponadto<s n="pr"/></r></p></e>
+    <e lm="poza tym"><p><l>poza<b/>tym</l><r>poza<b/>tym<s n="pr"/></r></p></e>
+    <e lm="co więcej"><p><l>co<b/>więcej</l><r>co<b/>więcej<s n="pr"/></r></p></e>
+    <e lm="dodatkowo"><p><l>dodatkowo</l><r>dodatkowo<s n="pr"/></r></p></e>
+    <e lm="włącznie z"><p><l>włącznie<b/>z</l><r>włącznie<b/>z<s n="pr"/></r></p></e>
+    <e lm="łącznie z"><p><l>łącznie<b/>z</l><r>łącznie<b/>z<s n="pr"/></r></p></e>
+    <e lm="w tym"><p><l>w<b/>tym</l><r>w<b/>tym<s n="pr"/></r></p></e>
 
     <e lm="dlań"><p><l>dlań</l><r>dla<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
     <e lm="dlań"><p><l>dlań</l><r>dla<s n="pr"/><j/>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -37953,6 +37979,7 @@
     <e lm="pomimo że"><i>pomimo<b/>że</i><par n="jeśli__cnjadv"/></e>
     <e lm="mimo że"><i>mimo<b/>że</i><par n="jeśli__cnjadv"/></e>
     <e lm="zanim"><i>zanim</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nim"><i>nim</i><par n="jeśli__cnjadv"/></e>
 
 	<!-- Pronouns -->
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
@@ -38608,6 +38635,7 @@
     <e lm="czeski"><i>czes</i><par n="pols/ki__adj"/></e>
     <e lm="duński"><i>duńs</i><par n="pols/ki__adj"/></e>
     <e lm="europejski"><i>europejs</i><par n="pols/ki__adj"/></e>
+    <e lm="niemiecki"><i>niemiec</i><par n="pols/ki__adj"/></e>
     <e lm="południowosłowiański"><i>południowosłowiańs</i><par n="pols/ki__adj"/></e>
     <e lm="partyzancki"><i>partyzanc</i><par n="mors/ki__adj"/></e>
     <e lm="proletariacki"><i>proletariac</i><par n="mors/ki__adj"/></e>
@@ -38697,9 +38725,12 @@
     <e lm="kiedy"><i>kiedy</i><par n="gdzie__rel"/></e>
     <e lm="dokąd"><i>dokąd</i><par n="gdzie__rel"/></e>
     <e lm="skąd"><i>skąd</i><par n="gdzie__rel"/></e>
+    <e lm="odkąd"><i>odkąd</i><par n="gdzie__rel"/></e>
     <e lm="którędy"><i>którędy</i><par n="gdzie__rel"/></e>
     <e lm="gdzie"><i>gdzie</i><par n="gdzie__rel"/></e>
     <e lm="co"><i>co</i><par n="co__rel"/></e>
+    <e lm="dlaczego"><i>dlaczego</i><par n="gdzie__rel"/></e>
+    <e lm="po co"><i>po<b/>co</i><par n="gdzie__rel"/></e>
 
     <!-- Numerals -->
     <e lm="jeden"><i>jed</i><par n="jed/en__num"/></e>
@@ -38750,6 +38781,9 @@
     <e lm="dokąd"><i>dokąd</i><par n="gdzie__adv"/></e>
     <e lm="skąd"><i>skąd</i><par n="gdzie__adv"/></e>
     <e lm="którędy"><i>którędy</i><par n="gdzie__adv"/></e>
+    <e lm="odkąd"><i>odkąd</i><par n="gdzie__adv"/></e>
+    <e lm="dlaczego"><i>dlaczego</i><par n="gdzie__adv"/></e>
+    <e lm="po co"><i>po<b/>co</i><par n="gdzie__adv"/></e>
 
     <!-- Synthetic adverbs -->
     <e lm="dobrze"><i>dobrze</i><par n="dobrze__adv"/></e>
@@ -38759,7 +38793,7 @@
     <e lm="źle"><p><l>gorzej</l><r>źle</r></p><par n="lepiej__adv"/></e>
     <e lm="źle"><p><l>najgorzej</l><r>źle</r></p><par n="najlepiej__adv"/></e>
     <e lm="bardzo"><i>bardzo</i><par n="dobrze__adv"/></e>
-    <e lm="bardzo"><p><l>bardziej</l><r>bardzo></r></p><par n="lepiej__adv"/></e>
+    <e lm="bardzo"><p><l>bardziej</l><r>bardzo</r></p><par n="lepiej__adv"/></e>
     <e lm="bardzo"><p><l>najbardziej</l><r>bardzo</r></p><par n="najlepiej__adv"/></e>
     <e lm="wiele"><i>wiele</i><par n="dobrze__adv"/></e>
     <e lm="wiele"><p><l>więcej</l><r>wiele</r></p><par n="lepiej__adv"/></e>
@@ -38814,6 +38848,7 @@
     <e lm="jutro"><i>jutro</i><par n="tu__adv"/></e>
     <e lm="pojutrze"><i>pojutrze</i><par n="tu__adv"/></e>
     <e lm="wczoraj"><i>wczoraj</i><par n="tu__adv"/></e>
+    <e lm="przedtem"><i>przedtem</i><par n="tu__adv"/></e>
     <e lm="kiedyś"><i>kiedyś</i><par n="tu__adv"/></e>
     <e lm="kiedykolwiek"><i>kiedykolwiek</i><par n="tu__adv"/></e>
     <e lm="kiedy bądź"><i>kiedy<b/>bądź</i><par n="tu__adv"/></e>
@@ -38878,7 +38913,7 @@
     <e lm="nigdzie"><i>nigdzie</i><par n="tu__adv"/></e>
     <e lm="nijak"><i>nijak</i><par n="tu__adv"/></e>
     <e lm="jakkolwiek"><i>jakkolwiek</i><par n="tu__adv"/></e>
-    <e lm="dotąd"><i>jakkolwiek</i><par n="tu__adv"/></e>
+    <e lm="dotąd"><i>dotąd</i><par n="tu__adv"/></e>
 
     <!-- Pre-adverbs -->
     <e lm="zbyt"><i>zbyt</i><par n="zbyt__preadv"/></e>

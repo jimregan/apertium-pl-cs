@@ -22165,7 +22165,7 @@
       </e>
       <e>
         <p>
-          <l>sky</l>
+          <l>ský</l>
           <r>ský<s n="adj"/><s n="po"/></r>
         </p>
       </e>
@@ -22403,6 +22403,16 @@
     <e lm="pod"><i>pod</i><par n="za__pr"/></e>
     <e lm="zpod"><i>zpod</i><par n="za__pr"/></e>
     <e lm="podle"><i>podle</i><par n="za__pr"/></e>
+    <e lm="dle"><i>dle</i><par n="za__pr"/></e>
+    <e lm="shodně s"><i>shodně<b/>s</i><par n="za__pr"/></e>
+    <e lm="v souladu s"><i>v<b/>souladu<b/>s</i><par n="za__pr"/></e>
+    <e lm="více než"><i>více<b/>než</i><par n="za__pr"/></e>
+    <e lm="méně než"><i>méně<b/>než</i><par n="za__pr"/></e>
+    <e lm="následkem"><i>následkem</i><par n="za__pr"/></e>
+    <e lm="nadto"><i>nadto</i><par n="za__pr"/></e>
+    <e lm="navíc"><i>navíc</i><par n="za__pr"/></e>
+    <e lm="mimoto"><i>mimoto</i><par n="za__pr"/></e>
+    <e lm="kromě toho"><i>kromě<b/>toho</i><par n="za__pr"/></e>
     <e lm="podél"><i>podél</i><par n="za__pr"/></e>
     <e lm="pomocí"><i>pomocí</i><par n="za__pr"/></e>
     <e lm="pro"><i>pro</i><par n="za__pr"/></e>
@@ -22411,6 +22421,7 @@
     <e lm="prostřednictvím"><i>prostřednictvím</i><par n="za__pr"/></e>
 -->
     <e lm="proti"><i>proti</i><par n="za__pr"/></e>
+    <e lm="v rozporu"><i>v<b/>rozporu</i><par n="za__pr"/></e>
     <e lm="před"><i>před</i><par n="za__pr"/></e>
     <e lm="při"><i>při</i><par n="za__pr"/></e>
     <e lm="s"><i>s</i><par n="za__pr"/></e>
@@ -22436,6 +22447,12 @@
     <e lm="krát"><i>krát</i><par n="za__pr"/></e>
     <e lm="na pokraji"><i>na<b/>pokraji</i><par n="za__pr"/></e>
     <e lm="na rozdíl od"><i>na<b/>rozdíl<b/>od</i><par n="za__pr"/></e>
+    <e lm="uprostřed"><i>uprostřed</i><par n="za__pr"/></e>
+    <e lm="zpředu"><i>zpředu</i><par n="za__pr"/></e>
+    <e lm="včetně"><i>včetně</i><par n="za__pr"/></e>
+    <e lm="nehledě na"><i>nehledě<b/></i><par n="za__pr"/></e>
+    <e lm="skrze"><i>skrze<b/></i><par n="za__pr"/></e>
+    <e lm="vně"><i>vně<b/></i><par n="za__pr"/></e>
 
     <!-- Pronouns -->
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
@@ -22459,6 +22476,11 @@
 
     <!-- Relatives -->
     <e lm="kde"><i>kde</i><par n="kde__rel"/></e>
+    <e lm="proč"><i>proč</i><par n="kde__rel"/></e>
+    <e lm="kdy"><i>kdy</i><par n="kde__rel"/></e>
+    <e lm="odkud"><i>odkud</i><par n="kde__rel"/></e>
+    <e lm="dokud"><i>dokud</i><par n="kde__rel"/></e>
+    <e lm="kudy"><i>kudy</i><par n="kde__rel"/></e>
     <e lm="co"><i>co</i><par n="co__rel"/></e>
 
     <!-- Numbers -->
@@ -22596,6 +22618,7 @@
     <e lm="velšský"><par n="nej__adv"/><i>velš</i><par n="če/ský__adj"/></e>
     <e lm="židovský"><par n="nej__adv"/><i>židov</i><par n="če/ský__adj"/></e>
     <e lm="typický"><par n="nej__adv"/><i>typi</i><par n="exotermi/cký__adj"/></e>
+    <e lm="německý"><par n="nej__adv"/><i>něme</i><par n="exotermi/cký__adj"/></e>
     <e lm="exotermický"><par n="nej__adv"/><i>exotermi</i><par n="exotermi/cký__adj"/></e>
     <e lm="demokratický"><par n="nej__adv"/><i>demokrati</i><par n="exotermi/cký__adj"/></e>
     <e lm="víkendový"><par n="nej__adv"/><i>víkendov</i><par n="víkendov/ý__adj"/></e>
@@ -22669,7 +22692,9 @@
     <e lm="náhle"><i>náhle</i><par n="tehdy__adv"/></e>
     <e lm="navždy"><i>navždy</i><par n="tehdy__adv"/></e>
     <e lm="například"><i>například</i><par n="tehdy__adv"/></e>
+    <e lm="na příklad"><i>na<b/>příklad</i><par n="tehdy__adv"/></e>
     <e lm="nedávno"><i>nedávno</i><par n="tehdy__adv"/></e>
+    <e lm="předtím"><i>předtím</i><par n="tehdy__adv"/></e>
     <e lm="přesně"><i>přesně</i><par n="tehdy__adv"/></e>
     <e lm="šťastně"><i>šťastně</i><par n="tehdy__adv"/></e>
     <e lm="sladký"><i>sladký</i><par n="tehdy__adv"/></e>
