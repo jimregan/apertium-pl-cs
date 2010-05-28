@@ -259,7 +259,6 @@
     <e r="RL"><p><l>przez<s n="pr"/></l><r>skrz<s n="pr"/></r></p></e>
     <e r="RL"><p><l>przez<s n="pr"/></l><r>naskrz<s n="pr"/></r></p></e>
     <e><p><l>poprzez<s n="pr"/></l><r>prostřednictvím<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>poprzez<s n="pr"/></l><r>skrze<s n="pr"/></r></p></e>
     <e><p><l>nad<s n="pr"/></l><r>nad<s n="pr"/></r></p></e>
     <e><p><l>bez<s n="pr"/></l><r>bez<s n="pr"/></r></p></e>
     <e><p><l>jako<s n="pr"/></l><r>jako<s n="pr"/></r></p></e>
@@ -297,7 +296,7 @@
     <e r="LR"><p><l>podług<s n="pr"/></l><r>podle<s n="pr"/></r></p></e>
     <e r="RL"><p><l>według<s n="pr"/></l><r>dle<s n="pr"/></r></p></e>
     <e r="LR"><p><l>wedle<s n="pr"/></l><r>podle<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>zgodnie<b/>z<s n="pr"/></l><r>shodně<b/>s<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>zgodnie<b/>z<s n="pr"/></l><r>shodně<b/>s<s n="pr"/></r></p></e>
     <e><p><l>zgodnie<b/>z<s n="pr"/></l><r>v<b/>souladu<b/>s<s n="pr"/></r></p></e>
     <e><p><l>w<b/>wyniku<s n="pr"/></l><r>následkem<s n="pr"/></r></p></e>
     <e r="LR"><p><l>na<b/>skutek<s n="pr"/></l><r>následkem<s n="pr"/></r></p></e>
@@ -343,7 +342,7 @@
     <e r="LR"><p><l>powyżej<s n="pr"/></l><r>více<b/>než<s n="pr"/></r></p></e>
     <e><p><l>ponad<s n="pr"/></l><r>více<b/>než<s n="pr"/></r></p></e>
     <e><p><l>poniżej<s n="pr"/></l><r>méně<b/>než<s n="pr"/></r></p></e>
-    <e><p><l>spośród<s n="pr"/></l><r>z<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>spośród<s n="pr"/></l><r>z<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ponadto<s n="pr"/></l><r>nadto<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ponadto<s n="pr"/></l><r>moimoto<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ponadto<s n="pr"/></l><r>kromě<b/>toho<s n="pr"/></r></p></e>

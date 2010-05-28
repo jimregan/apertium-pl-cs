@@ -20115,6 +20115,12 @@
       <e r="RL"><p><l><a/>z</l><r>z<s n="pr"/></r></p></e>
     </pardef>
 
+    <pardef n="/skrz__pr">
+      <e r="LR"><p><l>skrz</l><r>skrz<s n="pr"/></r></p></e>
+      <e r="LR"><p><l>skrze</l><r>skrz<s n="pr"/></r></p></e>
+      <e r="RL"><p><l><a/>skrz</l><r>skrz<s n="pr"/></r></p></e>
+    </pardef>
+
     <!-- Adverbs -->
     <pardef n="jak__adv">
       <e>
@@ -22425,7 +22431,7 @@
     <e lm="před"><i>před</i><par n="za__pr"/></e>
     <e lm="při"><i>při</i><par n="za__pr"/></e>
     <e lm="s"><i>s</i><par n="za__pr"/></e>
-    <e lm="skrz"><i>skrz</i><par n="za__pr"/></e>
+    <e lm="skrz"><i></i><par n="/skrz__pr"/></e>
     <e lm="stran"><i>stran</i><par n="za__pr"/></e>
     <e lm="u"><i>u</i><par n="za__pr"/></e>
     <e lm="v"><i></i><par n="/v__pr"/></e>
@@ -22451,7 +22457,6 @@
     <e lm="zpředu"><i>zpředu</i><par n="za__pr"/></e>
     <e lm="včetně"><i>včetně</i><par n="za__pr"/></e>
     <e lm="nehledě na"><i>nehledě<b/></i><par n="za__pr"/></e>
-    <e lm="skrze"><i>skrze<b/></i><par n="za__pr"/></e>
     <e lm="vně"><i>vně<b/></i><par n="za__pr"/></e>
 
     <!-- Pronouns -->
