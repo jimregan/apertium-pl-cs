@@ -248,10 +248,13 @@
     <e><p><l>podczas<b/>gdy<s n="cnjadv"/></l><r>přitom<s n="cnjadv"/></r></p></e>
     <e><p><l>mianowicie<s n="cnjadv"/></l><r>totiž<s n="cnjadv"/></r></p></e>
     <e><p><l>natomiast<s n="cnjadv"/></l><r>naopak<s n="cnjadv"/></r></p></e>
+    <e><p><l>w<b/>przeciwieństwie<b/>do<s n="cnjadv"/></l><r>na<b/>rozdíl<b/>od<s n="cnjadv"/></r></p></e>
+    <e><p><l>w<b/>porównaniu<b/>do<s n="cnjadv"/></l><r>na<b/>rozdíl<b/>od<s n="cnjadv"/></r></p></e>
 
      <!-- Prepositions -->
     <e r="RL"><p><l>o<s n="pr"/></l><r>stran<s n="pr"/></r></p></e>
     <e><p><l>przy<b/>pomocy<s n="pr"/></l><r>pomocí<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>za<b/>pomocą<s n="pr"/></l><r>pomocí<s n="pr"/></r></p></e>
     <e><p><l>między<s n="pr"/></l><r>mezi<s n="pr"/></r></p></e>
     <e r="LR"><p><l>pomiędzy<s n="pr"/></l><r>mezi<s n="pr"/></r></p></e>
     <e><p><l>przed<s n="pr"/></l><r>před<s n="pr"/></r></p></e>
@@ -304,11 +307,13 @@
     <e><p><l>blisko<s n="pr"/></l><r>blízko<s n="pr"/></r></p></e>
     <e r="RL"><p><l>blisko<s n="pr"/></l><r>poblíž<s n="pr"/></r></p></e>
     <e><p><l>niedaleko<s n="pr"/></l><r>nedaleko<s n="pr"/></r></p></e>
+    <e><p><l>daleko<b/>od<s n="pr"/></l><r>daleko<b/>od<s n="pr"/></r></p></e>
     <e><p><l>przy<s n="pr"/></l><r>při<s n="pr"/></r></p></e>
     <e r="LR"><p><l>przeciw<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
     <e><p><l>przeciwko<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
     <e r="LR"><p><l>wbrew<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
     <e r="RL"><p><l>wbrew<s n="pr"/></l><r>v<b/>rozporu<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>wbrew<s n="pr"/></l><r>navzdory<s n="pr"/></r></p></e>
     <e r="RL"><p><l>przeciw<s n="pr"/></l><r>oproti<s n="pr"/></r></p></e>
     <e><p><l>z<b/>wyjątkiem<s n="pr"/></l><r>s<b/>výjimkou<s n="pr"/></r></p></e>
     <e><p><l>za<s n="pr"/></l><r>za<s n="pr"/></r></p></e>
@@ -438,6 +443,7 @@
     <e><p><l>twój<s n="prn"/><s n="pos"/></l><r>tvůj<s n="prn"/><s n="pos"/></r></p></e>
     <e r="LR"><p><l>swój<s n="prn"/><s n="pos"/><s n="mp"/></l><r>svůj<s n="prn"/><s n="pos"/><s n="ma"/></r></p></e>
     <e><p><l>swój<s n="prn"/><s n="pos"/></l><r>svůj<s n="prn"/><s n="pos"/></r></p></e>
+	
 <!--
      <e><p><l>co<b/>bądź<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
      <e><p><l>cokolwiek<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
@@ -454,6 +460,7 @@
     <e><p><l>dlaczego<s n="rel"/><s n="adv"/></l><r>proč<s n="rel"/><s n="adv"/></r></p></e>
     <e r="LR"><p><l>po<b/>co<s n="rel"/><s n="adv"/></l><r>proč<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>kiedy<s n="rel"/><s n="adv"/></l><r>kdy<s n="rel"/><s n="adv"/></r></p></e>
+    <e><p><l>jak<b/>tylko<s n="rel"/><s n="adv"/></l><r>jakmile<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>dokąd<s n="rel"/><s n="adv"/></l><r>dokud<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>skąd<s n="rel"/><s n="adv"/></l><r>odkud<s n="rel"/><s n="adv"/></r></p></e>
     <e r="LR"><p><l>odkąd<s n="rel"/><s n="adv"/></l><r>odkud<s n="rel"/><s n="adv"/></r></p></e>
@@ -465,12 +472,17 @@
     <e><p><l>mój<s n="det"/></l><r>můj<s n="det"/></r></p></e>
     <e><p><l>twój<s n="det"/></l><r>tvůj<s n="det"/></r></p></e>
     <e><p><l>swój<s n="det"/></l><r>svůj<s n="det"/></r></p></e>
+    <e><p><l>jej<s n="det"/></l><r>její<s n="det"/></r></p></e>
+	<e><p><l>jego<s n="det"/></l><r>jego<s n="det"/></r></p></e>
+    <e><p><l>ich<s n="det"/></l><r>jejich<s n="det"/></r></p></e>
+
     <e r="LR"><p><l>ile<s n="det"/><s n="qnt"/><s n="mp"/></l><r>kolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
     <e><p><l>ile<s n="det"/><s n="qnt"/><s n="nm"/></l><r>kolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
 
     <e><p><l>dużo<s n="det"/><s n="qnt"/></l><r>mnoho<s n="det"/><s n="qnt"/></r></p><par n="det_adv"/></e>
     <e><p><l>tyle<s n="det"/><s n="qnt"/></l><r>tolik<s n="det"/><s n="qnt"/></r></p><par n="det_adv"/></e>
 
+    <!-- Demonstrative determiners -->
     <e><p><l>to<s n="det"/><s n="dem"/></l><r>to<s n="det"/><s n="dem"/></r></p></e>
     <e r="RL"><p><l>to<s n="det"/><s n="dem"/></l><r>toto<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>tamto<s n="det"/><s n="dem"/></l><r>tamto<s n="det"/><s n="dem"/></r></p></e>
@@ -3088,7 +3100,7 @@
     <e><p><l>dokąd<s n="adv"/><s n="itg"/></l><r>dokud<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>skąd<s n="adv"/><s n="itg"/></l><r>odkud<s n="adv"/><s n="itg"/></r></p></e>
     <e r="LR"><p><l>odkąd<s n="adv"/><s n="itg"/></l><r>odkud<s n="adv"/><s n="itg"/></r></p></e>
-    <e><p><l>kiedy<s n="adv"/><s n="itg"/></l><r>kdý<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>kiedy<s n="adv"/><s n="itg"/></l><r>kdy<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>którędy<s n="adv"/><s n="itg"/></l><r>kudy<s n="adv"/><s n="itg"/></r></p></e>
   
     <!-- Adverbs -->
