@@ -39,6 +39,7 @@ dev/inconsistency.sh -text
 dev/interwiki.cs-pl -text
 dev/interwiki.pl-cs -text
 dev/morfologik_adjectives -text
+dev/morfologik_adverbs -text
 dev/morfologik_nouns -text
 dev/prediction.pl-cs.perl -text
 dev/some-czech-closed-words -text
