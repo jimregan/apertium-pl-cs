@@ -2661,7 +2661,6 @@
         </p>
       </e>
     </pardef>
-
     <pardef n="głup/i__adj">
       <e>
         <p>
@@ -11997,6 +11996,21 @@
         <p>
           <l>o</l>
           <r>y<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="bło/gi__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>gi<s n="adj"/></r>
+        </p>
+        <par n="BASE__drugi"/>
+      </e>
+      <e>
+        <p>
+          <l>go</l>
+          <r>gi<s n="adj"/><s n="cpd"/></r>
         </p>
       </e>
     </pardef>
@@ -38629,6 +38643,10 @@
     <e lm="hebrajski"><i>hebrajs</i><par n="pols/ki__adj"/></e>
     <e lm="holenderski"><i>holenders</i><par n="pols/ki__adj"/></e>
     <e lm="azerski"><i>azers</i><par n="pols/ki__adj"/></e>
+    <e lm="gdański"><i>gdańs</i><par n="pols/ki__adj"/></e>
+    <e lm="lipski"><i>lips</i><par n="pols/ki__adj"/></e>
+    <e lm="płocki"><i>płoc</i><par n="pols/ki__adj"/></e>
+    <e lm="śląski"><i>śląs</i><par n="pols/ki__adj"/></e>
 
     <!-- Interjunctions -->
     <e lm="cześć"><i>cześć</i><par n="cześć__ij"/></e>
