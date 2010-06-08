@@ -22987,7 +22987,7 @@
         <par n="PBASE__filozofia"/>
       </e>
     </pardef>
-     <pardef n="fal/a__n">
+    <pardef n="fal/a__n">
       <e>
         <p>
           <l></l>
@@ -22996,6 +22996,15 @@
         <par n="BASE__fala"/>
       </e>
     </pardef>   
+    <pardef n="Urszul/a__np">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__fala"/>
+      </e>
+    </pardef>
     <pardef n="filozofi/a__n">
       <e>
         <p>
@@ -23439,7 +23448,6 @@
         <par n="PBASE__mp_pl"/>
       </e>
     </pardef>
-    
     <pardef n="BASE__astronom">
       <e>
         <p>
@@ -23518,6 +23526,15 @@
         <p>
           <l></l>
           <r><s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__astronom"/>
+      </e>
+    </pardef>
+    <pardef n="Chopin__np">
+       <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="cog"/></r>
         </p>
         <par n="BASE__astronom"/>
       </e>
@@ -26830,6 +26847,15 @@
         <par n="BASE__pasta"/>
       </e>
     </pardef>
+    <pardef n="Augu/sta__np">
+      <e>
+        <p>
+          <l></l>
+          <r>sta<s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__pasta"/>
+      </e>
+    </pardef>
     <pardef n="wio/sna__n">
       <e>
         <p>
@@ -27191,6 +27217,15 @@
         <p>
           <l></l>
           <r>ga<s n="n"/></r>
+        </p>
+        <par n="BASE__flaga"/>
+      </e>
+    </pardef>
+    <pardef n="Jadwi/ga__np">
+      <e>
+        <p>
+          <l></l>
+          <r>ga<s n="np"/><s n="ant"/></r>
         </p>
         <par n="BASE__flaga"/>
       </e>
@@ -39705,7 +39740,7 @@
     <e lm="sprzedaż"><i>sprzedaż</i><par n="noc__n"/></e>
     <e lm="straż"><i>straż</i><par n="noc__n"/></e>
     <e lm="cesarz"><i>cesarz</i><par n="notariusz__n"/></e>
-    <e lm="augusta"><i>augu</i><par n="pa/sta__n"/></e>
+    <e lm="Augusta"><i>Augu</i><par n="Augu/sta__np"/></e>
     <e lm="lista"><i>li</i><par n="pa/sta__n"/></e>
     <e lm="zemsta"><i>zem</i><par n="pa/sta__n"/></e>
     <e lm="ogień"><i>og</i><par n="p/ień__n"/></e>
@@ -42590,7 +42625,7 @@
     <e lm="Józef"><i>Józef</i><par n="Adam__np"/></e>
     <e lm="Krzysztof"><i>Krzysztof</i><par n="Adam__np"/></e>
     <e lm="Marcin"><i>Marcin</i><par n="Adam__np"/></e>
-    <e lm="Serb"><i>Serb</i><par n="Adam__np"/></e>
+    <e lm="Serb"><i>Serb</i><par n="astronom__n"/></e>
     <e lm="Stanisław"><i>Stanisław</i><par n="Adam__np"/></e>
     <e lm="Marek"><i>Mar</i><par n="Mar/ek__np"/></e>
     <e lm="Jarek"><i>Jar</i><par n="Mar/ek__np"/></e>
