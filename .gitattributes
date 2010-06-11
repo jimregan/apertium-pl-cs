@@ -45,6 +45,7 @@ dev/interwiki.pl-cs -text
 dev/morfologik_adjectives -text
 dev/morfologik_adverbs -text
 dev/morfologik_nouns -text
+dev/morfologik_verbs -text
 dev/prediction.pl-cs.perl -text
 dev/some-czech-closed-words -text
 dev/speling-paradigms.py -text

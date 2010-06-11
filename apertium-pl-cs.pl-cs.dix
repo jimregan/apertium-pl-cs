@@ -267,7 +267,7 @@
     <e r="LR"><p><l>choćby<s n="cnjadv"/></l><r>alespoň<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>chociażby<s n="cnjadv"/></l><r>alespoň<s n="cnjadv"/></r></p></e>
     <e><p><l>przynajmniej<s n="cnjadv"/></l><r>přinejmenším<s n="cnjadv"/></r></p></e>
-    <e r="LR"><p><l>co<b/>najmniej<s n="cnjadv"/></l><r>přinejmenším<s n="cnjadv"/></r></p></e>
+    <e><p><l>co<b/>najmniej<s n="cnjadv"/></l><r>ne<b/>méně<b/>než<s n="cnjadv"/></r></p></e>
 
      <!-- Prepositions -->
     <e r="RL"><p><l>o<s n="pr"/></l><r>stran<s n="pr"/></r></p></e>
@@ -455,6 +455,7 @@
     <e><p><l>niektóry<s n="prn"/><s n="ind"/></l><r>některý<s n="prn"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>którykolwiek<s n="prn"/><s n="ind"/><s n="mp"/></l><r>kterýkoliv<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
     <e><p><l>którykolwiek<s n="prn"/><s n="ind"/></l><r>kterýkoliv<s n="prn"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>którykolwiek<s n="prn"/><s n="ind"/></l><r>kterýkoli<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>co<s n="prn"/><s n="itg"/></l><r>co<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>cokolwiek<s n="prn"/><s n="ind"/></l><r>cokoliv<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>coś<s n="prn"/><s n="ind"/></l><r>něco<s n="prn"/><s n="ind"/></r></p></e>
