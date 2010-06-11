@@ -29,6 +29,8 @@ dev/apertium-pl-cs.pl-cs-crossed.dix -text
 dev/bidix-to-tag -text
 dev/cs.cnj-missing.txt -text
 dev/czech-top1000 -text
+dev/debian/license.cs-pl.tmx -text
+dev/debian/social-contract.cs-pl.tmx -text
 dev/fmorph_nouns -text
 dev/fmorph_verbs -text
 dev/frek2apertium.pl -text
