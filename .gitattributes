@@ -53,6 +53,7 @@ dev/testvoc-summary.cs-pl.txt -text
 dev/testvoc-summary.pl-cs.txt -text
 dev/todo -text
 dev/translations -text
+dev/translations_multiwords -text
 dev/undhr-cs.txt -text
 dev/undhr-pl.txt -text
 dev/wikt.full-form.pl -text
