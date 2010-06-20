@@ -40944,6 +40944,8 @@
     <e lm="reszta"><i>resz</i><par n="cha/ta__n"/></e>
     <e lm="fala"><i>fal</i><par n="fal/a__n"/></e>
     <e lm="niedziela"><i>niedziel</i><par n="fal/a__n"/></e>
+    <e lm="vuvuzela"><i>vuvuzel</i><par n="fal/a__n"/></e>
+    <e lm="wuwuzela"><i>wuwuzel</i><par n="fal/a__n"/></e>
     <e lm="agat"><i>aga</i><par n="hi/t__n"/></e>
     <e lm="alfabet"><i>alfabe</i><par n="hi/t__n"/></e>
     <e lm="amulet"><i>amule</i><par n="hi/t__n"/></e>
