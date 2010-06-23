@@ -22607,6 +22607,53 @@
     <e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
 
     <!-- Nouns -->
+    <e lm="akr"><i>akr</i><par n="bor__n"/></e>
+    <e lm="delikt"><i>delikt</i><par n="bor__n"/></e>
+    <e lm="eden"><i>eden</i><par n="bor__n"/></e>
+    <e lm="emblém"><i>emblém</i><par n="bor__n"/></e>
+    <e lm="freon"><i>freon</i><par n="bor__n"/></e>
+    <e lm="galon"><i>galon</i><par n="bor__n"/></e>
+    <e lm="harmonogram"><i>harmonogram</i><par n="bor__n"/></e>
+    <e lm="holocaust"><i>holocaust</i><par n="bor__n"/></e>
+    <e lm="hydrant"><i>hydrant</i><par n="bor__n"/></e>
+    <e lm="karbon"><i>karbon</i><par n="bor__n"/></e>
+    <e lm="kar"><i>kar</i><par n="bor__n"/></e>
+    <e lm="koks"><i>koks</i><par n="bor__n"/></e>
+    <e lm="kompot"><i>kompot</i><par n="bor__n"/></e>
+    <e lm="kontrabas"><i>kontrabas</i><par n="bor__n"/></e>
+    <e lm="linoryt"><i>linoryt</i><par n="bor__n"/></e>
+    <e lm="megafon"><i>megafon</i><par n="bor__n"/></e>
+    <e lm="miligram"><i>miligram</i><par n="bor__n"/></e>
+    <e lm="minaret"><i>minaret</i><par n="bor__n"/></e>
+    <e lm="monogram"><i>monogram</i><par n="bor__n"/></e>
+    <e lm="monolit"><i>monolit</i><par n="bor__n"/></e>
+    <e lm="monopol"><i>monopol</i><par n="bor__n"/></e>
+    <e lm="nápor"><i>nápor</i><par n="bor__n"/></e>
+    <e lm="paragraf"><i>paragraf</i><par n="bor__n"/></e>
+    <e lm="precedens"><i>precedens</i><par n="bor__n"/></e>
+    <e lm="propan"><i>propan</i><par n="bor__n"/></e>
+    <e lm="prospekt"><i>prospekt</i><par n="bor__n"/></e>
+    <e lm="puls"><i>puls</i><par n="bor__n"/></e>
+    <e lm="rabat"><i>rabat</i><par n="bor__n"/></e>
+    <e lm="reaktor"><i>reaktor</i><par n="bor__n"/></e>
+    <e lm="receptor"><i>receptor</i><par n="bor__n"/></e>
+    <e lm="relikt"><i>relikt</i><par n="bor__n"/></e>
+    <e lm="respekt"><i>respekt</i><par n="bor__n"/></e>
+    <e lm="rozum"><i>rozum</i><par n="bor__n"/></e>
+    <e lm="segment"><i>segment</i><par n="bor__n"/></e>
+    <e lm="sejf"><i>sejf</i><par n="bor__n"/></e>
+    <e lm="sekret"><i>sekret</i><par n="bor__n"/></e>
+    <e lm="semafor"><i>semafor</i><par n="bor__n"/></e>
+    <e lm="sinus"><i>sinus</i><par n="bor__n"/></e>
+    <e lm="slalom"><i>slalom</i><par n="bor__n"/></e>
+    <e lm="slogan"><i>slogan</i><par n="bor__n"/></e>
+    <e lm="supermarket"><i>supermarket</i><par n="bor__n"/></e>
+    <e lm="syndrom"><i>syndrom</i><par n="bor__n"/></e>
+    <e lm="takt"><i>takt</i><par n="bor__n"/></e>
+    <e lm="tampon"><i>tampon</i><par n="bor__n"/></e>
+    <e lm="temperament"><i>temperament</i><par n="bor__n"/></e>
+    <e lm="trezor"><i>trezor</i><par n="bor__n"/></e>
+    <e lm="videoklip"><i>videoklip</i><par n="bor__n"/></e>
     <e lm="afekt"><i>afekt</i><par n="bor__n"/></e>
     <e lm="akordeon"><i>akordeon</i><par n="bor__n"/></e>
     <e lm="alarm"><i>alarm</i><par n="bor__n"/></e>
