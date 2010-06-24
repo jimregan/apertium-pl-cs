@@ -1,7 +1,7 @@
     <e lm="absint"><i>absint</i><par n="bor__n"/></e>
     <e lm="achát"><i>achát</i><par n="bor__n"/></e>
     <e lm="adaptér"><i>adaptér</i><par n="bor__n"/></e>
-    <e lm="adapter" r="LR"><p><l>adapter</l><r>adaptér</r></p><par n="bor__n"/></e>
+    <e lm="adaptér" r="LR"><p><l>adapter</l><r>adaptér</r></p><par n="bor__n"/></e>
     <e lm="adrenalin"><i>adrenalin</i><par n="bor__n"/></e>
     <e lm="aeroklub"><i>aeroklub</i><par n="bor__n"/></e>
     <e lm="aerosol"><i>aerosol</i><par n="bor__n"/></e>
@@ -33,7 +33,7 @@
     <e lm="ananas"><i>ananas</i><par n="bor__n"/></e>
     <e lm="angrešt"><i>angrešt</i><par n="bor__n"/></e>
     <e lm="anion"><i>anion</i><par n="bor__n"/></e>
-    <e lm="aniont" r="LR"><p><l>aniont</l><r>anion</r></p><par n="bor__n"/></e>
+    <e lm="anion" r="LR"><p><l>aniont</l><r>anion</r></p><par n="bor__n"/></e>
     <e lm="anonym"><i>anonym</i><par n="bor__n"/></e>
     <e lm="ansámbl"><i>ansámbl</i><par n="bor__n"/></e>
     <e lm="antigen"><i>antigen</i><par n="bor__n"/></e>
@@ -44,7 +44,7 @@
     <e lm="apel"><i>apel</i><par n="bor__n"/></e>
     <e lm="aperitiv"><i>aperitiv</i><par n="bor__n"/></e>
     <e lm="apetýt"><i>apetýt</i><par n="bor__n"/></e>
-    <e lm="apetyt" r="LR"><p><l>apetyt</l><r>apetýt</r></p><par n="bor__n"/></e>
+    <e lm="apetýt" r="LR"><p><l>apetyt</l><r>apetýt</r></p><par n="bor__n"/></e>
     <e lm="apex"><i>apex</i><par n="bor__n"/></e>
     <e lm="aplaus"><i>aplaus</i><par n="bor__n"/></e>
     <e lm="apokryf"><i>apokryf</i><par n="bor__n"/></e>
@@ -53,9 +53,9 @@
     <e lm="argument"><i>argument</i><par n="bor__n"/></e>
     <e lm="ar"><i>ar</i><par n="bor__n"/></e>
     <e lm="arsen"><i>arsen</i><par n="bor__n"/></e>
-    <e lm="arsén" r="LR"><p><l>arsén</l><r>arsen</r></p><par n="bor__n"/></e>
-    <e lm="arzen" r="LR"><p><l>arzen</l><r>arsen</r></p><par n="bor__n"/></e>
-    <e lm="arzén" r="LR"><p><l>arzén</l><r>arsen</r></p><par n="bor__n"/></e>
+    <e lm="arsen" r="LR"><p><l>arsén</l><r>arsen</r></p><par n="bor__n"/></e>
+    <e lm="arsen" r="LR"><p><l>arzen</l><r>arsen</r></p><par n="bor__n"/></e>
+    <e lm="arsen" r="LR"><p><l>arzén</l><r>arsen</r></p><par n="bor__n"/></e>
     <e lm="arzenál"><i>arzenál</i><par n="bor__n"/></e>
     <e lm="asfalt"><i>asfalt</i><par n="bor__n"/></e>
     <e lm="aspekt"><i>aspekt</i><par n="bor__n"/></e>
@@ -95,7 +95,7 @@
     <e lm="bankomat"><i>bankomat</i><par n="bor__n"/></e>
     <e lm="bankrot"><i>bankrot</i><par n="bor__n"/></e>
     <e lm="barel"><i>barel</i><par n="bor__n"/></e>
-    <e lm="barrel" r="LR"><p><l>barrel</l><r>barel</r></p><par n="bor__n"/></e>
+    <e lm="barel" r="LR"><p><l>barrel</l><r>barel</r></p><par n="bor__n"/></e>
     <e lm="baret"><i>baret</i><par n="bor__n"/></e>
     <e lm="bar"><i>bar</i><par n="bor__n"/></e>
     <e lm="baryton"><i>baryton</i><par n="bor__n"/></e>
@@ -120,7 +120,7 @@
     <e lm="bifenyl"><i>bifenyl</i><par n="bor__n"/></e>
     <e lm="biliár"><i>biliár</i><par n="bor__n"/></e>
     <e lm="bilion"><i>bilion</i><par n="bor__n"/></e>
-    <e lm="bilión" r="LR"><p><l>bilión</l><r>bilion</r></p><par n="bor__n"/></e>
+    <e lm="bilion" r="LR"><p><l>bilión</l><r>bilion</r></p><par n="bor__n"/></e>
     <e lm="billboard"><i>billboard</i><par n="bor__n"/></e>
     <e lm="bill"><i>bill</i><par n="bor__n"/></e>
     <e lm="biograf"><i>biograf</i><par n="bor__n"/></e>
@@ -133,7 +133,7 @@
     <e lm="board"><i>board</i><par n="bor__n"/></e>
     <e lm="bob"><i>bob</i><par n="bor__n"/></e>
     <e lm="bojkot"><i>bojkot</i><par n="bor__n"/></e>
-    <e lm="boykot" r="LR"><p><l>boykot</l><r>bojkot</r></p><par n="bor__n"/></e>
+    <e lm="bojkot" r="LR"><p><l>boykot</l><r>bojkot</r></p><par n="bor__n"/></e>
     <e lm="bojler"><i>bojler</i><par n="bor__n"/></e>
     <e lm="bol"><i>bol</i><par n="bor__n"/></e>
     <e lm="bombardér"><i>bombardér</i><par n="bor__n"/></e>
@@ -142,7 +142,7 @@
     <e lm="bon"><i>bon</i><par n="bor__n"/></e>
     <e lm="bonmot"><i>bonmot</i><par n="bor__n"/></e>
     <e lm="bonton"><i>bonton</i><par n="bor__n"/></e>
-    <e lm="bontón" r="LR"><p><l>bontón</l><r>bonton</r></p><par n="bor__n"/></e>
+    <e lm="bonton" r="LR"><p><l>bontón</l><r>bonton</r></p><par n="bor__n"/></e>
     <e lm="bonus"><i>bonus</i><par n="bor__n"/></e>
     <e lm="boom"><i>boom</i><par n="bor__n"/></e>
     <e lm="bordel"><i>bordel</i><par n="bor__n"/></e>
@@ -151,14 +151,14 @@
     <e lm="brambor"><i>brambor</i><par n="bor__n"/></e>
     <e lm="briliant"><i>briliant</i><par n="bor__n"/></e>
     <e lm="břit"><i>břit</i><par n="bor__n"/></e>
+    <e lm="brom"><i>brom</i><par n="bor__n"/></e>
+    <e lm="brom" r="LR"><p><l>bróm</l><r>brom</r></p><par n="bor__n"/></e>
     <e lm="bronz"><i>bronz</i><par n="bor__n"/></e>
     <e lm="browser"><i>browser</i><par n="bor__n"/></e>
-    <e lm="brom"><i>brom</i><par n="bor__n"/></e>
-    <e lm="bróm" r="LR"><p><l>bróm</l><r>brom</r></p><par n="bor__n"/></e>
     <e lm="buchar"><i>buchar</i><par n="bor__n"/></e>
     <e lm="bufet"><i>bufet</i><par n="bor__n"/></e>
     <e lm="buldozer"><i>buldozer</i><par n="bor__n"/></e>
-    <e lm="buldozér" r="LR"><p><l>buldozér</l><r>buldozer</r></p><par n="bor__n"/></e>
+    <e lm="buldozer" r="LR"><p><l>buldozér</l><r>buldozer</r></p><par n="bor__n"/></e>
     <e lm="bundeswehr"><i>bundeswehr</i><par n="bor__n"/></e>
     <e lm="bungalov"><i>bungalov</i><par n="bor__n"/></e>
     <e lm="bunkr"><i>bunkr</i><par n="bor__n"/></e>
@@ -184,9 +184,9 @@
     <e lm="chips"><i>chips</i><par n="bor__n"/></e>
     <e lm="chlad"><i>chlad</i><par n="bor__n"/></e>
     <e lm="chlast"><i>chlast</i><par n="bor__n"/></e>
-    <e lm="chlorid"><i>chlorid</i><par n="bor__n"/></e>
     <e lm="chlor"><i>chlor</i><par n="bor__n"/></e>
-    <e lm="chlór" r="LR"><p><l>chlór</l><r>chlor</r></p><par n="bor__n"/></e>
+    <e lm="chlorid"><i>chlorid</i><par n="bor__n"/></e>
+    <e lm="chlor" r="LR"><p><l>chlór</l><r>chlor</r></p><par n="bor__n"/></e>
     <e lm="chlum"><i>chlum</i><par n="bor__n"/></e>
     <e lm="chlup"><i>chlup</i><par n="bor__n"/></e>
     <e lm="chmel"><i>chmel</i><par n="bor__n"/></e>
@@ -198,12 +198,12 @@
     <e lm="chór"><i>chór</i><par n="bor__n"/></e>
     <e lm="chrám"><i>chrám</i><par n="bor__n"/></e>
     <e lm="chrást"><i>chrást</i><par n="bor__n"/></e>
-    <e lm="chřást" r="LR"><p><l>chřást</l><r>chrást</r></p><par n="bor__n"/></e>
+    <e lm="chrást" r="LR"><p><l>chřást</l><r>chrást</r></p><par n="bor__n"/></e>
     <e lm="chřest"><i>chřest</i><par n="bor__n"/></e>
-    <e lm="chromozom"><i>chromozom</i><par n="bor__n"/></e>
-    <e lm="chromosom" r="LR"><p><l>chromosom</l><r>chromozom</r></p><par n="bor__n"/></e>
     <e lm="chrom"><i>chrom</i><par n="bor__n"/></e>
-    <e lm="chróm" r="LR"><p><l>chróm</l><r>chrom</r></p><par n="bor__n"/></e>
+    <e lm="chromozom"><i>chromozom</i><par n="bor__n"/></e>
+    <e lm="chromozom" r="LR"><p><l>chromosom</l><r>chromozom</r></p><par n="bor__n"/></e>
+    <e lm="chrom" r="LR"><p><l>chróm</l><r>chrom</r></p><par n="bor__n"/></e>
     <e lm="chrup"><i>chrup</i><par n="bor__n"/></e>
     <e lm="chvalozpěv"><i>chvalozpěv</i><par n="bor__n"/></e>
     <e lm="chvat"><i>chvat</i><par n="bor__n"/></e>
@@ -245,7 +245,7 @@
     <e lm="dekodér"><i>dekodér</i><par n="bor__n"/></e>
     <e lm="dekor"><i>dekor</i><par n="bor__n"/></e>
     <e lm="dekret"><i>dekret</i><par n="bor__n"/></e>
-    <e lm="decret" r="LR"><p><l>decret</l><r>dekret</r></p><par n="bor__n"/></e>
+    <e lm="dekret" r="LR"><p><l>decret</l><r>dekret</r></p><par n="bor__n"/></e>
     <e lm="delikt"><i>delikt</i><par n="bor__n"/></e>
     <e lm="démant"><i>démant</i><par n="bor__n"/></e>
     <e lm="deodorant"><i>deodorant</i><par n="bor__n"/></e>
@@ -275,9 +275,9 @@
     <e lm="diplom"><i>diplom</i><par n="bor__n"/></e>
     <e lm="disent"><i>disent</i><par n="bor__n"/></e>
     <e lm="diskont"><i>diskont</i><par n="bor__n"/></e>
-    <e lm="discont" r="LR"><p><l>discont</l><r>diskont</r></p><par n="bor__n"/></e>
+    <e lm="diskont" r="LR"><p><l>discont</l><r>diskont</r></p><par n="bor__n"/></e>
     <e lm="diskurz"><i>diskurz</i><par n="bor__n"/></e>
-    <e lm="diskurs" r="LR"><p><l>diskurs</l><r>diskurz</r></p><par n="bor__n"/></e>
+    <e lm="diskurz" r="LR"><p><l>diskurs</l><r>diskurz</r></p><par n="bor__n"/></e>
     <e lm="div"><i>div</i><par n="bor__n"/></e>
     <e lm="dixieland"><i>dixieland</i><par n="bor__n"/></e>
     <e lm="dohad"><i>dohad</i><par n="bor__n"/></e>
@@ -320,7 +320,7 @@
     <e lm="efekt"><i>efekt</i><par n="bor__n"/></e>
     <e lm="ekosystém"><i>ekosystém</i><par n="bor__n"/></e>
     <e lm="ekvivalent"><i>ekvivalent</i><par n="bor__n"/></e>
-    <e lm="equivalent" r="LR"><p><l>equivalent</l><r>ekvivalent</r></p><par n="bor__n"/></e>
+    <e lm="ekvivalent" r="LR"><p><l>equivalent</l><r>ekvivalent</r></p><par n="bor__n"/></e>
     <e lm="ekzém"><i>ekzém</i><par n="bor__n"/></e>
     <e lm="elán"><i>elán</i><par n="bor__n"/></e>
     <e lm="elektrolyt"><i>elektrolyt</i><par n="bor__n"/></e>
@@ -339,379 +339,20 @@
     <e lm="erb"><i>erb</i><par n="bor__n"/></e>
     <e lm="eskalátor"><i>eskalátor</i><par n="bor__n"/></e>
     <e lm="esprit"><i>esprit</i><par n="bor__n"/></e>
-    <e lm="ethan"><i>ethan</i><par n="bor__n"/></e>
-    <e lm="etan" r="LR"><p><l>etan</l><r>ethan</r></p><par n="bor__n"/></e>
+    <e lm="etan"><i>ethan</i><par n="bor__n"/></e>
     <e lm="éter"><i>éter</i><par n="bor__n"/></e>
-    <e lm="éther" r="LR"><p><l>éther</l><r>éter</r></p><par n="bor__n"/></e>
+    <e lm="éter" r="LR"><p><l>éther</l><r>éter</r></p><par n="bor__n"/></e>
+    <e lm="ethan"><i>ethan</i><par n="bor__n"/></e>
+    <e lm="ethan" r="LR"><p><l>etan</l><r>ethan</r></p><par n="bor__n"/></e>
+    <e lm="étos"><i>étos</i><par n="bor__n"/></e>
+    <e lm="etos" r="LR"><p><l>ethos</l><r>étos</r></p><par n="bor__n"/></e>
     <e lm="eurobond"><i>eurobond</i><par n="bor__n"/></e>
     <e lm="euroregion"><i>euroregion</i><par n="bor__n"/></e>
     <e lm="exces"><i>exces</i><par n="bor__n"/></e>
     <e lm="exil"><i>exil</i><par n="bor__n"/></e>
     <e lm="exkrement"><i>exkrement</i><par n="bor__n"/></e>
-    <e lm="experiment"><i>experiment</i><par n="bor__n"/></e>
-    <e lm="exponent"><i>exponent</i><par n="bor__n"/></e>
-    <e lm="export"><i>export</i><par n="bor__n"/></e>
-    <e lm="exteriér"><i>exteriér</i><par n="bor__n"/></e>
-    <e lm="extrakt"><i>extrakt</i><par n="bor__n"/></e>
-    <e lm="extrém"><i>extrém</i><par n="bor__n"/></e>
-    <e lm="fagot"><i>fagot</i><par n="bor__n"/></e>
-    <e lm="fakt"><i>fakt</i><par n="bor__n"/></e>
-    <e lm="falzifikát"><i>falzifikát</i><par n="bor__n"/></e>
-    <e lm="fan"><i>fan</i><par n="bor__n"/></e>
-    <e lm="fantóm"><i>fantóm</i><par n="bor__n"/></e>
-    <e lm="fascikl"><i>fascikl</i><par n="bor__n"/></e>
-    <e lm="faul"><i>faul</i><par n="bor__n"/></e>
-    <e lm="fejeton"><i>fejeton</i><par n="bor__n"/></e>
-    <e lm="absint"><i>absint</i><par n="bor__n"/></e>
-    <e lm="achát"><i>achát</i><par n="bor__n"/></e>
-    <e lm="adaptér"><i>adaptér</i><par n="bor__n"/></e>
-    <e lm="adapter" r="LR"><p><l>adapter</l><r>adaptér</r></p><par n="bor__n"/></e>
-    <e lm="adrenalin"><i>adrenalin</i><par n="bor__n"/></e>
-    <e lm="aeroklub"><i>aeroklub</i><par n="bor__n"/></e>
-    <e lm="aerosol"><i>aerosol</i><par n="bor__n"/></e>
-    <e lm="afekt"><i>afekt</i><par n="bor__n"/></e>
-    <e lm="agens"><i>agens</i><par n="bor__n"/></e>
-    <e lm="air"><i>air</i><par n="bor__n"/></e>
-    <e lm="akad"><i>akad</i><par n="bor__n"/></e>
-    <e lm="akcelerátor"><i>akcelerátor</i><par n="bor__n"/></e>
-    <e lm="akordeon"><i>akordeon</i><par n="bor__n"/></e>
-    <e lm="akord"><i>akord</i><par n="bor__n"/></e>
-    <e lm="akreditiv"><i>akreditiv</i><par n="bor__n"/></e>
-    <e lm="akr"><i>akr</i><par n="bor__n"/></e>
-    <e lm="aktiv"><i>aktiv</i><par n="bor__n"/></e>
-    <e lm="akumulátor"><i>akumulátor</i><par n="bor__n"/></e>
-    <e lm="akvarel"><i>akvarel</i><par n="bor__n"/></e>
-    <e lm="alarm"><i>alarm</i><par n="bor__n"/></e>
-    <e lm="alergen"><i>alergen</i><par n="bor__n"/></e>
-    <e lm="alias"><i>alias</i><par n="bor__n"/></e>
-    <e lm="alkaloid"><i>alkaloid</i><par n="bor__n"/></e>
-    <e lm="alobal"><i>alobal</i><par n="bor__n"/></e>
-    <e lm="alt"><i>alt</i><par n="bor__n"/></e>
-    <e lm="ambit"><i>ambit</i><par n="bor__n"/></e>
-    <e lm="amfetamin"><i>amfetamin</i><par n="bor__n"/></e>
-    <e lm="amfiteátr"><i>amfiteátr</i><par n="bor__n"/></e>
-    <e lm="amin"><i>amin</i><par n="bor__n"/></e>
-    <e lm="amplión"><i>amplión</i><par n="bor__n"/></e>
-    <e lm="amulet"><i>amulet</i><par n="bor__n"/></e>
-    <e lm="analyzátor"><i>analyzátor</i><par n="bor__n"/></e>
-    <e lm="ananas"><i>ananas</i><par n="bor__n"/></e>
-    <e lm="angrešt"><i>angrešt</i><par n="bor__n"/></e>
-    <e lm="anion"><i>anion</i><par n="bor__n"/></e>
-    <e lm="aniont" r="LR"><p><l>aniont</l><r>anion</r></p><par n="bor__n"/></e>
-    <e lm="anonym"><i>anonym</i><par n="bor__n"/></e>
-    <e lm="ansámbl"><i>ansámbl</i><par n="bor__n"/></e>
-    <e lm="antigen"><i>antigen</i><par n="bor__n"/></e>
-    <e lm="antioxidant"><i>antioxidant</i><par n="bor__n"/></e>
-    <e lm="antiradar"><i>antiradar</i><par n="bor__n"/></e>
-    <e lm="antivirus"><i>antivirus</i><par n="bor__n"/></e>
-    <e lm="apartmán"><i>apartmán</i><par n="bor__n"/></e>
-    <e lm="apel"><i>apel</i><par n="bor__n"/></e>
-    <e lm="aperitiv"><i>aperitiv</i><par n="bor__n"/></e>
-    <e lm="apetýt"><i>apetýt</i><par n="bor__n"/></e>
-    <e lm="apetyt" r="LR"><p><l>apetyt</l><r>apetýt</r></p><par n="bor__n"/></e>
-    <e lm="apex"><i>apex</i><par n="bor__n"/></e>
-    <e lm="aplaus"><i>aplaus</i><par n="bor__n"/></e>
-    <e lm="apokryf"><i>apokryf</i><par n="bor__n"/></e>
-    <e lm="aport"><i>aport</i><par n="bor__n"/></e>
-    <e lm="archetyp"><i>archetyp</i><par n="bor__n"/></e>
-    <e lm="argument"><i>argument</i><par n="bor__n"/></e>
-    <e lm="ar"><i>ar</i><par n="bor__n"/></e>
-    <e lm="arsen"><i>arsen</i><par n="bor__n"/></e>
-    <e lm="arsén" r="LR"><p><l>arsén</l><r>arsen</r></p><par n="bor__n"/></e>
-    <e lm="arzen" r="LR"><p><l>arzen</l><r>arsen</r></p><par n="bor__n"/></e>
-    <e lm="arzén" r="LR"><p><l>arzén</l><r>arsen</r></p><par n="bor__n"/></e>
-    <e lm="arzenál"><i>arzenál</i><par n="bor__n"/></e>
-    <e lm="asfalt"><i>asfalt</i><par n="bor__n"/></e>
-    <e lm="aspekt"><i>aspekt</i><par n="bor__n"/></e>
-    <e lm="aspirin"><i>aspirin</i><par n="bor__n"/></e>
-    <e lm="asteroid"><i>asteroid</i><par n="bor__n"/></e>
-    <e lm="atak"><i>atak</i><par n="bor__n"/></e>
-    <e lm="ateliér"><i>ateliér</i><par n="bor__n"/></e>
-    <e lm="atelier"><p><l>atelier<l><r>ateliér</r></p><par n="bor__n"/></e>
-    <e lm="atest"><i>atest</i><par n="bor__n"/></e>
-    <e lm="atol"><i>atol</i><par n="bor__n"/></e>
-    <e lm="atribut"><i>atribut</i><par n="bor__n"/></e>
-    <e lm="audit"><i>audit</i><par n="bor__n"/></e>
-    <e lm="autobazar"><i>autobazar</i><par n="bor__n"/></e>
-    <e lm="autodrom"><i>autodrom</i><par n="bor__n"/></e>
-    <e lm="autogram"><i>autogram</i><par n="bor__n"/></e>
-    <e lm="autokar"><i>autokar</i><par n="bor__n"/></e>
-    <e lm="autokemp"><i>autokemp</i><par n="bor__n"/></e>
-    <e lm="autoklub"><i>autoklub</i><par n="bor__n"/></e>
-    <e lm="autokros"><i>autokros</i><par n="bor__n"/></e>
-    <e lm="automotoklub"><i>automotoklub</i><par n="bor__n"/></e>
-    <e lm="autoportrét"><i>autoportrét</i><par n="bor__n"/></e>
-    <e lm="autostop"><i>autostop</i><par n="bor__n"/></e>
-    <e lm="azbest"><i>azbest</i><par n="bor__n"/></e>
-    <e lm="bacil"><i>bacil</i><par n="bor__n"/></e>
-    <e lm="badminton"><i>badminton</i><par n="bor__n"/></e>
-    <e lm="bagr"><i>bagr</i><par n="bor__n"/></e>
-    <e lm="bajonet"><i>bajonet</i><par n="bor__n"/></e>
-    <e lm="balast"><i>balast</i><par n="bor__n"/></e>
-    <e lm="balet"><i>balet</i><par n="bor__n"/></e>
-    <e lm="bal"><i>bal</i><par n="bor__n"/></e>
-    <e lm="ball"><i>ball</i><par n="bor__n"/></e>
-    <e lm="balt"><i>balt</i><par n="bor__n"/></e>
-    <e lm="balzám"><i>balzám</i><par n="bor__n"/></e>
-    <e lm="banán"><i>banán</i><par n="bor__n"/></e>
-    <e lm="band"><i>band</i><par n="bor__n"/></e>
-    <e lm="banket"><i>banket</i><par n="bor__n"/></e>
-    <e lm="bankomat"><i>bankomat</i><par n="bor__n"/></e>
-    <e lm="bankrot"><i>bankrot</i><par n="bor__n"/></e>
-    <e lm="barel"><i>barel</i><par n="bor__n"/></e>
-    <e lm="barrel" r="LR"><p><l>barrel</l><r>barel</r></p><par n="bor__n"/></e>
-    <e lm="baret"><i>baret</i><par n="bor__n"/></e>
-    <e lm="bar"><i>bar</i><par n="bor__n"/></e>
-    <e lm="baryton"><i>baryton</i><par n="bor__n"/></e>
-    <e lm="baseball"><i>baseball</i><par n="bor__n"/></e>
-    <e lm="bas"><i>bas</i><par n="bor__n"/></e>
-    <e lm="basket"><i>basket</i><par n="bor__n"/></e>
-    <e lm="bastion"><i>bastion</i><par n="bor__n"/></e>
-    <e lm="bat"><i>bat</i><par n="bor__n"/></e>
-    <e lm="bažant"><i>bažant</i><par n="bor__n"/></e>
-    <e lm="bazar"><i>bazar</i><par n="bor__n"/></e>
-    <e lm="bekhend"><i>bekhend</i><par n="bor__n"/></e>
-    <e lm="bel"><i>bel</i><par n="bor__n"/></e>
-    <e lm="benelux"><i>benelux</i><par n="bor__n"/></e>
-    <e lm="benzen"><i>benzen</i><par n="bor__n"/></e>
-    <e lm="benzén"><p><l>benzén</l><r>benzen</r></p><par n="bor__n"/></e>
-    <e lm="benzín"><i>benzín</i><par n="bor__n"/></e>
-    <e lm="beran"><i>beran</i><par n="bor__n"/></e>
-    <e lm="bestseller"><i>bestseller</i><par n="bor__n"/></e>
-    <e lm="biatlon"><i>biatlon</i><par n="bor__n"/></e>
-    <e lm="bicykl"><i>bicykl</i><par n="bor__n"/></e>
-    <e lm="biedermeier"><i>biedermeier</i><par n="bor__n"/></e>
-    <e lm="bifenyl"><i>bifenyl</i><par n="bor__n"/></e>
-    <e lm="biliár"><i>biliár</i><par n="bor__n"/></e>
-    <e lm="bilion"><i>bilion</i><par n="bor__n"/></e>
-    <e lm="bilión" r="LR"><p><l>bilión</l><r>bilion</r></p><par n="bor__n"/></e>
-    <e lm="billboard"><i>billboard</i><par n="bor__n"/></e>
-    <e lm="bill"><i>bill</i><par n="bor__n"/></e>
-    <e lm="biograf"><i>biograf</i><par n="bor__n"/></e>
-    <e lm="bioplyn"><i>bioplyn</i><par n="bor__n"/></e>
-    <e lm="bios><i>bios</i><par n="bor__n"/></e>
-    <e lm="biotop"><i>biotop</i><par n="bor__n"/></e>
-    <e lm="blábol"><i>blábol</i><par n="bor__n"/></e>
-    <e lm="blud"><i>blud</i><par n="bor__n"/></e>
-    <e lm="bluegrass"><i>bluegrass</i><par n="bor__n"/></e>
-    <e lm="board"><i>board</i><par n="bor__n"/></e>
-    <e lm="bob"><i>bob</i><par n="bor__n"/></e>
-    <e lm="bojkot"><i>bojkot</i><par n="bor__n"/></e>
-    <e lm="boykot" r="LR"><p><l>boykot</l><r>bojkot</r></p><par n="bor__n"/></e>
-    <e lm="bojler"><i>bojler</i><par n="bor__n"/></e>
-    <e lm="bol"><i>bol</i><par n="bor__n"/></e>
-    <e lm="bombardér"><i>bombardér</i><par n="bor__n"/></e>
-    <e lm="bonbón"><i>bonbón</i><par n="bor__n"/></e>
-    <e lm="bond"><i>bond</i><par n="bor__n"/></e>
-    <e lm="bon"><i>bon</i><par n="bor__n"/></e>
-    <e lm="bonmot"><i>bonmot</i><par n="bor__n"/></e>
-    <e lm="bonton"><i>bonton</i><par n="bor__n"/></e>
-    <e lm="bontón" r="LR"><p><l>bontón</l><r>bonton</r></p><par n="bor__n"/></e>
-    <e lm="bonus"><i>bonus</i><par n="bor__n"/></e>
-    <e lm="boom"><i>boom</i><par n="bor__n"/></e>
-    <e lm="bordel"><i>bordel</i><par n="bor__n"/></e>
-    <e lm="bourbon"><i>bourbon</i><par n="bor__n"/></e>
-    <e lm="box"><i>box</i><par n="bor__n"/></e>
-    <e lm="brambor"><i>brambor</i><par n="bor__n"/></e>
-    <e lm="briliant"><i>briliant</i><par n="bor__n"/></e>
-    <e lm="břit"><i>břit</i><par n="bor__n"/></e>
-    <e lm="bronz"><i>bronz</i><par n="bor__n"/></e>
-    <e lm="browser"><i>browser</i><par n="bor__n"/></e>
-    <e lm="brom"><i>brom</i><par n="bor__n"/></e>
-    <e lm="bróm" r="LR"><p><l>bróm</l><r>brom</r></p><par n="bor__n"/></e>
-    <e lm="buchar"><i>buchar</i><par n="bor__n"/></e>
-    <e lm="bufet"><i>bufet</i><par n="bor__n"/></e>
-    <e lm="buldozer"><i>buldozer</i><par n="bor__n"/></e>
-    <e lm="buldozér" r="LR"><p><l>buldozér</l><r>buldozer</r></p><par n="bor__n"/></e>
-    <e lm="bundeswehr"><i>bundeswehr</i><par n="bor__n"/></e>
-    <e lm="bungalov"><i>bungalov</i><par n="bor__n"/></e>
-    <e lm="bunkr"><i>bunkr</i><par n="bor__n"/></e>
-    <e lm="bušl"><i>bušl</i><par n="bor__n"/></e>
-    <e lm="butan"><i>butan</i><par n="bor__n"/></e>
-    <e lm="byznys"><i>byznys</i><par n="bor__n"/></e>
-    <e lm="čakan"><i>čakan</i><par n="bor__n"/></e>
-    <e lm="camp"><i>camp</i><par n="bor__n"/></e>
-    <e lm="caravan"><i>caravan</i><par n="bor__n"/></e>
-    <e lm="cár"><i>cár</i><par n="bor__n"/></e>
-    <e lm="časoprostor"><i>časoprostor</i><par n="bor__n"/></e>
-    <e lm="cedr"><i>cedr</i><par n="bor__n"/></e>
-    <e lm="celer"><i>celer</i><par n="bor__n"/></e>
-    <e lm="cent"><i>cent</i><par n="bor__n"/></e>
-    <e lm="centimetr"><i>centimetr</i><par n="bor__n"/></e>
-    <e lm="centr"><i>centr</i><par n="bor__n"/></e>
-    <e lm="cep"><i>cep</i><par n="bor__n"/></e>
-    <e lm="čep"><i>čep</i><par n="bor__n"/></e>
-    <e lm="ceremoniál"><i>ceremoniál</i><par n="bor__n"/></e>
-    <e lm="chaos"><i>chaos</i><par n="bor__n"/></e>
-    <e lm="charakter"><i>charakter</i><par n="bor__n"/></e>
-    <e lm="chip"><i>chip</i><par n="bor__n"/></e>
-    <e lm="chips"><i>chips</i><par n="bor__n"/></e>
-    <e lm="chlad"><i>chlad</i><par n="bor__n"/></e>
-    <e lm="chlast"><i>chlast</i><par n="bor__n"/></e>
-    <e lm="chlorid"><i>chlorid</i><par n="bor__n"/></e>
-    <e lm="chlor"><i>chlor</i><par n="bor__n"/></e>
-    <e lm="chlór" r="LR"><p><l>chlór</l><r>chlor</r></p><par n="bor__n"/></e>
-    <e lm="chlum"><i>chlum</i><par n="bor__n"/></e>
-    <e lm="chlup"><i>chlup</i><par n="bor__n"/></e>
-    <e lm="chmel"><i>chmel</i><par n="bor__n"/></e>
-    <e lm="chochol"><i>chochol</i><par n="bor__n"/></e>
-    <e lm="chod"><i>chod</i><par n="bor__n"/></e>
-    <e lm="cholesterol"><i>cholesterol</i><par n="bor__n"/></e>
-    <e lm="chomout"><i>chomout</i><par n="bor__n"/></e>
-    <e lm="chov"><i>chov</i><par n="bor__n"/></e>
-    <e lm="chór"><i>chór</i><par n="bor__n"/></e>
-    <e lm="chrám"><i>chrám</i><par n="bor__n"/></e>
-    <e lm="chrást"><i>chrást</i><par n="bor__n"/></e>
-    <e lm="chřást" r="LR"><p><l>chřást</l><r>chrást</r></p><par n="bor__n"/></e>
-    <e lm="chřest"><i>chřest</i><par n="bor__n"/></e>
-    <e lm="chromozom"><i>chromozom</i><par n="bor__n"/></e>
-    <e lm="chromosom" r="LR"><p><l>chromosom</l><r>chromozom</r></p><par n="bor__n"/></e>
-    <e lm="chrom"><i>chrom</i><par n="bor__n"/></e>
-    <e lm="chróm" r="LR"><p><l>chróm</l><r>chrom</r></p><par n="bor__n"/></e>
-    <e lm="chrup"><i>chrup</i><par n="bor__n"/></e>
-    <e lm="chvalozpěv"><i>chvalozpěv</i><par n="bor__n"/></e>
-    <e lm="chvat"><i>chvat</i><par n="bor__n"/></e>
-    <e lm="cimbál"><i>cimbál</i><par n="bor__n"/></e>
-    <e lm="čin"><i>čin</i><par n="bor__n"/></e>
-    <e lm="cinkot"><i>cinkot</i><par n="bor__n"/></e>
-    <e lm="čip"><i>čip</i><par n="bor__n"/></e>
-    <e lm="cíp"><i>cíp</i><par n="bor__n"/></e>
-    <e lm="cit"><i>cit</i><par n="bor__n"/></e>
-    <e lm="citrón"><i>citrón</i><par n="bor__n"/></e>
-    <e lm="citrus"><i>citrus</i><par n="bor__n"/></e>
-    <e lm="civil"><i>civil</i><par n="bor__n"/></e>
-    <e lm="člen"><i>člen</i><par n="bor__n"/></e>
-    <e lm="člun"><i>člun</i><par n="bor__n"/></e>
-    <e lm="comics"><i>comics</i><par n="bor__n"/></e>
-    <e lm="cop"><i>cop</i><par n="bor__n"/></e>
-    <e lm="copyright"><i>copyright</i><par n="bor__n"/></e>
-    <e lm="corpus"><i>corpus</i><par n="bor__n"/></e>
-    <e lm="coul"><i>coul</i><par n="bor__n"/></e>
-    <e lm="coup"><i>coup</i><par n="bor__n"/></e>
-    <e lm="čtyřtakt"><i>čtyřtakt</i><par n="bor__n"/></e>
-    <e lm="cukr"><i>cukr</i><par n="bor__n"/></e>
-    <e lm="cukrovar"><i>cukrovar</i><par n="bor__n"/></e>
-    <e lm="cval"><i>cval</i><par n="bor__n"/></e>
-    <e lm="cyklokros"><i>cyklokros</i><par n="bor__n"/></e>
-    <e lm="cyklon"><i>cyklon</i><par n="bor__n"/></e>
-    <e lm="cyklotrial"><i>cyklotrial</i><par n="bor__n"/></e>
-    <e lm="cylindr"><i>cylindr</i><par n="bor__n"/></e>
-    <e lm="dar"><i>dar</i><par n="bor__n"/></e>
-    <e lm="datum"><i>datum</i><par n="bor__n"/></e>
-    <e lm="dav"><i>dav</i><par n="bor__n"/></e>
-    <e lm="debakl"><i>debakl</i><par n="bor__n"/></e>
-    <e lm="debl"><i>debl</i><par n="bor__n"/></e>
-    <e lm="debut"><i>debut</i><par n="bor__n"/></e>
-    <e lm="decibel"><i>decibel</i><par n="bor__n"/></e>
-    <e lm="defekt"><i>defekt</i><par n="bor__n"/></e>
-    <e lm="deficit"><i>deficit</i><par n="bor__n"/></e>
-    <e lm="dekagram"><i>dekagram</i><par n="bor__n"/></e>
-    <e lm="dekodér"><i>dekodér</i><par n="bor__n"/></e>
-    <e lm="dekor"><i>dekor</i><par n="bor__n"/></e>
-    <e lm="dekret"><i>dekret</i><par n="bor__n"/></e>
-    <e lm="decret" r="LR"><p><l>decret</l><r>dekret</r></p><par n="bor__n"/></e>
-    <e lm="delikt"><i>delikt</i><par n="bor__n"/></e>
-    <e lm="démant"><i>démant</i><par n="bor__n"/></e>
-    <e lm="deodorant"><i>deodorant</i><par n="bor__n"/></e>
-    <e lm="departement"><i>departement</i><par n="bor__n"/></e>
-    <e lm="department"><i>department</i><par n="bor__n"/></e>
-    <e lm="depozit"><i>depozit</i><par n="bor__n"/></e>
-    <e lm="děs"><i>děs</i><par n="bor__n"/></e>
-    <e lm="design"><i>design</i><par n="bor__n"/></e>
-    <e lm="desktop"><i>desktop</i><par n="bor__n"/></e>
-    <e lm="despekt"><i>despekt</i><par n="bor__n"/></e>
-    <e lm="detail"><i>detail</i><par n="bor__n"/></e>
-    <e lm="detektor"><i>detektor</i><par n="bor__n"/></e>
-    <e lm="devětsil"><i>devětsil</i><par n="bor__n"/></e>
-    <e lm="devon"><i>devon</i><par n="bor__n"/></e>
-    <e lm="dezén"><i>dezén</i><par n="bor__n"/></e>
-    <e lm="dezert"><i>dezert</i><par n="bor__n"/></e>
-    <e lm="diabet"><i>diabet</i><par n="bor__n"/></e>
-    <e lm="diagram"><i>diagram</i><par n="bor__n"/></e>
-    <e lm="diamant"><i>diamant</i><par n="bor__n"/></e>
-    <e lm="diapozitiv"><i>diapozitiv</i><par n="bor__n"/></e>
-    <e lm="diesel"><i>diesel</i><par n="bor__n"/></e>
-    <e lm="diferenciál"><i>diferenciál</i><par n="bor__n"/></e>
-    <e lm="diktafon"><i>diktafon</i><par n="bor__n"/></e>
-    <e lm="díl"><i>díl</i><par n="bor__n"/></e>
-    <e lm="dinár"><i>dinár</i><par n="bor__n"/></e>
-    <e lm="dioxin"><i>dioxin</i><par n="bor__n"/></e>
-    <e lm="diplom"><i>diplom</i><par n="bor__n"/></e>
-    <e lm="disent"><i>disent</i><par n="bor__n"/></e>
-    <e lm="diskont"><i>diskont</i><par n="bor__n"/></e>
-    <e lm="discont" r="LR"><p><l>discont</l><r>diskont</r></p><par n="bor__n"/></e>
-    <e lm="diskurz"><i>diskurz</i><par n="bor__n"/></e>
-    <e lm="diskurs" r="LR"><p><l>diskurs</l><r>diskurz</r></p><par n="bor__n"/></e>
-    <e lm="div"><i>div</i><par n="bor__n"/></e>
-    <e lm="dixieland"><i>dixieland</i><par n="bor__n"/></e>
-    <e lm="dohad"><i>dohad</i><par n="bor__n"/></e>
-    <e lm="dohled"><i>dohled</i><par n="bor__n"/></e>
-    <e lm="dolar"><i>dolar</i><par n="bor__n"/></e>
-    <e lm="dol"><i>dol</i><par n="bor__n"/></e>
-    <e lm="dolomit"><i>dolomit</i><par n="bor__n"/></e>
-    <e lm="doprovod"><i>doprovod</i><par n="bor__n"/></e>
-    <e lm="dorost"><i>dorost</i><par n="bor__n"/></e>
-    <e lm="doslov"><i>doslov</i><par n="bor__n"/></e>
-    <e lm="dostřel"><i>dostřel</i><par n="bor__n"/></e>
-    <e lm="dostup"><i>dostup</i><par n="bor__n"/></e>
-    <e lm="dozor"><i>dozor</i><par n="bor__n"/></e>
-    <e lm="dóm"><i>dóm</i><par n="bor__n"/></e>
-    <e lm="dráp"><i>dráp</i><par n="bor__n"/></e>
-    <e lm="drb"><i>drb</i><par n="bor__n"/></e>
-    <e lm="dřep"><i>dřep</i><par n="bor__n"/></e>
-    <e lm="dřevořez"><i>dřevořez</i><par n="bor__n"/></e>
-    <e lm="dřez"><i>dřez</i><par n="bor__n"/></e>
-    <e lm="drift"><i>drift</i><par n="bor__n"/></e>
-    <e lm="dril"><i>dril</i><par n="bor__n"/></e>
-    <e lm="drn"><i>drn</i><par n="bor__n"/></e>
-    <e lm="drobnohled"><i>drobnohled</i><par n="bor__n"/></e>
-    <e lm="duatlon"><i>duatlon</i><par n="bor__n"/></e>
-    <e lm="důchod"><i>důchod</i><par n="bor__n"/></e>
-    <e lm="duel"><i>duel</i><par n="bor__n"/></e>
-    <e lm="dusičnan"><i>dusičnan</i><par n="bor__n"/></e>
-    <e lm="důvod"><i>důvod</i><par n="bor__n"/></e>
-    <e lm="důvtip"><i>důvtip</i><par n="bor__n"/></e>
-    <e lm="dvojskif"><i>dvojskif</i><par n="bor__n"/></e>
-    <e lm="dým"><i>dým</i><par n="bor__n"/></e>
-    <e lm="dynamit"><i>dynamit</i><par n="bor__n"/></e>
-    <e lm="džem"><i>džem</i><par n="bor__n"/></e>
-    <e lm="džin"><i>džin</i><par n="bor__n"/></e>
-    <e lm="džíp"><i>džíp</i><par n="bor__n"/></e>
-    <e lm="džus"><i>džus</i><par n="bor__n"/></e>
-    <e lm="eden"><i>eden</i><par n="bor__n"/></e>
-    <e lm="editor"><i>editor</i><par n="bor__n"/></e>
-    <e lm="efedrin"><i>efedrin</i><par n="bor__n"/></e>
-    <e lm="efekt"><i>efekt</i><par n="bor__n"/></e>
-    <e lm="ekosystém"><i>ekosystém</i><par n="bor__n"/></e>
-    <e lm="ekvivalent"><i>ekvivalent</i><par n="bor__n"/></e>
-    <e lm="equivalent" r="LR"><p><l>equivalent</l><r>ekvivalent</r></p><par n="bor__n"/></e>
-    <e lm="ekzém"><i>ekzém</i><par n="bor__n"/></e>
-    <e lm="elán"><i>elán</i><par n="bor__n"/></e>
-    <e lm="elektrolyt"><i>elektrolyt</i><par n="bor__n"/></e>
-    <e lm="elektromagnet"><i>elektromagnet</i><par n="bor__n"/></e>
-    <e lm="elektroměr"><i>elektroměr</i><par n="bor__n"/></e>
-    <e lm="elektromotor"><i>elektromotor</i><par n="bor__n"/></e>
-    <e lm="elektron"><i>elektron</i><par n="bor__n"/></e>
-    <e lm="element"><i>element</i><par n="bor__n"/></e>
-    <e lm="elixír"><i>elixír</i><par n="bor__n"/></e>
-    <e lm="email"><i>email</i><par n="bor__n"/></e>
-    <e lm="emblém"><i>emblém</i><par n="bor__n"/></e>
-    <e lm="emitor"><i>emitor</i><par n="bor__n"/></e>
-    <e lm="empir"><i>empir</i><par n="bor__n"/></e>
-    <e lm="epigram"><i>epigram</i><par n="bor__n"/></e>
-    <e lm="erár"><i>erár</i><par n="bor__n"/></e>
-    <e lm="erb"><i>erb</i><par n="bor__n"/></e>
-    <e lm="eskalátor"><i>eskalátor</i><par n="bor__n"/></e>
-    <e lm="esprit"><i>esprit</i><par n="bor__n"/></e>
-    <e lm="ethan"><i>ethan</i><par n="bor__n"/></e>
-    <e lm="etan" r="LR"><p><l>etan</l><r>ethan</r></p><par n="bor__n"/></e>
-    <e lm="éter"><i>éter</i><par n="bor__n"/></e>
-    <e lm="éther" r="LR"><p><l>éther</l><r>éter</r></p><par n="bor__n"/></e>
-    <e lm="eurobond"><i>eurobond</i><par n="bor__n"/></e>
-    <e lm="euroregion"><i>euroregion</i><par n="bor__n"/></e>
-    <e lm="exces"><i>exces</i><par n="bor__n"/></e>
-    <e lm="exil"><i>exil</i><par n="bor__n"/></e>
-    <e lm="exkrement"><i>exkrement</i><par n="bor__n"/></e>
+    <e lm="exkurz"><i>exkurz</i><par n="bor__n"/></e>
+    <e lm="exkurz" r="LR"><p><l>exkurs</l><r>exkurz</r></p><par n="bor__n"/></e>
     <e lm="experiment"><i>experiment</i><par n="bor__n"/></e>
     <e lm="exponent"><i>exponent</i><par n="bor__n"/></e>
     <e lm="export"><i>export</i><par n="bor__n"/></e>
@@ -728,6 +369,10 @@
     <e lm="fejeton"><i>fejeton</i><par n="bor__n"/></e>
     <e lm="fen"><i>fen</i><par n="bor__n"/></e>
     <e lm="fén"><i>fén</i><par n="bor__n"/></e>
+    <e lm="fenomén"><i>fenomén</i><par n="bor__n"/></e>
+    <e lm="fenomén" r="LR"><p><l>fenomen</l><r>fenomén</r></p><par n="bor__n"/></e>
+    <e lm="fenykl"><i>fenykl</i><par n="bor__n"/></e>
+    <e lm="fenykl" r="LR"><p><l>fenikl</l><r>fenykl</r></p><par n="bor__n"/></e>
     <e lm="fernet"><i>fernet</i><par n="bor__n"/></e>
     <e lm="fet"><i>fet</i><par n="bor__n"/></e>
     <e lm="film"><i>film</i><par n="bor__n"/></e>
@@ -739,8 +384,10 @@
     <e lm="flirt"><i>flirt</i><par n="bor__n"/></e>
     <e lm="florbal"><i>florbal</i><par n="bor__n"/></e>
     <e lm="fluor"><i>fluor</i><par n="bor__n"/></e>
-    <e lm="fluór" r="LR"><p><l>fluór</l><r>fluor</r></p><par n="bor__n"/></e>
+    <e lm="fluor" r="LR"><p><l>fluór</l><r>fluor</r></p><par n="bor__n"/></e>
     <e lm="fokus"><i>fokus</i><par n="bor__n"/></e>
+    <e lm="folklór"><i>folklór</i><par n="bor__n"/></e>
+    <e lm="folklór" r="LR"><p><l>folklor</l><r>folklór</r></p><par n="bor__n"/></e>
     <e lm="fond"><i>fond</i><par n="bor__n"/></e>
     <e lm="foném"><i>foném</i><par n="bor__n"/></e>
     <e lm="forhend"><i>forhend</i><par n="bor__n"/></e>
@@ -771,7 +418,9 @@
     <e lm="gin"><i>gin</i><par n="bor__n"/></e>
     <e lm="glanc"><i>glanc</i><par n="bor__n"/></e>
     <e lm="glóbus"><i>glóbus</i><par n="bor__n"/></e>
-    <e lm="globus" r="LR"><p><l>globus</l><r>glóbus</r></p><par n="bor__n"/></e>
+    <e lm="glóbus" r="LR"><p><l>globus</l><r>glóbus</r></p><par n="bor__n"/></e>
+    <e lm="gobelín"><i>gobelín</i><par n="bor__n"/></e>
+    <e lm="gobelín" r="LR"><p><l>gobelin</l><r>gobelín</r></p><par n="bor__n"/></e>
     <e lm="golet"><i>golet</i><par n="bor__n"/></e>
     <e lm="gospel"><i>gospel</i><par n="bor__n"/></e>
     <e lm="grad"><i>grad</i><par n="bor__n"/></e>
@@ -780,6 +429,8 @@
     <e lm="grafit"><i>grafit</i><par n="bor__n"/></e>
     <e lm="graham"><i>graham</i><par n="bor__n"/></e>
     <e lm="grál"><i>grál</i><par n="bor__n"/></e>
+    <e lm="gramofon"><i>gramofon</i><par n="bor__n"/></e>
+    <e lm="gramofon" r="LR"><p><l>gramofón</l><r>gramofon</r></p><par n="bor__n"/></e>
     <e lm="grandslam"><i>grandslam</i><par n="bor__n"/></e>
     <e lm="gran"><i>gran</i><par n="bor__n"/></e>
     <e lm="green"><i>green</i><par n="bor__n"/></e>
@@ -790,12 +441,16 @@
     <e lm="halas"><i>halas</i><par n="bor__n"/></e>
     <e lm="hamburger"><i>hamburger</i><par n="bor__n"/></e>
     <e lm="hamr"><i>hamr</i><par n="bor__n"/></e>
+    <e lm="handicap"><i>handicap</i><par n="bor__n"/></e>
     <e lm="handl"><i>handl</i><par n="bor__n"/></e>
+    <e lm="hangár"><i>hangár</i><par n="bor__n"/></e>
+    <e lm="hangár" r="LR"><p><l>hangar</l><r>hangár</r></p><par n="bor__n"/></e>
     <e lm="harém"><i>harém</i><par n="bor__n"/></e>
     <e lm="harmonogram"><i>harmonogram</i><par n="bor__n"/></e>
     <e lm="háv"><i>háv</i><par n="bor__n"/></e>
     <e lm="hazard"><i>hazard</i><par n="bor__n"/></e>
     <e lm="help"><i>help</i><par n="bor__n"/></e>
+    <e lm="hendicap" r="LR"><p><l>hendikep</l><r>handicap</r></p><par n="bor__n"/></e>
     <e lm="herbicid"><i>herbicid</i><par n="bor__n"/></e>
     <e lm="hic"><i>hic</i><par n="bor__n"/></e>
     <e lm="hlad"><i>hlad</i><par n="bor__n"/></e>
@@ -841,7 +496,7 @@
     <e lm="impeachment"><i>impeachment</i><par n="bor__n"/></e>
     <e lm="implantát"><i>implantát</i><par n="bor__n"/></e>
     <e lm="impuls"><i>impuls</i><par n="bor__n"/></e>
-    <e lm="impulz" r="LR"><p><l>impulz</l><r>impuls</r></p><par n="bor__n"/></e>
+    <e lm="impuls" r="LR"><p><l>impulz</l><r>impuls</r></p><par n="bor__n"/></e>
     <e lm="incident"><i>incident</i><par n="bor__n"/></e>
     <e lm="index"><i>index</i><par n="bor__n"/></e>
     <e lm="indikátor"><i>indikátor</i><par n="bor__n"/></e>
@@ -851,15 +506,27 @@
     <e lm="inhibitor"><i>inhibitor</i><par n="bor__n"/></e>
     <e lm="iniciátor"><i>iniciátor</i><par n="bor__n"/></e>
     <e lm="inkubátor"><i>inkubátor</i><par n="bor__n"/></e>
+    <e lm="insekticid"><i>insekticid</i><par n="bor__n"/></e>
+    <e lm="insekticid" r="LR"><p><l>insecticid</l><r>insekticid</r></p><par n="bor__n"/></e>
     <e lm="instinkt"><i>instinkt</i><par n="bor__n"/></e>
     <e lm="institut"><i>institut</i><par n="bor__n"/></e>
     <e lm="instrument"><i>instrument</i><par n="bor__n"/></e>
     <e lm="intelekt"><i>intelekt</i><par n="bor__n"/></e>
+    <e lm="interfejs"><i>interfejs</i><par n="bor__n"/></e>
+    <e lm="interiér"><i>interiér</i><par n="bor__n"/></e>
+    <e lm="interiér" r="LR"><p><l>interier</l><r>interiér</r></p><par n="bor__n"/></e>
     <e lm="interpol"><i>interpol</i><par n="bor__n"/></e>
+    <e lm="interpret"><i>interpret</i><par n="bor__n"/></e>
+    <e lm="interpret" r="LR"><r>interpretr</r><l>interpret</l></p><par n="bor__n"/></e>
     <e lm="interview"><i>interview</i><par n="bor__n"/></e>
+    <e lm="inzulin"><i>inzulin</i><par n="bor__n"/></e>
+    <e lm="inzulin" r="LR"><p><l>insulin</l><r>inzulin</r></p><par n="bor__n"/></e>
+    <e lm="inzulin" r="LR"><p><l>inzulín</l><r>inzulin</r></p><par n="bor__n"/></e>
     <e lm="ion"><i>ion</i><par n="bor__n"/></e>
     <e lm="iont"><i>iont</i><par n="bor__n"/></e>
     <e lm="islám"><i>islám</i><par n="bor__n"/></e>
+    <e lm="izotop"><i>izotop</i><par n="bor__n"/></e>
+    <e lm="izotop" r="LR"><p><l>isotop</l><r>izotop</r></p><par n="bor__n"/></e>
     <e lm="jackpot"><i>jackpot</i><par n="bor__n"/></e>
     <e lm="jam"><i>jam</i><par n="bor__n"/></e>
     <e lm="japan"><i>japan</i><par n="bor__n"/></e>
@@ -886,14 +553,20 @@
     <e lm="kamenolom"><i>kamenolom</i><par n="bor__n"/></e>
     <e lm="kamión"><i>kamión</i><par n="bor__n"/></e>
     <e lm="kanafas"><i>kanafas</i><par n="bor__n"/></e>
+    <e lm="kaňon"><i>kaňon</i><par n="bor__n"/></e>
+    <e lm="kanón"><i>kanón</i><par n="bor__n"/></e>
+    <e lm="kanón" r="LR"><p><l>kanon</l><r>kanón</r></p><par n="bor__n"/></e>
     <e lm="kant"><i>kant</i><par n="bor__n"/></e>
     <e lm="kanystr"><i>kanystr</i><par n="bor__n"/></e>
+    <e lm="kaolín"><i>kaolín</i><par n="bor__n"/></e>
+    <e lm="kaolín" r="LR"><p><l>kaolin</l><r>kaolín</r></p><par n="bor__n"/></e>
     <e lm="kapitál"><i>kapitál</i><par n="bor__n"/></e>
     <e lm="karbid"><i>karbid</i><par n="bor__n"/></e>
     <e lm="karbon"><i>karbon</i><par n="bor__n"/></e>
     <e lm="karburátor"><i>karburátor</i><par n="bor__n"/></e>
     <e lm="karcinom"><i>karcinom</i><par n="bor__n"/></e>
     <e lm="kar"><i>kar</i><par n="bor__n"/></e>
+    <e lm="karoten"><i>karoten</i><par n="bor__n"/></e>
     <e lm="kartel"><i>kartel</i><par n="bor__n"/></e>
     <e lm="karton"><i>karton</i><par n="bor__n"/></e>
     <e lm="kartón"><i>kartón</i><par n="bor__n"/></e>
@@ -916,6 +589,8 @@
     <e lm="kinematograf"><i>kinematograf</i><par n="bor__n"/></e>
     <e lm="kinofilm"><i>kinofilm</i><par n="bor__n"/></e>
     <e lm="kit"><i>kit</i><par n="bor__n"/></e>
+    <e lm="klakson"><i>klakson</i><par n="bor__n"/></e>
+    <e lm="klakson" r="LR"><p><l>klaxon</l><r>klakson</r></p><par n="bor__n"/></e>
     <e lm="klam"><i>klam</i><par n="bor__n"/></e>
     <e lm="klan"><i>klan</i><par n="bor__n"/></e>
     <e lm="klas"><i>klas</i><par n="bor__n"/></e>
@@ -927,6 +602,8 @@
     <e lm="klip"><i>klip</i><par n="bor__n"/></e>
     <e lm="klon"><i>klon</i><par n="bor__n"/></e>
     <e lm="kloub"><i>kloub</i><par n="bor__n"/></e>
+    <e lm="klub"><i>klub</i><par n="bor__n"/></e>
+    <e lm="klub" r="LR"><p><l>club</l><r>klub</r></p><par n="bor__n"/></e>
     <e lm="klus"><i>klus</i><par n="bor__n"/></e>
     <e lm="kmit"><i>kmit</i><par n="bor__n"/></e>
     <e lm="knír"><i>knír</i><par n="bor__n"/></e>
@@ -942,13 +619,17 @@
     <e lm="kolaps"><i>kolaps</i><par n="bor__n"/></e>
     <e lm="kolektor"><i>kolektor</i><par n="bor__n"/></e>
     <e lm="kolon"><i>kolon</i><par n="bor__n"/></e>
-    <e lm="colon" r="LR"><p><l>colon</l><r>kolon</r></p><par n="bor__n"/></e>
+    <e lm="kolon" r="LR"><p><l>colon</l><r>kolon</r></p><par n="bor__n"/></e>
     <e lm="kolorit"><i>kolorit</i><par n="bor__n"/></e>
     <e lm="kolos"><i>kolos</i><par n="bor__n"/></e>
     <e lm="kolovrat"><i>kolovrat</i><par n="bor__n"/></e>
     <e lm="kolt"><i>kolt</i><par n="bor__n"/></e>
     <e lm="komisariát"><i>komisariát</i><par n="bor__n"/></e>
+    <e lm="komitét"><i>komitét</i><par n="bor__n"/></e>
+    <e lm="komitét" r="LR"><p><l>komitet</l><r>komitét</r></p><par n="bor__n"/></e>
     <e lm="kompakt"><i>kompakt</i><par n="bor__n"/></e>
+    <e lm="komparátor"><i>komparátor</i><par n="bor__n"/></e>
+    <e lm="komparátor" r="LR"><p><l>komparator</l><r>komparátor</r></p><par n="bor__n"/></e>
     <e lm="kompars"><i>kompars</i><par n="bor__n"/></e>
     <e lm="komplet"><i>komplet</i><par n="bor__n"/></e>
     <e lm="komplex"><i>komplex</i><par n="bor__n"/></e>
@@ -970,6 +651,7 @@
     <e lm="kontejner"><i>kontejner</i><par n="bor__n"/></e>
     <e lm="kontraband"><i>kontraband</i><par n="bor__n"/></e>
     <e lm="kontrabas"><i>kontrabas</i><par n="bor__n"/></e>
+    <e lm="kontrakt"><i>kontrakt</i><par n="bor__n"/></e>
     <e lm="kontrapunkt"><i>kontrapunkt</i><par n="bor__n"/></e>
     <e lm="kontrast"><i>kontrast</i><par n="bor__n"/></e>
     <e lm="konvertor"><i>konvertor</i><par n="bor__n"/></e>
@@ -983,7 +665,7 @@
     <e lm="koridor"><i>koridor</i><par n="bor__n"/></e>
     <e lm="korpus"><i>korpus</i><par n="bor__n"/></e>
     <e lm="korzet"><i>korzet</i><par n="bor__n"/></e>
-    <e lm="korset" r="LR"><p><l>korset</l><r>korzet</r></p><par n="bor__n"/></e>
+    <e lm="korzet" r="LR"><p><l>korset</l><r>korzet</r></p><par n="bor__n"/></e>
     <e lm="kosmodrom"><i>kosmodrom</i><par n="bor__n"/></e>
     <e lm="košťál"><i>košťál</i><par n="bor__n"/></e>
     <e lm="kostým"><i>kostým</i><par n="bor__n"/></e>
@@ -991,7 +673,7 @@
     <e lm="kouřovod"><i>kouřovod</i><par n="bor__n"/></e>
     <e lm="kov"><i>kov</i><par n="bor__n"/></e>
     <e lm="kód"><i>kód</i><par n="bor__n"/></e>
-    <e lm="kod" r="LR"><p><l>kod</l><r>kód</r></p><par n="bor__n"/></e>
+    <e lm="kód" r="LR"><p><l>kod</l><r>kód</r></p><par n="bor__n"/></e>
     <e lm="krám"><i>krám</i><par n="bor__n"/></e>
     <e lm="kráter"><i>kráter</i><par n="bor__n"/></e>
     <e lm="kraul"><i>kraul</i><par n="bor__n"/></e>
@@ -1015,7 +697,7 @@
     <e lm="kůr"><i>kůr</i><par n="bor__n"/></e>
     <e lm="kurt"><i>kurt</i><par n="bor__n"/></e>
     <e lm="kurzor"><i>kurzor</i><par n="bor__n"/></e>
-    <e lm="kursor" r="LR"><p><l>kursor</l><r>kurzor</r></p><par n="bor__n"/></e>
+    <e lm="kurzor" r="LR"><p><l>kursor</l><r>kurzor</r></p><par n="bor__n"/></e>
     <e lm="kvartet"><i>kvartet</i><par n="bor__n"/></e>
     <e lm="kvas"><i>kvas</i><par n="bor__n"/></e>
     <e lm="květ"><i>květ</i><par n="bor__n"/></e>
@@ -1057,7 +739,7 @@
     <e lm="luxus"><i>luxus</i><par n="bor__n"/></e>
     <e lm="lymfocyt"><i>lymfocyt</i><par n="bor__n"/></e>
     <e lm="magazín"><i>magazín</i><par n="bor__n"/></e>
-    <e lm="magazin" r="LR"><p><l>magazin</l><r>magazín</r></p><par n="bor__n"/></e>
+    <e lm="magazín" r="LR"><p><l>magazin</l><r>magazín</r></p><par n="bor__n"/></e>
     <e lm="magnet"><i>magnet</i><par n="bor__n"/></e>
     <e lm="magnetofon"><i>magnetofon</i><par n="bor__n"/></e>
     <e lm="mail"><i>mail</i><par n="bor__n"/></e>
@@ -1068,7 +750,7 @@
     <e lm="management"><i>management</i><par n="bor__n"/></e>
     <e lm="mandl"><i>mandl</i><par n="bor__n"/></e>
     <e lm="manévr"><i>manévr</i><par n="bor__n"/></e>
-    <e lm="manevr" r="LR"><p><l>manevr</l><r>manévr</r></p><par n="bor__n"/></e>
+    <e lm="manévr" r="LR"><p><l>manevr</l><r>manévr</r></p><par n="bor__n"/></e>
     <e lm="manipulátor"><i>manipulátor</i><par n="bor__n"/></e>
     <e lm="mantinel"><i>mantinel</i><par n="bor__n"/></e>
     <e lm="manuál"><i>manuál</i><par n="bor__n"/></e>
@@ -1085,7 +767,7 @@
     <e lm="mečbol"><i>mečbol</i><par n="bor__n"/></e>
     <e lm="medailón"><i>medailón</i><par n="bor__n"/></e>
     <e lm="medián"><i>medián</i><par n="bor__n"/></e>
-    <e lm="median" r="LR"><p><l>median</l><r>medián</r></p><par n="bor__n"/></e>
+    <e lm="medián" r="LR"><p><l>median</l><r>medián</r></p><par n="bor__n"/></e>
     <e lm="medikament"><i>medikament</i><par n="bor__n"/></e>
     <e lm="med"><i>med</i><par n="bor__n"/></e>
     <e lm="megabit"><i>megabit</i><par n="bor__n"/></e>
@@ -1100,24 +782,24 @@
     <e lm="metadon"><i>metadon</i><par n="bor__n"/></e>
     <e lm="metal"><i>metal</i><par n="bor__n"/></e>
     <e lm="metan"><i>metan</i><par n="bor__n"/></e>
-    <e lm="methan" r="LR"><p><l>methan</l><r>metan</r></p><par n="bor__n"/></e>
+    <e lm="metan" r="LR"><p><l>methan</l><r>metan</r></p><par n="bor__n"/></e>
     <e lm="meteor"><i>meteor</i><par n="bor__n"/></e>
     <e lm="meteorit"><i>meteorit</i><par n="bor__n"/></e>
     <e lm="metr"><i>metr</i><par n="bor__n"/></e>
     <e lm="meziprodukt"><i>meziprodukt</i><par n="bor__n"/></e>
     <e lm="mezisklad"><i>mezisklad</i><par n="bor__n"/></e>
     <e lm="mezzosoprán"><i>mezzosoprán</i><par n="bor__n"/></e>
+    <e lm="microprocesor" r="LR"><p><l>microprocessor</l><r>mikroprocesor</r></p><par n="bor__n"/></e>
     <e lm="mikročip"><i>mikročip</i><par n="bor__n"/></e>
     <e lm="mikrofon"><i>mikrofon</i><par n="bor__n"/></e>
     <e lm="mikrogram"><i>mikrogram</i><par n="bor__n"/></e>
     <e lm="mikrometr"><i>mikrometr</i><par n="bor__n"/></e>
     <e lm="mikroprocesor"><i>mikroprocesor</i><par n="bor__n"/></e>
-    <e lm="microprocessor" r="LR"><p><l>microprocessor</l><r>mikroprocesor</r></p><par n="bor__n"/></e>
     <e lm="mikroskop"><i>mikroskop</i><par n="bor__n"/></e>
     <e lm="miligram"><i>miligram</i><par n="bor__n"/></e>
     <e lm="milimetr"><i>milimetr</i><par n="bor__n"/></e>
     <e lm="milion"><i>milion</i><par n="bor__n"/></e>
-    <e lm="milión" r="LR"><p><l>milión</l><r>milion</r></p><par n="bor__n"/></e>
+    <e lm="milion" r="LR"><p><l>milión</l><r>milion</r></p><par n="bor__n"/></e>
     <e lm="minaret"><i>minaret</i><par n="bor__n"/></e>
     <e lm="minilab"><i>minilab</i><par n="bor__n"/></e>
     <e lm="minomet"><i>minomet</i><par n="bor__n"/></e>
@@ -1142,7 +824,7 @@
     <e lm="motosport"><i>motosport</i><par n="bor__n"/></e>
     <e lm="motouz"><i>motouz</i><par n="bor__n"/></e>
     <e lm="mód"><i>mód</i><par n="bor__n"/></e>
-    <e lm="mod" r="LR"><p><l>mod</l><r>mód</r></p><par n="bor__n"/></e>
+    <e lm="mód" r="LR"><p><l>mod</l><r>mód</r></p><par n="bor__n"/></e>
     <e lm="mrakodrap"><i>mrakodrap</i><par n="bor__n"/></e>
     <e lm="mramor"><i>mramor</i><par n="bor__n"/></e>
     <e lm="multiplex"><i>multiplex</i><par n="bor__n"/></e>
@@ -1169,7 +851,7 @@
     <e lm="nápor"><i>nápor</i><par n="bor__n"/></e>
     <e lm="nářez"><i>nářez</i><par n="bor__n"/></e>
     <e lm="nárůst"><i>nárůst</i><par n="bor__n"/></e>
-    <e lm="nárost" r="LR"><p><l>nárost</l><r>nárůst</r></p><par n="bor__n"/></e>
+    <e lm="nárůst" r="LR"><p><l>nárost</l><r>nárůst</r></p><par n="bor__n"/></e>
     <e lm="naschvál"><i>naschvál</i><par n="bor__n"/></e>
     <e lm="nástin"><i>nástin</i><par n="bor__n"/></e>
     <e lm="nástřel"><i>nástřel</i><par n="bor__n"/></e>
@@ -1253,7 +935,7 @@
     <e lm="orchestr"><i>orchestr</i><par n="bor__n"/></e>
     <e lm="orgán"><i>orgán</i><par n="bor__n"/></e>
     <e lm="organizér"><i>organizér</i><par n="bor__n"/></e>
-    <e lm="organizer" r="LR"><p><l>organizer</l><r>organizér</r></p><par n="bor__n"/></e>
+    <e lm="organizér" r="LR"><p><l>organizer</l><r>organizér</r></p><par n="bor__n"/></e>
     <e lm="ortel"><i>ortel</i><par n="bor__n"/></e>
     <e lm="oscilátor"><i>oscilátor</i><par n="bor__n"/></e>
     <e lm="oštěp"><i>oštěp</i><par n="bor__n"/></e>
@@ -1264,7 +946,7 @@
     <e lm="otvor"><i>otvor</i><par n="bor__n"/></e>
     <e lm="out"><i>out</i><par n="bor__n"/></e>
     <e lm="oxid"><i>oxid</i><par n="bor__n"/></e>
-    <e lm="oxyd" r="LR"><p><l>oxyd</l><r>oxid</r></p><par n="bor__n"/></e>
+    <e lm="oxid" r="LR"><p><l>oxyd</l><r>oxid</r></p><par n="bor__n"/></e>
     <e lm="pad"><i>pad</i><par n="bor__n"/></e>
     <e lm="pahýl"><i>pahýl</i><par n="bor__n"/></e>
     <e lm="pakt"><i>pakt</i><par n="bor__n"/></e>
@@ -1279,22 +961,22 @@
     <e lm="parfém"><i>parfém</i><par n="bor__n"/></e>
     <e lm="pár"><i>pár</i><par n="bor__n"/></e>
     <e lm="parmezán"><i>parmezán</i><par n="bor__n"/></e>
-    <e lm="parmazán" r="LR"><p><l>parmazán</l><r>parmezán</r></p><par n="bor__n"/></e>
+    <e lm="parmezán" r="LR"><p><l>parmazán</l><r>parmezán</r></p><par n="bor__n"/></e>
     <e lm="parter"><i>parter</i><par n="bor__n"/></e>
     <e lm="part"><i>part</i><par n="bor__n"/></e>
     <e lm="pas"><i>pas</i><par n="bor__n"/></e>
     <e lm="paskvil"><i>paskvil</i><par n="bor__n"/></e>
-    <e lm="paškvil" r="LR"><p><l>paškvil</l><r>paskvil</r></p><par n="bor__n"/></e>
+    <e lm="paskvil" r="LR"><p><l>paškvil</l><r>paskvil</r></p><par n="bor__n"/></e>
     <e lm="pastel"><i>pastel</i><par n="bor__n"/></e>
     <e lm="patos"><i>patos</i><par n="bor__n"/></e>
     <e lm="pavilon"><i>pavilon</i><par n="bor__n"/></e>
+    <e lm="peleton" r="LR"><p><l>peleton</l><r>peloton</r></p><par n="bor__n"/></e>
     <e lm="pel"><i>pel</i><par n="bor__n"/></e>
     <e lm="peloton"><i>peloton</i><par n="bor__n"/></e>
-    <e lm="peleton" r="LR"><p><l>peleton</l><r>peloton</r></p><par n="bor__n"/></e>
     <e lm="penicilin"><i>penicilin</i><par n="bor__n"/></e>
     <e lm="pentagon"><i>pentagon</i><par n="bor__n"/></e>
     <e lm="penzion"><i>penzión</i><par n="bor__n"/></e>
-    <e lm="penzión" r="LR"><p><l>penzión</l><r>penzion</r></p><par n="bor__n"/></e>
+    <e lm="penzion" r="LR"><p><l>penzión</l><r>penzion</r></p><par n="bor__n"/></e>
     <e lm="pergamen"><i>pergamen</i><par n="bor__n"/></e>
     <e lm="periskop"><i>periskop</i><par n="bor__n"/></e>
     <e lm="personál"><i>personál</i><par n="bor__n"/></e>
@@ -1309,7 +991,7 @@
     <e lm="pit"><i>pit</i><par n="bor__n"/></e>
     <e lm="pivovar"><i>pivovar</i><par n="bor__n"/></e>
     <e lm="pixel"><i>pixel</i><par n="bor__n"/></e>
-    <e lm="pixl" r="LR"><p><l>pixl</l><r>pixel</r></p><par n="bor__n"/></e>
+    <e lm="pixel" r="LR"><p><l>pixl</l><r>pixel</r></p><par n="bor__n"/></e>
     <e lm="plankton"><i>plankton</i><par n="bor__n"/></e>
     <e lm="plast"><i>plast</i><par n="bor__n"/></e>
     <e lm="platan"><i>platan</i><par n="bor__n"/></e>
@@ -1358,7 +1040,7 @@
     <e lm="pokrm"><i>pokrm</i><par n="bor__n"/></e>
     <e lm="pokyn"><i>pokyn</i><par n="bor__n"/></e>
     <e lm="polder"><i>polder</i><par n="bor__n"/></e>
-    <e lm="poldr" r="LR"><p><l><poldr</l><r>polder</r></p><par n="bor__n"/></e>
+    <e lm="polder" r="LR"><p><l><poldr</l><r>polder</r></p><par n="bor__n"/></e>
     <e lm="polodrahokam"><i>polodrahokam</i><par n="bor__n"/></e>
     <e lm="polohlas"><i>polohlas</i><par n="bor__n"/></e>
     <e lm="poloměr"><i>poloměr</i><par n="bor__n"/></e>
@@ -1367,8 +1049,8 @@
     <e lm="polotovar"><i>polotovar</i><par n="bor__n"/></e>
     <e lm="polyester"><i>polyester</i><par n="bor__n"/></e>
     <e lm="polyetylén"><i>polyetylén</i><par n="bor__n"/></e>
-    <e lm="polyetylen" r="LR"><p><l>polyetylen</l><r>polyetylén</r></p><par n="bor__n"/></e>
-    <e lm="polyethylén" r="LR"><p><l>polyethylén</l><r>polyetylén</r></p><par n="bor__n"/></e>
+    <e lm="polyetylén" r="LR"><p><l>polyethylén</l><r>polyetylén</r></p><par n="bor__n"/></e>
+    <e lm="polyetylén" r="LR"><p><l>polyetylen</l><r>polyetylén</r></p><par n="bor__n"/></e>
     <e lm="polygon"><i>polygon</i><par n="bor__n"/></e>
     <e lm="polymer"><i>polymer</i><par n="bor__n"/></e>
     <e lm="polystyren"><i>polystyren</i><par n="bor__n"/></e>
@@ -1433,7 +1115,7 @@
     <e lm="převod"><i>převod</i><par n="bor__n"/></e>
     <e lm="převoz"><i>převoz</i><par n="bor__n"/></e>
     <e lm="prezervativ"><i>prezervativ</i><par n="bor__n"/></e>
-    <e lm="preservativ" r="LR"><p><l>preservativ</l><r>prezervativ</r></p><par n="bor__n"/></e>
+    <e lm="prezervativ" r="LR"><p><l>preservativ</l><r>prezervativ</r></p><par n="bor__n"/></e>
     <e lm="příbor"><i>příbor</i><par n="bor__n"/></e>
     <e lm="příchod"><i>příchod</i><par n="bor__n"/></e>
     <e lm="příděl"><i>příděl</i><par n="bor__n"/></e>
@@ -1467,7 +1149,7 @@
     <e lm="prostor"><i>prostor</i><par n="bor__n"/></e>
     <e lm="prostup"><i>prostup</i><par n="bor__n"/></e>
     <e lm="protein"><i>protein</i><par n="bor__n"/></e>
-    <e lm="proteín" r="LR"><p><l>proteín</l><r>protein</r></p><par n="bor__n"/></e>
+    <e lm="protein" r="LR"><p><l>proteín</l><r>protein</r></p><par n="bor__n"/></e>
     <e lm="protest"><i>protest</i><par n="bor__n"/></e>
     <e lm="protiargument"><i>protiargument</i><par n="bor__n"/></e>
     <e lm="protiklad"><i>protiklad</i><par n="bor__n"/></e>
@@ -1500,7 +1182,7 @@
     <e lm="půllitr"><i>půllitr</i><par n="bor__n"/></e>
     <e lm="pulpit"><i>pulpit</i><par n="bor__n"/></e>
     <e lm="puls"><i>puls</i><par n="bor__n"/></e>
-    <e lm="pulz" r="LR"><p><l>pulz</l><r>puls</r></p><par n="bor__n"/></e>
+    <e lm="puls" r="LR"><p><l>pulz</l><r>puls</r></p><par n="bor__n"/></e>
     <e lm="punc"><i>punc</i><par n="bor__n"/></e>
     <e lm="punkt"><i>punkt</i><par n="bor__n"/></e>
     <e lm="pupen"><i>pupen</i><par n="bor__n"/></e>
@@ -1511,15 +1193,15 @@
     <e lm="rabat"><i>rabat</i><par n="bor__n"/></e>
     <e lm="rachot"><i>rachot</i><par n="bor__n"/></e>
     <e lm="radiátor"><i>radiátor</i><par n="bor__n"/></e>
-    <e lm="radiator" r="LR"><p><l>radiator</l><r>radiátor</r></p><par n="bor__n"/></e>
+    <e lm="radiátor" r="LR"><p><l>radiator</l><r>radiátor</r></p><par n="bor__n"/></e>
     <e lm="radiolokátor"><i>radiolokátor</i><par n="bor__n"/></e>
     <e lm="radiomagnetofon"><i>radiomagnetofon</i><par n="bor__n"/></e>
-    <e lm="radiomagnetofón" r="LR"><p><l>radiomagnetofón<l><r>radiomagnetofon</r></p><par n="bor__n"/></e>
+    <e lm="radiomagnetofon" r="LR"><p><l>radiomagnetofón<l><r>radiomagnetofon</r></p><par n="bor__n"/></e>
     <e lm="radiotelefon"><i>radiotelefon</i><par n="bor__n"/></e>
     <e lm="řad"><i>řad</i><par n="bor__n"/></e>
     <e lm="řád"><i>řád</i><par n="bor__n"/></e>
     <e lm="rádius"><i>rádius</i><par n="bor__n"/></e>
-    <e lm="radius" r="LR"><p><l>radius</l><r>rádius</r></p><par n="bor__n"/></e>
+    <e lm="rádius" r="LR"><p><l>radius</l><r>rádius</r></p><par n="bor__n"/></e>
     <e lm="ráfek"><i>ráfek</i><par n="bor__n"/></e>
     <e lm="raketoplán"><i>raketoplán</i><par n="bor__n"/></e>
     <e lm="rám"><i>rám</i><par n="bor__n"/></e>
@@ -1531,11 +1213,11 @@
     <e lm="ráz"><i>ráz</i><par n="bor__n"/></e>
     <e lm="reaktor"><i>reaktor</i><par n="bor__n"/></e>
     <e lm="reál"><i>reál</i><par n="bor__n"/></e>
-    <e lm="real" r="LR"><p><l>real</l><r>reál</r></p><par n="bor__n"/></e>
+    <e lm="reál" r="LR"><p><l>real</l><r>reál</r></p><par n="bor__n"/></e>
     <e lm="recept"><i>recept</i><par n="bor__n"/></e>
     <e lm="receptor"><i>receptor</i><par n="bor__n"/></e>
     <e lm="recitál"><i>recitál</i><par n="bor__n"/></e>
-    <e lm="recital" r="LR"><p><l>recital</l><r>recitál</r></p><par n="bor__n"/></e>
+    <e lm="recitál" r="LR"><p><l>recital</l><r>recitál</r></p><par n="bor__n"/></e>
     <e lm="reexport"><i>reexport</i><par n="bor__n"/></e>
     <e lm="reflektor"><i>reflektor</i><par n="bor__n"/></e>
     <e lm="reflex"><i>reflex</i><par n="bor__n"/></e>
@@ -1565,20 +1247,20 @@
     <e lm="revolver"><i>revolver</i><par n="bor__n"/></e>
     <e lm="rex"><i>rex</i><par n="bor__n"/></e>
     <e lm="rezervoár"><i>rezervoár</i><par n="bor__n"/></e>
-    <e lm="reservoár" r="LR"><p><l>reservoár</l><r>rezervoár</r></p><par n="bor__n"/></e>
+    <e lm="rezervoár" r="LR"><p><l>reservoár</l><r>rezervoár</r></p><par n="bor__n"/></e>
     <e lm="režim"><i>režim</i><par n="bor__n"/></e>
     <e lm="řez"><i>řez</i><par n="bor__n"/></e>
     <e lm="rezistor"><i>rezistor</i><par n="bor__n"/></e>
+    <e lm="rhododendron"><i>rhododendron</i><par n="bor__n"/></e>
+    <e lm="rhododendron" r="LR"><p><l>rododendron</l><r>rhododendron</r></p><par n="bor__n"/></e>
     <e lm="rituál"><i>rituál</i><par n="bor__n"/></e>
     <e lm="říz"><i>říz</i><par n="bor__n"/></e>
-    <e lm="rhododendron"><i>rhododendron</i><par n="bor__n"/></e>
-    <e lm="rododendron" r="LR"><p><l>rododendron</l><r>rhododendron</r></p><par n="bor__n"/></e>
     <e lm="rokenrol"><i>rokenrol</i><par n="bor__n"/></e>
     <e lm="rondel"><i>rondel</i><par n="bor__n"/></e>
     <e lm="ropovod"><i>ropovod</i><par n="bor__n"/></e>
     <e lm="rošt"><i>rošt</i><par n="bor__n"/></e>
     <e lm="rotoped"><i>rotoped</i><par n="bor__n"/></e>
-    <e lm="rotopéd" r="LR"><p><l>rotopéd</l><r>rotoped</r></p><par n="bor__n"/></e>
+    <e lm="rotoped" r="LR"><p><l>rotopéd</l><r>rotoped</r></p><par n="bor__n"/></e>
     <e lm="rotor"><i>rotor</i><par n="bor__n"/></e>
     <e lm="rov"><i>rov</i><par n="bor__n"/></e>
     <e lm="royal"><i>royal</i><par n="bor__n"/></e>
@@ -1609,7 +1291,7 @@
     <e lm="rubín"><i>rubín</i><par n="bor__n"/></e>
     <e lm="rub"><i>rub</i><par n="bor__n"/></e>
     <e lm="rudl"><i>rudl</i><par n="bor__n"/></e>
-    <e lm="růdl" r="LR"><p><l>růdl</l><r>rudl</r></p><par n="bor__n"/></e>
+    <e lm="rudl" r="LR"><p><l>růdl</l><r>rudl</r></p><par n="bor__n"/></e>
     <e lm="rum"><i>rum</i><par n="bor__n"/></e>
     <e lm="růst"><i>růst</i><par n="bor__n"/></e>
     <e lm="rybíz"><i>rybíz</i><par n="bor__n"/></e>
@@ -1620,7 +1302,7 @@
     <e lm="sacharid"><i>sacharid</i><par n="bor__n"/></e>
     <e lm="sad"><i>sad</i><par n="bor__n"/></e>
     <e lm="sádrokartón"><i>sádrokartón</i><par n="bor__n"/></e>
-    <e lm="sádrokarton" r="LR"><p><l>sádrokarton</l><r>sádrokartón</r></p><par n="bor__n"/></e>
+    <e lm="sádrokartón" r="LR"><p><l>sádrokarton</l><r>sádrokartón</r></p><par n="bor__n"/></e>
     <e lm="safír"><i>safír</i><par n="bor__n"/></e>
     <e lm="šafrán"><i>šafrán</i><par n="bor__n"/></e>
     <e lm="salamandr"><i>salamandr</i><par n="bor__n"/></e>
@@ -1655,7 +1337,7 @@
     <e lm="semestr"><i>semestr</i><par n="bor__n"/></e>
     <e lm="sentiment"><i>sentiment</i><par n="bor__n"/></e>
     <e lm="senzor"><i>senzor</i><par n="bor__n"/></e>
-    <e lm="sensor" r="LR"><p><l>sensor</l><r>senzor</r></p><par n="bor__n"/></e>
+    <e lm="senzor" r="LR"><p><l>sensor</l><r>senzor</r></p><par n="bor__n"/></e>
     <e lm="šepot"><i>šepot</i><par n="bor__n"/></e>
     <e lm="šept"><i>šept</i><par n="bor__n"/></e>
     <e lm="šerm"><i>šerm</i><par n="bor__n"/></e>
@@ -1670,7 +1352,7 @@
     <e lm="shon"><i>shon</i><par n="bor__n"/></e>
     <e lm="shop"><i>shop</i><par n="bor__n"/></e>
     <e lm="sifon"><i>sifon</i><par n="bor__n"/></e>
-    <e lm="sifón" r="LR"><p><l>sifón</l><r>sifon</r></p><par n="bor__n"/></e>
+    <e lm="sifon" r="LR"><p><l>sifón</l><r>sifon</r></p><par n="bor__n"/></e>
     <e lm="silikon"><i>silikon</i><par n="bor__n"/></e>
     <e lm="síl"><i>síl</i><par n="bor__n"/></e>
     <e lm="silur"><i>silur</i><par n="bor__n"/></e>
@@ -1681,17 +1363,17 @@
     <e lm="šíp"><i>šíp</i><par n="bor__n"/></e>
     <e lm="síran"><i>síran</i><par n="bor__n"/></e>
     <e lm="sirup"><i>sirup</i><par n="bor__n"/></e>
-    <e lm="syrup" r="LR"><p><l>syrup</l><r>sirup</r></p><par n="bor__n"/></e>
-    <e lm="syrob" r="LR"><p><l>syrob</l><r>sirup</r></p><par n="bor__n"/></e>
+    <e lm="sirup" r="LR"><p><l>syrob</l><r>sirup</r></p><par n="bor__n"/></e>
+    <e lm="sirup" r="LR"><p><l>syrup</l><r>sirup</r></p><par n="bor__n"/></e>
     <e lm="sitcom"><i>sitcom</i><par n="bor__n"/></e>
     <e lm="skafandr"><i>skafandr</i><par n="bor__n"/></e>
     <e lm="skalpel"><i>skalpel</i><par n="bor__n"/></e>
     <e lm="skalp"><i>skalp</i><par n="bor__n"/></e>
+    <e lm="skaner" r="LR"><p><l>skanner</l><r>skener</r></p><par n="bor__n"/></e>
     <e lm="skanzen"><i>skanzen</i><par n="bor__n"/></e>
     <e lm="skeet"><i>skeet</i><par n="bor__n"/></e>
     <e lm="skelet"><i>skelet</i><par n="bor__n"/></e>
     <e lm="skener"><i>skener</i><par n="bor__n"/></e>
-    <e lm="skanner" r="LR"><p><l>skanner</l><r>skener</r></p><par n="bor__n"/></e>
     <e lm="skibob"><i>skibob</i><par n="bor__n"/></e>
     <e lm="skif"><i>skif</i><par n="bor__n"/></e>
     <e lm="škleb"><i>škleb</i><par n="bor__n"/></e>
@@ -1733,7 +1415,7 @@
     <e lm="sokl"><i>sokl</i><par n="bor__n"/></e>
     <e lm="solar"><i>solar</i><par n="bor__n"/></e>
     <e lm="solitér"><i>solitér</i><par n="bor__n"/></e>
-    <e lm="soliter" r="LR"><p><l>soliter</l><r>solitér</r></p><par n="bor__n"/></e>
+    <e lm="solitér" r="LR"><p><l>soliter</l><r>solitér</r></p><par n="bor__n"/></e>
     <e lm="sololit"><i>sololit</i><par n="bor__n"/></e>
     <e lm="sonet"><i>sonet</i><par n="bor__n"/></e>
     <e lm="soprán"><i>soprán</i><par n="bor__n"/></e>
@@ -1761,7 +1443,7 @@
     <e lm="sprint"><i>sprint</i><par n="bor__n"/></e>
     <e lm="šprým"><i>šprým</i><par n="bor__n"/></e>
     <e lm="spurt"><i>spurt</i><par n="bor__n"/></e>
-    <e lm="špurt" r="LR"><p><l>špurt</l><r>spurt</r></p><par n="bor__n"/></e>
+    <e lm="spurt" r="LR"><p><l>špurt</l><r>spurt</r></p><par n="bor__n"/></e>
     <e lm="šrám"><i>šrám</i><par n="bor__n"/></e>
     <e lm="sraz"><i>sraz</i><par n="bor__n"/></e>
     <e lm="sráz"><i>sráz</i><par n="bor__n"/></e>
@@ -1773,7 +1455,7 @@
     <e lm="stabilizátor"><i>stabilizátor</i><par n="bor__n"/></e>
     <e lm="štáb"><i>štáb</i><par n="bor__n"/></e>
     <e lm="stamilión"><i>stamilión</i><par n="bor__n"/></e>
-    <e lm="stamilion" r="LR"><p><l>stamilion</l><r>stamilión</r></p><par n="bor__n"/></e>
+    <e lm="stamilión" r="LR"><p><l>stamilion</l><r>stamilión</r></p><par n="bor__n"/></e>
     <e lm="standard"><i>standard</i><par n="bor__n"/></e>
     <e lm="startér"><i>startér</i><par n="bor__n"/></e>
     <e lm="start"><i>start</i><par n="bor__n"/></e>
@@ -1799,7 +1481,7 @@
     <e lm="stud"><i>stud</i><par n="bor__n"/></e>
     <e lm="stvol"><i>stvol</i><par n="bor__n"/></e>
     <e lm="styl"><i>styl</i><par n="bor__n"/></e>
-    <e lm="štyl" r="LR"><p><l>štyl</l><r>styl</r></p><par n="bor__n"/></e>
+    <e lm="styl" r="LR"><p><l>štyl</l><r>styl</r></p><par n="bor__n"/></e>
     <e lm="subjekt"><i>subjekt</i><par n="bor__n"/></e>
     <e lm="subsystém"><i>subsystém</i><par n="bor__n"/></e>
     <e lm="suchar"><i>suchar</i><par n="bor__n"/></e>
@@ -1810,7 +1492,7 @@
     <e lm="superpočítač"><i>superpočítač</i><par n="bor__n"/></e>
     <e lm="superstar"><i>superstar</i><par n="bor__n"/></e>
     <e lm="support"><i>support</i><par n="bor__n"/></e>
-    <e lm="suport" r="LR"><p><l>suport</l><r>support</r></p><par n="bor__n"/></e>
+    <e lm="support" r="LR"><p><l>suport</l><r>support</r></p><par n="bor__n"/></e>
     <e lm="suterén"><i>suterén</i><par n="bor__n"/></e>
     <e lm="suvenýr"><i>suvenýr</i><par n="bor__n"/></e>
     <e lm="sval"><i>sval</i><par n="bor__n"/></e>
@@ -1878,7 +1560,7 @@
     <e lm="tlukot"><i>tlukot</i><par n="bor__n"/></e>
     <e lm="tmel"><i>tmel</i><par n="bor__n"/></e>
     <e lm="tobogán"><i>tobogán</i><par n="bor__n"/></e>
-    <e lm="tobogan" r="LR"><p><l>tobogan</l><r>tobogán</r></p><par n="bor__n"/></e>
+    <e lm="tobogán" r="LR"><p><l>tobogan</l><r>tobogán</r></p><par n="bor__n"/></e>
     <e lm="tolar"><i>tolar</i><par n="bor__n"/></e>
     <e lm="toluen"><i>toluen</i><par n="bor__n"/></e>
     <e lm="tomograf"><i>tomograf</i><par n="bor__n"/></e>
@@ -1902,14 +1584,14 @@
     <e lm="transportér"><i>transportér</i><par n="bor__n"/></e>
     <e lm="transport"><i>transport</i><par n="bor__n"/></e>
     <e lm="tranzistor"><i>tranzistor</i><par n="bor__n"/></e>
-    <e lm="transistor" r="LR"><p><l>transistor</l><r>tranzistor</r></p><par n="bor__n"/></e>
+    <e lm="tranzistor" r="LR"><p><l>transistor</l><r>tranzistor</r></p><par n="bor__n"/></e>
     <e lm="tranzit"><i>tranzit</i><par n="bor__n"/></e>
     <e lm="trap"><i>trap</i><par n="bor__n"/></e>
     <e lm="trenažér"><i>trenažér</i><par n="bor__n"/></e>
     <e lm="trend"><i>trend</i><par n="bor__n"/></e>
     <e lm="třes"><i>třes</i><par n="bor__n"/></e>
     <e lm="trezor"><i>trezor</i><par n="bor__n"/></e>
-    <e lm="tresor" r="LR"><p><l>tresor</l><r>trezor</r></p><par n="bor__n"/></e>
+    <e lm="trezor" r="LR"><p><l>tresor</l><r>trezor</r></p><par n="bor__n"/></e>
     <e lm="triangl"><i>triangl</i><par n="bor__n"/></e>
     <e lm="triatlon"><i>triatlon</i><par n="bor__n"/></e>
     <e lm="triedr"><i>triedr</i><par n="bor__n"/></e>
@@ -1923,7 +1605,7 @@
     <e lm="trup"><i>trup</i><par n="bor__n"/></e>
     <e lm="trus"><i>trus</i><par n="bor__n"/></e>
     <e lm="trust"><i>trust</i><par n="bor__n"/></e>
-    <e lm="trast" r="LR"><p><l>trast</l><r>trust</r></p><par n="bor__n"/></e>
+    <e lm="trust" r="LR"><p><l>trast</l><r>trust</r></p><par n="bor__n"/></e>
     <e lm="tubus"><i>tubus</i><par n="bor__n"/></e>
     <e lm="tulipán"><i>tulipán</i><par n="bor__n"/></e>
     <e lm="tunel"><i>tunel</i><par n="bor__n"/></e>
@@ -1980,7 +1662,7 @@
     <e lm="velkofilm"><i>velkofilm</i><par n="bor__n"/></e>
     <e lm="velkoklub"><i>velkoklub</i><par n="bor__n"/></e>
     <e lm="velocipéd"><i>velocipéd</i><par n="bor__n"/></e>
-    <e lm="velociped" r="LR"><p><l>velociped</l><r>velocipéd</r></p><par n="bor__n"/></e>
+    <e lm="velocipéd" r="LR"><p><l>velociped</l><r>velocipéd</r></p><par n="bor__n"/></e>
     <e lm="velodrom"><i>velodrom</i><par n="bor__n"/></e>
     <e lm="ventilátor"><i>ventilátor</i><par n="bor__n"/></e>
     <e lm="ventil"><i>ventil</i><par n="bor__n"/></e>
@@ -1995,13 +1677,13 @@
     <e lm="vichr"><i>vichr</i><par n="bor__n"/></e>
     <e lm="videofilm"><i>videofilm</i><par n="bor__n"/></e>
     <e lm="videoklip"><i>videoklip</i><par n="bor__n"/></e>
-    <e lm="videoclip" r="LR"><p><l>videoclip</l><r>videoklip</r></p><par n="bor__n"/></e>
+    <e lm="videoklip" r="LR"><p><l>videoclip</l><r>videoklip</r></p><par n="bor__n"/></e>
     <e lm="videomagnetofon"><i>videomagnetofon</i><par n="bor__n"/></e>
     <e lm="videoprogram"><i>videoprogram</i><par n="bor__n"/></e>
     <e lm="videorekordér"><i>videorekordér</i><par n="bor__n"/></e>
-    <e lm="videorecordér" r="LR"><p><l>videorecordér</l><r>videorekordér</r></p><<par n="bor__n"/></e>
-    <e lm="videorekorder" r="LR"><p><l>videorekorder</l><r>videorekordér</r></p><par n="bor__n"/></e>
-    <e lm="videorecorder" r="LR"><p><l>videorecorder</l><r>videorekordér</r></p><par n="bor__n"/></e>
+    <e lm="videorekordér" r="LR"><p><l>videorecorder</l><r>videorekordér</r></p><par n="bor__n"/></e>
+    <e lm="videorekordér" r="LR"><p><l>videorecordér</l><r>videorekordér</r></p><<par n="bor__n"/></e>
+    <e lm="videorekordér" r="LR"><p><l>videorekorder</l><r>videorekordér</r></p><par n="bor__n"/></e>
     <e lm="videotext"><i>videotext</i><par n="bor__n"/></e>
     <e lm="videozáznam"><i>videozáznam</i><par n="bor__n"/></e>
     <e lm="vid"><i>vid</i><par n="bor__n"/></e>
@@ -2009,7 +1691,7 @@
     <e lm="vinohrad"><i>vinohrad</i><par n="bor__n"/></e>
     <e lm="vír"><i>vír</i><par n="bor__n"/></e>
     <e lm="vitamín"><i>vitamín</i><par n="bor__n"/></e>
-    <e lm="vitamin" r="LR"><p><l>vitamin</l><r>vitamín</r></p><par n="bor__n"/></e>
+    <e lm="vitamín" r="LR"><p><l>vitamin</l><r>vitamín</r></p><par n="bor__n"/></e>
     <e lm="vjem"><i>vjem</i><par n="bor__n"/></e>
     <e lm="vklad"><i>vklad</i><par n="bor__n"/></e>
     <e lm="vkus"><i>vkus</i><par n="bor__n"/></e>
@@ -2148,54 +1830,9 @@
     <e lm="zrod"><i>zrod</i><par n="bor__n"/></e>
     <e lm="župan"><i>župan</i><par n="bor__n"/></e>
     <e lm="žvást"><i>žvást</i><par n="bor__n"/></e>
-    <e lm="žvast" r="LR"><p><l>žvast</l><r>žvást</r></p><par n="bor__n"/></e>
+    <e lm="žvást" r="LR"><p><l>žvast</l><r>žvást</r></p><par n="bor__n"/></e>
     <e lm="zvon"><i>zvon</i><par n="bor__n"/></e>
     <e lm="zvrat"><i>zvrat</i><par n="bor__n"/></e>
-    <e lm="kontrakt"><i>kontrakt</i><par n="bor__n"/></e>
-    <e lm="komparátor"><i>komparátor</i><par n="bor__n"/></e>
-    <e lm="komparator" r="LR"><p><l>komparator</l><r>komparátor</r></p><par n="bor__n"/></e>
-    <e lm="komitét"><i>komitét</i><par n="bor__n"/></e>
-    <e lm="komitet" r="LR"><p><l>komitet</l><r>komitét</r></p><par n="bor__n"/></e>
-    <e lm="klub"><i>klub</i><par n="bor__n"/></e>
-    <e lm="club" r="LR"><p><l>club</l><r>klub</r></p><par n="bor__n"/></e>
-    <e lm="klakson"><i>klakson</i><par n="bor__n"/></e>
-    <e lm="klaxson" r="LR"><p><l>klaxon</l><r>klakson</r></p><par n="bor__n"/></e>
-    <e lm="karoten"><i>karoten</i><par n="bor__n"/></e>
-    <e lm="kaolín"><i>kaolín</i><par n="bor__n"/></e>
-    <e lm="kaolin" r="LR"><p><l>kaolin</l><r>kaolín</r></p><par n="bor__n"/></e>
-    <e lm="kaňon"><i>kaňon</i><par n="bor__n"/></e>
-    <e lm="kanón"><i>kanón</i><par n="bor__n"/></e>
-    <e lm="kanon" r="LR"><p><l>kanon</l><r>kanón</r></p><par n="bor__n"/></e>
-    <e lm="izotop"><i>izotop</i><par n="bor__n"/></e>
-    <e lm="isotop" r="LR"><p><l>isotop</l><r>izotop</r></p><par n="bor__n"/></e>
-    <e lm="inzulin"><i>inzulin</i><par n="bor__n"/></e>
-    <e lm="inzulín" r="LR"><p><l>inzulín</l><r>inzulin</r></p><par n="bor__n"/></e>
-    <e lm="insulin" r="LR"><p><l>insulin</l><r>inzulin</r></p><par n="bor__n"/></e>
-    <e lm="interpret"><i>interpret</i><par n="bor__n"/></e>
-    <e lm="interpretr" r="LR"><r>interpretr</r><l>interpret</l></p><par n="bor__n"/></e>
-    <e lm="interiér"><i>interiér</i><par n="bor__n"/></e>
-    <e lm="interier" r="LR"><p><l>interier</l><r>interiér</r></p><par n="bor__n"/></e>
-    <e lm="interfejs"><i>interfejs</i><par n="bor__n"/></e>
-    <e lm="insekticid"><i>insekticid</i><par n="bor__n"/></e>
-    <e lm="insecticid" r="LR"><p><l>insecticid</l><r>insekticid</r></p><par n="bor__n"/></e>
-    <e lm="hangár"><i>hangár</i><par n="bor__n"/></e>
-    <e lm="hangar" r="LR"><p><l>hangar</l><r>hangár</r></p><par n="bor__n"/></e>
-    <e lm="handicap"><i>handicap</i><par n="bor__n"/></e>
-    <e lm="hendikep" r="LR"><p><l>hendikep</l><r>handicap</r></p><par n="bor__n"/></e>
-    <e lm="gramofon"><i>gramofon</i><par n="bor__n"/></e>
-    <e lm="gramofón r="LR"><p><l>gramofón</l><r>gramofon</r></p><par n="bor__n"/></e>
-    <e lm="gobelín"><i>gobelín</i><par n="bor__n"/></e>
-    <e lm="gobelin" r="LR"><p><l>gobelin</l><r>gobelín</r></p><par n="bor__n"/></e>
-    <e lm="folklór"><i>folklór</i><par n="bor__n"/></e>
-    <e lm="folklor" r="LR"><p><l>folklor</l><r>folklór</r></p><par n="bor__n"/></e>
-    <e lm="fenykl"><i>fenykl</i><par n="bor__n"/></e>
-    <e lm="fenikl" r="LR"><p><l>fenikl</l><r>fenykl</r></p><par n="bor__n"/></e>
-    <e lm="fenomén"><i>fenomén</i><par n="bor__n"/></e>
-    <e lm="fenomen" r="LR"><p><l>fenomen</l><r>fenomén</r></p><par n="bor__n"/></e>
-    <e lm="exkurz"><i>exkurz</i><par n="bor__n"/></e>
-    <e lm="exkurs" r="LR"><p><l>exkurs</l><r>exkurz</r></p><par n="bor__n"/></e>
-    <e lm="étos"><i>étos</i><par n="bor__n"/></e>
-    <e lm="ethos" r="LR"><p><l>ethos</l><r>étos</r></p><par n="bor__n"/></e>
     <e lm="brejle"><i>brejl</i><par n="housl/e__n"/></e>
     <e lm="brýle"><i>brýl</i><par n="housl/e__n"/></e>
     <e lm="dveře"><i>dvéř</i><par n="housl/e__n"/></e>
@@ -2210,3 +1847,1383 @@
     <e lm="vidle"><i>vidl</i><par n="housl/e__n"/></e>
     <e lm="štafle"><i>štafl</i><par n="housl/e__n"/></e>
     <e lm="studie"><i>študi</i><par n="housl/e__n"/></e>
+    <e lm="absolutismus"><i>absolutism</i><par n="ile/us__n"/></e>
+    <e lm="absolutismus" r="LR"><p><l>absolutizm</l><r>absolutism</r></p><par n="ile/us__n"/></e>
+    <e lm="aforismus"><i>aforism</i><par n="ile/us__n"/></e>
+    <e lm="aforismus" r="LR"><p><l>aforizm</l><r>aforism</r></p><par n="ile/us__n"/></e>
+    <e lm="algoritmus"><i>algoritm</i><par n="ile/us__n"/></e>
+    <e lm="alibismus"><i>alibism</i><par n="ile/us__n"/></e>
+    <e lm="alibismus" r="LR"><p><l>alibizm</l><r>alibism</r></p><par n="ile/us__n"/></e>
+    <e lm="alkoholizmus"><i>alkoholizm</i><par n="ile/us__n"/></e>
+    <e lm="altruismus"><i>altruism</i><par n="ile/us__n"/></e>
+    <e lm="altruismus" r="LR"><p><l>altruizm</l><r>altruism</r></p><par n="ile/us__n"/></e>
+    <e lm="amatérizmus"><i>amatérizm</i><par n="ile/us__n"/></e>
+    <e lm="amatérizmus" r="LR"><p><l>amatérism</l><r>amatérizm</r></p><par n="ile/us__n"/></e>
+    <e lm="anachronizmus"><i>anachronizm</i><par n="ile/us__n"/></e>
+    <e lm="anachronizmus" r="LR"><p><l>anachronism</l><r>anachronizm</r></p><par n="ile/us__n"/></e>
+    <e lm="anarchizmus"><i>anarchizm</i><par n="ile/us__n"/></e>
+    <e lm="anarchizmus" r="LR"><p><l>anarchism</l><r>anarchizm</r></p><par n="ile/us__n"/></e>
+    <e lm="antagonismus"><i>antagonism</i><par n="ile/us__n"/></e>
+    <e lm="antagonismus" r="LR"><p><l>antagonizm</l><r>antagonism</r></p><par n="ile/us__n"/></e>
+    <e lm="antisemitizmus"><i>antisemitizm</i><par n="ile/us__n"/></e>
+    <e lm="antisemitizmus" r="LR"><p><l>antisemitism</l><r>antisemitizm</r></p><par n="ile/us__n"/></e>
+    <e lm="antivirus"><i>antivir</i><par n="ile/us__n"/></e>
+    <e lm="anus"><i>an</i><par n="ile/us__n"/></e>
+    <e lm="arkus"><i>ark</i><par n="ile/us__n"/></e>
+    <e lm="ateismus"><i>ateism</i><par n="ile/us__n"/></e>
+    <e lm="ateismus" r="LR"><p><l>ateizm</l><r>ateism</r></p><par n="ile/us__n"/></e>
+    <e lm="autismus"><i>autism</i><par n="ile/us__n"/></e>
+    <e lm="automobilismus"><i>automobilism</i><par n="ile/us__n"/></e>
+    <e lm="automobilismus" r="LR"><p><l>automobilizm</l><r>automobilism</r></p><par n="ile/us__n"/></e>
+    <e lm="biorytmus"><i>biorytm</i><par n="ile/us__n"/></e>
+    <e lm="bolševismus"><i>bolševism</i><par n="ile/us__n"/></e>
+    <e lm="bolševismus" r="LR"><p><l>bolševizm</l><r>bolševism</r></p><par n="ile/us__n"/></e>
+    <e lm="buddhismus"><i>buddhism</i><par n="ile/us__n"/></e>
+    <e lm="buddhismus" r="LR"><p><l>buddhizm</l><r>buddhism</r></p><par n="ile/us__n"/></e>
+    <e lm="centralizmus"><i>centralizm</i><par n="ile/us__n"/></e>
+    <e lm="centralizmus" r="LR"><p><l>centralism</l><r>centralizm</r></p><par n="ile/us__n"/></e>
+    <e lm="chorus"><i>chor</i><par n="ile/us__n"/></e>
+    <e lm="cosinus"><i>cosin</i><par n="ile/us__n"/></e>
+    <e lm="cyklus"><i>cykl</i><par n="ile/us__n"/></e>
+    <e lm="cynizmus"><i>cynizm</i><par n="ile/us__n"/></e>
+    <e lm="cynizmus" r="LR"><p><l>cynism</l><r>cynizm</r></p><par n="ile/us__n"/></e>
+    <e lm="dadaismus"><i>dadaism</i><par n="ile/us__n"/></e>
+    <e lm="dadaismus" r="LR"><p><l>dadaizm</l><r>dadaism</r></p><par n="ile/us__n"/></e>
+    <e lm="demokratizmus"><i>demokratizm</i><par n="ile/us__n"/></e>
+    <e lm="demokratizmus" r="LR"><p><l>demokratism</l><r>demokratizm</r></p><par n="ile/us__n"/></e>
+    <e lm="dogmatizmus"><i>dogmatizm</i><par n="ile/us__n"/></e>
+    <e lm="dogmatizmus" r="LR"><p><l>dogmatism</l><r>dogmatizm</r></p><par n="ile/us__n"/></e>
+    <e lm="dualismus"><i>dualism</i><par n="ile/us__n"/></e>
+    <e lm="dualismus" r="LR"><p><l>dualizm</l><r>dualism</r></p><par n="ile/us__n"/></e>
+    <e lm="egoizmus"><i>egoizm</i><par n="ile/us__n"/></e>
+    <e lm="egoizmus" r="LR"><p><l>egoism</l><r>egoizm</r></p><par n="ile/us__n"/></e>
+    <e lm="eufemizmus"><i>eufemizm</i><par n="ile/us__n"/></e>
+    <e lm="eufemizmus" r="LR"><p><l>eufemism</l><r>eufemizm</r></p><par n="ile/us__n"/></e>
+    <e lm="exhibicionismus"><i>exhibicionism</i><par n="ile/us__n"/></e>
+    <e lm="existencializmus"><i>existencializm</i><par n="ile/us__n"/></e>
+    <e lm="existencializmus" r="LR"><p><l>existencialism</l><r>existencializm</r></p><par n="ile/us__n"/></e>
+    <e lm="exodus"><i>exod</i><par n="ile/us__n"/></e>
+    <e lm="expresionizmus"><i>expresionizm</i><par n="ile/us__n"/></e>
+    <e lm="expresionizmus" r="LR"><p><l>expresionism</l><r>expresionizm</r></p><par n="ile/us__n"/></e>
+    <e lm="extremizmus"><i>extremizm</i><par n="ile/us__n"/></e>
+    <e lm="extremizmus" r="LR"><p><l>extremism</l><r>extremizm</r></p><par n="ile/us__n"/></e>
+    <e lm="federalizmus"><i>federalizm</i><par n="ile/us__n"/></e>
+    <e lm="federalizmus" r="LR"><p><l>federalism</l><r>federalizm</r></p><par n="ile/us__n"/></e>
+    <e lm="feminizmus"><i>feminizm</i><par n="ile/us__n"/></e>
+    <e lm="feminizmus" r="LR"><p><l>feminism</l><r>feminizm</r></p><par n="ile/us__n"/></e>
+    <e lm="feudalismus"><i>feudalism</i><par n="ile/us__n"/></e>
+    <e lm="feudalismus" r="LR"><p><l>feudalizm</l><r>feudalism</r></p><par n="ile/us__n"/></e>
+    <e lm="formalismus"><i>formalism</i><par n="ile/us__n"/></e>
+    <e lm="formalismus" r="LR"><p><l>formalizm</l><r>formalism</r></p><par n="ile/us__n"/></e>
+    <e lm="fundamentalizmus"><i>fundamentalizm</i><par n="ile/us__n"/></e>
+    <e lm="fundamentalizmus" r="LR"><p><l>fundamentalism</l><r>fundamentalizm</r></p><par n="ile/us__n"/></e>
+    <e lm="funkcionalismus"><i>funkcionalism</i><par n="ile/us__n"/></e>
+    <e lm="futurismus"><i>futurism</i><par n="ile/us__n"/></e>
+    <e lm="futurismus" r="LR"><p><l>futurizm</l><r>futurism</r></p><par n="ile/us__n"/></e>
+    <e lm="glóbus"><i>glób</i><par n="ile/us__n"/></e>
+    <e lm="glóbus" r="LR"><p><l>glob</l><r>glób</r></p><par n="ile/us__n"/></e>
+    <e lm="hinduismus"><i>hinduism</i><par n="ile/us__n"/></e>
+    <e lm="historismus"><i>historism</i><par n="ile/us__n"/></e>
+    <e lm="humanizmus"><i>humanizm</i><par n="ile/us__n"/></e>
+    <e lm="humanizmus" r="LR"><p><l>humanism</l><r>humanizm</r></p><par n="ile/us__n"/></e>
+    <e lm="hymnus"><i>hymn</i><par n="ile/us__n"/></e>
+    <e lm="idealismus"><i>idealism</i><par n="ile/us__n"/></e>
+    <e lm="idealismus" r="LR"><p><l>idealizm</l><r>idealism</r></p><par n="ile/us__n"/></e>
+    <e lm="imperializmus"><i>imperializm</i><par n="ile/us__n"/></e>
+    <e lm="imperializmus" r="LR"><p><l>imperialism</l><r>imperializm</r></p><par n="ile/us__n"/></e>
+    <e lm="impresionismus"><i>impresionism</i><par n="ile/us__n"/></e>
+    <e lm="impresionismus" r="LR"><p><l>impresionizm</l><r>impresionism</r></p><par n="ile/us__n"/></e>
+    <e lm="individualismus"><i>individualism</i><par n="ile/us__n"/></e>
+    <e lm="individualismus" r="LR"><p><l>individualizm</l><r>individualism</r></p><par n="ile/us__n"/></e>
+    <e lm="internacionalizmus"><i>internacionalizm</i><par n="ile/us__n"/></e>
+    <e lm="internacionalizmus" r="LR"><p><l>internacionalism</l><r>internacionalizm</r></p><par n="ile/us__n"/></e>
+    <e lm="izmus"><i>izm</i><par n="ile/us__n"/></e>
+    <e lm="izmus" r="LR"><p><l>ism</l><r>izm</r></p><par n="ile/us__n"/></e>
+    <e lm="izolacionismus"><i>izolacionism</i><par n="ile/us__n"/></e>
+    <e lm="izolacionismus" r="LR"><p><l>izolacionizm</l><r>izolacionism</r></p><par n="ile/us__n"/></e>
+    <e lm="judaizmus"><i>judaizm</i><par n="ile/us__n"/></e>
+    <e lm="judaizmus" r="LR"><p><l>judaism</l><r>judaizm</r></p><par n="ile/us__n"/></e>
+    <e lm="kanibalismus"><i>kanibalism</i><par n="ile/us__n"/></e>
+    <e lm="kapitalizmus"><i>kapitalizm</i><par n="ile/us__n"/></e>
+    <e lm="kapitalizmus" r="LR"><p><l>kapitalism</l><r>kapitalizm</r></p><par n="ile/us__n"/></e>
+    <e lm="katechizmus"><i>katechizm</i><par n="ile/us__n"/></e>
+    <e lm="katechizmus" r="LR"><p><l>katechism</l><r>katechizm</r></p><par n="ile/us__n"/></e>
+    <e lm="katolicizmus"><i>katolicizm</i><par n="ile/us__n"/></e>
+    <e lm="katolicizmus" r="LR"><p><l>katolicism</l><r>katolicizm</r></p><par n="ile/us__n"/></e>
+    <e lm="klasicismus"><i>klasicism</i><par n="ile/us__n"/></e>
+    <e lm="kolektivizmus"><i>kolektivizm</i><par n="ile/us__n"/></e>
+    <e lm="kolektivizmus" r="LR"><p><l>kolektivism</l><r>kolektivizm</r></p><par n="ile/us__n"/></e>
+    <e lm="kolonializmus"><i>kolonializm</i><par n="ile/us__n"/></e>
+    <e lm="kolonializmus" r="LR"><p><l>kolonialism</l><r>kolonializm</r></p><par n="ile/us__n"/></e>
+    <e lm="konsens"><i>konsenz</i><par n="ile/us__n"/></e>
+    <e lm="konstruktivismus"><i>konstruktivism</i><par n="ile/us__n"/></e>
+    <e lm="konzervativismus"><i>konzervativism</i><par n="ile/us__n"/></e>
+    <e lm="konzervatizmus"><i>konzervatizm</i><par n="ile/us__n"/></e>
+    <e lm="konzervatizmus" r="LR"><p><l>konzervatism</l><r>konzervatizm</r></p><par n="ile/us__n"/></e>
+    <e lm="kubismus"><i>kubism</i><par n="ile/us__n"/></e>
+    <e lm="leninizmus"><i>leninizm</i><par n="ile/us__n"/></e>
+    <e lm="leninizmus" r="LR"><p><l>leninism</l><r>leninizm</r></p><par n="ile/us__n"/></e>
+    <e lm="liberalismus"><i>liberalism</i><par n="ile/us__n"/></e>
+    <e lm="liberalismus" r="LR"><p><l>liberalizm</l><r>liberalism</r></p><par n="ile/us__n"/></e>
+    <e lm="lyrismus"><i>lyrism</i><par n="ile/us__n"/></e>
+    <e lm="lyrismus" r="LR"><p><l>lyrizm</l><r>lyrism</r></p><par n="ile/us__n"/></e>
+    <e lm="magnetismus"><i>magnetism</i><par n="ile/us__n"/></e>
+    <e lm="magnetismus" r="LR"><p><l>magnetizm</l><r>magnetism</r></p><par n="ile/us__n"/></e>
+    <e lm="manýrismus"><i>manýrism</i><par n="ile/us__n"/></e>
+    <e lm="marxizmus"><i>marxizm</i><par n="ile/us__n"/></e>
+    <e lm="marxizmus" r="LR"><p><l>marxism</l><r>marxizm</r></p><par n="ile/us__n"/></e>
+    <e lm="materializmus"><i>materializm</i><par n="ile/us__n"/></e>
+    <e lm="materializmus" r="LR"><p><l>materialism</l><r>materializm</r></p><par n="ile/us__n"/></e>
+    <e lm="mechanismus"><i>mechanism</i><par n="ile/us__n"/></e>
+    <e lm="mechanismus" r="LR"><p><l>mechanizm</l><r>mechanism</r></p><par n="ile/us__n"/></e>
+    <e lm="metabolizmus"><i>metabolizm</i><par n="ile/us__n"/></e>
+    <e lm="metabolizmus" r="LR"><p><l>metabolism</l><r>metabolizm</r></p><par n="ile/us__n"/></e>
+    <e lm="minimalizmus"><i>minimalizm</i><par n="ile/us__n"/></e>
+    <e lm="minimalizmus" r="LR"><p><l>minimalism</l><r>minimalizm</r></p><par n="ile/us__n"/></e>
+    <e lm="modernizmus"><i>modernizm</i><par n="ile/us__n"/></e>
+    <e lm="modernizmus" r="LR"><p><l>modernism</l><r>modernizm</r></p><par n="ile/us__n"/></e>
+    <e lm="modus"><i>mod</i><par n="ile/us__n"/></e>
+    <e lm="motorizmus"><i>motorizm</i><par n="ile/us__n"/></e>
+    <e lm="motorizmus" r="LR"><p><l>motorism</l><r>motorizm</r></p><par n="ile/us__n"/></e>
+    <e lm="mysticismus"><i>mysticism</i><par n="ile/us__n"/></e>
+    <e lm="mysticismus" r="LR"><p><l>mysticizm</l><r>mysticism</r></p><par n="ile/us__n"/></e>
+    <e lm="mýtus"><i>mýt</i><par n="ile/us__n"/></e>
+    <e lm="nacionalizmus"><i>nacionalism</i><par n="ile/us__n"/></e>
+    <e lm="nacizmus"><i>nacizm</i><par n="ile/us__n"/></e>
+    <e lm="nacizmus" r="LR"><p><l>nacism</l><r>nacizm</r></p><par n="ile/us__n"/></e>
+    <e lm="naturalismus"><i>naturalism</i><par n="ile/us__n"/></e>
+    <e lm="naturalismus" r="LR"><p><l>naturalizm</l><r>naturalism</r></p><par n="ile/us__n"/></e>
+    <e lm="nihilismus"><i>nihilism</i><par n="ile/us__n"/></e>
+    <e lm="nihilismus" r="LR"><p><l>nihilizm</l><r>nihilism</r></p><par n="ile/us__n"/></e>
+    <e lm="okultismus"><i>okultism</i><par n="ile/us__n"/></e>
+    <e lm="okultismus" r="LR"><p><l>okultizm</l><r>okultism</r></p><par n="ile/us__n"/></e>
+    <e lm="oportunismus"><i>oportunism</i><par n="ile/us__n"/></e>
+    <e lm="oportunismus" r="LR"><p><l>oportunizm</l><r>oportunism</r></p><par n="ile/us__n"/></e>
+    <e lm="optimizmus"><i>optimizm</i><par n="ile/us__n"/></e>
+    <e lm="optimizmus" r="LR"><p><l>optimism</l><r>optimizm</r></p><par n="ile/us__n"/></e>
+    <e lm="orgazmus"><i>orgazm</i><par n="ile/us__n"/></e>
+    <e lm="orgazmus" r="LR"><p><l>orgasm</l><r>orgazm</r></p><par n="ile/us__n"/></e>
+    <e lm="papyrus"><i>papyr</i><par n="ile/us__n"/></e>
+    <e lm="parlamentarizmus"><i>parlamentarizm</i><par n="ile/us__n"/></e>
+    <e lm="parlamentarizmus" r="LR"><p><l>parlamentarism</l><r>parlamentarizm</r></p><par n="ile/us__n"/></e>
+    <e lm="pasus"><i>pas</i><par n="ile/us__n"/></e>
+    <e lm="paternalizmus"><i>paternalizm</i><par n="ile/us__n"/></e>
+    <e lm="paternalizmus" r="LR"><p><l>paternalism</l><r>paternalizm</r></p><par n="ile/us__n"/></e>
+    <e lm="patriotizmus"><i>patriotizm</i><par n="ile/us__n"/></e>
+    <e lm="patriotizmus" r="LR"><p><l>patriotism</l><r>patriotizm</r></p><par n="ile/us__n"/></e>
+    <e lm="pesimizmus"><i>pesimizm</i><par n="ile/us__n"/></e>
+    <e lm="pesimizmus" r="LR"><p><l>pesimism</l><r>pesimizm</r></p><par n="ile/us__n"/></e>
+    <e lm="pluralizmus"><i>pluralizm</i><par n="ile/us__n"/></e>
+    <e lm="pluralizmus" r="LR"><p><l>pluralism</l><r>pluralizm</r></p><par n="ile/us__n"/></e>
+    <e lm="poetismus"><i>poetism</i><par n="ile/us__n"/></e>
+    <e lm="poetismus" r="LR"><p><l>poetizm</l><r>poetism</r></p><par n="ile/us__n"/></e>
+    <e lm="populizmus"><i>populizm</i><par n="ile/us__n"/></e>
+    <e lm="populizmus" r="LR"><p><l>populism</l><r>populizm</r></p><par n="ile/us__n"/></e>
+    <e lm="postmodernizmus"><i>postmodernizm</i><par n="ile/us__n"/></e>
+    <e lm="postmodernizmus" r="LR"><p><l>postmodernism</l><r>postmodernizm</r></p><par n="ile/us__n"/></e>
+    <e lm="pozitivismus"><i>pozitivism</i><par n="ile/us__n"/></e>
+    <e lm="pozitivismus" r="LR"><p><l>pozitivizm</l><r>pozitivism</r></p><par n="ile/us__n"/></e>
+    <e lm="pragmatizmus"><i>pragmatizm</i><par n="ile/us__n"/></e>
+    <e lm="pragmatizmus" r="LR"><p><l>pragmatism</l><r>pragmatizm</r></p><par n="ile/us__n"/></e>
+    <e lm="primitivismus"><i>primitivism</i><par n="ile/us__n"/></e>
+    <e lm="primitivismus" r="LR"><p><l>primitivizm</l><r>primitivism</r></p><par n="ile/us__n"/></e>
+    <e lm="protekcionizmus"><i>protekcionizm</i><par n="ile/us__n"/></e>
+    <e lm="protekcionizmus" r="LR"><p><l>protekcionism</l><r>protekcionizm</r></p><par n="ile/us__n"/></e>
+    <e lm="protestantismus"><i>protestantism</i><par n="ile/us__n"/></e>
+    <e lm="protestantismus" r="LR"><p><l>protestantizm</l><r>protestantism</r></p><par n="ile/us__n"/></e>
+    <e lm="racionalismus"><i>racionalism</i><par n="ile/us__n"/></e>
+    <e lm="racionalismus" r="LR"><p><l>racionalizm</l><r>racionalism</r></p><par n="ile/us__n"/></e>
+    <e lm="radikalizmus"><i>radikalizm</i><par n="ile/us__n"/></e>
+    <e lm="radikalizmus" r="LR"><p><l>radikalism</l><r>radikalizm</r></p><par n="ile/us__n"/></e>
+    <e lm="realizmus"><i>realism</i><par n="ile/us__n"/></e>
+    <e lm="relativismus"><i>relativism</i><par n="ile/us__n"/></e>
+    <e lm="relativismus" r="LR"><p><l>relativizm</l><r>relativism</r></p><par n="ile/us__n"/></e>
+    <e lm="revmatismus"><i>revmatism</i><par n="ile/us__n"/></e>
+    <e lm="revmatismus" r="LR"><p><l>revmatizm</l><r>revmatism</r></p><par n="ile/us__n"/></e>
+    <e lm="ritus"><i>rit</i><par n="ile/us__n"/></e>
+    <e lm="romantizmus"><i>romantizm</i><par n="ile/us__n"/></e>
+    <e lm="romantizmus" r="LR"><p><l>romantism</l><r>romantizm</r></p><par n="ile/us__n"/></e>
+    <e lm="rytmus"><i>rytm</i><par n="ile/us__n"/></e>
+    <e lm="sadismus"><i>sadism</i><par n="ile/us__n"/></e>
+    <e lm="sadismus" r="LR"><p><l>sadizm</l><r>sadism</r></p><par n="ile/us__n"/></e>
+    <e lm="šamanismus"><i>šamanism</i><par n="ile/us__n"/></e>
+    <e lm="separatizmus"><i>separatizm</i><par n="ile/us__n"/></e>
+    <e lm="separatizmus" r="LR"><p><l>separatism</l><r>separatizm</r></p><par n="ile/us__n"/></e>
+    <e lm="sionismus"><i>sionism</i><par n="ile/us__n"/></e>
+    <e lm="skepticismus"><i>skepticism</i><par n="ile/us__n"/></e>
+    <e lm="socialismus"><i>socialism</i><par n="ile/us__n"/></e>
+    <e lm="socialismus" r="LR"><p><l>socializm</l><r>socialism</r></p><par n="ile/us__n"/></e>
+    <e lm="šovinizmus"><i>šovinizm</i><par n="ile/us__n"/></e>
+    <e lm="šovinizmus" r="LR"><p><l>šovinism</l><r>šovinizm</r></p><par n="ile/us__n"/></e>
+    <e lm="spiritismus"><i>spiritism</i><par n="ile/us__n"/></e>
+    <e lm="spiritismus" r="LR"><p><l>spiritizm</l><r>spiritism</r></p><par n="ile/us__n"/></e>
+    <e lm="stalinizmus"><i>stalinizm</i><par n="ile/us__n"/></e>
+    <e lm="stalinizmus" r="LR"><p><l>stalinism</l><r>stalinizm</r></p><par n="ile/us__n"/></e>
+    <e lm="status"><i>stat</i><par n="ile/us__n"/></e>
+    <e lm="streptokok"><i>streptococc</i><par n="ile/us__n"/></e>
+    <e lm="strukturalismus"><i>strukturalism</i><par n="ile/us__n"/></e>
+    <e lm="subjektivismus"><i>subjektivism</i><par n="ile/us__n"/></e>
+    <e lm="subjektivismus" r="LR"><p><l>subjektivizm</l><r>subjektivism</r></p><par n="ile/us__n"/></e>
+    <e lm="suprematizmus"><i>suprematizm</i><par n="ile/us__n"/></e>
+    <e lm="suprematizmus" r="LR"><p><l>suprematism</l><r>suprematizm</r></p><par n="ile/us__n"/></e>
+    <e lm="surrealizmus"><i>surrealizm</i><par n="ile/us__n"/></e>
+    <e lm="surrealizmus" r="LR"><p><l>surrealism</l><r>surrealizm</r></p><par n="ile/us__n"/></e>
+    <e lm="symbolismus"><i>symbolism</i><par n="ile/us__n"/></e>
+    <e lm="symbolismus" r="LR"><p><l>symbolizm</l><r>symbolism</r></p><par n="ile/us__n"/></e>
+    <e lm="taoismus"><i>taoism</i><par n="ile/us__n"/></e>
+    <e lm="tempus"><i>temp</i><par n="ile/us__n"/></e>
+    <e lm="terorizmus"><i>terorizm</i><par n="ile/us__n"/></e>
+    <e lm="terorizmus" r="LR"><p><l>terorism</l><r>terorizm</r></p><par n="ile/us__n"/></e>
+    <e lm="tezaurus"><i>tezaur</i><par n="ile/us__n"/></e>
+    <e lm="tezaurus" r="LR"><p><l>thesaur</l><r>tezaur</r></p><par n="ile/us__n"/></e>
+    <e lm="tonus"><i>ton</i><par n="ile/us__n"/></e>
+    <e lm="totalitarismus"><i>totalitarism</i><par n="ile/us__n"/></e>
+    <e lm="turizmus"><i>turizm</i><par n="ile/us__n"/></e>
+    <e lm="turizmus" r="LR"><p><l>turism</l><r>turizm</r></p><par n="ile/us__n"/></e>
+    <e lm="tyfus"><i>tyf</i><par n="ile/us__n"/></e>
+    <e lm="urbanismus"><i>urbanism</i><par n="ile/us__n"/></e>
+    <e lm="urbanismus" r="LR"><p><l>urbanizm</l><r>urbanism</r></p><par n="ile/us__n"/></e>
+    <e lm="úzus"><i>us</i><par n="ile/us__n"/></e>
+    <e lm="úzus" r="LR"><p><l>úz</l><r>us</r></p></i><par n="ile/us__n"/></e>
+    <e lm="vandalizmus"><i>vandalizm</i><par n="ile/us__n"/></e>
+    <e lm="vandalizmus" r="LR"><p><l>vandalism</l><r>vandalizm</r></p><par n="ile/us__n"/></e>
+    <e lm="vir"><i>vir</i><par n="ile/us__n"/></e>
+    <e lm="vulgarizmus"><i>vulgarizm</i><par n="ile/us__n"/></e>
+    <e lm="vulgarizmus" r="LR"><p><l>vulgarism</l><r>vulgarizm</r></p><par n="ile/us__n"/></e>
+    <e lm="abonent"><i>abonent</i><par n="absolvent__n"/></e>
+    <e lm="abstinent"><i>abstinent</i><par n="absolvent__n"/></e>
+    <e lm="adolescent"><i>adolescent</i><par n="absolvent__n"/></e>
+    <e lm="adresát"><i>adresát</i><par n="absolvent__n"/></e>
+    <e lm="advokát"><i>advokát</i><par n="absolvent__n"/></e>
+    <e lm="agent"><i>agent</i><par n="absolvent__n"/></e>
+    <e lm="albín"><i>albín</i><par n="absolvent__n"/></e>
+    <e lm="architekt"><i>architekt</i><par n="absolvent__n"/></e>
+    <e lm="asistent"><i>asistent</i><par n="absolvent__n"/></e>
+    <e lm="aspirant"><i>aspirant</i><par n="absolvent__n"/></e>
+    <e lm="atlet"><i>atlet</i><par n="absolvent__n"/></e>
+    <e lm="barman"><i>barman</i><par n="absolvent__n"/></e>
+    <e lm="baron"><i>baron</i><par n="absolvent__n"/></e>
+    <e lm="bažant"><i>bažant</i><par n="absolvent__n"/></e>
+    <e lm="benediktin"><i>benediktin</i><par n="absolvent__n"/></e>
+    <e lm="beran"><i>beran</i><par n="absolvent__n"/></e>
+    <e lm="bernardýn"><i>bernardýn</i><par n="absolvent__n"/></e>
+    <e lm="bizon"><i>bizon</i><par n="absolvent__n"/></e>
+    <e lm="businessman"><i>businessman</i><par n="absolvent__n"/></e>
+    <e lm="chameleón"><i>chameleón</i><par n="absolvent__n"/></e>
+    <e lm="chuligán"><i>chuligán</i><par n="absolvent__n"/></e>
+    <e lm="debutant"><i>debutant</i><par n="absolvent__n"/></e>
+    <e lm="deklarant"><i>deklarant</i><par n="absolvent__n"/></e>
+    <e lm="delegát"><i>delegát</i><par n="absolvent__n"/></e>
+    <e lm="delfín"><i>delfín</i><par n="absolvent__n"/></e>
+    <e lm="delikvent"><i>delikvent</i><par n="absolvent__n"/></e>
+    <e lm="demonstrant"><i>demonstrant</i><par n="absolvent__n"/></e>
+    <e lm="deviant"><i>deviant</i><par n="absolvent__n"/></e>
+    <e lm="diletant"><i>diletant</i><par n="absolvent__n"/></e>
+    <e lm="dirigent"><i>dirigent</i><par n="absolvent__n"/></e>
+    <e lm="disident"><i>disident</i><par n="absolvent__n"/></e>
+    <e lm="dlouhán"><i>dlouhán</i><par n="absolvent__n"/></e>
+    <e lm="dobrman"><i>dobrman</i><par n="absolvent__n"/></e>
+    <e lm="docent"><i>docent</i><par n="absolvent__n"/></e>
+    <e lm="doktorand"><i>doktorand</i><par n="absolvent__n"/></e>
+    <e lm="dominikán"><i>dominikán</i><par n="absolvent__n"/></e>
+    <e lm="démon"><i>démon</i><par n="absolvent__n"/></e>
+    <e lm="emigrant"><i>emigrant</i><par n="absolvent__n"/></e>
+    <e lm="eminent"><i>eminent</i><par n="absolvent__n"/></e>
+    <e lm="emitent"><i>emitent</i><par n="absolvent__n"/></e>
+    <e lm="epigon"><i>epigon</i><par n="absolvent__n"/></e>
+    <e lm="exponent"><i>exponent</i><par n="absolvent__n"/></e>
+    <e lm="exprezident"><i>exprezident</i><par n="absolvent__n"/></e>
+    <e lm="exulant"><i>exulant</i><par n="absolvent__n"/></e>
+    <e lm="farmaceut"><i>farmaceut</i><par n="absolvent__n"/></e>
+    <e lm="fojt"><i>fojt</i><par n="absolvent__n"/></e>
+    <e lm="františkán"><i>františkán</i><par n="absolvent__n"/></e>
+    <e lm="frekventant"><i>frekventant</i><par n="absolvent__n"/></e>
+    <e lm="furiant"><i>furiant</i><par n="absolvent__n"/></e>
+    <e lm="garant"><i>garant</i><par n="absolvent__n"/></e>
+    <e lm="gentleman"><i>gentleman</i><par n="absolvent__n"/></e>
+    <e lm="gigant"><i>gigant</i><par n="absolvent__n"/></e>
+    <e lm="gratulant"><i>gratulant</i><par n="absolvent__n"/></e>
+    <e lm="gurmán"><i>gurmán</i><par n="absolvent__n"/></e>
+    <e lm="harant"><i>harant</i><par n="absolvent__n"/></e>
+    <e lm="harlekýn"><i>harlekýn</i><par n="absolvent__n"/></e>
+    <e lm="hastrman"><i>hastrman</i><par n="absolvent__n"/></e>
+    <e lm="havran"><i>havran</i><par n="absolvent__n"/></e>
+    <e lm="hejtman"><i>hejtman</i><par n="absolvent__n"/></e>
+    <e lm="holub"><i>holub</i><par n="absolvent__n"/></e>
+    <e lm="hulvát"><i>hulvát</i><par n="absolvent__n"/></e>
+    <e lm="idiot"><i>idiot</i><par n="absolvent__n"/></e>
+    <e lm="ignorant"><i>ignorant</i><par n="absolvent__n"/></e>
+    <e lm="imigrant"><i>imigrant</i><par n="absolvent__n"/></e>
+    <e lm="inzerent"><i>inserent</i><par n="absolvent__n"/></e>
+    <e lm="institut"><i>institut</i><par n="absolvent__n"/></e>
+    <e lm="inteligent"><i>inteligent</i><par n="absolvent__n"/></e>
+    <e lm="intendant"><i>intendant</i><par n="absolvent__n"/></e>
+    <e lm="interpret"><i>interpret</i><par n="absolvent__n"/></e>
+    <e lm="intrikán"><i>intrikán</i><par n="absolvent__n"/></e>
+    <e lm="inzerent"><i>inzerent</i><par n="absolvent__n"/></e>
+    <e lm="jubilant"><i>jubilant</i><par n="absolvent__n"/></e>
+    <e lm="kadet"><i>kadet</i><par n="absolvent__n"/></e>
+    <e lm="kameraman"><i>kameraman</i><par n="absolvent__n"/></e>
+    <e lm="kandidát"><i>kandidát</i><par n="absolvent__n"/></e>
+    <e lm="kaplan"><i>kaplan</i><par n="absolvent__n"/></e>
+    <e lm="kapoun"><i>kapoun</i><par n="absolvent__n"/></e>
+    <e lm="kapucín"><i>kapucín</i><par n="absolvent__n"/></e>
+    <e lm="karas"><i>karas</i><par n="absolvent__n"/></e>
+    <e lm="karmelitán"><i>karmelitán</i><par n="absolvent__n"/></e>
+    <e lm="kastelán"><i>kastelán</i><par n="absolvent__n"/></e>
+    <e lm="klient"><i>klient</i><par n="absolvent__n"/></e>
+    <e lm="kliment"><i>kliment</i><par n="absolvent__n"/></e>
+    <e lm="klokan"><i>klokan</i><par n="absolvent__n"/></e>
+    <e lm="kojot"><i>kojot</i><par n="absolvent__n"/></e>
+    <e lm="kolaborant"><i>kolaborant</i><par n="absolvent__n"/></e>
+    <e lm="komandant"><i>komandant</i><par n="absolvent__n"/></e>
+    <e lm="komediant"><i>komediant</i><par n="absolvent__n"/></e>
+    <e lm="koncipient"><i>koncipient</i><par n="absolvent__n"/></e>
+    <e lm="konkurent"><i>konkurent</i><par n="absolvent__n"/></e>
+    <e lm="konzultant"><i>konsultant</i><par n="absolvent__n"/></e>
+    <e lm="konvikt"><i>konvikt</i><par n="absolvent__n"/></e>
+    <e lm="konzultant"><i>konzultant</i><par n="absolvent__n"/></e>
+    <e lm="konzument"><i>konzument</i><par n="absolvent__n"/></e>
+    <e lm="koproducent"><i>koproducent</i><par n="absolvent__n"/></e>
+    <e lm="korespondent"><i>korespondent</i><par n="absolvent__n"/></e>
+    <e lm="kormorán"><i>kormorán</i><par n="absolvent__n"/></e>
+    <e lm="krocan"><i>krocan</i><par n="absolvent__n"/></e>
+    <e lm="kumpán"><i>kumpán</i><par n="absolvent__n"/></e>
+    <e lm="křikloun"><i>křikloun</i><par n="absolvent__n"/></e>
+    <e lm="laborant"><i>laborant</i><par n="absolvent__n"/></e>
+    <e lm="laureát"><i>laureát</i><par n="absolvent__n"/></e>
+    <e lm="leguán"><i>leguán</i><par n="absolvent__n"/></e>
+    <e lm="legát"><i>legát</i><par n="absolvent__n"/></e>
+    <e lm="lipan"><i>lipan</i><par n="absolvent__n"/></e>
+    <e lm="literát"><i>literát</i><par n="absolvent__n"/></e>
+    <e lm="lín"><i>lín</i><par n="absolvent__n"/></e>
+    <e lm="mafián"><i>mafián</i><par n="absolvent__n"/></e>
+    <e lm="magnát"><i>magnát</i><par n="absolvent__n"/></e>
+    <e lm="mandant"><i>mandant</i><par n="absolvent__n"/></e>
+    <e lm="manekýn"><i>manekýn</i><par n="absolvent__n"/></e>
+    <e lm="maskot"><i>maskot</i><par n="absolvent__n"/></e>
+    <e lm="maturant"><i>maturant</i><par n="absolvent__n"/></e>
+    <e lm="migrant"><i>migrant</i><par n="absolvent__n"/></e>
+    <e lm="ministrant"><i>ministrant</i><par n="absolvent__n"/></e>
+    <e lm="mohykán"><i>mohykán</i><par n="absolvent__n"/></e>
+    <e lm="muflon"><i>muflon</i><par n="absolvent__n"/></e>
+    <e lm="mutant"><i>mutant</i><par n="absolvent__n"/></e>
+    <e lm="muzikant"><i>muzikant</i><par n="absolvent__n"/></e>
+    <e lm="okoun"><i>okoun</i><par n="absolvent__n"/></e>
+    <e lm="okupant"><i>okupant</i><par n="absolvent__n"/></e>
+    <e lm="oponent"><i>oponent</i><par n="absolvent__n"/></e>
+    <e lm="orangutan"><i>orangutan</i><par n="absolvent__n"/></e>
+    <e lm="ortoped"><i>orthoped</i><par n="absolvent__n"/></e>
+    <e lm="ortoped"><i>ortoped</i><par n="absolvent__n"/></e>
+    <e lm="partyzán"><i>partyzán</i><par n="absolvent__n"/></e>
+    <e lm="patriot"><i>patriot</i><par n="absolvent__n"/></e>
+    <e lm="pelikán"><i>pelikán</i><par n="absolvent__n"/></e>
+    <e lm="pierot"><i>pierot</i><par n="absolvent__n"/></e>
+    <e lm="pilot"><i>pilot</i><par n="absolvent__n"/></e>
+    <e lm="pirát"><i>pirát</i><par n="absolvent__n"/></e>
+    <e lm="pivot"><i>pivot</i><par n="absolvent__n"/></e>
+    <e lm="podivín"><i>podivín</i><par n="absolvent__n"/></e>
+    <e lm="policajt"><i>policajt</i><par n="absolvent__n"/></e>
+    <e lm="potentát"><i>potentát</i><par n="absolvent__n"/></e>
+    <e lm="potkan"><i>potkan</i><par n="absolvent__n"/></e>
+    <e lm="prefekt"><i>prefekt</i><par n="absolvent__n"/></e>
+    <e lm="premiant"><i>premiant</i><par n="absolvent__n"/></e>
+    <e lm="premonstrát"><i>premonstrát</i><par n="absolvent__n"/></e>
+    <e lm="prezident"><i>prezident</i><par n="absolvent__n"/></e>
+    <e lm="primát"><i>primát</i><par n="absolvent__n"/></e>
+    <e lm="producent"><i>producent</i><par n="absolvent__n"/></e>
+    <e lm="projektant"><i>projektant</i><par n="absolvent__n"/></e>
+    <e lm="prominent"><i>prominent</i><par n="absolvent__n"/></e>
+    <e lm="protestant"><i>protestant</i><par n="absolvent__n"/></e>
+    <e lm="protikandidát"><i>protikandidát</i><par n="absolvent__n"/></e>
+    <e lm="psychoterapeut"><i>psychoterapeut</i><par n="absolvent__n"/></e>
+    <e lm="puritán"><i>puritán</i><par n="absolvent__n"/></e>
+    <e lm="pěstoun"><i>pěstoun</i><par n="absolvent__n"/></e>
+    <e lm="rabín"><i>rabín</i><par n="absolvent__n"/></e>
+    <e lm="ras"><i>ras</i><par n="absolvent__n"/></e>
+    <e lm="recenzent"><i>recensent</i><par n="absolvent__n"/></e>
+    <e lm="recenzent"><i>recenzent</i><par n="absolvent__n"/></e>
+    <e lm="referent"><i>referent</i><par n="absolvent__n"/></e>
+    <e lm="regent"><i>regent</i><par n="absolvent__n"/></e>
+    <e lm="rekordman"><i>rekordman</i><par n="absolvent__n"/></e>
+    <e lm="rekreant"><i>rekreant</i><par n="absolvent__n"/></e>
+    <e lm="reprezentant"><i>reprezentant</i><par n="absolvent__n"/></e>
+    <e lm="republikán"><i>republikán</i><par n="absolvent__n"/></e>
+    <e lm="rezident"><i>resident</i><par n="absolvent__n"/></e>
+    <e lm="respondent"><i>respondent</i><par n="absolvent__n"/></e>
+    <e lm="restituent"><i>restituent</i><par n="absolvent__n"/></e>
+    <e lm="rezident"><i>rezident</i><par n="absolvent__n"/></e>
+    <e lm="satan"><i>satan</i><par n="absolvent__n"/></e>
+    <e lm="seržant"><i>seržant</i><par n="absolvent__n"/></e>
+    <e lm="skaut"><i>skaut</i><par n="absolvent__n"/></e>
+    <e lm="sklípkan"><i>sklípkan</i><par n="absolvent__n"/></e>
+    <e lm="skokan"><i>skokan</i><par n="absolvent__n"/></e>
+    <e lm="skot"><i>skot</i><par n="absolvent__n"/></e>
+    <e lm="skřet"><i>skřet</i><par n="absolvent__n"/></e>
+    <e lm="skřivan"><i>skřivan</i><par n="absolvent__n"/></e>
+    <e lm="slon"><i>slon</i><par n="absolvent__n"/></e>
+    <e lm="spekulant"><i>spekulant</i><par n="absolvent__n"/></e>
+    <e lm="student"><i>student</i><par n="absolvent__n"/></e>
+    <e lm="suverén"><i>suverén</i><par n="absolvent__n"/></e>
+    <e lm="sympatizant"><i>sympatizant</i><par n="absolvent__n"/></e>
+    <e lm="tahoun"><i>tahoun</i><par n="absolvent__n"/></e>
+    <e lm="talent"><i>talent</i><par n="absolvent__n"/></e>
+    <e lm="terapeut"><i>terapeut</i><par n="absolvent__n"/></e>
+    <e lm="trafikant"><i>trafikant</i><par n="absolvent__n"/></e>
+    <e lm="tyran"><i>tyran</i><par n="absolvent__n"/></e>
+    <e lm="varan"><i>varan</i><par n="absolvent__n"/></e>
+    <e lm="velikán"><i>velikán</i><par n="absolvent__n"/></e>
+    <e lm="veterán"><i>veterán</i><par n="absolvent__n"/></e>
+    <e lm="viceprezident"><i>viceprezident</i><par n="absolvent__n"/></e>
+    <e lm="viceprezident"><i>víceprezident</i><par n="absolvent__n"/></e>
+    <e lm="šaman"><i>šaman</i><par n="absolvent__n"/></e>
+    <e lm="šampion"><i>šampion</i><par n="absolvent__n"/></e>
+    <e lm="šarlatán"><i>šarlatán</i><par n="absolvent__n"/></e>
+    <e lm="špión"><i>špión</i><par n="absolvent__n"/></e>
+    <e lm="šéfdirigent"><i>šéfdirigent</i><par n="absolvent__n"/></e>
+    <e lm="čáp"><i>čáp</i><par n="absolvent__n"/></e>
+    <e lm="absolutorium"><i>absolutori</i><par n="bary/um__n"/></e>
+    <e lm="akvárium"><i>akvári</i><par n="bary/um__n"/></e>
+    <e lm="atrium"><i>atri</i><par n="bary/um__n"/></e>
+    <e lm="auditorium"><i>auditori</i><par n="bary/um__n"/></e>
+    <e lm="avium"><i>avi</i><par n="bary/um__n"/></e>
+    <e lm="columbium"><i>columbi</i><par n="bary/um__n"/></e>
+    <e lm="delirium"><i>deliri</i><par n="bary/um__n"/></e>
+    <e lm="evangelium"><i>evangeli</i><par n="bary/um__n"/></e>
+    <e lm="galium"><i>gali</i><par n="bary/um__n"/></e>
+    <e lm="grémium"><i>grémi</i><par n="bary/um__n"/></e>
+    <e lm="gymnázium"><i>gymnázi</i><par n="bary/um__n"/></e>
+    <e lm="gymnázium" r="LR"><p><l>gymnasi</l><r>gymnázi</r><par n="bary/um__n"/></e>
+    <e lm="gymnázium" r="LR"><p><l>gymnási</l><r>gymnázi</r><par n="bary/um__n"/></e>
+    <e lm="harmonium"><i>harmoni</i><par n="bary/um__n"/></e>
+    <e lm="impérium"><i>impéri</i><par n="bary/um__n"/></e>
+    <e lm="individuum"><i>individu</i><par n="bary/um__n"/></e>
+    <e lm="jubileum"><i>jubile</i><par n="bary/um__n"/></e>
+    <e lm="kalendárium"><i>kalendári</i><par n="bary/um__n"/></e>
+    <e lm="kolegium"><i>kolegi</i><par n="bary/um__n"/></e>
+    <e lm="kolegium" r="LR"><p><l>kolégi</l><r>kolegi</r><par n="bary/um__n"/></e>
+    <e lm="kolokvium"><i>kolokvi</i><par n="bary/um__n"/></e>
+    <e lm="konzilium"><i>konsili</i><par n="bary/um__n"/></e>
+    <e lm="konsorcium"><i>konsorci</i><par n="bary/um__n"/></e>
+    <e lm="konzorcium"><i>konzorci</i><par n="bary/um__n"/></e>
+    <e lm="kontinuum"><i>kontinu</i><par n="bary/um__n"/></e>
+    <e lm="konzilium"><i>konzili</i><par n="bary/um__n"/></e>
+    <e lm="krematorium"><i>krematori</i><par n="bary/um__n"/></e>
+    <e lm="kritérium" r="LR"><p><l>kriteri</l><r>kritéri</r></p><par n="bary/um__n"/></e>
+    <e lm="kritérium"><i>kritéri</i><par n="bary/um__n"/></e>
+    <e lm="kuratorium"><i>kuratori</i><par n="bary/um__n"/></e>
+    <e lm="lapidárium"><i>lapidári</i><par n="bary/um__n"/></e>
+    <e lm="linoleum"><i>linole</i><par n="bary/um__n"/></e>
+    <e lm="lyceum"><i>lyce</i><par n="bary/um__n"/></e>
+    <e lm="martyrium"><i>martyri</i><par n="bary/um__n"/></e>
+    <e lm="masmédium"><i>masmédi</i><par n="bary/um__n"/></e>
+    <e lm="mauzoleum"><i>mauzole</i><par n="bary/um__n"/></e>
+    <e lm="medium"><i>medi</i><par n="bary/um__n"/></e>
+    <e lm="millenium"><i>milleni</i><par n="bary/um__n"/></e>
+    <e lm="milénium"><i>miléni</i><par n="bary/um__n"/></e>
+    <e lm="moratorium"><i>moratori</i><par n="bary/um__n"/></e>
+    <e lm="morfium"><i>morfi</i><par n="bary/um__n"/></e>
+    <e lm="multimédium" r="LR"><p><l>multimedi</l><r>multimédi</r></p><par n="bary/um__n"/></e>
+    <e lm="multimédium"><i>multimédi</i><par n="bary/um__n"/></e>
+    <e lm="muzeum" r="LR"><p><l>muse</l><r>muze</r></p><par n="bary/um__n"/></e>
+    <e lm="muzeum"><i>muze</i><par n="bary/um__n"/></e>
+    <e lm="mystérium" r="LR"><p><l>mysteri</l><r>mystéri</r><p><par n="bary/um__n"/></e>
+    <e lm="mystérium"><i>mystéri</i><par n="bary/um__n"/></e>
+    <e lm="omnium"><i>omni</i><par n="bary/um__n"/></e>
+    <e lm="opium"><i>opi</i><par n="bary/um__n"/></e>
+    <e lm="oratorium"><i>oratori</i><par n="bary/um__n"/></e>
+    <e lm="pentium"><i>penti</i><par n="bary/um__n"/></e>
+    <e lm="planetárium"><i>planetári</i><par n="bary/um__n"/></e>
+    <e lm="podium"><i>podi</i><par n="bary/um__n"/></e>
+    <e lm="preludium"><i>preludi</i><par n="bary/um__n"/></e>
+    <e lm="prezídium"><i>prezídi</i><par n="bary/um__n"/></e>
+    <e lm="privilegium"><i>privilegi</i><par n="bary/um__n"/></e>
+    <e lm="provizórium"><i>provizóri</i><par n="bary/um__n"/></e>
+    <e lm="prémium"><i>prémi</i><par n="bary/um__n"/></e>
+    <e lm="pódium"><i>pódi</i><par n="bary/um__n"/></e>
+    <e lm="rádium"><i>radi</i><par n="bary/um__n"/></e>
+    <e lm="repertorium"><i>repertori</i><par n="bary/um__n"/></e>
+    <e lm="reziduum" r="LR"><p><l>residu</l><r>rezidu</r></p><par n="bary/um__n"/></e>
+    <e lm="reziduum"><i>rezidu</i><par n="bary/um__n"/></e>
+    <e lm="rádium"><i>rádi</i><par n="bary/um__n"/></e>
+    <e lm="sanatorium"><i>sanatori</i><par n="bary/um__n"/></e>
+    <e lm="skrutinium"><i>skrutini</i><par n="bary/um__n"/></e>
+    <e lm="solárium"><i>solári</i><par n="bary/um__n"/></e>
+    <e lm="stadium"><i>stadi</i><par n="bary/um__n"/></e>
+    <e lm="stipendium"><i>stipendi</i><par n="bary/um__n"/></e>
+    <e lm="studium"><i>studi</i><par n="bary/um__n"/></e>
+    <e lm="stádium"><i>stádi</i><par n="bary/um__n"/></e>
+    <e lm="sympózium" r="LR"><p><l>symposi</l><r>sympózi<r/></p><par n="bary/um__n"/></e>
+    <e lm="sympózium" r="LR"><p><l>sympozi</l><r>sympózi<r/></p><par n="bary/um__n"/></e>
+    <e lm="sympózium"><i>sympózi</i><par n="bary/um__n"/></e>
+    <e lm="teritorium"><i>teritori</i><par n="bary/um__n"/></e>
+    <e lm="terárium"><i>terári</i><par n="bary/um__n"/></e>
+    <e lm="absence"><i>absenc</i><par n="alergi/e__n"/></e>
+    <e lm="absorpce"><i>absorpc</i><par n="alergi/e__n"/></e>
+    <e lm="abstinence"><i>abstinenc</i><par n="alergi/e__n"/></e>
+    <e lm="abstrakce"><i>abstrakc</i><par n="alergi/e__n"/></e>
+    <e lm="adaptace"><i>adaptac</i><par n="alergi/e__n"/></e>
+    <e lm="administrace"><i>administrac</i><par n="alergi/e__n"/></e>
+    <e lm="adopce"><i>adopc</i><par n="alergi/e__n"/></e>
+    <e lm="adorace"><i>adorac</i><par n="alergi/e__n"/></e>
+    <e lm="advokacie"><i>advokaci</i><par n="alergi/e__n"/></e>
+    <e lm="aerolinie"><i>aerolini</i><par n="alergi/e__n"/></e>
+    <e lm="agitace"><i>agitac</i><par n="alergi/e__n"/></e>
+    <e lm="aglomerace"><i>aglomerac</i><par n="alergi/e__n"/></e>
+    <e lm="agónie"><i>agóni</i><par n="alergi/e__n"/></e>
+    <e lm="agónie" r="LR"><p><l>agoni</l><r>agóni</r></p><par n="alergi/e__n"/></e>
+    <e lm="agrese"><i>agres</i><par n="alergi/e__n"/></e>
+    <e lm="akademie"><i>akademi</i><par n="alergi/e__n"/></e>
+    <e lm="akce"><i>akc</i><par n="alergi/e__n"/></e>
+    <e lm="akcelerace"><i>akcelerac</i><par n="alergi/e__n"/></e>
+    <e lm="akcie"><i>akci</i><par n="alergi/e__n"/></e>
+    <e lm="akontace"><i>akontac</i><par n="alergi/e__n"/></e>
+    <e lm="akreditace"><i>akreditac</i><par n="alergi/e__n"/></e>
+    <e lm="akrobacie"><i>akrobaci</i><par n="alergi/e__n"/></e>
+    <e lm="akropole"><i>akropol</i><par n="alergi/e__n"/></e>
+    <e lm="aktivace"><i>aktivac</i><par n="alergi/e__n"/></e>
+    <e lm="akumulace"><i>akumulac</i><par n="alergi/e__n"/></e>
+    <e lm="alchymie"><i>alchymi</i><par n="alergi/e__n"/></e>
+    <e lm="alegorie"><i>alegori</i><par n="alergi/e__n"/></e>
+    <e lm="aliance"><i>alianc</i><par n="alergi/e__n"/></e>
+    <e lm="aloe"><i>alo</i><par n="alergi/e__n"/></e>
+    <e lm="alokace"><i>alokac</i><par n="alergi/e__n"/></e>
+    <e lm="alternace"><i>alternac</i><par n="alergi/e__n"/></e>
+    <e lm="ambivalence"><i>ambivalenc</i><par n="alergi/e__n"/></e>
+    <e lm="ambulance"><i>ambulanc</i><par n="alergi/e__n"/></e>
+    <e lm="amputace"><i>amputac</i><par n="alergi/e__n"/></e>
+    <e lm="anabáze"><i>anabáz</i><par n="alergi/e__n"/></e>
+    <e lm="anabáze" r="LR"><p><l>anabas</l><r>anabáz</r></p><par n="alergi/e__n"/></e>
+    <e lm="analogie"><i>analogi</i><par n="alergi/e__n"/></e>
+    <e lm="anarchie"><i>anarchi</i><par n="alergi/e__n"/></e>
+    <e lm="anémie"><i>anemi</i><par n="alergi/e__n"/></e>
+    <e lm="anémie"><i>anémi</i><par n="alergi/e__n"/></e>
+    <e lm="anexe"><i>anex</i><par n="alergi/e__n"/></e>
+    <e lm="animace"><i>animac</i><par n="alergi/e__n"/></e>
+    <e lm="anomálie"><i>anomáli</i><par n="alergi/e__n"/></e>
+    <e lm="anomie"><i>anomi</i><par n="alergi/e__n"/></e>
+    <e lm="antikoncepce"><i>antikoncepc</i><par n="alergi/e__n"/></e>
+    <e lm="antipatie"><i>antipati</i><par n="alergi/e__n"/></e>
+    <e lm="antiteze"><i>antitez</i><par n="alergi/e__n"/></e>
+    <e lm="antiteze" r="LR"><p><l>antithes</l><r>antitez</r></p><par n="alergi/e__n"/></e>
+    <e lm="antologie"><i>antologi</i><par n="alergi/e__n"/></e>
+    <e lm="antropologie"><i>antropologi</i><par n="alergi/e__n"/></e>
+    <e lm="antroposofie"><i>antroposofi</i><par n="alergi/e__n"/></e>
+    <e lm="aplikace"><i>aplikac</i><par n="alergi/e__n"/></e>
+    <e lm="aprobace"><i>aprobac</i><par n="alergi/e__n"/></e>
+    <e lm="archeologie"><i>archeologi</i><par n="alergi/e__n"/></e>
+    <e lm="archivace"><i>archivac</i><par n="alergi/e__n"/></e>
+    <e lm="archiválie"><i>archiváli</i><par n="alergi/e__n"/></e>
+    <e lm="arcidiecéze"><i>arcidiecéz</i><par n="alergi/e__n"/></e>
+    <e lm="argumentace"><i>argumentac</i><par n="alergi/e__n"/></e>
+    <e lm="árie"><i>ári</i><par n="alergi/e__n"/></e>
+    <e lm="aristokracie"><i>aristokraci</i><par n="alergi/e__n"/></e>
+    <e lm="arogance"><i>aroganc</i><par n="alergi/e__n"/></e>
+    <e lm="artikulace"><i>artikulac</i><par n="alergi/e__n"/></e>
+    <e lm="asanace"><i>asanac</i><par n="alergi/e__n"/></e>
+    <e lm="asignace"><i>asignac</i><par n="alergi/e__n"/></e>
+    <e lm="asignace"><i>assignac</i><par n="alergi/e__n"/></e>
+    <e lm="asimilace"><i>asimilac</i><par n="alergi/e__n"/></e>
+    <e lm="asistence"><i>asistenc</i><par n="alergi/e__n"/></e>
+    <e lm="askeze"><i>askez</i><par n="alergi/e__n"/></e>
+    <e lm="askeze" r="LR"><p><l>askes</l><r>askez</r></p><par n="alergi/e__n"/></e>
+    <e lm="asociace"><i>asociac</i><par n="alergi/e__n"/></e>
+    <e lm="asonance"><i>asonanc</i><par n="alergi/e__n"/></e>
+    <e lm="aspirace"><i>aspirac</i><par n="alergi/e__n"/></e>
+    <e lm="astrologie"><i>astrologi</i><par n="alergi/e__n"/></e>
+    <e lm="asymetrie"><i>asymetri</i><par n="alergi/e__n"/></e>
+    <e lm="atrakce"><i>atrakc</i><par n="alergi/e__n"/></e>
+    <e lm="audience"><i>audienc</i><par n="alergi/e__n"/></e>
+    <e lm="audiovize"><i>audioviz</i><par n="alergi/e__n"/></e>
+    <e lm="aukce"><i>aukc</i><par n="alergi/e__n"/></e>
+    <e lm="autobaterie"><i>autobateri</i><par n="alergi/e__n"/></e>
+    <e lm="autobiografie"><i>autobiografi</i><par n="alergi/e__n"/></e>
+    <e lm="autohavárie"><i>autohavári</i><par n="alergi/e__n"/></e>
+    <e lm="autonomie"><i>autonomi</i><par n="alergi/e__n"/></e>
+    <e lm="autoregulace"><i>autoregulac</i><par n="alergi/e__n"/></e>
+    <e lm="averze"><i>averz</i><par n="alergi/e__n"/></e>
+    <e lm="averze" r="LR"><p><l>avers</l><r>averz</r></p><par n="alergi/e__n"/></e>
+    <e lm="bakterie"><i>bakteri</i><par n="alergi/e__n"/></e>
+    <e lm="bakterie" r="LR"><p><l>baktéri</l><r>bakteri</r></p><par n="alergi/e__n"/></e>
+    <e lm="baterie"><i>bateri</i><par n="alergi/e__n"/></e>
+    <e lm="báze"><i>báz</i><par n="alergi/e__n"/></e>
+    <e lm="benevolence"><i>benevolenc</i><par n="alergi/e__n"/></e>
+    <e lm="berle"><i>berl</i><par n="alergi/e__n"/></e>
+    <e lm="bestie"><i>besti</i><par n="alergi/e__n"/></e>
+    <e lm="beztíže"><i>beztíž</i><par n="alergi/e__n"/></e>
+    <e lm="bible"><i>bibl</i><par n="alergi/e__n"/></e>
+    <e lm="bibliofilie"><i>bibliofili</i><par n="alergi/e__n"/></e>
+    <e lm="bibliografie"><i>bibliografi</i><par n="alergi/e__n"/></e>
+    <e lm="bilance"><i>bilanc</i><par n="alergi/e__n"/></e>
+    <e lm="biochemie"><i>biochemi</i><par n="alergi/e__n"/></e>
+    <e lm="biografie"><i>biografi</i><par n="alergi/e__n"/></e>
+    <e lm="biologie"><i>biologi</i><par n="alergi/e__n"/></e>
+    <e lm="biotechnologie"><i>biotechnologi</i><par n="alergi/e__n"/></e>
+    <e lm="bižuterie"><i>bižuteri</i><par n="alergi/e__n"/></e>
+    <e lm="bižuterie" r="LR"><p><l>bižutéri</l><r>bižuteri</r></p><par n="alergi/e__n"/></e>
+    <e lm="blokace"><i>blokac</i><par n="alergi/e__n"/></e>
+    <e lm="bobule"><i>bobul</i><par n="alergi/e__n"/></e>
+    <e lm="bonifikace"><i>bonifikac</i><par n="alergi/e__n"/></e>
+    <e lm="boule"><i>boul</i><par n="alergi/e__n"/></e>
+    <e lm="bouře"><i>bouř</i><par n="alergi/e__n"/></e>
+    <e lm="branže"><i>branž</i><par n="alergi/e__n"/></e>
+    <e lm="brusle"><i>brusl</i><par n="alergi/e__n"/></e>
+    <e lm="buržoazie"><i>buržoazi</i><par n="alergi/e__n"/></e>
+    <e lm="buržoazie" r="LR"><p><l>buržoasi</l><r>buržoazie</r></p><par n="alergi/e__n"/></e>
+    <e lm="byrokracie"><i>byrokraci</i><par n="alergi/e__n"/></e>
+    <e lm="cedule"><i>cedul</i><par n="alergi/e__n"/></e>
+    <e lm="ceremonie"><i>ceremoni</i><par n="alergi/e__n"/></e>
+    <e lm="certifikace"><i>certifikac</i><par n="alergi/e__n"/></e>
+    <e lm="chemikálie"><i>chemikáli</i><par n="alergi/e__n"/></e>
+    <e lm="chemoterapie"><i>chemoterapi</i><par n="alergi/e__n"/></e>
+    <e lm="chirurgie"><i>chirurgi</i><par n="alergi/e__n"/></e>
+    <e lm="choreografie"><i>choreografi</i><par n="alergi/e__n"/></e>
+    <e lm="chronologie"><i>chronologi</i><par n="alergi/e__n"/></e>
+    <e lm="chůze"><i>chůz</i><par n="alergi/e__n"/></e>
+    <e lm="cibule"><i>cibul</i><par n="alergi/e__n"/></e>
+    <e lm="činže"><i>činž</i><par n="alergi/e__n"/></e>
+    <e lm="cirkulace"><i>cirkulac</i><par n="alergi/e__n"/></e>
+    <e lm="citace"><i>citac</i><par n="alergi/e__n"/></e>
+    <e lm="databáze"><i>databáz</i><par n="alergi/e__n"/></e>
+    <e lm="datace"><i>datac</i><par n="alergi/e__n"/></e>
+    <e lm="datle"><i>datl</i><par n="alergi/e__n"/></e>
+    <e lm="dedukce"><i>dedukc</i><par n="alergi/e__n"/></e>
+    <e lm="deformace"><i>deformac</i><par n="alergi/e__n"/></e>
+    <e lm="degenerace"><i>degenerac</i><par n="alergi/e__n"/></e>
+    <e lm="degradace"><i>degradac</i><par n="alergi/e__n"/></e>
+    <e lm="dehydratace"><i>dehydratac</i><par n="alergi/e__n"/></e>
+    <e lm="dekadence"><i>dekadenc</i><par n="alergi/e__n"/></e>
+    <e lm="dekorace"><i>dekorac</i><par n="alergi/e__n"/></e>
+    <e lm="delegace"><i>delegac</i><par n="alergi/e__n"/></e>
+    <e lm="delimitace"><i>delimitac</i><par n="alergi/e__n"/></e>
+    <e lm="demarše"><i>demarš</i><par n="alergi/e__n"/></e>
+    <e lm="demence"><i>demenc</i><par n="alergi/e__n"/></e>
+    <e lm="demografie"><i>demografi</i><par n="alergi/e__n"/></e>
+    <e lm="demonstrace"><i>demonstrac</i><par n="alergi/e__n"/></e>
+    <e lm="depeše"><i>depeš</i><par n="alergi/e__n"/></e>
+    <e lm="deportace"><i>deportac</i><par n="alergi/e__n"/></e>
+    <e lm="deprese"><i>depres</i><par n="alergi/e__n"/></e>
+    <e lm="deprivace"><i>deprivac</i><par n="alergi/e__n"/></e>
+    <e lm="deregulace"><i>deregulac</i><par n="alergi/e__n"/></e>
+    <e lm="derivace"><i>derivac</i><par n="alergi/e__n"/></e>
+    <e lm="destilace"><i>destilac</i><par n="alergi/e__n"/></e>
+    <e lm="destinace"><i>destinac</i><par n="alergi/e__n"/></e>
+    <e lm="destrukce"><i>destrukc</i><par n="alergi/e__n"/></e>
+    <e lm="detekce"><i>detekc</i><par n="alergi/e__n"/></e>
+    <e lm="determinace"><i>determinac</i><par n="alergi/e__n"/></e>
+    <e lm="detonace"><i>detonac</i><par n="alergi/e__n"/></e>
+    <e lm="devalvace"><i>devalvac</i><par n="alergi/e__n"/></e>
+    <e lm="devastace"><i>devastac</i><par n="alergi/e__n"/></e>
+    <e lm="deviace"><i>deviac</i><par n="alergi/e__n"/></e>
+    <e lm="dezerce"><i>dezerc</i><par n="alergi/e__n"/></e>
+    <e lm="deziluze"><i>deziluz</i><par n="alergi/e__n"/></e>
+    <e lm="dezinfekce"><i>dezinfekc</i><par n="alergi/e__n"/></e>
+    <e lm="dezinformace"><i>dezinformac</i><par n="alergi/e__n"/></e>
+    <e lm="dezintegrace"><i>dezintegrac</i><par n="alergi/e__n"/></e>
+    <e lm="diakonie"><i>diakoni</i><par n="alergi/e__n"/></e>
+    <e lm="diecéze"><i>diecéz</i><par n="alergi/e__n"/></e>
+    <e lm="diecéze" r="LR"><p><l>dieces</l><r>diecéz</r></p><par n="alergi/e__n"/></e>
+    <e lm="diecéze" r="LR"><p><l>diecés</l><r>diecéz</r></p><par n="alergi/e__n"/></e>
+    <e lm="diference"><i>diferenc</i><par n="alergi/e__n"/></e>
+    <e lm="diferenciace"><i>diferenciac</i><par n="alergi/e__n"/></e>
+    <e lm="dimenze"><i>dimenz</i><par n="alergi/e__n"/></e>
+    <e lm="dimenze" r="LR"><p><l>dimens</l><r>dimenz</r></p><par n="alergi/e__n"/></e>
+    <e lm="dioptrie"><i>dioptri</i><par n="alergi/e__n"/></e>
+    <e lm="diplomacie"><i>diplomaci</i><par n="alergi/e__n"/></e>
+    <e lm="disharmonie"><i>disharmoni</i><par n="alergi/e__n"/></e>
+    <e lm="diskografie"><i>diskografi</i><par n="alergi/e__n"/></e>
+    <e lm="diskreditace"><i>diskreditac</i><par n="alergi/e__n"/></e>
+    <e lm="diskriminace"><i>diskriminac</i><par n="alergi/e__n"/></e>
+    <e lm="diskuse"><i>diskus</i><par n="alergi/e__n"/></e>
+    <e lm="diskuse" r="LR"><p><l>diskuz</l><r>diskus</r></p><par n="alergi/e__n"/></e>
+    <e lm="diskvalifikace"><i>diskvalifikac</i><par n="alergi/e__n"/></e>
+    <e lm="dislokace"><i>dislokac</i><par n="alergi/e__n"/></e>
+    <e lm="disproporce"><i>disproporc</i><par n="alergi/e__n"/></e>
+    <e lm="disputace"><i>disputac</i><par n="alergi/e__n"/></e>
+    <e lm="distance"><i>distanc</i><par n="alergi/e__n"/></e>
+    <e lm="distribuce"><i>distribuc</i><par n="alergi/e__n"/></e>
+    <e lm="divize"><i>diviz</i><par n="alergi/e__n"/></e>
+    <e lm="divize" r="LR"><p><l>divis</l><r>diviz</r></p><par n="alergi/e__n"/></e>
+    <e lm="dominance"><i>dominanc</i><par n="alergi/e__n"/></e>
+    <e lm="doprivatizace"><i>doprivatizac</i><par n="alergi/e__n"/></e>
+    <e lm="dotace"><i>dotac</i><par n="alergi/e__n"/></e>
+    <e lm="dramaturgie"><i>dramaturgi</i><par n="alergi/e__n"/></e>
+    <e lm="drogerie"><i>drogeri</i><par n="alergi/e__n"/></e>
+    <e lm="duše"><i>duš</i><par n="alergi/e__n"/></e>
+    <e lm="dvojrole"><i>dvojrol</i><par n="alergi/e__n"/></e>
+    <e lm="dýmovnice"><i>dýmovnic</i><par n="alergi/e__n"/></e>
+    <e lm="dynastie"><i>dynasti</i><par n="alergi/e__n"/></e>
+    <e lm="editace"><i>editac</i><par n="alergi/e__n"/></e>
+    <e lm="ekonomie"><i>ekonomi</i><par n="alergi/e__n"/></e>
+    <e lm="elegance"><i>eleganc</i><par n="alergi/e__n"/></e>
+    <e lm="elegie"><i>elegi</i><par n="alergi/e__n"/></e>
+    <e lm="elektrifikace"><i>elektrifikac</i><par n="alergi/e__n"/></e>
+    <e lm="elektroinstalace"><i>elektroinstalac</i><par n="alergi/e__n"/></e>
+    <e lm="eliminace"><i>eliminac</i><par n="alergi/e__n"/></e>
+    <e lm="emanace"><i>emanac</i><par n="alergi/e__n"/></e>
+    <e lm="emancipace"><i>emancipac</i><par n="alergi/e__n"/></e>
+    <e lm="embolie"><i>emboli</i><par n="alergi/e__n"/></e>
+    <e lm="emigrace"><i>emigrac</i><par n="alergi/e__n"/></e>
+    <e lm="eminence"><i>eminenc</i><par n="alergi/e__n"/></e>
+    <e lm="emise"><i>emis</i><par n="alergi/e__n"/></e>
+    <e lm="emoce"><i>emoc</i><par n="alergi/e__n"/></e>
+    <e lm="empirie"><i>empiri</i><par n="alergi/e__n"/></e>
+    <e lm="empirie" r="LR"><p><l>empíri</l><r>empiri</r></p><par n="alergi/e__n"/></e>
+    <e lm="emulze"><i>emulz</i><par n="alergi/e__n"/></e>
+    <e lm="emulze" r="LR"><p><l>emuls</l><r>emulz</r></p><par n="alergi/e__n"/></e>
+    <e lm="energie"><i>energi</i><par n="alergi/e__n"/></e>
+    <e lm="entropie"><i>entropi</i><par n="alergi/e__n"/></e>
+    <e lm="epidemiologie"><i>epidemiologi</i><par n="alergi/e__n"/></e>
+    <e lm="epilepsie"><i>epilepsi</i><par n="alergi/e__n"/></e>
+    <e lm="erupce"><i>erupc</i><par n="alergi/e__n"/></e>
+    <e lm="esence"><i>esenc</i><par n="alergi/e__n"/></e>
+    <e lm="eskalace"><i>eskalac</i><par n="alergi/e__n"/></e>
+    <e lm="etnografie"><i>etnografi</i><par n="alergi/e__n"/></e>
+    <e lm="eucharistie"><i>eucharisti</i><par n="alergi/e__n"/></e>
+    <e lm="euforie"><i>eufori</i><par n="alergi/e__n"/></e>
+    <e lm="eutanazie"><i>eutanazi</i><par n="alergi/e__n"/></e>
+    <e lm="eutanazie" r="LR"><p><l>eutanasi</l><r>eutanazi</r></p><par n="alergi/e__n"/></e>
+    <e lm="euthanasie"><i>euthanasi</i><par n="alergi/e__n"/></e>
+    <e lm="evakuace"><i>evakuac</i><par n="alergi/e__n"/></e>
+    <e lm="evidence"><i>evidenc</i><par n="alergi/e__n"/></e>
+    <e lm="evokace"><i>evokac</i><par n="alergi/e__n"/></e>
+    <e lm="evoluce"><i>evoluc</i><par n="alergi/e__n"/></e>
+    <e lm="excelence"><i>excelenc</i><par n="alergi/e__n"/></e>
+    <e lm="excelence" r="LR"><p><l>excellenc</l><r>excelenc</r></p><par n="alergi/e__n"/></e>
+    <e lm="exekuce"><i>exekuc</i><par n="alergi/e__n"/></e>
+    <e lm="exhalace"><i>exhalac</i><par n="alergi/e__n"/></e>
+    <e lm="exhumace"><i>exhumac</i><par n="alergi/e__n"/></e>
+    <e lm="exkurze"><i>exkurz</i><par n="alergi/e__n"/></e>
+    <e lm="exkurze" r="LR"><p><l>exkurs</l><r>exkurz</r></p><par n="alergi/e__n"/></e>
+    <e lm="expanze"><i>expanz</i><par n="alergi/e__n"/></e>
+    <e lm="expanze" r="LR"><p><l>expans</l><r>expanz</r></p><par n="alergi/e__n"/></e>
+    <e lm="exploze"><i>exploz</i><par n="alergi/e__n"/></e>
+    <e lm="exploze" r="LR"><p><l>explos</l><r>exploz</r></p><par n="alergi/e__n"/></e>
+    <e lm="exprese"><i>expres</i><par n="alergi/e__n"/></e>
+    <e lm="extáze"><i>extáz</i><par n="alergi/e__n"/></e>
+    <e lm="fabulace"><i>fabulac</i><par n="alergi/e__n"/></e>
+    <e lm="fabule"><i>fabul</i><par n="alergi/e__n"/></e>
+    <e lm="fakturace"><i>fakturac</i><par n="alergi/e__n"/></e>
+    <e lm="fantazie"><i>fantazi</i><par n="alergi/e__n"/></e>
+    <e lm="fantazie" r="LR"><p><l>fantasi</l><r>fantazi</r></p><par n="alergi/e__n"/></e>
+    <e lm="fantazmagorie"><i>fantazmagori</i><par n="alergi/e__n"/></e>
+    <e lm="fantazmagorie" r="LR"><p><l>fantasmagori</l><r>fantazmagori</r></p><par n="alergi/e__n"/></e>
+    <e lm="farmacie"><i>farmaci</i><par n="alergi/e__n"/></e>
+    <e lm="fascinace"><i>fascinac</i><par n="alergi/e__n"/></e>
+    <e lm="fáze"><i>fáz</i><par n="alergi/e__n"/></e>
+    <e lm="fazole"><i>fazol</i><par n="alergi/e__n"/></e>
+    <e lm="federace"><i>federac</i><par n="alergi/e__n"/></e>
+    <e lm="fekálie"><i>fekáli</i><par n="alergi/e__n"/></e>
+    <e lm="fenomenologie"><i>fenomenologi</i><par n="alergi/e__n"/></e>
+    <e lm="figurace"><i>figurac</i><par n="alergi/e__n"/></e>
+    <e lm="fikce"><i>fikc</i><par n="alergi/e__n"/></e>
+    <e lm="filharmonie"><i>filharmoni</i><par n="alergi/e__n"/></e>
+    <e lm="filmografie"><i>filmografi</i><par n="alergi/e__n"/></e>
+    <e lm="filologie"><i>filologi</i><par n="alergi/e__n"/></e>
+    <e lm="filozofie"><i>filozofi</i><par n="alergi/e__n"/></e>
+    <e lm="filozofie" r="LR"><p><l>filosofi</l><r>filozofi</r></p><par n="alergi/e__n"/></e>
+    <e lm="filtrace"><i>filtrac</i><par n="alergi/e__n"/></e>
+    <e lm="finance"><i>financ</i><par n="alergi/e__n"/></e>
+    <e lm="fixace"><i>fixac</i><par n="alergi/e__n"/></e>
+    <e lm="floskule"><i>floskul</i><par n="alergi/e__n"/></e>
+    <e lm="fluktuace"><i>fluktuac</i><par n="alergi/e__n"/></e>
+    <e lm="fobie"><i>fobi</i><par n="alergi/e__n"/></e>
+    <e lm="fobie" r="LR"><p><l>fóbi</l><r>fobi</r></p><par n="alergi/e__n"/></e>
+    <e lm="folie"><i>foli</i><par n="alergi/e__n"/></e>
+    <e lm="formace"><i>formac</i><par n="alergi/e__n"/></e>
+    <e lm="formulace"><i>formulac</i><par n="alergi/e__n"/></e>
+    <e lm="formule"><i>formul</i><par n="alergi/e__n"/></e>
+    <e lm="fosilie"><i>fosili</i><par n="alergi/e__n"/></e>
+    <e lm="fotodokumentace"><i>fotodokumentac</i><par n="alergi/e__n"/></e>
+    <e lm="fotogalerie"><i>fotogaleri</i><par n="alergi/e__n"/></e>
+    <e lm="fotografie"><i>fotografi</i><par n="alergi/e__n"/></e>
+    <e lm="fotokopie"><i>fotokopi</i><par n="alergi/e__n"/></e>
+    <e lm="fólie"><i>fóli</i><par n="alergi/e__n"/></e>
+    <e lm="frakce"><i>frakc</i><par n="alergi/e__n"/></e>
+    <e lm="fráze"><i>fráz</i><par n="alergi/e__n"/></e>
+    <e lm="frazeologie"><i>frazeologi</i><par n="alergi/e__n"/></e>
+    <e lm="frekvence"><i>frekvenc</i><par n="alergi/e__n"/></e>
+    <e lm="frustrace"><i>frustrac</i><par n="alergi/e__n"/></e>
+    <e lm="funkce"><i>funkc</i><par n="alergi/e__n"/></e>
+    <e lm="fúze"><i>fúz</i><par n="alergi/e__n"/></e>
+    <e lm="fúze" r="LR"><p><l>fus</l><r>fúz</r></p><par n="alergi/e__n"/></e>
+    <e lm="fyziognomie"><i>fyziognomi</i><par n="alergi/e__n"/></e>
+    <e lm="galanterie"><i>galanteri</i><par n="alergi/e__n"/></e>
+    <e lm="galerie"><i>galeri</i><par n="alergi/e__n"/></e>
+    <e lm="galérie"><i>galéri</i><par n="alergi/e__n"/></e>
+    <e lm="garance"><i>garanc</i><par n="alergi/e__n"/></e>
+    <e lm="gastronomie"><i>gastronomi</i><par n="alergi/e__n"/></e>
+    <e lm="gáže"><i>gáž</i><par n="alergi/e__n"/></e>
+    <e lm="generace"><i>generac</i><par n="alergi/e__n"/></e>
+    <e lm="geneze"><i>genez</i><par n="alergi/e__n"/></e>
+    <e lm="genitálie"><i>genitáli</i><par n="alergi/e__n"/></e>
+    <e lm="geodézie"><i>geodézi</i><par n="alergi/e__n"/></e>
+    <e lm="geodézie" r="LR"><p><l>geodezi</l><r>geodézi</r></p?<par n="alergi/e__n"/></e>
+    <e lm="geografie"><i>geografi</i><par n="alergi/e__n"/></e>
+    <e lm="geologie"><i>geologi</i><par n="alergi/e__n"/></e>
+    <e lm="geometrie"><i>geometri</i><par n="alergi/e__n"/></e>
+    <e lm="gestikulace"><i>gestikulac</i><par n="alergi/e__n"/></e>
+    <e lm="grácie"><i>gráci</i><par n="alergi/e__n"/></e>
+    <e lm="gradace"><i>gradac</i><par n="alergi/e__n"/></e>
+    <e lm="granule"><i>granul</i><par n="alergi/e__n"/></e>
+    <e lm="gratulace"><i>gratulac</i><par n="alergi/e__n"/></e>
+    <e lm="gravitace"><i>gravitac</i><par n="alergi/e__n"/></e>
+    <e lm="gynekologie"><i>gynekologi</i><par n="alergi/e__n"/></e>
+    <e lm="harmonie"><i>harmoni</i><par n="alergi/e__n"/></e>
+    <e lm="havárie"><i>havári</i><par n="alergi/e__n"/></e>
+    <e lm="hegemonie"><i>hegemoni</i><par n="alergi/e__n"/></e>
+    <e lm="hematologie"><i>hematologi</i><par n="alergi/e__n"/></e>
+    <e lm="hierarchie"><i>hierarchi</i><par n="alergi/e__n"/></e>
+    <e lm="historie"><i>histori</i><par n="alergi/e__n"/></e>
+    <e lm="historiografie"><i>historiografi</i><par n="alergi/e__n"/></e>
+    <e lm="homeopatie"><i>homeopati</i><par n="alergi/e__n"/></e>
+    <e lm="homole"><i>homol</i><par n="alergi/e__n"/></e>
+    <e lm="homologace"><i>homologac</i><par n="alergi/e__n"/></e>
+    <e lm="hostie"><i>hosti</i><par n="alergi/e__n"/></e>
+    <e lm="hyperinflace"><i>hyperinflac</i><par n="alergi/e__n"/></e>
+    <e lm="hypertenze"><i>hypertenz</i><par n="alergi/e__n"/></e>
+    <e lm="hypertenze" r="LR"><p><l>hypertens</l><r>hypertenz</r></p><par n="alergi/e__n"/></e>
+    <e lm="hysterie"><i>hysteri</i><par n="alergi/e__n"/></e>
+    <e lm="identifikace"><i>identifikac</i><par n="alergi/e__n"/></e>
+    <e lm="ideologie"><i>ideologi</i><par n="alergi/e__n"/></e>
+    <e lm="ignorance"><i>ignoranc</i><par n="alergi/e__n"/></e>
+    <e lm="ikonografie"><i>ikonografi</i><par n="alergi/e__n"/></e>
+    <e lm="iluminace"><i>iluminac</i><par n="alergi/e__n"/></e>
+    <e lm="ilustrace"><i>ilustrac</i><par n="alergi/e__n"/></e>
+    <e lm="iluze"><i>iluz</i><par n="alergi/e__n"/></e>
+    <e lm="iluze" r="LR"><p><l>ilus</l><r>iluz</r></p><par n="alergi/e__n"/></e>
+    <e lm="imaginace"><i>imaginac</i><par n="alergi/e__n"/></e>
+    <e lm="imigrace"><i>imigrac</i><par n="alergi/e__n"/></e>
+    <e lm="imise"><i>imis</i><par n="alergi/e__n"/></e>
+    <e lm="imise"><i>immiss</i><par n="alergi/e__n"/></e>
+    <e lm="imitace"><i>imitac</i><par n="alergi/e__n"/></e>
+    <e lm="impedance"><i>impedanc</i><par n="alergi/e__n"/></e>
+    <e lm="implantace"><i>implantac</i><par n="alergi/e__n"/></e>
+    <e lm="implementace"><i>implementac</i><par n="alergi/e__n"/></e>
+    <e lm="impotence"><i>impotenc</i><par n="alergi/e__n"/></e>
+    <e lm="imprese"><i>impres</i><par n="alergi/e__n"/></e>
+    <e lm="imunologie"><i>imunologi</i><par n="alergi/e__n"/></e>
+    <e lm="inaugurace"><i>inaugurac</i><par n="alergi/e__n"/></e>
+    <e lm="indicie"><i>indici</i><par n="alergi/e__n"/></e>
+    <e lm="indikace"><i>indikac</i><par n="alergi/e__n"/></e>
+    <e lm="indukce"><i>indukc</i><par n="alergi/e__n"/></e>
+    <e lm="industrie"><i>industri</i><par n="alergi/e__n"/></e>
+    <e lm="infiltrace"><i>infiltrac</i><par n="alergi/e__n"/></e>
+    <e lm="informace"><i>informac</i><par n="alergi/e__n"/></e>
+    <e lm="infúze"><i>infúz</i><par n="alergi/e__n"/></e>
+    <e lm="infúze" r="LR"><p><l>infus</l><r>infúz</r></p><par n="alergi/e__n"/></e>
+    <e lm="infúze" r="LR"><p><l>infuz</l><r>infúz</r></p><par n="alergi/e__n"/></e>
+    <e lm="ingredience"><i>ingredienc</i><par n="alergi/e__n"/></e>
+    <e lm="iniciace"><i>iniciac</i><par n="alergi/e__n"/></e>
+    <e lm="inkarnace"><i>inkarnac</i><par n="alergi/e__n"/></e>
+    <e lm="inovace"><i>inovac</i><par n="alergi/e__n"/></e>
+    <e lm="inscenace"><i>inscenac</i><par n="alergi/e__n"/></e>
+    <e lm="insignie"><i>insigni</i><par n="alergi/e__n"/></e>
+    <e lm="inspekce"><i>inspekc</i><par n="alergi/e__n"/></e>
+    <e lm="inspirace"><i>inspirac</i><par n="alergi/e__n"/></e>
+    <e lm="instalace"><i>instalac</i><par n="alergi/e__n"/></e>
+    <e lm="instance"><i>instanc</i><par n="alergi/e__n"/></e>
+    <e lm="instituce"><i>instituc</i><par n="alergi/e__n"/></e>
+    <e lm="instrukce"><i>instrukc</i><par n="alergi/e__n"/></e>
+    <e lm="instrumentace"><i>instrumentac</i><par n="alergi/e__n"/></e>
+    <e lm="inteligence"><i>inteligenc</i><par n="alergi/e__n"/></e>
+    <e lm="intence"><i>intenc</i><par n="alergi/e__n"/></e>
+    <e lm="intenzifikace"><i>intenzifikac</i><par n="alergi/e__n"/></e>
+    <e lm="interakce"><i>interakc</i><par n="alergi/e__n"/></e>
+    <e lm="interference"><i>interferenc</i><par n="alergi/e__n"/></e>
+    <e lm="internace"><i>internac</i><par n="alergi/e__n"/></e>
+    <e lm="interpelace"><i>interpelac</i><par n="alergi/e__n"/></e>
+    <e lm="interpretace"><i>interpretac</i><par n="alergi/e__n"/></e>
+    <e lm="interpunkce"><i>interpunkc</i><par n="alergi/e__n"/></e>
+    <e lm="intolerance"><i>intoleranc</i><par n="alergi/e__n"/></e>
+    <e lm="intonace"><i>intonac</i><par n="alergi/e__n"/></e>
+    <e lm="invaze"><i>invaz</i><par n="alergi/e__n"/></e>
+    <e lm="invaze" r="LR"><p><l>invas</l><r>invaz</r></p><par n="alergi/e__n"/></e>
+    <e lm="invence"><i>invenc</i><par n="alergi/e__n"/></e>
+    <e lm="inverze"><i>inverz</i><par n="alergi/e__n"/></e>
+    <e lm="inverze" r="LR"><p><l>invers</l><r>inverz</r></p><par n="alergi/e__n"/></e>
+    <e lm="inzerce"><i>inzerc</i><par n="alergi/e__n"/></e>
+    <e lm="inzultace"><i>insultac</i><par n="alergi/e__n"/></e>
+    <e lm="inzultace"><i>inzultac</i><par n="alergi/e__n"/></e>
+    <e lm="izolace"><i>izolac</i><par n="alergi/e__n"/></e>
+    <e lm="jurisdikce"><i>jurisdikc</i><par n="alergi/e__n"/></e>
+    <e lm="kadence"><i>kadenc</i><par n="alergi/e__n"/></e>
+    <e lm="kalibrace"><i>kalibrac</i><par n="alergi/e__n"/></e>
+    <e lm="kaligrafie"><i>kaligrafi</i><par n="alergi/e__n"/></e>
+    <e lm="kalkulace"><i>kalkulac</i><par n="alergi/e__n"/></e>
+    <e lm="kalorie"><i>kalori</i><par n="alergi/e__n"/></e>
+    <e lm="kalvárie"><i>kalvári</i><par n="alergi/e__n"/></e>
+    <e lm="kamélie"><i>kaméli</i><par n="alergi/e__n"/></e>
+    <e lm="kánoe"><i>kano</i><par n="alergi/e__n"/></e>
+    <e lm="kánoe"><i>káno</i><par n="alergi/e__n"/></e>
+    <e lm="kapitulace"><i>kapitulac</i><par n="alergi/e__n"/></e>
+    <e lm="kaple"><i>kapl</i><par n="alergi/e__n"/></e>
+    <e lm="kapsle"><i>kapsl</i><par n="alergi/e__n"/></e>
+    <e lm="kapuce"><i>kapuc</i><par n="alergi/e__n"/></e>
+    <e lm="karosérie"><i>karoséri</i><par n="alergi/e__n"/></e>
+    <e lm="karosérie" r="LR"><p><l>karoseri</l><r>karoséri</r></p><par n="alergi/e__n"/></e>
+    <e lm="kaše"><i>kaš</i><par n="alergi/e__n"/></e>
+    <e lm="kastrace"><i>kastrac</i><par n="alergi/e__n"/></e>
+    <e lm="katarze"><i>katarz</i><par n="alergi/e__n"/></e>
+    <e lm="katarze" r="LR"><p><l>katars</l><r>katarz</r></p><par n="alergi/e__n"/></e>
+    <e lm="kategorie"><i>kategori</i><par n="alergi/e__n"/></e>
+    <e lm="kauce"><i>kauc</i><par n="alergi/e__n"/></e>
+    <e lm="kinematografie"><i>kinematografi</i><par n="alergi/e__n"/></e>
+    <e lm="klasifikace"><i>klasifikac</i><par n="alergi/e__n"/></e>
+    <e lm="klauzule"><i>klauzul</i><par n="alergi/e__n"/></e>
+    <e lm="klauzule" r="LR"><p><l>klausul</l><r>klauzul</r></p><par n="alergi/e__n"/></e>
+    <e lm="kodifikace"><i>kodifikac</i><par n="alergi/e__n"/></e>
+    <e lm="koexistence"><i>koexistenc</i><par n="alergi/e__n"/></e>
+    <e lm="kolaudace"><i>kolaudac</i><par n="alergi/e__n"/></e>
+    <e lm="kolekce"><i>kolekc</i><par n="alergi/e__n"/></e>
+    <e lm="kolize"><i>koliz</i><par n="alergi/e__n"/></e>
+    <e lm="kolize" r="LR"><p><l>kolis</l><r>koliz</r><p><par n="alergi/e__n"/></e>
+    <e lm="kolonie"><i>koloni</i><par n="alergi/e__n"/></e>
+    <e lm="kombinace"><i>kombinac</i><par n="alergi/e__n"/></e>
+    <e lm="komedie"><i>komedi</i><par n="alergi/e__n"/></e>
+    <e lm="komerce"><i>komerc</i><par n="alergi/e__n"/></e>
+    <e lm="komise"><i>komis</i><par n="alergi/e__n"/></e>
+    <e lm="komparace"><i>komparac</i><par n="alergi/e__n"/></e>
+    <e lm="kompenzace"><i>kompenzac</i><par n="alergi/e__n"/></e>
+    <e lm="kompenzace" r="LR"><p><l>kompensac</l><r>kompenzac</r></p><par n="alergi/e__n"/></e>
+    <e lm="kompetence"><i>kompetenc</i><par n="alergi/e__n"/></e>
+    <e lm="kompilace"><i>kompilac</i><par n="alergi/e__n"/></e>
+    <e lm="kompletace"><i>kompletac</i><par n="alergi/e__n"/></e>
+    <e lm="komplikace"><i>komplikac</i><par n="alergi/e__n"/></e>
+    <e lm="komprese"><i>kompres</i><par n="alergi/e__n"/></e>
+    <e lm="komunikace"><i>komunikac</i><par n="alergi/e__n"/></e>
+    <e lm="koncentrace"><i>koncentrac</i><par n="alergi/e__n"/></e>
+    <e lm="koncepce"><i>koncepc</i><par n="alergi/e__n"/></e>
+    <e lm="koncese"><i>konces</i><par n="alergi/e__n"/></e>
+    <e lm="konexe"><i>konex</i><par n="alergi/e__n"/></e>
+    <e lm="konfederace"><i>konfederac</i><par n="alergi/e__n"/></e>
+    <e lm="konfekce"><i>konfekc</i><par n="alergi/e__n"/></e>
+    <e lm="konference"><i>konferenc</i><par n="alergi/e__n"/></e>
+    <e lm="konfese"><i>konfes</i><par n="alergi/e__n"/></e>
+    <e lm="konfigurace"><i>konfigurac</i><par n="alergi/e__n"/></e>
+    <e lm="konfiskace"><i>konfiskac</i><par n="alergi/e__n"/></e>
+    <e lm="konfrontace"><i>konfrontac</i><par n="alergi/e__n"/></e>
+    <e lm="kongregace"><i>kongregac</i><par n="alergi/e__n"/></e>
+    <e lm="konkurence"><i>konkurenc</i><par n="alergi/e__n"/></e>
+    <e lm="konotace"><i>konotac</i><par n="alergi/e__n"/></e>
+    <e lm="konsekvence"><i>konsekvenc</i><par n="alergi/e__n"/></e>
+    <e lm="konsolidace"><i>konsolidac</i><par n="alergi/e__n"/></e>
+    <e lm="konspirace"><i>konspirac</i><par n="alergi/e__n"/></e>
+    <e lm="konstelace"><i>konstelac</i><par n="alergi/e__n"/></e>
+    <e lm="konstituce"><i>konstituc</i><par n="alergi/e__n"/></e>
+    <e lm="konstrukce"><i>konstrukc</i><par n="alergi/e__n"/></e>
+    <e lm="kontaminace"><i>kontaminac</i><par n="alergi/e__n"/></e>
+    <e lm="kontemplace"><i>kontemplac</i><par n="alergi/e__n"/></e>
+    <e lm="kontraindikace"><i>kontraindikac</i><par n="alergi/e__n"/></e>
+    <e lm="kontrarevoluce"><i>kontrarevoluc</i><par n="alergi/e__n"/></e>
+    <e lm="kontroverze"><i>kontroverz</i><par n="alergi/e__n"/></e>
+    <e lm="kontroverze" r="LR"><p><l>kontrovers</l><r>kontroverz</r></p><par n="alergi/e__n"/></e>
+    <e lm="kontumace"><i>kontumac</i><par n="alergi/e__n"/></e>
+    <e lm="konvence"><i>konvenc</i><par n="alergi/e__n"/></e>
+    <e lm="konvergence"><i>konvergenc</i><par n="alergi/e__n"/></e>
+    <e lm="konverzace"><i>konverzac</i><par n="alergi/e__n"/></e>
+    <e lm="konverzace" r="LR"><p><l>konversac</l><r>konverzac</r></p><par n="alergi/e__n"/></e>
+    <e lm="konzervace"><i>konservac</i><par n="alergi/e__n"/></e>
+    <e lm="konzervace"><i>konzervac</i><par n="alergi/e__n"/></e>
+    <e lm="konzistence"><i>konzistenc</i><par n="alergi/e__n"/></e>
+    <e lm="konzole"><i>konzol</i><par n="alergi/e__n"/></e>
+    <e lm="konzultace"><i>konzultac</i><par n="alergi/e__n"/></e>
+    <e lm="konzumace"><i>konsumac</i><par n="alergi/e__n"/></e>
+    <e lm="konzumace"><i>konzumac</i><par n="alergi/e__n"/></e>
+    <e lm="kooperace"><i>kooperac</i><par n="alergi/e__n"/></e>
+    <e lm="koordinace"><i>koordinac</i><par n="alergi/e__n"/></e>
+    <e lm="kopie"><i>kopi</i><par n="alergi/e__n"/></e>
+    <e lm="koprodukce"><i>koprodukc</i><par n="alergi/e__n"/></e>
+    <e lm="kopule"><i>kopul</i><par n="alergi/e__n"/></e>
+    <e lm="korekce"><i>korekc</i><par n="alergi/e__n"/></e>
+    <e lm="korelace"><i>korelac</i><par n="alergi/e__n"/></e>
+    <e lm="koroze"><i>koroz</i><par n="alergi/e__n"/></e>
+    <e lm="koroze" r="LR"><p><l>koros</l><r>koroz</r></p><par n="alergi/e__n"/></e>
+    <e lm="korporace"><i>korporac</i><par n="alergi/e__n"/></e>
+    <e lm="korunovace"><i>korunovac</i><par n="alergi/e__n"/></e>
+    <e lm="korupce"><i>korupc</i><par n="alergi/e__n"/></e>
+    <e lm="košile"><i>košil</i><par n="alergi/e__n"/></e>
+    <e lm="kosmologie"><i>kosmologi</i><par n="alergi/e__n"/></e>
+    <e lm="kotace"><i>kotac</i><par n="alergi/e__n"/></e>
+    <e lm="koule"><i>koul</i><par n="alergi/e__n"/></e>
+    <e lm="kóje"><i>kój</i><par n="alergi/e__n"/></e>
+    <e lm="kratochvíle"><i>kratochvíl</i><par n="alergi/e__n"/></e>
+    <e lm="kreace"><i>kreac</i><par n="alergi/e__n"/></e>
+    <e lm="kremace"><i>kremac</i><par n="alergi/e__n"/></e>
+    <e lm="krimikomedie"><i>krimikomedi</i><par n="alergi/e__n"/></e>
+    <e lm="krize"><i>kriz</i><par n="alergi/e__n"/></e>
+    <e lm="krize" r="LR"><p><l>kris</l><r>kriz</r></p><par n="alergi/e__n"/></e>
+    <e lm="kule"><i>kul</i><par n="alergi/e__n"/></e>
+    <e lm="kultivace"><i>kultivac</i><par n="alergi/e__n"/></e>
+    <e lm="kumulace"><i>kumulac</i><par n="alergi/e__n"/></e>
+    <e lm="kupole"><i>kupol</i><par n="alergi/e__n"/></e>
+    <e lm="kurie"><i>kuri</i><par n="alergi/e__n"/></e>
+    <e lm="kuše"><i>kuš</i><par n="alergi/e__n"/></e>
+    <e lm="kůže"><i>kůž</i><par n="alergi/e__n"/></e>
+    <e lm="kvalifikace"><i>kvalifikac</i><par n="alergi/e__n"/></e>
+    <e lm="kvantifikace"><i>kvantifikac</i><par n="alergi/e__n"/></e>
+    <e lm="láce"><i>lác</i><par n="alergi/e__n"/></e>
+    <e lm="lapálie"><i>lapáli</i><par n="alergi/e__n"/></e>
+    <e lm="legie"><i>legi</i><par n="alergi/e__n"/></e>
+    <e lm="legitimace"><i>legitimac</i><par n="alergi/e__n"/></e>
+    <e lm="legrace"><i>legrac</i><par n="alergi/e__n"/></e>
+    <e lm="lekce"><i>lekc</i><par n="alergi/e__n"/></e>
+    <e lm="letargie"><i>letargi</i><par n="alergi/e__n"/></e>
+    <e lm="leukémie"><i>leukémi</i><par n="alergi/e__n"/></e>
+    <e lm="leukémie" r="LR"><p><l>leukemi</l><r>leukémi</r></p><par n="alergi/e__n"/></e>
+    <e lm="levandule"><i>levandul</i><par n="alergi/e__n"/></e>
+    <e lm="libovůle"><i>libovůl</i><par n="alergi/e__n"/></e>
+    <e lm="licence"><i>licenc</i><par n="alergi/e__n"/></e>
+    <e lm="licitace"><i>licitac</i><par n="alergi/e__n"/></e>
+    <e lm="likvidace"><i>likvidac</i><par n="alergi/e__n"/></e>
+    <e lm="lilie"><i>lili</i><par n="alergi/e__n"/></e>
+    <e lm="linie"><i>lini</i><par n="alergi/e__n"/></e>
+    <e lm="litografie"><i>litografi</i><par n="alergi/e__n"/></e>
+    <e lm="liturgie"><i>liturgi</i><par n="alergi/e__n"/></e>
+    <e lm="lodžie"><i>lodži</i><par n="alergi/e__n"/></e>
+    <e lm="loterie"><i>loteri</i><par n="alergi/e__n"/></e>
+    <e lm="louže"><i>louž</i><par n="alergi/e__n"/></e>
+    <e lm="lóže"><i>lóž</i><par n="alergi/e__n"/></e>
+    <e lm="lustrace"><i>lustrac</i><par n="alergi/e__n"/></e>
+    <e lm="lyže"><i>lyž</i><par n="alergi/e__n"/></e>
+    <e lm="lžíce"><i>lžíc</i><par n="alergi/e__n"/></e>
+    <e lm="machinace"><i>machinac</i><par n="alergi/e__n"/></e>
+    <e lm="mafie"><i>mafi</i><par n="alergi/e__n"/></e>
+    <e lm="magie"><i>magi</i><par n="alergi/e__n"/></e>
+    <e lm="máje"><i>máj</i><par n="alergi/e__n"/></e>
+    <e lm="malárie"><i>malári</i><par n="alergi/e__n"/></e>
+    <e lm="mandle"><i>mandl</i><par n="alergi/e__n"/></e>
+    <e lm="mánie"><i>máni</i><par n="alergi/e__n"/></e>
+    <e lm="manifestace"><i>manifestac</i><par n="alergi/e__n"/></e>
+    <e lm="manipulace"><i>manipulac</i><par n="alergi/e__n"/></e>
+    <e lm="marže"><i>marž</i><par n="alergi/e__n"/></e>
+    <e lm="mašinérie"><i>mašinéri</i><par n="alergi/e__n"/></e>
+    <e lm="mašinérie" r="LR"><p><l>mašineri</l><r>mašinéri</r></p><par n="alergi/e__n"/></e>
+    <e lm="mašle"><i>mašl</i><par n="alergi/e__n"/></e>
+    <e lm="materie"><i>materi</i><par n="alergi/e__n"/></e>
+    <e lm="matrace"><i>matrac</i><par n="alergi/e__n"/></e>
+    <e lm="medaile"><i>medail</i><par n="alergi/e__n"/></e>
+    <e lm="meditace"><i>meditac</i><par n="alergi/e__n"/></e>
+    <e lm="melancholie"><i>melancholi</i><par n="alergi/e__n"/></e>
+    <e lm="melodie"><i>melodi</i><par n="alergi/e__n"/></e>
+    <e lm="menstruace"><i>menstruac</i><par n="alergi/e__n"/></e>
+    <e lm="metalurgie"><i>metalurgi</i><par n="alergi/e__n"/></e>
+    <e lm="metodologie"><i>metodologi</i><par n="alergi/e__n"/></e>
+    <e lm="metrologie"><i>metrologi</i><par n="alergi/e__n"/></e>
+    <e lm="metropole"><i>metropol</i><par n="alergi/e__n"/></e>
+    <e lm="mezopotámie"><i>mezopotámi</i><par n="alergi/e__n"/></e>
+    <e lm="migrace"><i>migrac</i><par n="alergi/e__n"/></e>
+    <e lm="mince"><i>minc</i><par n="alergi/e__n"/></e>
+    <e lm="mineralogie"><i>mineralogi</i><par n="alergi/e__n"/></e>
+    <e lm="minigalerie"><i>minigaleri</i><par n="alergi/e__n"/></e>
+    <e lm="mise"><i>mis</i><par n="alergi/e__n"/></e>
+    <e lm="misie"><i>misi</i><par n="alergi/e__n"/></e>
+    <e lm="mitochondrie"><i>mitochondri</i><par n="alergi/e__n"/></e>
+    <e lm="mizérie"><i>mizéri</i><par n="alergi/e__n"/></e>
+    <e lm="modelace"><i>modelac</i><par n="alergi/e__n"/></e>
+    <e lm="modifikace"><i>modifikac</i><par n="alergi/e__n"/></e>
+    <e lm="modulace"><i>modulac</i><par n="alergi/e__n"/></e>
+    <e lm="monarchie"><i>monarchi</i><par n="alergi/e__n"/></e>
+    <e lm="monografie"><i>monografi</i><par n="alergi/e__n"/></e>
+    <e lm="monstrance"><i>monstranc</i><par n="alergi/e__n"/></e>
+    <e lm="morfologie"><i>morfologi</i><par n="alergi/e__n"/></e>
+    <e lm="motivace"><i>motivac</i><par n="alergi/e__n"/></e>
+    <e lm="mše"><i>mš</i><par n="alergi/e__n"/></e>
+    <e lm="mumie"><i>mumi</i><par n="alergi/e__n"/></e>
+    <e lm="mušle"><i>mušl</i><par n="alergi/e__n"/></e>
+    <e lm="mutace"><i>mutac</i><par n="alergi/e__n"/></e>
+    <e lm="mystifikace"><i>mystifikac</i><par n="alergi/e__n"/></e>
+    <e lm="mytologie"><i>mytologi</i><par n="alergi/e__n"/></e>
+    <e lm="nadace"><i>nadac</i><par n="alergi/e__n"/></e>
+    <e lm="nadprodukce"><i>nadprodukc</i><par n="alergi/e__n"/></e>
+    <e lm="narkomafie"><i>narkomafi</i><par n="alergi/e__n"/></e>
+    <e lm="narkomanie"><i>narkomani</i><par n="alergi/e__n"/></e>
+    <e lm="navigace"><i>navigac</i><par n="alergi/e__n"/></e>
+    <e lm="neexistence"><i>neexistenc</i><par n="alergi/e__n"/></e>
+    <e lm="negace"><i>negac</i><par n="alergi/e__n"/></e>
+    <e lm="netolerance"><i>netoleranc</i><par n="alergi/e__n"/></e>
+    <e lm="nevole"><i>nevol</i><par n="alergi/e__n"/></e>
+    <e lm="nevůle"><i>nevůl</i><par n="alergi/e__n"/></e>
+    <e lm="nivelizace"><i>nivelizac</i><par n="alergi/e__n"/></e>
+    <e lm="nivelizace" r="LR"><p><l>nivelisac</l><r>nivelizac</r></p><par n="alergi/e__n"/></e>
+    <e lm="nominace"><i>nominac</i><par n="alergi/e__n"/></e>
+    <e lm="nostalgie"><i>nostalgi</i><par n="alergi/e__n"/></e>
+    <e lm="nouze"><i>nouz</i><par n="alergi/e__n"/></e>
+    <e lm="nuance"><i>nuanc</i><par n="alergi/e__n"/></e>
+    <e lm="nudle"><i>nudl</i><par n="alergi/e__n"/></e>
+    <e lm="nůše"><i>nůš</i><par n="alergi/e__n"/></e>
+    <e lm="obligace"><i>obligac</i><par n="alergi/e__n"/></e>
+    <e lm="obsese"><i>obses</i><par n="alergi/e__n"/></e>
+    <e lm="obstrukce"><i>obstrukc</i><par n="alergi/e__n"/></e>
+    <e lm="okupace"><i>okupac</i><par n="alergi/e__n"/></e>
+    <e lm="onkologie"><i>onkologi</i><par n="alergi/e__n"/></e>
+    <e lm="ontologie"><i>ontologi</i><par n="alergi/e__n"/></e>
+    <e lm="opce"><i>opc</i><par n="alergi/e__n"/></e>
+    <e lm="operace"><i>operac</i><par n="alergi/e__n"/></e>
+    <e lm="ordinace"><i>ordinac</i><par n="alergi/e__n"/></e>
+    <e lm="orgie"><i>orgi</i><par n="alergi/e__n"/></e>
+    <e lm="orientace"><i>orientac</i><par n="alergi/e__n"/></e>
+    <e lm="ortodoxie"><i>ortodoxi</i><par n="alergi/e__n"/></e>
+    <e lm="ortopedie"><i>ortopedi</i><par n="alergi/e__n"/></e>
+    <e lm="ortopedie" r="LR"><p><l>orthopedi</l><r>ortopedi</r></p><par n="alergi/e__n"/></e>
+    <e lm="oscilace"><i>oscilac</i><par n="alergi/e__n"/></e>
+    <e lm="ovace"><i>ovac</i><par n="alergi/e__n"/></e>
+    <e lm="ovce"><i>ovc</i><par n="alergi/e__n"/></e>
+    <e lm="oxidace"><i>oxidac</i><par n="alergi/e__n"/></e>
+    <e lm="oxidace" r="LR"><p><l>oxydac</l><r>oxidac</r></p><par n="alergi/e__n"/></e>
+    <e lm="parafráze"><i>parafráz</i><par n="alergi/e__n"/></e>
+    <e lm="parodie"><i>parodi</i><par n="alergi/e__n"/></e>
+    <e lm="participace"><i>participac</i><par n="alergi/e__n"/></e>
+    <e lm="partie"><i>parti</i><par n="alergi/e__n"/></e>
+    <e lm="patálie"><i>patáli</i><par n="alergi/e__n"/></e>
+    <e lm="patronace"><i>patronac</i><par n="alergi/e__n"/></e>
+    <e lm="paže"><i>paž</i><par n="alergi/e__n"/></e>
+    <e lm="péče"><i>péč</i><par n="alergi/e__n"/></e>
+    <e lm="pelargonie"><i>pelargoni</i><par n="alergi/e__n"/></e>
+    <e lm="pence"><i>penc</i><par n="alergi/e__n"/></e>
+    <e lm="penze"><i>penz</i><par n="alergi/e__n"/></e>
+    <e lm="penze" r="LR"><p><l>pens</l><r>penz</r></p><par n="alergi/e__n"/></e>
+    <e lm="perforace"><i>perforac</i><par n="alergi/e__n"/></e>
+    <e lm="performance"><i>performanc</i><par n="alergi/e__n"/></e>
+    <e lm="periferie"><i>periferi</i><par n="alergi/e__n"/></e>
+    <e lm="periférie" r="LR"><p><l>periféri</l><r>periferi</r></p><par n="alergi/e__n"/></e>
+    <e lm="peripetie"><i>peripeti</i><par n="alergi/e__n"/></e>
+    <e lm="personifikace"><i>personifikac</i><par n="alergi/e__n"/></e>
+    <e lm="perzekuce"><i>perzekuc</i><par n="alergi/e__n"/></e>
+    <e lm="petrochemie"><i>petrochemi</i><par n="alergi/e__n"/></e>
+    <e lm="píle"><i>píl</i><par n="alergi/e__n"/></e>
+    <e lm="pistole"><i>pistol</i><par n="alergi/e__n"/></e>
+    <e lm="pizzerie"><i>pizzeri</i><par n="alergi/e__n"/></e>
+    <e lm="plynofikace"><i>plynofikac</i><par n="alergi/e__n"/></e>
+    <e lm="poezie"><i>poezi</i><par n="alergi/e__n"/></e>
+    <e lm="policie"><i>polici</i><par n="alergi/e__n"/></e>
+    <e lm="politologie"><i>politologi</i><par n="alergi/e__n"/></e>
+    <e lm="polokoule"><i>polokoul</i><par n="alergi/e__n"/></e>
+    <e lm="polopenze"><i>polopenz</i><par n="alergi/e__n"/></e>
+    <e lm="polopenze" r="LR"><p><l>polopens</l><r>polopenz</r></p><par n="alergi/e__n"/></e>
+    <e lm="populace"><i>populac</i><par n="alergi/e__n"/></e>
+    <e lm="porce"><i>porc</i><par n="alergi/e__n"/></e>
+    <e lm="potence"><i>potenc</i><par n="alergi/e__n"/></e>
+    <e lm="praxe"><i>prax</i><par n="alergi/e__n"/></e>
+    <e lm="preambule"><i>preambul</i><par n="alergi/e__n"/></e>
+    <e lm="predikce"><i>predikc</i><par n="alergi/e__n"/></e>
+    <e lm="preference"><i>preferenc</i><par n="alergi/e__n"/></e>
+    <e lm="prehistorie"><i>prehistori</i><par n="alergi/e__n"/></e>
+    <e lm="prémie"><i>prémi</i><par n="alergi/e__n"/></e>
+    <e lm="prérie"><i>préri</i><par n="alergi/e__n"/></e>
+    <e lm="presumpce"><i>presumpc</i><par n="alergi/e__n"/></e>
+    <e lm="prevence"><i>prevenc</i><par n="alergi/e__n"/></e>
+    <e lm="prezentace"><i>prezentac</i><par n="alergi/e__n"/></e>
+    <e lm="příze"><i>příz</i><par n="alergi/e__n"/></e>
+    <e lm="produkce"><i>produkc</i><par n="alergi/e__n"/></e>
+    <e lm="profilace"><i>profilac</i><par n="alergi/e__n"/></e>
+    <e lm="projekce"><i>projekc</i><par n="alergi/e__n"/></e>
+    <e lm="proklamace"><i>proklamac</i><par n="alergi/e__n"/></e>
+    <e lm="promoce"><i>promoc</i><par n="alergi/e__n"/></e>
+    <e lm="propagace"><i>propagac</i><par n="alergi/e__n"/></e>
+    <e lm="proporce"><i>proporc</i><par n="alergi/e__n"/></e>
+    <e lm="prostituce"><i>prostituc</i><par n="alergi/e__n"/></e>
+    <e lm="protekce"><i>protekc</i><par n="alergi/e__n"/></e>
+    <e lm="protiakce"><i>protiakc</i><par n="alergi/e__n"/></e>
+    <e lm="protireformace"><i>protireformac</i><par n="alergi/e__n"/></e>
+    <e lm="provenience"><i>provenienc</i><par n="alergi/e__n"/></e>
+    <e lm="provincie"><i>provinci</i><par n="alergi/e__n"/></e>
+    <e lm="provize"><i>proviz</i><par n="alergi/e__n"/></e>
+    <e lm="provize" r="LR"><p><l>provis</l><r>proviz</r></p><par n="alergi/e__n"/></e>
+    <e lm="provokace"><i>provokac</i><par n="alergi/e__n"/></e>
+    <e lm="psychoterapie"><i>psychoterapi</i><par n="alergi/e__n"/></e>
+    <e lm="publikace"><i>publikac</i><par n="alergi/e__n"/></e>
+    <e lm="půle"><i>půl</i><par n="alergi/e__n"/></e>
+    <e lm="rachejtle"><i>rachejtl</i><par n="alergi/e__n"/></e>
+    <e lm="radiace"><i>radiac</i><par n="alergi/e__n"/></e>
+    <e lm="radiokomunikace"><i>radiokomunikac</i><par n="alergi/e__n"/></e>
+    <e lm="radioterapie"><i>radioterapi</i><par n="alergi/e__n"/></e>
+    <e lm="rapsódie"><i>rapsódi</i><par n="alergi/e__n"/></e>
+    <e lm="rapsódie" r="LR"><p><l>rapsodi</l><r>rapsódi</r></p><par n="alergi/e__n"/></e>
+    <e lm="razance"><i>razanc</i><par n="alergi/e__n"/></e>
+    <e lm="razance" r="LR"><p><l>rasanc</l><r>rezanc</r></p><par n="alergi/e__n"/></e>
+    <e lm="ráže"><i>ráž</i><par n="alergi/e__n"/></e>
+    <e lm="razie"><i>razi</i><par n="alergi/e__n"/></e>
+    <e lm="reakce"><i>reakc</i><par n="alergi/e__n"/></e>
+    <e lm="reálie"><i>reáli</i><par n="alergi/e__n"/></e>
+    <e lm="recenze"><i>recenz</i><par n="alergi/e__n"/></e>
+    <e lm="recenze" r="LR"><p><l>recens</l><r>recenz</r></p><par n="alergi/e__n"/></e>
+    <e lm="recepce"><i>recepc</i><par n="alergi/e__n"/></e>
+    <e lm="recese"><i>reces</i><par n="alergi/e__n"/></e>
+    <e lm="recitace"><i>recitac</i><par n="alergi/e__n"/></e>
+    <e lm="recyklace"><i>recyklac</i><par n="alergi/e__n"/></e>
+    <e lm="redakce"><i>redakc</i><par n="alergi/e__n"/></e>
+    <e lm="redistribuce"><i>redistribuc</i><par n="alergi/e__n"/></e>
+    <e lm="redukce"><i>redukc</i><par n="alergi/e__n"/></e>
+    <e lm="reference"><i>referenc</i><par n="alergi/e__n"/></e>
+    <e lm="reflexe"><i>reflex</i><par n="alergi/e__n"/></e>
+    <e lm="reformace"><i>reformac</i><par n="alergi/e__n"/></e>
+    <e lm="regenerace"><i>regenerac</i><par n="alergi/e__n"/></e>
+    <e lm="registrace"><i>registrac</i><par n="alergi/e__n"/></e>
+    <e lm="regrese"><i>regres</i><par n="alergi/e__n"/></e>
+    <e lm="regulace"><i>regulac</i><par n="alergi/e__n"/></e>
+    <e lm="regule"><i>regul</i><par n="alergi/e__n"/></e>
+    <e lm="rehabilitace"><i>rehabilitac</i><par n="alergi/e__n"/></e>
+    <e lm="řehole"><i>řehol</i><par n="alergi/e__n"/></e>
+    <e lm="reinkarnace"><i>reinkarnac</i><par n="alergi/e__n"/></e>
+    <e lm="rekapitulace"><i>rekapitulac</i><par n="alergi/e__n"/></e>
+    <e lm="reklamace"><i>reklamac</i><par n="alergi/e__n"/></e>
+    <e lm="rekonvalescence"><i>rekonvalescenc</i><par n="alergi/e__n"/></e>
+    <e lm="rekreace"><i>rekreac</i><par n="alergi/e__n"/></e>
+    <e lm="rekultivovat"><i>rekultivac</i><par n="alergi/e__n"/></e>
+    <e lm="rekvalifikace"><i>rekvalifikac</i><par n="alergi/e__n"/></e>
+    <e lm="relaxace"><i>relaxac</i><par n="alergi/e__n"/></e>
+    <e lm="relikvie"><i>relikvi</i><par n="alergi/e__n"/></e>
+    <e lm="reminiscence"><i>reminiscenc</i><par n="alergi/e__n"/></e>
+    <e lm="renezance"><i>renezanc</i><par n="alergi/e__n"/></e>
+    <e lm="renezance" r="LR"><p><l>renesanc</l><r>renezanc</r></p><par n="alergi/e__n"/></e>
+    <e lm="renovace"><i>renovac</i><par n="alergi/e__n"/></e>
+    <e lm="reparace"><i>reparac</i><par n="alergi/e__n"/></e>
+    <e lm="repatriace"><i>repatriac</i><par n="alergi/e__n"/></e>
+    <e lm="represe"><i>repres</i><par n="alergi/e__n"/></e>
+    <e lm="reprezentace"><i>reprezentac</i><par n="alergi/e__n"/></e>
+    <e lm="reprodukce"><i>reprodukc</i><par n="alergi/e__n"/></e>
+    <e lm="reputace"><i>reputac</i><par n="alergi/e__n"/></e>
+    <e lm="restaurace"><i>restaurac</i><par n="alergi/e__n"/></e>
+    <e lm="restituce"><i>restituc</i><par n="alergi/e__n"/></e>
+    <e lm="restrikce"><i>restrikc</i><par n="alergi/e__n"/></e>
+    <e lm="resuscitace"><i>resuscitac</i><par n="alergi/e__n"/></e>
+    <e lm="revalvace"><i>revalvac</i><par n="alergi/e__n"/></e>
+    <e lm="revize"><i>reviz</i><par n="alergi/e__n"/></e>
+    <e lm="revize" r="LR"><p><l>revis</l><r>reviz</r></p><par n="alergi/e__n"/></e>
+    <e lm="revoluce"><i>revoluc</i><par n="alergi/e__n"/></e>
+    <e lm="revue"><i>revu</i><par n="alergi/e__n"/></e>
+    <e lm="rezervace"><i>rezervac</i><par n="alergi/e__n"/></e>
+    <e lm="rezidence"><i>residenc</i><par n="alergi/e__n"/></e>
+    <e lm="rezidence"><i>rezidenc</i><par n="alergi/e__n"/></e>
+    <e lm="režie"><i>reži</i><par n="alergi/e__n"/></e>
+    <e lm="rezistence"><i>resistenc</i><par n="alergi/e__n"/></e>
+    <e lm="rezistence"><i>rezistenc</i><par n="alergi/e__n"/></e>
+    <e lm="rezoluce"><i>resoluc</i><par n="alergi/e__n"/></e>
+    <e lm="rezoluce"><i>rezoluc</i><par n="alergi/e__n"/></e>
+    <e lm="rezonance"><i>rezonanc</i><par n="alergi/e__n"/></e>
+    <e lm="rifle"><i>rifl</i><par n="alergi/e__n"/></e>
+    <e lm="říje"><i>říj</i><par n="alergi/e__n"/></e>
+    <e lm="říše"><i>říš</i><par n="alergi/e__n"/></e>
+    <e lm="rokle"><i>rokl</i><par n="alergi/e__n"/></e>
+    <e lm="romance"><i>romanc</i><par n="alergi/e__n"/></e>
+    <e lm="rotace"><i>rotac</i><par n="alergi/e__n"/></e>
+    <e lm="rozepře"><i>rozepř</i><par n="alergi/e__n"/></e>
+    <e lm="rupie"><i>rupi</i><par n="alergi/e__n"/></e>
+    <e lm="rýže"><i>rýž</i><par n="alergi/e__n"/></e>
+    <e lm="sanace"><i>sanac</i><par n="alergi/e__n"/></e>
+    <e lm="šance"><i>šanc</i><par n="alergi/e__n"/></e>
+    <e lm="sankce"><i>sankc</i><par n="alergi/e__n"/></e>
+    <e lm="šarže"><i>šarž</i><par n="alergi/e__n"/></e>
+    <e lm="satisfakce"><i>satisfakc</i><par n="alergi/e__n"/></e>
+    <e lm="šavle"><i>šavl</i><par n="alergi/e__n"/></e>
+    <e lm="saze"><i>saz</i><par n="alergi/e__n"/></e>
+    <e lm="scenérie"><i>scenéri</i><par n="alergi/e__n"/></e>
+    <e lm="scénografie"><i>scénografi</i><par n="alergi/e__n"/></e>
+    <e lm="schůze"><i>schůz</i><par n="alergi/e__n"/></e>
+    <e lm="seance"><i>seanc</i><par n="alergi/e__n"/></e>
+    <e lm="sebeironie"><i>sebeironi</i><par n="alergi/e__n"/></e>
+    <e lm="sebereflexe"><i>sebereflex</i><par n="alergi/e__n"/></e>
+    <e lm="secese"><i>seces</i><par n="alergi/e__n"/></e>
+    <e lm="segregace"><i>segregac</i><par n="alergi/e__n"/></e>
+    <e lm="sekce"><i>sekc</i><par n="alergi/e__n"/></e>
+    <e lm="sekrece"><i>sekrec</i><par n="alergi/e__n"/></e>
+    <e lm="sekvence"><i>sekvenc</i><par n="alergi/e__n"/></e>
+    <e lm="selekce"><i>selekc</i><par n="alergi/e__n"/></e>
+    <e lm="sentence"><i>sentenc</i><par n="alergi/e__n"/></e>
+    <e lm="senzace"><i>senzac</i><par n="alergi/e__n"/></e>
+    <e lm="separace"><i>separac</i><par n="alergi/e__n"/></e>
+    <e lm="série"><i>seri</i><par n="alergi/e__n"/></e>
+    <e lm="série"><i>séri</i><par n="alergi/e__n"/></e>
+    <e lm="serigrafie"><i>serigrafi</i><par n="alergi/e__n"/></e>
+    <e lm="skartace"><i>skartac</i><par n="alergi/e__n"/></e>
+    <e lm="škatule"><i>škatul</i><par n="alergi/e__n"/></e>
+    <e lm="škeble"><i>škebl</i><par n="alergi/e__n"/></e>
+    <e lm="skepse"><i>skeps</i><par n="alergi/e__n"/></e>
+    <e lm="šle"><i>šl</i><par n="alergi/e__n"/></e>
+    <e lm="sociologie"><i>sociologi</i><par n="alergi/e__n"/></e>
+    <e lm="specifikace"><i>specifikac</i><par n="alergi/e__n"/></e>
+    <e lm="špejle"><i>špejl</i><par n="alergi/e__n"/></e>
+    <e lm="spekulace"><i>spekulac</i><par n="alergi/e__n"/></e>
+    <e lm="štace"><i>štac</i><par n="alergi/e__n"/></e>
+    <e lm="stagnace"><i>stagnac</i><par n="alergi/e__n"/></e>
+    <e lm="stimulace"><i>stimulac</i><par n="alergi/e__n"/></e>
+    <e lm="strategie"><i>strategi</i><par n="alergi/e__n"/></e>
+    <e lm="studie"><i>studi</i><par n="alergi/e__n"/></e>
+    <e lm="substance"><i>substanc</i><par n="alergi/e__n"/></e>
+    <e lm="substituce"><i>substituc</i><par n="alergi/e__n"/></e>
+    <e lm="sugesce"><i>sugesc</i><par n="alergi/e__n"/></e>
+    <e lm="superdivize"><i>superdiviz</i><par n="alergi/e__n"/></e>
+    <e lm="supervize"><i>superviz</i><par n="alergi/e__n"/></e>
+    <e lm="suspendovat"><i>suspens</i><par n="alergi/e__n"/></e>
+    <e lm="suspenze"><i>suspenz</i><par n="alergi/e__n"/></e>
+    <e lm="svévole"><i>svévol</i><par n="alergi/e__n"/></e>
+    <e lm="svíce"><i>svíc</i><par n="alergi/e__n"/></e>
+    <e lm="symetrie"><i>symetri</i><par n="alergi/e__n"/></e>
+    <e lm="symfonie"><i>symfoni</i><par n="alergi/e__n"/></e>
+    <e lm="sympatie"><i>sympati</i><par n="alergi/e__n"/></e>
+    <e lm="tabule"><i>tabul</i><par n="alergi/e__n"/></e>
+    <e lm="tapisérie"><i>tapiséri</i><par n="alergi/e__n"/></e>
+    <e lm="tapisérie" r="LR"><p><l>tapiseri</l><r>tapiséri</r></p><par n="alergi/e__n"/></e>
+    <e lm="technologie"><i>technologi</i><par n="alergi/e__n"/></e>
+    <e lm="telekomunikace"><i>telekomunikac</i><par n="alergi/e__n"/></e>
+    <e lm="televize"><i>televiz</i><par n="alergi/e__n"/></e>
+    <e lm="televize" r="LR"><p><l>televis</l><r>televiz</r></p><par n="alergi/e__n"/></e>
+    <e lm="tendence"><i>tendenc</i><par n="alergi/e__n"/></e>
+    <e lm="tenze"><i>tenz</i><par n="alergi/e__n"/></e>
+    <e lm="teorie"><i>teori</i><par n="alergi/e__n"/></e>
+    <e lm="teorie"><i>theori</i><par n="alergi/e__n"/></e>
+    <e lm="terapie"><i>terapi</i><par n="alergi/e__n"/></e>
+    <e lm="terminologie"><i>terminologi</i><par n="alergi/e__n"/></e>
+    <e lm="textilie"><i>textili</i><par n="alergi/e__n"/></e>
+    <e lm="tolerance"><i>toleranc</i><par n="alergi/e__n"/></e>
+    <e lm="tomografie"><i>tomografi</i><par n="alergi/e__n"/></e>
+    <e lm="topografie"><i>topografi</i><par n="alergi/e__n"/></e>
+    <e lm="topologie"><i>topologi</i><par n="alergi/e__n"/></e>
+    <e lm="toxikománie"><i>toxikománi</i><par n="alergi/e__n"/></e>
+    <e lm="toxikománie" r="LR"><p><l>toxikomani</l><r>toxikománi</r></p><par n="alergi/e__n"/></e>
+    <e lm="tragedie"><i>tragedi</i><par n="alergi/e__n"/></e>
+    <e lm="tragedie" r="LR"><p><l>tragédi</l><r>tragedi</r></p><par n="alergi/e__n"/></e>
+    <e lm="tragikomedie"><i>tragikomedi</i><par n="alergi/e__n"/></e>
+    <e lm="trakce"><i>trakc</i><par n="alergi/e__n"/></e>
+    <e lm="transakce"><i>transakc</i><par n="alergi/e__n"/></e>
+    <e lm="transcendence"><i>transcendenc</i><par n="alergi/e__n"/></e>
+    <e lm="tranše"><i>tranš</i><par n="alergi/e__n"/></e>
+    <e lm="transformace"><i>transformac</i><par n="alergi/e__n"/></e>
+    <e lm="transfúze"><i>transfúz</i><par n="alergi/e__n"/></e>
+    <e lm="transfúze" r="LR"><p><l>transfuz</l><r>transfúz</r></p><par n="alergi/e__n"/></e>
+    <e lm="transkripce"><i>transkripc</i><par n="alergi/e__n"/></e>
+    <e lm="transplantace"><i>transplantac</i><par n="alergi/e__n"/></e>
+    <e lm="trilogie"><i>trilogi</i><par n="alergi/e__n"/></e>
+    <e lm="turbulence"><i>turbulenc</i><par n="alergi/e__n"/></e>
+    <e lm="typografie"><i>typografi</i><par n="alergi/e__n"/></e>
+    <e lm="typologie"><i>typologi</i><par n="alergi/e__n"/></e>
+    <e lm="tyranie"><i>tyrani</i><par n="alergi/e__n"/></e>
+    <e lm="ubikace"><i>ubikac</i><par n="alergi/e__n"/></e>
+    <e lm="unce"><i>unc</i><par n="alergi/e__n"/></e>
+    <e lm="unie"><i>uni</i><par n="alergi/e__n"/></e>
+    <e lm="unifikace"><i>unifikac</i><par n="alergi/e__n"/></e>
+    <e lm="urgence"><i>urgenc</i><par n="alergi/e__n"/></e>
+    <e lm="utopie"><i>utopi</i><par n="alergi/e__n"/></e>
+    <e lm="vakcinace"><i>vakcinac</i><par n="alergi/e__n"/></e>
+    <e lm="variace"><i>variac</i><par n="alergi/e__n"/></e>
+    <e lm="večeře"><i>večeř</i><par n="alergi/e__n"/></e>
+    <e lm="vegetace"><i>vegetac</i><par n="alergi/e__n"/></e>
+    <e lm="vehemence"><i>vehemenc</i><par n="alergi/e__n"/></e>
+    <e lm="ventilace"><i>ventilac</i><par n="alergi/e__n"/></e>
+    <e lm="verze"><i>verz</i><par n="alergi/e__n"/></e>
+    <e lm="verze" r="LR"><p><l>vers</l><r>verz</r></p><par n="alergi/e__n"/></e>
+    <e lm="vibrace"><i>vibrac</i><par n="alergi/e__n"/></e>
+    <e lm="videokonference"><i>videokonferenc</i><par n="alergi/e__n"/></e>
+    <e lm="videoprojekce"><i>videoprojekc</i><par n="alergi/e__n"/></e>
+    <e lm="vize"><i>viz</i><par n="alergi/e__n"/></e>
+    <e lm="vize" r="LR"><p><l>vis</l><r>viz</r></p><par n="alergi/e__n"/></e>
+    <e lm="vrtule"><i>vrtul</i><par n="alergi/e__n"/></e>
+    <e lm="vůle"><i>vůl</i><par n="alergi/e__n"/></e>
+    <e lm="žaluzie"><i>žaluzi</i><par n="alergi/e__n"/></e>
+    <e lm="záře"><i>zář</i><par n="alergi/e__n"/></e>
+    <e lm="záškrt"><i>difteri</i><par n="alergi/e__n"/></e>
+    <e lm="zeměkoule"><i>zeměkoul</i><par n="alergi/e__n"/></e>
+    <e lm="žemle"><i>žeml</i><par n="alergi/e__n"/></e>
+    <e lm="zmije"><i>zmij</i><par n="alergi/e__n"/></e>
+    <e lm="zvůle"><i>zvůl</i><par n="alergi/e__n"/></e>

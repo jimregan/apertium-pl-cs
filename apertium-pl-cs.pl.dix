@@ -39444,6 +39444,36 @@
     <e lm="kazać" r="LR"><i>ka</i><par n="ka/zać__vblex_perf"/></e>
 
     <!-- Nouns -->
+    <e lm="etnograf"><i>etnograf</i><par n="astronom__n"/></e>
+    <e lm="barman"><i>barman</i><par n="kretyn__n"/></e>
+    <e lm="absolutorium"><i>absolutori</i><par n="muze/um__n"/></e>
+    <e lm="atrium"><i>atri</i><par n="muze/um__n"/></e>
+    <e lm="linoleum"><i>linole</i><par n="muze/um__n"/></e>
+    <e lm="opium"><i>opi</i><par n="muze/um__n"/></e>
+    <e lm="pentium"><i>penti</i><par n="muze/um__n"/></e>
+    <e lm="muflon"><i>muflon</i><par n="rekin__n"/></e>
+    <e lm="autograf"><i>autograf</i><par n="sklep__n"/></e>
+    <e lm="boom"><i>boom</i><par n="sklep__n"/></e>
+    <e lm="estrogen"><i>estrogen</i><par n="sklep__n"/></e>
+    <e lm="konsens"><i>konsens</i><par n="sklep__n"/></e>
+    <e lm="abonent"><i>abonen</i><par n="studen/t__n"/></e>
+    <e lm="aspirant"><i>aspiran</i><par n="studen/t__n"/></e>
+    <e lm="demonstrant"><i>demonstran</i><par n="studen/t__n"/></e>
+    <e lm="docent"><i>docen</i><par n="studen/t__n"/></e>
+    <e lm="ignorant"><i>ignoran</i><par n="studen/t__n"/></e>
+    <e lm="inteligent"><i>inteligen</i><par n="studen/t__n"/></e>
+    <e lm="kolaborant"><i>kolaboran</i><par n="studen/t__n"/></e>
+    <e lm="komediant"><i>komedian</i><par n="studen/t__n"/></e>
+    <e lm="konkurent"><i>konkuren</i><par n="studen/t__n"/></e>
+    <e lm="korespondent"><i>koresponden</i><par n="studen/t__n"/></e>
+    <e lm="ministrant"><i>ministran</i><par n="studen/t__n"/></e>
+    <e lm="okupant"><i>okupan</i><par n="studen/t__n"/></e>
+    <e lm="oponent"><i>oponen</i><par n="studen/t__n"/></e>
+    <e lm="projektant"><i>projektan</i><par n="studen/t__n"/></e>
+    <e lm="prominent"><i>prominen</i><par n="studen/t__n"/></e>
+    <e lm="referent"><i>referen</i><par n="studen/t__n"/></e>
+    <e lm="respondent"><i>responden</i><par n="studen/t__n"/></e>
+    <e lm="detektor"><i>detektor</i><par n="telewizor__n"/></e>
     <e lm="promotor"><i>promotor</i><par n="aktor__n"/></e>
     <e lm="holocaust"><i>holocau</i><par n="amety/st__n"/></e>
     <e lm="oceanograf"><i>oceanograf</i><par n="astronom__n"/></e>
