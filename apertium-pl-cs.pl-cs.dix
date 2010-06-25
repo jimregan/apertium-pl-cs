@@ -649,6 +649,78 @@
     <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>prosinec<s n="n"/><s n="mi"/></r></p></e>
 
      <!-- Nouns -->
+    <e><p><l>adept<s n="n"/><s n="mp"/></l><r>adept<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>agentura<s n="n"/><s n="f"/></l><r>agentura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agresor<s n="n"/><s n="mp"/></l><r>agresor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>akupresura<s n="n"/><s n="f"/></l><r>akupresura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>akupunktura<s n="n"/><s n="f"/></l><r>akupunktura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>albatros<s n="n"/><s n="ma"/></l><r>albatros<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>alergik<s n="n"/><s n="mp"/></l><r>alergik<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>amfora<s n="n"/><s n="f"/></l><r>amfora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>amplituda<s n="n"/><s n="f"/></l><r>amplituda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anoda<s n="n"/><s n="f"/></l><r>anoda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aparatura<s n="n"/><s n="f"/></l><r>aparatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>armatura<s n="n"/><s n="f"/></l><r>armatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aura<s n="n"/><s n="f"/></l><r>aura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aurora<s n="n"/><s n="f"/></l><r>aurora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>awangarda<s n="n"/><s n="f"/></l><r>avantgarda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>banda<s n="n"/><s n="f"/></l><r>banda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>burak<s n="n"/><s n="mi"/></l><r>řepa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cenzor<s n="n"/><s n="mp"/></l><r>cenzor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>cenzura<s n="n"/><s n="f"/></l><r>cenzura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cholera<s n="n"/><s n="f"/></l><r>cholera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dealer<s n="n"/><s n="mp"/></l><r>dealer<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>debata<s n="n"/><s n="f"/></l><r>debata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>diaspora<s n="n"/><s n="f"/></l><r>diaspora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dieta<s n="n"/><s n="f"/></l><r>dieta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dioda<s n="n"/><s n="f"/></l><r>dioda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elektroda<s n="n"/><s n="f"/></l><r>elektroda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elf<s n="n"/><s n="ma"/></l><r>elf<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>elita<s n="n"/><s n="f"/></l><r>elita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eskorta<s n="n"/><s n="f"/></l><r>eskorta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>faktura<s n="n"/><s n="f"/></l><r>faktura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>falsyfikat<s n="n"/><s n="mi"/></l><r>falzifikát<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>fasada<s n="n"/><s n="f"/></l><r>fasáda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>filantrop<s n="n"/><s n="mp"/></l><r>filantrop<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>frajer<s n="n"/><s n="mp"/></l><r>frajer<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>gangster<s n="n"/><s n="mp"/></l><r>gangster<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>girlanda<s n="n"/><s n="f"/></l><r>girlanda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>glazura<s n="n"/><s n="f"/></l><r>glazura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>horda<s n="n"/><s n="f"/></l><r>horda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>instruktor<s n="n"/><s n="mp"/></l><r>instruktor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>kapusta<s n="n"/><s n="f"/></l><r>kapusta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>komnata<s n="n"/><s n="f"/></l><r>komnata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>komuna<s n="n"/><s n="f"/></l><r>komuna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>korektura<s n="n"/><s n="f"/></l><r>korektura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>legenda<s n="n"/><s n="f"/></l><r>legenda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lektor<s n="n"/><s n="mp"/></l><r>lektor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>lupa<s n="n"/><s n="f"/></l><r>lupa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>marihuana<s n="n"/><s n="f"/></l><r>marihuana<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>melancholik<s n="n"/><s n="mp"/></l><r>melancholik<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>metoda<s n="n"/><s n="f"/></l><r>metoda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mikrob<s n="n"/><s n="ma"/></l><r>mikrob<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>nafta<s n="n"/><s n="f"/></l><r>nafta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nomenklatura<s n="n"/><s n="f"/></l><r>nomenklatura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nona<s n="n"/><s n="f"/></l><r>nona<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nora<s n="n"/><s n="f"/></l><r>nora<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>osada<s n="n"/><s n="f"/></l><r>osada<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paleta<s n="n"/><s n="f"/></l><r>paleta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>panda<s n="n"/><s n="f"/></l><r>panda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>persona<s n="n"/><s n="f"/></l><r>persona<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>plomba<s n="n"/><s n="f"/></l><r>plomba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pomsta<s n="n"/><s n="f"/></l><r>pomsta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>porada<s n="n"/><s n="f"/></l><r>porada<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>profesura<s n="n"/><s n="f"/></l><r>profesura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>propaganda<s n="n"/><s n="f"/></l><r>propaganda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>puma<s n="n"/><s n="f"/></l><r>puma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reduta<s n="n"/><s n="f"/></l><r>reduta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>samba<s n="n"/><s n="f"/></l><r>samba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>samouk<s n="n"/><s n="mp"/></l><r>samouk<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>schizofrenik<s n="n"/><s n="mp"/></l><r>schizofrenik<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>sonda<s n="n"/><s n="f"/></l><r>sonda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tapeta<s n="n"/><s n="f"/></l><r>tapeta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zasada<s n="n"/><s n="f"/></l><r>princip<s n="n"/><s n="mi"/></r></p></e>
+    <e r="RL"><p><l>zasada<s n="n"/><s n="f"/></l><r>zásada<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abonent<s n="n"/><s n="mp"/></l><r>abonent<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>absolutorium<s n="n"/><s n="nt"/></l><r>absolutorium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aspirant<s n="n"/><s n="mp"/></l><r>aspirant<s n="n"/><s n="ma"/></r></p></e>
