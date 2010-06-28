@@ -1162,78 +1162,6 @@
       <e>       <p><l>ymiś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
       <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
-    <pardef n="któr/yś__prn">
-      <e>       <p><l>yś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>       <p><l>egoś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e>       <p><l>egoś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e>       <p><l>emuś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r></p></e>
-      <e>       <p><l>yś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e>       <p><l>ychś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e>       <p><l>ychś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e>       <p><l>ymiś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="voc"/></r></p></e>
-      <e>       <p><l>yś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>       <p><l>yś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e>       <p><l>egoś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e>       <p><l>emuś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="loc"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="ins"/></r></p></e>
-      <e>       <p><l>yś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e>       <p><l>ychś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e>       <p><l>ychś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e>       <p><l>ymiś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
-      <e>       <p><l>yś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>       <p><l>egoś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e>       <p><l>egoś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e>       <p><l>emuś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="dat"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="loc"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="ins"/></r></p></e>
-      <e>       <p><l>yś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e>       <p><l>zyś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e>       <p><l>ychś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e>       <p><l>ychś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e>       <p><l>ychś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e>       <p><l>ymiś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="ins"/></r></p></e>
-      <e>       <p><l>zyś</l><r>yś<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/><s n="voc"/></r></p></e>
-      <e>       <p><l>aś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>       <p><l>ąś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e>       <p><l>ejś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e>       <p><l>ejś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
-      <e>       <p><l>ejś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
-      <e>       <p><l>ąś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
-      <e>       <p><l>aś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e>       <p><l>ychś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e>       <p><l>ychś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e>       <p><l>ymiś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e>       <p><l>egoś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e>       <p><l>emuś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e>       <p><l>ychś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p><l>ymś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
-      <e>       <p><l>ychś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e>       <p><l>ymiś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
-      <e>       <p><l>eś</l><r>yś<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
-    </pardef>
     <pardef n="niektór/y__prn">
       <e>       <p><l>y</l><r>y<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
       <e>       <p><l>ego</l><r>y<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -38685,6 +38613,9 @@
     <e lm="sprawiedliwy"><i>sprawiedliw</i><par n="now/y__adj"/></e>
     <e lm="sprawiedliwy"><p><l>sprawiedliw</l><r>sprawiedliwy</r></p><par n="lep/szy__adj"/></e>
     <e lm="sprawiedliwy"><p><l>najsprawiedliw</l><r>sprawiedliwy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="dziecinny"><p><l>dziecinniej</l><r>dziecinny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="dziecinny"><p><l>najdziecinniej</l><r>dziecinny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="dziecinny"><i>dziecinn</i><par n="now/y__adj"/></e>
 
     <!-- Non-synthetic adjectives -->
     <!-- non-synthetic, with obsolete comparatives -->
@@ -38844,6 +38775,154 @@
     <e lm="lipski"><i>lips</i><par n="pols/ki__adj"/></e>
     <e lm="płocki"><i>płoc</i><par n="pols/ki__adj"/></e>
     <e lm="śląski"><i>śląs</i><par n="pols/ki__adj"/></e>
+    <e lm="aleksandryjski"><i>aleksandryjs</i><par n="pols/ki__adj"/></e>
+    <e lm="algierski"><i>algiers</i><par n="pols/ki__adj"/></e>
+    <e lm="alpejski"><i>alpejs</i><par n="pols/ki__adj"/></e>
+    <e lm="anielski"><i>aniels</i><par n="pols/ki__adj"/></e>
+    <e lm="apostolski"><i>apostols</i><par n="pols/ki__adj"/></e>
+    <e lm="aryjski"><i>aryjs</i><par n="pols/ki__adj"/></e>
+    <e lm="ateński"><i>ateńs</i><par n="pols/ki__adj"/></e>
+    <e lm="autorski"><i>autors</i><par n="pols/ki__adj"/></e>
+    <e lm="azerbejdżański"><i>azerbejdżańs</i><par n="pols/ki__adj"/></e>
+    <e lm="bałtycki"><i>bałtyc</i><par n="pols/ki__adj"/></e>
+    <e lm="bamberski"><i>bambers</i><par n="pols/ki__adj"/></e>
+    <e lm="berliński"><i>berlińs</i><par n="pols/ki__adj"/></e>
+    <e lm="berneński"><i>berneńs</i><par n="pols/ki__adj"/></e>
+    <e lm="birmański"><i>birmańs</i><par n="pols/ki__adj"/></e>
+    <e lm="biskajski"><i>biskajs</i><par n="pols/ki__adj"/></e>
+    <e lm="bizantyjski"><i>bizantyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="blacharski"><i>blachars</i><par n="pols/ki__adj"/></e>
+    <e lm="boski"><i>bos</i><par n="pols/ki__adj"/></e>
+    <e lm="bośniacki"><i>bośniac</i><par n="pols/ki__adj"/></e>
+    <e lm="braterski"><i>braters</i><par n="pols/ki__adj"/></e>
+    <e lm="bratysławski"><i>bratysławs</i><par n="pols/ki__adj"/></e>
+    <e lm="brneński"><i>brneńs</i><par n="pols/ki__adj"/></e>
+    <e lm="budapeszteński"><i>budapeszteńs</i><par n="pols/ki__adj"/></e>
+    <e lm="burundyjski"><i>burundyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="carski"><i>cars</i><par n="pols/ki__adj"/></e>
+    <e lm="cesarski"><i>cesars</i><par n="pols/ki__adj"/></e>
+    <e lm="chicagowski"><i>chicagows</i><par n="pols/ki__adj"/></e>
+    <e lm="ciekawski"><i>ciekaws</i><par n="pols/ki__adj"/></e>
+    <e lm="cieszyński"><i>cieszyńs</i><par n="pols/ki__adj"/></e>
+    <e lm="czarnogórski"><i>czarnogórs</i><par n="pols/ki__adj"/></e>
+    <e lm="czarodziejski"><i>czarodziejs</i><par n="pols/ki__adj"/></e>
+    <e lm="czechosłowacki"><i>czechosłowac</i><par n="pols/ki__adj"/></e>
+    <e lm="czeczeński"><i>czeczeńs</i><par n="pols/ki__adj"/></e>
+    <e lm="dolnosaksoński"><i>dolnosaksońs</i><par n="pols/ki__adj"/></e>
+    <e lm="dominikański"><i>dominikańs</i><par n="pols/ki__adj"/></e>
+    <e lm="drezdeński"><i>drezdeńs</i><par n="pols/ki__adj"/></e>
+    <e lm="dunajski"><i>dunajs</i><par n="pols/ki__adj"/></e>
+    <e lm="dysydencki"><i>dysydenc</i><par n="pols/ki__adj"/></e>
+    <e lm="estoński"><i>estońs</i><par n="pols/ki__adj"/></e>
+    <e lm="etiopski"><i>etiops</i><par n="pols/ki__adj"/></e>
+    <e lm="florydzki"><i>florydz</i><par n="pols/ki__adj"/></e>
+    <e lm="franciszkański"><i>franciszkańs</i><par n="pols/ki__adj"/></e>
+    <e lm="galicyjski"><i>galicyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="gospodarski"><i>gospodars</i><par n="pols/ki__adj"/></e>
+    <e lm="górski"><i>górs</i><par n="pols/ki__adj"/></e>
+    <e lm="gregoriański"><i>gregoriańs</i><par n="pols/ki__adj"/></e>
+    <e lm="gruziński"><i>gruzińs</i><par n="pols/ki__adj"/></e>
+    <e lm="gwatemalski"><i>gwatemals</i><par n="pols/ki__adj"/></e>
+    <e lm="hanowerski"><i>hanowers</i><par n="pols/ki__adj"/></e>
+    <e lm="hawajski"><i>hawajs</i><par n="pols/ki__adj"/></e>
+    <e lm="hollywoodzki"><i>hollywoodz</i><par n="pols/ki__adj"/></e>
+    <e lm="irański"><i>irańs</i><par n="pols/ki__adj"/></e>
+    <e lm="irlandzki"><i>irlandz</i><par n="pols/ki__adj"/></e>
+    <e lm="islamski"><i>islams</i><par n="pols/ki__adj"/></e>
+    <e lm="islandzki"><i>islandz</i><par n="pols/ki__adj"/></e>
+    <e lm="jamajski"><i>jamajs</i><par n="pols/ki__adj"/></e>
+    <e lm="jordański"><i>jordańs</i><par n="pols/ki__adj"/></e>
+    <e lm="jugosłowiański"><i>jugosłowiańs</i><par n="pols/ki__adj"/></e>
+    <e lm="jurajski"><i>jurajs</i><par n="pols/ki__adj"/></e>
+    <e lm="kalifornijski"><i>kalifornijs</i><par n="pols/ki__adj"/></e>
+    <e lm="kambodżański"><i>kambodżańs</i><par n="pols/ki__adj"/></e>
+    <e lm="kanadyjski"><i>kanadyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="karlowarski"><i>karlowars</i><par n="pols/ki__adj"/></e>
+    <e lm="karpacki"><i>karpac</i><par n="pols/ki__adj"/></e>
+    <e lm="kaszmirski"><i>kaszmirs</i><par n="pols/ki__adj"/></e>
+    <e lm="kaukaski"><i>kaukas</i><par n="pols/ki__adj"/></e>
+    <e lm="kazaski"><i>kazas</i><par n="pols/ki__adj"/></e>
+    <e lm="kolumbijski"><i>kolumbijs</i><par n="pols/ki__adj"/></e>
+    <e lm="kongijski"><i>kongijs</i><par n="pols/ki__adj"/></e>
+    <e lm="koński"><i>końs</i><par n="pols/ki__adj"/></e>
+    <e lm="koreański"><i>koreańs</i><par n="pols/ki__adj"/></e>
+    <e lm="kowbojski"><i>kowbojs</i><par n="pols/ki__adj"/></e>
+    <e lm="kucharski"><i>kuchars</i><par n="pols/ki__adj"/></e>
+    <e lm="kuwejcki"><i>kuwejc</i><par n="pols/ki__adj"/></e>
+    <e lm="leninowski"><i>leninows</i><par n="pols/ki__adj"/></e>
+    <e lm="libijski"><i>libijs</i><par n="pols/ki__adj"/></e>
+    <e lm="licencjacki"><i>licencjac</i><par n="pols/ki__adj"/></e>
+    <e lm="londyński"><i>londyńs</i><par n="pols/ki__adj"/></e>
+    <e lm="luksemburski"><i>luksemburs</i><par n="pols/ki__adj"/></e>
+    <e lm="łyżwiarski"><i>łyżwiars</i><par n="pols/ki__adj"/></e>
+    <e lm="macedoński"><i>macedońs</i><par n="pols/ki__adj"/></e>
+    <e lm="madrycki"><i>madryc</i><par n="pols/ki__adj"/></e>
+    <e lm="malezyjski"><i>malezyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="maltański"><i>maltańs</i><par n="pols/ki__adj"/></e>
+    <e lm="maratoński"><i>maratońs</i><par n="pols/ki__adj"/></e>
+    <e lm="mariański"><i>mariańs</i><par n="pols/ki__adj"/></e>
+    <e lm="mediolański"><i>mediolańs</i><par n="pols/ki__adj"/></e>
+    <e lm="menadżerski"><i>menadżers</i><par n="pols/ki__adj"/></e>
+    <e lm="męski"><i>męs</i><par n="pols/ki__adj"/></e>
+    <e lm="morawski"><i>moraws</i><par n="pols/ki__adj"/></e>
+    <e lm="moskiewski"><i>moskiews</i><par n="pols/ki__adj"/></e>
+    <e lm="muzułmański"><i>muzułmańs</i><par n="pols/ki__adj"/></e>
+    <e lm="naddniestrzański"><i>naddniestrzańs</i><par n="pols/ki__adj"/></e>
+    <e lm="nadludzki"><i>nadludz</i><par n="pols/ki__adj"/></e>
+    <e lm="narciarski"><i>narciars</i><par n="pols/ki__adj"/></e>
+    <e lm="neapolitański"><i>neapolitańs</i><par n="pols/ki__adj"/></e>
+    <e lm="nepalski"><i>nepals</i><par n="pols/ki__adj"/></e>
+    <e lm="norymberski"><i>norymbers</i><par n="pols/ki__adj"/></e>
+    <e lm="nowojorski"><i>nowojors</i><par n="pols/ki__adj"/></e>
+    <e lm="nowozelandzki"><i>nowozelandz</i><par n="pols/ki__adj"/></e>
+    <e lm="obywatelski"><i>obywatels</i><par n="pols/ki__adj"/></e>
+    <e lm="olimpijski"><i>olimpijs</i><par n="pols/ki__adj"/></e>
+    <e lm="palestyński"><i>palestyńs</i><par n="pols/ki__adj"/></e>
+    <e lm="panamski"><i>panams</i><par n="pols/ki__adj"/></e>
+    <e lm="paryski"><i>parys</i><par n="pols/ki__adj"/></e>
+    <e lm="pekiński"><i>pekińs</i><par n="pols/ki__adj"/></e>
+    <e lm="pilzneński"><i>pilzneńs</i><par n="pols/ki__adj"/></e>
+    <e lm="południowokoreański"><i>południowokoreańs</i><par n="pols/ki__adj"/></e>
+    <e lm="protestancki"><i>protestanc</i><par n="pols/ki__adj"/></e>
+    <e lm="radziecki"><i>radziec</i><par n="pols/ki__adj"/></e>
+    <e lm="rajski"><i>rajs</i><par n="pols/ki__adj"/></e>
+    <e lm="rwandyjski"><i>rwandyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="rybacki"><i>rybac</i><par n="pols/ki__adj"/></e>
+    <e lm="rycerski"><i>rycers</i><par n="pols/ki__adj"/></e>
+    <e lm="singapurski"><i>singapurs</i><par n="pols/ki__adj"/></e>
+    <e lm="skandynawski"><i>skandynaws</i><par n="pols/ki__adj"/></e>
+    <e lm="sławkowski"><i>sławkows</i><par n="pols/ki__adj"/></e>
+    <e lm="słowacki"><i>słowac</i><par n="pols/ki__adj"/></e>
+    <e lm="somalijski"><i>somalijs</i><par n="pols/ki__adj"/></e>
+    <e lm="strażacki"><i>strażac</i><par n="pols/ki__adj"/></e>
+    <e lm="studencki"><i>studenc</i><par n="pols/ki__adj"/></e>
+    <e lm="sudański"><i>sudańs</i><par n="pols/ki__adj"/></e>
+    <e lm="sueski"><i>sues</i><par n="pols/ki__adj"/></e>
+    <e lm="syberyjski"><i>syberyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="szkocki"><i>szkoc</i><par n="pols/ki__adj"/></e>
+    <e lm="sztokholmski"><i>sztokholms</i><par n="pols/ki__adj"/></e>
+    <e lm="szwedzki"><i>szwedz</i><par n="pols/ki__adj"/></e>
+    <e lm="środkowoazjatycki"><i>środkowoazjatyc</i><par n="pols/ki__adj"/></e>
+    <e lm="środkowoeuropejski"><i>środkowoeuropejs</i><par n="pols/ki__adj"/></e>
+    <e lm="tajlandzki"><i>tajlandz</i><par n="pols/ki__adj"/></e>
+    <e lm="tajski"><i>tajs</i><par n="pols/ki__adj"/></e>
+    <e lm="tajwański"><i>tajwańs</i><par n="pols/ki__adj"/></e>
+    <e lm="tatarski"><i>tatars</i><par n="pols/ki__adj"/></e>
+    <e lm="tatrzański"><i>tatrzańs</i><par n="pols/ki__adj"/></e>
+    <e lm="tkacki"><i>tkac</i><par n="pols/ki__adj"/></e>
+    <e lm="trojański"><i>trojańs</i><par n="pols/ki__adj"/></e>
+    <e lm="tunezyjski"><i>tunezyjs</i><par n="pols/ki__adj"/></e>
+    <e lm="tybetański"><i>tybetańs</i><par n="pols/ki__adj"/></e>
+    <e lm="ukraiński"><i>ukraińs</i><par n="pols/ki__adj"/></e>
+    <e lm="watykański"><i>watykańs</i><par n="pols/ki__adj"/></e>
+    <e lm="wenezuelski"><i>wenezuels</i><par n="pols/ki__adj"/></e>
+    <e lm="westfalski"><i>westfals</i><par n="pols/ki__adj"/></e>
+    <e lm="wiedeński"><i>wiedeńs</i><par n="pols/ki__adj"/></e>
+    <e lm="wietnamski"><i>wietnams</i><par n="pols/ki__adj"/></e>
+    <e lm="zamorski"><i>zamors</i><par n="pols/ki__adj"/></e>
+    <e lm="ziemski"><i>ziems</i><par n="pols/ki__adj"/></e>
+    <e lm="żeński"><i>żeńs</i><par n="pols/ki__adj"/></e>
+    <e lm="żyliński"><i>żylińs</i><par n="pols/ki__adj"/></e>
 
     <!-- Interjunctions -->
     <e lm="cześć"><i>cześć</i><par n="cześć__ij"/></e>
@@ -44608,8 +44687,6 @@
 
     <e lm="Bielsko-Biała"><i>Bielsk</i><par n="Bielsk/o-Biała__np"/></e>
     <e lm="Zjednoczone Królestwo"><i>Zjednoczon</i><par n="Zjednoczon/e_Królestwo__np"/></e>
-    <e lm="Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"><i>Zjednoczon</i><par n="Zjednoczon/e_Królestwo__np"/><p><l><b/>Wielkiej<b/>Brytanii<b/>i<b/>Irlandii<b/>Północnej</l><r><g><b/>Wielkiej<b/>Brytanii<b/>i<b/>Irlandii<b/>Północnej</g></r></p></e>
-    <e lm="Republika Irlandii"><i>Republi</i><par n="Republi/ka__np"/><p><l><b/>Irlandii</l><r><g><b/>Irlandii</g></r></p></e>
     <e lm="Poznań"><i>Pozna</i><par n="Pozna/ń__np"/></e>
     <e lm="Toruń"><i>Toru</i><par n="Pozna/ń__np"/></e>
     <e lm="Tyrol"><i>Tyrol</i><par n="Tyrol__np"/></e>
@@ -44712,6 +44789,13 @@
   
   </section>
   <section id="multiwords" type="standard">
+    <e lm="Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej">
+		<i>Zjednoczon</i><par n="Zjednoczon/e_Królestwo__np"/><p>
+			<l><b/>Wielkiej<b/>Brytanii<b/>i<b/>Irlandii<b/>Północnej</l>
+			<r><g><b/>Wielkiej<b/>Brytanii<b/>i<b/>Irlandii<b/>Północnej</g></r>
+		</p>
+	</e>
+    <e lm="Republika Irlandii"><i>Republi</i><par n="Republi/ka__np"/><p><l><b/>Irlandii</l><r><g><b/>Irlandii</g></r></p></e>
   <!-- Morskie Oko -->
   <e>
     <p>

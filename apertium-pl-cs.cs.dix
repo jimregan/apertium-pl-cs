@@ -22299,7 +22299,161 @@
     <e lm="dánský"><par n="nej__adv"/><i>dán</i><par n="če/ský__adj"/></e>
     <e lm="jihoslovanský"><par n="nej__adv"/><i>jihoslovan</i><par n="če/ský__adj"/></e>
     <e lm="jizerský"><par n="nej__adv"/><i>jizer</i><par n="evrop/ský__adj"/></e>
-
+    <e lm="alexandrijský"><par n="nej__adv"/><i>alexandrij</i><par n="če/ský__adj"/></e>
+    <e lm="alpský"><par n="nej__adv"/><i>alp</i><par n="če/ský__adj"/></e>
+    <e lm="alžírský"><par n="nej__adv"/><i>alžír</i><par n="če/ský__adj"/></e>
+    <e lm="andělský"><par n="nej__adv"/><i>anděl</i><par n="če/ský__adj"/></e>
+    <e lm="apoštolský"><par n="nej__adv"/><i>apoštol</i><par n="če/ský__adj"/></e>
+    <e lm="athénský"><par n="nej__adv"/><i>athén</i><par n="če/ský__adj"/></e>
+    <e lm="autorský"><par n="nej__adv"/><i>autor</i><par n="če/ský__adj"/></e>
+    <e lm="bakalářský"><par n="nej__adv"/><i>bakalář</i><par n="če/ský__adj"/></e>
+    <e lm="baltský"><par n="nej__adv"/><i>balt</i><par n="če/ský__adj"/></e>
+    <e lm="bamberský"><par n="nej__adv"/><i>bamber</i><par n="če/ský__adj"/></e>
+    <e lm="barmský"><par n="nej__adv"/><i>barm</i><par n="če/ský__adj"/></e>
+    <e lm="berlínský"><par n="nej__adv"/><i>berlín</i><par n="če/ský__adj"/></e>
+    <e lm="bernský"><par n="nej__adv"/><i>bern</i><par n="če/ský__adj"/></e>
+    <e lm="biskajský"><par n="nej__adv"/><i>biskaj</i><par n="če/ský__adj"/></e>
+    <e lm="bosenský"><par n="nej__adv"/><i>bosen</i><par n="če/ský__adj"/></e>
+    <e lm="božský"><par n="nej__adv"/><i>bož</i><par n="če/ský__adj"/></e>
+    <e lm="bratislavský"><par n="nej__adv"/><i>bratislav</i><par n="če/ský__adj"/></e>
+    <e lm="bratrský"><par n="nej__adv"/><i>bratr</i><par n="če/ský__adj"/></e>
+    <e lm="brněnský"><par n="nej__adv"/><i>brněn</i><par n="če/ský__adj"/></e>
+    <e lm="budapešťský"><par n="nej__adv"/><i>budapešť</i><par n="če/ský__adj"/></e>
+    <e lm="burundský"><par n="nej__adv"/><i>burund</i><par n="če/ský__adj"/></e>
+    <e lm="byzantský"><par n="nej__adv"/><i>byzant</i><par n="če/ský__adj"/></e>
+    <e lm="carský"><par n="nej__adv"/><i>car</i><par n="če/ský__adj"/></e>
+    <e lm="chicagský"><par n="nej__adv"/><i>chicag</i><par n="če/ský__adj"/></e>
+    <e lm="císařský"><par n="nej__adv"/><i>císař</i><par n="če/ský__adj"/></e>
+    <e lm="disidentský"><par n="nej__adv"/><i>disident</i><par n="če/ský__adj"/></e>
+    <e lm="dolnosaský"><par n="nej__adv"/><i>dolnosa</i><par n="če/ský__adj"/></e>
+    <e lm="dominikánský"><par n="nej__adv"/><i>dominikán</i><par n="če/ský__adj"/></e>
+    <e lm="drážďanský"><par n="nej__adv"/><i>drážďan</i><par n="če/ský__adj"/></e>
+    <e lm="dunajský"><par n="nej__adv"/><i>dunaj</i><par n="če/ský__adj"/></e>
+    <e lm="dětský"><par n="nej__adv"/><i>dět</i><par n="če/ský__adj"/></e>
+    <e lm="estonský"><par n="nej__adv"/><i>eston</i><par n="če/ský__adj"/></e>
+    <e lm="etiopský" r="LR"><par n="nej__adv"/><p><l>ethiop</l><r>etiop</r></p><par n="če/ský__adj"/></e>
+    <e lm="etiopský"><par n="nej__adv"/><i>etiop</i><par n="če/ský__adj"/></e>
+    <e lm="floridský"><par n="nej__adv"/><i>florid</i><par n="če/ský__adj"/></e>
+    <e lm="františkánský"><par n="nej__adv"/><i>františkán</i><par n="če/ský__adj"/></e>
+    <e lm="gregoriánský"><par n="nej__adv"/><i>gregorián</i><par n="če/ský__adj"/></e>
+    <e lm="gruzínský"><par n="nej__adv"/><i>gruzín</i><par n="če/ský__adj"/></e>
+    <e lm="guatemalský"><par n="nej__adv"/><i>guatemal</i><par n="če/ský__adj"/></e>
+    <e lm="haličský"><par n="nej__adv"/><i>halič</i><par n="če/ský__adj"/></e>
+    <e lm="hannoverský"><par n="nej__adv"/><i>hannover</i><par n="če/ský__adj"/></e>
+    <e lm="hasičský"><par n="nej__adv"/><i>hasič</i><par n="če/ský__adj"/></e>
+    <e lm="havajský"><par n="nej__adv"/><i>havaj</i><par n="če/ský__adj"/></e>
+    <e lm="hollywoodský"><par n="nej__adv"/><i>hollywood</i><par n="če/ský__adj"/></e>
+    <e lm="horský"><par n="nej__adv"/><i>hor</i><par n="če/ský__adj"/></e>
+    <e lm="hospodský"><par n="nej__adv"/><i>hospod</i><par n="če/ský__adj"/></e>
+    <e lm="irský"><par n="nej__adv"/><i>ir</i><par n="če/ský__adj"/></e>
+    <e lm="islandský"><par n="nej__adv"/><i>island</i><par n="če/ský__adj"/></e>
+    <e lm="islámský"><par n="nej__adv"/><i>islám</i><par n="če/ský__adj"/></e>
+    <e lm="jamajský"><par n="nej__adv"/><i>jamaj</i><par n="če/ský__adj"/></e>
+    <e lm="jihokorejský"><par n="nej__adv"/><i>jihokorej</i><par n="če/ský__adj"/></e>
+    <e lm="jordánský"><par n="nej__adv"/><i>jordán</i><par n="če/ský__adj"/></e>
+    <e lm="jugoslávský"><par n="nej__adv"/><i>jugosláv</i><par n="če/ský__adj"/></e>
+    <e lm="jurský"><par n="nej__adv"/><i>jur</i><par n="če/ský__adj"/></e>
+    <e lm="kalifornský"><par n="nej__adv"/><i>kaliforn</i><par n="če/ský__adj"/></e>
+    <e lm="kambodžský"><par n="nej__adv"/><i>kambodž</i><par n="če/ský__adj"/></e>
+    <e lm="kanadský"><par n="nej__adv"/><i>kanad</i><par n="če/ský__adj"/></e>
+    <e lm="karlovarský"><par n="nej__adv"/><i>karlovar</i><par n="če/ský__adj"/></e>
+    <e lm="karpatský"><par n="nej__adv"/><i>karpat</i><par n="če/ský__adj"/></e>
+    <e lm="kavkazský"><par n="nej__adv"/><i>kavkaz</i><par n="če/ský__adj"/></e>
+    <e lm="kazašský"><par n="nej__adv"/><i>kazaš</i><par n="če/ský__adj"/></e>
+    <e lm="kašmírský"><par n="nej__adv"/><i>kašmír</i><par n="če/ský__adj"/></e>
+    <e lm="klempířský"><par n="nej__adv"/><i>klempíř</i><par n="če/ský__adj"/></e>
+    <e lm="kolumbijský"><par n="nej__adv"/><i>kolumbij</i><par n="če/ský__adj"/></e>
+    <e lm="konžský"><par n="nej__adv"/><i>konž</i><par n="če/ský__adj"/></e>
+    <e lm="korejský"><par n="nej__adv"/><i>korej</i><par n="če/ský__adj"/></e>
+    <e lm="kovbojský"><par n="nej__adv"/><i>kovboj</i><par n="če/ský__adj"/></e>
+    <e lm="koňský"><par n="nej__adv"/><i>koň</i><par n="če/ský__adj"/></e>
+    <e lm="krasobruslařský"><par n="nej__adv"/><i>krasobruslař</i><par n="če/ský__adj"/></e>
+    <e lm="kuchařský"><par n="nej__adv"/><i>kuchař</i><par n="če/ský__adj"/></e>
+    <e lm="kuvajtský"><par n="nej__adv"/><i>kuvajt</i><par n="če/ský__adj"/></e>
+    <e lm="leninský"><par n="nej__adv"/><i>lenin</i><par n="če/ský__adj"/></e>
+    <e lm="libyjský"><par n="nej__adv"/><i>libyj</i><par n="če/ský__adj"/></e>
+    <e lm="londýnský"><par n="nej__adv"/><i>londýn</i><par n="če/ský__adj"/></e>
+    <e lm="lucemburský"><par n="nej__adv"/><i>lucembur</i><par n="če/ský__adj"/></e>
+    <e lm="lyžařský"><par n="nej__adv"/><i>lyžař</i><par n="če/ský__adj"/></e>
+    <e lm="madridský"><par n="nej__adv"/><i>madrid</i><par n="če/ský__adj"/></e>
+    <e lm="makedonský"><par n="nej__adv"/><i>makedon</i><par n="če/ský__adj"/></e>
+    <e lm="malajsijský"><par n="nej__adv"/><i>malajsij</i><par n="če/ský__adj"/></e>
+    <e lm="maltský"><par n="nej__adv"/><i>malt</i><par n="če/ský__adj"/></e>
+    <e lm="manažerský" r="LR"><par n="nej__adv"/><p><l>manager</l><r>manažer</r></p><par n="če/ský__adj"/></e>
+    <e lm="manažerský" r="LR"><par n="nej__adv"/><p><l>manažér</l><r>manažer</r></p><par n="če/ský__adj"/></e>
+    <e lm="manažerský"><par n="nej__adv"/><i>manažer</i><par n="če/ský__adj"/></e>
+    <e lm="maratónský" r="LR"><par n="nej__adv"/><p><l>maraton</l><r>maratón</r></p><par n="če/ský__adj"/></e>
+    <e lm="maratónský"><par n="nej__adv"/><i>maratón</i><par n="če/ský__adj"/></e>
+    <e lm="mariánský"><par n="nej__adv"/><i>marián</i><par n="če/ský__adj"/></e>
+    <e lm="milánský"><par n="nej__adv"/><i>milán</i><par n="če/ský__adj"/></e>
+    <e lm="moravský"><par n="nej__adv"/><i>morav</i><par n="če/ský__adj"/></e>
+    <e lm="moskevský"><par n="nej__adv"/><i>moskev</i><par n="če/ský__adj"/></e>
+    <e lm="mužský"><par n="nej__adv"/><i>muž</i><par n="če/ský__adj"/></e>
+    <e lm="nadlidský"><par n="nej__adv"/><i>nadlid</i><par n="če/ský__adj"/></e>
+    <e lm="neapolský"><par n="nej__adv"/><i>neapol</i><par n="če/ský__adj"/></e>
+    <e lm="nepálský"><par n="nej__adv"/><i>nepál</i><par n="če/ský__adj"/></e>
+    <e lm="newyorský"><par n="nej__adv"/><i>newyor</i><par n="če/ský__adj"/></e>
+    <e lm="norimberský"><par n="nej__adv"/><i>norimber</i><par n="če/ský__adj"/></e>
+    <e lm="novozélandský"><par n="nej__adv"/><i>novozéland</i><par n="če/ský__adj"/></e>
+    <e lm="občanský"><par n="nej__adv"/><i>občan</i><par n="če/ský__adj"/></e>
+    <e lm="olympijský"><par n="nej__adv"/><i>olympij</i><par n="če/ský__adj"/></e>
+    <e lm="palestinský"><par n="nej__adv"/><i>palestin</i><par n="če/ský__adj"/></e>
+    <e lm="panamský"><par n="nej__adv"/><i>panam</i><par n="če/ský__adj"/></e>
+    <e lm="pařížský"><par n="nej__adv"/><i>paříž</i><par n="če/ský__adj"/></e>
+    <e lm="pekingský"><par n="nej__adv"/><i>peking</i><par n="če/ský__adj"/></e>
+    <e lm="plzeňský"><par n="nej__adv"/><i>plzeň</i><par n="če/ský__adj"/></e>
+    <e lm="podněsterský"><par n="nej__adv"/><i>podněster</i><par n="če/ský__adj"/></e>
+    <e lm="protestantský"><par n="nej__adv"/><i>protestant</i><par n="če/ský__adj"/></e>
+    <e lm="rajský"><par n="nej__adv"/><i>raj</i><par n="če/ský__adj"/></e>
+    <e lm="rwandský"><par n="nej__adv"/><i>rwand</i><par n="če/ský__adj"/></e>
+    <e lm="rybářský"><par n="nej__adv"/><i>rybář</i><par n="če/ský__adj"/></e>
+    <e lm="rytířský"><par n="nej__adv"/><i>rytíř</i><par n="če/ský__adj"/></e>
+    <e lm="sibiřský"><par n="nej__adv"/><i>sibiř</i><par n="če/ský__adj"/></e>
+    <e lm="singapurský"><par n="nej__adv"/><i>singapur</i><par n="če/ský__adj"/></e>
+    <e lm="skandinávský"><par n="nej__adv"/><i>skandináv</i><par n="če/ský__adj"/></e>
+    <e lm="skotský"><par n="nej__adv"/><i>skot</i><par n="če/ský__adj"/></e>
+    <e lm="slavkovský"><par n="nej__adv"/><i>slavkov</i><par n="če/ský__adj"/></e>
+    <e lm="slovenský"><par n="nej__adv"/><i>sloven</i><par n="če/ský__adj"/></e>
+    <e lm="somálský" r="LR"><par n="nej__adv"/><p><l>somal</l><r>somál</r></p><par n="če/ský__adj"/></e>
+    <e lm="somálský"><par n="nej__adv"/><i>somál</i><par n="če/ský__adj"/></e>
+    <e lm="sovětský"><par n="nej__adv"/><i>sovět</i><par n="če/ský__adj"/></e>
+    <e lm="stockholmský"><par n="nej__adv"/><i>stockholm</i><par n="če/ský__adj"/></e>
+    <e lm="studentský"><par n="nej__adv"/><i>student</i><par n="če/ský__adj"/></e>
+    <e lm="středoasijský"><par n="nej__adv"/><i>středoasij</i><par n="če/ský__adj"/></e>
+    <e lm="středoevropský"><par n="nej__adv"/><i>středoevrop</i><par n="če/ský__adj"/></e>
+    <e lm="suezský"><par n="nej__adv"/><i>suez</i><par n="če/ský__adj"/></e>
+    <e lm="súdánský"><par n="nej__adv"/><i>súdán</i><par n="če/ský__adj"/></e>
+    <e lm="tatarský"><par n="nej__adv"/><i>tatar</i><par n="če/ský__adj"/></e>
+    <e lm="tatranský"><par n="nej__adv"/><i>tatran</i><par n="če/ský__adj"/></e>
+    <e lm="tchajwanský"><par n="nej__adv"/><i>tchajwan</i><par n="če/ský__adj"/></e>
+    <e lm="tchajwanský" r="LR"><par n="nej__adv"/><p><l>tchajvan</l><r>tchajwan</r></p><par n="če/ský__adj"/></e>
+    <e lm="tchajwanský" r="LR"><par n="nej__adv"/><p><l>taivan</l><r>tchajwan</r></p><par n="če/ský__adj"/></e>
+    <e lm="tchajwanský" r="LR"><par n="nej__adv"/><p><l>taiwan</l><r>tchajwan</r></p><par n="če/ský__adj"/></e>
+    <e lm="thajský"><par n="nej__adv"/><i>thaj</i><par n="če/ský__adj"/></e>
+    <e lm="tibetský"><par n="nej__adv"/><i>tibet</i><par n="če/ský__adj"/></e>
+    <e lm="tkalcovský"><par n="nej__adv"/><i>tkalcov</i><par n="če/ský__adj"/></e>
+    <e lm="trojský"><par n="nej__adv"/><i>troj</i><par n="če/ský__adj"/></e>
+    <e lm="trojský" r="LR"><par n="nej__adv"/><p><l>troy</l><r>troj</r></p><par n="če/ský__adj"/></e>
+    <e lm="tuniský"><par n="nej__adv"/><i>tuni</i><par n="če/ský__adj"/></e>
+    <e lm="těšínský"><par n="nej__adv"/><i>těšín</i><par n="če/ský__adj"/></e>
+    <e lm="ukrajinský"><par n="nej__adv"/><i>ukrajin</i><par n="če/ský__adj"/></e>
+    <e lm="vatikánský"><par n="nej__adv"/><i>vatikán</i><par n="če/ský__adj"/></e>
+    <e lm="venezuelský"><par n="nej__adv"/><i>venezuel</i><par n="če/ský__adj"/></e>
+    <e lm="vestfálský"><par n="nej__adv"/><i>vestfál</i><par n="če/ský__adj"/></e>
+    <e lm="vietnamský"><par n="nej__adv"/><i>vietnam</i><par n="če/ský__adj"/></e>
+    <e lm="vídeňský"><par n="nej__adv"/><i>vídeň</i><par n="če/ský__adj"/></e>
+    <e lm="zemský"><par n="nej__adv"/><i>zem</i><par n="če/ský__adj"/></e>
+    <e lm="zámořský"><par n="nej__adv"/><i>zámoř</i><par n="če/ský__adj"/></e>
+    <e lm="švédský"><par n="nej__adv"/><i>švéd</i><par n="če/ský__adj"/></e>
+    <e lm="ženský"><par n="nej__adv"/><i>žen</i><par n="če/ský__adj"/></e>
+    <e lm="žilinský"><par n="nej__adv"/><i>žilin</i><par n="če/ský__adj"/></e>
+    <e lm="árijský"><par n="nej__adv"/><i>árij</i><par n="če/ský__adj"/></e>
+    <e lm="árijský" r="LR"><par n="nej__adv"/><p><l>arij</l><r>árij</r></p><par n="če/ský__adj"/></e>
+    <e lm="ázerbájdžánský"><par n="nej__adv"/><i>ázerbájdžán</i><par n="če/ský__adj"/></e>
+    <e lm="černohorský"><par n="nej__adv"/><i>černohor</i><par n="če/ský__adj"/></e>
+    <e lm="československý"><par n="nej__adv"/><i>českosloven</i><par n="če/ský__adj"/></e>
+    <e lm="čečenský"><par n="nej__adv"/><i>čečen</i><par n="če/ský__adj"/></e>
+    <e lm="íránský"><par n="nej__adv"/><i>írán</i><par n="če/ský__adj"/></e>
     <e lm="afgánský"><par n="nej__adv"/><i>afgán</i><par n="če/ský__adj"/></e>
     <e lm="arabský"><par n="nej__adv"/><i>arab</i><par n="če/ský__adj"/></e>
     <e lm="aramejský"><par n="nej__adv"/><i>aramej</i><par n="če/ský__adj"/></e>
