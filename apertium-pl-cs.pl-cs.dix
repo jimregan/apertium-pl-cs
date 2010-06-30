@@ -650,6 +650,39 @@
     <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>prosinec<s n="n"/><s n="mi"/></r></p></e>
 
      <!-- Nouns -->
+    <e><p><l>piątka<s n="n"/><s n="f"/></l><r>pětka<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>bierność<s n="n"/><s n="f"/></l><r>pasivita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>czystka<s n="n"/><s n="f"/></l><r>očista<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>inkubator<s n="n"/><s n="mi"/></l><r>inkubátor<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>jura<s n="n"/><s n="f"/></l><r>porota<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kondukt<s n="n"/><s n="mi"/></l><r>průvod<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>konserwa<s n="n"/><s n="f"/></l><r>konzerva<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>łóżeczko<s n="n"/><s n="nt"/></l><r>postýlka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nóżka<s n="n"/><s n="f"/></l><r>nožička<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nudziarz<s n="n"/><s n="mp"/></l><r>otrava<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ochota<s n="n"/><s n="f"/></l><r>ochota<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>orangutan<s n="n"/><s n="ma"/></l><r>orangutan<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>oryginalność<s n="n"/><s n="f"/></l><r>originalita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>outsider<s n="n"/><s n="mp"/></l><r>outsider<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>pastwisko<s n="n"/><s n="nt"/></l><r>pastvina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>patos<s n="n"/><s n="mi"/></l><r>patos<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>petarda<s n="n"/><s n="f"/></l><r>petarda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>petrochemia<s n="n"/><s n="f"/></l><r>petrochemie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>piedestał<s n="n"/><s n="mi"/></l><r>piedestal<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>pierwiosnka<s n="n"/><s n="f"/></l><r>petrklíč<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>plankton<s n="n"/><s n="mi"/></l><r>plankton<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>platan<s n="n"/><s n="mi"/></l><r>platan<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>podtekst<s n="n"/><s n="mi"/></l><r>podtext<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>podtytuł<s n="n"/><s n="mi"/></l><r>podtitul<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>polistyren<s n="n"/><s n="mi"/></l><r>polystyren<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>politologia<s n="n"/><s n="f"/></l><r>politologie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>popularyzator<s n="n"/><s n="mp"/></l><r>popularizátor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>poryw<s n="n"/><s n="mi"/></l><r>poryv<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>przesyłka<s n="n"/><s n="f"/></l><r>zásilka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>skrytka<s n="n"/><s n="f"/></l><r>přihrádka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>spadochroniarz<s n="n"/><s n="mp"/></l><r>parašutista<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>tynk<s n="n"/><s n="mi"/></l><r>omítka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agroturystyka<s n="n"/><s n="f"/></l><r>agroturistika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akacja<s n="n"/><s n="f"/></l><r>akát<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>altana<s n="n"/><s n="f"/></l><r>altán<s n="n"/><s n="mi"/></r></p></e>
@@ -1989,6 +2022,25 @@
     <e c="check"><p><l>język<b/>słoweński<s n="n"/><s n="mi"/></l><r>slovinština<s n="n"/><s n="f"/></r></p></e>
 
     <!-- Adjectives -->
+    <e><p><l>karygodny<s n="adj"/></l><r>odsouzeníhodný<s n="adj"/></r></p></e>
+    <e><p><l>osmański<s n="adj"/></l><r>osmanský<s n="adj"/></r></p></e>
+    <e><p><l>ostrożny<s n="adj"/></l><r>opatrný<s n="adj"/></r></p></e>
+    <e><p><l>ozdobny<s n="adj"/></l><r>okrasný<s n="adj"/></r></p></e>
+    <e><p><l>pakistański<s n="adj"/></l><r>pákistánský<s n="adj"/></r></p></e>
+    <e><p><l>paraolimpijski<s n="adj"/></l><r>paralympijský<s n="adj"/></r></p></e>
+    <e><p><l>pasterski<s n="adj"/></l><r>pastýřský<s n="adj"/></r></p></e>
+    <e><p><l>perski<s n="adj"/></l><r>perský<s n="adj"/></r></p></e>
+    <e><p><l>peruwiański<s n="adj"/></l><r>peruánský<s n="adj"/></r></p></e>
+    <e><p><l>pijacki<s n="adj"/></l><r>opilecký<s n="adj"/></r></p></e>
+    <e><p><l>pionierski<s n="adj"/></l><r>pionýrský<s n="adj"/></r></p></e>
+    <e><p><l>piracki<s n="adj"/></l><r>pirátský<s n="adj"/></r></p></e>
+    <e><p><l>płochliwy<s n="adj"/></l><r>plachý<s n="adj"/></r></p></e>
+    <e><p><l>pobożny<s n="adj"/></l><r>pobožný<s n="adj"/></r></p></e>
+    <e><p><l>podrzędny<s n="adj"/></l><r>podřadný<s n="adj"/></r></p></e>
+    <e><p><l>poetycki<s n="adj"/></l><r>poetický<s n="adj"/></r></p></e>
+    <e><p><l>pogański<s n="adj"/></l><r>pohanský<s n="adj"/></r></p></e>
+    <e><p><l>polinezyjski<s n="adj"/></l><r>polynéský<s n="adj"/></r></p></e>
+    <e><p><l>taktowny<s n="adj"/></l><r>ohleduplný<s n="adj"/></r></p></e>
     <e><p><l>grecki<s n="adj"/></l><r>řecký<s n="adj"/></r></p></e>
     <e><p><l>weekendowy<s n="adj"/></l><r>víkendový<s n="adj"/></r></p></e>
     <e><p><l>typowy<s n="adj"/></l><r>typický<s n="adj"/></r></p></e>
@@ -2284,6 +2336,11 @@
     <e><p><l>zręczny<s n="adj"/></l><r>obratný<s n="adj"/></r></p></e>
     <e><p><l>zyskowny<s n="adj"/></l><r>ziskový<s n="adj"/></r></p></e>
     <e><p><l>żywotny<s n="adj"/></l><r>životný<s n="adj"/></r></p></e>
+    <e><p><l>czytelny<s n="adj"/></l><r>čitelný<s n="adj"/></r></p></e>
+    <e><p><l>czekoladowy<s n="adj"/></l><r>čokoládový<s n="adj"/></r></p></e>
+    <e><p><l>drugi<s n="adj"/></l><r>druhý<s n="adj"/></r></p></e>
+    <e><p><l>lesbijski<s n="adj"/></l><r>lesbický<s n="adj"/></r></p></e>
+    <e><p><l>niechętny<s n="adj"/></l><r>neochotný<s n="adj"/></r></p></e>
 
     <e><p><l>Al-Dżazira<s n="np"/><s n="al"/><s n="f"/></l><r>Al-Džazíra<s n="np"/><s n="al"/><s n="f"/></r></p></e>
     <e><p><l>Abidżan<s n="np"/><s n="top"/><s n="mi"/></l><r>Abidžan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
@@ -2465,6 +2522,128 @@
     <e><p><l>gryźć<s n="vblex"/><s n="imperf"/></l><r>kousat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zacząć<s n="vblex"/><s n="perf"/></l><r>začít<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>ostrzeliwać<s n="vblex"/><s n="imperf"/></l><r>ostřelovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>absorbować<s n="vblex"/><s n="imperf"/></l><r>absorbovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>adaptować<s n="vblex"/><s n="imperf"/></l><r>adaptovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>adresować<s n="vblex"/><s n="imperf"/></l><r>adresovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>agitować<s n="vblex"/><s n="imperf"/></l><r>agitovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>akceptować<s n="vblex"/><s n="imperf"/></l><r>akceptovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>aklimatyzować<s n="vblex"/><s n="imperf"/></l><r>aklimatizovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>akredytować<s n="vblex"/><s n="imperf"/></l><r>akreditovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>amputować<s n="vblex"/><s n="imperf"/></l><r>amputovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>anektować<s n="vblex"/><s n="imperf"/></l><r>anektovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>anulować<s n="vblex"/><s n="imperf"/></l><r>anulovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>apelować<s n="vblex"/><s n="imperf"/></l><r>apelovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>aplikować<s n="vblex"/><s n="imperf"/></l><r>aplikovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>aspirować<s n="vblex"/><s n="imperf"/></l><r>aspirovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>asymilować<s n="vblex"/><s n="imperf"/></l><r>asimilovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>awansować<s n="vblex"/><s n="imperf"/></l><r>postupovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>bagatelizować<s n="vblex"/><s n="imperf"/></l><r>bagatelizovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>bilansować<s n="vblex"/><s n="imperf"/></l><r>bilancovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>blokować<s n="vblex"/><s n="imperf"/></l><r>blokovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>bombardować<s n="vblex"/><s n="imperf"/></l><r>bombardovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>budować<s n="vblex"/><s n="imperf"/></l><r>budovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>cytować<s n="vblex"/><s n="imperf"/></l><r>citovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>częstować<s n="vblex"/><s n="imperf"/></l><r>častovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>darować<s n="vblex"/><s n="imperf"/></l><r>darovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>dawkować<s n="vblex"/><s n="imperf"/></l><r>aplikovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>degenerować<s n="vblex"/><s n="imperf"/></l><r>degenerovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>delegować<s n="vblex"/><s n="imperf"/></l><r>delegovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>demaskować<s n="vblex"/><s n="imperf"/></l><r>demaskovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>demolować<s n="vblex"/><s n="imperf"/></l><r>demolovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>deportować<s n="vblex"/><s n="imperf"/></l><r>deportovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>deprymować<s n="vblex"/><s n="imperf"/></l><r>deprimovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>dominować<s n="vblex"/><s n="imperf"/></l><r>dominovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>dyktować<s n="vblex"/><s n="imperf"/></l><r>diktovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>dyskredytować<s n="vblex"/><s n="imperf"/></l><r>diskreditovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>dysponować<s n="vblex"/><s n="imperf"/></l><r>disponovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>dziękować<s n="vblex"/><s n="imperf"/></l><r>děkovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>egzystować<s n="vblex"/><s n="imperf"/></l><r>existovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>eksperymentować<s n="vblex"/><s n="imperf"/></l><r>experimentovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>eksplodować<s n="vblex"/><s n="imperf"/></l><r>explodovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>eksportować<s n="vblex"/><s n="imperf"/></l><r>exportovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>ewakuować<s n="vblex"/><s n="imperf"/></l><r>evakuovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>filtrować<s n="vblex"/><s n="imperf"/></l><r>filtrovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>flirtować<s n="vblex"/><s n="imperf"/></l><r>flirtovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>formować<s n="vblex"/><s n="imperf"/></l><r>formovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>fotografować<s n="vblex"/><s n="imperf"/></l><r>fotografovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>gratulować<s n="vblex"/><s n="imperf"/></l><r>gratulovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>harmonizować<s n="vblex"/><s n="imperf"/></l><r>harmonizovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>hołdować<s n="vblex"/><s n="imperf"/></l><r>holdovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>idealizować<s n="vblex"/><s n="imperf"/></l><r>idealizovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>ignorować<s n="vblex"/><s n="imperf"/></l><r>ignorovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>ilustrować<s n="vblex"/><s n="imperf"/></l><r>ilustrovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>imitować<s n="vblex"/><s n="imperf"/></l><r>imitovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>imponować<s n="vblex"/><s n="imperf"/></l><r>imponovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>importować<s n="vblex"/><s n="imperf"/></l><r>importovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>informować<s n="vblex"/><s n="imperf"/></l><r>informovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>inspirować<s n="vblex"/><s n="imperf"/></l><r>inspirovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>instalować<s n="vblex"/><s n="imperf"/></l><r>instalovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>interpelować<s n="vblex"/><s n="imperf"/></l><r>interpelovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>interpretować<s n="vblex"/><s n="imperf"/></l><r>interpretovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>interweniować<s n="vblex"/><s n="imperf"/></l><r>intervenovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>irytować<s n="vblex"/><s n="imperf"/></l><r>iritovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>izolować<s n="vblex"/><s n="imperf"/></l><r>izolovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kalkulować<s n="vblex"/><s n="imperf"/></l><r>kalkulovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kamieniować<s n="vblex"/><s n="imperf"/></l><r>kamenovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kandydować<s n="vblex"/><s n="imperf"/></l><r>kandidovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kasować<s n="vblex"/><s n="imperf"/></l><r>označovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kokietować<s n="vblex"/><s n="imperf"/></l><r>koketovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kolędować<s n="vblex"/><s n="imperf"/></l><r>koledovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kolidować<s n="vblex"/><s n="imperf"/></l><r>kolidovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kompletować<s n="vblex"/><s n="imperf"/></l><r>kompletovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>komplikować<s n="vblex"/><s n="imperf"/></l><r>komplikovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>komponować<s n="vblex"/><s n="imperf"/></l><r>komponovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kompromitować<s n="vblex"/><s n="imperf"/></l><r>kompromitovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>koncentrować<s n="vblex"/><s n="imperf"/></l><r>koncentrovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>konfrontować<s n="vblex"/><s n="imperf"/></l><r>konfrontovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>konkurować<s n="vblex"/><s n="imperf"/></l><r>konkurovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>konsultować<s n="vblex"/><s n="imperf"/></l><r>konzultovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>konsumować<s n="vblex"/><s n="imperf"/></l><r>konzumovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kontynuować<s n="vblex"/><s n="imperf"/></l><r>pokračovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>koordynować<s n="vblex"/><s n="imperf"/></l><r>koordinovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kopiować<s n="vblex"/><s n="imperf"/></l><r>kopírovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>koronować<s n="vblex"/><s n="imperf"/></l><r>korunovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>korygować<s n="vblex"/><s n="imperf"/></l><r>korigovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kultywować<s n="vblex"/><s n="imperf"/></l><r>kultivovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kumulować<s n="vblex"/><s n="imperf"/></l><r>kumulovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>lamentować<s n="vblex"/><s n="imperf"/></l><r>lamentovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>legalizować<s n="vblex"/><s n="imperf"/></l><r>legalizovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>losować<s n="vblex"/><s n="imperf"/></l><r>losovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>manipulować<s n="vblex"/><s n="imperf"/></l><r>manipulovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>maskować<s n="vblex"/><s n="imperf"/></l><r>maskovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>masować<s n="vblex"/><s n="imperf"/></l><r>masírovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>mianować<s n="vblex"/><s n="imperf"/></l><r>jmenovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>modelować<s n="vblex"/><s n="imperf"/></l><r>modelovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>modernizować<s n="vblex"/><s n="imperf"/></l><r>modernizovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>modyfikować<s n="vblex"/><s n="imperf"/></l><r>modifikovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>molestować<s n="vblex"/><s n="imperf"/></l><r>obtěžovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>montować<s n="vblex"/><s n="imperf"/></l><r>montovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>naprawiać<s n="vblex"/><s n="imperf"/></l><r>opravovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>nazywać<s n="vblex"/><s n="imperf"/></l><r>jmenovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>negować<s n="vblex"/><s n="imperf"/></l><r>negovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>neutralizować<s n="vblex"/><s n="imperf"/></l><r>neutralizovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>normalizować<s n="vblex"/><s n="imperf"/></l><r>normalizovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>obserwować<s n="vblex"/><s n="imperf"/></l><r>sledovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>ofiarować<s n="vblex"/><s n="imperf"/></l><r>obětovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>opiekować<s n="vblex"/><s n="imperf"/></l><r>ošetřovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>organizować<s n="vblex"/><s n="imperf"/></l><r>organizovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>parodiować<s n="vblex"/><s n="imperf"/></l><r>parodovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>pielęgnować<s n="vblex"/><s n="imperf"/></l><r>ošetřovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>pilotować<s n="vblex"/><s n="imperf"/></l><r>pilotovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>podróżować<s n="vblex"/><s n="imperf"/></l><r>cestovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>poprawiać<s n="vblex"/><s n="imperf"/></l><r>korigovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>postępować<s n="vblex"/><s n="imperf"/></l><r>postupovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>produkować<s n="vblex"/><s n="imperf"/></l><r>produkovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>przeszkadzać<s n="vblex"/><s n="imperf"/></l><r>obtěžovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>rejestrować<s n="vblex"/><s n="imperf"/></l><r>registrovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>reklamować<s n="vblex"/><s n="imperf"/></l><r>propagovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>rezygnować<s n="vblex"/><s n="imperf"/></l><r>rezignovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>symulować<s n="vblex"/><s n="imperf"/></l><r>simulovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>szacować<s n="vblex"/><s n="imperf"/></l><r>odhadovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wyłączać<s n="vblex"/><s n="imperf"/></l><r>zakazovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zastępować<s n="vblex"/><s n="imperf"/></l><r>nahrazovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zawierać<s n="vblex"/><s n="imperf"/></l><r>zahrnovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>żałować<s n="vblex"/><s n="imperf"/></l><r>litovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>czerpać<s n="vblex"/></l><r>čerpat<s n="vblex"/></r></p></e>
     <e><p><l>czerwienić<s n="vblex"/></l><r>červenat<s n="vblex"/></r></p></e>
     <e><p><l>czytać<s n="vblex"/></l><r>číst<s n="vblex"/></r></p></e>
@@ -2613,35 +2792,20 @@
     <e><p><l>zagospodarowywać<s n="vblex"/></l><r>obhospodařovat<s n="vblex"/></r></p></e>
     <e><p><l>obiegać<s n="vblex"/></l><r>obíhat<s n="vblex"/></r></p></e>
     <e><p><l>wyjaśnić<s n="vblex"/></l><r>objasnit<s n="vblex"/></r></p></e>
-    <e><p><l>czekolada<s n="n"/><s n="f"/></l><r>čokoláda<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>czekoladowy<s n="adj"/></l><r>čokoládový<s n="adj"/></r></p></e>
     <e><p><l>czesać<s n="vblex"/></l><r>česat<s n="vblex"/></r></p></e>
-    <e><p><l>halo<s n="ij"/></l><r>haló<s n="ij"/></r></p></e>
-    <e><p><l>czytelny<s n="adj"/></l><r>čitelný<s n="adj"/></r></p></e>
-    <e><p><l>dokąd<s n="adv"/></l><r>kam<s n="adv"/></r></p></e>
-    <e><p><l>drugi<s n="adj"/></l><r>druhý<s n="adj"/></r></p></e>
-    <e><p><l>kogut<s n="n"/><s n="ma"/></l><r>kohout<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>kochać<s n="vblex"/></l><r>milovat<s n="vblex"/></r></p></e>
     <e><p><l>kupować<s n="vblex"/></l><r>kupovat<s n="vblex"/></r></p></e>
+    <e><p><l>nazywać<s n="vblex"/></l><r>jmenovat<s n="vblex"/></r></p></e>
+
+
+    <e><p><l>kogut<s n="n"/><s n="ma"/></l><r>kohout<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>kwas<s n="n"/><s n="mi"/></l><r>kyselina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stopień<s n="n"/><s n="mi"/></l><r>stupeň<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>stopień<g><b/>Celsjusza</g><s n="n"/><s n="mi"/></l><r>stupeň<g><b/>Celsia</g><s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>temperatura<s n="n"/><s n="f"/></l><r>teplota<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lesbijka<s n="n"/></l><r>lesbička<s n="n"/></r></p></e>
-    <e><p><l>lesbijski<s n="adj"/></l><r>lesbický<s n="adj"/></r></p></e>
-    <e><p><l>nagle<s n="adv"/></l><r>náhle<s n="adv"/></r></p></e>
+    <e><p><l>czekolada<s n="n"/><s n="f"/></l><r>čokoláda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nadzieja<s n="n"/></l><r>naděje<s n="n"/></r></p></e>
-    <e><p><l>na<b/>zdrowie<s n="adv"/></l><r>na<b/>zdraví<s n="adv"/></r></p></e>
-    <e><p><l>na<b/>zawsze<s n="adv"/></l><r>navždy<s n="adv"/></r></p></e>
-    <e><p><l>na<b/>przykład<s n="adv"/></l><r>například<s n="adv"/></r></p></e>
-    <e r="RL"><p><l>na<b/>przykład<s n="adv"/></l><r>na<b/>příklad<s n="adv"/></r></p></e>
-    <e><p><l>nazywać<s n="vblex"/></l><r>jmenovat<s n="vblex"/></r></p></e>
-    <e><p><l>nie<b/>ma<b/>za<b/>co<s n="ij"/></l><r>není<b/>zač<s n="ij"/></r></p></e>
-    <e><p><l>niechętny<s n="adj"/></l><r>neochotný<s n="adj"/></r></p></e>
-    <e><p><l>niedawno<s n="adv"/></l><r>nedávno<s n="adv"/></r></p></e>
-    <e><p><l>niedostępny<s n="adj"/></l><r>nedostupný<s n="adj"/></r></p></e>
-    <e><p><l>jednocześnie<s n="adv"/></l><r>zároveň<s n="adv"/></r></p></e>
-
     <e><p><l>arsen<s n="n"/><s n="mi"/></l><r>arzen<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>śniadanie<s n="n"/><s n="nt"/></l><r>snídaně<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>beletrystyka<s n="n"/><s n="f"/></l><r>beletrie<s n="n"/><s n="f"/></r></p></e>
@@ -4801,6 +4965,15 @@
     <e><p><l>w<b/>ogóle<s n="adv"/></l><r>vůbec<s n="adv"/></r></p></e>
     <e><p><l>odwrotnie<s n="adv"/></l><r>naopak<s n="adv"/></r></p></e>
     <e><p><l>na<b/>odwrót<s n="adv"/></l><r>naopak<s n="adv"/></r></p></e>
+    <e><p><l>dokąd<s n="adv"/></l><r>kam<s n="adv"/></r></p></e>
+    <e><p><l>nagle<s n="adv"/></l><r>náhle<s n="adv"/></r></p></e>
+    <e><p><l>na<b/>zdrowie<s n="adv"/></l><r>na<b/>zdraví<s n="adv"/></r></p></e>
+    <e><p><l>na<b/>zawsze<s n="adv"/></l><r>navždy<s n="adv"/></r></p></e>
+    <e><p><l>na<b/>przykład<s n="adv"/></l><r>například<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>na<b/>przykład<s n="adv"/></l><r>na<b/>příklad<s n="adv"/></r></p></e>
+    <e><p><l>niedawno<s n="adv"/></l><r>nedávno<s n="adv"/></r></p></e>
+    <e><p><l>niedostępny<s n="adj"/></l><r>nedostupný<s n="adj"/></r></p></e>
+    <e><p><l>jednocześnie<s n="adv"/></l><r>zároveň<s n="adv"/></r></p></e>
 
     <!-- Pre-adverbs -->
     <e><p><l>zbyt<s n="preadv"/></l><r>příliš<s n="preadv"/></r></p></e>
@@ -4840,6 +5013,8 @@
     <e><p><l>ach<s n="ij"/></l><r>ach<s n="ij"/></r></p></e>
     <e><p><l>aha<s n="ij"/></l><r>aha<s n="ij"/></r></p></e>
     <e><p><l>dobranoc<s n="ij"/></l><r>dobrou<b/>noc<s n="ij"/></r></p></e>
+    <e><p><l>halo<s n="ij"/></l><r>haló<s n="ij"/></r></p></e>
+    <e><p><l>nie<b/>ma<b/>za<b/>co<s n="ij"/></l><r>není<b/>zač<s n="ij"/></r></p></e>
 
      <!-- Abbreviations -->
 

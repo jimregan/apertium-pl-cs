@@ -38882,6 +38882,27 @@
     <e lm="żywotny"><i>żywotn</i><par n="now/y__adj"/></e>
     <e lm="żywotny"><p><l>najżywotniej</l><r>żywotny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="żywotny"><p><l>żywotniej</l><r>żywotny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="karygodny"><i>karygodn</i><par n="now/y__adj"/></e>
+    <e lm="karygodny"><p><l>karygodniej</l><r>karygodny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="karygodny"><p><l>najkarygodniej</l><r>karygodny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ostrożny"><i>ostrożn</i><par n="now/y__adj"/></e>
+    <e lm="ostrożny"><p><l>najostrożniej</l><r>ostrożny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ostrożny"><p><l>ostrożniej</l><r>ostrożny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ozdobny"><i>ozdobn</i><par n="now/y__adj"/></e>
+    <e lm="ozdobny"><p><l>najozdobniej</l><r>ozdobny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="ozdobny"><p><l>ozdobniej</l><r>ozdobny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="płochliwy"><i>płochliw</i><par n="now/y__adj"/></e>
+    <e lm="płochliwy"><p><l>najpłochliw</l><r>płochliwy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="płochliwy"><p><l>płochliw</l><r>płochliwy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="pobożny"><i>pobożn</i><par n="now/y__adj"/></e>
+    <e lm="pobożny"><p><l>najpobożniej</l><r>pobożny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="pobożny"><p><l>pobożniej</l><r>pobożny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="podrzędny"><i>podrzędn</i><par n="now/y__adj"/></e>
+    <e lm="podrzędny"><p><l>najpodrzędniej</l><r>podrzędny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="podrzędny"><p><l>podrzędniej</l><r>podrzędny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="taktowny"><i>taktown</i><par n="now/y__adj"/></e>
+    <e lm="taktowny"><p><l>najtaktowniej</l><r>taktowny</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="taktowny"><p><l>taktowniej</l><r>taktowny</r></p><par n="lep/szy__adj"/></e>
 
     <!-- Non-synthetic adjectives -->
     <!-- non-synthetic, with obsolete comparatives -->
@@ -39231,6 +39252,19 @@
     <e lm="ziemski"><i>ziems</i><par n="pols/ki__adj"/></e>
     <e lm="żeński"><i>żeńs</i><par n="pols/ki__adj"/></e>
     <e lm="żyliński"><i>żylińs</i><par n="pols/ki__adj"/></e>
+    <e lm="pakistański"><i>pakistańs</i><par n="pols/ki__adj"/></e> 
+    <e lm="osmański"><i>osmańs</i><par n="pols/ki__adj"/></e>
+    <e lm="paraolimpijski"><i>paraolimpijs</i><par n="pols/ki__adj"/></e>
+    <e lm="pasterski"><i>pasters</i><par n="pols/ki__adj"/></e>
+    <e lm="perski"><i>pers</i><par n="pols/ki__adj"/></e>
+    <e lm="peruwiański"><i>peruwiańs</i><par n="pols/ki__adj"/></e>
+    <e lm="pijacki"><i>pijac</i><par n="pols/ki__adj"/></e>
+    <e lm="pionierski"><i>pioniers</i><par n="pols/ki__adj"/></e>
+    <e lm="piracki"><i>pirac</i><par n="pols/ki__adj"/></e>
+    <e lm="poetycki"><i>poetyc</i><par n="pols/ki__adj"/></e>
+    <e lm="pogański"><i>pogańs</i><par n="pols/ki__adj"/></e>
+    <e lm="polinezyjski"><i>polinezyjs</i><par n="pols/ki__adj"/></e>
+
 
     <!-- Interjunctions -->
     <e lm="cześć"><i>cześć</i><par n="cześć__ij"/></e>
@@ -39760,6 +39794,134 @@
     <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
     <e lm="przeczytać"><i>przeczyt</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="dopełnić"><i>dopeł</i><par n="dopeł/nić__vblex"/></e>
+    <e lm="absorbować"><i>absorb</i><par n="mal/ować__vblex"/></e>
+    <e lm="adaptować"><i>adapt</i><par n="mal/ować__vblex"/></e>
+    <e lm="adresować"><i>adres</i><par n="mal/ować__vblex"/></e>
+    <e lm="agitować"><i>agit</i><par n="mal/ować__vblex"/></e>
+    <e lm="akceptować"><i>akcept</i><par n="mal/ować__vblex"/></e>
+    <e lm="aklimatyzować"><i>aklimatyz</i><par n="mal/ować__vblex"/></e>
+    <e lm="akredytować"><i>akredyt</i><par n="mal/ować__vblex"/></e>
+    <e lm="amputować"><i>amput</i><par n="mal/ować__vblex"/></e>
+    <e lm="anektować"><i>anekt</i><par n="mal/ować__vblex"/></e>
+    <e lm="anulować"><i>anul</i><par n="mal/ować__vblex"/></e>
+    <e lm="apelować"><i>apel</i><par n="mal/ować__vblex"/></e>
+    <e lm="aplikować"><i>aplik</i><par n="mal/ować__vblex"/></e>
+    <e lm="aspirować"><i>aspir</i><par n="mal/ować__vblex"/></e>
+    <e lm="asymilować"><i>asymil</i><par n="mal/ować__vblex"/></e>
+    <e lm="awansować"><i>awans</i><par n="mal/ować__vblex"/></e>
+    <e lm="bagatelizować"><i>bagateliz</i><par n="mal/ować__vblex"/></e>
+    <e lm="bilansować"><i>bilans</i><par n="mal/ować__vblex"/></e>
+    <e lm="blokować"><i>blok</i><par n="mal/ować__vblex"/></e>
+    <e lm="bombardować"><i>bombard</i><par n="mal/ować__vblex"/></e>
+    <e lm="brakować"><i>brak</i><par n="mal/ować__vblex"/></e>
+    <e lm="budować"><i>bud</i><par n="mal/ować__vblex"/></e>
+    <e lm="cytować"><i>cyt</i><par n="mal/ować__vblex"/></e>
+    <e lm="częstować"><i>częst</i><par n="mal/ować__vblex"/></e>
+    <e lm="darować"><i>dar</i><par n="mal/ować__vblex"/></e>
+    <e lm="dawkować"><i>dawk</i><par n="mal/ować__vblex"/></e>
+    <e lm="degenerować"><i>degener</i><par n="mal/ować__vblex"/></e>
+    <e lm="delegować"><i>deleg</i><par n="mal/ować__vblex"/></e>
+    <e lm="demaskować"><i>demask</i><par n="mal/ować__vblex"/></e>
+    <e lm="demolować"><i>demol</i><par n="mal/ować__vblex"/></e>
+    <e lm="deportować"><i>deport</i><par n="mal/ować__vblex"/></e>
+    <e lm="deprymować"><i>deprym</i><par n="mal/ować__vblex"/></e>
+    <e lm="dominować"><i>domin</i><par n="mal/ować__vblex"/></e>
+    <e lm="dyktować"><i>dykt</i><par n="mal/ować__vblex"/></e>
+    <e lm="dyskredytować"><i>dyskredyt</i><par n="mal/ować__vblex"/></e>
+    <e lm="dysponować"><i>dyspon</i><par n="mal/ować__vblex"/></e>
+    <e lm="dziękować"><i>dzięk</i><par n="mal/ować__vblex"/></e>
+    <e lm="egzystować"><i>egzyst</i><par n="mal/ować__vblex"/></e>
+    <e lm="eksperymentować"><i>eksperyment</i><par n="mal/ować__vblex"/></e>
+    <e lm="eksplodować"><i>eksplod</i><par n="mal/ować__vblex"/></e>
+    <e lm="eksportować"><i>eksport</i><par n="mal/ować__vblex"/></e>
+    <e lm="emerytować"><i>emeryt</i><par n="mal/ować__vblex"/></e>
+    <e lm="ewakuować"><i>ewaku</i><par n="mal/ować__vblex"/></e>
+    <e lm="filtrować"><i>filtr</i><par n="mal/ować__vblex"/></e>
+    <e lm="flirtować"><i>flirt</i><par n="mal/ować__vblex"/></e>
+    <e lm="formować"><i>form</i><par n="mal/ować__vblex"/></e>
+    <e lm="fotografować"><i>fotograf</i><par n="mal/ować__vblex"/></e>
+    <e lm="gratulować"><i>gratul</i><par n="mal/ować__vblex"/></e>
+    <e lm="harmonizować"><i>harmoniz</i><par n="mal/ować__vblex"/></e>
+    <e lm="hołdować"><i>hołd</i><par n="mal/ować__vblex"/></e>
+    <e lm="idealizować"><i>idealiz</i><par n="mal/ować__vblex"/></e>
+    <e lm="ignorować"><i>ignor</i><par n="mal/ować__vblex"/></e>
+    <e lm="ilustrować"><i>ilustr</i><par n="mal/ować__vblex"/></e>
+    <e lm="imitować"><i>imit</i><par n="mal/ować__vblex"/></e>
+    <e lm="imponować"><i>impon</i><par n="mal/ować__vblex"/></e>
+    <e lm="importować"><i>import</i><par n="mal/ować__vblex"/></e>
+    <e lm="informować"><i>inform</i><par n="mal/ować__vblex"/></e>
+    <e lm="inspirować"><i>inspir</i><par n="mal/ować__vblex"/></e>
+    <e lm="instalować"><i>instal</i><par n="mal/ować__vblex"/></e>
+    <e lm="interpelować"><i>interpel</i><par n="mal/ować__vblex"/></e>
+    <e lm="interpretować"><i>interpret</i><par n="mal/ować__vblex"/></e>
+    <e lm="interweniować"><i>interweni</i><par n="mal/ować__vblex"/></e>
+    <e lm="irytować"><i>iryt</i><par n="mal/ować__vblex"/></e>
+    <e lm="izolować"><i>izol</i><par n="mal/ować__vblex"/></e>
+    <e lm="kalkulować"><i>kalkul</i><par n="mal/ować__vblex"/></e>
+    <e lm="kamieniować"><i>kamieni</i><par n="mal/ować__vblex"/></e>
+    <e lm="kandydować"><i>kandyd</i><par n="mal/ować__vblex"/></e>
+    <e lm="kasować"><i>kas</i><par n="mal/ować__vblex"/></e>
+    <e lm="kokietować"><i>kokiet</i><par n="mal/ować__vblex"/></e>
+    <e lm="kolędować"><i>kolęd</i><par n="mal/ować__vblex"/></e>
+    <e lm="kolidować"><i>kolid</i><par n="mal/ować__vblex"/></e>
+    <e lm="kompletować"><i>komplet</i><par n="mal/ować__vblex"/></e>
+    <e lm="komplikować"><i>komplik</i><par n="mal/ować__vblex"/></e>
+    <e lm="komponować"><i>kompon</i><par n="mal/ować__vblex"/></e>
+    <e lm="kompromitować"><i>kompromit</i><par n="mal/ować__vblex"/></e>
+    <e lm="koncentrować"><i>koncentr</i><par n="mal/ować__vblex"/></e>
+    <e lm="konfrontować"><i>konfront</i><par n="mal/ować__vblex"/></e>
+    <e lm="konkurować"><i>konkur</i><par n="mal/ować__vblex"/></e>
+    <e lm="konsultować"><i>konsult</i><par n="mal/ować__vblex"/></e>
+    <e lm="konsumować"><i>konsum</i><par n="mal/ować__vblex"/></e>
+    <e lm="kontynuować"><i>kontynu</i><par n="mal/ować__vblex"/></e>
+    <e lm="koordynować"><i>koordyn</i><par n="mal/ować__vblex"/></e>
+    <e lm="kopiować"><i>kopi</i><par n="mal/ować__vblex"/></e>
+    <e lm="koronować"><i>koron</i><par n="mal/ować__vblex"/></e>
+    <e lm="korygować"><i>koryg</i><par n="mal/ować__vblex"/></e>
+    <e lm="kultywować"><i>kultyw</i><par n="mal/ować__vblex"/></e>
+    <e lm="kumulować"><i>kumul</i><par n="mal/ować__vblex"/></e>
+    <e lm="lamentować"><i>lament</i><par n="mal/ować__vblex"/></e>
+    <e lm="legalizować"><i>legaliz</i><par n="mal/ować__vblex"/></e>
+    <e lm="losować"><i>los</i><par n="mal/ować__vblex"/></e>
+    <e lm="manipulować"><i>manipul</i><par n="mal/ować__vblex"/></e>
+    <e lm="maskować"><i>mask</i><par n="mal/ować__vblex"/></e>
+    <e lm="masować"><i>mas</i><par n="mal/ować__vblex"/></e>
+    <e lm="mianować"><i>mian</i><par n="mal/ować__vblex"/></e>
+    <e lm="modelować"><i>model</i><par n="mal/ować__vblex"/></e>
+    <e lm="modernizować"><i>moderniz</i><par n="mal/ować__vblex"/></e>
+    <e lm="modyfikować"><i>modyfik</i><par n="mal/ować__vblex"/></e>
+    <e lm="molestować"><i>molest</i><par n="mal/ować__vblex"/></e>
+    <e lm="montować"><i>mont</i><par n="mal/ować__vblex"/></e>
+    <e lm="naprawiać"><i>naprawi</i><par n="czyt/ać__vblex"/></e>
+    <e lm="nazywać"><i>nazyw</i><par n="czyt/ać__vblex"/></e>
+    <e lm="negować"><i>neg</i><par n="mal/ować__vblex"/></e>
+    <e lm="neutralizować"><i>neutraliz</i><par n="mal/ować__vblex"/></e>
+    <e lm="normalizować"><i>normaliz</i><par n="mal/ować__vblex"/></e>
+    <e lm="obserwować"><i>obserw</i><par n="mal/ować__vblex"/></e>
+    <e lm="ofiarować"><i>ofiar</i><par n="mal/ować__vblex"/></e>
+    <e lm="opatentować"><i>opatent</i><par n="mal/ować__vblex"/></e>
+    <e lm="opiekować"><i>opiek</i><par n="mal/ować__vblex"/></e>
+    <e lm="organizować"><i>organiz</i><par n="mal/ować__vblex"/></e>
+    <e lm="parodiować"><i>parodi</i><par n="mal/ować__vblex"/></e>
+    <e lm="pielęgnować"><i>pielęgn</i><par n="mal/ować__vblex"/></e>
+    <e lm="pilotować"><i>pilot</i><par n="mal/ować__vblex"/></e>
+    <e lm="pływać"><i>pływ</i><par n="czyt/ać__vblex"/></e>
+    <e lm="podporządkować"><i>podporządk</i><par n="mal/ować__vblex"/></e>
+    <e lm="podróżować"><i>podróż</i><par n="mal/ować__vblex"/></e>
+    <e lm="poprawiać"><i>poprawi</i><par n="czyt/ać__vblex"/></e>
+    <e lm="postępować"><i>postęp</i><par n="mal/ować__vblex"/></e>
+    <e lm="produkować"><i>produk</i><par n="mal/ować__vblex"/></e>
+    <e lm="przeszkadzać"><i>przeszkadz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="rejestrować"><i>rejestr</i><par n="mal/ować__vblex"/></e>
+    <e lm="reklamować"><i>reklam</i><par n="mal/ować__vblex"/></e>
+    <e lm="rezygnować"><i>rezygn</i><par n="mal/ować__vblex"/></e>
+    <e lm="sterować"><i>ster</i><par n="mal/ować__vblex"/></e>
+    <e lm="symulować"><i>symul</i><par n="mal/ować__vblex"/></e>
+    <e lm="szacować"><i>szac</i><par n="mal/ować__vblex"/></e>
+    <e lm="wyłączać"><i>wyłącz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="zastępować"><i>zastęp</i><par n="mal/ować__vblex"/></e>
+    <e lm="zawierać"><i>zawier</i><par n="czyt/ać__vblex"/></e>
+    <e lm="żałować"><i>żał</i><par n="mal/ować__vblex"/></e>
     <e lm="pojechać"><i>pojech</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="dać"><i>d</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="oddać"><i>odd</i><par n="przeczyt/ać__vblex"/></e>
@@ -39831,6 +39993,44 @@
     <e lm="kazać" r="LR"><i>ka</i><par n="ka/zać__vblex_perf"/></e>
 
     <!-- Nouns -->
+    <e lm="outsider"><i>outsider</i><par n="aktor__n"/></e>
+    <e lm="popularyzator"><i>popularyzator</i><par n="aktor__n"/></e>
+    <e lm="podtekst"><i>podtek</i><par n="amety/st__n"/></e>
+    <e lm="konserwa"><i>konserw</i><par n="analiz/a__n"/></e>
+    <e lm="platana"><i>platan</i><par n="analiz/a__n"/></e>
+    <e lm="tynk"><i>tynk</i><par n="brzeg__n"/></e>
+    <e lm="ochota"><i>ocho</i><par n="cha/ta__n"/></e>
+    <e lm="kwestia"><i>kwest</i><par n="filozofi/a__n"/></e>
+    <e lm="petrochemia"><i>petrochemi</i><par n="filozofi/a__n"/></e>
+    <e lm="politologia"><i>politologi</i><par n="filozofi/a__n"/></e>
+    <e lm="kondukt"><i>konduk</i><par n="hi/t__n"/></e>
+    <e lm="łącznia"><i>łączni</i><par n="hurtowni/a__n"/></e>
+    <e lm="łóżeczko"><i>łóżecz</i><par n="jabł/ko__n"/></e>
+    <e lm="nudziarz"><i>nudziarz</i><par n="lekarz__n"/></e>
+    <e lm="spadochroniarz"><i>spadochroniarz</i><par n="lekarz__n"/></e>
+    <e lm="czystka"><i>czyst</i><par n="mat/ka__n"/></e>
+    <e lm="nóżka"><i>nóż</i><par n="mat/ka__n"/></e>
+    <e lm="piątka"><i>piąt</i><par n="mat/ka__n"/></e>
+    <e lm="pierwiosnka"><i>pierwiosn</i><par n="mat/ka__n"/></e>
+    <e lm="przesyłka"><i>przesył</i><par n="mat/ka__n"/></e>
+    <e lm="skrytka"><i>skryt</i><par n="mat/ka__n"/></e>
+    <e lm="bierność"><i>biernoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="oryginalność"><i>oryginalnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="platan"><i>platan</i><par n="minus__n"/></e>
+    <e lm="petarda"><i>petard</i><par n="od/a__n"/></e>
+    <e lm="orangutan"><i>orangutan</i><par n="rekin__n"/></e>
+    <e lm="dom"><i>dom</i><par n="sklep__n"/></e>
+    <e lm="patos"><i>patos</i><par n="sklep__n"/></e>
+    <e lm="plankton"><i>plankton</i><par n="sklep__n"/></e>
+    <e lm="polistyren"><i>polistyren</i><par n="sklep__n"/></e>
+    <e lm="poryw"><i>poryw</i><par n="sklep__n"/></e>
+    <e lm="pokojowa"><i>pokojow</i><par n="synow/a__n"/></e>
+    <e lm="inkubator"><i>inkubator</i><par n="telewizor__n"/></e>
+    <e lm="jura"><i>jur</i><par n="viagr/a__n"/></e>
+    <e lm="piedestał"><i>piedesta</i><par n="wa/ł__n"/></e>
+    <e lm="podtytuł"><i>podtytu</i><par n="wa/ł__n"/></e>
+    <e lm="przedpołudnie"><i>przedpołudni</i><par n="wesel/e__n"/></e>
+    <e lm="pastwisko"><i>pastwisk</i><par n="wojsk/o__n"/></e>
     <e lm="agroturystyka"><i>agroturysty</i><par n="rze/ka__n"/></e>
     <e lm="akacja"><i>akac</i><par n="dysertac/ja__n"/></e>
     <e lm="akcelerator"><i>akcelerator</i><par n="telewizor__n"/></e>
