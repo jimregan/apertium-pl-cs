@@ -2642,6 +2642,143 @@
     <e c="check"><p><l>język<b/>słoweński<s n="n"/><s n="mi"/></l><r>slovinština<s n="n"/><s n="f"/></r></p></e>
 
     <!-- Adjectives -->
+    <e><p><l>aktualny<s n="adj"/></l><r>aktuální<s n="adj"/></r></p></e>
+    <e><p><l>aktualny<s n="adj"/></l><r>běžný<s n="adj"/></r></p></e>
+    <e><p><l>aktualny<s n="adj"/></l><r>současný<s n="adj"/></r></p></e>
+    <e><p><l>aktywny<s n="adj"/></l><r>aktivní<s n="adj"/></r></p></e>
+    <e><p><l>aktywny<s n="adj"/></l><r>činný<s n="adj"/></r></p></e>
+    <e><p><l>artystyczny<s n="adj"/></l><r>umělecký<s n="adj"/></r></p></e>
+    <e><p><l>bezpłatny<s n="adj"/></l><r>bezplatný<s n="adj"/></r></p></e>
+    <e><p><l>bezwzględny<s n="adj"/></l><r>bezohledný<s n="adj"/></r></p></e>
+    <e><p><l>brzydki<s n="adj"/></l><r>ošklivý<s n="adj"/></r></p></e>
+    <e><p><l>burzliwy<s n="adj"/></l><r>bouřlivý<s n="adj"/></r></p></e>
+    <e><p><l>całkowity<s n="adj"/></l><r>celkový<s n="adj"/></r></p></e>
+    <e><p><l>całkowity<s n="adj"/></l><r>naprostý<s n="adj"/></r></p></e>
+    <e><p><l>cenny<s n="adj"/></l><r>cenný<s n="adj"/></r></p></e>
+    <e><p><l>cenny<s n="adj"/></l><r>vzácný<s n="adj"/></r></p></e>
+    <e><p><l>ciekawy<s n="adj"/></l><r>zvědavý<s n="adj"/></r></p></e>
+    <e><p><l>ciężki<s n="adj"/></l><r>obtížný<s n="adj"/></r></p></e>
+    <e><p><l>członkowski<s n="adj"/></l><r>členský<s n="adj"/></r></p></e>
+    <e><p><l>czynny<s n="adj"/></l><r>aktivní<s n="adj"/></r></p></e>
+    <e><p><l>czynny<s n="adj"/></l><r>činný<s n="adj"/></r></p></e>
+    <e><p><l>czynny<s n="adj"/></l><r>účinný<s n="adj"/></r></p></e>
+    <e><p><l>domowy<s n="adj"/></l><r>domácí<s n="adj"/></r></p></e>
+    <e><p><l>domowy<s n="adj"/></l><r>domovský<s n="adj"/></r></p></e>
+    <e><p><l>dziki<s n="adj"/></l><r>divý<s n="adj"/></r></p></e>
+    <e><p><l>elegancki<s n="adj"/></l><r>elegantní<s n="adj"/></r></p></e>
+    <e><p><l>głupi<s n="adj"/></l><r>hloupý<s n="adj"/></r></p></e>
+    <e><p><l>gwałtowny<s n="adj"/></l><r>zuřivý<s n="adj"/></r></p></e>
+    <e><p><l>intensywny<s n="adj"/></l><r>intenzívní<s n="adj"/></r></p></e>
+    <e><p><l>istotny<s n="adj"/></l><r>důležitý<s n="adj"/></r></p></e>
+    <e><p><l>jednakowy<s n="adj"/></l><r>jednotný<s n="adj"/></r></p></e>
+    <e><p><l>karny<s n="adj"/></l><r>kárný<s n="adj"/></r></p></e>
+    <e><p><l>karny<s n="adj"/></l><r>trestní<s n="adj"/></r></p></e>
+    <e><p><l>kompetentny<s n="adj"/></l><r>kompetentní<s n="adj"/></r></p></e>
+    <e><p><l>konieczny<s n="adj"/></l><r>nutný<s n="adj"/></r></p></e>
+    <e><p><l>konkretny<s n="adj"/></l><r>konkrétní<s n="adj"/></r></p></e>
+    <e><p><l>korzystny<s n="adj"/></l><r>příznivý<s n="adj"/></r></p></e>
+    <e><p><l>krajowy<s n="adj"/></l><r>domácí<s n="adj"/></r></p></e>
+    <e><p><l>krajowy<s n="adj"/></l><r>tuzemský<s n="adj"/></r></p></e>
+    <e><p><l>kulturalny<s n="adj"/></l><r>kulturní<s n="adj"/></r></p></e>
+    <e><p><l>lekarski<s n="adj"/></l><r>lékařský<s n="adj"/></r></p></e>
+    <e><p><l>liberalny<s n="adj"/></l><r>liberální<s n="adj"/></r></p></e>
+    <e><p><l>liczny<s n="adj"/></l><r>četný<s n="adj"/></r></p></e>
+    <e><p><l>liczny<s n="adj"/></l><r>početný<s n="adj"/></r></p></e>
+    <e><p><l>liczny<s n="adj"/></l><r>rozličný<s n="adj"/></r></p></e>
+    <e><p><l>literacki<s n="adj"/></l><r>literární<s n="adj"/></r></p></e>
+    <e><p><l>ludzki<s n="adj"/></l><r>člověčí<s n="adj"/></r></p></e>
+    <e><p><l>ludzki<s n="adj"/></l><r>lidský<s n="adj"/></r></p></e>
+    <e><p><l>łatwy<s n="adj"/></l><r>snadný<s n="adj"/></r></p></e>
+    <e><p><l>materialny<s n="adj"/></l><r>hmotný<s n="adj"/></r></p></e>
+    <e><p><l>materialny<s n="adj"/></l><r>materiální<s n="adj"/></r></p></e>
+    <e><p><l>moralny<s n="adj"/></l><r>morální<s n="adj"/></r></p></e>
+    <e><p><l>moralny<s n="adj"/></l><r>mravný<s n="adj"/></r></p></e>
+    <e><p><l>możliwy<s n="adj"/></l><r>možný<s n="adj"/></r></p></e>
+    <e><p><l>narodowy<s n="adj"/></l><r>nacionální<s n="adj"/></r></p></e>
+    <e><p><l>narodowy<s n="adj"/></l><r>národní<s n="adj"/></r></p></e>
+    <e><p><l>naturalny<s n="adj"/></l><r>přírodní<s n="adj"/></r></p></e>
+    <e><p><l>negatywny<s n="adj"/></l><r>negativní<s n="adj"/></r></p></e>
+    <e><p><l>obowiązkowy<s n="adj"/></l><r>povinný<s n="adj"/></r></p></e>
+    <e><p><l>obronny<s n="adj"/></l><r>obranný<s n="adj"/></r></p></e>
+    <e><p><l>odpowiedzialny<s n="adj"/></l><r>odpovědný<s n="adj"/></r></p></e>
+    <e><p><l>ogromny<s n="adj"/></l><r>obří<s n="adj"/></r></p></e>
+    <e><p><l>ogromny<s n="adj"/></l><r>obrovský<s n="adj"/></r></p></e>
+    <e><p><l>ogromny<s n="adj"/></l><r>ohromný<s n="adj"/></r></p></e>
+    <e><p><l>okresowy<s n="adj"/></l><r>periodický<s n="adj"/></r></p></e>
+    <e><p><l>okrutny<s n="adj"/></l><r>krutý<s n="adj"/></r></p></e>
+    <e><p><l>oryginalny<s n="adj"/></l><r>originál<s n="adj"/></r></p></e>
+    <e><p><l>pełny<s n="adj"/></l><r>plný<s n="adj"/></r></p></e>
+    <e><p><l>pełny<s n="adj"/></l><r>úplný<s n="adj"/></r></p></e>
+    <e><p><l>pierwotny<s n="adj"/></l><r>původní<s n="adj"/></r></p></e>
+    <e><p><l>piękny<s n="adj"/></l><r>krásný<s n="adj"/></r></p></e>
+    <e><p><l>płatny<s n="adj"/></l><r>placený<s n="adj"/></r></p></e>
+    <e><p><l>podległy<s n="adj"/></l><r>závislý<s n="adj"/></r></p></e>
+    <e><p><l>podobny<s n="adj"/></l><r>podobný<s n="adj"/></r></p></e>
+    <e><p><l>polityczny<s n="adj"/></l><r>politický<s n="adj"/></r></p></e>
+    <e><p><l>popularny<s n="adj"/></l><r>populární<s n="adj"/></r></p></e>
+    <e><p><l>potężny<s n="adj"/></l><r>mohutný<s n="adj"/></r></p></e>
+    <e><p><l>potrzebny<s n="adj"/></l><r>potřebný<s n="adj"/></r></p></e>
+    <e><p><l>poważny<s n="adj"/></l><r>vážný<s n="adj"/></r></p></e>
+    <e><p><l>powolny<s n="adj"/></l><r>povolný<s n="adj"/></r></p></e>
+    <e><p><l>powszechny<s n="adj"/></l><r>obecný<s n="adj"/></r></p></e>
+    <e><p><l>powszechny<s n="adj"/></l><r>všeobecný<s n="adj"/></r></p></e>
+    <e><p><l>pozytywny<s n="adj"/></l><r>pozitivní<s n="adj"/></r></p></e>
+    <e><p><l>praktyczny<s n="adj"/></l><r>praktický<s n="adj"/></r></p></e>
+    <e><p><l>prawdopodobny<s n="adj"/></l><r>pravděpodobný<s n="adj"/></r></p></e>
+    <e><p><l>prawdziwy<s n="adj"/></l><r>opravdový<s n="adj"/></r></p></e>
+    <e><p><l>prawny<s n="adj"/></l><r>právní<s n="adj"/></r></p></e>
+    <e><p><l>prywatny<s n="adj"/></l><r>privátní<s n="adj"/></r></p></e>
+    <e><p><l>prywatny<s n="adj"/></l><r>soukromý<s n="adj"/></r></p></e>
+    <e><p><l>publiczny<s n="adj"/></l><r>státní<s n="adj"/></r></p></e>
+    <e><p><l>publiczny<s n="adj"/></l><r>veřejnoprávní<s n="adj"/></r></p></e>
+    <e><p><l>publiczny<s n="adj"/></l><r>veřejný<s n="adj"/></r></p></e>
+    <e><p><l>rasowy<s n="adj"/></l><r>čistokrevný<s n="adj"/></r></p></e>
+    <e><p><l>regularny<s n="adj"/></l><r>pravidelný<s n="adj"/></r></p></e>
+    <e><p><l>religijny<s n="adj"/></l><r>náboženský<s n="adj"/></r></p></e>
+    <e><p><l>rodzinny<s n="adj"/></l><r>rodinný<s n="adj"/></r></p></e>
+    <e><p><l>rodzinny<s n="adj"/></l><r>rodný<s n="adj"/></r></p></e>
+    <e><p><l>różny<s n="adj"/></l><r>různý<s n="adj"/></r></p></e>
+    <e><p><l>samodzielny<s n="adj"/></l><r>samostatný<s n="adj"/></r></p></e>
+    <e><p><l>silny<s n="adj"/></l><r>silný<s n="adj"/></r></p></e>
+    <e><p><l>słoneczny<s n="adj"/></l><r>slunečný<s n="adj"/></r></p></e>
+    <e><p><l>specjalny<s n="adj"/></l><r>speciální<s n="adj"/></r></p></e>
+    <e><p><l>specyficzny<s n="adj"/></l><r>specifický<s n="adj"/></r></p></e>
+    <e><p><l>spokojny<s n="adj"/></l><r>spokojený<s n="adj"/></r></p></e>
+    <e><p><l>społeczny<s n="adj"/></l><r>společný<s n="adj"/></r></p></e>
+    <e><p><l>sprzeczny<s n="adj"/></l><r>protichůdný<s n="adj"/></r></p></e>
+    <e><p><l>sprzeczny<s n="adj"/></l><r>rozporný<s n="adj"/></r></p></e>
+    <e><p><l>swobodny<s n="adj"/></l><r>svobodný<s n="adj"/></r></p></e>
+    <e><p><l>szczególny<s n="adj"/></l><r>zvláštní<s n="adj"/></r></p></e>
+    <e><p><l>tajny<s n="adj"/></l><r>tajný<s n="adj"/></r></p></e>
+    <e><p><l>techniczny<s n="adj"/></l><r>technický<s n="adj"/></r></p></e>
+    <e><p><l>tradycyjny<s n="adj"/></l><r>tradiční<s n="adj"/></r></p></e>
+    <e><p><l>trudny<s n="adj"/></l><r>obtížný<s n="adj"/></r></p></e>
+    <e><p><l>wartościowy<s n="adj"/></l><r>cenný<s n="adj"/></r></p></e>
+    <e><p><l>wartościowy<s n="adj"/></l><r>hodnotný<s n="adj"/></r></p></e>
+    <e><p><l>ważny<s n="adj"/></l><r>důležitý<s n="adj"/></r></p></e>
+    <e><p><l>widoczny<s n="adj"/></l><r>patrný<s n="adj"/></r></p></e>
+    <e><p><l>widoczny<s n="adj"/></l><r>viditelný<s n="adj"/></r></p></e>
+    <e><p><l>wierny<s n="adj"/></l><r>věrný<s n="adj"/></r></p></e>
+    <e><p><l>właściwy<s n="adj"/></l><r>příslušný<s n="adj"/></r></p></e>
+    <e><p><l>wspólny<s n="adj"/></l><r>společný<s n="adj"/></r></p></e>
+    <e><p><l>zawodowy<s n="adj"/></l><r>profesní<s n="adj"/></r></p></e>
+    <e><p><l>zdolny<s n="adj"/></l><r>schopný<s n="adj"/></r></p></e>
+    <e><p><l>zgodny<s n="adj"/></l><r>souhlasný<s n="adj"/></r></p></e>
+    <e><p><l>zwyczajny<s n="adj"/></l><r>obyčejný<s n="adj"/></r></p></e>
+    <e><p><l>zwykły<s n="adj"/></l><r>obyčejný<s n="adj"/></r></p></e>
+    <e><p><l>żółty<s n="adj"/></l><r>žlutý<s n="adj"/></r></p></e>
+    <e><p><l>żywy<s n="adj"/></l><r>živý<s n="adj"/></r></p></e>
+    <e><p><l>cudowny<s n="adj"/></l><r>zázračný<s n="adj"/></r></p></e>
+    <e><p><l>dźwięczny<s n="adj"/></l><r>zvučný<s n="adj"/></r></p></e>
+    <e><p><l>przytulny<s n="adj"/></l><r>útulný<s n="adj"/></r></p></e>
+    <e><p><l>walny<s n="adj"/></l><r>valný<s n="adj"/></r></p></e>
+    <e><p><l>warszawski<s n="adj"/></l><r>varšavský<s n="adj"/></r></p></e>
+    <e><p><l>wymowny<s n="adj"/></l><r>výmluvný<s n="adj"/></r></p></e>
+    <e><p><l>zakarpacki<s n="adj"/></l><r>zakarpatský<s n="adj"/></r></p></e>
+    <e><p><l>zamożny<s n="adj"/></l><r>zámožný<s n="adj"/></r></p></e>
+    <e><p><l>zawrotny<s n="adj"/></l><r>závratný<s n="adj"/></r></p></e>
+    <e><p><l>zdradziecki<s n="adj"/></l><r>zrádný<s n="adj"/></r></p></e>
+    <e><p><l>zwrotny<s n="adj"/></l><r>vratný<s n="adj"/></r></p></e>
     <e><p><l>chłopski<s n="adj"/></l><r>selský<s n="adj"/></r></p></e>
     <e><p><l>drukarski<s n="adj"/></l><r>tiskový<s n="adj"/></r></p></e>
     <e><p><l>grecki<s n="adj"/></l><r>řecký<s n="adj"/></r></p></e>
@@ -3034,6 +3171,64 @@
     <e><p><l>względny<s n="adj"/></l><r>relativní<s n="adj"/></r></p></e>
 
     <!-- Adverbs -->
+    <e><p><l>ambulatoryjnie<s n="adv"/></l><r>ambulantně<s n="adv"/></r></p></e>
+    <e><p><l>bezbłędnie<s n="adv"/></l><r>neomylně<s n="adv"/></r></p></e>
+    <e><p><l>bezmyślnie<s n="adv"/></l><r>bezmyšlenkovitě<s n="adv"/></r></p></e>
+    <e><p><l>bezpiecznie<s n="adv"/></l><r>bezpečně<s n="adv"/></r></p></e>
+    <e><p><l>bezproblemowo<s n="adv"/></l><r>bezvadně<s n="adv"/></r></p></e>
+    <e><p><l>błyskawicznie<s n="adv"/></l><r>bleskově<s n="adv"/></r></p></e>
+    <e><p><l>błyskawicznie<s n="adv"/></l><r>okamžitě<s n="adv"/></r></p></e>
+    <e><p><l>brawurowo<s n="adv"/></l><r>bravurně<s n="adv"/></r></p></e>
+    <e><p><l>centralnie<s n="adv"/></l><r>centrálně<s n="adv"/></r></p></e>
+    <e><p><l>definitywnie<s n="adv"/></l><r>definitivně<s n="adv"/></r></p></e>
+    <e><p><l>demonstracyjnie<s n="adv"/></l><r>demonstrativně<s n="adv"/></r></p></e>
+    <e><p><l>dobrowolnie<s n="adv"/></l><r>dobrovolně<s n="adv"/></r></p></e>
+    <e><p><l>ewidentnie<s n="adv"/></l><r>evidentně<s n="adv"/></r></p></e>
+    <e><p><l>gorączkowo<s n="adv"/></l><r>horečně<s n="adv"/></r></p></e>
+    <e><p><l>groteskowo<s n="adv"/></l><r>groteskně<s n="adv"/></r></p></e>
+    <e><p><l>groźnie<s n="adv"/></l><r>hrozivě<s n="adv"/></r></p></e>
+    <e><p><l>ideowo<s n="adv"/></l><r>ideově<s n="adv"/></r></p></e>
+    <e><p><l>istotnie<s n="adv"/></l><r>podstatně<s n="adv"/></r></p></e>
+    <e><p><l>kurczowo<s n="adv"/></l><r>křečovitě<s n="adv"/></r></p></e>
+    <e><p><l>legalnie<s n="adv"/></l><r>legálně<s n="adv"/></r></p></e>
+    <e><p><l>miesięcznie<s n="adv"/></l><r>měsíčně<s n="adv"/></r></p></e>
+    <e><p><l>nadzwyczajnie<s n="adv"/></l><r>mimořádně<s n="adv"/></r></p></e>
+    <e><p><l>nerwowo<s n="adv"/></l><r>nervózně<s n="adv"/></r></p></e>
+    <e><p><l>nieoczekiwanie<s n="adv"/></l><r>nečekaně<s n="adv"/></r></p></e>
+    <e><p><l>obustronnie<s n="adv"/></l><r>oboustranně<s n="adv"/></r></p></e>
+    <e><p><l>oczekiwanie<s n="adv"/></l><r>čekaně<s n="adv"/></r></p></e>
+    <e><p><l>oddzielnie<s n="adv"/></l><r>odděleně<s n="adv"/></r></p></e>
+    <e><p><l>ostentacyjnie<s n="adv"/></l><r>demonstrativně<s n="adv"/></r></p></e>
+    <e><p><l>ostentacyjnie<s n="adv"/></l><r>ostentativně<s n="adv"/></r></p></e>
+    <e><p><l>paradoksalnie<s n="adv"/></l><r>paradoxně<s n="adv"/></r></p></e>
+    <e><p><l>pisemnie<s n="adv"/></l><r>písemně<s n="adv"/></r></p></e>
+    <e><p><l>pokazowo<s n="adv"/></l><r>demonstrativně<s n="adv"/></r></p></e>
+    <e><p><l>przedwczoraj<s n="adv"/></l><r>předevčírem<s n="adv"/></r></p></e>
+    <e><p><l>relatywnie<s n="adv"/></l><r>relativně<s n="adv"/></r></p></e>
+    <e><p><l>rytualnie<s n="adv"/></l><r>obřadně<s n="adv"/></r></p></e>
+    <e><p><l>samoczynnie<s n="adv"/></l><r>samovolně<s n="adv"/></r></p></e>
+    <e><p><l>standardowo<s n="adv"/></l><r>standardně<s n="adv"/></r></p></e>
+    <e><p><l>ślepo<s n="adv"/></l><r>slepě<s n="adv"/></r></p></e>
+    <e><p><l>triumfalnie<s n="adv"/></l><r>vítězoslavně<s n="adv"/></r></p></e>
+    <e><p><l>ustawicznie<s n="adv"/></l><r>ustavičně<s n="adv"/></r></p></e>
+    <e><p><l>zaocznie<s n="adv"/></l><r>dálkově<s n="adv"/></r></p></e>
+    <e><p><l>złowieszczo<s n="adv"/></l><r>zlověstně<s n="adv"/></r></p></e>
+    <e><p><l>żywiołowo<s n="adv"/></l><r>živelně<s n="adv"/></r></p></e>
+    <e><p><l>zrozumiale<s n="adv"/><s n="sint"/></l><r>zřetelně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>wiernie<s n="adv"/><s n="sint"/></l><r>věrně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>uważnie<s n="adv"/><s n="sint"/></l><r>bedlivě<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>troskliwie<s n="adv"/><s n="sint"/></l><r>bedlivě<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>tanio<s n="adv"/><s n="sint"/></l><r>levně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>samowolnie<s n="adv"/><s n="sint"/></l><r>samovolně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>rezolutnie<s n="adv"/><s n="sint"/></l><r>rezolutně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>racjonalnie<s n="adv"/><s n="sint"/></l><r>racionálně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>pogardliwie<s n="adv"/><s n="sint"/></l><r>pohrdavě<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>pilnie<s n="adv"/><s n="sint"/></l><r>bedlivě<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>perfekcyjnie<s n="adv"/><s n="sint"/></l><r>perfektně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>obszernie<s n="adv"/><s n="sint"/></l><r>obšírně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>mężnie<s n="adv"/><s n="sint"/></l><r>mužně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>majestatycznie<s n="adv"/><s n="sint"/></l><r>majestátně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>wszechstronnie<s n="adv"/><s n="sint"/></l><r>exaktně<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>typowo<s n="adv"/></l><r>typicky<s n="adv"/></r></p></e>
     <e><p><l>nigdy<s n="adv"/></l><r>nikdy<s n="adv"/></r></p></e>
 	<e><p><l>bezpowrotnie<s n="adv"/></l><r>nenávratno<s n="adv"/></r></p></e>
