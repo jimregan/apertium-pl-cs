@@ -98,6 +98,9 @@
    
     <pardef n="ve">
       <e>
+        <i>w</i>
+      </e>
+      <e>
         <i>v</i>
       </e>
       <e>
@@ -143,6 +146,14 @@
   </pardefs>
 
   <section id="main" type="standard">
+    <e>
+      <p>
+        <l><a/>v<b/></l>
+        <r>ve<b/></r>
+      </p>
+      <par n="caracter_general"/>
+      <par n="ve"/>
+    </e>
     <e>
       <p>
         <l><a/>v<b/></l>
