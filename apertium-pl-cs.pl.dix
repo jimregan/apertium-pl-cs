@@ -14752,10 +14752,7 @@
         </p>
         <par n="BASE__będący"/>
       </e>
-
     </pardef>
-
-
     <pardef n="czyt/ać__vblex">
       <e>
          <p>
@@ -40103,6 +40100,106 @@
     <e lm="trzeba"><i>trzeba</i><par n="trzeba__vaux"/></e>
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
+
+    <e lm="aktualizować"><i>aktualiz</i><par n="mal/ować__vblex"/></e>
+    <e lm="animować"><i>anim</i><par n="mal/ować__vblex"/></e>
+    <e lm="archiwizować"><i>archiwiz</i><par n="mal/ować__vblex"/></e>
+    <e lm="artykułować"><i>artykuł</i><par n="mal/ować__vblex"/></e>
+    <e lm="deklasować"><i>deklas</i><par n="mal/ować__vblex"/></e>
+    <e lm="dementować"><i>dement</i><par n="mal/ować__vblex"/></e>
+    <e lm="diagnozować"><i>diagnoz</i><par n="mal/ować__vblex"/></e>
+    <e lm="domyślać"><i>domyśl</i><par n="czyt/ać__vblex"/></e>
+    <e lm="dotować"><i>dot</i><par n="mal/ować__vblex"/></e>
+    <e lm="ekspandować"><i>ekspand</i><par n="mal/ować__vblex"/></e>
+    <e lm="filmować"><i>film</i><par n="mal/ować__vblex"/></e>
+    <e lm="generować"><i>gener</i><par n="mal/ować__vblex"/></e>
+    <e lm="grillować"><i>grill</i><par n="mal/ować__vblex"/></e>
+    <e lm="instruować"><i>instru</i><par n="mal/ować__vblex"/></e>
+    <e lm="integrować"><i>integr</i><par n="mal/ować__vblex"/></e>
+    <e lm="katapultować"><i>katapult</i><par n="mal/ować__vblex"/></e>
+    <e lm="kodować"><i>kod</i><par n="mal/ować__vblex"/></e>
+    <e lm="kontrolować"><i>kontrol</i><par n="mal/ować__vblex"/></e>
+    <e lm="lobbować"><i>lobb</i><par n="mal/ować__vblex"/></e>
+    <e lm="maksymalizować"><i>maksymaliz</i><par n="mal/ować__vblex"/></e>
+    <e lm="minimalizować"><i>minimaliz</i><par n="mal/ować__vblex"/></e>
+    <e lm="monitorować"><i>monitor</i><par n="mal/ować__vblex"/></e>
+    <e lm="nastawiać"><i>nastawi</i><par n="czyt/ać__vblex"/></e>
+    <e lm="nauczać"><i>naucz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="nominować"><i>nomin</i><par n="mal/ować__vblex"/></e>
+    <e lm="obniżać"><i>obniża</i><par n="czyt/ać__vblex"/></e>
+    <e lm="obsługiwać"><i>obsług</i><par n="oszuk/iwać__vblex"/></e>
+    <e lm="oceniać"><i>oceni</i><par n="czyt/ać__vblex"/></e>
+    <e lm="odczuwać"><i>odczuw</i><par n="czyt/ać__vblex"/></e>
+    <e lm="oddalać"><i>oddal</i><par n="czyt/ać__vblex"/></e>
+    <e lm="oddzielać"><i>oddziel</i><par n="czyt/ać__vblex"/></e>
+    <e lm="odrzucać"><i>odrzuc</i><par n="czyt/ać__vblex"/></e>
+    <e lm="ogłaszać"><i>ogłasz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="optymalizować"><i>optymaliz</i><par n="mal/ować__vblex"/></e>
+    <e lm="ostrzegać"><i>ostrzeg</i><par n="czyt/ać__vblex"/></e>
+    <e lm="oswajać"><i>oswaj</i><par n="czyt/ać__vblex"/></e>
+    <e lm="oświetlać"><i>oświetl</i><par n="czyt/ać__vblex"/></e>
+    <e lm="otaczać"><i>otacz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="pamiętać"><i>pamięt</i><par n="czyt/ać__vblex"/></e>
+    <e lm="parafrazować"><i>parafraz</i><par n="mal/ować__vblex"/></e>
+    <e lm="podziwiać"><i>podziwi</i><par n="czyt/ać__vblex"/></e>
+    <e lm="poruszać"><i>porusz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="poświęcać"><i>poświęc</i><par n="czyt/ać__vblex"/></e>
+    <e lm="powiększać"><i>powiększ</i><par n="czyt/ać__vblex"/></e>
+    <e lm="pozdrawiać"><i>pozdrawi</i><par n="czyt/ać__vblex"/></e>
+    <e lm="pozwalać"><i>pozwal</i><par n="czyt/ać__vblex"/></e>
+    <e lm="przeciążać"><i>przeciąż</i><par n="czyt/ać__vblex"/></e>
+    <e lm="przedłużać"><i>przedłuż</i><par n="czyt/ać__vblex"/></e>
+    <e lm="przeganiać"><i>przegani</i><par n="czyt/ać__vblex"/></e>
+    <e lm="przesadzać"><i>przesadz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="przewyższać"><i>przewyższ</i><par n="czyt/ać__vblex"/></e>
+    <e lm="przybliżać"><i>przybliż</i><par n="czyt/ać__vblex"/></e>
+    <e lm="przyspieszać"><i>przyspiesz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="reorganizować"><i>reorganiz</i><par n="mal/ować__vblex"/></e>
+    <e lm="rozciągać"><i>rozciąg</i><par n="czyt/ać__vblex"/></e>
+    <e lm="rozdzielać"><i>rozdziel</i><par n="czyt/ać__vblex"/></e>
+    <e lm="rozpoczynać"><i>rozpoczyn</i><par n="czyt/ać__vblex"/></e>
+    <e lm="rozróżniać"><i>rozróżni</i><par n="czyt/ać__vblex"/></e>
+    <e lm="rozszerzać"><i>rozszerz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="rozważać"><i>rozważ</i><par n="czyt/ać__vblex"/></e>
+    <e lm="sabotować"><i>sabot</i><par n="mal/ować__vblex"/></e>
+    <e lm="skracać"><i>skrac</i><par n="czyt/ać__vblex"/></e>
+    <e lm="spełnić"><i>speł</i><par n="dopeł/nić__vblex"/></e>
+    <e lm="sprawdzać"><i>sprawdz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="synchronizować"><i>synchroniz</i><par n="mal/ować__vblex"/></e>
+    <e lm="testować"><i>test</i><par n="mal/ować__vblex"/></e>
+    <e lm="uaktualniać"><i>uaktualni</i><par n="czyt/ać__vblex"/></e>
+    <e lm="ucieleśniać"><i>ucieleśni</i><par n="czyt/ać__vblex"/></e>
+    <e lm="ułatwiać"><i>ułatwi</i><par n="czyt/ać__vblex"/></e>
+    <e lm="umacniać"><i>umacni</i><par n="czyt/ać__vblex"/></e>
+    <e lm="uprawniać"><i>uprawni</i><par n="czyt/ać__vblex"/></e>
+    <e lm="usuwać"><i>usuw</i><par n="czyt/ać__vblex"/></e>
+    <e lm="uszkadzać"><i>uszkadz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="uświadamiać"><i>uświadami</i><par n="czyt/ać__vblex"/></e>
+    <e lm="uwalniać"><i>uwalni</i><par n="czyt/ać__vblex"/></e>
+    <e lm="waloryzować"><i>waloryz</i><par n="mal/ować__vblex"/></e>
+    <e lm="wdychać"><i>wdych</i><par n="czyt/ać__vblex"/></e>
+    <e lm="wetować"><i>wet</i><par n="mal/ować__vblex"/></e>
+    <e lm="wiosłować"><i>wiosł</i><par n="mal/ować__vblex"/></e>
+    <e lm="włączać"><i>włącz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="wspierać"><i>wspier</i><par n="czyt/ać__vblex"/></e>
+    <e lm="wykrywać"><i>wykryw</i><par n="czyt/ać__vblex"/></e>
+    <e lm="wykrzykiwać"><i>wykrzyk</i><par n="oszuk/iwać__vblex"/></e>
+    <e lm="wymagać"><i>wymag</i><par n="czyt/ać__vblex"/></e>
+    <e lm="wymawiać"><i>wymawi</i><par n="czyt/ać__vblex"/></e>
+    <e lm="wynurzać"><i>wynurz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="wypełnić"><i>wypeł</i><par n="dopeł/nić__vblex"/></e>
+    <e lm="wystawiać"><i>wystawi</i><par n="czyt/ać__vblex"/></e>
+    <e lm="wytyczać"><i>wytycz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="wyznaczać"><i>wyznacz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="wzbudzać"><i>wzbudz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="zadłużać"><i>zadłuż</i><par n="czyt/ać__vblex"/></e>
+    <e lm="zapełniać"><i>zapełni</i><par n="czyt/ać__vblex"/></e>
+    <e lm="zapełnić"><i>zapeł</i><par n="dopeł/nić__vblex"/></e>
+    <e lm="zmniejszać"><i>zmniejsz</i><par n="czyt/ać__vblex"/></e>
+    <e lm="zrzucać"><i>zrzuc</i><par n="czyt/ać__vblex"/></e>
+    <e lm="zwalać"><i>zwal</i><par n="czyt/ać__vblex"/></e>
+    <e lm="zwiększać"><i>zwiększ</i><par n="czyt/ać__vblex"/></e>
+    <e lm="żartować"><i>żart</i><par n="mal/ować__vblex"/></e>
     <e lm="czytać"><i>czyt</i><par n="czyt/ać__vblex"/></e>
     <e lm="przeczytać"><i>przeczyt</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="dopełnić"><i>dopeł</i><par n="dopeł/nić__vblex"/></e>
