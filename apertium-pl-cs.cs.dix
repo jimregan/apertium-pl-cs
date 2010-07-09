@@ -85,6 +85,8 @@
     <sdef n="preadv" c=""/>
     <sdef n="dim"    c=""/>
     <sdef n="ij"     c=""/>
+    <sdef n="lpar"     c=""/>
+    <sdef n="rpar"     c=""/>
     <sdef n="cpd"    c=""/>
     <sdef n="po"     c=""/>
     <sdef n="percent" c=""/>
@@ -109,6 +111,25 @@
         </p>
       </e>
     </pardef>
+    <pardef n="paresq">
+      <e>
+        <re>[\(\[]</re>
+        <p>
+          <l/>
+          <r><s n="lpar"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="pardret">
+      <e>
+        <re>[\)\]]</re>
+        <p>
+          <l/>
+          <r><s n="rpar"/></r>
+        </p>
+      </e>
+    </pardef>
+
 
     <!-- Abbreviations -->
     <pardef n="např__abbr">
@@ -28481,15 +28502,11 @@
   </section>
 
   <section id="final" type="inconditional">
-    <e>
-      <par n="numeros"/> <!-- Numbers -->
-    </e>
-    <e>
-      <par n="separa"/> 
-    </e>
-    <e>
-      <par n="coma"/> 
-    </e>
+    <e><par n="numeros"/></e>
+    <e><par n="separa"/></e>
+    <e><par n="coma"/></e>
+    <e><par n="pardret"/></e>
+    <e><par n="paresq"/></e>
   </section>
 
 </dictionary>
