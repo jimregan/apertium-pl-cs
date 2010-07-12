@@ -1,79 +1,79 @@
-    <e lm="dbały"><i>dbał</i><par n="ma/ły__adj"/></e>
+    <e lm="dbały"><i>dba</i><par n="ma/ły__adj"/></e>
     <e lm="dbały"><p><l>dbal</l><r>dbały</r></p><par n="lep/szy__adj"/></e>
     <e lm="dbały"><p><l>najdbal</l><r>dbały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="doskonały"><i>doskonał</i><par n="ma/ły__adj"/></e>
+    <e lm="doskonały"><i>doskona</i><par n="ma/ły__adj"/></e>
     <e lm="doskonały"><p><l>doskonal</l><r>doskonały</r></p><par n="lep/szy__adj"/></e>
     <e lm="doskonały"><p><l>najdoskonal</l><r>doskonały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="ociężały"><i>ociężał</i><par n="ma/ły__adj"/></e>
+    <e lm="ociężały"><i>ocięża</i><par n="ma/ły__adj"/></e>
     <e lm="ociężały"><p><l>ociężal</l><r>ociężały</r></p><par n="lep/szy__adj"/></e>
     <e lm="ociężały"><p><l>najociężal</l><r>ociężały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="odległy"><i>odległ</i><par n="ma/ły__adj"/></e>
+    <e lm="odległy"><i>odleg</i><par n="ma/ły__adj"/></e>
     <e lm="odległy"><p><l>odleglej</l><r>odległy</r></p><par n="lep/szy__adj"/></e>
     <e lm="odległy"><p><l>najodleglej</l><r>odległy</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="okazały"><i>okazał</i><par n="ma/ły__adj"/></e>
+    <e lm="okazały"><i>okaza</i><par n="ma/ły__adj"/></e>
     <e lm="okazały"><p><l>okazal</l><r>okazały</r></p><par n="lep/szy__adj"/></e>
     <e lm="okazały"><p><l>najokazal</l><r>okazały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="oschły"><i>oschł</i><par n="ma/ły__adj"/></e>
+    <e lm="oschły"><i>osch</i><par n="ma/ły__adj"/></e>
     <e lm="oschły"><p><l>oschlej</l><r>oschły</r></p><par n="lep/szy__adj"/></e>
     <e lm="oschły"><p><l>najoschlej</l><r>oschły</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="ospały"><i>ospał</i><par n="ma/ły__adj"/></e>
+    <e lm="ospały"><i>ospa</i><par n="ma/ły__adj"/></e>
     <e lm="ospały"><p><l>ospal</l><r>ospały</r></p><par n="lep/szy__adj"/></e>
     <e lm="ospały"><p><l>najospal</l><r>ospały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="podły"><i>podł</i><par n="ma/ły__adj"/></e>
+    <e lm="podły"><i>pod</i><par n="ma/ły__adj"/></e>
     <e lm="podły"><p><l>podlej</l><r>podły</r></p><par n="lep/szy__adj"/></e>
     <e lm="podły"><p><l>najpodlej</l><r>podły</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="rozciągły"><i>rozciągł</i><par n="ma/ły__adj"/></e>
+    <e lm="rozciągły"><i>rozciąg</i><par n="ma/ły__adj"/></e>
     <e lm="rozciągły"><p><l>rozciąglej</l><r>rozciągły</r></p><par n="lep/szy__adj"/></e>
     <e lm="rozciągły"><p><l>najrozciąglej</l><r>rozciągły</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="rozległy"><i>rozległ</i><par n="ma/ły__adj"/></e>
+    <e lm="rozległy"><i>rozleg</i><par n="ma/ły__adj"/></e>
     <e lm="rozległy"><p><l>rozleglej</l><r>rozległy</r></p><par n="lep/szy__adj"/></e>
     <e lm="rozległy"><p><l>najrozleglej</l><r>rozległy</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="rozwlekły"><i>rozwlekł</i><par n="ma/ły__adj"/></e>
+    <e lm="rozwlekły"><i>rozwlek</i><par n="ma/ły__adj"/></e>
     <e lm="rozwlekły"><p><l>rozwleklej</l><r>rozwlekły</r></p><par n="lep/szy__adj"/></e>
     <e lm="rozwlekły"><p><l>najrozwleklej</l><r>rozwlekły</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="smagły"><i>smagł</i><par n="ma/ły__adj"/></e>
+    <e lm="smagły"><i>smag</i><par n="ma/ły__adj"/></e>
     <e lm="smagły"><p><l>smaglej</l><r>smagły</r></p><par n="lep/szy__adj"/></e>
     <e lm="smagły"><p><l>najsmaglej</l><r>smagły</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="trwały"><i>trwał</i><par n="ma/ły__adj"/></e>
+    <e lm="trwały"><i>trwa</i><par n="ma/ły__adj"/></e>
     <e lm="trwały"><p><l>trwal</l><r>trwały</r></p><par n="lep/szy__adj"/></e>
     <e lm="trwały"><p><l>najtrwal</l><r>trwały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="uległy"><i>uległ</i><par n="ma/ły__adj"/></e>
+    <e lm="uległy"><i>uleg</i><par n="ma/ły__adj"/></e>
     <e lm="uległy"><p><l>uleglej</l><r>uległy</r></p><par n="lep/szy__adj"/></e>
     <e lm="uległy"><p><l>najuleglej</l><r>uległy</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="wspaniały"><i>wspaniał</i><par n="ma/ły__adj"/></e>
+    <e lm="wspaniały"><i>wspania</i><par n="ma/ły__adj"/></e>
     <e lm="wspaniały"><p><l>wspanial</l><r>wspaniały</r></p><par n="lep/szy__adj"/></e>
     <e lm="wspaniały"><p><l>najwspanial</l><r>wspaniały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="wyrozumiały"><i>wyrozumiał</i><par n="ma/ły__adj"/></e>
+    <e lm="wyrozumiały"><i>wyrozumia</i><par n="ma/ły__adj"/></e>
     <e lm="wyrozumiały"><p><l>wyrozumial</l><r>wyrozumiały</r></p><par n="lep/szy__adj"/></e>
     <e lm="wyrozumiały"><p><l>najwyrozumial</l><r>wyrozumiały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="wściekły"><i>wściekł</i><par n="ma/ły__adj"/></e>
+    <e lm="wściekły"><i>wściek</i><par n="ma/ły__adj"/></e>
     <e lm="wściekły"><p><l>wścieklej</l><r>wściekły</r></p><par n="lep/szy__adj"/></e>
     <e lm="wściekły"><p><l>najwścieklej</l><r>wściekły</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="zaciekły"><i>zaciekł</i><par n="ma/ły__adj"/></e>
+    <e lm="zaciekły"><i>zaciek</i><par n="ma/ły__adj"/></e>
     <e lm="zaciekły"><p><l>zacieklej</l><r>zaciekły</r></p><par n="lep/szy__adj"/></e>
     <e lm="zaciekły"><p><l>najzacieklej</l><r>zaciekły</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="zagorzały"><i>zagorzał</i><par n="ma/ły__adj"/></e>
+    <e lm="zagorzały"><i>zagorza</i><par n="ma/ły__adj"/></e>
     <e lm="zagorzały"><p><l>zagorzal</l><r>zagorzały</r></p><par n="lep/szy__adj"/></e>
     <e lm="zagorzały"><p><l>najzagorzal</l><r>zagorzały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="zajadły"><i>zajadł</i><par n="ma/ły__adj"/></e>
+    <e lm="zajadły"><i>zajad</i><par n="ma/ły__adj"/></e>
     <e lm="zajadły"><p><l>zajadlej</l><r>zajadły</r></p><par n="lep/szy__adj"/></e>
     <e lm="zajadły"><p><l>najzajadlej</l><r>zajadły</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="zarozumiały"><i>zarozumiał</i><par n="ma/ły__adj"/></e>
+    <e lm="zarozumiały"><i>zarozumia</i><par n="ma/ły__adj"/></e>
     <e lm="zarozumiały"><p><l>zarozumial</l><r>zarozumiały</r></p><par n="lep/szy__adj"/></e>
     <e lm="zarozumiały"><p><l>najzarozumial</l><r>zarozumiały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="zawiły"><i>zawił</i><par n="ma/ły__adj"/></e>
+    <e lm="zawiły"><i>zawi</i><par n="ma/ły__adj"/></e>
     <e lm="zawiły"><p><l>zawil</l><r>zawiły</r></p><par n="lep/szy__adj"/></e>
     <e lm="zawiły"><p><l>najzawil</l><r>zawiły</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="zrozumiały"><i>zrozumiał</i><par n="ma/ły__adj"/></e>
+    <e lm="zrozumiały"><i>zrozumia</i><par n="ma/ły__adj"/></e>
     <e lm="zrozumiały"><p><l>zrozumial</l><r>zrozumiały</r></p><par n="lep/szy__adj"/></e>
     <e lm="zrozumiały"><p><l>najzrozumial</l><r>zrozumiały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="zuchwały"><i>zuchwał</i><par n="ma/ły__adj"/></e>
+    <e lm="zuchwały"><i>zuchwa</i><par n="ma/ły__adj"/></e>
     <e lm="zuchwały"><p><l>zuchwal</l><r>zuchwały</r></p><par n="lep/szy__adj"/></e>
     <e lm="zuchwały"><p><l>najzuchwal</l><r>zuchwały</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="zwykły"><i>zwykł</i><par n="ma/ły__adj"/></e>
+    <e lm="zwykły"><i>zwyk</i><par n="ma/ły__adj"/></e>
     <e lm="zwykły"><p><l>zwyklej</l><r>zwykły</r></p><par n="lep/szy__adj"/></e>
     <e lm="zwykły"><p><l>najzwyklej</l><r>zwykły</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="światły"><i>światł</i><par n="ma/ły__adj"/></e>
+    <e lm="światły"><i>świat</i><par n="ma/ły__adj"/></e>
     <e lm="światły"><p><l>światlej</l><r>światły</r></p><par n="lep/szy__adj"/></e>
     <e lm="światły"><p><l>najświatlej</l><r>światły</r></p><par n="najlep/szy__adj"/></e>
     <e lm="adekwatny"><i>adekwatn</i><par n="now/y__adj"/></e>
@@ -2227,25 +2227,25 @@
     <e lm="żywy"><i>żyw</i><par n="now/y__adj"/></e>
     <e lm="żywy"><p><l>żyw</l><r>żywy</r></p><par n="lep/szy__adj"/></e>
     <e lm="żywy"><p><l>najżyw</l><r>żywy</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="mokry"><i>mokr</i><par n="dob/ry__adj"/></e>
+    <e lm="mokry"><i>mok</i><par n="dob/ry__adj"/></e>
     <e lm="mokry"><p><l>mokrzej</l><r>mokry</r></p><par n="lep/szy__adj"/></e>
     <e lm="mokry"><p><l>najmokrzej</l><r>mokry</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="mądry"><i>mądr</i><par n="dob/ry__adj"/></e>
+    <e lm="mądry"><i>mąd</i><par n="dob/ry__adj"/></e>
     <e lm="mądry"><p><l>mądrzej</l><r>mądry</r></p><par n="lep/szy__adj"/></e>
     <e lm="mądry"><p><l>najmądrzej</l><r>mądry</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="niemądry"><i>niemądr</i><par n="dob/ry__adj"/></e>
+    <e lm="niemądry"><i>niemąd</i><par n="dob/ry__adj"/></e>
     <e lm="niemądry"><p><l>niemądrzej</l><r>niemądry</r></p><par n="lep/szy__adj"/></e>
     <e lm="niemądry"><p><l>najniemądrzej</l><r>niemądry</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="przykry"><i>przykr</i><par n="dob/ry__adj"/></e>
+    <e lm="przykry"><i>przyk</i><par n="dob/ry__adj"/></e>
     <e lm="przykry"><p><l>przykrzej</l><r>przykry</r></p><par n="lep/szy__adj"/></e>
     <e lm="przykry"><p><l>najprzykrzej</l><r>przykry</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="skory"><i>skor</i><par n="dob/ry__adj"/></e>
+    <e lm="skory"><i>sko</i><par n="dob/ry__adj"/></e>
     <e lm="skory"><p><l>skor</l><r>skory</r></p><par n="lep/szy__adj"/></e>
     <e lm="skory"><p><l>najskor</l><r>skory</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="stary"><i>star</i><par n="dob/ry__adj"/></e>
+    <e lm="stary"><i>sta</i><par n="dob/ry__adj"/></e>
     <e lm="stary"><p><l>star</l><r>stary</r></p><par n="lep/szy__adj"/></e>
     <e lm="stary"><p><l>najstar</l><r>stary</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="szczodry"><i>szczodr</i><par n="dob/ry__adj"/></e>
+    <e lm="szczodry"><i>szczod</i><par n="dob/ry__adj"/></e>
     <e lm="szczodry"><p><l>szczodrzej</l><r>szczodry</r></p><par n="lep/szy__adj"/></e>
     <e lm="szczodry"><p><l>najszczodrzej</l><r>szczodry</r></p><par n="najlep/szy__adj"/></e>
     <e lm="bogaty"><i>bogat</i><par n="świę/ty__adj"/></e>
