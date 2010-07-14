@@ -46,6 +46,7 @@ dev/ParadigmManager/src/dix/view/Main.java -text
 dev/apertium-pl-cs.pl-cs-crossed.dix -text
 dev/bidix-to-tag -text
 dev/corpus_statistics.sh -text
+dev/cs-pl.stats -text
 dev/cs.cnj-missing.txt -text
 dev/czech-top1000 -text
 dev/debian/license.cs-pl.tmx -text
@@ -67,6 +68,7 @@ dev/morfologik_adjectives -text
 dev/morfologik_adverbs -text
 dev/morfologik_nouns -text
 dev/morfologik_verbs -text
+dev/pl-cs.stats -text
 dev/prediction.pl-cs.perl -text
 dev/some-czech-closed-words -text
 dev/speling-paradigms.py -text

@@ -41645,6 +41645,7 @@
 
     <!-- Non-synthetic adverbs -->
     <e lm="razem"><i>razem</i><par n="tu__adv"/></e>
+    <e lm="rad"><i>rad</i><par n="tu__adv"/></e>
     <e lm="wyczekująco"><i>wyczekująco</i><par n="tu__adv"/></e>
     <e lm="własnoręcznie"><i>własnoręcznie</i><par n="tu__adv"/></e>
     <e lm="śpiewająco"><i>śpiewająco</i><par n="tu__adv"/></e>
@@ -44701,8 +44702,6 @@
     <e lm="żywotnik"><i>żywotnik</i><par n="kajak__n"/></e>
     <e lm="żółtlica"><i>żółtlic</i><par n="ulic/a__n"/></e>
     <e lm="żłobek"><i>żłob</i><par n="młot/ek__n"/></e>
-    <e lm="Ekwador"><i>Ekwador</i><par n="Cypr__np"/></e>
-    <e lm="Cypr"><i>Cypr</i><par n="Cypr__np"/></e>
     <e lm="łącze"><i>łącz</i><par n="pnącz/e__n"/></e>
     <e lm="ostrze"><i>ostrz</i><par n="pnącz/e__n"/></e>
     <e lm="poddasze"><i>poddasz</i><par n="pnącz/e__n"/></e>
@@ -45732,7 +45731,6 @@
     <e lm="próchnica"><i>próchnic</i><par n="ulic/a__n"/></e>
     <e lm="próżnia"><i>próżni</i><par n="hurtowni/a__n"/></e>
     <e lm="przylądek"><i>przyląd</i><par n="młot/ek__n"/></e>
-    <e lm="rad"><i>rad</i><par n="tu__adv"/></e>
     <e lm="radon"><i>radon</i><par n="sklep__n"/></e>
     <e lm="rafineria"><i>rafiner</i><par n="filozofi/a__n"/></e>
     <e lm="rasizm"><i>rasizm</i><par n="sklep__n"/></e>
@@ -45988,7 +45986,6 @@
     <e lm="zwałowisko"><i>zwałowisk</i><par n="wojsk/o__n"/></e>
     <e lm="żako"><i>żak</i><par n="wojsk/o__n"/></e>
     <e lm="żółtaczka"><i>żółtacz</i><par n="mat/ka__n"/></e>
-
     <e lm="dominikanin"><i>dominikan</i><par n="Afrykan/in__n"/></e>
     <e lm="republikanin"><i>republikan</i><par n="Afrykan/in__n"/></e>
     <e lm="agitator"><i>agitator</i><par n="aktor__n"/></e>
@@ -47504,7 +47501,6 @@
     <e lm="sprzedaż"><i>sprzedaż</i><par n="noc__n"/></e>
     <e lm="straż"><i>straż</i><par n="noc__n"/></e>
     <e lm="cesarz"><i>cesarz</i><par n="notariusz__n"/></e>
-    <e lm="Augusta"><i>Augu</i><par n="Augu/sta__np"/></e>
     <e lm="lista"><i>li</i><par n="pa/sta__n"/></e>
     <e lm="zemsta"><i>zem</i><par n="pa/sta__n"/></e>
     <e lm="ogień"><i>og</i><par n="p/ień__n"/></e>
@@ -48942,7 +48938,6 @@
     <e lm="zdrowie"><i>zdrowi</i><par n="wesel/e__n"/></e>
     <e lm="swoboda"><i>swob</i><par n="w/oda__n"/></e>
     <e lm="zgoda"><i>zg</i><par n="w/oda__n"/></e>
-
     <e lm="antylopa"><i>antylop</i><par n="analiz/a__n"/></e>
     <e lm="bomba"><i>bomb</i><par n="analiz/a__n"/></e>
     <e lm="cipa"><i>cip</i><par n="analiz/a__n"/></e>
@@ -49199,7 +49194,6 @@
     <e lm="ostrosłup"><i>ostrosłup</i><par n="minus__n"/></e>
     <e lm="pas"><i>pas</i><par n="minus__n"/></e>
     <e lm="gram"><i>gram</i><par n="minus__n"/></e>
-
     <e lm="azyl"><i>azyl</i><par n="gaj__n"/></e>
     <e lm="bal"><i>bal</i><par n="gaj__n"/></e>
     <e lm="cel"><i>cel</i><par n="gaj__n"/></e>
@@ -49213,8 +49207,6 @@
     <e lm="pałac"><i>pałac</i><par n="gaj__n"/></e>
     <e lm="szkic"><i>szkic</i><par n="gaj__n"/></e>
     <e lm="kraj"><i>kraj</i><par n="gaj__n"/></e> 
-
-
     <e lm="konstytucja"><i>konstytuc</i><par n="dysertac/ja__n"/></e>
     <e lm="korespondencja"><i>korespondenc</i><par n="dysertac/ja__n"/></e>
     <e lm="egzystencja"><i>egzystenc</i><par n="dysertac/ja__n"/></e>
@@ -50122,7 +50114,55 @@
     <e lm="ciemność"><i>ciemnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="czerwoność"><i>czerwonoś</i><par n="miłoś/ć__n"/></e>
     <e lm="jasność"><i>jasnoś</i><par n="miłoś/ć__n"/></e>
+    <e lm="Serb"><i>Serb</i><par n="astronom__n"/></e>
+    <e lm="Australijka"><i>Australij</i><par n="mat/ka__n"/></e>
+    <e lm="Alpejka"><i>Alpej</i><par n="mat/ka__n"/></e>
+    <e lm="Belgijka"><i>Belgij</i><par n="mat/ka__n"/></e>
+    <e lm="Boliwijka"><i>Boliwij</i><par n="mat/ka__n"/></e>
+    <e lm="Brazylijka"><i>Brazylij</i><par n="mat/ka__n"/></e>
+    <e lm="Chilijka"><i>Chilij</i><par n="mat/ka__n"/></e>
+    <e lm="Europejka"><i>Europej</i><par n="mat/ka__n"/></e>
+    <e lm="Indonezyjka"><i>Indonezyj</i><par n="mat/ka__n"/></e>
+    <e lm="Kalifornijka"><i>Kalifornij</i><par n="mat/ka__n"/></e>
+    <e lm="Kanadyjka"><i>Kanadyj</i><par n="mat/ka__n"/></e>
+    <e lm="Kolumbijka"><i>Kolumbij</i><par n="mat/ka__n"/></e>
+    <e lm="Masajka"><i>Masaj</i><par n="mat/ka__n"/></e>
+    <e lm="Nigeryjka"><i>Nigeryj</i><par n="mat/ka__n"/></e>
+    <e lm="Somalijka"><i>Somalij</i><par n="mat/ka__n"/></e>
+    <e lm="Sycylijka"><i>Sycylij</i><par n="mat/ka__n"/></e>
+    <e lm="Tunezyjka"><i>Tunezyj</i><par n="mat/ka__n"/></e>
+    <e lm="Afganka"><i>Afgan</i><par n="mat/ka__n"/></e>
+    <e lm="Afroamerykanka"><i>Afroamerykan</i><par n="mat/ka__n"/></e>
+    <e lm="Afrykanka"><i>Afrykan</i><par n="mat/ka__n"/></e>
+    <e lm="Alaskanka"><i>Alaskan</i><par n="mat/ka__n"/></e>
+    <e lm="Albanka"><i>Alban</i><par n="mat/ka__n"/></e>
+    <e lm="Amerykanka"><i>Amerykan</i><par n="mat/ka__n"/></e>
+    <e lm="Bhutanka"><i>Bhutan</i><par n="mat/ka__n"/></e>
+    <e lm="Birmanka"><i>Birman</i><par n="mat/ka__n"/></e>
+    <e lm="Cyganka"><i>Cygan</i><par n="mat/ka__n"/></e>
+    <e lm="Egipcjanka"><i>Egipcjan</i><par n="mat/ka__n"/></e>
+    <e lm="Galicjanka"><i>Galicjan</i><par n="mat/ka__n"/></e>
+    <e lm="Ghanka"><i>Ghan</i><par n="mat/ka__n"/></e>
+    <e lm="Gujanka"><i>Gujan</i><par n="mat/ka__n"/></e>
+    <e lm="Haitanka"><i>Haitan</i><par n="mat/ka__n"/></e>
+    <e lm="Hiszpanka"><i>Hiszpan</i><par n="mat/ka__n"/></e>
+    <e lm="Honduranka"><i>Honduran</i><par n="mat/ka__n"/></e>
+    <e lm="Indianka"><i>Indian</i><par n="mat/ka__n"/></e>
+    <e lm="Iranka"><i>Iran</i><par n="mat/ka__n"/></e>
+    <e lm="Koreanka"><i>Korean</i><par n="mat/ka__n"/></e>
+    <e lm="Korsykanka"><i>Korsykan</i><par n="mat/ka__n"/></e>
+    <e lm="Koryntianka"><i>Koryntian</i><par n="mat/ka__n"/></e>
+    <e lm="Libanka"><i>Liban</i><par n="mat/ka__n"/></e>
+    <e lm="Meksykanka"><i>Meksykan</i><par n="mat/ka__n"/></e>
+    <e lm="Peruwianka"><i>Peruwian</i><par n="mat/ka__n"/></e>
+    <e lm="Rosjanka"><i>Rosjan</i><par n="mat/ka__n"/></e>
+    <e lm="Rzymianka"><i>Rzymian</i><par n="mat/ka__n"/></e>
+    <e lm="Tybetanka"><i>Tybetan</i><par n="mat/ka__n"/></e>
 
+    <!-- Proper Nouns -->
+    <e lm="Ekwador"><i>Ekwador</i><par n="Cypr__np"/></e>
+    <e lm="Cypr"><i>Cypr</i><par n="Cypr__np"/></e>
+    <e lm="Augusta"><i>Augu</i><par n="Augu/sta__np"/></e>
     <e lm="Ariane"><i>Ariane</i><par n="Britney__np"/></e>
     <e lm="Astrid"><i>Astrid</i><par n="Britney__np"/></e>
     <e lm="Audrey"><i>Audrey</i><par n="Britney__np"/></e>
@@ -50391,7 +50431,6 @@
     <e lm="Józef"><i>Józef</i><par n="Adam__np"/></e>
     <e lm="Krzysztof"><i>Krzysztof</i><par n="Adam__np"/></e>
     <e lm="Marcin"><i>Marcin</i><par n="Adam__np"/></e>
-    <e lm="Serb"><i>Serb</i><par n="astronom__n"/></e>
     <e lm="Stanisław"><i>Stanisław</i><par n="Adam__np"/></e>
     <e lm="Marek"><i>Mar</i><par n="Mar/ek__np"/></e>
     <e lm="Jarek"><i>Jar</i><par n="Mar/ek__np"/></e>
@@ -50626,51 +50665,6 @@
     <e lm="USA"><i>USA</i><par n="UE__np"/></e>
     <e lm="U.S."><i>U.S.</i><par n="UE__np"/></e>
     <e lm="Węgry"><i>Węg</i><par n="Węg/ry__np"/></e>
-
-
-    <e lm="Australijka"><i>Australij</i><par n="mat/ka__n"/></e>
-    <e lm="Alpejka"><i>Alpej</i><par n="mat/ka__n"/></e>
-    <e lm="Belgijka"><i>Belgij</i><par n="mat/ka__n"/></e>
-    <e lm="Boliwijka"><i>Boliwij</i><par n="mat/ka__n"/></e>
-    <e lm="Brazylijka"><i>Brazylij</i><par n="mat/ka__n"/></e>
-    <e lm="Chilijka"><i>Chilij</i><par n="mat/ka__n"/></e>
-    <e lm="Europejka"><i>Europej</i><par n="mat/ka__n"/></e>
-    <e lm="Indonezyjka"><i>Indonezyj</i><par n="mat/ka__n"/></e>
-    <e lm="Kalifornijka"><i>Kalifornij</i><par n="mat/ka__n"/></e>
-    <e lm="Kanadyjka"><i>Kanadyj</i><par n="mat/ka__n"/></e>
-    <e lm="Kolumbijka"><i>Kolumbij</i><par n="mat/ka__n"/></e>
-    <e lm="Masajka"><i>Masaj</i><par n="mat/ka__n"/></e>
-    <e lm="Nigeryjka"><i>Nigeryj</i><par n="mat/ka__n"/></e>
-    <e lm="Somalijka"><i>Somalij</i><par n="mat/ka__n"/></e>
-    <e lm="Sycylijka"><i>Sycylij</i><par n="mat/ka__n"/></e>
-    <e lm="Tunezyjka"><i>Tunezyj</i><par n="mat/ka__n"/></e>
-    <e lm="Afganka"><i>Afgan</i><par n="mat/ka__n"/></e>
-    <e lm="Afroamerykanka"><i>Afroamerykan</i><par n="mat/ka__n"/></e>
-    <e lm="Afrykanka"><i>Afrykan</i><par n="mat/ka__n"/></e>
-    <e lm="Alaskanka"><i>Alaskan</i><par n="mat/ka__n"/></e>
-    <e lm="Albanka"><i>Alban</i><par n="mat/ka__n"/></e>
-    <e lm="Amerykanka"><i>Amerykan</i><par n="mat/ka__n"/></e>
-    <e lm="Bhutanka"><i>Bhutan</i><par n="mat/ka__n"/></e>
-    <e lm="Birmanka"><i>Birman</i><par n="mat/ka__n"/></e>
-    <e lm="Cyganka"><i>Cygan</i><par n="mat/ka__n"/></e>
-    <e lm="Egipcjanka"><i>Egipcjan</i><par n="mat/ka__n"/></e>
-    <e lm="Galicjanka"><i>Galicjan</i><par n="mat/ka__n"/></e>
-    <e lm="Ghanka"><i>Ghan</i><par n="mat/ka__n"/></e>
-    <e lm="Gujanka"><i>Gujan</i><par n="mat/ka__n"/></e>
-    <e lm="Haitanka"><i>Haitan</i><par n="mat/ka__n"/></e>
-    <e lm="Hiszpanka"><i>Hiszpan</i><par n="mat/ka__n"/></e>
-    <e lm="Honduranka"><i>Honduran</i><par n="mat/ka__n"/></e>
-    <e lm="Indianka"><i>Indian</i><par n="mat/ka__n"/></e>
-    <e lm="Iranka"><i>Iran</i><par n="mat/ka__n"/></e>
-    <e lm="Koreanka"><i>Korean</i><par n="mat/ka__n"/></e>
-    <e lm="Korsykanka"><i>Korsykan</i><par n="mat/ka__n"/></e>
-    <e lm="Koryntianka"><i>Koryntian</i><par n="mat/ka__n"/></e>
-    <e lm="Libanka"><i>Liban</i><par n="mat/ka__n"/></e>
-    <e lm="Meksykanka"><i>Meksykan</i><par n="mat/ka__n"/></e>
-    <e lm="Peruwianka"><i>Peruwian</i><par n="mat/ka__n"/></e>
-    <e lm="Rosjanka"><i>Rosjan</i><par n="mat/ka__n"/></e>
-    <e lm="Rzymianka"><i>Rzymian</i><par n="mat/ka__n"/></e>
-    <e lm="Tybetanka"><i>Tybetan</i><par n="mat/ka__n"/></e>
   
   </section>
   <section id="multiwords" type="standard">
