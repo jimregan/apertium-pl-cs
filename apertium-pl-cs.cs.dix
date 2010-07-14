@@ -58,6 +58,7 @@
     <sdef n="ant"/>
     <sdef n="top"/>
     <sdef n="cog"/>
+    <sdef n="al"/>
 
     <sdef n="vblex"  c="časování"/>
     <sdef n="vaux"/>
@@ -1676,7 +1677,49 @@
       <e>       <p>          <l>éty</l><r>éto<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
       <e r="LR">       <p>          <l>ety</l><r>éto<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
-
+    <pardef n="BASE__kostel">
+      <e>       <p>          <l></l><r><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>u</l><r><s n="mi"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>u</l><r><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l></l><r><s n="mi"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>em</l><r><s n="mi"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>u</l><r><s n="mi"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>e</l><r><s n="mi"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>y</l><r><s n="mi"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ů</l><r><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>ům</l><r><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>y</l><r><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>y</l><r><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>ech</l><r><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>y</l><r><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="kostel__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/></r>
+        </p>
+        <par n="BASE__kostel"/>
+      </e>
+    </pardef>
+    <pardef n="Ekvádor__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="top"/></r>
+        </p>
+        <par n="BASE__kostel"/>
+      </e>
+    </pardef>
+    <pardef n="Intel__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="al"/></r>
+        </p>
+        <par n="BASE__kostel"/>
+      </e>
+    </pardef>
     <pardef n="kolik__det"> 
       <!-- kolik 'how many', několik 'several', tolik 'so many', and mnoho 'much, many' all 
            follow the same paradigm, with the desinence -a in all oblique cases.  -->
@@ -6678,80 +6721,100 @@
         </p>
       </e>
     </pardef>
-    <pardef n="týd/en__n">
+    <pardef n="BASE__týden">
       <e>
         <p>
           <l>en</l>
-          <r>en<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ny</l>
-          <r>en<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l>nů</l>
+          <r><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nu</l>
+          <r><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nům</l>
+          <r><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>en</l>
+          <r><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ny</l>
+          <r><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ny</l>
+          <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nu</l>
+          <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nech</l>
+          <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nem</l>
+          <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ny</l>
+          <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="týd/en__n">
       <e>
         <p>
           <l>ne</l>
           <r>en<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l>nů</l>
-          <r>en<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nu</l>
-          <r>en<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
+      <e r="LR">
         <p>
           <l>ni</l>
           <r>en<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l>nům</l>
-          <r>en<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>en</l>
-          <r>en<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ny</l>
-          <r>en<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ne</l>
-          <r>en<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ny</l>
-          <r>en<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>nu</l>
-          <r>en<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
+      <e r="LR">
         <p>
           <l>ni</l>
           <r>en<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
@@ -6759,21 +6822,25 @@
       </e>
       <e>
         <p>
-          <l>nech</l>
-          <r>en<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+          <l></l>
+          <r>en<s n="n"/></r>
+        </p>
+        <par n="BASE__týden"/>
+      </e>
+    </pardef>
+    <pardef n="květ/en__n">
+      <e>
+        <p>
+          <l>na</l>
+          <r>en<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
-          <l>nem</l>
-          <r>en<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+          <l></l>
+          <r>en<s n="n"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>ny</l>
-          <r>en<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
-        </p>
+        <par n="BASE__týden"/>
       </e>
     </pardef>
     <pardef n="p/ás__n">
@@ -25521,6 +25588,17 @@
     <e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
 
     <!-- Nouns -->
+    <e lm="květen"><i>květ</i><par n="květ/en__n"/></e>
+    <e lm="prosinec"><i>prosin</i><par n="vál/ec__n"/></e>
+    <e lm="březen"><i>břez</i><par n="květ/en__n"/></e>
+    <e lm="duben"><i>dub</i><par n="květ/en__n"/></e>
+    <e lm="srpen"><i>srp</i><par n="květ/en__n"/></e>
+    <e lm="červen"><i>červ</i><par n="květ/en__n"/></e>
+    <e lm="říjen"><i>říj</i><par n="květ/en__n"/></e>
+    <e lm="září"><i>září</i><par n="hospodářství__n"/></e>
+    <e lm="červenec"><i>červen</i><par n="vál/ec__n"/></e>
+    <e lm="sval"><i>sval</i><par n="arak__n"/></e>
+    <e lm="konec"><i>kon</i><par n="vál/ec__n"/></e>
     <e lm="absurdita"><i>absurdit</i><par n="dob/a__n"/></e>
     <e lm="adaptér" r="LR"><p><l>adapter</l><r>adaptér</r></p><par n="arak__n"/></e>
     <e lm="adaptér"><i>adapté</i><par n="amu/r__n"/></e>
@@ -25908,7 +25986,6 @@
     <e lm="lobbista"><i>lobbist</i><par n="nacist/a__n"/></e>
     <e lm="lokalita"><i>lokalit</i><par n="dob/a__n"/></e>
     <e lm="los"><i>los</i><par n="arak__n"/></e>
-    <e lm="los"><i>los</i><par n="man__n"/></e>
     <e lm="losos"><i>losos</i><par n="man__n"/></e>
     <e lm="lovec"><i>lov</i><par n="chlap/ec__n"/></e>
     <e lm="lustr"><i>lustr</i><par n="arak__n"/></e>
@@ -26446,7 +26523,6 @@
     <e lm="zásoba"><i>zásob</i><par n="dob/a__n"/></e>
     <e lm="závora"><i>závo</i><par n="sí/ra__n"/></e>
     <e lm="zázrak"><i>zázra</i><par n="ro/k__n"/></e>
-    <e lm="zář"><i>zář</i><par n="mříž__n"/></e>
     <e lm="záštita"><i>záštit</i><par n="dob/a__n"/></e>
     <e lm="zážitek"><i>zážit</i><par n="zin/ek__n"/></e>
     <e lm="zídka"><i>zíd</i><par n="dív/ka__n"/></e>
@@ -28135,6 +28211,7 @@
     <e lm="konvice"><i>konvic</i><par n="plotic/e__n"/></e>
     <e lm="kopí"><i>kopí</i><par n="hospodářství__n"/></e>
     <e lm="kostelník"><i>kostelní</i><par n="chalupní/k__n"/></e>
+    <e lm="kostel"><i>kostel</i><par n="kostel__n"/></e>
     <e lm="kousíček"><i>kousíč</i><par n="zin/ek__n"/></e>
     <e lm="koutek"><i>kout</i><par n="zin/ek__n"/></e>
     <e lm="kouzelník"><i>kouzelní</i><par n="chalupní/k__n"/></e>
@@ -32887,6 +32964,8 @@
     <e lm="San Francisko" r="LR"><p><l>San<b/>Francisk</l><r>San<b/>Francisc</r></p><par n="San_Francisc/o__np"/></e>
     <e lm="Hesensko"><i>Hesens</i><par n="Čes/ko__np"/></e>
     <e lm="EU"><i>EU</i><par n="EU__np"/></e>
+    <e lm="USA"><i>USA</i><par n="EU__np"/></e>
+    <e lm="U.S."><i>U.S.</i><par n="EU__np"/></e>
     <e lm="Hlinsko" i="yes"><i>Hlins</i><par n="Čes/ko__np"/></e>
     <e lm="Holandsko"><i>Holands</i><par n="Čes/ko__np"/></e>
     <e lm="Irsko"><i>Irs</i><par n="Čes/ko__np"/></e>
@@ -32935,6 +33014,11 @@
     <e lm="km"><i>km</i><par n="např__abbr"/></e>
     <e lm="kg"><i>kg</i><par n="např__abbr"/></e>
     <e lm="sv"><i>sv</i><par n="např__abbr"/></e>
+    <e lm="jpg"><i>jpg</i><par n="např__abbr"/></e>
+    <e lm="bmp"><i>bmp</i><par n="např__abbr"/></e>
+    <e lm="ascii"><i>ascii</i><par n="např__abbr"/></e>
+    <e lm="utf"><i>utf</i><par n="např__abbr"/></e>
+    <e lm="api"><i>api</i><par n="např__abbr"/></e>
 
 	<!-- Interjunctions -->
     <e lm="ahoj"><i>ahoj</i><par n="ahoj__ij"/></e>
