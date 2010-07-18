@@ -226,6 +226,7 @@
     <e><p><l>lecz<s n="cnjcoo"/></l><r>nýbrž<s n="cnjcoo"/></r></p></e>
     <e><p><l>zarówno<s n="cnjcoo"/></l><r>jakož<s n="cnjcoo"/></r></p></e>
 
+    <e><p><l>przedtem<s n="cnjadv"/></l><r>předtím<s n="cnjadv"/></r></p></e>
     <e><p><l>jeśli<s n="cnjadv"/></l><r>jestli<s n="cnjadv"/></r></p></e>
     <e r="RL"><p><l>jeśli<s n="cnjadv"/></l><r>pokud<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>bowiem<s n="cnjadv"/></l><r>neboť<s n="cnjadv"/></r></p></e>
@@ -396,9 +397,19 @@
     <e><p><l>do<b/>jutra<s n="ij"/></l><r>zítra<b/>na<b/>shledanou<s n="ij"/></r></p></e>
     <e><p><l>mniam<s n="ij"/></l><r>mňam<s n="ij"/></r></p></e>
     <e><p><l>cześć<s n="ij"/></l><r>ahoj<s n="ij"/></r></p></e>
+    <e><p><l>dobranoc<s n="ij"/></l><r>dobrou<b/>noc<s n="ij"/></r></p></e>
+    <e><p><l>ach<s n="ij"/></l><r>ach<s n="ij"/></r></p></e>
+    <e><p><l>aha<s n="ij"/></l><r>aha<s n="ij"/></r></p></e>
+    <e><p><l>halo<s n="ij"/></l><r>haló<s n="ij"/></r></p></e>
 
      <!-- Pronouns -->
     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e>
+	   <p>
+          <l>prpers<s n="prn"/><s n="ppr"/><s n="p3"/><s n="mp"/></l>
+		  <r>prpers<s n="prn"/><s n="ppr"/><s n="p3"/><s n="mf"/></r>
+       </p>
+    </e>
     <e>
 	   <p>
           <l>prpers<s n="prn"/><s n="p3"/><s n="mp"/><s n="pl"/><s n="nom"/></l>
@@ -455,6 +466,7 @@
     </e>
     <e><p><l>kto<s n="prn"/><s n="itg"/><s n="mp"/></l><r>kdo<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
     <e><p><l>ktoś<s n="prn"/><s n="ind"/><s n="mp"/></l><r>někdo<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
+    <e r="RL"><p><l>który<s n="prn"/><s n="itg"/></l><r>jenž<s n="prn"/><s n="itg"/></r></p></e>
     <e r="LR"><p><l>który<s n="prn"/><s n="itg"/><s n="mp"/></l><r>který<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
     <e><p><l>który<s n="prn"/><s n="itg"/></l><r>který<s n="prn"/><s n="itg"/></r></p></e>
     <e r="LR"><p><l>niektóry<s n="prn"/><s n="ind"/><s n="mp"/></l><r>některý<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
@@ -463,6 +475,8 @@
     <e><p><l>którykolwiek<s n="prn"/><s n="ind"/></l><r>kterýkoliv<s n="prn"/><s n="ind"/></r></p></e>
     <e r="RL"><p><l>którykolwiek<s n="prn"/><s n="ind"/></l><r>kterýkoli<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>co<s n="prn"/><s n="itg"/></l><r>co<s n="prn"/><s n="itg"/></r></p></e>
+    <e r="LR"><p><l>jaki<s n="prn"/><s n="itg"/><s n="mp"/></l><r>jaký<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
+    <e><p><l>jaki<s n="prn"/><s n="itg"/></l><r>jaký<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>cokolwiek<s n="prn"/><s n="ind"/></l><r>cokoliv<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>coś<s n="prn"/><s n="ind"/></l><r>něco<s n="prn"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>ktokolwiek<s n="prn"/><s n="ind"/><s n="mp"/></l><r>kdokoliv<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
@@ -472,31 +486,56 @@
     <e r="RL"><p><l>jakikolwiek<s n="prn"/><s n="ind"/></l><r>jakýkoli<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>się<s n="prn"/><s n="ref"/></l><r>se<s n="prn"/><s n="ref"/></r></p></e>
     <e r="LR"><p><l>żaden<s n="prn"/><s n="ind"/><s n="mp"/></l><r>žádný<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
+    <e r="LR"><p><l>żaden<s n="prn"/><s n="ind"/><s n="nm"/></l><r>žádný<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
     <e><p><l>żaden<s n="prn"/><s n="ind"/></l><r>žádný<s n="prn"/><s n="ind"/></r></p></e>
-    <e r="LR"><p><l>mój<s n="prn"/><s n="pos"/><s n="mp"/></l><r>můj<s n="prn"/><s n="pos"/><s n="ma"/></r></p></e>
+    <e r="LR"><p><l>mój<s n="prn"/><s n="pos"/><s n="mp"/></l><r>můj<s n="prn"/><s n="pos"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>mój<s n="prn"/><s n="pos"/><s n="nm"/></l><r>můj<s n="prn"/><s n="pos"/><s n="mf"/></r></p></e>
     <e><p><l>mój<s n="prn"/><s n="pos"/></l><r>můj<s n="prn"/><s n="pos"/></r></p></e>
-    <e r="LR"><p><l>twój<s n="prn"/><s n="pos"/><s n="mp"/></l><r>tvůj<s n="prn"/><s n="pos"/><s n="ma"/></r></p></e>
+    <e r="LR"><p><l>twój<s n="prn"/><s n="pos"/><s n="mp"/></l><r>tvůj<s n="prn"/><s n="pos"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>twój<s n="prn"/><s n="pos"/><s n="nm"/></l><r>tvůj<s n="prn"/><s n="pos"/><s n="mf"/></r></p></e>
     <e><p><l>twój<s n="prn"/><s n="pos"/></l><r>tvůj<s n="prn"/><s n="pos"/></r></p></e>
-    <e r="LR"><p><l>swój<s n="prn"/><s n="pos"/><s n="mp"/></l><r>svůj<s n="prn"/><s n="pos"/><s n="ma"/></r></p></e>
+    <e r="LR"><p><l>swój<s n="prn"/><s n="pos"/><s n="mp"/></l><r>svůj<s n="prn"/><s n="pos"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>swój<s n="prn"/><s n="pos"/><s n="nm"/></l><r>svůj<s n="prn"/><s n="pos"/><s n="mf"/></r></p></e>
     <e><p><l>swój<s n="prn"/><s n="pos"/></l><r>svůj<s n="prn"/><s n="pos"/></r></p></e>
     <e r="LR"><p><l>nasz<s n="prn"/><s n="pos"/><s n="mp"/></l><r>náš<s n="prn"/><s n="pos"/><s n="ma"/></r></p></e>
     <e><p><l>nasz<s n="prn"/><s n="pos"/></l><r>náš<s n="prn"/><s n="pos"/></r></p></e>
     <e r="LR"><p><l>wasz<s n="prn"/><s n="pos"/><s n="mp"/></l><r>váš<s n="prn"/><s n="pos"/><s n="ma"/></r></p></e>
     <e><p><l>wasz<s n="prn"/><s n="pos"/></l><r>váš<s n="prn"/><s n="pos"/></r></p></e>
-    <e r="LR"><p><l>ile<s n="prn"/><s n="ind"/><s n="mp"/></l><r>kolik<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
-    <e><p><l>ile<s n="prn"/><s n="ind"/></l><r>kolik<s n="prn"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>ile<s n="prn"/><s n="ind"/><s n="mp"/></l><r>kolik<s n="prn"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e><p><l>ile<s n="prn"/><s n="ind"/><s n="nm"/></l><r>kolik<s n="prn"/><s n="ind"/><s n="mf"/></r></p></e>
     <e><p><l>oba<s n="prn"/><s n="ind"/></l><r>oba<s n="prn"/><s n="ind"/></r></p></e>
-    <e><p><l>obydwa<s n="prn"/><s n="ind"/></l><r>oba<s n="prn"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>oba<s n="prn"/><s n="ind"/><s n="mp"/></l><r>oba<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
+    <e r="LR"><p><l>obydwa<s n="prn"/><s n="ind"/></l><r>oba<s n="prn"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>obydwa<s n="prn"/><s n="ind"/><s n="mp"/></l><r>oba<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
     <e><p><l>nic<s n="prn"/><s n="ind"/><s n="nt"/></l><r>nic<s n="prn"/><s n="ind"/><s n="nt"/></r></p></e>
     <e r="LR"><p><l>każdy<s n="prn"/><s n="ind"/><s n="mp"/></l><r>každý<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
     <e><p><l>każdy<s n="prn"/><s n="ind"/></l><r>každý<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>nikt<s n="prn"/><s n="ind"/><s n="mp"/></l><r>nikdo<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
     <e><p><l>wiele<s n="prn"/><s n="ind"/></l><r>mnoho<s n="prn"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>wiele<s n="prn"/><s n="ind"/><s n="mp"/></l><r>mnoho<s n="prn"/><s n="ind"/><s n="mf"/></r></p></e>
-	
+    <e r="LR"><p><l>wiele<s n="prn"/><s n="ind"/><s n="nm"/></l><r>mnoho<s n="prn"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e><p><l>gdzieś<s n="prn"/><s n="ind"/></l><r>někde<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>kiedyś<s n="prn"/><s n="ind"/></l><r>někdy<s n="prn"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>kiedyś<s n="prn"/><s n="ind"/></l><r>jednou<s n="prn"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>kiedyś<s n="prn"/><s n="ind"/></l><r>kdysi<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>skądkolwiek<s n="prn"/><s n="ind"/></l><r>odkudkoliv<s n="prn"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>skądkolwiek<s n="prn"/><s n="ind"/></l><r>odkudkoli<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>kiedykolwiek<s n="prn"/><s n="ind"/></l><r>kdykoliv<s n="prn"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>kiedykolwiek<s n="prn"/><s n="ind"/></l><r>kdykoli<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>gdziekolwiek<s n="prn"/><s n="ind"/></l><r>kdekoliv<s n="prn"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>gdziekolwiek<s n="prn"/><s n="ind"/></l><r>kdekoli<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>jakiś<s n="prn"/><s n="ind"/></l><r>nějaký<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>wszyscy<s n="prn"/><s n="ind"/><s n="mp"/></l><r>všechen<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
+
 <!--
-     <e r="LR"><p><l>czyjkolwiek<s n="prn"/><s n="ind"/><s n="mp"/></l><r>@<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
-     <e><p><l>czyjkolwiek<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>wszystkie<s n="prn"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>všechen<s n="prn"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e><p><l>wszystko<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></l><r>všechen<s n="prn"/><s n="ind"/><s n="GD"/><s n="sg"/></r></p></e>
+
+    <e r="RL"><p><l>czyjkolwiek<s n="prn"/><s n="ind"/></l><r>kdokoliv<s n="prn"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>czyjkolwiek<s n="prn"/><s n="ind"/><s n="mp"/></l><r>kohokoliv<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
+    <e><p><l>czyjkolwiek<s n="prn"/><s n="ind"/></l><r>kohokoliv<s n="prn"/><s n="ind"/></r></p></e>
+
+
      <e r="LR"><p><l>ilekolwiek<s n="prn"/><s n="ind"/><s n="mp"/></l><r>@<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
      <e><p><l>ilekolwiek<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
      <e r="LR"><p><l>ile<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/></l><r>@<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
@@ -505,19 +544,13 @@
      <e><p><l>ileś<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
      <e r="LR"><p><l>czyj<s n="prn"/><s n="itg"/><s n="mp"/></l><r>@<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
      <e><p><l>czyj<s n="prn"/><s n="itg"/></l><r>@<s n="prn"/><s n="itg"/></r></p></e>
-     <e r="LR"><p><l>jaki<s n="prn"/><s n="itg"/><s n="mp"/></l><r>@<s n="prn"/><s n="itg"/><s n="ma"/></r></p></e>
-     <e><p><l>jaki<s n="prn"/><s n="itg"/></l><r>@<s n="prn"/><s n="itg"/></r></p></e>
-
-     <e><p><l>wszyscy<s n="prn"/><s n="ind"/><s n="mp"/></l><r>všichni<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
-     <e><p><l>wszystkie<s n="prn"/><s n="ind"/><s n="nm"/></l><r>@<s n="prn"/><s n="ind"/><s n="mf"/></r></p></e>
-
 
      <e><p><l>co<b/>bądź<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
      <e><p><l>kto<b/>bądź<s n="prn"/><s n="ind"/><s n="mp"/></l><r>@<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
      <e><p><l>czworo<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
      <e><p><l>dwoje<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
      <e><p><l>troje<s n="prn"/><s n="ind"/></l><r>@<s n="prn"/><s n="ind"/></r></p></e>
-	 jakkolwiek, skądkolwiek, gdziekolwiek, dokądkolwiek, gdzieś, skądś, dokądś
+	 jakkolwiek, dokądkolwiek, skądś, dokądś
 -->
 
     <!-- Relatives -->
@@ -538,11 +571,11 @@
     <e r="LR"><p><l>każdy<s n="det"/><s n="ind"/><s n="mp"/></l><r>každý<s n="det"/><s n="ind"/><s n="ma"/></r></p></e>
     <e><p><l>każdy<s n="det"/><s n="ind"/></l><r>každý<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>inny<s n="det"/><s n="ind"/><s n="mp"/></l><r>jiný<s n="det"/><s n="ind"/><s n="ma"/></r></p></e>
-    <e r="LR"><p><l>inny<s n="det"/><s n="ind"/><s n="nm"/></l><r>jiný<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>inny<s n="det"/><s n="ind"/><s n="nm"/></l><r>jiný<s n="det"/><s n="ind"/><s n="ma"/></r></p></e>
     <e><p><l>inny<s n="det"/><s n="ind"/></l><r>jiný<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>mój<s n="det"/><s n="pos"/>s n="mp"/></l><r>můj<s n="det"/><s n="pos"/><s n="ma"/></r></p></e>
     <e r="LR"><p><l>mój<s n="det"/><s n="pos"/>s n="nm"/></l><r>můj<s n="det"/><s n="pos"/><s n="mf"/></r></p></e>
-    <e><p><l>mój<s n="det"/></l><r>můj<s n="det"/></r></p></e>
+    <e><p><l>mój<s n="det"/><s n="pos"/></l><r>můj<s n="det"/><s n="pos"/></r></p></e>
     <e r="LR"><p><l>twój<s n="det"/><s n="pos"/>s n="mp"/></l><r>tvůj<s n="det"/><s n="pos"/>s n="ma"/></r></p></e>
     <e r="LR"><p><l>twój<s n="det"/><s n="pos"/>s n="nm"/></l><r>tvůj<s n="det"/><s n="pos"/>s n="mf"/></r></p></e>
     <e><p><l>twój<s n="det"/></l><r>tvůj<s n="det"/></r></p></e>
@@ -611,6 +644,9 @@
     <e r="RL"><p><l>to<s n="det"/><s n="dem"/></l><r>toto<s n="det"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>tamto<s n="det"/><s n="dem"/><s n="mp"/></l><r>tamto<s n="det"/><s n="dem"/><s n="ma"/></r></p></e>
     <e><p><l>tamto<s n="det"/><s n="dem"/></l><r>tamto<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>taki<s n="det"/><s n="dem"/></l><r>takový<s n="det"/><s n="dem"/></r></p></e>
+    <e r="LR"><p><l>taki<s n="det"/><s n="dem"/><s n="mp"/></l><r>takový<s n="det"/><s n="dem"/><s n="ma"/></r></p></e>
+    <e r="LR"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/></l><r>takový<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
     <e><p><l>co<s n="det"/><s n="ind"/></l><r>co<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>co<s n="det"/><s n="itg"/></l><r>co<s n="det"/><s n="itg"/></r></p></e>
 
@@ -2462,6 +2498,7 @@
     <e><p><l>tawerna<s n="n"/><s n="f"/></l><r>taverna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teatrzyk<s n="n"/><s n="mi"/></l><r>divadélko<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>teatrzyk<s n="n"/><s n="mi"/></l><r>divadýlko<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>teatr<s n="n"/><s n="mi"/></l><r>divadlo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>teleport<s n="n"/><s n="mp"/></l><r>teleport<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>tenisista<s n="n"/><s n="mp"/></l><r>tenista<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teokracja<s n="n"/><s n="f"/></l><r>teokracie<s n="n"/><s n="f"/></r></p></e>
@@ -2809,6 +2846,9 @@
     <e><p><l>zootechnika<s n="n"/><s n="mp"/></l><r>zootechnika<s n="n"/><s n="f"/></r></p></e>
 	<!-- end: cs gender to be checked -->
 
+    <e><p><l>okno<s n="n"/><s n="nt"/></l><r>okno<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>wesele<s n="n"/><s n="nt"/></l><r>svatba<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>dziewczę<s n="n"/><s n="nt"/></l><r>děvče<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>adapter<s n="n"/><s n="mi"/></l><r>adaptér<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>albinos<s n="n"/><s n="mp"/></l><r>albín<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>alt<s n="n"/><s n="mi"/></l><r>alt<s n="n"/><s n="mi"/></r></p></e>
@@ -3743,7 +3783,6 @@
     <e><p><l>dobroczynność<s n="n"/><s n="f"/></l><r>charita<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dobytek<s n="n"/><s n="mi"/></l><r>dobytek<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dokumentacja<s n="n"/><s n="f"/></l><r>dokumentace<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dopisek<s n="n"/><s n="mi"/></l><r>dopis<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dorzecze<s n="n"/><s n="nt"/></l><r>rozvodí<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>duet<s n="n"/><s n="mp"/></l><r>dvojice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dwusetka<s n="n"/><s n="f"/></l><r>dvoustovka<s n="n"/><s n="f"/></r></p></e>
@@ -3931,6 +3970,7 @@
     <e><p><l>podziemie<s n="n"/><s n="nt"/></l><r>podzemí<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>pogranicze<s n="n"/><s n="nt"/></l><r>pohraničí<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>południe<s n="n"/><s n="nt"/></l><r>jih<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>południe<s n="n"/><s n="nt"/></l><r>poledne<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>popiersie<s n="n"/><s n="nt"/></l><r>poprsí<s n="n"/><s n="mi"/></r></p></e>
     <e r="RL"><p><l>powietrze<s n="n"/><s n="nt"/></l><r>ovzduší<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>powietrze<s n="n"/><s n="nt"/></l><r>vzduch<s n="n"/><s n="mi"/></r></p></e>
@@ -4021,7 +4061,7 @@
     <e><p><l>biegun<s n="n"/><s n="ma"/></l><r>pól<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>biskup<s n="n"/><s n="mp"/></l><r>biskup<s n="n"/><s n="ma"/></r></p></e>
     <e r="LR" ><p><l>biuro<s n="n"/><s n="nt"/></l><r>kancelář<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>biuro<s n="n"/><s n="nt"/></l><r>úřad<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>urząd<s n="n"/><s n="nt"/></l><r>úřad<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>biznes<s n="n"/><s n="mi"/></l><r>byznys<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bizon<s n="n"/><s n="ma"/></l><r>bizon<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>blask<s n="n"/><s n="mi"/></l><r>lesk<s n="n"/><s n="mi"/></r></p></e>
@@ -4088,7 +4128,8 @@
     <e><p><l>cząstka<s n="n"/><s n="f"/></l><r>částice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cząstka<s n="n"/><s n="f"/></l><r>částka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>częstotliwość<s n="n"/><s n="f"/></l><r>frekvence<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>część<s n="n"/><s n="f"/></l><r>díl<s n="n"/><s n="mi"/></r></p></e>
+    <e r="RL"><p><l>część<s n="n"/><s n="f"/></l><r>díl<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>część<s n="n"/><s n="f"/></l><r>část<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>czołówka<s n="n"/><s n="f"/></l><r>špička<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>czosnek<s n="n"/><s n="mi"/></l><r>česnek<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>czynnik<s n="n"/><s n="mi"/></l><r>faktor<s n="n"/><s n="mi"/></r></p></e>
@@ -4240,7 +4281,6 @@
     <e><p><l>granica<s n="n"/><s n="f"/></l><r>limita<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grobowiec<s n="n"/><s n="mi"/></l><r>hrobka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grobowiec<s n="n"/><s n="mi"/></l><r>hrob<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>gród<s n="n"/><s n="mi"/></l><r>hrad<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gruszka<s n="n"/><s n="f"/></l><r>hruška<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grypa<s n="n"/><s n="f"/></l><r>chřipka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grzbiet<s n="n"/><s n="mi"/></l><r>hřbet<s n="n"/><s n="mi"/></r></p></e>
@@ -4444,7 +4484,6 @@
     <e><p><l>lira<s n="n"/><s n="f"/></l><r>lira<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lis<s n="n"/><s n="ma"/></l><r>liška<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lis<s n="n"/><s n="ma"/></l><r>lis<s n="n"/><s n="mi"/></r></p></e>
-    <e r="RL"><p><l>lista<s n="n"/><s n="f"/></l><r>dopis<s n="n"/><s n="mi"/></r></p></e>
     <e r="RL"><p><l>lista<s n="n"/><s n="f"/></l><r>lišta<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lista<s n="n"/><s n="f"/></l><r>listina<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lista<s n="n"/><s n="f"/></l><r>list<s n="n"/><s n="mi"/></r></p></e>
@@ -5198,6 +5237,7 @@
     <e><p><l>zaleta<s n="n"/><s n="f"/></l><r>výhoda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zależność<s n="n"/><s n="f"/></l><r>závislost<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zamek<s n="n"/><s n="mi"/></l><r>hrad<s n="n"/><s n="mi"/></r></p></e>
+    <e r="LR"><p><l>gród<s n="n"/><s n="mi"/></l><r>hrad<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>zamek<s n="n"/><s n="mi"/></l><r>zámek<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>zamiar<s n="n"/><s n="mi"/></l><r>úmysl<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>zamówienie<s n="n"/><s n="nt"/></l><r>objednávka<s n="n"/><s n="f"/></r></p></e>
@@ -7377,6 +7417,7 @@
     <e><p><l>charytatywny<s n="adj"/></l><r>benefiční<s n="adj"/></r></p></e>
     <e><p><l>chemiczny<s n="adj"/></l><r>chemický<s n="adj"/></r></p></e>
     <e><p><l>chłodny<s n="adj"/></l><r>chladný<s n="adj"/></r></p></e>
+    <e><p><l>głodny<s n="adj"/></l><r>hladný<s n="adj"/></r></p></e>
     <e><p><l>chłopięcy<s n="adj"/></l><r>klukovský<s n="adj"/></r></p></e>
     <e><p><l>chmurny<s n="adj"/></l><r>chmurný<s n="adj"/></r></p></e>
     <e><p><l>chorobotwórczy<s n="adj"/></l><r>choroboplodný<s n="adj"/></r></p></e>
@@ -9276,6 +9317,8 @@
     <e><p><l>względny<s n="adj"/></l><r>relativní<s n="adj"/></r></p></e>
 
     <!-- Adverbs -->
+    <e><p><l>przed<b/>południem<s n="adv"/></l><r>dopoledne<s n="adv"/></r></p></e>
+    <e><p><l>po<b/>południu<s n="adv"/></l><r>odpoledne<s n="adv"/></r></p></e>
     <e><p><l>ciemno<s n="adv"/></l><r>temno<s n="adv"/></r></p></e>
     <e><p><l>dawno<s n="adv"/></l><r>dávno<s n="adv"/></r></p></e>
     <e><p><l>gęsto<s n="adv"/></l><r>hustě<s n="adv"/></r></p></e>
@@ -9286,7 +9329,6 @@
     <e><p><l>dodatkowo<s n="adv"/></l><r>dodatečně<s n="adv"/></r></p></e>
     <e><p><l>dokładnie<s n="adv"/></l><r>důkladně<s n="adv"/></r></p></e>
     <e><p><l>jedynie<s n="adv"/></l><r>jedině<s n="adv"/></r></p></e>
-    <e><p><l>kiedyś<s n="adv"/></l><r>kdysi<s n="adv"/></r></p></e>
     <e><p><l>kulturalnie<s n="adv"/></l><r>kulturně<s n="adv"/></r></p></e>
     <e><p><l>łaskawie<s n="adv"/></l><r>milostivě<s n="adv"/></r></p></e>
     <e><p><l>miłościwie<s n="adv"/></l><r>milostivě<s n="adv"/></r></p></e>
@@ -9439,7 +9481,6 @@
     <e r="LR"><p><l>wiele<s n="adv"/></l><r>hodně<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>podle<s n="adv"/><s n="sint"/></l><r>podle<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>trochę<s n="adv"/></l><r>trochu<s n="adv"/></r></p></e>
-    <e><p><l>przedtem<s n="adv"/></l><r>předtím<s n="adv"/></r></p></e>
     <e><p><l>niech<s n="adv"/></l><r>nechť<s n="adv"/></r></p></e>
     <e r="LR"><p><l>niechaj<s n="adv"/></l><r>nechť<s n="adv"/></r></p></e>
     <e r="RL"><p><l>niech<s n="adv"/></l><r>ať<s n="adv"/></r></p></e>
@@ -10225,7 +10266,6 @@
     <e><p><l>wynosić<s n="vblex"/><s n="imperf"/></l><r>vynosit<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>znajdować<s n="vblex"/><s n="imperf"/></l><r>nalézat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zostać<s n="vblex"/><s n="perf"/></l><r>udržet<s n="vblex"/><s n="perf"/></r></p></e>
-    <e><p><l>abdykować<s n="vblex"/></l><r>abdikovat<s n="vblex"/></r></p></e>
     <e><p><l>bać<s n="vblex"/></l><r>strachovat<s n="vblex"/></r></p></e>
     <e><p><l>badać<s n="vblex"/></l><r>prošetřovat<s n="vblex"/></r></p></e>
     <e><p><l>bojować<s n="vblex"/></l><r>bojovat<s n="vblex"/></r></p></e>
@@ -10274,7 +10314,6 @@
     <e><p><l>udokumentować<s n="vblex"/></l><r>zdokumentovat<s n="vblex"/></r></p></e>
     <e><p><l>usunąć<s n="vblex"/></l><r>odstranit<s n="vblex"/></r></p></e>
     <e><p><l>sytuować<s n="vblex"/></l><r>situovat<s n="vblex"/></r></p></e>
-    <e><p><l>utrzymywać<s n="vblex"/></l><r>udržovat<s n="vblex"/></r></p></e>
     <e r="LR" ><p><l>walczyć<s n="vblex"/></l><r>bojovat<s n="vblex"/></r></p></e>
     <e><p><l>wałęsać<s n="vblex"/></l><r>potulovat<s n="vblex"/></r></p></e>
     <e><p><l>włączyć<s n="vblex"/></l><r>začlenit<s n="vblex"/></r></p></e>
@@ -10524,7 +10563,6 @@
     <e c="check"><p><l>wycinać<s n="vblex"/></l><r>vyjmout<s n="vblex"/></r></p></e>
     <e c="check"><p><l>wyczuwać<s n="vblex"/></l><r>čumit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>wydelegować<s n="vblex"/></l><r>vyčlenit<s n="vblex"/></r></p></e>
-    <e c="check"><p><l>wydrukować<s n="vblex"/></l><r>vytisknout<s n="vblex"/></r></p></e>
     <e c="check"><p><l>wykastrować<s n="vblex"/></l><r>vykleštit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>wykręcać<s n="vblex"/></l><r>vymlouvat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>wykładać<s n="vblex"/></l><r>přednášet<s n="vblex"/></r></p></e>
@@ -10737,7 +10775,8 @@
     <e><p><l>ukrywać<s n="vblex"/></l><r>skrývat<s n="vblex"/></r></p></e>
     <e><p><l>ukrzyżować<s n="vblex"/></l><r>ukřižovat<s n="vblex"/></r></p></e>
     <e><p><l>usytuować<s n="vblex"/></l><r>situovat<s n="vblex"/></r></p></e>
-    <e><p><l>utrzymywać<s n="vblex"/></l><r>udržovat<s n="vblex"/></r></p></e>
+    <e><p><l>utrzymywać<s n="vblex"/><s n="imperf"/></l><r>udržovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>utrzymać<s n="vblex"/><s n="perf"/></l><r>udržet<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>używać<s n="vblex"/></l><r>používat<s n="vblex"/></r></p></e>
     <e><p><l>wbudować<s n="vblex"/></l><r>zabudovat<s n="vblex"/></r></p></e>
     <e><p><l>werbować<s n="vblex"/></l><r>verbovat<s n="vblex"/></r></p></e>
@@ -11074,6 +11113,7 @@
     <e><p><l>montować<s n="vblex"/><s n="imperf"/></l><r>montovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>naprawiać<s n="vblex"/><s n="imperf"/></l><r>opravovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>nazywać<s n="vblex"/><s n="imperf"/></l><r>jmenovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e r="RL"><p><l>nazywać<s n="vblex"/><s n="imperf"/></l><r>nazývat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>negować<s n="vblex"/><s n="imperf"/></l><r>negovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>neutralizować<s n="vblex"/><s n="imperf"/></l><r>neutralizovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>normalizować<s n="vblex"/><s n="imperf"/></l><r>normalizovat<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -11249,8 +11289,8 @@
     <e><p><l>czesać<s n="vblex"/></l><r>česat<s n="vblex"/></r></p></e>
     <e><p><l>kochać<s n="vblex"/></l><r>milovat<s n="vblex"/></r></p></e>
     <e><p><l>kupować<s n="vblex"/></l><r>kupovat<s n="vblex"/></r></p></e>
-    <e><p><l>nazywać<s n="vblex"/></l><r>jmenovat<s n="vblex"/></r></p></e>
-
+    <e><p><l>prosić<s n="vblex"/></l><r>prosit<s n="vblex"/></r></p></e>
+    <e><p><l>wołać<s n="vblex"/></l><r>volat<s n="vblex"/></r></p></e>
 
     <e><p><l>kogut<s n="n"/><s n="ma"/></l><r>kohout<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>kwas<s n="n"/><s n="mi"/></l><r>kyselina<s n="n"/><s n="f"/></r></p></e>
@@ -12693,7 +12733,7 @@
     <e><p><l>izobara<s n="n"/><s n="f"/></l><r>isobara<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jednostka<s n="n"/><s n="f"/></l><r>jednotka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jarzębina<s n="n"/><s n="f"/></l><r>jeřabina<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>jesień<s n="n"/><s n="f"/></l><r>jesen<s n="n"/><s n="ma"/></r></p></e>
+    <e r="RL"><p><l>jesień<s n="n"/><s n="f"/></l><r>jesen<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>jesiotr<s n="n"/><s n="ma"/></l><r>jeseter<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>kasztanowiec<s n="n"/><s n="mi"/></l><r>jírovec<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>torebka<s n="n"/><s n="f"/></l><r>kabelka<s n="n"/><s n="f"/></r></p></e>
@@ -13365,7 +13405,6 @@
     <e><p><l>inaczej<s n="adv"/></l><r>jinak<s n="adv"/></r></p></e>
     <e><p><l>jednoznacznie<s n="adv"/><s n="sint"/></l><r>jednoznačně<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>jutro<s n="adv"/></l><r>zítra<s n="adv"/></r></p></e>
-    <e><p><l>kiedykolwiek<s n="adv"/></l><r>kdykoliv<s n="adv"/></r></p></e>
     <e><p><l>kompletnie<s n="adv"/><s n="sint"/></l><r>kompletně<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>maksymalnie<s n="adv"/></l><r>maximálně<s n="adv"/></r></p></e>
     <e><p><l>naprawdę<s n="adv"/></l><r>opravdu<s n="adv"/></r></p></e>
@@ -13387,7 +13426,6 @@
     <e><p><l>ponownie<s n="adv"/></l><r>zpět<s n="adv"/></r></p></e>
     <e><p><l>powoli<s n="adv"/></l><r>pomalu<s n="adv"/></r></p></e>
     <e><p><l>powoli<s n="adv"/></l><r>zvolna<s n="adv"/></r></p></e>
-    <e><p><l>przedtem<s n="adv"/></l><r>předtím<s n="adv"/></r></p></e>
     <e><p><l>przeważnie<s n="adv"/></l><r>převážně<s n="adv"/></r></p></e>
     <e><p><l>przykładowo<s n="adv"/></l><r>kupříkladu<s n="adv"/></r></p></e>
     <e><p><l>późno<s n="adv"/></l><r>pozdě<s n="adv"/></r></p></e>
@@ -13397,7 +13435,6 @@
     <e><p><l>skoro<s n="adv"/></l><r>ježto<s n="adv"/></r></p></e>
     <e><p><l>skrajnie<s n="adv"/></l><r>krajně<s n="adv"/></r></p></e>
     <e><p><l>skutecznie<s n="adv"/><s n="sint"/></l><r>účinně<s n="adv"/><s n="sint"/></r></p></e>
-    <e><p><l>skądkolwiek<s n="adv"/></l><r>odkudkoliv<s n="adv"/></r></p></e>
     <e><p><l>starannie<s n="adv"/><s n="sint"/></l><r>pečlivě<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>stopniowo<s n="adv"/></l><r>postupně<s n="adv"/></r></p></e>
     <e><p><l>super<s n="adv"/></l><r>super<s n="adv"/></r></p></e>
@@ -13429,10 +13466,9 @@
     <e><p><l>znacząco<s n="adv"/></l><r>znatelně<s n="adv"/></r></p></e>
     <e><p><l>znikąd<s n="adv"/></l><r>odnikud<s n="adv"/></r></p></e>
     <e><p><l>znowu<s n="adv"/></l><r>opět<s n="adv"/></r></p></e>
-    <e><p><l>znowu<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
-    <e><p><l>znów<s n="adv"/></l><r>opět<s n="adv"/></r></p></e>
-    <e><p><l>znów<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
-    <e><p><l>znów<s n="adv"/></l><r>zpět<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>znowu<s n="adv"/></l><r>znovu<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>znowu<s n="adv"/></l><r>zpět<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>znów<s n="adv"/></l><r>opět<s n="adv"/></r></p></e>
     <e><p><l>zupełnie<s n="adv"/><s n="sint"/></l><r>úplně<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>zwłaszcza<s n="adv"/></l><r>zejména<s n="adv"/></r></p></e>
     <e><p><l>ściśle<s n="adv"/></l><r>přesně<s n="adv"/></r></p></e>
@@ -13446,9 +13482,6 @@
     <e r="LR"><p><l>tak<s n="adv"/></l><r>jo<s n="adv"/></r></p></e>
     <e><p><l>no<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
     <e><p><l>tak<s n="adv"/></l><r>tak<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>kiedyś<s n="adv"/></l><r>jednou<s n="adv"/></r></p></e>
-    <e><p><l>kiedyś<s n="adv"/></l><r>někdy<s n="adv"/></r></p></e>
-    <e><p><l>daleko<s n="adv"/></l><r>daleko<s n="adv"/></r></p></e>
     <e><p><l>stąd<s n="adv"/></l><r>odtud<s n="adv"/></r></p></e>
     <e><p><l>wtedy<s n="adv"/></l><r>tehdy<s n="adv"/></r></p></e>
     <e><p><l>jeszcze<s n="adv"/></l><r>ještě<s n="adv"/></r></p></e>
@@ -13535,17 +13568,23 @@
 
     <e><p><l>np<s n="abbr"/></l><r>např<s n="abbr"/></r></p></e>
     <e><p><l>tzw<s n="abbr"/></l><r>tzv<s n="abbr"/></r></p></e>
-    <e><p><l>ca<s n="abbr"/></l><r>cca<s n="abbr"/></r></p></e>
+    <e r="LR"><p><l>ca<s n="abbr"/></l><r>cca<s n="abbr"/></r></p></e>
+    <e><p><l>ok<s n="abbr"/></l><r>cca<s n="abbr"/></r></p></e>
     <e><p><l>itd<s n="abbr"/></l><r>atd<s n="abbr"/></r></p></e>
     <e r="RL"><p><l>itd<s n="abbr"/></l><r>apod<s n="abbr"/></r></p></e>
     <e r="RL"><p><l>itd<s n="abbr"/></l><r>aj<s n="abbr"/></r></p></e>
     <e><p><l>tj<s n="abbr"/></l><r>tj<s n="abbr"/></r></p></e>
-
+    <e><p><l>mln<s n="abbr"/></l><r>mil<s n="abbr"/></r></p></e>
+    <e><p><l>inż<s n="abbr"/></l><r>ing<s n="abbr"/></r></p></e>
+    <e><p><l>godz<s n="abbr"/></l><r>hodin<s n="abbr"/></r></p></e>
+    <e><p><l>tel<s n="abbr"/></l><r>tél<s n="abbr"/></r></p></e>
     <e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
     <e><p><l>cm<s n="abbr"/></l><r>cm<s n="abbr"/></r></p></e>
     <e><p><l>km<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
     <e><p><l>św<s n="abbr"/></l><r>sv<s n="abbr"/></r></p></e>
     <e><p><l>nr<s n="abbr"/></l><r>č<s n="abbr"/></r></p></e>
+    <e r="RL"><p><l>nr<s n="abbr"/></l><r>čís<s n="abbr"/></r></p></e>
+
     <e><p><l>jpg<s n="abbr"/></l><r>jpg<s n="abbr"/></r></p></e>
     <e><p><l>ascii<s n="abbr"/></l><r>ascii<s n="abbr"/></r></p></e>
     <e><p><l>utf<s n="abbr"/></l><r>utf<s n="abbr"/></r></p></e>

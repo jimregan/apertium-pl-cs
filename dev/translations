@@ -110,6 +110,7 @@ adept|adept
 adhezja|adheze
 adhoc|adhoc
 adiabatyczna|adiabatický
+adiabatyczny|adiabatický
 adiabetyczny|adiabatický
 admin|admin
 administracja|administrace
@@ -207,6 +208,7 @@ agat|achát
 Agaton|Agaton
 agawa|agáve
 agawowate|agávovité
+ageizm|ageismus
 agencja|agentura
 agent|agent
 agentura|agentura
@@ -313,6 +315,7 @@ aksjologia|axiologie
 aksjomat|axiom
 akson|axon
 aksonema|axonema
+akspresjonizm|expresionismus
 akta|akta
 akt|akt
 aktinidia|aktinidie
@@ -646,7 +649,9 @@ anarchia|anarchie
 anarchista|anarchismus
 anarchistyczny|anarchistický
 anarchizm|anarchismus
+anarchokapitalizm|anarchokapitalismus
 anarchokomunizm|anarchokomunismus
+anarchoprymitywizm|primitivismus
 anarchosyndykalizm|anarchosyndikalismus
 Anastazja|Anastázie
 anastrofa|epanastrofa
@@ -694,6 +699,7 @@ aneuploidalność|aneuploidie
 aneuryna|Thiamin
 Angara|Angara
 Angela|Anděla
+angelika|angelika
 Angelika|Angelika
 angielski|anglický
 angielszczyzna|angličtina
@@ -804,6 +810,7 @@ antybiotykowaibiotická
 antybohater|antihrdina
 antychryst|antikrist
 antyciało|protilátka
+antycyganizm|anticikanismus
 antycyklon|anticyklóna
 antycząsteczka|antihmota
 antycząstka|antihmota
@@ -856,6 +863,7 @@ antysemita|antisemitismus
 antysemityzm|antisemitismus
 antysemityzmisemitismus
 antyseptyczny|antiseptikum
+antyseptyka|antiseptikum
 antyseptykaiseptikum
 antyseptyk|antiseptikum
 antysyjonizm|antisionismus
@@ -1031,6 +1039,7 @@ arkebuz|arkebuza
 Arkona|Arkona
 arkoza|arkóza
 Arktur|Arcturus
+arktyka|arktida
 Arktyka|Arktida
 arkusz|list
 Arles|Arles
@@ -1145,9 +1154,11 @@ astenosfera|astenosféra
 Asterix|Asterix
 asteroid|asteroid
 asteroid|planetka
+asteryzm|asterismus
 astma|astma
 Astrachań|Astrachaň
 astrachański|astrachaňský
+astralny|astrální
 Astrid|Astrid
 astrobiologia|astrobiologie
 astrofizyka|astrofyzika
@@ -1171,6 +1182,7 @@ Asuncion|Asunción
 Asurbanipal|Aššurbanipal
 asus|asus
 asygnata|asignát
+asymetryczny|asymetrický
 asymilacja|asimilace
 asymilować|asimilovat
 asymptota|asymptota
@@ -1274,6 +1286,8 @@ austriacki|rakušan
 Austriak|Rakušan
 Austriak|Rakušané
 Austria|Rakousko
+austrofaszyzm|austrofašismus
+austromarksizm|austromarxismus
 austronauta|astronaut
 austroslawizm|austroslavismus
 Austro-Węgry|Rakousko-Uhersko
@@ -1316,6 +1330,7 @@ autopsja|pitva
 autorach|autorech
 autor|autor
 autorski|autorský
+autorytaryzm|autoritarismus
 autorytet|autorita
 autoryzacja|autorizace
 autoryzacji|autorizaci
@@ -1445,6 +1460,7 @@ Bahia|Bahía
 Bahrajn|Bahrajn
 baht|baht
 Bairiki|Bairiki
+Bajdaracki|Bajdaracký
 bajka|bajka
 Bajkał|Bajkal
 bajka|pohádka
@@ -1619,6 +1635,7 @@ baset|baset
 baset|bastet
 basetowy|basetový
 BASIC|BASIC
+basilica|bazilika
 Basilicata|Basilicata
 basista|basista
 basketball|basketbal
@@ -1780,6 +1797,7 @@ berberys|dřišťál
 berberysowate|dřišťálovité
 berberzy|berbeři
 Berdyczów|Berdyčiv
+Berenika|Berenika
 bergamo|bergamo
 Berg|Berg
 Bergen|Bergen
@@ -1911,6 +1929,7 @@ biała|bílá
 białaczka|leukemie
 białko|bílkovina
 białko|protein
+białogłowy|bělohlavý
 białogwardzista|bělogvardějci
 Białorusin|Bělorusové
 białoruski|běloruský
@@ -2008,6 +2027,7 @@ Bigos|Bigos
 Bihar|Bihár
 bijak|cep
 bijekcja|bijekce
+bikameralizm|bikameralismus
 bilance|bilance
 bilans|bilance
 bilansować|bilancovat
@@ -2038,6 +2058,7 @@ bimetal|bimetal
 bimetalizm|bimetalismus
 binarnie|binárně
 binarny|binární
+binominalny|binominální
 biocenoza|společenstvo
 biochemia|biochemie
 biocybernetyka|biokybernetika
@@ -2051,9 +2072,11 @@ biofeedback|biofeedback
 biofilm|biofilm
 biofizyka|biofyzika
 biogaz|bioplyn
+biogeochemiczny|biogeochemický
 biogeografia|biogeografie
 biografia|biografie
 biografia|životopis
+biograficzny|biografický
 biograf|životopisec
 bioindykator|bioindikátor
 bioinformatyka|bioinformatika
@@ -2199,6 +2222,7 @@ błędna|chybová
 błędnikowce|labyrintky
 błędny|chybný
 błędny|neplatný
+błękitny|modravý
 błękitny|modrý
 błękitny|namodralý
 błogi|blažený
@@ -2279,6 +2303,7 @@ bojowy|válečný
 bojówka|bojůvka
 bok|bok
 bokobrody|licousy
+bokononizm|bokononismus
 boks|box
 bokser|boxer
 bokserki|boxerky
@@ -2359,6 +2384,7 @@ botaniczny|botanický
 botanika|botanika
 botanik|botanik
 botanik|botanika
+Botnicka|Botnický
 Botswana|Botswana
 botulizm|botulismus
 bouboule|bouboule
@@ -2509,12 +2535,14 @@ brudas|umazanec
 bruk|dlažba
 brukit|brookit
 Bruksela|Brusel
+bruksizm|bruxismus
 brumalia|saturnálie
 brunatnice|chaluhy
 Brunei|Brunej
 brunet|brunet
 brunetka|bruneta
 Brunon|Bruno
+Brunszwicki|Brunšvický
 Brunszwik|Braunschweig
 Brunszwik|Brunšvik
 Brusiłow|Brusilov
@@ -2552,6 +2580,7 @@ brzemię|břemeno
 brzeszczot|čepel
 Brześć|Brest
 Brzetysław|Břetislav
+brzęczący|pisklavý
 brzęczeć|řinčet
 brzęczeć|řinčit
 brzęczyk|zvonek
@@ -2578,6 +2607,7 @@ buda|buda
 Budapeszt|Budapešť
 budapeszteński|budapešťský
 budda|buddha
+buddyjski|buddhistický
 buddyzm|buddhismus
 budka|budka
 budowa|budova
@@ -2697,6 +2727,7 @@ butan|butan
 butanoL|Butanol
 but|bot
 but|bota
+buteflika|bouteflika
 butelka|láhev
 buTen|Buten
 butik|butik
@@ -2952,6 +2983,7 @@ cheddar|čedar
 chedyw|chediv
 chefren|rachef
 chelat|chelatace
+chelczycki|chelčický
 Chełm|Chełm
 Chełmno|Chełmno
 Chełmża|Chełmża
@@ -2972,6 +3004,7 @@ cherub|cherub
 cherubin|cherub
 Cheruskowie|Cheruskové
 chętniej|raději
+chiazm|chiasmus
 Chicago|Chicago
 chicagowski|chicagský
 chichot|chechtot
@@ -3033,6 +3066,7 @@ chłopskie|selské
 chłosta|bičování
 chłód|chlad
 chmiel|chmel
+Chmielnicki|Chmelnický
 chmielograb|habrovec
 chmura|mrak
 chmura|oblak
@@ -3096,6 +3130,7 @@ chromatografia|Chromatografie
 chromatyna|chromatin
 chrom|chrom
 chromit|chromit
+chromodynamika|chromodynamika
 chromosfera|chromosféra
 chromosom|chromozom
 chroniczny|chronický
@@ -3329,6 +3364,7 @@ cyna|cín
 cyniczny|cynický
 cynik|cynik
 cynizm|cynik
+cynizm|kynismus
 cynizm|otrlost
 Cypr|Kypr
 cyprys|cypřiš
@@ -3339,6 +3375,7 @@ cyrkowy|cirkusový
 cyrkulacja|cirkulace
 cysterna|cisterna
 cysters|cisterciák
+cystersi|cisterciácký
 cytadela|citadela
 cytat|citace
 cytat|citát
@@ -3362,6 +3399,7 @@ czara|pohár
 czarcikęs|čertkus
 czarna|černá
 czarno-biały|černobílý
+czarnogłowy|černohlavý
 czarnogórski|černohorský
 czarnooki|černooký
 czarnoskóry|černošský
@@ -3369,6 +3407,7 @@ czarny|černý
 czarodziej|čaroděj
 czarodziejka|čarodějka
 czarodziejski|čarodějky
+czarodziejski|čarodějnický
 czarownic|čarodejnic
 czart|start
 czasami|občas
@@ -3396,12 +3435,15 @@ czcionka|písmo
 czcionkę|písmo
 czczenie|uctívání
 czeboksary|cheboksary
+czechizm|bohemismus
 czechosłowacki|československý
+czechosłowakizm|čechoslovakismus
 Czechy|Česko
 czeczeński|čečenský
 czekać|čekat
 czekolada|čokoláda
 czeladnik|chasník
+czeondoizm|čeondoismus
 Czeriepanow|Čerepanov
 czerkiesk|cherkessk
 czernieć|černat
@@ -3494,6 +3536,7 @@ dalekowzroczność|dalekozrakost
 dalekowzroczność|předvídavost
 dalia|dahlie
 dalia|jirina
+dalmatyka|dalmatika
 dalmatyńczyk|dalmatin
 dama|dáma
 damulka|panička
@@ -3624,6 +3667,7 @@ denny|denní
 denotacja|denotace
 densytometria|denzitometrie
 dentysta|dentista
+dentystyczny|dentální
 denudacja|denudace
 denuncjant|denunciant
 Denver|Denver
@@ -3724,6 +3768,7 @@ Diana|Diana
 diapozytyw|diapozitiv
 diaspora|diaspora
 diaspor|diaspor
+diatonika|diatonika
 diecezja|diecéze
 diecezjalny|diecézní
 diesel|diesel
@@ -3836,6 +3881,7 @@ dojrzały|zralý
 dojrzewanie|zrání
 dokąd|dokud
 dok|dok
+doketyzm|doketismus
 dokładnie|důkladně
 dokładnie|přesně
 dokładność|přesnost
@@ -4060,6 +4106,7 @@ drzwi|dveře
 drzwi|dveří
 drżączka|třeslice
 dświeżanie|obnovení
+dualizm|dualismus
 dualny|duální
 dubajski|dubajský
 dubbing|dabing
@@ -4148,6 +4195,7 @@ dysk|disk
 dyskietka|disketa
 dyskont|diskont
 dyskontowy|diskontní
+dyskordianizm|diskordianismus
 dyskowy|diskový
 dyskrecja|diskrétnost
 dyskrecja|mlčenlivost
@@ -4207,6 +4255,7 @@ dzielnik|dělitel
 dzielny|statečný
 dzielona|sdílená
 dziennikarka|žurnalistka
+dziennikarstwo|žurnalistika
 dziennikarz|novinář
 dziennikarz|žurnalista
 dziennik|deník
@@ -4270,6 +4319,7 @@ dżdżownica|žížaly
 dżem|džem
 dżentelmen|gentleman
 dżihad|džihád
+dżinizm|džinismus
 dżinsowy|džinový
 dżinsowy|jeansovy
 dżudo|judo
@@ -4311,7 +4361,9 @@ egocentryk|egocentrik
 egocentryzm|egocentrismus
 egoista|sobec
 egoistyczny|egoistický
+egoizm|egoismus
 egoizm|sobectví
+egoteizm|egoteismus
 egzamin|zkouška
 egzekucja|poprava
 egzemplarza|instance
@@ -4324,6 +4376,7 @@ egzotyczny|exotický
 egzotyka|exot
 egzotyka|exotika
 egzystencja|existence
+egzystencjalizm|existencialismus
 egzystencjalny|existenční
 egzystować|existovat
 einstein|einsteinium
@@ -4336,11 +4389,13 @@ ekonomia|ekonomika
 ekonomika|ekonomika
 ekonomista|ekonom
 ekosystem|ekosystém
+ekoterroryzm|ekoterorismus
 ekoturystyka|ekoturistika
 ekran|obrazovka
 ekscelencja|excelence
 ekscentryczny|excentrický
 eksces|exces
+ekshibicjonizm|exhibicionismus
 ekshumacja|exhumace
 ekshumować|exhumovat
 ekskluzywny|exkluzivní
@@ -4382,6 +4437,7 @@ ekstrawagancja|extravagance
 ekstrawagancki|extravagantní
 ekstremalnie|extrémně
 ekumeniczny|ekumenický
+ekumenizm|ekumenismus
 Ekwadorczyk|Ekvádořan
 Ekwador|Ekvádor
 Ekwador|Ekvádormi
@@ -4463,6 +4519,7 @@ email|email
 emancypacja|emancipace
 embargo|embargo
 emblemat|emblém
+embrionalny|embryonální
 embrion|embryo
 embrjon|embryo
 emerytalny|důchodový
@@ -4491,6 +4548,7 @@ emulator|emulátor
 emulsja|emulse
 emulsja|emulze
 encja|entita
+encyklika|encyklika
 encyklopedia|encyklopedie
 encyklopedyczny|encyklopedický
 endoskop|endoskop
@@ -4502,6 +4560,7 @@ energetyzujący|energetizující
 energia|energie
 enkaustyka|enkaustika
 enklawa|enkláva
+ensperymentalny|experimentální
 entuzjasta|nadšeněc
 entuzjastyczny|entusiastický
 entuzjastyczny|nadšený
@@ -4514,6 +4573,8 @@ epidemia|epidemie
 epidemiolog|epidemilog
 epidemiolog|epidemioložka
 epidemiologia|epidemiologie
+epigrafika|epigrafika
+epikureizm|epikureismus
 epilepsja|epilepsie
 epileptyk|epileptik
 epilog|epilog
@@ -4528,9 +4589,11 @@ epos|epos
 epsilon|epsilon
 era|era
 era|éra
+erasmusbrug|erasmusbrug
 erb|erbium
 erekcja|erekce
 ergonomia|ergonomie
+ergotyzm|ergotismus
 erie|erie
 erogenny|erotogenní
 erotoman|erotoman
@@ -4542,6 +4605,7 @@ erozyjny|erozivní
 errata|errata
 erudycja|erudice
 erupcja|erupce
+eryka|erika
 Eryka|Erika
 Erytrea|Eritrea
 escudo|escudo
@@ -4569,12 +4633,15 @@ etanol|etanol
 etanol|ethanol
 etap|etapa
 etat|uvázek
+etatyzm|etatismus
 eter|éter
 eteryczny|éterický
 ethernet|ethernet
 Etiopia|Etiopie
 etiopski|etiopský
 etniczny|etnický
+etnobotanika|etnobotanika
+etnocentryzm|etnocentrismus
 etnograf|etnograf
 etnograf|etnografkyně
 etnografia|etnografie
@@ -4584,12 +4651,14 @@ etyka|etika
 etykieta|etiketa
 etymologia|etymologie
 etyn|ethyn
+eudajmonizm|eudaimonismus
 eufeministyczny|eufeministický
 eufemizm|eufemismus
 eufemizujący|eufemizující
 euforia|euforie
 euforia|eufórie
 eugene|eugene
+eugenika|eugenika
 eukaliptus|blahovičník
 eukaliptus|eukalypt
 euklidesowy|euklidovský
@@ -4599,11 +4668,15 @@ eurazja|eurasie
 euroatlantycki|euroatlantický
 euro|euro
 eurofilstwo|eurofilství
+eurokomunizm|eurokomunismus
 Europa|Evropa
 europejska|evropská
 europejski|evropský
 europ|europium
+europocentryzm|eurocentrismus
 europoseł|europoslanec
+eurosceptycyzm|euroskepticismus
+eurydyka|eurydika
 eutanazja|eutanazie
 eutrofizacja|eutrofizace
 Ewa|Eva
@@ -4611,7 +4684,9 @@ ewakuacja|evakuace
 ewakuować|evakuovat
 ewakuowany|evakuovaný
 ewangeliczny|evangelikální
+ewangelikalizm|evangelikalismus
 ewapotranspiracja|evapotranspirace
+Ewenkijski|Evencký
 ewentualnie|eventuálně
 ewentualność|eventualita
 ewidencja|evidence
@@ -4620,6 +4695,7 @@ ewidentny|evidentní
 ewidować|evidovat
 ewolucja|evoluce
 ewolucji|evoluční
+ewolucjonizm|evolucionismus
 exif|exif
 ezoteryka|esoterismus
 fabryka|fabrika
@@ -4666,15 +4742,18 @@ farmaceuta|farmaceut
 farmaceutyczny|farmaceutický
 farmaceutyk|farmaceut
 farma|farma
+farmakogenetyka|farmakogenetika
 farmakokinetyka|farmakokinetika
 farmakolog|farmakolog
 farmakologiczny|farmakologický
 farmer|farmář
 fartuch|zástera
+faryngalny|faryngální
 fasada|fasáda
 fascynować|kochat
 faszysta|fašista
 faszyzm|fašismus
+fatalizm|fatalismus
 fatalny|fatální
 fatwa|fatwa
 faul|faul
@@ -4682,6 +4761,7 @@ fauna|fauna
 faworyt|favorit
 faza|fáze
 fazowy|fázový
+febronianizm|febronianismus
 federacja|federace
 federalny|federální
 fekalia|fekálie
@@ -4697,9 +4777,12 @@ fermentacja|kvašení
 fermentować|fermentovat
 ferm|fermium
 feromon|feromon
+ferrimagnetyzm|ferrimagnetismus
 ferromagnetyczny|feromagnetický
+ferromagnetyzm|ferromagnetismus
 festiwal|festival
 fetyszyzm|fetišismus
+feudalizm|feudalismus
 fiasko|fiasko
 Fidżi|Fidżi
 figowiec|fíkovník
@@ -4730,8 +4813,11 @@ filmik|filmeček
 filmować|filmovat
 filmowa|filmová
 filmowy|filmový
+filogenetyczny|fylogenetický
 filogenetyka|fylogenetika
+filogeneza|fylogenetika
 filologia|filologie
+filosemityzm|filosemitismus
 filozof|filosofie
 filozofia|filosofie
 filozofia|filozofie
@@ -4764,6 +4850,7 @@ fiskalna|fiskální
 fiskalny|fiskální
 fitness|fitness
 fitoterapia|fytoterapie
+fizjokratyzm|fyziokratismus
 fizjolog|fyziolog
 fizjologiczny|fyziologický
 fizyczna|fyzická
@@ -4817,6 +4904,7 @@ folklorystyczny|folklorní
 fonetyczny|fonetický
 fonetyka|fonetika
 fontanna|fontána
+fordyzm|fordismus
 forint|forint
 formacja|formace
 forma|forma
@@ -4844,6 +4932,7 @@ fortyfikacja|fortifikace
 fortyfikacyjny|fortifikační
 fosfor|fosfor
 fosforowy|fosforný
+fotochromizm|fotochromismus
 fotoelektryczne|fotoelektrický
 fotoelektryczny|fotoelektrický
 fotogeniczny|fotogenický
@@ -4855,9 +4944,14 @@ fotografowanie|focení
 fotometryczny|fotometrický
 fotomodelka|fotomodelka
 foton|foton
+fotonika|fotonika
 fotoogniwo|fotočlánek
 fotosyntetyczny|fotosyntetický
+fotosyntetyczny|Fotosyntetický
+fototropizm|fototropismus
 fotowoltaiczny|fotovoltaický
+fotowoltaika|fotovoltaika
+fowizm|fauvismus
 fragmentaryczny|úryvkovitý
 fragmenty|úryvky
 frajer|frajer
@@ -4889,6 +4983,7 @@ frustracja|frustrace
 Fryderyka|Bedřiška
 Fryderyk|Frederik
 frygijski|frygický
+frymartynizm|freemartinismus
 frytki|hranolky
 frytkownica|fritéza
 fryzjer|kadeřník
@@ -4901,6 +4996,8 @@ fujara|fujara
 fuksja|fuchsie
 funckjonować|fungovat
 fundamentalistyczny|fundamentalistický
+fundamentalizm|fundamentalismus
+fundamentalna|fundamentální
 fundament|základ
 fundusz|fond
 funkcja|funkce
@@ -4924,6 +5021,7 @@ futbol|fotbal
 futerał|pouzdro
 futro|kožešina
 futurolog|futurolog
+futuryzm|futurismus
 fuzja|fúze
 gabinet|kabinet
 Gabon|Gabon
@@ -4952,6 +5050,7 @@ gal|gallium
 galicja|galicie
 galicyjski|haličský
 Galilea|Galilea
+gallikanizm|galikanismus
 galon|galon
 galwaniczny|galvanický
 galwanizacja|galvanisace
@@ -5030,8 +5129,11 @@ genitalia|genitálie
 geniusz|genialita
 geniusz|génius
 genom|genom
+geobotanika|geobotanika
+geocentryzm|geocentrismus
 geoda|drúza
 geodeta|geodet
+geodezyjny|geodetický
 geofizyka|geofyzika
 geograf|geograf
 geografia|geografie
@@ -5049,11 +5151,13 @@ geometria|geometrie
 geometryczna|geometrický
 geometryczny|geometrický
 geomorfologia|geomorfologie
+geomorfologiczny|geomorfologický
 geopolityka|geopolitika
 Georgia|Georgia
 geostacjonalny|geostacionární
 geosynchroniczny|geosynchronní
 geotermalny|geotermální
+geotropizm|gravitropismus
 gepard|gepard
 gepardzi|gepardí
 geriatria|geriatrie
@@ -5062,6 +5166,7 @@ german|germanium
 germanista|germanista
 germanistyka|germanistika
 germanizacja|germanizace
+germanizm|germanismus
 germanizować|germanizovat
 gestapowiec|gestapák
 gest|gesto
@@ -5100,6 +5205,7 @@ gliceryna|glycerin
 gliceryna|glycerín
 glicerynowy|glycerinový
 glikemiczny|glykemický
+glikemiczny|Glykemický
 glina|hlína
 glin|hliník
 glinianka|hliněnka
@@ -5122,6 +5228,7 @@ głębi|hloubi
 głęboki|hluboký
 głębokość|hloubka
 głębszy|hlubší
+głodny|hladný
 głodowanie|hladovění
 głodówka|hladovka
 głodujący|hladovkář
@@ -5140,6 +5247,7 @@ głód|hlad
 głód|hladomor
 głóg|hloh
 główka|hlavička
+główkowaty|kulatohlavý
 głównie|hlavně
 główny|hlavní
 główny|majoritní
@@ -5168,6 +5276,7 @@ gniewnie|hněvivě
 gniew|vzteklina
 gnieżdżący|hnízdící
 gnoić|hnojit
+gnostycyzm|gnosticismus
 gnój|hnuj
 gobelin|gobelín
 Gobi|Gobi
@@ -5212,6 +5321,7 @@ gorzałka|kořalka
 gorzej|hůř
 gospoda|hospoda
 gospodarczy|hospodářský
+gospodarowanie|ekonomika
 gospodarski|hospodský
 gospodarz|domák
 gospodka|hospůdka
@@ -5309,6 +5419,7 @@ grobowiec|hrob
 grobowiec|hrobka
 grobu|hrobu
 groch|hrach
+grodziecki|grodecký
 gromada|hromada
 gromada|kupa
 gromadzić|hromadit
@@ -5474,18 +5585,23 @@ hawajski|havajský
 hazard|hazard
 hazardowy|hazardní
 heban|eben
+hebraizm|hebraismus
 hebrajski|hebrejský
+hedonizm|hédonismus
 hektar|hektar
 hel|helium
 hel|hélium
 helikopter|helikoptéra
 heliocentryczna|heliocentrická
+heliocentryzm|heliocentrismus
 heliosfera|heliosféra
+hellenistyczna|helénismus
 Helsinki|Helsinki
 hełm|helma
 hełm|přilba
 hematyt|hematit
 hemoglobina|hemoglobin
+henoteizm|henoteismus
 Henryka|Jindřiška
 Heraldyka|Heraldika
 Herat|Herát
@@ -5493,10 +5609,14 @@ herbata|čaj
 herb|erb
 herb|znak
 Hercegowina|Hercegovina
+hermeneutyczny|hermeneutický
 hermeneutyka|hermeneutika
 hermetyczny|hermetický
+hermetyzm|hermetismus
 hesja|hesensko
+heurystyka|heuristika
 hex|hex
+hezychazm|hésychasmus
 hiacynt|hyacint
 hibernacja|hibernace
 hibernować|hibernovat
@@ -5509,6 +5629,8 @@ higiena|hygiena
 hinduizm|hinduismus
 hiperboliczny|hyperbolický
 hipermarket|hypermarket
+hiperprzestrzeń|hyperprostor
+hiperrealizm|hyperrealismus
 hipertekst|hypertext
 hipnoza|hypnóza
 hipodrom|hipodrom
@@ -5546,17 +5668,20 @@ holding|holding
 Holender|Holanđan
 Holender|Nizozemec
 holenderski|holandský
+holizm|holismus
 Hollywood|Hollywood
 hollywoodzki|hollywoodský
 holm|holmium
 holocaust|holocaust
 hołd|hold
 hołdować|holdovat
+homeomorfizm|homeomorfismus
 homeopata|homeopat
 homeopatia|homeopatie
 homiletyka|homiletika
 homogenizowany|homogenizovaný
 homologacja|homologace
+homomorfizm|homomorfismus
 homonimia|homofonum
 homonimia|homonymum
 homoseksualność|homoseksualita
@@ -5612,6 +5737,9 @@ hybryda|hybrid
 hydrant|hydrant
 hydrauliczna|hydraulická
 hydrauliczny|hydraulický
+hydraulika|hydraulika
+hydrodynamiczny|hydrodynamický
+hydrodynamika|hydrodynamika
 hydrokinetyczny|hydrodynamický
 hydrologia|hydrologie
 hydrologiczny|hydrologický
@@ -5651,6 +5779,7 @@ ikony|ikony
 ikra|jikra
 ile|kolik
 Ilirowie|Ilyrové
+iliryzm|ilyrismus
 iloczyn|součin
 iloraz|dělení
 ilość|kvantita
@@ -5658,6 +5787,7 @@ ilość|počet
 ilustracja|ilustrace
 ilustrować|ilustrovat
 iluzjonista|iluzionista
+iluzjonizm|iluzionismus
 iluzoryczny|iluzorní
 ił|jíl
 iłowy|jílovitý
@@ -5673,9 +5803,11 @@ imitacja|imitace
 imitator|imitátor
 imitować|imitovat
 immobiliser|imobilizér
+immunogenetyka|imunogenetika
 immunologiczny|imunitní
 imperatyw|imperativ
 imperialistyczny|imperialistický
+imperializm|imperialismus
 imperialny|imperiální
 imperium|impérium
 implant|implantát
@@ -5708,6 +5840,7 @@ Indianka|Indiánka
 indiański|indiánský
 ind|indium
 Indochiny|Indočína
+indoeuropeistyka|indoevropeistika
 Indoeuropeistyka|Indoevropeistika
 Indonezja|Indonésie
 Indonezyjczyk|Indonésan
@@ -5852,13 +5985,16 @@ irlandzki|irský
 ironia|ironie
 ironik|ironik
 irracjonalny|iracionální
+irredenta|iredentismus
 iryd|iridium
 irytować|iritovat
 iskierka|jiskřička
 iskra|jiskra
 iskrzyć|jiskřit
 islam|islám
+islamistyka|islamistika
 islamizacja|islamizace
+islamizm|islamismus
 islamski|islámský
 Islandczyk|Islanđan
 Islandia|Island
@@ -5882,10 +6018,12 @@ izobata|hloubnice
 izochoryczny|izochorický
 izoelektryczny|izoelektrický
 izolacja|izolace
+izolacjonizm|izolacionismus
 izolator|izolant
 izolować|izolovat
 izolowanyiIzolovaný
 izomer|izomer
+izomorfizm|izomorfismus
 izotermiczny|izotermický
 Izrael|Izrael
 Izraelski|Izraelský
@@ -5896,6 +6034,7 @@ jabłoń|jabloň
 jacht|jachta
 jadalnia|jídelna
 jadący|jedoucí
+jadę|jedu
 jadłospis|jídelníček
 jadowitość|jedovatost
 Jagudin|Jagudin
@@ -5918,9 +6057,11 @@ jałowiec|jalovec
 jama|jáma
 Jamajka|Jamajka
 jamajski|jamajský
+Jamalsko-Nieniecki|Jamalskoněnecký
 jamnik|jezevčík
 Jan|Jan
 Janosik|Jánošík
+jansenizm|jansenismus
 jantar|jantar
 Japonia|Japonsko
 japońska|japonská
@@ -6034,7 +6175,9 @@ językoznawca|jazykovědec
 językoznawczy|jazykovědný
 językoznawstwo|jazykověda
 językoznawstwo|jazykozpyt
+językoznawstwo|lingvistika
 Jiczyn|Jičín
+Jilemnický|Jilemnický
 Joachim|Jáchym
 jodełka|jedlička
 jod|jod
@@ -6053,6 +6196,7 @@ jordański|jordánský
 jordański|ordánský
 jowisz|jupiter
 joystick|joystick
+józefinizm|josefinismus
 Józef|Josef
 jubiler|klenotnictví
 judaizm|judaismus
@@ -6088,6 +6232,7 @@ kaczeniec|blatouch
 kaczka|kachna
 kaczka|kachnovití
 kaczka|kačka
+kaczyzm|kaczysmus
 kadencja|kadence
 kadet|kadet
 kadm|kadmium
@@ -6099,6 +6244,7 @@ kaftan|kaftan
 kaganat|kaganát
 Kair|Káhira
 kajakarka|kajakářka
+kajakarstwo|kanoistika
 kajakarz|kajakář
 kajman|kajman
 kajuta|kajuta
@@ -6142,6 +6288,7 @@ kambodżański|kambodžský
 kamczacki|kamčatský
 Kamczatka|Kamčatka
 kameleon|chameleonovití
+Kamenický|Kamenický
 kamera|kamera
 Kamera|Kamera
 Kamerun|Kamerun
@@ -6178,6 +6325,7 @@ kanar|revizor
 kanbun|kanbun
 kancelaria|kancelář
 kanclerz|kancléř
+kandauleizm|kandaulismus
 kandydat|kandidát
 kandydatura|kandidatura
 kandydować|kandidovat
@@ -6195,11 +6343,13 @@ Kansas|Kansas
 kanton|kanton
 kantor|směnárna
 kantyna|kantýna
+kaodaizm|kaodaismus
 kapela|kapela
 kapela|kapele
 kapelan|kaplan
 kapelmistrz|kapelník
 kapelusz|klobouk
+kapitalizm|kapitalismus
 kapitał|kapitál
 kapitałowy|kapitálový
 kapitan|kapitán
@@ -6247,6 +6397,7 @@ kark|krk
 karkołomny|krkolomný
 Karkonosze|Krkonoše
 karku|krku
+karlizm|karlismus
 karlowarski|karlovarský
 karma|výživa
 karmel|karamel
@@ -6304,7 +6455,9 @@ kasztan|kaštan
 kasztan|kaštanovník
 kasztanowiec|jírovec
 kasztelan|kastelán
+kaszubistyka|kašubistika
 kaszubski|kašubský
+katabolizm|katabolismus
 katakana|katakana
 katalizator|katalyzátor
 katalog|adresář
@@ -6326,6 +6479,7 @@ katastrofa|havárie
 katastrofa|katastrofa
 katastrofalny|katastrofální
 katastroficzny|katastrofický
+katechizm|katechismus
 katedra|katedra
 katedra|katedrála
 katedra|katedrále
@@ -6382,11 +6536,13 @@ kciuk|palec
 keczup|kečup
 kelner|čísník
 kelnerka|servírka
+kemalizm|kemalismus
 Kenia|Keňa
 keramik|keramika
 kerczeński|kerčský
 ketchup|kečup
 ketma|ibišek
+kędzierzawa|kadeřavý
 kępa|trs
 kibic|fan
 kibic|fanoušek
@@ -6436,6 +6592,7 @@ klan|klan
 klapki|klapky
 klasa|třída
 klaster|cluster
+klasycyzm|klasicismus
 klasyczny|klasický
 klasyfikacja|klasifikace
 klasy|třídy
@@ -6456,6 +6613,8 @@ klejnot|klenot
 kleju|lepidla
 Kleopatra|Kleopatra
 klepać|klapat
+kleptopasożytnictwo|kleptoparazitismus
+klerykalizm|klerikalismus
 klerykał|klerikál
 kleryk|klerika
 klęczący|klečící
@@ -6503,6 +6662,7 @@ kłosówka|medyněk
 kłótliwość|svářlivost
 kłótliwy|hádavý
 kłótnia|hádka
+kłujący|pichlavý
 kłusak|klusák
 kłus|klus
 kłusowniczy|pytlácký
@@ -6575,6 +6735,7 @@ kolekcja|sbírka
 kolekcje|kolekce
 kolekcjoner|sběratel
 kolektura|terminál
+kolektywizm|kolektivismus
 kolektyw|kolektiv
 koleżanka|kolegyně
 kolęda|koleda
@@ -6585,8 +6746,10 @@ kolidować|kolidovat
 kolizja|kolize
 kolizje|kolize
 kolizyjny|kolizní
+kolka|kolika
 kolodionowy|kolodiový
 kolonia|kolonie
+kolonializm|kolonialismus
 kolonialny|koloniální
 kolonista|kolonista
 kolonizacja|kolonizace
@@ -6622,6 +6785,7 @@ komedia|komedie
 komediant|komediant
 komediowy|komediantský
 komendant|komediant
+komensalizm|komenzálismus
 komentarz|komentář
 komentarz|poznámka
 komentator|komentátor
@@ -6696,6 +6860,7 @@ komunikacja|komunikace
 komunikacyjny|přepravní
 komunista|komunista
 komunistyczny|komunistický
+komunitaryzm|komunitarismus
 komunizm|komunismus
 konający|umírající
 koncentracja|koncentrace
@@ -6714,6 +6879,7 @@ koncert|koncert
 koncertować|koncertovat
 koncertowy|koncertní
 koncie|kontě
+koncyliaryzm|konciliarismus
 kondom|kondom
 kondor|kondor
 konduktor|konduktér
@@ -6772,6 +6938,7 @@ konserwacja|konzervace
 konserwacja|údržba
 konserwatorium|konzervatoř
 konserwatysta|konzervativec
+konserwatyzm|konzervatismus
 konserwy|konzervy
 konsola|konzole
 konsolidacja|konsolidace
@@ -6786,6 +6953,7 @@ konstelacja|konstelace
 konstrukcja|konstrukce
 konstrukcjonizm|konstruktivismus
 konstruktor|konstruktér
+konstruktywizm|konstruktivismus
 konstytucja|ústava
 konstytucyjny|konstitučni
 konstytucyjny|konstituční
@@ -6797,6 +6965,7 @@ konsumencki|spotřební
 konsument|konzument
 konsumować|konzumovat
 konsumpcja|spotřeba
+konsumpcjonizm|konzumerismus
 konsumpcyjny|konzumní
 kontakt|kontakt
 kontaktowy|kontaktní
@@ -6807,6 +6976,7 @@ kontekstowy|kontextový
 kontemplacja|kontemplace
 kontemplacyjny|kontemplativní
 kontener|kontejner
+kontinientalny|kontinentální
 kont|kont
 konto|konto
 konto|účet
@@ -6834,6 +7004,7 @@ kontrwywiadowczy|kontrašpionážní
 konturówka|konturka
 kontuzja|úraz
 kontynentalny|kontinentální
+kontynentalny|Kontinentální
 kontynent|kontinent
 kontyngent|kontingent
 kontynuacja|kontinuita
@@ -6912,6 +7083,7 @@ koronny|korunní
 koronowany|korunován
 korozja|koroze
 korporacja|korporace
+korporacjonizm|korporativismus
 korporacyjny|korporátní
 korpulentny|korpulentní
 korpus|korpus
@@ -6939,6 +7111,7 @@ kosić|kosit
 kos|kos
 kosmetyczka|kosmetička
 kosmetyczny|kosmetický
+kosmetyka|kosmetika
 kosmetyki|kosmetika
 kosmiczny|kosmický
 kosmiczny|orbitální
@@ -6946,13 +7119,16 @@ kosmiczny|vesmírný
 kosmita|mimozemšťan
 kosmita|ufon
 kosmodrom|kosmodrom
+kosmologiczna|kosmologický
 kosmologiczny|kosmologický
 kosmonauta|kosmonaut
+kosmopolityzm|kosmopolitismus
 kosmos|vesmír
 kosodrzewina|kleč
 kosodrzewina|kosodřevina
 Kostaryka|Kostarika
 kostarykański|kostarický
+kostarykański|Kostarický
 kostiumek|kostýmek
 kostium|kostým
 kostka|kostička
@@ -7053,6 +7229,9 @@ kręg|obratel
 kręgosłup|páteř
 kręgowiec|obratlovec
 krętacz|korytář
+kriogenika|kryogenika
+krionika|kryonika
+kriowulkan|kryovulkanismus
 kroczący|kráčející
 kroczek|krůček
 krojenie|krájení
@@ -7103,6 +7282,7 @@ kryminalistyka|kriminalistika
 kryminał|kriminál
 kryminolog|kriminalista
 krymski|krymský
+kryptofaszyzm|kryptofašismus
 kryptografia|šifrování
 kryptonowy|kryptonový
 krystaliczny|krystalický
@@ -7117,6 +7297,7 @@ krytyk|kritik
 kryty|krytý
 kryzysowy|krizový
 krzak|keř
+krzemieniecki|kremenecký
 krzemień|křemen
 krzem|křemík
 krzemowy|křemíkový
@@ -7172,6 +7353,7 @@ kubeł|kýbl
 kubik|kubík
 Kubín|Kubín
 kubizm|kubismus
+kubofuturyzm|kubofuturismus
 kucharka|kuchařka
 kucharski|kuchařský
 kucharz|kuchař
@@ -7300,6 +7482,7 @@ laleczka|panenka
 lalka|loutka
 lalka|panenka
 laluś|panák
+lamarkizm|lamarckismus
 lambda|lambda
 lament|lamentace
 lamentować|lamentovat
@@ -7387,6 +7570,7 @@ lelkowe|lelek
 lemoniada|limonáda
 lemur|lemur
 lemurzyca|lemuřice
+leninizm|leninismus
 leninowski|leninský
 lenistwo|lenost
 lenistwo|povalečství
@@ -7406,6 +7590,7 @@ leopard|leopard
 lepić|lepit
 lepiej|lépe
 lepiej|líp
+lepki|lepkavý
 lepnica|silanka
 lesbijka|lesba
 Lesotho|Lesotho
@@ -7437,7 +7622,10 @@ liberalizm|liberalismus
 liberalny|liberální
 liberał|liberál
 liberecki|liberecký
+liberecki|Liberecký
 Liberia|Libérie
+libertarianizm|libertarianismus
+libertynizm|libertinismus
 libijski|libyjský
 licencjacki|bakalářský
 licencja|licence
@@ -7459,6 +7647,7 @@ liczny|rozličný
 liczyć|počítat
 liczydło|počítadlo
 lider|lídr
+lidyjska|lydický
 lidyjski|lydický
 Liechtenstein|lichtenštejnsko
 liga|liga
@@ -7479,6 +7668,7 @@ lina|lano
 lina|provaz
 linearny|lineární
 lingwista|lingvista
+Lingwistyczny|lingvistický
 lingwistyka|lingvistika
 linia|črta
 linia|linka
@@ -7525,6 +7715,7 @@ litość|slitování
 litr|litr
 liturgia|liturgie
 liturgiczny|liturgický
+liturgika|liturgika
 Litwa|Litva
 lizać|lízat
 lizus|lihometník
@@ -7560,6 +7751,7 @@ lokalizacja|lokalita
 lokalizacja|umístění
 lokalizacja|umíštění
 lokalna|lokálná
+lokalny|lokální
 lokalny|místní
 lokomotywa|lokomotiva
 lokomotywownia|výtopna
@@ -7764,16 +7956,20 @@ majeranek|majoránka
 majestat|majestát
 majestatycznie|majestátně
 maj|květen
+majolika|majolika
 majonez|majonéza
 majordomus|majordom
 Majorka|Mallorca
 major|major
 majstersztyk|majstrštyk
 makak|makak
+makaronizm|makaronismus
 makaron|makaron
 makasarski|makassarský
+makiawelizm|machiavellismus
 makijaż|make-up
 makijaż|mejkap
+makkartyzm|mccarthismus
 makler|makléř
 mak|mák
 makowy|makový
@@ -7781,6 +7977,7 @@ makrobiotyka|makrobiotika
 makroekonomia|makroekonomie
 makroekonomiczny|makroekonomický
 makroskopowy|makroskopický
+makroskopowy|mikroskopický
 makroświat|makrosvět
 maksymalie|maximálně
 maksymalizować|maximalizovat
@@ -7847,7 +8044,9 @@ mango|mango
 maniakalny|maniakální
 maniak|maniak
 mania|mánie
+manicheizm|manicheismus
 maniery|manýry
+manieryzm|manýrismus
 manifest|manifest
 maniok|maniok
 manipulacja|manipulace
@@ -7855,6 +8054,7 @@ manipulować|manipulovat
 manko|manko
 man|man
 manometr|manometr
+maoizm|maoismus
 mapa|mapa
 mapka|mapka
 mapowanie|mapování
@@ -7868,6 +8068,7 @@ marcepan|marcipán
 marchewka|mrkev
 marchew|mrkev
 marchia|marka
+marcjonizm|markionismus
 marcowy|březnový
 marginalne|okrajově
 marginalny|marginální
@@ -7877,6 +8078,8 @@ margrabia|markrabě
 mariański|mariánský
 Mariesjew|Maresjev
 marihuana|marihuana
+Marika|Marika
+marinizm|marinismus
 marionetkowa|loutková
 marka|marka
 marker|marker
@@ -7921,6 +8124,7 @@ maska|maska
 maskować|maskovat
 maskowanie|maskování
 masło|máslo
+masochizm|masochismus
 masować|masírovat
 masowa|hromadná
 masowego|hromadného
@@ -7976,6 +8180,7 @@ meandrowy|fluviální
 meble|nábytek
 mecenas|mecenás
 mecenas|mecenáš
+mechaniczna|mechanický
 mechaniczny|mechanický
 mechaniczny|strojový
 mechanika|mechanika
@@ -7983,6 +8188,7 @@ mechanik|mechanička
 mechanik|mechanik
 mechanizacja|mechanizace
 mechanizm|mechanismus
+mechatronika|mechatronika
 meczbol|mečbol
 meczeć|mečet
 meczenie|mečení
@@ -8032,6 +8238,7 @@ melodia|Melodie
 melodramat|melodrama
 melodramatyczny|melodramatický
 melodyczny|melodický
+melodyjny|melodický
 melon|meloun
 memetyka|memetika
 memorandum|memorandum
@@ -8042,7 +8249,9 @@ mennica|mincovna
 menopauza|menopauza
 menstruacja|menstruace
 menstruacja|perioda
+mentalizm|mentalismus
 mentalność|mentalita
+mentalny|mentální
 mentol|mentol
 menu|jídelníček
 menu|menu
@@ -8204,6 +8413,7 @@ mikroświat|mikrosvět
 mikrotonowy|mikrotonální
 mikrowłókno|mikrovlákno
 mikser|mixér
+miksolidyjsky|mixolydický
 mila|míle
 milcząco|mlčky
 milczeć|mlčet
@@ -8230,6 +8440,7 @@ mimoza|netýkavka
 mina|mina
 mina|nálož
 minaralny|minerální
+minarchizm|minarchismus
 minaret|minaret
 minąć|minout
 mineralny|minerální
@@ -8240,7 +8451,9 @@ miniaturowy|miniaturní
 miniaturyzacja|miniaturizace
 minibus|minibus
 minimalistyczny|minimalistický
+minimalizm|minimalismus
 minimalizować|minimalizovat
+minimalny|maximální
 minimalny|minimální
 minimum|minimum
 miniony|předchozí
@@ -8271,6 +8484,7 @@ mistrzowski|mistrovský
 mistrzowstwo|mistrovství
 mistrz|šampión
 mistrzyni|mistryně
+mistycyzm|mystika
 mistyczny|mystický
 mistyfikacja|mystifikace
 misyjny|misijní
@@ -8280,6 +8494,7 @@ mit|mýtus
 mitochondrialny|mitochondriální
 mitochondrialny|Mitochondriální
 mitologia|mytologie
+mitraizm|mithraismus
 mityczny|mýtický
 mix|mix
 mizerny|mizerný
@@ -8378,12 +8593,19 @@ monakijski|monacký
 Monako|Monako
 monarcha|monarcha
 monarchia|monarchie
+monarchianizm|monarchianismus
 monarchiczny|monarchistický
+monarchizm|monarchismus
 monetarna|měnová
+monetaryzm|monetarismus
 Mongolia|Mongolsko
+Monika|Monika
 monitor|monitor
 monitorować|monitorovat
 monitorowanie|monitorování
+monizm|monismus
+monoenergizm|monoenergismus
+monofizytyzm|monofyzitismus
 monografia|monografie
 monogram|monogram
 monoklonalny|monoklonální
@@ -8401,6 +8623,7 @@ monosacharyd|monosacharid
 monoteistyczny|monoteistický
 monoteizm|monoteismus
 monoteizm|monoteizmus
+monoteletyzm|monotheletismus
 monotematyczny|monotematický
 monotonność|monotónnost
 monotonny|jednobarevný
@@ -8524,6 +8747,7 @@ musujący|šumivý
 muszkieter|mušketýř
 mutacja|mutace
 mutant|mutant
+mutualizm|mutualismus
 muzealny|muzejní
 muzeum|muzeum
 muzułmanin|muslim
@@ -8580,6 +8804,7 @@ nacisk|nátlak
 nacisk|tlak
 naciśnij|stiskněte
 nacjonalistyczny|nacionalistický
+nacjonalizm|nacionalismus
 nacjonalizować|znárodňovat
 naczelnik|náčelník
 naczepa|návěs
@@ -8803,11 +9028,13 @@ naśladowanie|napodobování
 naświetlanie|ozařování
 natrafiać|narážet
 natrzeć|natřet
+naturalizm|naturalismus
 naturalnie|samozřejmě
 naturalność|nelíčenost
 naturalny|přírodní
 naturalny|přírozený
 natura|nátura
+naturyzm|naturismus
 natychmiast|okamžitě
 natychmiastowe|okamžitě
 nauczać|vyučovat
@@ -8867,12 +9094,24 @@ nejednorodny|nestejnorodý
 nektar|nektar
 neodarwinizm|neodarwinismus
 neodym|neodym
+neogotyk|novogotika
 neoimperialny|neoimperiální
+neoklasycyzm|novoklasicismus
+neokolonializm|neokolonialismus
+neokomunizm|neokomunismus
+neokonfucjanizm|neokonfucianismus
+neoliberalizm|neoliberalismus
+neologizm|neologismus
+neomarksizm|neomarxismus
 neonazista|neonacista
+neonazizm|neonacismus
 neon|neon
 neonowy|neonový
+neoplatonizm|novoplatonismus
+neotomizm|novotomismus
 Nepal|Nepál
 nepalski|nepálský
+nepotyzm|nepotismus
 Neptun|Neptun
 neptun|neptunium
 nerkowe|ledvinové
@@ -8882,10 +9121,12 @@ nerwowy|nervový
 nerwowy|neurální
 nerwy|nervy
 nestor|nestor
+neurolingwistyka|neurolingvistika
 neurolog|neurovědec
 neutralizacja|neutralizace
 neutralizować|neutralizovat
 neutralność|neutralita
+neutralny|neurální
 neutralny|neutrální
 Nevada|Nevada
 nędza|chudoba
@@ -8995,6 +9236,7 @@ nienasycony|nenasycený
 nienazwany|nepojmenovaný
 nie|ne
 nieniecki|něnecký
+Nieniecki|Něnecký
 nienormalny|nenormální
 nieobecność|absence
 nieobsługiwane|nepodporováno
@@ -9203,6 +9445,7 @@ nigdzie|nikde
 Nigeria|Nigérie
 Niger|Niger
 Nigeryjczyk|Nigerijec
+nihilizm|nihilismus
 nijaki|nějaký
 Nikaragua|Nikaragua
 nikczemnik|ničema
@@ -9212,6 +9455,7 @@ nikiel|nikl
 Nikołajewicz|Nikolajevič
 nikomu|nikomu
 nikotyna|nikotin
+nikotynizm|nikotinismus
 nikt|nikdo
 Nil|Nil
 nimbus|nimbus
@@ -9246,6 +9490,7 @@ nogawka|nohavička
 nokautować|knokautovat
 nomenklatura|nomenklatura
 nominacja|nominace
+nominalizm|nominalismus
 nominalny|nominální
 nominał|hodnota
 nominować|nominovat
@@ -9284,6 +9529,7 @@ notes|notes
 notka|poznámka
 notoryczny|notorický
 notowania|hodnocení
+novecentisme|novecentismus
 nowa|nová
 nowela|novela
 nowelizacja|novela
@@ -9315,6 +9561,7 @@ nudny|nudný
 nudziarz|otrava
 nudzić|nudit
 nuklearny|nukleární
+nukleotydu|polymorfismus
 numer|číslo
 numeryczna|číselná
 numeryczna|numerická
@@ -9370,6 +9617,7 @@ obiecywać|slibovat
 obiegać|obíhat
 obieg|oběh
 obiekt|objekt
+obiektywizm|objektivismus
 obiektyw|objektiv
 obieranie|oškrábání
 obietnica|slíb
@@ -10049,6 +10297,7 @@ oranżeria|oranžérie
 orator|řečník
 Orawa|Orava
 Orawski|Oravský
+orbitalny|orbitální
 orbital|orbital
 orbita|orbita
 orchidea|orchidea
@@ -10076,6 +10325,7 @@ orientacja|orientace
 orientacyjny|orientační
 orientalista|orientalista
 orientalistyka|orientalistika
+orientalizm|orientalismus
 orientalny|orientální
 orka|kosatka
 orka|orba
@@ -10089,6 +10339,7 @@ orli|orlí
 Ormianin|Armén
 ornament|ornament
 ornika|prha
+ornitodesm|ornithodesmus
 ornitolog|ornitolog
 ornitolog|ornitoložka
 orszak|doprovod
@@ -10214,6 +10465,7 @@ ośmiorniczka|chobotnička
 ośmiotysięcznik|osmitisícovka
 oś|náprava
 oś|osa
+ośrodkowy|centrální
 ośrodkowy|odstředivý
 oświecenie|osvícení
 oświecenie|osvícenství
@@ -10294,6 +10546,7 @@ ożyć|ožit
 pachnidło|parfém
 pachnieć|vonět
 pacjent|pacient
+pacyfizm|pacifismus
 padaczka|epilepsie
 padać|pršet
 padalec|slepýš
@@ -10318,7 +10571,9 @@ palący|palčivý
 palcem|prstem
 palec|prst
 palenie|kouření
+paleobotanika|paleobotanika
 paleolit|paleolit
+paleomagnetyzm|paleomagnetismus
 paleontologia|paleontologie
 Palermo|Palermo
 Palestyna|Palestina
@@ -10359,6 +10614,7 @@ pamiętnik|deník
 pamiętnik|paměti
 pamiętnik|zápisník
 panamski|panamský
+panarabizm|panarabismus
 pancernik|křižník
 pancerny|pancéřový
 pancerny|tankový
@@ -10366,11 +10622,14 @@ pancerz|pancíř
 panda|panda
 pandemia|pandemie
 panel|panel
+panenteizm|panenteismus
+pangermanizm|pangermanismus
 paniczny|zmatený
 panienka|panenka
 panieńskie|rozený
 panika|panika
 panikować|panikařit
+panislamizm|panislamismus
 paniusia|panička
 Pankracy|Pankrác
 panna|panna
@@ -10379,11 +10638,14 @@ panorama|panoráma
 pan|pan
 pan|pán
 panslawizm|panrusismus
+panslawizm|panslavismus
 Pantaleon|Pantaleon
+panteizm|panteismus
 pantera|panter
 pantofel|pantofel
 pantofle|pantofle
 pantotenowy|panthotenová
+panturkizm|panturkismus
 panujący|panovník
 państewko|státeček
 państwo|stát
@@ -10402,6 +10664,7 @@ papierz|papež
 papież|papež
 papirus|papyrus
 papla|blafal
+Paprocki|Paprocký
 paproć|kapradí
 papryka|paprika
 papuga|papoušek
@@ -10409,6 +10672,7 @@ parabola|parabola
 paradoksalnie|paradoxně
 paradoks|paradox
 para|dvojice
+parafiletyczny|parafyletismus
 parafinowy|parafínový
 parafraza|parafráze
 parafrazować|parafrázovat
@@ -10418,6 +10682,7 @@ paragraf|paragraf
 Paragwaj|Paraguay
 paraliż|paralýza
 paraliż|zácpa
+paramagnetyzm|paramagnetismus
 parametr|parametr
 parametry|možnosti
 paraneoplastyczny|paraneoplastický
@@ -10438,6 +10703,7 @@ parlamentarny|parlamentní
 parlament|parlament
 parlamentu|parlamentu
 parma|parma
+parnasizm|parnasismus
 parno|parno
 parny|parný
 parodia|parodie
@@ -10469,6 +10735,7 @@ pasjonat|nadšenec
 pasma|pásma
 pasmo|pásmo
 pas|opasek
+pasożytnictwo|parazitismus
 pasożytniczy|parazitární
 pasożyt|parazit
 pas|pás
@@ -10508,6 +10775,7 @@ patronat|záštita
 patron|patron
 patroszyć|kuchat
 Patryk|Patrik
+patrystyka|patristika
 patrzeć|koukat
 pauza|pauza
 pawian|pávian
@@ -10534,6 +10802,7 @@ pejoratywny|pejorativný
 pejzaż|krajinomalba
 Pekin|Peking
 pekiński|pekingský
+pelagianizm|pelagianismus
 pelargonia|pelargónie
 pelikan|pelikán
 pełne|plně
@@ -10574,8 +10843,10 @@ permanentnie|permanentně
 permanentny|permanentní
 permski|permský
 permutacja|permutace
+peronizm|perónismus
 peron|nástupiště
 perski|perský
+personalizm|personalismus
 personalny|personální
 persona|persona
 personel|personál
@@ -10689,6 +10960,7 @@ pieszo|pěšky
 pieszy|chodec
 pieszy|pěší
 pietruszka|petrželka
+pietyzm|pietismus
 piezoelektryczny|piezoelektrický
 pięciocentówka|pěticent
 pięciokrotnie|pětkrát
@@ -10720,6 +10992,7 @@ pikantny|pikantní
 pika|píka
 piknik|piknik
 piksel|pixel
+piktorializm|piktorialismus
 pilnie|bedlivě
 pilność|horlivost
 pilność|pilnost
@@ -10751,6 +11024,7 @@ pionierski|průkopnický
 pionie|svisle
 pionowo|vertikální
 pionowy|bertikální
+pionowy|diagonální
 pionowy|svislý
 pionowy|vertikálně
 pion|pion
@@ -10774,6 +11048,7 @@ pirat|pirát
 pirenejski|pyrenejský
 piroga|piroga
 piroklastyczny|pyroklastický
+pirotechnika|pyrotechnika
 piruet|pirueta
 piryt|pyrit
 pisać|psát
@@ -10822,11 +11097,13 @@ planszowy|deskový
 plantator|plantážník
 plany|plány
 plastikowy|plastový
+plastik|plastika
 plastyczny|plastický
 plastyk|plastika
 platan|platan
 platforma|platforma
 platoniczny|platonický
+platonizm|platonismus
 platoński|platónský
 platyna|planina
 platyna|platina
@@ -10847,6 +11124,7 @@ plecak|batoh
 pleistocen|pleistocén
 plemię|kmen
 plemnik|spermie
+pleonazm|pleonasmus
 pleśniowy|plísňový
 pleśń|plíseň
 plewy|pleva
@@ -11119,6 +11397,7 @@ podzwrotnikowy|subtropický
 podżegacz|štráč
 poeta|poeta
 poetycki|poetický
+poetyka|poetika
 poezja|poezie
 pofalowany|zvlněný
 pogadać|popovídat
@@ -11150,10 +11429,12 @@ pogrzebać|pohřbit
 pogrzeb|funus
 pogrzebowy|pohřební
 pogrzeb|pohřeb
+pojadę|pojedu
 pojawia|objeví
 pojawić|objevit
 pojazd|vozidlo
 pojedyczna|jednotné
+pojedynczego|polymorfismus
 pojedynczy|ojedinělý
 pojemnik|dóza
 pojemność|kapacita
@@ -11213,10 +11494,12 @@ polecenie|povel
 polecenie|příkaz
 polecić|doporučit
 polegać|spoléhat
+polemika|polemika
 pole|pole
 pole|políčko
 polerować|pulírovat
 poletko|políčko
+policentryczność|polycentrismus
 policjant|policie
 policja|police
 policja|policie
@@ -11226,12 +11509,16 @@ policzyć|spočítat
 polifonia|polyfonie
 polifoniczny|polyfonní
 poligamia|polygamie
+poliklinika|poliklinika
 polikrystaliczny|polykrystalický
 polimeraza|polymeráza
+polimorfizm|polymorfismus
 Polinezja|Polynésie
 polinezyjski|polynéský
 polistyren|polystyren
+polisylogizm|polysylogismus
 politechnika|polytechnika
+politeizm|polyteismus
 politologia|politologie
 politolog|politolog
 politropowy|polytropický
@@ -11239,6 +11526,7 @@ polityczna|politická
 polityczny|politický
 polityka|politika
 polny|polní
+polonizm|polonismus
 polon|polonium
 polowanie|lov
 polowy|polní
@@ -11311,6 +11599,7 @@ pomysłowość|důvtipnost
 ponadczasowy|nadčasový
 ponaddźwiękowy|nadzvukový
 ponadgraniczny|nadhraniční
+ponadnarodowość|supranacionalismus
 ponadnarodowy|nadnárodní
 ponadplemienny|nadkmenový
 ponadstandardowy|nadstandardní
@@ -11336,6 +11625,7 @@ popatrzeć|zadívat
 popcorn|popcorn
 popędzać|pohánět
 popękać|popraskat
+popielaty|popelavý
 popielcowy|popeleční
 popiersie|busta
 popiersie|poprsí
@@ -11394,6 +11684,7 @@ Portland|Portland
 portlandzki|portlandský
 portlotniczy|letiště
 porto|porto
+portoryka|portorická
 Portoryko|Portoriko
 port|port
 portrecista|portrétista
@@ -11659,6 +11950,7 @@ półkula|polokoule
 półmaraton|půlmaraton
 półnagi|polonahý
 północna|severní
+północnoamerykański|severoamerický
 północnobacki|severobačský
 północnobanacki|severobanátský
 północnomujski|severomujský
@@ -11688,6 +11980,7 @@ praca|práce
 prace|práce
 pracochłonny|pracný
 pracodawca|zaměstnavatel
+pracoholizm|workoholismus
 pracować|pracovat
 pracowitość|pilnost
 pracowitość|pracovitost
@@ -11705,10 +11998,12 @@ pradziadek|pradědeček
 pradziad|praděd
 Praga|Praha
 pragmatyka|pragmatika
+pragmatyzm|pragmatismus
 pragnienie|žízeň
 praindoeuropejski|praindoevropský
 praktycznie|prakticky
 praktyczny|praktický
+praktyka|practice
 praktyka|praxe
 praktykować|praktikovat
 praktykujący|praktikující
@@ -11857,6 +12152,7 @@ projekt|projekt
 projektu|projektu
 proklamować|proklamovat
 prokreacja|rozmnožování
+proksemika|proxemika
 proletariacki|proletářský
 proletariat|dělnictvo
 proletariat|proletariát
@@ -11915,6 +12211,7 @@ protagonista|protagonista
 protaktyn|protaktinium
 proteina|bílkovina
 protekcja|protekce
+protekcjonizm|protekcionismus
 protektorat|protektorát
 protestacyjny|protestní
 protestancki|protestantský
@@ -11938,6 +12235,7 @@ prowitamina|provitamin
 prowizja|provize
 prowizoryczny|provizorní
 prowokator|provokatér
+prozelityzm|proselytismus
 próba|pokus
 próbka|vzorek
 próbkowanie|vzorkovací
@@ -11955,6 +12253,7 @@ próżniowy|vakuový
 pruderyjny|prudérní
 Prusy|Prusko
 prycza|pryčna
+prymasowski|primaciální
 prymat|primát
 prymitywny|primitivní
 prymityw|primitiv
@@ -12488,6 +12787,7 @@ przyzwyczaić|zvyknout
 przyzwyczajać|přivýkat
 przyzwyczajony|zvyklý
 pseudonim|pseudonym
+psionika|psionika
 psi|psí
 psiząb|kandík
 PSK|PSK
@@ -12502,6 +12802,7 @@ psycholingwistyka|psycholingvistika
 psychologia|psychologie
 psychologiczny|psychologický
 psychoterapia|psychoterapie
+psychotronika|psychotronika
 pszczelarstwo|Včelařství
 pszczoła|včela
 pszonak|trýzel
@@ -12526,6 +12827,7 @@ pudding|pudink
 pudel|pudl
 pudełko|krabice
 puder|pudr
+puentylizm|pointilismus
 pula|pula
 puli|puli
 pulpit|ploch
@@ -12547,6 +12849,7 @@ purchawka|pýchavka
 purpurat|kardinál
 purpurowy|fialový
 purytański|puritánský
+puryzm|purismus
 pustelnik|poustevník
 pustoszenie|pustošení
 pustoszyć|pustošit
@@ -12584,8 +12887,10 @@ rachunek|účtenka
 rachunkowość|účetnictví
 rachunkowość|Účetnictví
 racjonalizm|racionalismus
+racjonalnego|racionální
 racjonalnie|racionálně
 racjonalność|racionalita
+racjonalny|racionální
 racjonowanie|porcování
 raczej|spíše
 raczyć|ráčit
@@ -12595,6 +12900,7 @@ radar|zaměřovač
 radca|radce
 radełko|rádlo
 radiacja|radiace
+radialny|radiální
 radialny|Radiální
 radiany|radiány
 radioaktywność|radioaktivita
@@ -12691,6 +12997,7 @@ redagować|redigovat
 redakcja|redakce
 redaktor|redaktor
 Redmond|Redmond
+redukcjonizm|redukcionismus
 reduta|reduta
 refaktoryzacja|refaktorovat
 referencja|reference
@@ -12734,6 +13041,7 @@ reklamować|reklamovat
 reklamowa|propagační
 reklamowy|reklamní
 rekonstrukcja|rekonstrukce
+rekonstrukcjonizm|rekonstrukcionismus
 rekonwalescencja|rekonvalescence
 rekonwalescent|rekonvalescent
 rekord|rekord
@@ -12749,11 +13057,14 @@ rekursywnie|rekurzivně
 rekwizyt|rekvizita
 relacja|relace
 relaks|relaxace
+relatywistyczny|relativistický
+relatywizm|relativismus
 relatywnie|relativně
 relatywny|průměrný
 relatywny|relativní
 religia|náboženství
 religijny|náboženská
+religioznawstwo|religionistika
 relikt|relikt
 relikwia|relikvie
 remix|remix
@@ -12806,6 +13117,7 @@ retusz|retuš
 rewers|revers
 rewir|revir
 rewizja|revize
+rewizjonizm|revizionismus
 rewizor|revizor
 rewolucja|převrat
 rewolucja|revoluce
@@ -12901,6 +13213,7 @@ rolnik|rolník
 rolnik|zemědělec
 romanistyka|romanistika
 romantyczny|romantický
+romantyzm|romantismus
 romański|románský
 Romuald|Romuald
 rondel|rendlík
@@ -12919,6 +13232,7 @@ roślina|rostlina
 roślinność|vegetace
 rośliny|rostlina
 rotacja|rotace
+rotacyzm|rotacismus
 rotmistrz|rotmistr
 rottweiler|rottweiler
 rower|kolo
@@ -13168,7 +13482,9 @@ ruch|počin
 ruch|pohyb
 ruch|ruch
 ruchy|pohyby
+rudogłowa|rudohlavý
 rudyment|rudiment
+rudy|ryšavý
 ruina|ruina
 ruina|zřícenina
 ruiny|trosky
@@ -13182,6 +13498,7 @@ rum|rum
 Rumunia|Rumunsko
 rumuński|rumunský
 runo|rouno
+Ruprechticki|Ruprechtický
 Rusenski|Rusenský
 rustykalny|rustikální
 Ruś|Ruthenia
@@ -13203,6 +13520,7 @@ rybka|rybka
 rybny|rybí
 rybosom|ribozom
 ryboza|ribóza
+rybożerny|rybožravý
 ryby|ryby
 rycerski|rytířský
 rycerz|rytíř
@@ -13287,14 +13605,17 @@ rzucać|hodit
 rzut|hod
 rzygacz|chrlič
 Rzym|Řím
+rzymski|katechismus
 rzymski|římské
 rzymski|římský
 rzyzny|úrodný
 rżew|ržev
+sabelianizm|sabellianismus
 sabotować|sabotovat
 sacharoza|sacharóza
 sadownik|sadař
 sad|sad
+sadyzm|sadismus
 sadza|saze
 sadzonka|řízkování
 sadzonka|sazenice
@@ -13329,6 +13650,7 @@ samochód|automobil
 samochód|vůz
 samochwalstwo|sebechvála
 samoczynnie|samovolně
+samoczynny|automatický
 samodzielny|samostatný
 samodzierżawie|samoděržaví
 samogłoska|samohláska
@@ -13376,6 +13698,8 @@ Saragossa|Zaragoza
 Sarajewo|Sarajevo
 Sarańsk|Saransk
 Saratów|Saratov
+sarmatyzm|sarmatismus
+satanizm|satanismus
 satelita|satelitní
 satelity|družice
 saturnalia|saturnálie
@@ -13428,10 +13752,12 @@ schowka|schránky
 schronisko|útulek
 schudnąć|zhubnout
 Schwarzwald|Schwarzwald
+scjentyzm|scientismus
 seaborg|seaborgium
 secesja|secese
 secesyjny|secesní
 sedan|sedan
+Sedlnitzky|Sedlnický
 segment|segment
 segmenty|segmenty
 segregator|deska
@@ -13454,6 +13780,7 @@ seksualny|sexuální
 sekta|sekta
 sektor|sektor
 sekularyzacja|sekularizace
+sekularyzm|sekularismus
 sekunda|sekunda
 sekundka|vteřinka
 sekundować|sekundovat
@@ -13466,6 +13793,8 @@ semantyczny|sémantický
 semantyka|sémantika
 semestr|semestr
 seminarium|seminář
+semiotyka|sémiotika
+semipelagianizm|semipelagianismus
 senator|senátor
 senat|senát
 Senegal|Senegal
@@ -13479,8 +13808,10 @@ sensor|senzor
 sen|spánek
 sens|sens
 sens|smysl
+sensualizm|senzualismus
 sentymentalizm|preromantismus
 sentymentalny|sentimentální
+separatyzm|separatismus
 sepia|sépie
 seppuku|seppuku
 septyczny|septický
@@ -13490,6 +13821,7 @@ serce|srdce
 sercowy|srdeční
 serduszko|srdíčko
 serenada|serenáda
+serializm|serialismus
 serial|seriál
 seria|série
 serpentyna|serpentina
@@ -13560,6 +13892,7 @@ sierść|srst
 sierżant|seržant
 sięgnąć|sáhnout
 sigma|sigma
+sikhizm|sikhismus
 sikora|sýkora
 siksa|šiksa
 silnia|faktoriál
@@ -13603,6 +13936,7 @@ skamieniałość|zkamenělina
 skamieniały|zkamenělý
 skandal|skandál
 skand|skandium
+skandynawizm|skandinavismus
 skandynawski|skandinávský
 Skandynawski|Skandinávský
 skaner|scanner
@@ -13627,6 +13961,7 @@ skąpstwo|skrblictví
 skąpy|skoupý
 skąpy|sobecký
 skecz|skeč
+skialpinizm|skialpinismus
 skierować|zaměřit
 skierowany|cílen
 skierowany|orientovaný
@@ -13845,8 +14180,10 @@ socjalistyczna|socialistická
 socjalistyczny|socanský
 socjalistyczny|socialistický
 socjalizm|socialismus
+socjalliberalizm|liberalismus
 socjalny|sociální
 socjologia|sociologie
+socjonika|socionika
 soczewica|čočka
 soczewka|čočka
 soczewkowy|čočkovitý
@@ -13864,6 +14201,7 @@ solenie|solení
 solidarność|solidarita
 solidaryzować|solidarizovat
 solidny|solidní
+solipsyzm|solipsismus
 solista|sólista
 solniczka|solnička
 solny|solný
@@ -13895,6 +14233,7 @@ spadek|dědictví
 spadek|pád
 spadek|pokles
 spadkobierca|dědic
+spadochroniarstwo|parašutismus
 spadochroniarz|parašutista
 spadochroniarz|propadlík
 spadochroniarz|repetent
@@ -13944,10 +14283,12 @@ spichlerz|sýpka
 spichrz|sýpka
 spieniężyć|zpeněžit
 spinacz|spínač
+spintronika|spintronika
 spirala|spirála
 spiralny|spirální
 spirytysta|spiritismus
 spirytysta|spiritista
+spirytyzm|spiritismus
 spisać|sepsát
 spisanie|sepsání
 spis|výčet
@@ -14089,6 +14430,7 @@ stajnia|konírna
 stalagmit|stalagmit
 stalagmometr|stalagmometr
 stalaktyt|stalaktit
+stalinizm|stalinismus
 stal|ocel
 stalowy|ocelový
 stała|konstanta
@@ -14119,6 +14461,7 @@ starcie|bitva
 starcie|střet
 starcie|střetnutí
 starodawny|starodávný
+starokatolicki|starokatolický
 staromodny|staromódní
 starosta|přednosta
 starość|starost
@@ -14185,6 +14528,7 @@ stłumić|ztlumit
 stłumienie|potlačení
 stocznia|loděnice
 stodoła|stodola
+stoicyzm|stoicismus
 stoisko|stánek
 stojak|stojan
 stojąca|stojatá
@@ -14262,6 +14606,7 @@ strop|strop
 stróż|hlídač
 stróż|strážce
 strug|hoblík
+strukturalizm|strukturalismus
 strukturalny|strukturální
 struktura|struktura
 struktury|struktury
@@ -14317,6 +14662,7 @@ stypendium|stipendium
 stypendysta|stipendista
 styrakowiec|ambron
 subarktyczny|subarktický
+subiektywizm|subjektivismus
 subkontynent|subkontinent
 subkultura|subkultura
 sublimacja|sublimace
@@ -14326,6 +14672,7 @@ substancja|substance
 substrat|substrát
 substytucja|substituce
 subsydium|subvence
+subtropikalny|subtropický
 subwencja|subvence
 subwoofer|subvofer
 subwoofer|subwoofer
@@ -14337,6 +14684,7 @@ sudański|súdánský
 sudecki|sudetský
 sueski|suezský
 sufiks|přípona
+sufizm|súfismus
 sugestia|sugesce
 sugestywny|sugestivní
 suka|fena
@@ -14369,6 +14717,7 @@ surowiec|surovina
 surowy|přísný
 surowy|surový
 surrealistyczny|surrealistický
+surrealizm|surrealismus
 surykatka|surikata
 suszarka|vysoušeč
 suszarnia|sušárna
@@ -14400,11 +14749,14 @@ syjonizm|sionismus
 sykocka|skotská
 sykot|sykot
 syktywkar|syktyvkar
+sylaba|slabika
 sylabotoniczny|sylabotónický
+sylogizm|sylogismus
 sylwester|silvestr
 sylwestrowy|silvestrovský
 symbioza|symbióza
 symboliczny|symbolický
+symbolizm|symbolismus
 symbolizować|symbolizovat
 symbolizujący|symbolizující
 symbol|symbol
@@ -14426,6 +14778,7 @@ synchronizować|synchronizovat
 syndrom|syndrom
 syndykat|syndikát
 synkopa|synkopa
+synkretyzm|synkretismus
 synod|synod
 synonim|synonymum
 syn|syn
@@ -14465,6 +14818,7 @@ szaleniec|zuřivec
 szalony|šílený
 szałas|salaš
 szałwia|šalvěj
+szamanizm|šamanismus
 szambo|jímka
 szambo|septik
 szampan|šampanské
@@ -14496,6 +14850,7 @@ szczaw|šťovík
 szczebel|příčka
 Szczeciński|Štětínský
 szczególnie|obzvlášť
+szczególny|speciální
 szczególny|zvláštní
 szczegół|detail
 szczegółowo|detailně
@@ -14583,6 +14938,7 @@ Szkop|Skopčák
 szkorbut|kurděje
 szlaban|závora
 szlachecki|šlechtický
+szlachecki|Šlechtický
 szlachta|šlechta
 szlafrok|župan
 szlagier|šlágr
@@ -14597,6 +14953,7 @@ szok|šok
 szopka|jesličky
 szop|mýval
 szopska|šopský
+szowinizm|šovinismus
 szósty|šesty
 szpaczy|špaččí
 szpada|kord
@@ -14686,6 +15043,7 @@ Szyrow|Širov
 ściśle|přesně
 ściśnięcie|stisk
 ściśnięty|stísněný
+śiwaizm|šivaismus
 ślad|stopa
 Śląski|Slezský
 Śląsk|Slezsko
@@ -14754,6 +15112,7 @@ Szyrow|Širov
 środa|středa
 środek|prostředek
 środki|prostředky
+środkowoamerykański|středoamerický
 środkowoazjatycki|středoasijský
 środkowobanacki|středobanátský
 środkowoczeski|středočeský
@@ -14780,6 +15139,7 @@ Szyrow|Širov
 światowy|světový
 świat|svět
 świątynia|chrám
+świdnicki|svídnický
 świeca|svíčka
 świeczka|svíčka
 świecznik|svícen
@@ -14872,6 +15232,7 @@ tamten|támhleten
 tancerka|tanečnice
 tancerz|tanečník
 taneczny|taneční
+Tanganika|Tanganika
 Tanganika|Tanganjika
 tangens|tangens
 tango|tango
@@ -14952,6 +15313,7 @@ tekstu|textu
 teksty|texty
 tekścik|textík
 tektoniczny|tektonická
+tektonika|tektonika
 teledysk|videoklip
 telefaks|fax
 telefonicznie|telefonicky
@@ -14987,11 +15349,13 @@ Temistokles|Themistoklés
 temperament|temperament
 temperatura|teplota
 templariusz|templář
+temporalny|temporální
 Temporalny|Temporální
 tempo|rychlost
 tempo|tempo
 tendencja|tendence
 tendencyjny|tendenční
+tenebryzm|tenebrismus
 tenisista|tenis
 tenisista|tenista
 tenisowy|tenisový
@@ -15043,6 +15407,7 @@ terrier|teriér
 terror|teror
 terrorystyczny|teroristický
 terroryzmem|terorismu
+terroryzm|terorismus
 terytorium|území
 testament|testament
 testament|zákon
@@ -15102,10 +15467,12 @@ tolerancja|tolerance
 Tołstoj|Tolstoj
 Tomasz|Tomáš
 tom|díl
+tomizm|tomismus
 Tomsk|Tomsk
 tom|svazek
 tom|tom
 tonalny|tónový
+tonika|tónika
 tonik|tonik
 tonizować|tonizovat
 ton|ton
@@ -15119,6 +15486,7 @@ topnienie|tání
 topola|topol
 topologiczna|topologický
 topologicznego|topologického
+topologiczny|topologický
 topór|sekera
 topór|sekyra
 torbacze|vačnatec
@@ -15145,6 +15513,7 @@ tory|kolejiště
 toster|topinkovač
 toster|touster
 totalitarny|totalitní
+totalitaryzm|totalitarismus
 totalny|totální
 tournee|turné
 towarowy|nákladní
@@ -15163,10 +15532,12 @@ trabant|trabant
 tracić|tratit
 tracić|ztrácet
 tradycja|tradice
+tradycjonalizm|tradicionalismus
 tradycyjny|tradiční
 trafienia|zásahy
 trafienie|trefa
 trafika|tabák
+trafika|trafika
 traganek|kozinec
 tragedia|tragédie
 tragikomiczny|tragikomický
@@ -15184,6 +15555,7 @@ transfer|transfer
 transformacja|posuvka
 transformacja|transformace
 transfuzja|transfuze
+transhumanizm|transhumanismus
 transkontynentalny|transkontinentální
 transkrypcja|transkripce
 transkryptaza|transkriptáza
@@ -15198,6 +15570,7 @@ transporter|transportér
 transportowy|transportní
 transrealizm|transrealismus
 transseksualista|transsexuál
+transwestytyzm|transvestitismus
 Transylwania|Transylvánie
 tranzytowy|tranzitní
 tranzyt|tranzit
@@ -15236,12 +15609,15 @@ triumfalny|triumfální
 triumfować|triumfovat
 triumwirat|triumvirát
 trnawski|trnavský
+trockizm|trockismus
+troika|troika
 trojanek|podléška
 trojański|trojský
 troll|troll
 tron|trůn
 tronu|trůnu
 tropikalny|tropický
+tropizm|tropismus
 trop|stopa
 troskliwie|bedlivě
 trotuar|chodník
@@ -15274,6 +15650,7 @@ trwałym|trvalým
 trwały|trvalý
 trwoga|strach
 trwoga|zaraženost
+trybadyzm|tribadismus
 tryb|režim
 trybunal|dvůr
 trybunał|dvůr
@@ -15323,6 +15700,7 @@ tunelowe|tunelový
 tunelowy|tunelový
 tunel|tunel
 tunezyjski|tuniský
+tunika|tunika
 tunis|tunis
 turbina|turbína
 turbina|větrná
@@ -15379,6 +15757,7 @@ twój|tvůj
 twórczy|tvůrčí
 Tybetańczyk|Tibeťan
 tybetański|tibetský
+tybetologia|tibetanistika
 Tybet|Tibet
 tydzień|týden
 tyfus|tyfus
@@ -15576,6 +15955,7 @@ ulotka|leták
 Ulryka|Ulrika
 ultradźwiękowy|ultrazvukový
 ultramaraton|ultramaraton
+ultramontanizm|ultramontanismus
 ulubiony|oblíbený
 ul|úl
 ułamek|čitatel
@@ -15609,6 +15989,7 @@ umyć|umýt
 umysł|mysl
 umyty|umytý
 umywalka|umyvadlo
+unanimizm|unanimismus
 unia|unie
 unicode|unicode
 uniemożliwić|neumožnit
@@ -15622,6 +16003,7 @@ unieważniony|odvolaný
 uniform|uniforma
 unijny|unijní
 unikalny|unikátní
+unikameralizm|unikameralismus
 unikatowy|unikátní
 unikat|unikat
 unikat|utíkat
@@ -15742,6 +16124,7 @@ ustawić|sestavit
 ustawienia|nastavení
 ustawodawcza|zákonodárná
 ustecki|ústecký
+ustecki|Ústecký
 usterka|závada
 ustępliwy|ústupný
 ustępstwo|ústupek
@@ -15789,6 +16172,7 @@ utorować|vydláždit
 utożsamiać|ztotožnovat
 utracony|ztracený
 utrakwista|utrakvismus
+utrakwiści|utrakvismus
 utrata|ztráta
 utrzymanie|údržba
 utrzymywać|udržovat
@@ -15797,6 +16181,7 @@ utwory|skladby
 utworzony|odvozen
 utworzyć|vytvořit
 utwór|skladba
+utylitaryzm|utilitarismus
 uwaga|pozornost
 uwaga|výtka
 uwagi|poznámky
@@ -15848,11 +16233,13 @@ validation|ověření
 valley|údolí
 Vancouver|Vancouver
 van|van
+Veronika|Veronika
 versja|verze
 Vicenza|Vicenza
 Victoria|Victoria
 video|video
 vivace|tempo
+voyeuryzm|voyeurismus
 wabić|vábit
 wabik|vábnička
 wAchajski|Achajský
@@ -15865,6 +16252,7 @@ wahadło|kyvadlo
 wahadłowiec|raketoplán
 wahanie|váhavost
 wahaniu|váhání
+wahhabizm|wahhábismus
 wakacje|prázdniny
 walc|valčík
 walczący|válčící
@@ -16040,6 +16428,7 @@ werwa|verva
 weryfikacja|ověření
 weryfikacja|verifikace
 weryfikować|ověřit
+weryzm|verismus
 wesołość|veselost
 wesoło|vesele
 wesprzeć|podpořit
@@ -16053,6 +16442,7 @@ weto|veto
 wetować|vetovat
 wewnątrzpartyjny|vnitrostranecký
 wewnątrz|uvnitř
+wewnątrzwątrobowa|intrahepatální
 wewnętrzny|vnitřní
 wezbrana|rozvodněná
 wezuwian|vesuvian
@@ -16163,11 +16553,13 @@ wielkanocny|vánoční
 Wielkanoc|Velikonoce
 wielka|velká
 wielki|grandiózní
+wielki|Legální
 wielki|obrovská
 wielki|veliký
 wielki|velký
 wielki|weliký
 wielkodzioby|velkozobý
+wielkogłowy|kladivohlavý
 Wielkopolska|Velkopolsko
 wielkoszlemowy|grandslamový
 wielkości|velikosti
@@ -16182,6 +16574,7 @@ wielokąty|polygony
 wielokomórkowy|mnohobuněčný
 wielokroć|namnoze
 wielokrotny|vícerozměrný
+wielokulturowość|multikulturalismus
 wielokulturowy|multikulturní
 wieloletni|dlouholetý
 wielomian|polynom
@@ -16287,6 +16680,7 @@ Wiślanie|Vislané
 Wiślany|Vislanský
 wiśnia|třešně
 witajcie|vítejte
+witalizm|vitalismus
 witalność|vitalita
 witalność|životnost
 witalny|vitální
@@ -16479,6 +16873,7 @@ wrzucony|vhozený
 wsadowy|dávkový
 wsadzić|strčit
 wsawany|nasávaný
+wschodnioamerykański|východoamerický
 wschodniokaraibski|východokaribský
 wschodni|východní
 wschódnie|východně
@@ -16584,6 +16979,7 @@ wulgarność|vulgárnost
 wulkaniczna|sopečná
 wulkaniczny|vulkanický
 wulkanizacja|pneuservis
+wulkanizm|vulkanismus
 wulkanologiczny|vulkanogolický
 wulkanolog|vulkanolog
 wulkan|sopka
@@ -17503,6 +17899,7 @@ zarządca|správce
 zarząd|správa
 zarządzać|spravovat
 zarządzanie|management
+#zarządzanie zasobami ludzkimi|personalistika
 zarządzany|spravovaný
 zarżeć|zařechtat
 zasada|princip
@@ -17761,6 +18158,7 @@ zewnętrzne|externí
 zewnętrzny|externí
 zewsząd|odevšad
 zeznanie|vypověđ
+zez|strabismus
 zezwolenie|povolení
 zezwolenie|povolenka
 zezwolenie|svolení
@@ -17779,6 +18177,7 @@ zgoda|shoda
 zgoda|souhlas
 zgodny|souhlasný
 zgon|skon
+Zgorzelecki|Zhořelecký
 zgorzel|gangréna
 zgrana|sehraná
 zgrubienie|vřídek
@@ -17847,6 +18246,7 @@ złość|zloba
 złotawy|žlutomasý
 złotko|zlatíčko
 złotnik|zlatnictví
+złotogłowy|zlatohlavý
 złoto|zlato
 złoty|zlatý
 złowieszczo|zlověstně
