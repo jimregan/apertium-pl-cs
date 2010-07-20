@@ -13158,3 +13158,95 @@
     <e lm="srpen"><i>srp</i><par n="květ/en__n"/></e>
     <e lm="červen"><i>červ</i><par n="květ/en__n"/></e>
     <e lm="říjen"><i>říj</i><par n="květ/en__n"/></e>
+    <e lm="bělidlo"><i>bělid</i><par n="más/lo__n"/></e>
+    <e lm="bidlo"><i>bid</i><par n="más/lo__n"/></e>
+    <e lm="bodlo"><i>bod</i><par n="más/lo__n"/></e>
+    <e lm="bradlo"><i>brad</i><par n="más/lo__n"/></e>
+    <e lm="bydlo"><i>byd</i><par n="más/lo__n"/></e>
+    <e lm="čerpadlo"><i>čerpad</i><par n="más/lo__n"/></e>
+    <e lm="chapadlo"><i>chapad</i><par n="más/lo__n"/></e>
+    <e lm="chodidlo"><i>chodid</i><par n="más/lo__n"/></e>
+    <e lm="čidlo"><i>čid</i><par n="más/lo__n"/></e>
+    <e lm="činidlo"><i>činid</i><par n="más/lo__n"/></e>
+    <e lm="číslo"><i>čís</i><par n="más/lo__n"/></e>
+    <e lm="clo"><i>c</i><par n="más/lo__n"/></e>
+    <e lm="divadlo"><i>divad</i><par n="más/lo__n"/></e>
+    <e lm="dmychadlo"><i>dmychad</i><par n="más/lo__n"/></e>
+    <e lm="dmychadlo" r="LR"><p><l>dmýchad</l><r>dmychad</r></p><par n="más/lo__n"/></e>
+    <e lm="držadlo"><i>držad</i><par n="más/lo__n"/></e>
+    <e lm="heslo"><i>hes</i><par n="más/lo__n"/></e>
+    <e lm="hradlo"><i>hrad</i><par n="más/lo__n"/></e>
+    <e lm="hrdlo"><i>hrd</i><par n="más/lo__n"/></e>
+    <e lm="jídlo"><i>jíd</i><par n="más/lo__n"/></e>
+    <e lm="kadidlo"><i>kadid</i><par n="más/lo__n"/></e>
+    <e lm="kormidlo"><i>kormid</i><par n="más/lo__n"/></e>
+    <e lm="kouzlo"><i>kouz</i><par n="más/lo__n"/></e>
+    <e lm="křesadlo"><i>křesad</i><par n="más/lo__n"/></e>
+    <e lm="křeslo"><i>křes</i><par n="más/lo__n"/></e>
+    <e lm="křídlo"><i>kříd</i><par n="más/lo__n"/></e>
+    <e lm="kyvadlo"><i>kyvad</i><par n="más/lo__n"/></e>
+    <e lm="lákadlo"><i>lákad</i><par n="más/lo__n"/></e>
+    <e lm="lepidlo"><i>lepid</i><par n="más/lo__n"/></e>
+    <e lm="líčidlo"><i>líčid</i><par n="más/lo__n"/></e>
+    <e lm="madlo"><i>mad</i><par n="más/lo__n"/></e>
+    <e lm="měřidlo"><i>měřid</i><par n="más/lo__n"/></e>
+    <e lm="mýdlo"><i>mýd</i><par n="más/lo__n"/></e>
+    <e lm="napajedlo"><i>napajed</i><par n="más/lo__n"/></e>
+    <e lm="odpočívadlo"><i>odpočívad</i><par n="más/lo__n"/></e>
+    <e lm="opěradlo"><i>opěrad</i><par n="más/lo__n"/></e>
+    <e lm="osidlo"><i>osid</i><par n="más/lo__n"/></e>
+    <e lm="pádlo"><i>pád</i><par n="más/lo__n"/></e>
+    <e lm="pečetidlo"><i>pečetid</i><par n="más/lo__n"/></e>
+    <e lm="platidlo"><i>platid</i><par n="más/lo__n"/></e>
+    <e lm="plavidlo"><i>plavid</i><par n="más/lo__n"/></e>
+    <e lm="plexisklo"><i>plexisk</i><par n="más/lo__n"/></e>
+    <e lm="počítadlo"><i>počítad</i><par n="más/lo__n"/></e>
+    <e lm="pořekadlo"><i>pořekad</i><par n="más/lo__n"/></e>
+    <e lm="prádlo"><i>prád</i><par n="más/lo__n"/></e>
+    <e lm="pravidlo"><i>pravid</i><par n="más/lo__n"/></e>
+    <e lm="propadlo"><i>propad</i><par n="más/lo__n"/></e>
+    <e lm="prostěradlo"><i>prostěrad</i><par n="más/lo__n"/></e>
+    <e lm="ředidlo"><i>ředid</i><par n="más/lo__n"/></e>
+    <e lm="řemeslo"><i>řemes</i><par n="más/lo__n"/></e>
+    <e lm="říkadlo"><i>říkad</i><par n="más/lo__n"/></e>
+    <e lm="rozpouštědlo"><i>rozpouštěd</i><par n="más/lo__n"/></e>
+    <e lm="rypadlo"><i>rypad</i><par n="más/lo__n"/></e>
+    <e lm="rypadlo" r="LR"><p><l>rýpad</l><r>rypad</r></p><par n="más/lo__n"/></e>
+    <e lm="sádlo"><i>sád</i><par n="más/lo__n"/></e>
+    <e lm="sedadlo"><i>sedad</i><par n="más/lo__n"/></e>
+    <e lm="sedlo"><i>sed</i><par n="más/lo__n"/></e>
+    <e lm="sídlo"><i>síd</i><par n="más/lo__n"/></e>
+    <e lm="šídlo"><i>šíd</i><par n="más/lo__n"/></e>
+    <e lm="sladidlo"><i>sladid</i><par n="más/lo__n"/></e>
+    <e lm="sluchadlo"><i>sluchad</i><par n="más/lo__n"/></e>
+    <e lm="stavidlo"><i>stavid</i><par n="más/lo__n"/></e>
+    <e lm="stéblo"><i>stéb</i><par n="más/lo__n"/></e>
+    <e lm="stínadlo"><i>stínad</i><par n="más/lo__n"/></e>
+    <e lm="strašidlo"><i>strašid</i><par n="más/lo__n"/></e>
+    <e lm="švihadlo"><i>švihad</i><par n="más/lo__n"/></e>
+    <e lm="svítidlo"><i>svítid</i><par n="más/lo__n"/></e>
+    <e lm="svodidlo"><i>svodid</i><par n="más/lo__n"/></e>
+    <e lm="tablo"><i>tab</i><par n="más/lo__n"/></e>
+    <e lm="táhlo"><i>táh</i><par n="más/lo__n"/></e>
+    <e lm="teplo-1"><i>tep</i><par n="más/lo__n"/></e>
+    <e lm="topidlo"><i>topid</i><par n="más/lo__n"/></e>
+    <e lm="tříslo"><i>třís</i><par n="más/lo__n"/></e>
+    <e lm="turbodmychadlo"><i>turbodmychad</i><par n="más/lo__n"/></e>
+    <e lm="tykadlo"><i>tykad</i><par n="más/lo__n"/></e>
+    <e lm="umyvadlo"><i>umyvad</i><par n="más/lo__n"/></e>
+    <e lm="umývadlo"><i>umývad</i><par n="más/lo__n"/></e>
+    <e lm="veslo"><i>ves</i><par n="más/lo__n"/></e>
+    <e lm="zaklínadlo"><i>zaklínad</i><par n="más/lo__n"/></e>
+    <e lm="zaklínadlo" r="LR"><p><l>zaklinad</l><r>zaklínad</r></p><par n="más/lo__n"/></e>
+    <e lm="zaříkadlo"><i>zaříkad</i><par n="más/lo__n"/></e>
+    <e lm="zavazadlo"><i>zavazad</i><par n="más/lo__n"/></e>
+    <e lm="zavazadlo" r="LR"><p><l>zavazed</l><r>zavazad</r></p><par n="más/lo__n"/></e>
+    <e lm="zdymadlo"><i>zdymad</i><par n="más/lo__n"/></e>
+    <e lm="žezlo"><i>žez</i><par n="más/lo__n"/></e>
+    <e lm="žezlo" r="LR"><p><l>žež</l><r>žez</r></p><par n="más/lo__n"/></e>
+    <e lm="žihadlo"><i>žihad</i><par n="más/lo__n"/></e>
+    <e lm="žihadlo" r="LR"><p><l>žehad</l><r>žihad</r></p><par n="más/lo__n"/></e>
+    <e lm="žihadlo" r="LR"><p><l>žíhad</l><r>žihad</r></p><par n="más/lo__n"/></e>
+    <e lm="žrádlo"><i>žrád</i><par n="más/lo__n"/></e>
+    <e lm="zrcadlo"><i>zrcad</i><par n="más/lo__n"/></e>
+    <e lm="zřídlo"><i>zříd</i><par n="más/lo__n"/></e>
