@@ -5629,12 +5629,6 @@
           <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
-      <e r="RL">
-        <p>
-          <l>ne</l>
-          <r><s n="nm"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
       <e>
         <p>
           <l>nego</l>
@@ -5693,12 +5687,6 @@
         <p>
           <l>nych</l>
           <r><s n="nt"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e r="RL">
-        <p>
-          <l>nych</l>
-          <r><s n="nm"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
@@ -5761,12 +5749,6 @@
           <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
-      <e r="RL">
-        <p>
-          <l>nym</l>
-          <r><s n="nm"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
       <e>
         <p>
           <l>nego</l>
@@ -5825,12 +5807,6 @@
         <p>
           <l>ne</l>
           <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e r="RL">
-        <p>
-          <l>ne</l>
-          <r><s n="nm"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
@@ -5893,12 +5869,6 @@
           <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
-      <e r="RL">
-        <p>
-          <l>nymi</l>
-          <r><s n="nm"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
       <e>
         <p>
           <l>nym</l>
@@ -5959,12 +5929,6 @@
           <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
-      <e r="RL">
-        <p>
-          <l>nych</l>
-          <r><s n="nm"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
       <e>
         <p>
           <l>en</l>
@@ -6023,12 +5987,6 @@
         <p>
           <l>no</l>
           <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e r="RL">
-        <p>
-          <l>ne</l>
-          <r><s n="nm"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
     </pardef>
@@ -10111,68 +10069,7 @@
           <r>ów<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l>ów</l>
-          <r>ów<s n="det"/><s n="dem"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ów</l>
-          <r>ów<s n="det"/><s n="dem"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ów</l>
-          <r>ów<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owa</l>
-          <r>ów<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owo</l>
-          <r>ów<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owi</l>
-          <r>ów<s n="det"/><s n="dem"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owe</l>
-          <r>ów<s n="det"/><s n="dem"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owe</l>
-          <r>ów<s n="det"/><s n="dem"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owe</l>
-          <r>ów<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>owe</l>
-          <r>ów<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
     </pardef>
-
     <pardef n="czy/jś__det">
      <e>
        <p>
@@ -39568,6 +39465,7 @@
     <e lm="np"><i>np</i><par n="np__abbr"/></e>
     <e lm="tzw"><i>tzw</i><par n="np__abbr"/></e>
     <e lm="itd"><i>itd</i><par n="np__abbr"/></e>
+    <e lm="etc"><i>etc</i><par n="np__abbr"/></e>
     <e lm="ca"><i>ca</i><par n="np__abbr"/></e>
     <e lm="ok"><i>ok</i><par n="np__abbr"/></e>
     <e lm="m.in."><i>m.in.</i><par n="np__abbr"/></e>
@@ -39597,6 +39495,42 @@
     <e lm="ha"><i>ha</i><par n="np__abbr"/></e>
     <e lm="fr"><i>fr</i><par n="np__abbr"/></e>
     <e lm="dag"><i>dag</i><par n="np__abbr"/></e>
+    <e lm="min"><i>min</i><par n="np__abbr"/></e>
+    <e lm="max"><i>max</i><par n="np__abbr"/></e>
+    <e lm="mgr"><i>mgr</i><par n="np__abbr"/></e>
+    <e lm="str"><i>str</i><par n="np__abbr"/></e>
+    <e lm="tys"><i>tys</i><par n="np__abbr"/></e>
+    <e lm="mg"><i>mg</i><par n="np__abbr"/></e>
+    <e lm="kcal"><i>kcal</i><par n="np__abbr"/></e>
+    <e lm="www"><i>www</i><par n="np__abbr"/></e>
+    <e lm="kb"><i>kb</i><par n="np__abbr"/></e>
+    <e lm="mies"><i>mies</i><par n="np__abbr"/></e>
+    <e lm="tab"><i>tab</i><par n="np__abbr"/></e>
+    <e lm="p."><i>p.</i><par n="np__abbr"/></e>
+    <e lm="r."><i>r.</i><par n="np__abbr"/></e>
+    <e lm="Kč"><i>Kč</i><par n="np__abbr"/></e>
+    <e lm="zł"><i>zł</i><par n="np__abbr"/></e>
+    <e lm="n.e."><i>n.e.</i><par n="np__abbr"/></e>
+    <e lm="p.n.e."><i>p.n.e.</i><par n="np__abbr"/></e>
+    <e lm="gr"><i>gr</i><par n="np__abbr"/></e>
+    <e lm="rep"><i>rep</i><par n="np__abbr"/></e>
+    <e lm="gen"><i>gen</i><par n="np__abbr"/></e>
+    <e lm="płk"><i>płk</i><par n="np__abbr"/></e>
+    <e lm="ppłk"><i>ppłk</i><par n="np__abbr"/></e>
+    <e lm="por"><i>por</i><par n="np__abbr"/></e>
+    <e lm="ppor"><i>ppor</i><par n="np__abbr"/></e>
+    <e lm="bryg"><i>bryg</i><par n="np__abbr"/></e>
+
+	<!--
+    <e lm="wg"><i>wg</i><par n="np__abbr"/></e>
+    <e lm="dyr"><i>dyr</i><par n="np__abbr"/></e>
+    <e lm="dkg"><i>dkg</i><par n="np__abbr"/></e>
+    <e lm="pw"><i>pw</i><par n="np__abbr"/></e>
+    <e lm="wyd"><i>wyd</i><par n="np__abbr"/></e>
+    <e lm="tv"><i>tv</i><par n="np__abbr"/></e>
+    <e lm="szt"><i>szt</i><par n="np__abbr"/></e>
+    <e lm="ww."><i>ww.</i><par n="np__abbr"/></e>
+	-->
 
     <e lm="jpg"><i>jpg</i><par n="np__abbr"/></e>
     <e lm="bmp"><i>bmp</i><par n="np__abbr"/></e>
@@ -39683,6 +39617,14 @@
     <e lm="w przeciwieństwie do"><i>w<b/>przeciwieństwie<b/>do</i><par n="jeśli__cnjadv"/></e>
     <e lm="jakoby"><i>jakoby</i><par n="jeśli__cnjadv"/></e>
     <e lm="niby"><i>niby</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nie wspominając"><i>nie<b/>wspominając</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nie wspominając już"><i>nie<b/>wspominając<b/>już</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nie mówiąc"><i>nie<b/>mówiąc</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nie mówiąc już"><i>nie<b/>mówiąc<b/>już</i><par n="jeśli__cnjadv"/></e>
+    <e lm="o ile"><i>o<b/>ile</i><par n="jeśli__cnjadv"/></e>
+    <e lm="a tym bardziej"><i>a<b/>tym<b/>bardziej</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nawet jeśli"><i>nawet<b/>jeśli</i><par n="jeśli__cnjadv"/></e>
+    <e lm="nawet jeżeli"><i>nawet<b/>jeżeli</i><par n="jeśli__cnjadv"/></e>
 
 	<!-- Pronouns -->
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
@@ -40762,19 +40704,19 @@
     <e lm="kłótliwy"><i>kłótliw</i><par n="now/y__adj"/></e>
     <e lm="kłótliwy"><p><l>kłótliw</l><r>kłótliwy</r></p><par n="lep/szy__adj"/></e>
     <e lm="kłótliwy"><p><l>najkłótliw</l><r>kłótliwy</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="mokry"><i>mokr</i><par n="dob/ry__adj"/></e>
+    <e lm="mokry"><i>mok</i><par n="dob/ry__adj"/></e>
     <e lm="mokry"><p><l>mokrzej</l><r>mokry</r></p><par n="lep/szy__adj"/></e>
     <e lm="mokry"><p><l>najmokrzej</l><r>mokry</r></p><par n="najlep/szy__adj"/></e>
     <e lm="możny"><i>możn</i><par n="now/y__adj"/></e>
     <e lm="możny"><p><l>możniej</l><r>możny</r></p><par n="lep/szy__adj"/></e>
     <e lm="możny"><p><l>najmożniej</l><r>możny</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="mądry"><i>mądr</i><par n="dob/ry__adj"/></e>
+    <e lm="mądry"><i>mąd</i><par n="dob/ry__adj"/></e>
     <e lm="mądry"><p><l>mądrzej</l><r>mądry</r></p><par n="lep/szy__adj"/></e>
     <e lm="mądry"><p><l>najmądrzej</l><r>mądry</r></p><par n="najlep/szy__adj"/></e>
     <e lm="obskurny"><i>obskurn</i><par n="now/y__adj"/></e>
     <e lm="obskurny"><p><l>najobskurniej</l><r>obskurny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="obskurny"><p><l>obskurniej</l><r>obskurny</r></p><par n="lep/szy__adj"/></e>
-    <e lm="okazały"><i>okazał</i><par n="ma/ły__adj"/></e>
+    <e lm="okazały"><i>okaza</i><par n="ma/ły__adj"/></e>
     <e lm="okazały"><p><l>najokazal</l><r>okazały</r></p><par n="najlep/szy__adj"/></e>
     <e lm="okazały"><p><l>okazal</l><r>okazały</r></p><par n="lep/szy__adj"/></e>
     <e lm="podejrzliwy"><i>podejrzliw</i><par n="now/y__adj"/></e>
@@ -40807,7 +40749,7 @@
     <e lm="sławny"><i>sławn</i><par n="now/y__adj"/></e>
     <e lm="sławny"><p><l>najsławniej</l><r>sławny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="sławny"><p><l>sławniej</l><r>sławny</r></p><par n="lep/szy__adj"/></e>
-    <e lm="trwały"><i>trwał</i><par n="ma/ły__adj"/></e>
+    <e lm="trwały"><i>trwa</i><par n="ma/ły__adj"/></e>
     <e lm="trwały"><p><l>najtrwal</l><r>trwały</r></p><par n="najlep/szy__adj"/></e>
     <e lm="trwały"><p><l>trwal</l><r>trwały</r></p><par n="lep/szy__adj"/></e>
     <e lm="upiorny"><i>upiorn</i><par n="now/y__adj"/></e>
@@ -40822,7 +40764,7 @@
     <e lm="użyteczny"><i>użyteczn</i><par n="now/y__adj"/></e>
     <e lm="użyteczny"><p><l>najużyteczniej</l><r>użyteczny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="użyteczny"><p><l>użyteczniej</l><r>użyteczny</r></p><par n="lep/szy__adj"/></e>
-    <e lm="wściekły"><i>wściekł</i><par n="ma/ły__adj"/></e>
+    <e lm="wściekły"><i>wściek</i><par n="ma/ły__adj"/></e>
     <e lm="wściekły"><p><l>najwścieklej</l><r>wściekły</r></p><par n="najlep/szy__adj"/></e>
     <e lm="wściekły"><p><l>wścieklej</l><r>wściekły</r></p><par n="lep/szy__adj"/></e>
     <e lm="łaciński"><i>łacińs</i><par n="pols/ki__adj"/></e>
@@ -41025,7 +40967,7 @@
     <e lm="niepodległy"><i>niepodleg</i><par n="ca/ły__adj"/></e>
     <e lm="dorosły"><i>doro</i><par n="doro/sły__adj"/></e>
     <e lm="wzniosły"><i>wznio</i><par n="doro/sły__adj"/></e>
-    <e lm="indiwidualny"><i>indywidualn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="indywidualny"><i>indywidualn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="tajny"><i>tajn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="rasowy"><i>rasow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="słuszny"><i>słuszn</i><par n="egzotermiczn/y__adj"/></e>
@@ -41778,6 +41720,7 @@
     <e lm="żałośnie"><p><l>żałośniej</l><r>żałośnie</r></p><par n="lepiej__adv"/></e>
 
     <!-- Non-synthetic adverbs -->
+    <e lm="przede wszystkim"><i>przede<b/>wszystkim</i><par n="tu__adv"/></e>
     <e lm="przed południem"><i>przed<b/>południem</i><par n="tu__adv"/></e>
     <e lm="po południu"><i>po<b/>południu</i><par n="tu__adv"/></e>
     <e lm="razem"><i>razem</i><par n="tu__adv"/></e>
@@ -41990,7 +41933,6 @@
     <e lm="zdecydowanie"><i>zdecydowanie</i><par n="tu__adv"/></e>
     <e lm="znacząco"><i>znacząco</i><par n="tu__adv"/></e>
     <e lm="zwłaszcza"><i>zwłaszcza</i><par n="tu__adv"/></e>
-    <e lm="często"><i>często</i><par n="tu__adv"/></e>
     <e lm="dawno"><i>dawno</i><par n="tu__adv"/></e>
     <e lm="wolno"><i>wolno</i><par n="tu__adv"/></e>
     <e lm="ewentualnie"><i>ewentualnie</i><par n="tu__adv"/></e>
@@ -42542,7 +42484,7 @@
     <e lm="przesalać"><i>przesal</i><par n="czyt/ać__vblex"/></e>
     <e lm="przeskoczyć"><i>przeskocz</i><par n="uwierz/yć__vblex"/></e>
     <e lm="przesłuchać"><i>przesłuch</i><par n="przeczyt/ać__vblex"/></e>
-    <e lm="przestać"><i>przest</i><par n="zasta/ć__vblex"/></e>
+    <e lm="przestać"><i>przesta</i><par n="zasta/ć__vblex"/></e>
     <e lm="przestudiować"><i>przestudi</i><par n="namal/ować__vblex"/></e>
     <e lm="przesuwać"><i>przesuw</i><par n="czyt/ać__vblex"/></e>
     <e lm="przesyłać"><i>przesył</i><par n="czyt/ać__vblex"/></e>
@@ -43161,7 +43103,7 @@
     <e lm="nastawiać"><i>nastawi</i><par n="czyt/ać__vblex"/></e>
     <e lm="nauczać"><i>naucz</i><par n="czyt/ać__vblex"/></e>
     <e lm="nominować"><i>nomin</i><par n="mal/ować__vblex"/></e>
-    <e lm="obniżać"><i>obniża</i><par n="czyt/ać__vblex"/></e>
+    <e lm="obniżać"><i>obniż</i><par n="czyt/ać__vblex"/></e>
     <e lm="obsługiwać"><i>obsług</i><par n="oszuk/iwać__vblex"/></e>
     <e lm="oceniać"><i>oceni</i><par n="czyt/ać__vblex"/></e>
     <e lm="odczuwać"><i>odczuw</i><par n="czyt/ać__vblex"/></e>
@@ -43465,20 +43407,15 @@
     <e lm="ptak"><i>ptak</i><par n="ptak__n"/></e>
     <e lm="okno"><i>ok</i><par n="ok/no__n"/></e>
     <e lm="ziemia"><i>ziem</i><par n="ziem/ia__n"/></e>
-    <e lm="aktinidia"><i>aktinidi</i><par n="anatomi/a__n"/></e>
-    <e lm="ciągnięcie"><i>ciągnię</i><par n="ży/cie__n"/></e>
-    <e lm="noga"><i>n</i><par n="fla/ga__n"/></e>
-    <e lm="załoga"><i>zał</i><par n="fla/ga__n"/></e>
+    <e lm="noga"><i>no</i><par n="fla/ga__n"/></e>
+    <e lm="załoga"><i>zało</i><par n="fla/ga__n"/></e>
     <e lm="absurd"><i>absurd</i><par n="skład__n"/></e>
-    <e lm="aerob"><i>aerob</i><par n="minus__n"/></e>
     <e lm="akord"><i>akord</i><par n="skład__n"/></e>
-    <e lm="aktinidia"><i>aktinid</i><par n="anatomi/a__n"/></e>
     <e lm="aldehyd"><i>aldehyd</i><par n="skład__n"/></e>
     <e lm="alkaloid"><i>alkaloid</i><par n="skład__n"/></e>
     <e lm="apartheid"><i>apartheid</i><par n="skład__n"/></e>
     <e lm="backhand"><i>backhand</i><par n="skład__n"/></e>
     <e lm="biliard"><i>biliard</i><par n="listopad__n"/></e>
-    <e lm="bolid"><i>bolid</i><par n="skład__n"/></e>
     <e lm="bób"><i>b</i><par n="spos/ób__n"/></e>
     <e lm="celuloid"><i>celuloid</i><par n="skład__n"/></e>
     <e lm="dogląd"><i>dogląd</i><par n="skład__n"/></e>
@@ -43508,7 +43445,6 @@
     <e lm="narząd"><i>narząd</i><par n="skład__n"/></e>
     <e lm="nica"><i>nic</i><par n="ulic/a__n"/></e>
     <e lm="nieszczęście"><i>nieszczęś</i><par n="ży/cie__n"/></e>
-    <e lm="noga"><i>n</i><par n="fla/ga__n"/></e>
     <e lm="obejście"><i>obejś</i><par n="ży/cie__n"/></e>
     <e lm="obicie"><i>obi</i><par n="ży/cie__n"/></e>
     <e lm="obrzęd"><i>obrzęd</i><par n="skład__n"/></e>
@@ -43525,7 +43461,7 @@
     <e lm="poczęcie"><i>poczę</i><par n="ży/cie__n"/></e>
     <e lm="podgląd"><i>podgląd</i><par n="skład__n"/></e>
     <e lm="podkład"><i>podkład</i><par n="skład__n"/></e>
-    <e lm="podłoga"><i>podł</i><par n="fla/ga__n"/></e>
+    <e lm="podłoga"><i>podło</i><par n="fla/ga__n"/></e>
     <e lm="pogląd"><i>pogląd</i><par n="skład__n"/></e>
     <e lm="pojęcie"><i>poję</i><par n="ży/cie__n"/></e>
     <e lm="pokład"><i>pokład</i><par n="skład__n"/></e>
@@ -43598,7 +43534,6 @@
     <e lm="zarząd"><i>zarząd</i><par n="skład__n"/></e>
     <e lm="zasób"><i>zas</i><par n="spos/ób__n"/></e>
     <e lm="zatrucie"><i>zatru</i><par n="ży/cie__n"/></e>
-    <e lm="załoga"><i>zał</i><par n="fla/ga__n"/></e>
     <e lm="zdjęcie"><i>zdję</i><par n="ży/cie__n"/></e>
     <e lm="zwiad"><i>zwiad</i><par n="skład__n"/></e>
     <e lm="ślad"><i>ślad</i><par n="skład__n"/></e>
@@ -45192,7 +45127,7 @@
     <e lm="podwyższenie"><i>podwyższe</i><par n="trzęsie/nie__n"/></e>
     <e lm="podzbiór"><i>podzbi</i><par n="gwiazdozbi/ór__n"/></e>
     <e lm="podziw"><i>podziw</i><par n="sklep__n"/></e>
-    <e lm="podłoga"><i>podł</i><par n="fla/ga__n"/></e>
+    <e lm="podłoga"><i>podło</i><par n="fla/ga__n"/></e>
     <e lm="podżegacz"><i>podżegacz</i><par n="dorsz__n"/></e>
     <e lm="pogoń"><i>pogo</i><par n="jesie/ń__n"/></e>
     <e lm="pogłos"><i>pogłos</i><par n="sklep__n"/></e>
@@ -45655,7 +45590,7 @@
     <e lm="trop"><i>trop</i><par n="sklep__n"/></e>
     <e lm="trufla"><i>trufl</i><par n="filozofi/a__n"/></e>
     <e lm="trumna"><i>trum</i><par n="wan/na__n"/></e>
-    <e lm="trwoga"><i>trw</i><par n="fla/ga__n"/></e>
+    <e lm="trwoga"><i>trwo</i><par n="fla/ga__n"/></e>
     <e lm="tryba"><i>tryb</i><par n="analiz/a__n"/></e>
     <e lm="trybuna"><i>trybun</i><par n="analiz/a__n"/></e>
     <e lm="trybut"><i>trybu</i><par n="zeni/t__n"/></e>
@@ -45810,7 +45745,6 @@
     <e lm="zastrzeżenie"><i>zastrzeże</i><par n="trzęsie/nie__n"/></e>
     <e lm="zawiasa"><i>zawias</i><par n="analiz/a__n"/></e>
     <e lm="zawleczka"><i>zawlecz</i><par n="mat/ka__n"/></e>
-    <e lm="załoga"><i>zał</i><par n="fla/ga__n"/></e>
     <e lm="zbliżenie"><i>zbliże</i><par n="trzęsie/nie__n"/></e>
     <e lm="zbrojenie"><i>zbroje</i><par n="trzęsie/nie__n"/></e>
     <e lm="zbytek"><i>zbyt</i><par n="stat/ek__n"/></e>
@@ -46128,7 +46062,7 @@
     <e lm="ocieplenie"><i>ocieple</i><par n="trzęsie/nie__n"/></e>
     <e lm="oczywistość"><i>oczywistoś</i><par n="miłoś/ć__n"/></e>
     <e lm="odgałęzienie"><i>odgałęzie</i><par n="trzęsie/nie__n"/></e>
-    <e lm="odnoga"><i>odn</i><par n="fla/ga__n"/></e>
+    <e lm="odnoga"><i>odno</i><par n="fla/ga__n"/></e>
     <e lm="odpoczynek"><i>odpoczyn</i><par n="stat/ek__n"/></e>
     <e lm="odstęp"><i>odstęp</i><par n="sklep__n"/></e>
     <e lm="odwołanie"><i>odwoła</i><par n="trzęsie/nie__n"/></e>
@@ -47166,7 +47100,6 @@
     <e lm="wykopalisko"><i>wykopalisk</i><par n="wojsk/o__n"/></e>
     <e lm="zadrapanie"><i>zadrapa</i><par n="trzęsie/nie__n"/></e>
     <e lm="zakładka"><i>zakład</i><par n="mat/ka__n"/></e>
-    <e lm="załoga"><i>zał</i><par n="fla/ga__n"/></e>
     <e lm="zawias"><i>zawias</i><par n="sklep__n"/></e>
     <e lm="zbiórka"><i>zbiór</i><par n="mat/ka__n"/></e>
     <e lm="zgłoszenie"><i>zgłosze</i><par n="trzęsie/nie__n"/></e>
@@ -48406,7 +48339,7 @@
     <e lm="pisarz"><i>pisarz</i><par n="dorsz__n"/></e>
     <e lm="słuchacz"><i>słuchacz</i><par n="dorsz__n"/></e>
     <e lm="towarzysz"><i>towarzysz</i><par n="dorsz__n"/></e>
-    <e lm="droga"><i>dr</i><par n="fla/ga__n"/></e>
+    <e lm="droga"><i>dro</i><par n="fla/ga__n"/></e>
     <e lm="liga"><i>li</i><par n="fla/ga__n"/></e>
     <e lm="obsługa"><i>obsłu</i><par n="fla/ga__n"/></e>
     <e lm="przewaga"><i>przewa</i><par n="fla/ga__n"/></e>
@@ -48414,7 +48347,6 @@
     <e lm="równowaga"><i>równowa</i><par n="fla/ga__n"/></e>
     <e lm="synagoga"><i>synago</i><par n="fla/ga__n"/></e>
     <e lm="usługa"><i>usłu</i><par n="fla/ga__n"/></e>
-    <e lm="załoga"><i>zał</i><par n="fla/ga__n"/></e>
     <e lm="zasługa"><i>zasłu</i><par n="fla/ga__n"/></e>
     <e lm="żegluga"><i>żeglu</i><par n="fla/ga__n"/></e>
     <e lm="jazda"><i>j</i><par n="gwi/azda__n"/></e>
