@@ -971,24 +971,64 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
-       <out>
-         <chunk name="verb" case="caseFirstWord">
-           <tags>
-             <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="sl" part="tns"/></tag>
-              <tag><clip pos="1" side="sl" part="prs"/></tag>
-              <tag><clip pos="1" side="tl" part="gen"/></tag>
-              <tag><clip pos="1" side="tl" part="nbr"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_vrb"/>
-              <clip pos="1" side="sl" part="tns" link-to="2"/>
-              <clip pos="1" side="tl" part="gen" link-to="4"/>
-              <clip pos="1" side="tl" part="nbr" link-to="5"/>
-            </lu>
-          </chunk>
-        </out>
+       <choose>
+         <when>
+           <test>
+             <not>
+               <equal>
+                 <clip pos="1" side="sl" part="prs"/>
+                 <lit-tag v="p3"/>
+               </equal>
+             </not>
+           </test>
+           <out>
+             <chunk name="verb_byt" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SV"/></tag>
+                 <tag><clip pos="1" side="sl" part="tns"/></tag>
+                 <tag><clip pos="1" side="sl" part="prs"/></tag>
+                 <tag><clip pos="1" side="tl" part="gen"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="1" side="tl" part="lem"/>
+                 <clip pos="1" side="tl" part="a_vrb"/>
+                 <clip pos="1" side="sl" part="tns" link-to="2"/>
+                 <clip pos="1" side="tl" part="gen" link-to="4"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="5"/>
+               </lu>
+               <b/>
+               <lu>
+                 <lit v="být"/>
+                 <lit-tag v="vbser"/>
+                 <lit-tag v="pres"/>
+                 <clip pos="1" side="sl" part="prs" link-to="3"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="5"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+         <out>
+           <chunk name="verb" case="caseFirstWord">
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+               <tag><clip pos="1" side="sl" part="tns"/></tag>
+               <tag><clip pos="1" side="sl" part="prs"/></tag>
+               <tag><clip pos="1" side="tl" part="gen"/></tag>
+               <tag><clip pos="1" side="tl" part="nbr"/></tag>
+             </tags>
+             <lu>
+               <clip pos="1" side="tl" part="lem"/>
+               <clip pos="1" side="tl" part="a_vrb"/>
+               <clip pos="1" side="sl" part="tns" link-to="2"/>
+               <clip pos="1" side="tl" part="gen" link-to="4"/>
+               <clip pos="1" side="tl" part="nbr" link-to="5"/>
+             </lu>
+           </chunk>
+         </out>
+       </otherwise>
+       </choose>
      </action>
   </rule>
 
