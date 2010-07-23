@@ -83,6 +83,7 @@
     <sdef n="past" /> 
     <sdef n="cni" /> 
     <sdef n="pprs" /> 
+    <sdef n="imp" /> 
   </sdefs>
   <pardefs>
     <pardef n="sg_sgpl">
@@ -13690,6 +13691,30 @@
 	  <p>
 		<l>być<s n="vbser"/><s n="past"/><s n="p3"/><s n="nm"/></l>
 		<r>být<s n="vbser"/><s n="past"/><s n="f"/></r>
+	  </p>
+	</e>
+    <e>
+	  <p>
+		<l>być<s n="vbser"/><s n="cni"/><s n="p1"/><s n="nm"/></l>
+		<r>být<s n="vbser"/><s n="cni"/><s n="f"/></r>
+	  </p>
+	</e>
+    <e>
+	  <p>
+		<l>być<s n="vbser"/><s n="cni"/><s n="p2"/><s n="nm"/></l>
+		<r>být<s n="vbser"/><s n="cni"/><s n="f"/></r>
+	  </p>
+	</e>
+    <e>
+	  <p>
+		<l>być<s n="vbser"/><s n="cni"/><s n="p3"/><s n="nm"/></l>
+		<r>být<s n="vbser"/><s n="cni"/><s n="f"/></r>
+	  </p>
+	</e>
+    <e>
+	  <p>
+		<l>być<s n="vbser"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="sg"/></l>
+		<r>být<s n="vbser"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
 	  </p>
 	</e>
 

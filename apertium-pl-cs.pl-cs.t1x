@@ -38,6 +38,14 @@
      <cat-item lemma="być" tags="vbser.pres"/>
      <cat-item lemma="być" tags="vbser.pres.*"/>
   </def-cat>
+  <def-cat n="byccni">
+     <cat-item lemma="być" tags="vbser.cni"/>
+     <cat-item lemma="być" tags="vbser.cni.*"/>
+  </def-cat>
+  <def-cat n="bycimp">
+     <cat-item lemma="być" tags="vbser.imp"/>
+     <cat-item lemma="być" tags="vbser.imp.*"/>
+  </def-cat>
   <def-cat n="vblex">
      <cat-item tags="vblex.*"/>
      <cat-item tags="vbhaver.*"/>
@@ -982,7 +990,7 @@
              </not>
            </test>
            <out>
-             <chunk name="verb_byt" case="caseFirstWord">
+             <chunk name="verb_byc" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SV"/></tag>
                  <tag><clip pos="1" side="sl" part="tns"/></tag>
@@ -1010,7 +1018,7 @@
          </when>
          <otherwise>
          <out>
-           <chunk name="verb" case="caseFirstWord">
+           <chunk name="verb_byc" case="caseFirstWord">
              <tags>
                <tag><lit-tag v="SV"/></tag>
                <tag><clip pos="1" side="sl" part="tns"/></tag>
@@ -1025,6 +1033,84 @@
                <clip pos="1" side="tl" part="gen" link-to="4"/>
                <clip pos="1" side="tl" part="nbr" link-to="5"/>
              </lu>
+           </chunk>
+         </out>
+       </otherwise>
+       </choose>
+     </action>
+  </rule>
+
+  <rule comment="byłbym -> byl bych">
+     <pattern>
+       <pattern-item n="byccni"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+               <equal>
+                 <clip pos="1" side="sl" part="prs"/>
+                 <lit-tag v="p3"/>
+               </equal>
+           </test>
+           <out>
+             <chunk name="byccni" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="sl" part="tns"/></tag>
+                  <tag><clip pos="1" side="sl" part="prs"/></tag>
+                  <tag><clip pos="1" side="tl" part="gen"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_vrb"/>
+                  <lit-tag v="past"/>
+                  <clip pos="1" side="tl" part="gen" link-to="4"/>
+                  <clip pos="1" side="tl" part="nbr" link-to="5"/>
+               </lu>
+               <b/>
+               <lu>
+                 <lit v="by"/>
+                 <lit-tag v="cnjsub"/>
+               </lu>
+            </chunk>
+           </out>
+         </when>
+         <otherwise>
+        <out>
+          <chunk name="byccni" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+               <tag><clip pos="1" side="sl" part="tns"/></tag>
+               <tag><clip pos="1" side="sl" part="prs"/></tag>
+               <tag><clip pos="1" side="tl" part="gen"/></tag>
+               <tag><clip pos="1" side="tl" part="nbr"/></tag>
+             </tags>
+             <lu>
+               <clip pos="1" side="tl" part="lem"/>
+               <clip pos="1" side="tl" part="a_vrb"/>
+                <lit-tag v="past"/>
+               <clip pos="1" side="tl" part="gen"/>
+               <clip pos="1" side="tl" part="nbr"/>
+             </lu>
+             <b/>
+             <mlu>
+               <lu>
+                 <lit v="by"/>
+                 <lit-tag v="cnjsub"/>
+               </lu>
+               <lu>
+                 <lit v="být"/>
+                 <lit-tag v="vbser"/>
+                 <lit-tag v="pres"/>
+                 <clip pos="1" side="sl" part="prs" link-to="3"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+               </lu>
+             </mlu>
            </chunk>
          </out>
        </otherwise>
@@ -1055,7 +1141,7 @@
              <when>
                <test>
                  <equal>
-                   <clip pos="1" side="tl" part="prs"/>
+                   <clip pos="1" side="sl" part="prs"/>
                    <lit-tag v="p3"/>
                  </equal>
                </test>
