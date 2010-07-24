@@ -20878,6 +20878,7 @@
 	</pardef>
 	<pardef n="BASE__udrž"> <!-- fmorph i1 --> 
       <e><p>          <l></l><r><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e r="RL"><p>   <l></l><r><s n="imp"/><s n="emph"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p>          <l>me</l><r><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p>   		  <l>mež</l><r><s n="imp"/><s n="emph"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p>          <l>te</l><r><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
@@ -20947,7 +20948,7 @@
 
       <e><p>          <l>byl</l><r>být<s n="vbser"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>jsouc</l><r>být<s n="vbser"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
-      <e><p>          <l>buď</l><r>et<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
+      <e><p>          <l>buď</l><r>být<s n="vbser"/></r></p><par n="BASE__udrž"/></e>
 
       <e><p>          <l>jsa</l><r>být<s n="vbser"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
       <e><p>          <l>jsa</l><r>být<s n="vbser"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>

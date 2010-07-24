@@ -1118,6 +1118,64 @@
      </action>
   </rule>
 
+  <rule comment="bądź -> buď">
+     <pattern>
+       <pattern-item n="bycimp"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="a_imp"/>
+               <lit-tag v="imp.emph"/>
+             </equal>
+           </test>
+           <out>
+             <chunk name="bycimp" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="sl" part="tns"/></tag>
+                  <tag><clip pos="1" side="sl" part="prs"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_vrb"/>
+                  <clip pos="1" side="sl" part="tns" link-to="2"/>
+                  <lit-tag v="emph"/>
+                  <clip pos="1" side="sl" part="prs" link-to="3"/>
+                  <clip pos="1" side="tl" part="nbr" link-to="4"/>
+               </lu>
+             </chunk>
+  		   </out>
+		 </when>
+		 <otherwise>
+           <out>
+             <chunk name="bycimp" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="sl" part="tns"/></tag>
+                  <tag><clip pos="1" side="sl" part="prs"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_vrb"/>
+                  <clip pos="1" side="sl" part="tns" link-to="2"/>
+                  <clip pos="1" side="tl" part="prs" link-to="3"/>
+                  <clip pos="1" side="tl" part="nbr" link-to="4"/>
+               </lu>
+             </chunk>
+  		  </out>
+	      </otherwise>
+       </choose>
+     </action>
+  </rule>
+
   <rule>
      <pattern>
        <pattern-item n="vblex"/>
