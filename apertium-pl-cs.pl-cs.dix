@@ -84,6 +84,7 @@
     <sdef n="cni" /> 
     <sdef n="pprs" /> 
     <sdef n="imp" /> 
+    <sdef n="fti" /> 
   </sdefs>
   <pardefs>
     <pardef n="sg_sgpl">
