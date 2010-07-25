@@ -14867,10 +14867,9 @@
       <e>
         <p>
           <l>będąc</l>
-          <r>być<s n="vbser"/><s n="adv"/></r>
+          <r>być<s n="vbser"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
-
       <e>
         <p>
           <l>będąc</l>
@@ -15130,6 +15129,12 @@
           <r>ieć<s n="vbhaver"/><s n="imperf"/></r>
         </p>
         <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>ając</l>
+          <r>ieć<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
       </e>
 
       <e>
@@ -21818,6 +21823,39 @@
       <e><p><l>nami</l><r>na<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>nach</l><r>na<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>ny</l><r>na<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="rz/ąd__n">
+	  <!-- first meaning: row -->
+      <e><p><l>ąd</l><r>ąd<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ędu</l><r>ąd<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ędowi</l><r>ąd<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>ąd</l><r>ąd<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ędem</l><r>ąd<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p><l>ędzie</l><r>ąd<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>ędzie</l><r>ąd<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ędy</l><r>ąd<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ędów</l><r>ąd<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ędom</l><r>ąd<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>ędy</l><r>ąd<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ędami</l><r>ąd<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>ędach</l><r>ąd<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p><l>ędy</l><r>ąd<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
+
+	  <!-- second meaning government --> 
+      <e r="RL"><p><l>ąd</l><r>ąd2<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ądu</l><r>ąd2<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ądowi</l><r>ąd2<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e r="RL"><p><l>ąd</l><r>ąd2<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ądem</l><r>ąd2<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p><l>ądzie</l><r>ąd2<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>ądzie</l><r>ąd2<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ądy</l><r>ąd2<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ądów</l><r>ąd2<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ądom</l><r>ąd2<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>ądy</l><r>ąd2<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ądami</l><r>ąd2<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>ądach</l><r>ąd2<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p><l>ądy</l><r>ąd2<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
     <pardef n="/raz__n">
       <e><p><l>raz</l><r>raz<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -39624,6 +39662,7 @@
     <e lm="a tym bardziej"><i>a<b/>tym<b/>bardziej</i><par n="jeśli__cnjadv"/></e>
     <e lm="nawet jeśli"><i>nawet<b/>jeśli</i><par n="jeśli__cnjadv"/></e>
     <e lm="nawet jeżeli"><i>nawet<b/>jeżeli</i><par n="jeśli__cnjadv"/></e>
+    <e lm="w ramach"><i>w<b/>ramach</i><par n="jeśli__cnjadv"/></e>
 
 	<!-- Pronouns -->
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
@@ -39794,6 +39833,9 @@
 
     <!-- Adjectives -->
     <!-- Synthetic adjectives -->
+    <e lm="wolny"><i>woln</i><par n="now/y__adj"/></e>
+    <e lm="wolny"><p><l>wolniej</l><r>wolny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="wolny"><p><l>najwolniej</l><r>wolny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="mocny"><i>mocn</i><par n="now/y__adj"/></e>
     <e lm="mocny"><p><l>mocniej</l><r>mocny</r></p><par n="lep/szy__adj"/></e>
     <e lm="mocny"><p><l>najmocniej</l><r>mocny</r></p><par n="najlep/szy__adj"/></e>
@@ -40147,13 +40189,13 @@
     <e lm="ciemny"><p><l>ciemniej</l><r>ciemny</r></p><par n="lep/szy__adj"/></e>
     <e lm="ciemny"><p><l>najciemniej</l><r>ciemny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="dokładny"><i>dokładn</i><par n="now/y__adj"/></e>
-    <e lm="dokładny"><p><l>dokładn</l><r>dokładny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="dokładny"><p><l>dokładniej</l><r>dokładny</r></p><par n="lep/szy__adj"/></e>
     <e lm="dokładny"><p><l>najdokładniej</l><r>dokładny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="bezpieczny"><i>bezpieczn</i><par n="now/y__adj"/></e>
-    <e lm="bezpieczny"><p><l>bezpieczn</l><r>bezpieczny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="bezpieczny"><p><l>bezpieczniej</l><r>bezpieczny</r></p><par n="lep/szy__adj"/></e>
     <e lm="bezpieczny"><p><l>najbezpieczniej</l><r>bezpieczny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="brudny"><i>brudn</i><par n="now/y__adj"/></e>
-    <e lm="brudny"><p><l>brudn</l><r>brudny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="brudny"><p><l>brudniej</l><r>brudny</r></p><par n="lep/szy__adj"/></e>
     <e lm="brudny"><p><l>najbrudniej</l><r>brudny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="sprytny"><i>sprytn</i><par n="now/y__adj"/></e>
     <e lm="sprytny"><p><l>sprytniej</l><r>sprytny</r></p><par n="lep/szy__adj"/></e>
@@ -40776,6 +40818,9 @@
     <e lm="łamliwy"><i>łamliw</i><par n="now/y__adj"/></e>
     <e lm="łamliwy"><p><l>najłamliw</l><r>łamliwy</r></p><par n="najlep/szy__adj"/></e>
     <e lm="łamliwy"><p><l>łamliw</l><r>łamliwy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="rozważny"><i>rozważn</i><par n="now/y__adj"/></e>
+    <e lm="rozważny"><p><l>rozważniej</l><r>rozważny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="rozważny"><p><l>najrozważniej</l><r>rozważny</r></p><par n="najlep/szy__adj"/></e>
 
     <!-- Non-synthetic adjectives -->
     <!-- non-synthetic, with obsolete comparatives -->
@@ -40969,6 +41014,9 @@
     <e lm="niepodległy"><i>niepodleg</i><par n="ca/ły__adj"/></e>
     <e lm="dorosły"><i>doro</i><par n="doro/sły__adj"/></e>
     <e lm="wzniosły"><i>wznio</i><par n="doro/sły__adj"/></e>
+    <e lm="przygraniczny"><i>przygraniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zewnętrzny"><i>zewnętrzn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="policyjny"><i>policyjn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="indywidualny"><i>indywidualn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="tajny"><i>tajn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="rasowy"><i>rasow</i><par n="egzotermiczn/y__adj"/></e>
@@ -41009,6 +41057,7 @@
     <e lm="dostępny"><i>dostępn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="jednakowy"><i>jednakow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="krajowy"><i>krajow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wewnętrzny"><i>wewnętrzn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="międzynarodowy"><i>międzynarodow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="narodowy"><i>narodow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="naukowy"><i>naukow</i><par n="egzotermiczn/y__adj"/></e>
@@ -43435,6 +43484,8 @@
     <e lm="kazać" r="LR"><i>ka</i><par n="ka/zać__vblex_perf"/></e>
 
     <!-- Nouns -->
+    <e lm="porozumienie"><i>porozumie</i><par n="trzęsie/nie__n"/></e>
+    <e lm="rząd"><i>rz</i><par n="rz/ąd__n"/></e>
     <e lm="obręb"><i>obręb</i><par n="sklep__n"/></e>
     <e lm="igrzysko"><i>igrzysk</i><par n="wojsk/o__n"/></e>
     <e lm="publikacja"><i>publikac</i><par n="dysertac/ja__n"/></e>

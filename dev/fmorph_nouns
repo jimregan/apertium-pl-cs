@@ -13590,3 +13590,102 @@
     <e lm="synagóga"><i>synagó</i><par n="li/ga__n"/></e>
     <e lm="sága"><i>sá</i><par n="li/ga__n"/></e>
     <e lm="tajga"><i>taj</i><par n="li/ga__n"/></e>
+    <e lm="Abcházie"><i>Abcházi</i><par n="Belgi/e__np"/></e>
+    <e lm="Abcházie" r="LR"><p><l>Abchazi</l><r>Abcházi</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Albánie"><i>Albáni</i><par n="Belgi/e__np"/></e>
+    <e lm="Albánie" r="LR"><p><l>Albani</l><r>Albáni</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Alexandrie"><i>Alexandri</i><par n="Belgi/e__np"/></e>
+    <e lm="Andalusie"><i>Andalusi</i><par n="Belgi/e__np"/></e>
+    <e lm="Anglie"><i>Angli</i><par n="Belgi/e__np"/></e>
+    <e lm="Aprilia"><i>Aprili</i><par n="Belgi/e__np"/></e>
+    <e lm="Arábie"><i>Arábi</i><par n="Belgi/e__np"/></e>
+    <e lm="Arábie" r="LR"><p><l>Arabi</l><r>Arábi</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Arménie"><i>Arméni</i><par n="Belgi/e__np"/></e>
+    <e lm="Asie"><i>Asi</i><par n="Belgi/e__np"/></e>
+    <e lm="Austrálie"><i>Austráli</i><par n="Belgi/e__np"/></e>
+    <e lm="Austrálie" r="LR"><p><l>Australi</l><r>Austráli</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Bastia"><i>Basti</i><par n="Belgi/e__np"/></e>
+    <e lm="Belgie"><i>Belgi</i><par n="Belgi/e__np"/></e>
+    <e lm="Bolívie"><i>Bolívi</i><par n="Belgi/e__np"/></e>
+    <e lm="Bolívie" r="LR"><p><l>Bolivi</l><r>Bolívi</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Brazílie"><i>Brazíli</i><par n="Belgi/e__np"/></e>
+    <e lm="Brazílie" r="LR"><p><l>Brasili</l><r>Brazíli</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Brazílie" r="LR"><p><l>Brazili</l><r>Brazíli</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Brescia"><i>Bresci</i><par n="Belgi/e__np"/></e>
+    <e lm="Británie"><i>Británi</i><par n="Belgi/e__np"/></e>
+    <e lm="Británie" r="LR"><p><l>Britani</l><r>Británi</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Chuchle"><i>Chuchl</i><par n="Belgi/e__np"/></e>
+    <e lm="Dalmácie"><i>Dalmáci</i><par n="Belgi/e__np"/></e>
+    <e lm="Davle"><i>Davl</i><par n="Belgi/e__np"/></e>
+    <e lm="Diakonie"><i>Diakoni</i><par n="Belgi/e__np"/></e>
+    <e lm="Doubravice"><i>Doubravic</i><par n="Belgi/e__np"/></e>
+    <e lm="Dyje"><i>Dyj</i><par n="Belgi/e__np"/></e>
+    <e lm="Etiopie"><i>Etiopi</i><par n="Belgi/e__np"/></e>
+    <e lm="Florencie"><i>Florenci</i><par n="Belgi/e__np"/></e>
+    <e lm="Foggia"><i>Foggi</i><par n="Belgi/e__np"/></e>
+    <e lm="Francie"><i>Franci</i><par n="Belgi/e__np"/></e>
+    <e lm="Galie"><i>Gali</i><par n="Belgi/e__np"/></e>
+    <e lm="Gruzie"><i>Gruzi</i><par n="Belgi/e__np"/></e>
+    <e lm="Indie"><i>Indi</i><par n="Belgi/e__np"/></e>
+    <e lm="Indonésie"><i>Indonési</i><par n="Belgi/e__np"/></e>
+    <e lm="Jugoslávie"><i>Jugoslávi</i><par n="Belgi/e__np"/></e>
+    <e lm="Jugoslávie" r="LR"><p><l>Jugoslavi</l><r>Jugoslávi</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Kalábrie"><i>Kalábri</i><par n="Belgi/e__np"/></e>
+    <e lm="Kalábrie" r="LR"><p><l>Kalabri</l><r>Kalábri</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Kalifornie"><i>Kaliforni</i><par n="Belgi/e__np"/></e>
+    <e lm="Kalvárie"><i>Kalvári</i><par n="Belgi/e__np"/></e>
+    <e lm="Kalvárie" r="LR"><p><l>Kalvari</l><r>Kalvári</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Keňa"><i>Keni</i><par n="Belgi/e__np"/></e>
+    <e lm="Keňa" r="LR"><p><l>Keny</l><r>Keni</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Kolumbie"><i>Kolumbi</i><par n="Belgi/e__np"/></e>
+    <e lm="Kolumbie" r="LR"><p><l>Columbi</l><r>Kolumbi</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Kopřivnice"><i>Kopřivnic</i><par n="Belgi/e__np"/></e>
+    <e lm="Křemže"><i>Křemž</i><par n="Belgi/e__np"/></e>
+    <e lm="Libérie"><i>Libéri</i><par n="Belgi/e__np"/></e>
+    <e lm="Libérie" r="LR"><p><l>Liberi</l><r>Libéri</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Libye"><i>Liby</i><par n="Belgi/e__np"/></e>
+    <e lm="Libye" r="LR"><p><l>Lybi</l><r>Liby</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Makedonie"><i>Makedoni</i><par n="Belgi/e__np"/></e>
+    <e lm="Makedonie" r="LR"><p><l>Macedoni</l><r>Makedoni</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Malajsie"><i>Malajsi</i><par n="Belgi/e__np"/></e>
+    <e lm="Malajsie" r="LR"><p><l>Malaysi</l><r>Malajsi</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Malše"><i>Malš</i><par n="Belgi/e__np"/></e>
+    <e lm="Metuje"><i>Metuj</i><par n="Belgi/e__np"/></e>
+    <e lm="Michle"><i>Michl</i><par n="Belgi/e__np"/></e>
+    <e lm="Moldávie"><i>Moldávi</i><par n="Belgi/e__np"/></e>
+    <e lm="Namibie"><i>Namibi</i><par n="Belgi/e__np"/></e>
+    <e lm="Nigérie"><i>Nigéri</i><par n="Belgi/e__np"/></e>
+    <e lm="Nigérie" r="LR"><p><l>Nigeri</l><r>Nigéri</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Nikósie"><i>Nikósi</i><par n="Belgi/e__np"/></e>
+    <e lm="Nikósie" r="LR"><p><l>Nikosi</l><r>Nikósi</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Normandie"><i>Normandi</i><par n="Belgi/e__np"/></e>
+    <e lm="Núbie"><i>Núbi</i><par n="Belgi/e__np"/></e>
+    <e lm="Oceánie"><i>Oceáni</i><par n="Belgi/e__np"/></e>
+    <e lm="Oceánie" r="LR"><p><l>Oceani</l><r>Oceáni</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Ohře"><i>Ohř</i><par n="Belgi/e__np"/></e>
+    <e lm="Olympie"><i>Olympi</i><par n="Belgi/e__np"/></e>
+    <e lm="Osetie"><i>Oseti</i><par n="Belgi/e__np"/></e>
+    <e lm="Pensylvánie"><i>Pensylváni</i><par n="Belgi/e__np"/></e>
+    <e lm="Persie"><i>Persi</i><par n="Belgi/e__np"/></e>
+    <e lm="Perugia"><i>Perugi</i><par n="Belgi/e__np"/></e>
+    <e lm="Philadelphia"><i>Philadelphi</i><par n="Belgi/e__np"/></e>
+    <e lm="Polynésie"><i>Polynési</i><par n="Belgi/e__np"/></e>
+    <e lm="Pretorie"><i>Pretori</i><par n="Belgi/e__np"/></e>
+    <e lm="Prievidze"><i>Prievidz</i><par n="Belgi/e__np"/></e>
+    <e lm="Sardinie"><i>Sardini</i><par n="Belgi/e__np"/></e>
+    <e lm="Sicílie"><i>Sicíli</i><par n="Belgi/e__np"/></e>
+    <e lm="Sicílie" r="LR"><p><l>Sicili</l><r>Sicíli</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Sidonie"><i>Sidoni</i><par n="Belgi/e__np"/></e>
+    <e lm="Skandinávie"><i>Skandinávi</i><par n="Belgi/e__np"/></e>
+    <e lm="Skopje"><i>Skopj</i><par n="Belgi/e__np"/></e>
+    <e lm="Slavonie"><i>Slavoni</i><par n="Belgi/e__np"/></e>
+    <e lm="Sofie-1"><i>Sofi</i><par n="Belgi/e__np"/></e>
+    <e lm="Sýrie"><i>Sýri</i><par n="Belgi/e__np"/></e>
+    <e lm="Sýrie" r="LR"><p><l>Syri</l><r>Sýri</r></p><par n="Belgi/e__np"/></e>
+    <e lm="Tanzanie"><i>Tanzani</i><par n="Belgi/e__np"/></e>
+    <e lm="Tasmánie"><i>Tasmáni</i><par n="Belgi/e__np"/></e>
+    <e lm="Temže"><i>Temž</i><par n="Belgi/e__np"/></e>
+    <e lm="Thálie"><i>Tháli</i><par n="Belgi/e__np"/></e>
+    <e lm="Valencie"><i>Valenci</i><par n="Belgi/e__np"/></e>
+    <e lm="Virginie"><i>Virgini</i><par n="Belgi/e__np"/></e>
+    <e lm="Zambie"><i>Zambi</i><par n="Belgi/e__np"/></e>

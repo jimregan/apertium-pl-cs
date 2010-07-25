@@ -129,9 +129,14 @@
   </def-attr>
   <def-attr n="a_part">
      <attr-item tags="pprs"/>
-     <attr-item tags="pp"/>
      <attr-item tags="pprs.adj"/>
+     <attr-item tags="pprs.adv"/>
+     <attr-item tags="pp"/>
      <attr-item tags="pp.adj"/>
+     <attr-item tags="pp.adv"/>
+     <attr-item tags="tgv"/>
+     <attr-item tags="tgv.pprs"/>
+     <attr-item tags="tgv.pp"/>
   </def-attr>
 
   <def-attr n="a_vrb">
@@ -175,6 +180,8 @@
      <attr-item tags="f"/>
      <attr-item tags="nt"/>
      <attr-item tags="mf"/>
+     <attr-item tags="nm"/>
+     <attr-item tags="GD"/>
   </def-attr>
 
   <def-attr n="prs">
@@ -187,6 +194,7 @@
      <attr-item tags="sg"/>
      <attr-item tags="pl"/>
      <attr-item tags="sp"/>
+     <attr-item tags="ND"/>
   </def-attr>
 
   <def-attr n="cas">
@@ -421,7 +429,37 @@
           </when>
         </choose>
     </def-macro>
+    <def-macro n="elimina_nm" npar="1">
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="gen"/>
+                <lit-tag v="nm"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="gen"/>
+              <lit-tag v="f"/>
+            </let>
+          </when>
+        </choose>
+    </def-macro>
     <def-macro n="canvi_part" npar="1">
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="a_part"/>
+                <lit-tag v="pp.adv"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="a_part"/>
+              <lit-tag v="tgv.pp"/>
+            </let>
+          </when>
+        </choose>
         <choose>
           <when>
             <test>
@@ -433,6 +471,20 @@
             <let>
               <clip pos="1" side="tl" part="a_part"/>
               <lit-tag v="pp.adj"/>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="a_part"/>
+                <lit-tag v="pprs.adv"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="a_part"/>
+              <lit-tag v="tgv.pprs"/>
             </let>
           </when>
         </choose>
@@ -767,28 +819,66 @@
        <call-macro n="canvi_part">
          <with-param pos="1"/>
        </call-macro>
-       <out>
-         <chunk name="part" case="caseFirstWord">
-           <tags>
-             <tag><lit-tag v="SA"/></tag>
-             <tag><clip pos="1" side="tl" part="asp"/></tag>
-             <tag><clip pos="1" side="tl" part="a_part"/></tag>
-             <tag><clip pos="1" side="tl" part="gen"/></tag>
-             <tag><clip pos="1" side="tl" part="nbr"/></tag>
-             <tag><clip pos="1" side="tl" part="cas"/></tag>
-           </tags>
-           <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_vrb"/>
-              <clip pos="1" side="tl" part="asp" link-to="2"/>
-              <clip pos="1" side="tl" part="a_part"/>
-              <clip pos="1" side="tl" part="gen" link-to="5"/>
-              <clip pos="1" side="tl" part="nbr" link-to="6"/>
-              <clip pos="1" side="tl" part="cas" link-to="7"/>
-              <clip pos="1" side="tl" part="lemq"/>
-           </lu>
-         </chunk>
-       </out>
+       <choose>
+         <when>
+           <test>
+			   <or>
+               <equal>
+                 <clip pos="1" side="tl" part="a_part"/>
+                 <lit-tag v="tgv.pprs"/>
+               </equal>
+               <equal>
+                 <clip pos="1" side="tl" part="a_part"/>
+                 <lit-tag v="tgv.pp"/>
+               </equal>
+			   </or>
+           </test>
+		   <out>
+             <chunk name="part" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SA"/></tag>
+                 <tag><clip pos="1" side="tl" part="asp"/></tag>
+                 <tag><clip pos="1" side="tl" part="a_part"/></tag>
+                 <tag><lit-tag v="GD"/></tag>
+                 <tag><lit-tag v="ND"/></tag>
+               </tags>
+               <lu>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_vrb"/>
+                  <clip pos="1" side="tl" part="asp" link-to="2"/>
+                  <clip pos="1" side="tl" part="a_part"/>
+                  <clip pos="1" side="tl" part="gen" link-to="5"/>
+                  <clip pos="1" side="tl" part="nbr" link-to="6"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+		   </out>
+		 </when>
+		 <otherwise>		
+           <out>
+             <chunk name="part" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SA"/></tag>
+                 <tag><clip pos="1" side="tl" part="asp"/></tag>
+                 <tag><clip pos="1" side="tl" part="a_part"/></tag>
+                 <tag><clip pos="1" side="tl" part="gen"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                 <tag><clip pos="1" side="tl" part="cas"/></tag>
+               </tags>
+               <lu>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_vrb"/>
+                  <clip pos="1" side="tl" part="asp" link-to="2"/>
+                  <clip pos="1" side="tl" part="a_part"/>
+                  <clip pos="1" side="tl" part="gen" link-to="5"/>
+                  <clip pos="1" side="tl" part="nbr" link-to="6"/>
+                  <clip pos="1" side="tl" part="cas" link-to="7"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+		 </otherwise>
+	   </choose>
      </action>
   </rule>
 
@@ -979,6 +1069,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="elimina_nm">
+         <with-param pos="1"/>
+       </call-macro>
        <choose>
          <when>
            <test>
@@ -1046,6 +1139,9 @@
      </pattern>
      <action>
        <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_nm">
          <with-param pos="1"/>
        </call-macro>
        <choose>
@@ -1185,6 +1281,12 @@
          <with-param pos="1"/>
        </call-macro>
        <call-macro n="canvi_imp">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_nm">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_mp">
          <with-param pos="1"/>
        </call-macro>
        <choose>
@@ -1335,7 +1437,7 @@
              </equal>
            </test>
 		   <out>
-             <chunk name="ger" case="caseFirstWord">
+             <chunk name="nom_ger" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
                   <tag><clip pos="1" side="tl" part="tns"/></tag>

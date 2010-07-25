@@ -1941,6 +1941,22 @@
       <e>       <p>          <l>omech</l><r>ům<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
       <e>       <p>          <l>omy</l><r>ům<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
+    <pardef n="spolupr/áce__n">
+      <e>       <p>          <l>áce</l><r>áce<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>áce</l><r>áce<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>áci</l><r>áce<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>áci</l><r>áce<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>áci</l><r>áce<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>áci</l><r>áce<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>áce</l><r>áce<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>áce</l><r>áce<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ací</l><r>áce<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>acím</l><r>áce<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>áce</l><r>áce<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>acemi</l><r>áce<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>acích</l><r>áce<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>áce</l><r>áce<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
     <pardef n="li/ga__n">
       <e>       <p>          <l>ga</l><r>ga<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e>       <p>          <l>gy</l><r>ga<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -4777,90 +4793,108 @@
         </p>
       </e>
     </pardef>
-    <pardef n="alergi/e__n">
+    <pardef n="BASE__alergie">
       <e>
         <p>
           <l>e</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>í</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ím</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>e</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>i</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ích</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>í</l>
-          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>emi</l>
-          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="alergi/e__n">
+      <e>
+        <p>
+          <l></l>
+          <r>e<s n="n"/></r>
+        </p>
+        <par n="BASE__alergie"/>
+      </e>
+    </pardef>
+    <pardef n="Belgi/e__np">
+      <e>
+        <p>
+          <l></l>
+          <r>e<s n="np"/><s n="top"/></r>
+        </p>
+        <par n="BASE__alergie"/>
       </e>
     </pardef>
     <pardef n="nác/ek__n">
@@ -21110,7 +21144,7 @@
       <e><p>          <l>tíc</l><r>íst<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
       <e><p>          <l>těn</l><r>íst<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
     </pardef>
-    <pardef n="udrž/et__vblex">
+    <pardef n="udrž/et__vblex"> <!-- to correct -->
       <e><p>          <l>et</l><r>et<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
       <e><p>          <l></l><r>et<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udržím"/></e>
       <e><p>          <l>e</l><r>et<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udržen"/></e>
@@ -23294,6 +23328,7 @@
     <e lm="kdyby"><i>kdyby</i><par n="aby__cnjsub"/></e>
     <e lm="dokud"><i>dokud</i><par n="aby__cnjsub"/></e>
 
+    <e lm="v rámci"><i>v<b/>rámci</i><par n="jestli__cnjadv"/></e>
     <e lm="nemluvě"><i>nemluvě</i><par n="jestli__cnjadv"/></e>
     <e lm="pakliže"><i>pakliže</i><par n="jestli__cnjadv"/></e>
     <e lm="takže"><i>takže</i><par n="jestli__cnjadv"/></e>
@@ -23828,8 +23863,10 @@
     <e lm="zimní"><i>zimn</i><par n="dalš/í__adj"/></e>
     <e lm="zítřejší"><i>zítřejš</i><par n="dalš/í__adj"/></e>
     <e lm="zvětšovací"><i>zvětšovac</i><par n="dalš/í__adj"/></e>
+    <e lm="vnější"><i>vnějš</i><par n="dalš/í__adj"/></e>
 
 	<!-- Synthetic adjectives -->
+    <e lm="důkladný"><par n="nej__adv"/><i>důkladn</i><par n="nov/ý__adj"/></e>
     <e lm="originální"><par n="nej__adv"/><i>origináln</i><par n="finančn/í__adj"/></e>
     <e lm="arogantní"><par n="nej__adv"/><i>arogantn</i><par n="finančn/í__adj"/></e>
     <e lm="atlantský"><par n="nej__adv"/><i>atlant</i><par n="če/ský__adj"/></e>
@@ -25039,6 +25076,7 @@
     <e lm="vulkanický"><par n="nej__adv"/><i>vulkani</i><par n="exotermi/cký__adj"/></e>
     <e lm="zoologický"><par n="nej__adv"/><i>zoologi</i><par n="exotermi/cký__adj"/></e>
     <e lm="abstraktní"><par n="nej__adv"/><i>abstraktn</i><par n="finančn/í__adj"/></e>
+    <e lm="přeshraniční"><par n="nej__adv"/><i>přeshraničn</i><par n="finančn/í__adj"/></e>
     <e lm="absurdní"><par n="nej__adv"/><i>absurdn</i><par n="finančn/í__adj"/></e>
     <e lm="adaptivní"><par n="nej__adv"/><i>adaptivn</i><par n="finančn/í__adj"/></e>
     <e lm="akviziční"><par n="nej__adv"/><i>akvizičn</i><par n="finančn/í__adj"/></e>
@@ -26523,7 +26561,6 @@
     <e lm="nedávno"><i>nedávno</i><par n="tehdy__adv"/></e>
     <e lm="přesně"><i>přesně</i><par n="tehdy__adv"/></e>
     <e lm="šťastně"><i>šťastně</i><par n="tehdy__adv"/></e>
-    <e lm="sladký"><i>sladký</i><par n="tehdy__adv"/></e>
     <e lm="toliko"><i>toliko</i><par n="tehdy__adv"/></e>
     <e lm="vzhůru nohama"><i>vzhůru<b/>nohama</i><par n="tehdy__adv"/></e>
     <e lm="zároveň"><i>zároveň</i><par n="tehdy__adv"/></e>
@@ -26595,6 +26632,9 @@
     <e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
 
     <!-- Nouns -->
+    <e lm="spolupráce"><i>spolupr</i><par n="spolupr/áce__n"/></e>
+    <e lm="obtíž"><i>obtíž</i><par n="mříž__n"/></e>
+    <e lm="rámec"><i>rám</i><par n="vál/ec__n"/></e>
     <e lm="publikace"><i>publikac</i><par n="alergi/e__n"/></e>
     <e lm="okolek"><i>okol</i><par n="zin/ek__n"/></e>
     <e lm="fara"><i>fa</i><par n="sí/ra__n"/></e>
@@ -33761,6 +33801,8 @@
     <e lm="krýt"><par n="v_neg"/><i>kr</i><par n="kr/ýt__vblex"/></e>
 
     <!-- Proper nouns -->
+    <e lm="Francie"><i>Franci</i><par n="Belgi/e__np"/></e>
+    <e lm="Belgie"><i>Belgi</i><par n="Belgi/e__np"/></e>
     <e lm="Kosovo"><i>Kosov</i><par n="Kosov/o__np"/></e>
     <e lm="Petr"><i>Pet</i><par n="Pet/r__np"/></e>
     <e lm="Connor"><i>Conno</i><par n="Pet/r__np"/></e>
