@@ -21041,6 +21041,56 @@
       <e><p><l></l><r><s n="vaux"/></r></p></e>
     </pardef>
 	<!-- Verbs -->
+    <pardef n="/jít__vblex">
+      <e><p>          <l>jít</l><r>jít<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+
+      <e><p>          <l>jdu</l><r>jít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jdeš</l><r>jít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jde</l><r>jít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jdeme</l><r>jít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>jdete</l><r>jít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>jdou</l><r>jít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>půjdu</l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>půjdeš</l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>půjde</l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>půjdeme</l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>půjdete</l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>půjdou</l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>šel</l><r>jít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>šla</l><r>jít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>šlo</l><r>jít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>šli</l><r>jít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="ma"/><s n="pl"/></r></p></e>
+      <e><p>          <l>šly</l><r>jít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="mi"/><s n="pl"/></r></p></e>
+      <e r="RL"><p>   <l>šly</l><r>jít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>šly</l><r>jít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>šla</l><r>jít<s n="vblex"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>jdi</l><r>jít<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jdiž</l><r>jít<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jděme</l><r>jít<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>jděmež</l><r>jít<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="emph"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>jděte</l><r>jít<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>jdětež</l><r>jít<s n="vblex"/><s n="imperf"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>pojď</l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e c="FIXME"><p>          <l></l>pojďiž<r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>pojďme</l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>pojďmež</l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="emph"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>pojďte</l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>pojďtež</l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>jda</l><r>jít<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jda</l><r>jít<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jdouc</l><r>jít<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jdouc</l><r>jít<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>jdouce</l><r>jít<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>jdouce</l><r>jít<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>jdouce</l><r>jít<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>jdouc</l><r>jít<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
+    </pardef>
     <pardef n="č/íst__vblex">
       <e><p>          <l>íst</l><r>íst<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
       <e><p>          <l>t</l><r>íst<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__čtu"/></e>
@@ -33561,6 +33611,7 @@
     <e lm="triumfovat"><par n="v_neg"/><i>triumf</i><par n="mil/ovat__vblex"/></e>
     <e lm="umožňovat"><par n="v_neg"/><i>umožň</i><par n="mil/ovat__vblex"/></e>
     <e lm="spekulovat"><par n="v_neg"/><i>špekul</i><par n="mil/ovat__vblex"/></e>
+    <e lm="jít"><par n="v_neg"/><i></i><par n="/jít__vblex"/></e>
     <e lm="číst"><par n="v_neg"/><i>č</i><par n="č/íst__vblex"/></e>
     <e lm="přečíst"><par n="v_neg"/><i>přeč</i><par n="přeč/íst__vblex"/></e>
     <e lm="vědět"><par n="v_neg"/><i>v</i><par n="v/ědět__vblex"/></e>
