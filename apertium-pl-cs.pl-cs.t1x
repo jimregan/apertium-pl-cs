@@ -899,6 +899,9 @@
        <call-macro n="elimina_mp">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="elimina_nm">
+         <with-param pos="1"/>
+       </call-macro>
        <call-macro n="degreeadj">
          <with-param pos="1"/>
        </call-macro>

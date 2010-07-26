@@ -21841,7 +21841,7 @@
       <e><p><l>ędach</l><r>ąd<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>ędy</l><r>ąd<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
 
-	  <!-- second meaning government --> 
+	  <!-- second meaning: government --> 
       <e r="RL"><p><l>ąd</l><r>ąd2<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ądu</l><r>ąd2<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ądowi</l><r>ąd2<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
@@ -33714,6 +33714,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="sprawc/a__n">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>a<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>om</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ów</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ami</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ach</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>a<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="sł/ój__n">
       <e>
         <p>
@@ -43484,6 +43570,7 @@
     <e lm="kazać" r="LR"><i>ka</i><par n="ka/zać__vblex_perf"/></e>
 
     <!-- Nouns -->
+    <e lm="sprawca"><i>sprawc</i><par n="sprawc/a__n"/></e>
     <e lm="porozumienie"><i>porozumie</i><par n="trzęsie/nie__n"/></e>
     <e lm="rząd"><i>rz</i><par n="rz/ąd__n"/></e>
     <e lm="obręb"><i>obręb</i><par n="sklep__n"/></e>
@@ -51883,6 +51970,7 @@
     <e lm="Uhersko"><i>Uhersk</i><par n="Broumovsk/o__np"/></e>
     <e lm="Mokrsko"><i>Mokrsk</i><par n="Broumovsk/o__np"/></e>
     <e lm="San Francisco"><i>San<b/>Francisco</i><par n="San_Francisco__np"/></e>
+    <e lm="Schengen"><i>Schengen</i><par n="San_Francisco__np"/></e>
     <e lm="UE"><i>UE</i><par n="UE__np"/></e>
     <e lm="USA"><i>USA</i><par n="UE__np"/></e>
     <e lm="U.S."><i>U.S.</i><par n="UE__np"/></e>

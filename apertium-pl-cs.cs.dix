@@ -3448,6 +3448,14 @@
       <e>       <p><l></l><r><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
       <e>       <p><l>mi</l><r><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
       <e>       <p><l>ch</l><r><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="mi"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="ma"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="ma"/><s n="sg"/><s n="voc"/></r></p></e>
     </pardef>
     <pardef n="čí__det">
       <e>
@@ -26632,6 +26640,7 @@
     <e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
 
     <!-- Nouns -->
+    <e lm="pachatel"><i>pachatel</i><par n="obyvatel__n"/></e>
     <e lm="spolupráce"><i>spolupr</i><par n="spolupr/áce__n"/></e>
     <e lm="obtíž"><i>obtíž</i><par n="mříž__n"/></e>
     <e lm="rámec"><i>rám</i><par n="vál/ec__n"/></e>
@@ -27875,8 +27884,8 @@
     <e lm="materialismus"><i>materialism</i><par n="ile/us__n"/></e>
     <e lm="merkantilismus"><i>merkantilism</i><par n="ile/us__n"/></e>
     <e lm="militarismus"><i>militarism</i><par n="ile/us__n"/></e>
-    <e lm="monoteismus"><i>monoteism</i><par n="ile/us__n"/></e>
     <e lm="monoteizmus"><i>monoteizm</i><par n="ile/us__n"/></e>
+    <e lm="monoteizmus" r="LR"><p><l>monoteism</l><r>monoteizm</r></p><par n="ile/us__n"/></e>
     <e lm="narcismus"><i>narcism</i><par n="ile/us__n"/></e>
     <e lm="ostrakismus"><i>ostrakism</i><par n="ile/us__n"/></e>
     <e lm="patriotismus"><i>patriotism</i><par n="ile/us__n"/></e>

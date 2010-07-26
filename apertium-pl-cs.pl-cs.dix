@@ -2843,7 +2843,6 @@
     <e><p><l>materializm<s n="n"/><s n="mi"/></l><r>materialismus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>merkantylizm<s n="n"/><s n="mi"/></l><r>merkantilismus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>militaryzm<s n="n"/><s n="mi"/></l><r>militarismus<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>monoteizm<s n="n"/><s n="mi"/></l><r>monoteismus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>monoteizm<s n="n"/><s n="mi"/></l><r>monoteizmus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>narcyzm<s n="n"/><s n="mi"/></l><r>narcismus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ostracyzm<s n="n"/><s n="mi"/></l><r>ostrakismus<s n="n"/><s n="mi"/></r></p></e>
@@ -2920,11 +2919,10 @@
     <e><p><l>systematyka<s n="n"/><s n="mp"/></l><r>systematika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>telematyka<s n="n"/><s n="f"/></l><r>telematika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>termodynamika<s n="n"/><s n="f"/></l><r>termodynamika<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>zootechnik<s n="n"/><s n="mp"/></l><r>zootechnika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zootechnika<s n="n"/><s n="f"/></l><r>zootechnika<s n="n"/><s n="f"/></r></p></e>
 	<!-- end: cs gender to be checked -->
-    
 
+    <e><p><l>sprawca<s n="n"/><s n="mp"/></l><r>pachatel<s n="n"/><s n="ma"/></r></p></e> 
     <e><p><l>rama<s n="n"/><s n="f"/></l><r>rámec<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>obręb<s n="n"/><s n="mi"/></l><r>okolek<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>parafia<s n="n"/><s n="f"/></l><r>fara<s n="n"/><s n="f"/></r></p></e>
@@ -3493,7 +3491,7 @@
     <e><p><l>rubel<s n="n"/><s n="mi"/></l><r>rubl<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ryś<s n="n"/><s n="ma"/></l><r>rys<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ryża<s n="n"/><s n="f"/></l><r>rýže<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>władza<s n="n"/><s n="f"/></l><r>vláda<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>władza<s n="n"/><s n="f"/></l><r>vláda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rząd2<s n="n"/><s n="mi"/></l><r>vláda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rząd<s n="n"/><s n="mi"/></l><r>řád<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>rządek<s n="n"/><s n="mi"/></l><r>řádek<s n="n"/><s n="mi"/></r></p></e>
@@ -3765,7 +3763,6 @@
     <e><p><l>medalista<s n="n"/><s n="mp"/></l><r>medailista<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>metropolia<s n="n"/><s n="f"/></l><r>metropol<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mikroskop<s n="n"/><s n="mi"/></l><r>drobnohled<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>moc<s n="n"/><s n="f"/></l><r>příkon<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>moment<s n="n"/><s n="mi"/></l><r>moment<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>moralista<s n="n"/><s n="mp"/></l><r>moralista<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>motocyklista<s n="n"/><s n="mp"/></l><r>motocyklista<s n="n"/><s n="ma"/></r></p></e>
