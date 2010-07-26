@@ -9645,6 +9645,14 @@
         <par n="BASE__vozítko_sg"/>
       </e>
     </pardef>
+    <pardef n="Schengen__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="indecl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="EU__np">
       <e>
         <p>
@@ -26796,6 +26804,7 @@
     <e lm="noha"><i>no</i><par n="no/ha__n"/></e>
     <e lm="vojsko"><i>vojsk</i><par n="vojsk/o__n"/></e>
     <e lm="právo"><i>práv</i><par n="práv/o__n"/></e>
+    <e lm="právo"><i>práv</i><par n="kol/o__n"/></e>
     <e lm="číslo"><i>čís</i><par n="más/lo__n"/></e>
     <e lm="název"><i>náz</i><par n="náz/ev__n"/></e>
     <e lm="heslo"><i>hes</i><par n="más/lo__n"/></e>
@@ -32757,7 +32766,6 @@
     <e lm="perverze"><i>perverz</i><par n="alergi/e__n"/></e>
     <e lm="petit"><i>petit</i><par n="bor__n"/></e>
     <e lm="pivo"><i>piv</i><par n="kol/o__n"/></e>
-    <e lm="právo"><i>práv</i><par n="kol/o__n"/></e>
     <e lm="pizda"><i>pizd</i><par n="dob/a__n"/></e>
     <e lm="piča"><i>pič</i><par n="pič/a__n"/></e>
     <e lm="planeta"><i>planet</i><par n="dob/a__n"/></e>
@@ -34050,6 +34058,7 @@
     <e lm="San Francisko" r="LR"><p><l>San<b/>Francisk</l><r>San<b/>Francisc</r></p><par n="San_Francisc/o__np"/></e>
     <e lm="Hesensko"><i>Hesens</i><par n="Čes/ko__np"/></e>
     <e lm="EU"><i>EU</i><par n="EU__np"/></e>
+    <e lm="Schengen"><i>Schengen</i><par n="Schengen__np"/></e>
     <e lm="USA"><i>USA</i><par n="EU__np"/></e>
     <e lm="U.S."><i>U.S.</i><par n="EU__np"/></e>
     <e lm="Hlinsko" i="yes"><i>Hlins</i><par n="Čes/ko__np"/></e>
