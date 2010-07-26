@@ -20,6 +20,15 @@
      <cat-item tags="vblex.perf.pp"/>
      <cat-item tags="vblex.perf.pp.*"/>
   </def-cat>
+  <def-cat n="adj">
+     <cat-item tags="adj.*"/>
+     <cat-item tags="vblex.imperf.pp.*"/>
+     <cat-item tags="vblex.perf.pp.*"/>
+     <cat-item tags="vbser.pp.*"/>
+<!--
+     <cat-item tags="vblex.imperf.pprs.*"/>
+-->
+  </def-cat>
   <def-cat n="verbpast">
      <cat-item tags="vblex.imperf.past"/>
      <cat-item tags="vblex.imperf.past.*"/>
@@ -56,13 +65,6 @@
   </def-cat>
   <def-cat n="prnpos">
      <cat-item tags="prn.pos.*"/>
-  </def-cat>
-  <def-cat n="adj">
-     <cat-item tags="adj.*"/>
-     <cat-item tags="vblex.imperf.pp.*"/>
-     <cat-item tags="vblex.perf.pp.*"/>
-     <cat-item tags="vbser.pp.*"/>
-     <cat-item tags="vblex.imperf.pprs.*"/>
   </def-cat>
   <def-cat n="nie">
      <cat-item lemma="nie" tags="adv"/>
@@ -736,6 +738,87 @@
        </call-macro>
      </action>
   </rule>
+
+  <rule comment="REGLA: part">
+     <pattern>
+       <pattern-item n="part"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_mp">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="canvi_part">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+			   <or>
+               <equal>
+                 <clip pos="1" side="tl" part="a_part"/>
+                 <lit-tag v="tgv.pprs"/>
+               </equal>
+               <equal>
+                 <clip pos="1" side="tl" part="a_part"/>
+                 <lit-tag v="tgv.pp"/>
+               </equal>
+			   </or>
+           </test>
+		   <out>
+             <chunk name="part" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SA"/></tag>
+                 <tag><clip pos="1" side="tl" part="asp"/></tag>
+                 <tag><clip pos="1" side="tl" part="a_part"/></tag>
+                 <tag><lit-tag v="GD"/></tag>
+                 <tag><lit-tag v="ND"/></tag>
+               </tags>
+               <lu>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_vrb"/>
+                  <clip pos="1" side="tl" part="asp" link-to="2"/>
+                  <clip pos="1" side="tl" part="a_part"/>
+                  <lit-tag v="5.6"/>
+<!--
+                  <clip pos="1" side="tl" part="gen" link-to="5"/>
+                  <clip pos="1" side="tl" part="nbr" link-to="6"/>
+-->
+                  <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+		   </out>
+		 </when>
+		 <otherwise>		
+           <out>
+             <chunk name="part" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SA"/></tag>
+                 <tag><clip pos="1" side="tl" part="asp"/></tag>
+                 <tag><clip pos="1" side="tl" part="a_part"/></tag>
+                 <tag><clip pos="1" side="tl" part="gen"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                 <tag><clip pos="1" side="tl" part="cas"/></tag>
+               </tags>
+               <lu>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_vrb"/>
+                  <clip pos="1" side="tl" part="asp" link-to="2"/>
+                  <clip pos="1" side="tl" part="a_part"/>
+                  <clip pos="1" side="tl" part="gen" link-to="5"/>
+                  <clip pos="1" side="tl" part="nbr" link-to="6"/>
+                  <clip pos="1" side="tl" part="cas" link-to="7"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+		 </otherwise>
+	   </choose>
+     </action>
+  </rule>
+
   <rule comment="REGLA: adj nom">
      <pattern>
        <pattern-item n="adj"/>
@@ -802,83 +885,6 @@
            </lu>
          </chunk>       
        </out>
-     </action>
-  </rule>
-
-  <rule comment="REGLA: part">
-     <pattern>
-       <pattern-item n="part"/>
-     </pattern>
-     <action>
-       <call-macro n="firstWord">
-         <with-param pos="1"/>
-       </call-macro>
-       <call-macro n="elimina_mp">
-         <with-param pos="1"/>
-       </call-macro>
-       <call-macro n="canvi_part">
-         <with-param pos="1"/>
-       </call-macro>
-       <choose>
-         <when>
-           <test>
-			   <or>
-               <equal>
-                 <clip pos="1" side="tl" part="a_part"/>
-                 <lit-tag v="tgv.pprs"/>
-               </equal>
-               <equal>
-                 <clip pos="1" side="tl" part="a_part"/>
-                 <lit-tag v="tgv.pp"/>
-               </equal>
-			   </or>
-           </test>
-		   <out>
-             <chunk name="part" case="caseFirstWord">
-               <tags>
-                 <tag><lit-tag v="SA"/></tag>
-                 <tag><clip pos="1" side="tl" part="asp"/></tag>
-                 <tag><clip pos="1" side="tl" part="a_part"/></tag>
-                 <tag><lit-tag v="GD"/></tag>
-                 <tag><lit-tag v="ND"/></tag>
-               </tags>
-               <lu>
-                  <clip pos="1" side="tl" part="lemh"/>
-                  <clip pos="1" side="tl" part="a_vrb"/>
-                  <clip pos="1" side="tl" part="asp" link-to="2"/>
-                  <clip pos="1" side="tl" part="a_part"/>
-                  <clip pos="1" side="tl" part="gen" link-to="5"/>
-                  <clip pos="1" side="tl" part="nbr" link-to="6"/>
-                  <clip pos="1" side="tl" part="lemq"/>
-               </lu>
-             </chunk>
-		   </out>
-		 </when>
-		 <otherwise>		
-           <out>
-             <chunk name="part" case="caseFirstWord">
-               <tags>
-                 <tag><lit-tag v="SA"/></tag>
-                 <tag><clip pos="1" side="tl" part="asp"/></tag>
-                 <tag><clip pos="1" side="tl" part="a_part"/></tag>
-                 <tag><clip pos="1" side="tl" part="gen"/></tag>
-                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
-                 <tag><clip pos="1" side="tl" part="cas"/></tag>
-               </tags>
-               <lu>
-                  <clip pos="1" side="tl" part="lemh"/>
-                  <clip pos="1" side="tl" part="a_vrb"/>
-                  <clip pos="1" side="tl" part="asp" link-to="2"/>
-                  <clip pos="1" side="tl" part="a_part"/>
-                  <clip pos="1" side="tl" part="gen" link-to="5"/>
-                  <clip pos="1" side="tl" part="nbr" link-to="6"/>
-                  <clip pos="1" side="tl" part="cas" link-to="7"/>
-                  <clip pos="1" side="tl" part="lemq"/>
-               </lu>
-             </chunk>
-           </out>
-		 </otherwise>
-	   </choose>
      </action>
   </rule>
 
