@@ -85,6 +85,7 @@
     <sdef n="pprs" /> 
     <sdef n="imp" /> 
     <sdef n="fti" /> 
+    <sdef n="pres" /> 
   </sdefs>
   <pardefs>
     <pardef n="sg_sgpl">
@@ -7420,6 +7421,7 @@
     <e c="check"><p><l>język<b/>słoweński<s n="n"/><s n="mi"/></l><r>slovinština<s n="n"/><s n="f"/></r></p></e>
 
     <!-- Adjectives -->
+    <e><p><l>karalny<s n="adj"/></l><r>trestný<s n="adj"/></r></p></e>
     <e><p><l>mocny<s n="adj"/><s n="sint"/></l><r>mocný<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>indywidualny<s n="adj"/></l><r>individuální<s n="adj"/></r></p></e>
     <e><p><l>aerobowy<s n="adj"/></l><r>aerobní<s n="adj"/></r></p></e>
@@ -9684,10 +9686,14 @@
     <e><p><l>brzeg<s n="n"/><s n="mi"/></l><r>břeh<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>rozumieć<s n="vblex"/></l><r>rozumět<s n="vblex"/></r></p></e>
     <e><p><l>leżeć<s n="vblex"/></l><r>ležet<s n="vblex"/></r></p></e>
+
     <e><p><l>iść<s n="vblex"/><s n="imperf"/></l><r>jít<s n="vblex"/><s n="imperf"/></r></p></e>
     <e r="LR"><p><l>pójść<s n="vblex"/><s n="perf"/></l><r>jít<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>pójść<s n="vblex"/><s n="perf"/><s n="fti"/></l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/></r></p></e>
     <e><p><l>pójść<s n="vblex"/><s n="perf"/><s n="imp"/></l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/></r></p></e>
+    <e><p><l>napisać<s n="vblex"/><s n="perf"/></l><r>napsat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e r="RL"><p><l>pisać<s n="vblex"/><s n="imperf"/><s n="pres"/></l><r>napsat<s n="vblex"/><s n="perf"/><s n="pres"/></r></p></e>
+
     <e><p><l>bóbr<s n="n"/><s n="ma"/></l><r>bobr<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>celownik<s n="n"/><s n="mi"/></l><r>dativ<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>celuloza<s n="n"/></l><r>celulóza<s n="n"/></r></p></e>
@@ -9716,6 +9722,14 @@
     <e><p><l>królestwo<s n="n"/><s n="nt"/></l><r>království<s n="n"/><s n="nt"/></r></p></e>
 
 	<!-- Verbs -->
+    <e><p><l>obowiązywać<s n="vblex"/><s n="imperf"/></l><r>platit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>dojść<s n="vblex"/><s n="perf"/></l><r>dojít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>przynieść<s n="vblex"/><s n="perf"/></l><r>přinést<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>zapewniać<s n="vblex"/><s n="imperf"/></l><r>zajišťovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zapewnić<s n="vblex"/><s n="perf"/></l><r>zajistit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>stracić<s n="vblex"/><s n="perf"/></l><r>ztratit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>odwołać<s n="vblex"/><s n="perf"/></l><r>zrušit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>zrównoważyć<s n="vblex"/><s n="perf"/></l><r>vyvážit<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>zostać<s n="vblex"/><s n="perf"/></l><r>zůstat<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>ciągnąć<s n="vblex"/><s n="imperf"/></l><r>tahat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>znać<s n="vblex"/><s n="imperf"/></l><r>znát<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -10436,7 +10450,6 @@
     <e><p><l>zapisywać<s n="vblex"/></l><r>zapisovat<s n="vblex"/></r></p></e>
     <e><p><l>zatrzymywać<s n="vblex"/></l><r>zadržovat<s n="vblex"/></r></p></e>
     <e><p><l>zgadzać<s n="vblex"/></l><r>shodovat<s n="vblex"/></r></p></e>
-    <e><p><l>zobowiązywać<s n="vblex"/></l><r>zavazovat<s n="vblex"/></r></p></e>
     <e><p><l>zranić<s n="vblex"/></l><r>zranit<s n="vblex"/></r></p></e>
     <e><p><l>posiadać<s n="vblex"/></l><r>vlastnit<s n="vblex"/></r></p></e>
 	<e c="check"><p><l>odświeżać<s n="vblex"/></l><r>obnovit<s n="vblex"/></r></p></e>
@@ -10546,7 +10559,6 @@
     <e c="check"><p><l>poczynać<s n="vblex"/></l><r>počínat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>podawać<s n="vblex"/></l><r>uvádět<s n="vblex"/></r></p></e>
     <e c="check"><p><l>podejrzewać<s n="vblex"/></l><r>podezírat<s n="vblex"/></r></p></e>
-    <e c="check"><p><l>podpisać<s n="vblex"/></l><r>podepsat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>podrażniać<s n="vblex"/></l><r>dráždit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>podrażnić<s n="vblex"/></l><r>podráždit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>pojmować<s n="vblex"/></l><r>vnímat<s n="vblex"/></r></p></e>
@@ -11362,7 +11374,6 @@
     <e><p><l>nagrać<s n="vblex"/></l><r>nahrát<s n="vblex"/></r></p></e>
     <e><p><l>podpowiedzieć<s n="vblex"/></l><r>nápovědět<s n="vblex"/></r></p></e>
     <e><p><l>zaprogramować<s n="vblex"/></l><r>naprogramovat<s n="vblex"/></r></p></e>
-    <e><p><l>napisać<s n="vblex"/></l><r>napsat<s n="vblex"/></r></p></e>
     <e><p><l>natrafiać<s n="vblex"/></l><r>narážet<s n="vblex"/></r></p></e>
     <e><p><l>urodzić<s n="vblex"/></l><r>narodit<s n="vblex"/></r></p></e>
     <e><p><l>neutralizować<s n="vblex"/></l><r>neutralizovat<s n="vblex"/></r></p></e>
@@ -13691,7 +13702,6 @@
     <e><p><l>być<s n="vbser"/></l><r>být<s n="vbser"/></r></p></e>
 
     <e><p><l>mieć<s n="vbhaver"/><s n="imperf"/></l><r>mít<s n="vbhaver"/><s n="imperf"/></r></p></e>
-
 <!--
     <e>
       <p>
@@ -13736,7 +13746,6 @@
 	  </p>
 	</e>
 -->
-
     <e><p><l>móc<s n="vaux"/><s n="imperf"/></l><r>moci<s n="vaux"/><s n="imperf"/></r></p></e>
     <e><p><l>musieć<s n="vaux"/><s n="imperf"/></l><r>muset<s n="vaux"/><s n="imperf"/></r></p></e>
     <e><p><l>trzeba<s n="vaux"/></l><r>třeba<s n="vaux"/></r></p></e>
@@ -13765,7 +13774,6 @@
     <e><p><l>sprzątać<s n="vblex"/></l><r>čistit<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>dopełnić<s n="vblex"/><s n="perf"/></l><r>doplnit<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>uzupełnić<s n="vblex"/></l><r>doplnit<s n="vblex"/></r></p></e>
-    <e><p><l>napisać<s n="vblex"/><s n="perf"/></l><r>napsat<s n="vblex"/><s n="perf"/></r></p></e>
 
      <!-- Interjections -->
     <e><p><l>dzięki<s n="ij"/></l><r>díky<s n="ij"/></r></p></e>

@@ -40917,6 +40917,7 @@
     <e lm="najżółciejszy" r="LR"><p><l>najżółciej</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
 
     <e lm="sam"><i>sam</i><par n="sam__adj"/></e>
+    <e lm="karalny"><i>karaln</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="adwokacki"><i>adwokac</i><par n="pols/ki__adj"/></e>
     <e lm="amharski"><i>amhars</i><par n="pols/ki__adj"/></e>
     <e lm="andaluzyjski"><i>andaluzyjs</i><par n="pols/ki__adj"/></e>
@@ -42150,6 +42151,8 @@
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
 
+    <e lm="zrównoważyć"><i>zrównoważ</i><par n="uwierz/yć__vblex"/></e>
+    <e lm="zapewniać"><i>zapewni</i><par n="czyt/ać__vblex"/></e>
     <e lm="dojść"><i>do</i><par n="wy/jść__vblex"/></e>
     <e lm="dziać"><i>dzi</i><par n="grz/ać__vblex"/></e>
     <e lm="kierować"><i>kier</i><par n="mal/ować__vblex"/></e>
@@ -51468,6 +51471,14 @@
     <e lm="Tybetanka"><i>Tybetan</i><par n="mat/ka__n"/></e>
 
     <!-- Proper Nouns -->
+    <e lm="Kosowo"><i>Kosow</i><par n="Wiln/o__np"/></e>
+    <e lm="Brenda"><i>Brend</i><par n="Wand/a__np"/></e>
+    <e lm="Gertruda"><i>Gertrud</i><par n="Wand/a__np"/></e>
+    <e lm="Magda"><i>Magd</i><par n="Wand/a__np"/></e>
+    <e lm="Ida"><i>Id</i><par n="Wand/a__np"/></e>
+    <e lm="Esmeralda"><i>Esmerald</i><par n="Wand/a__np"/></e>
+    <e lm="Dana"><i>Dan</i><par n="Iz/a__np"/></e>
+    <e lm="Dana"><i>Dan</i><par n="Iz/ka__np_dim"/></e>
     <e lm="Warszawa"><i>warszaw</i><par n="Warszaw/a__np"/></e>
     <e lm="Ekwador"><i>Ekwador</i><par n="Cypr__np"/></e>
     <e lm="Cypr"><i>Cypr</i><par n="Cypr__np"/></e>
