@@ -101,6 +101,9 @@
   <def-cat n="prn">
      <cat-item tags="prn.*"/>
   </def-cat>
+  <def-cat n="neg">
+     <cat-item lemma="ne" tags="adv"/>
+  </def-cat>
   <def-cat n="cnjadv">
      <cat-item tags="cnjadv"/>
   </def-cat>
@@ -187,11 +190,12 @@
      <attr-item tags="adj.sint.cpd"/>
      <attr-item tags="adj.po"/>
   </def-attr>
+
   <def-attr n="a_part">
-     <attr-item tags="pprs"/>
-     <attr-item tags="pp"/>
      <attr-item tags="pprs.adj"/>
      <attr-item tags="pp.adj"/>
+     <attr-item tags="pprs"/>
+     <attr-item tags="pp"/>
   </def-attr>
 
   <def-attr n="a_adv">
@@ -380,8 +384,6 @@
               <lit-tag v="pp"/>
             </let>
           </when>
-        </choose>
-        <choose>
           <when>
             <test>
               <equal>
@@ -1345,6 +1347,28 @@
         </out>
      </action>
   </rule>
+
+    <rule comment="REGLA: NEG">
+      <pattern>
+        <pattern-item n="neg"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="ne" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NEG"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: PREP">
       <pattern>

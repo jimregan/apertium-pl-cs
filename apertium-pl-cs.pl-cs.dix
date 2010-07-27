@@ -13727,12 +13727,14 @@
 		<r>mít<s n="vbhaver"/><s n="imperf"/><s n="cni"/><s n="f"/></r>
 	  </p>
 	</e>
+<!--
     <e>
 	  <p>
 		<l>mieć<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="nm"/></l>
 		<r>mít<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="f"/></r>
 	  </p>
 	</e>
+-->
 
     <e><p><l>móc<s n="vaux"/><s n="imperf"/></l><r>moci<s n="vaux"/><s n="imperf"/></r></p></e>
     <e><p><l>musieć<s n="vaux"/><s n="imperf"/></l><r>muset<s n="vaux"/><s n="imperf"/></r></p></e>
