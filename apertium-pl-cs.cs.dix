@@ -21689,6 +21689,24 @@
       <e><p>          <l>aly</l><r>at<s n="vblex"/><s n="perf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p>          <l>ala</l><r>at<s n="vblex"/><s n="perf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="pod/epsat__vblex">
+      <e><p>          <l>epsat</l><r>epsat<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
+
+      <e><p>          <l>píšu</l><r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>píši</l><r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>píšeš</l><r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>píšeme</l><r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>píšete</l><r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>píšou</l><r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="LR"><p>   <l>píší</l><r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>epsal</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>epsala</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>epsalo</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>epsali</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>epsaly</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>epsala</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+    </pardef>
 
 
     <!-- Prepositions -->
@@ -33674,7 +33692,8 @@
     <e lm="přečíst"><par n="v_neg"/><i>přeč</i><par n="přeč/íst__vblex"/></e>
     <e lm="vědět"><par n="v_neg"/><i>v</i><par n="v/ědět__vblex"/></e>
     <e lm="napsat"><par n="v_neg"/><i>naps</i><par n="naps/at__vblex"/></e>
-    <e lm="podepsat" c="FMT:check"><par n="v_neg"/><i>podeps</i><par n="naps/at__vblex"/></e>
+    <e lm="podepsat" c="catch spelling errors" r="LR"><par n="v_neg"/><i>podeps</i><par n="naps/at__vblex"/></e>
+    <e lm="podepsat"><par n="v_neg"/><i>pod</i><par n="pod/epsat__vblex"/></e>
     <e lm="chtít"><par n="v_neg"/><i>ch</i><par n="ch/tít__vblex"/></e>
     <e lm="absorbovat"><par n="v_neg"/><i>absorb</i><par n="mil/ovat__vblex"/></e>
     <e lm="adaptovat"><par n="v_neg"/><i>adapt</i><par n="mil/ovat__vblex"/></e>
