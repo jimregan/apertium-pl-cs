@@ -33674,6 +33674,7 @@
     <e lm="přečíst"><par n="v_neg"/><i>přeč</i><par n="přeč/íst__vblex"/></e>
     <e lm="vědět"><par n="v_neg"/><i>v</i><par n="v/ědět__vblex"/></e>
     <e lm="napsat"><par n="v_neg"/><i>naps</i><par n="naps/at__vblex"/></e>
+    <e lm="podepsat" c="FMT:check"><par n="v_neg"/><i>podeps</i><par n="naps/at__vblex"/></e>
     <e lm="chtít"><par n="v_neg"/><i>ch</i><par n="ch/tít__vblex"/></e>
     <e lm="absorbovat"><par n="v_neg"/><i>absorb</i><par n="mil/ovat__vblex"/></e>
     <e lm="adaptovat"><par n="v_neg"/><i>adapt</i><par n="mil/ovat__vblex"/></e>
