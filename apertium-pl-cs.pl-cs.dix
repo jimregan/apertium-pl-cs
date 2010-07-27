@@ -9722,8 +9722,20 @@
     <e><p><l>królestwo<s n="n"/><s n="nt"/></l><r>království<s n="n"/><s n="nt"/></r></p></e>
 
 	<!-- Verbs -->
+    <e><p><l>ujść<s n="vblex"/><s n="perf"/></l><r>ujít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e r="RL"><p><l>przejść<s n="vblex"/><s n="perf"/></l><r>projít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>przejść<s n="vblex"/><s n="perf"/></l><r>přejít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wejść<s n="vblex"/><s n="perf"/></l><r>vejít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wyjść<s n="vblex"/><s n="perf"/></l><r>vyjít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>zajść<s n="vblex"/><s n="perf"/></l><r>zajít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e r="LR"><p><l>okrążyć<s n="vblex"/><s n="perf"/></l><r>obejít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>obejść<s n="vblex"/><s n="perf"/></l><r>obejít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>podejść<s n="vblex"/><s n="perf"/></l><r>popojít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e r="LR"><p><l>wyminąć<s n="vblex"/><s n="perf"/></l><r>předejít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wyprzedzić<s n="vblex"/><s n="perf"/></l><r>předejít<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>obowiązywać<s n="vblex"/><s n="imperf"/></l><r>platit<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>dojść<s n="vblex"/><s n="perf"/></l><r>dojít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>nadejść<s n="vblex"/><s n="perf"/></l><r>nadejít<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>przynieść<s n="vblex"/><s n="perf"/></l><r>přinést<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>zapewniać<s n="vblex"/><s n="imperf"/></l><r>zajišťovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zapewnić<s n="vblex"/><s n="perf"/></l><r>zajistit<s n="vblex"/><s n="perf"/></r></p></e>
@@ -9937,7 +9949,10 @@
     <e><p><l>podkopywać<s n="vblex"/></l><r>podkopávat<s n="vblex"/></r></p></e>
     <e><p><l>podlewać<s n="vblex"/></l><r>podlévat<s n="vblex"/></r></p></e>
     <e><p><l>podłączyć<s n="vblex"/></l><r>připojit<s n="vblex"/></r></p></e>
-    <e><p><l>podpisać<s n="vblex"/></l><r>podepsat<s n="vblex"/></r></p></e>
+    <e><p><l>podpisać<s n="vblex"/><s n="perf"/></l><r>podepsat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>zatytułować<s n="vblex"/><s n="perf"/></l><r>nadepsat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e r="RL"><p><l>przepisać<s n="vblex"/><s n="perf"/></l><r>předepsat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>przepisać<s n="vblex"/><s n="perf"/></l><r>přepsat<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>podpiwniczyć<s n="vblex"/></l><r>podsklepit<s n="vblex"/></r></p></e>
     <e><p><l>podrażniać<s n="vblex"/></l><r>dráždit<s n="vblex"/></r></p></e>
     <e><p><l>podrażnić<s n="vblex"/></l><r>podráždit<s n="vblex"/></r></p></e>
@@ -10021,7 +10036,6 @@
     <e><p><l>przeoczyć<s n="vblex"/></l><r>přehlédnout<s n="vblex"/></r></p></e>
     <e><p><l>przepchać<s n="vblex"/></l><r>procpat<s n="vblex"/></r></p></e>
     <e><p><l>przepędzać<s n="vblex"/></l><r>přehánět<s n="vblex"/></r></p></e>
-    <e><p><l>przepisać<s n="vblex"/></l><r>přepsat<s n="vblex"/></r></p></e>
     <e><p><l>przepompować<s n="vblex"/></l><r>přečerpat<s n="vblex"/></r></p></e>
     <e><p><l>przeprowadzać<s n="vblex"/></l><r>převádět<s n="vblex"/></r></p></e>
     <e><p><l>przeprowadzać<s n="vblex"/></l><r>provádět<s n="vblex"/></r></p></e>
@@ -10075,7 +10089,7 @@
     <e><p><l>rozchorować<s n="vblex"/></l><r>rozstonat<s n="vblex"/></r></p></e>
     <e><p><l>rozcinać<s n="vblex"/></l><r>rozřezat<s n="vblex"/></r></p></e>
     <e><p><l>rozdawać<s n="vblex"/></l><r>rozdávat<s n="vblex"/></r></p></e>
-    <e><p><l>rozejść<s n="vblex"/></l><r>rozejít<s n="vblex"/></r></p></e>
+    <e><p><l>rozejść<s n="vblex"/><s n="perf"/></l><r>rozejít<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>rozgniewać<s n="vblex"/></l><r>rozhněvat<s n="vblex"/></r></p></e>
     <e><p><l>rozjaśniać<s n="vblex"/></l><r>rozjasňovat<s n="vblex"/></r></p></e>
     <e><p><l>rozkołysać<s n="vblex"/></l><r>rozhýbat<s n="vblex"/></r></p></e>
@@ -10509,7 +10523,6 @@
     <e c="check"><p><l>nagrać<s n="vblex"/></l><r>vypálit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>nanosić<s n="vblex"/></l><r>nanosit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>nawlekać<s n="vblex"/></l><r>navlékat<s n="vblex"/></r></p></e>
-    <e c="check"><p><l>obejść<s n="vblex"/></l><r>obejít<s n="vblex"/></r></p></e>
     <e c="check"><p><l>obiegać<s n="vblex"/></l><r>obíhat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>obniżać<s n="vblex"/></l><r>snižovat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>obozować<s n="vblex"/></l><r>tábořit<s n="vblex"/></r></p></e>
@@ -10598,7 +10611,6 @@
     <e c="check"><p><l>renderować<s n="vblex"/></l><r>vykreslit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>resetować<s n="vblex"/></l><r>přenastavit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>rozcinać<s n="vblex"/></l><r>rozřezat<s n="vblex"/></r></p></e>
-    <e c="check"><p><l>rozejść<s n="vblex"/></l><r>rozejít<s n="vblex"/></r></p></e>
     <e c="check"><p><l>rozjaśniać<s n="vblex"/></l><r>rozjasňovat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>rozkołysać<s n="vblex"/></l><r>rozhýbat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>rozpisać<s n="vblex"/></l><r>rozepsat<s n="vblex"/></r></p></e>
@@ -10640,7 +10652,6 @@
     <e c="check"><p><l>uciskać<s n="vblex"/></l><r>utiskovat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>uginać<s n="vblex"/></l><r>prohýbat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>ugotować<s n="vblex"/></l><r>uvařit<s n="vblex"/></r></p></e>
-    <e c="check"><p><l>ujść<s n="vblex"/></l><r>ujít<s n="vblex"/></r></p></e>
     <e c="check"><p><l>ukarać<s n="vblex"/></l><r>potrestat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>ukarać<s n="vblex"/></l><r>vytrestat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>umierać<s n="vblex"/></l><r>umírat<s n="vblex"/></r></p></e>
@@ -10658,7 +10669,6 @@
     <e c="check"><p><l>wbudować<s n="vblex"/></l><r>vestavět<s n="vblex"/></r></p></e>
     <e c="check"><p><l>wchłaniać<s n="vblex"/></l><r>absorbovat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>wchłaniać<s n="vblex"/></l><r>vstřebávat<s n="vblex"/></r></p></e>
-    <e c="check"><p><l>wejść<s n="vblex"/></l><r>vejít<s n="vblex"/></r></p></e>
     <e c="check"><p><l>weryfikować<s n="vblex"/></l><r>ověřit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>wikłać<s n="vblex"/></l><r>viklat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>witać<s n="vblex"/></l><r>vítat<s n="vblex"/></r></p></e>
@@ -11383,7 +11393,6 @@
     <e><p><l>obawiać<s n="vblex"/></l><r>obávat<s n="vblex"/></r></p></e>
     <e><p><l>obdarować<s n="vblex"/></l><r>obdarovat<s n="vblex"/></r></p></e>
     <e><p><l>podziwiać<s n="vblex"/></l><r>obdivovat<s n="vblex"/></r></p></e>
-    <e><p><l>obejść<s n="vblex"/></l><r>obejít<s n="vblex"/></r></p></e>
     <e><p><l>opłynąć<s n="vblex"/></l><r>obeplout<s n="vblex"/></r></p></e>
     <e><p><l>ofiarować<s n="vblex"/></l><r>obětovat<s n="vblex"/></r></p></e>
     <e><p><l>zagospodarowywać<s n="vblex"/></l><r>obhospodařovat<s n="vblex"/></r></p></e>

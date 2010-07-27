@@ -39544,7 +39544,6 @@
     <e lm="gwoli"><p><l>gwoli</l><r>gwoli<s n="pr"/></r></p></e>
     <e lm="wzdłuż"><p><l>wzdłuż</l><r>wzdłuż<s n="pr"/></r></p></e>
     <e lm="obok"><p><l>obok</l><r>obok<s n="pr"/></r></p></e>
-    <e lm="przez"><p><l>przez</l><r>przez<s n="pr"/></r></p></e>
     <e lm="przy pomocy"><p><l>przy<b/>pomocy</l><r>przy<b/>pomocy<s n="pr"/></r></p></e>
     <e lm="za pomocą"><p><l>za<b/>pomocą</l><r>za<b/>pomocą<s n="pr"/></r></p></e>
     <e lm="powyżej"><p><l>powyżej</l><r>powyżej<s n="pr"/></r></p></e>
@@ -42064,8 +42063,6 @@
     <e lm="zdecydowanie"><i>zdecydowanie</i><par n="tu__adv"/></e>
     <e lm="znacząco"><i>znacząco</i><par n="tu__adv"/></e>
     <e lm="zwłaszcza"><i>zwłaszcza</i><par n="tu__adv"/></e>
-    <e lm="dawno"><i>dawno</i><par n="tu__adv"/></e>
-    <e lm="wolno"><i>wolno</i><par n="tu__adv"/></e>
     <e lm="ewentualnie"><i>ewentualnie</i><par n="tu__adv"/></e>
     <e lm="następnie"><i>następnie</i><par n="tu__adv"/></e>
     <e lm="niestety"><i>niestety</i><par n="tu__adv"/></e>
@@ -42139,6 +42136,7 @@
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
 
+    <e lm="zatytułować"><i>zatytuł</i><par n="namal/ować__vblex"/></e>
     <e lm="zrównoważyć"><i>zrównoważ</i><par n="uwierz/yć__vblex"/></e>
     <e lm="zapewniać"><i>zapewni</i><par n="czyt/ać__vblex"/></e>
     <e lm="dojść"><i>do</i><par n="wy/jść__vblex"/></e>
@@ -43520,8 +43518,13 @@
     <e lm="mleć"><i>m</i><par n="m/leć__vblex"/></e>
     <e lm="zemleć"><i></i><par n="/zemleć__vblex"/></e>
     <e lm="wyjść"><i>wy</i><par n="wy/jść__vblex"/></e>
+    <e lm="ujść"><i>u</i><par n="wy/jść__vblex"/></e>
+    <e lm="zajść"><i>za</i><par n="wy/jść__vblex"/></e>
     <e lm="pójść"><i>p</i><par n="p/ójść__vblex"/></e>
     <e lm="nadejść"><i>nad</i><par n="nad/ejść__vblex"/></e>
+    <e lm="podejść"><i>pod</i><par n="nad/ejść__vblex"/></e>
+    <e lm="okrążyć"><i>okrąż</i><par n="uwierz/yć__vblex"/></e>
+    <e lm="obejść"><i>ob</i><par n="nad/ejść__vblex"/></e>
     <e lm="zastać"><i>zasta</i><par n="zasta/ć__vblex"/></e>
     <e lm="giąć"><i>g</i><par n="g/iąć__vblex"/></e>
     <e lm="wisieć"><i>wi</i><par n="wi/sieć__vblex"/></e>
@@ -51363,7 +51366,6 @@
     <e lm="Warszawa"><i>warszaw</i><par n="Warszaw/a__np"/></e>
     <e lm="Ekwador"><i>Ekwador</i><par n="Cypr__np"/></e>
     <e lm="Cypr"><i>Cypr</i><par n="Cypr__np"/></e>
-    <e lm="Augusta"><i>Augu</i><par n="Augu/sta__np"/></e>
     <e lm="Ariane"><i>Ariane</i><par n="Britney__np"/></e>
     <e lm="Astrid"><i>Astrid</i><par n="Britney__np"/></e>
     <e lm="Audrey"><i>Audrey</i><par n="Britney__np"/></e>
