@@ -13691,6 +13691,8 @@
     <e><p><l>być<s n="vbser"/></l><r>být<s n="vbser"/></r></p></e>
 
     <e><p><l>mieć<s n="vbhaver"/><s n="imperf"/></l><r>mít<s n="vbhaver"/><s n="imperf"/></r></p></e>
+
+<!--
     <e>
       <p>
         <l>mieć<s n="vbhaver"/><s n="imperf"/><s n="past"/><s n="p1"/><s n="nm"/></l>
@@ -13727,7 +13729,6 @@
 		<r>mít<s n="vbhaver"/><s n="imperf"/><s n="cni"/><s n="f"/></r>
 	  </p>
 	</e>
-<!--
     <e>
 	  <p>
 		<l>mieć<s n="vbhaver"/><s n="imperf"/><s n="pprs"/><s n="nm"/></l>

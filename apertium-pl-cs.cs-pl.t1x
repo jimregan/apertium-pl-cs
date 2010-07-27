@@ -51,6 +51,9 @@
      <cat-item tags="vblex.perf.tgv.pp.*"/>
      <cat-item tags="vblex.imperf.tgv.pp"/>
      <cat-item tags="vblex.imperf.tgv.pp.*"/>
+
+     <cat-item tags="vbhaver.imperf.tgv.pp"/>
+     <cat-item tags="vbhaver.imperf.tgv.pp.*"/>
   </def-cat>
   <def-cat n="part">
      <cat-item tags="vblex.imperf.pprs.adj"/>
