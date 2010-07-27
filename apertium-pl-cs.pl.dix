@@ -39518,7 +39518,6 @@
     <e lm="pomimo"><p><l>pomimo</l><r>pomimo<s n="pr"/></r></p></e>
     <e lm="nie zważając na"><p><l>nie<b/>zważając<b/>na</l><r>nie<b/>zważając<b/>na<s n="pr"/></r></p></e>
     <e lm="wbrew"><p><l>wbrew</l><r>wbrew<s n="pr"/></r></p></e>
-    <e lm="między"><p><l>między</l><r>między<s n="pr"/></r></p></e>
     <e lm="blisko"><p><l>blisko</l><r>blisko<s n="pr"/></r></p></e>
     <e lm="daleko od"><p><l>daleko<b/>od</l><r>daleko<b/>od<s n="pr"/></r></p></e>
     <e lm="przeciw"><p><l>przeciw</l><r>przeciw<s n="pr"/></r></p></e>
@@ -39551,7 +39550,6 @@
     <e lm="powyżej"><p><l>powyżej</l><r>powyżej<s n="pr"/></r></p></e>
     <e lm="pośród"><p><l>pośród</l><r>pośród<s n="pr"/></r></p></e>
     <e lm="pośrodku"><p><l>pośrodku</l><r>pośrodku<s n="pr"/></r></p></e>
-    <e lm="na skutek"><p><l>na<b/>skutek</l><r>na<b/>skutek<s n="pr"/></r></p></e>
     <e lm="na rzecz"><p><l>na<b/>rzecz</l><r>na<b/>rzecz<s n="pr"/></r></p></e>
     <e lm="ponad"><p><l>ponad</l><r>ponad<s n="pr"/></r></p></e>
     <e lm="poniżej"><p><l>poniżej</l><r>poniżej<s n="pr"/></r></p></e>
@@ -39774,7 +39772,6 @@
     <e lm="się"><i></i><par n="się__prn"/></e>
     <e lm="nikt"><i>nik</i><par n="nik/t__prn"/></e>
     <e lm="nic"><i>nic</i><par n="nic__prn"/></e>
-    <e lm="ktoś"><i>k</i><par n="k/toś__prn"/></e>
     <e lm="ktokolwiek"><i>k</i><par n="k/tokolwiek__prn"/></e>
     <e lm="kto bądź"><i>k</i><par n="k/to_bądź__prn"/></e>
     <e lm="ilekolwiek"><i>il</i><par n="il/ekolwiek__prn"/></e>
@@ -40280,9 +40277,6 @@
     <e lm="bezpieczny"><i>bezpieczn</i><par n="now/y__adj"/></e>
     <e lm="bezpieczny"><p><l>bezpieczniej</l><r>bezpieczny</r></p><par n="lep/szy__adj"/></e>
     <e lm="bezpieczny"><p><l>najbezpieczniej</l><r>bezpieczny</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="brudny"><i>brudn</i><par n="now/y__adj"/></e>
-    <e lm="brudny"><p><l>brudniej</l><r>brudny</r></p><par n="lep/szy__adj"/></e>
-    <e lm="brudny"><p><l>najbrudniej</l><r>brudny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="sprytny"><i>sprytn</i><par n="now/y__adj"/></e>
     <e lm="sprytny"><p><l>sprytniej</l><r>sprytny</r></p><par n="lep/szy__adj"/></e>
     <e lm="sprytny"><p><l>najsprytniej</l><r>sprytny</r></p><par n="najlep/szy__adj"/></e>
@@ -40486,9 +40480,7 @@
     <e lm="obrzydliwy"><p><l>obrzydliw</l><r>obrzydliwy</r></p><par n="lep/szy__adj"/></e>
     <e lm="odporny"><i>odporn</i><par n="now/y__adj"/></e>
     <e lm="odporny"><p><l>najodporniej</l><r>odporny</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="odporny"><p><l>najoporniej</l><r>odporny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="odporny"><p><l>odporniej</l><r>odporny</r></p><par n="lep/szy__adj"/></e>
-    <e lm="odporny"><p><l>oporniej</l><r>odporny</r></p><par n="lep/szy__adj"/></e>
     <e lm="okropny"><i>okropn</i><par n="now/y__adj"/></e>
     <e lm="okropny"><p><l>najokropniej</l><r>okropny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="okropny"><p><l>okropniej</l><r>okropny</r></p><par n="lep/szy__adj"/></e>
@@ -40732,9 +40724,6 @@
     <e lm="romantyczny"><i>romantyczn</i><par n="now/y__adj"/></e>
     <e lm="romantyczny"><p><l>najromantyczniej</l><r>romantyczny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="romantyczny"><p><l>romantyczniej</l><r>romantyczny</r></p><par n="lep/szy__adj"/></e>
-    <e lm="rozmaity"><i>rozmai</i><par n="świę/ty__adj"/></e>
-    <e lm="rozmaity"><p><l>najrozmait</l><r>rozmaity</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="rozmaity"><p><l>rozmait</l><r>rozmaity</r></p><par n="lep/szy__adj"/></e>
     <e lm="ruchliwy"><i>ruchliw</i><par n="now/y__adj"/></e>
     <e lm="ruchliwy"><p><l>najruchliw</l><r>ruchliwy</r></p><par n="najlep/szy__adj"/></e>
     <e lm="ruchliwy"><p><l>ruchliw</l><r>ruchliwy</r></p><par n="lep/szy__adj"/></e>
@@ -41440,7 +41429,6 @@
     <e lm="dwa"><i>dw</i><par n="dw/a__num"/></e>
     <e lm="trzy"><i>trz</i><par n="trz/y__num"/></e>
     <e lm="cztery"><i>czter</i><par n="trz/y__num"/></e>
-    <e lm="dwa"><i>dw</i><par n="dw/a__num"/></e>
     <e lm="pięć"><i>pię</i><par n="pię/ć__num"/></e>
     <e lm="sześć"><i>sześ</i><par n="pię/ć__num"/></e>
     <e lm="siedem"><i>sied</i><par n="sied/em__num"/></e>
@@ -42246,7 +42234,6 @@
     <e lm="dożywać"><i>dożyw</i><par n="czyt/ać__vblex"/></e>
     <e lm="drukować"><i>druk</i><par n="mal/ować__vblex"/></e>
     <e lm="duplikować"><i>duplik</i><par n="mal/ować__vblex"/></e>
-    <e lm="dziać"><i>dzi</i><par n="grz/ać__vblex"/></e>
     <e lm="działać"><i>dział</i><par n="czyt/ać__vblex"/></e>
     <e lm="edytować"><i>edyt</i><par n="mal/ować__vblex"/></e>
     <e lm="ekshumować"><i>ekshum</i><par n="mal/ować__vblex"/></e>
@@ -43273,7 +43260,6 @@
     <e lm="nastawiać"><i>nastawi</i><par n="czyt/ać__vblex"/></e>
     <e lm="nauczać"><i>naucz</i><par n="czyt/ać__vblex"/></e>
     <e lm="nominować"><i>nomin</i><par n="mal/ować__vblex"/></e>
-    <e lm="obniżać"><i>obniż</i><par n="czyt/ać__vblex"/></e>
     <e lm="obsługiwać"><i>obsług</i><par n="oszuk/iwać__vblex"/></e>
     <e lm="oceniać"><i>oceni</i><par n="czyt/ać__vblex"/></e>
     <e lm="odczuwać"><i>odczuw</i><par n="czyt/ać__vblex"/></e>
@@ -43583,8 +43569,6 @@
     <e lm="parafia"><i>parafi</i><par n="filozofi/a__n"/></e>
     <e lm="uczelnia"><i>uczelni</i><par n="hurtowni/a__n"/></e>
     <e lm="dyskusja"><i>dyskus</i><par n="dysertac/ja__n"/></e>
-    <e lm="dziennikarstwo"><i>dziennikarstw</i><par n="piw/o__n"/></e>
-    <e lm="kajakarstwo"><i>kajakarstw</i><par n="piw/o__n"/></e>
     <e lm="hydraulik"><i>hydrauli</i><par n="Pola/k__n"/></e>
     <e lm="encyklika"><i>encykli</i><par n="rze/ka__n"/></e>
     <e lm="hydraulika"><i>hydrauli</i><par n="rze/ka__n"/></e>
@@ -44081,7 +44065,6 @@
     <e lm="autożyro"><i>autożyr</i><par n="cygar/o__n"/></e>
     <e lm="avia"><i>avi</i><par n="filozofi/a__n"/></e>
     <e lm="awanturyn"><i>awanturyn</i><par n="sklep__n"/></e>
-    <e lm="awaria"><i>awari</i><par n="anatomi/a__n"/></e>
     <e lm="awaryjność"><i>awaryjnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="awatar"><i>awatar</i><par n="enter__n"/></e>
     <e lm="awersja"><i>awers</i><par n="dysertac/ja__n"/></e>
@@ -44102,7 +44085,6 @@
     <e lm="bagnisko"><i>bagnisk</i><par n="wojsk/o__n"/></e>
     <e lm="bakelit"><i>bakeli</i><par n="hi/t__n"/></e>
     <e lm="baken"><i>baken</i><par n="sklep__n"/></e>
-    <e lm="bakteria"><i>bakteri</i><par n="anatomi/a__n"/></e>
     <e lm="bakteriofag"><i>bakteriofag</i><par n="złącznik__n"/></e>
     <e lm="bakteriologia"><i>bakteriologi</i><par n="filozofi/a__n"/></e>
     <e lm="balista"><i>bali</i><par n="pa/sta__n"/></e>
@@ -44130,7 +44112,6 @@
     <e lm="basset"><i>basse</i><par n="robo/t__n"/></e>
     <e lm="bastarda"><i>bastard</i><par n="od/a__n"/></e>
     <e lm="bastylia"><i>bastyli</i><par n="filozofi/a__n"/></e>
-    <e lm="bateria"><i>bateri</i><par n="anatomi/a__n"/></e>
     <e lm="batolit"><i>batoli</i><par n="zeni/t__n"/></e>
     <e lm="batymetria"><i>batymetri</i><par n="anatomi/a__n"/></e>
     <e lm="batysfera"><i>batysfer</i><par n="viagr/a__n"/></e>
@@ -44156,7 +44137,6 @@
     <e lm="bera"><i>ber</i><par n="viagr/a__n"/></e>
     <e lm="bergama"><i>bergam</i><par n="analiz/a__n"/></e>
     <e lm="berło"><i>ber</i><par n="źród/ło__n"/></e>
-    <e lm="bestia"><i>besti</i><par n="anatomi/a__n"/></e>
     <e lm="bestiarium"><i>bestiari</i><par n="muze/um__n"/></e>
     <e lm="betoniarka"><i>betoniar</i><par n="mat/ka__n"/></e>
     <e lm="bezawaryjność"><i>bezawaryjnoś</i><par n="miłoś/ć__n"/></e>
@@ -44476,7 +44456,6 @@
     <e lm="dietetyka"><i>dietety</i><par n="rze/ka__n"/></e>
     <e lm="dinar"><i>dinar</i><par n="tur__n"/></e>
     <e lm="dioksyna"><i>dioksyn</i><par n="analiz/a__n"/></e>
-    <e lm="dioptria"><i>dioptri</i><par n="anatomi/a__n"/></e>
     <e lm="diuna"><i>diun</i><par n="analiz/a__n"/></e>
     <e lm="dmuchawka"><i>dmuchaw</i><par n="mat/ka__n"/></e>
     <e lm="dobroczynność"><i>dobroczynnoś</i><par n="miłoś/ć__n"/></e>
@@ -44557,7 +44536,6 @@
     <e lm="emeryt"><i>emery</i><par n="studen/t__n"/></e>
     <e lm="emotikona"><i>emotikon</i><par n="analiz/a__n"/></e>
     <e lm="empetrójka"><i>empetrój</i><par n="mat/ka__n"/></e>
-    <e lm="empiria"><i>empiri</i><par n="anatomi/a__n"/></e>
     <e lm="empiryzm"><i>empiryzm</i><par n="sklep__n"/></e>
     <e lm="emulacja"><i>emulac</i><par n="dysertac/ja__n"/></e>
     <e lm="emulator"><i>emulator</i><par n="tur__n"/></e>
@@ -44650,7 +44628,6 @@
     <e lm="galanteria"><i>galanteri</i><par n="anatomi/a__n"/></e>
     <e lm="galena"><i>galen</i><par n="analiz/a__n"/></e>
     <e lm="galeona"><i>galeon</i><par n="analiz/a__n"/></e>
-    <e lm="galeria"><i>galeri</i><par n="anatomi/a__n"/></e>
     <e lm="gang"><i>gang</i><par n="brzeg__n"/></e>
     <e lm="gangrena"><i>gangren</i><par n="analiz/a__n"/></e>
     <e lm="garbarnia"><i>garbar</i><par n="pusty/nia__n"/></e>
@@ -45328,7 +45305,6 @@
     <e lm="podwyższenie"><i>podwyższe</i><par n="trzęsie/nie__n"/></e>
     <e lm="podzbiór"><i>podzbi</i><par n="gwiazdozbi/ór__n"/></e>
     <e lm="podziw"><i>podziw</i><par n="sklep__n"/></e>
-    <e lm="podłoga"><i>podło</i><par n="fla/ga__n"/></e>
     <e lm="podżegacz"><i>podżegacz</i><par n="dorsz__n"/></e>
     <e lm="pogoń"><i>pogo</i><par n="jesie/ń__n"/></e>
     <e lm="pogłos"><i>pogłos</i><par n="sklep__n"/></e>
@@ -46023,19 +45999,9 @@
     <e lm="żywotnik"><i>żywotnik</i><par n="kajak__n"/></e>
     <e lm="żółtlica"><i>żółtlic</i><par n="ulic/a__n"/></e>
     <e lm="żłobek"><i>żłob</i><par n="młot/ek__n"/></e>
-    <e lm="łącze"><i>łącz</i><par n="pnącz/e__n"/></e>
     <e lm="ostrze"><i>ostrz</i><par n="pnącz/e__n"/></e>
     <e lm="poddasze"><i>poddasz</i><par n="pnącz/e__n"/></e>
-    <e lm="podłoże"><i>podłoż</i><par n="pnącz/e__n"/></e>
     <e lm="podzamcze"><i>podzamcz</i><par n="pnącz/e__n"/></e>
-    <e lm="pogranicze"><i>pogranicz</i><par n="pnącz/e__n"/></e>
-    <e lm="powietrze"><i>powietrz</i><par n="pnącz/e__n"/></e>
-    <e lm="półrocze"><i>półrocz</i><par n="pnącz/e__n"/></e>
-    <e lm="przymierze"><i>przymierz</i><par n="pnącz/e__n"/></e>
-    <e lm="średniowiecze"><i>średniowiecz</i><par n="pnącz/e__n"/></e>
-    <e lm="wybrzeże"><i>wybrzeż</i><par n="pnącz/e__n"/></e>
-    <e lm="zacisze"><i>zacisz</i><par n="pnącz/e__n"/></e>
-    <e lm="zaplecze"><i>zaplecz</i><par n="pnącz/e__n"/></e>
     <e lm="tora"><i>tor</i><par n="viagr/a__n"/></e>
     <e lm="akcjonariusz"><i>akcjonariusz</i><par n="dorsz__n"/></e>
     <e lm="aktorstwo"><i>aktorstw</i><par n="nieb/o__n"/></e>
@@ -46066,7 +46032,6 @@
     <e lm="bielizna"><i>bieli</i><par n="truci/zna__n"/></e>
     <e lm="biograf"><i>biograf</i><par n="astronom__n"/></e>
     <e lm="biomasa"><i>biomas</i><par n="analiz/a__n"/></e>
-    <e lm="biskupstwo"><i>biskupstw</i><par n="nieb/o__n"/></e>
     <e lm="biskupstwo"><i>biskupstw</i><par n="piw/o__n"/></e>
     <e lm="bliskość"><i>bliskoś</i><par n="miłoś/ć__n"/></e>
     <e lm="bliźnię"><i>bliźni</i><par n="zwierz/ę__n"/></e>
@@ -46095,7 +46060,6 @@
     <e lm="czajnik"><i>czajnik</i><par n="kajak__n"/></e>
     <e lm="czeladnik"><i>czeladni</i><par n="Pola/k__n"/></e>
     <e lm="członkostwo"><i>członkostw</i><par n="nieb/o__n"/></e>
-    <e lm="członkostwo"><i>członkostw</i><par n="piw/o__n"/></e>
     <e lm="dalekowzroczność"><i>dalekowzrocznoś</i><par n="miłoś/ć__n"/></e>
     <e lm="delikates"><i>delikates</i><par n="sklep__n"/></e>
     <e lm="desperat"><i>despera</i><par n="studen/t__n"/></e>
@@ -46111,7 +46075,6 @@
     <e lm="dyskrecja"><i>dyskrec</i><par n="dysertac/ja__n"/></e>
     <e lm="dyspozycja"><i>dyspozyc</i><par n="dysertac/ja__n"/></e>
     <e lm="dziewictwo"><i>dziewictw</i><par n="nieb/o__n"/></e>
-    <e lm="dziewictwo"><i>dziewictw</i><par n="piw/o__n"/></e>
     <e lm="dłużnik"><i>dłużni</i><par n="Pola/k__n"/></e>
     <e lm="ekspertyza"><i>ekspertyz</i><par n="analiz/a__n"/></e>
     <e lm="ekspozycja"><i>ekspozyc</i><par n="dysertac/ja__n"/></e>
@@ -46143,7 +46106,6 @@
     <e lm="grzeczność"><i>grzecznoś</i><par n="miłoś/ć__n"/></e>
     <e lm="guziczek"><i>guzicz</i><par n="młot/ek__n"/></e>
     <e lm="górnik"><i>górni</i><par n="Pola/k__n"/></e>
-    <e lm="głupstwo"><i>głupstw</i><par n="nieb/o__n"/></e>
     <e lm="głupstwo"><i>głupstw</i><par n="piw/o__n"/></e>
     <e lm="głębia"><i>głębi</i><par n="hurtowni/a__n"/></e>
     <e lm="hipnoza"><i>hipnoz</i><par n="analiz/a__n"/></e>
@@ -46207,7 +46169,6 @@
     <e lm="lokomotywownia"><i>lokomotywowni</i><par n="hurtowni/a__n"/></e>
     <e lm="lotnik"><i>lotni</i><par n="Pola/k__n"/></e>
     <e lm="macierzyństwo"><i>macierzyństw</i><par n="nieb/o__n"/></e>
-    <e lm="macierzyństwo"><i>macierzyństw</i><par n="piw/o__n"/></e>
     <e lm="magik"><i>magi</i><par n="Pola/k__n"/></e>
     <e lm="majonez"><i>majonez</i><par n="sklep__n"/></e>
     <e lm="makler"><i>makler</i><par n="aktor__n"/></e>
@@ -46262,16 +46223,13 @@
     <e lm="odwołanie"><i>odwoła</i><par n="trzęsie/nie__n"/></e>
     <e lm="ofiarność"><i>ofiarnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="oglądalność"><i>oglądalnoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="ogniwo"><i>ogniw</i><par n="nieb/o__n"/></e>
     <e lm="ogniwo"><i>ogniw</i><par n="piw/o__n"/></e>
     <e lm="ogonek"><i>ogon</i><par n="młot/ek__n"/></e>
     <e lm="ogrodnictwo"><i>ogrodnictw</i><par n="nieb/o__n"/></e>
-    <e lm="ogrodnictwo"><i>ogrodnictw</i><par n="piw/o__n"/></e>
     <e lm="okrasa"><i>okras</i><par n="analiz/a__n"/></e>
     <e lm="okruszek"><i>okrusz</i><par n="młot/ek__n"/></e>
     <e lm="okrutność"><i>okrutnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="opilstwo"><i>opilstw</i><par n="nieb/o__n"/></e>
-    <e lm="opilstwo"><i>opilstw</i><par n="piw/o__n"/></e>
     <e lm="opowiadacz"><i>opowiadacz</i><par n="dorsz__n"/></e>
     <e lm="oracz"><i>oracz</i><par n="dorsz__n"/></e>
     <e lm="orator"><i>orator</i><par n="inżynier__n"/></e>
@@ -46299,7 +46257,6 @@
     <e lm="pierwotniak"><i>pierwotniak</i><par n="kajak__n"/></e>
     <e lm="pilność"><i>pilnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="piractwo"><i>piractw</i><par n="nieb/o__n"/></e>
-    <e lm="piractwo"><i>piractw</i><par n="piw/o__n"/></e>
     <e lm="pisanka"><i>pisan</i><par n="mat/ka__n"/></e>
     <e lm="pisanko"><i>pisan</i><par n="jabł/ko__n"/></e>
     <e lm="piwiarnia"><i>piwiar</i><par n="pusty/nia__n"/></e>
@@ -46308,26 +46265,19 @@
     <e lm="piórnik"><i>piórnik</i><par n="kajak__n"/></e>
     <e lm="piękność"><i>pięknoś</i><par n="miłoś/ć__n"/></e>
     <e lm="piśmiennictwo"><i>piśmiennictw</i><par n="nieb/o__n"/></e>
-    <e lm="piśmiennictwo"><i>piśmiennictw</i><par n="piw/o__n"/></e>
     <e lm="plajta"><i>plaj</i><par n="cha/ta__n"/></e>
     <e lm="pobłażliwość"><i>pobłażliwoś</i><par n="miłoś/ć__n"/></e>
     <e lm="podarunek"><i>podarun</i><par n="stat/ek__n"/></e>
-    <e lm="poddasze"><i>poddasz</i><par n="pnącz/e__n"/></e>
     <e lm="podpalacz"><i>podpalacz</i><par n="dorsz__n"/></e>
     <e lm="podstępność"><i>podstępnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="podwóz"><i>podw</i><par n="ob/óz__n"/></e>
-    <e lm="podzamcze"><i>podzamcz</i><par n="pnącz/e__n"/></e>
-    <e lm="podziemie"><i>podziemi</i><par n="wesel/e__n"/></e>
     <e lm="pogaństwo"><i>pogaństw</i><par n="nieb/o__n"/></e>
-    <e lm="pogaństwo"><i>pogaństw</i><par n="piw/o__n"/></e>
     <e lm="pogranicze"><i>pogranicz</i><par n="pnącz/e__n"/></e>
     <e lm="pogranicznik"><i>pograniczni</i><par n="Pola/k__n"/></e>
     <e lm="pojemnik"><i>pojemnik</i><par n="kajak__n"/></e>
     <e lm="poklask"><i>poklask</i><par n="brzeg__n"/></e>
     <e lm="pokrewieństwo"><i>pokrewieństw</i><par n="nieb/o__n"/></e>
-    <e lm="pokrewieństwo"><i>pokrewieństw</i><par n="piw/o__n"/></e>
     <e lm="pokutnik"><i>pokutni</i><par n="Pola/k__n"/></e>
-    <e lm="popiersie"><i>popiersi</i><par n="wesel/e__n"/></e>
     <e lm="porwanie"><i>porwa</i><par n="trzęsie/nie__n"/></e>
     <e lm="posterunek"><i>posterun</i><par n="stat/ek__n"/></e>
     <e lm="poszukiwacz"><i>poszukiwacz</i><par n="dorsz__n"/></e>
@@ -46406,7 +46356,6 @@
     <e lm="szałwia"><i>szałwi</i><par n="filozofi/a__n"/></e>
     <e lm="szczerość"><i>szczeroś</i><par n="miłoś/ć__n"/></e>
     <e lm="szpiegostwo"><i>szpiegostw</i><par n="nieb/o__n"/></e>
-    <e lm="szpiegostwo"><i>szpiegostw</i><par n="piw/o__n"/></e>
     <e lm="sztaba"><i>sztab</i><par n="analiz/a__n"/></e>
     <e lm="szubienica"><i>szubienic</i><par n="ulic/a__n"/></e>
     <e lm="szyna"><i>szyn</i><par n="analiz/a__n"/></e>
@@ -46428,11 +46377,9 @@
     <e lm="urna"><i>urn</i><par n="analiz/a__n"/></e>
     <e lm="urzędniczka"><i>urzędnicz</i><par n="mat/ka__n"/></e>
     <e lm="ustęp"><i>ustęp</i><par n="sklep__n"/></e>
-    <e lm="ustępstwo"><i>ustępstw</i><par n="nieb/o__n"/></e>
     <e lm="ustępstwo"><i>ustępstw</i><par n="piw/o__n"/></e>
     <e lm="uzbrojenie"><i>uzbroje</i><par n="trzęsie/nie__n"/></e>
     <e lm="uzupełnienie"><i>uzupełnie</i><par n="trzęsie/nie__n"/></e>
-    <e lm="wariactwo"><i>wariactw</i><par n="nieb/o__n"/></e>
     <e lm="wariactwo"><i>wariactw</i><par n="piw/o__n"/></e>
     <e lm="wdzięczność"><i>wdzięcznoś</i><par n="miłoś/ć__n"/></e>
     <e lm="wegetarianin"><i>wegetarian</i><par n="Afrykan/in__n"/></e>
@@ -46492,7 +46439,6 @@
     <e lm="zero"><i>zer</i><par n="cygar/o__n"/></e>
     <e lm="łajdak"><i>łajda</i><par n="Pola/k__n"/></e>
     <e lm="łamacz"><i>łamacz</i><par n="dorsz__n"/></e>
-    <e lm="łącze"><i>łącz</i><par n="pnącz/e__n"/></e>
     <e lm="ścierka"><i>ścier</i><par n="mat/ka__n"/></e>
     <e lm="śluzówka"><i>śluzów</i><par n="mat/ka__n"/></e>
     <e lm="śmiertelnik"><i>śmiertelni</i><par n="Pola/k__n"/></e>
@@ -46904,7 +46850,6 @@
     <e lm="bizmut"><i>bizmu</i><par n="hi/t__n"/></e>
     <e lm="błazenada"><i>błazenad</i><par n="od/a__n"/></e>
     <e lm="bokser"><i>bokser</i><par n="aktor__n"/></e>
-    <e lm="bon"><i>bon</i><par n="sklep__n"/></e>
     <e lm="brodawka"><i>brodaw</i><par n="mat/ka__n"/></e>
     <e lm="brunet"><i>brune</i><par n="studen/t__n"/></e>
     <e lm="brzana"><i>brzan</i><par n="analiz/a__n"/></e>
@@ -46999,7 +46944,6 @@
     <e lm="litania"><i>litani</i><par n="filozofi/a__n"/></e>
     <e lm="logopedia"><i>logopedi</i><par n="filozofi/a__n"/></e>
     <e lm="lustrzanka"><i>lustrzan</i><par n="mat/ka__n"/></e>
-    <e lm="łóżko"><i>łóż</i><par n="jabł/ko__n"/></e>
     <e lm="magma"><i>magm</i><par n="analiz/a__n"/></e>
     <e lm="magnez"><i>magnez</i><par n="sklep__n"/></e>
     <e lm="mangan"><i>mangan</i><par n="sklep__n"/></e>
@@ -47027,7 +46971,6 @@
     <e lm="ordynator"><i>ordynator</i><par n="inżynier__n"/></e>
     <e lm="ostrężyna"><i>ostrężyn</i><par n="analiz/a__n"/></e>
     <e lm="ozon"><i>ozon</i><par n="sklep__n"/></e>
-    <e lm="papieros"><i>papieros</i><par n="rekin__n"/></e>
     <e lm="parodontoza"><i>parodontoz</i><par n="analiz/a__n"/></e>
     <e lm="parowanie"><i>parowa</i><par n="trzęsie/nie__n"/></e>
     <e lm="patelnia"><i>patel</i><par n="pusty/nia__n"/></e>
@@ -47081,7 +47024,6 @@
     <e lm="spojówka"><i>spojów</i><par n="mat/ka__n"/></e>
     <e lm="srom"><i>srom</i><par n="sklep__n"/></e>
     <e lm="stereotyp"><i>stereotyp</i><par n="sklep__n"/></e>
-    <e lm="stopień"><i>stop</i><par n="p/ień__n"/></e>
     <e lm="stówa"><i>stów</i><par n="analiz/a__n"/></e>
     <e lm="streszczenie"><i>streszcze</i><par n="trzęsie/nie__n"/></e>
     <e lm="strop"><i>strop</i><par n="sklep__n"/></e>
@@ -47104,18 +47046,14 @@
     <e lm="wanilia"><i>wanili</i><par n="filozofi/a__n"/></e>
     <e lm="wapń"><i>wap</i><par n="cie/ń__n"/></e>
     <e lm="warstwica"><i>warstwic</i><par n="ulic/a__n"/></e>
-    <e lm="wersja"><i>wers</i><par n="dysertac/ja__n"/></e>
     <e lm="wiatrówka"><i>wiatrów</i><par n="mat/ka__n"/></e>
     <e lm="wolfram"><i>wolfram</i><par n="sklep__n"/></e>
     <e lm="wtrącenie"><i>wtrące</i><par n="trzęsie/nie__n"/></e>
     <e lm="wychowanka"><i>wychowan</i><par n="mat/ka__n"/></e>
     <e lm="wysoczyzna"><i>wysoczy</i><par n="truci/zna__n"/></e>
     <e lm="zacisk"><i>zacisk</i><par n="brzeg__n"/></e>
-    <e lm="zapalenie"><i>zapale</i><par n="trzęsie/nie__n"/></e>
     <e lm="zastrzyk"><i>zastrzyk</i><par n="brzeg__n"/></e>
-    <e lm="zawias"><i>zawias</i><par n="sklep__n"/></e>
     <e lm="zjeżdżalnia"><i>zjeżdżal</i><par n="pusty/nia__n"/></e>
-    <e lm="źródło"><i>źród</i><par n="źród/ło__n"/></e>
     <e lm="aluzja"><i>aluz</i><par n="dysertac/ja__n"/></e>
     <e lm="antyciało"><i>antyci</i><par n="ci/ało__n"/></e>
     <e lm="aprobata"><i>aproba</i><par n="cha/ta__n"/></e>
@@ -47218,11 +47156,9 @@
     <e lm="notka"><i>not</i><par n="mat/ka__n"/></e>
     <e lm="obraza"><i>obraz</i><par n="analiz/a__n"/></e>
     <e lm="oczyszczalnia"><i>oczyszczal</i><par n="pusty/nia__n"/></e>
-    <e lm="ogródek"><i>ogród</i><par n="młot/ek__n"/></e>
     <e lm="ogródka"><i>ogród</i><par n="mat/ka__n"/></e>
     <e lm="opart"><i>opar</i><par n="hi/t__n"/></e>
     <e lm="opozycja"><i>opozyc</i><par n="dysertac/ja__n"/></e>
-    <e lm="ostrze"><i>ostrz</i><par n="pnącz/e__n"/></e>
     <e lm="ośmiotysięcznik"><i>ośmiotysięcznik</i><par n="kajak__n"/></e>
     <e lm="owieczka"><i>owiecz</i><par n="mat/ka__n"/></e>
     <e lm="patrol"><i>patrol</i><par n="hotel__n"/></e>
@@ -47270,7 +47206,6 @@
     <e lm="stronka"><i>stron</i><par n="mat/ka__n"/></e>
     <e lm="struna"><i>strun</i><par n="analiz/a__n"/></e>
     <e lm="stryczek"><i>strycz</i><par n="młot/ek__n"/></e>
-    <e lm="szambo"><i>szamb</i><par n="nieb/o__n"/></e>
     <e lm="szefowa"><i>szefow</i><par n="synow/a__n"/></e>
     <e lm="szynka"><i>szyn</i><par n="mat/ka__n"/></e>
     <e lm="świeczka"><i>świecz</i><par n="mat/ka__n"/></e>
@@ -47675,7 +47610,6 @@
     <e lm="biografia"><i>biografi</i><par n="filozofi/a__n"/></e>
     <e lm="biologia"><i>biologi</i><par n="filozofi/a__n"/></e>
     <e lm="biotechnologia"><i>biotechnologi</i><par n="filozofi/a__n"/></e>
-    <e lm="boazeria"><i>boazeri</i><par n="filozofi/a__n"/></e>
     <e lm="budowla"><i>budowl</i><par n="filozofi/a__n"/></e>
     <e lm="ceremonia"><i>ceremoni</i><par n="filozofi/a__n"/></e>
     <e lm="chemioterapia"><i>chemioterapi</i><par n="filozofi/a__n"/></e>
@@ -47690,17 +47624,13 @@
     <e lm="energia"><i>energi</i><par n="filozofi/a__n"/></e>
     <e lm="epidemiologia"><i>epidemiologi</i><par n="filozofi/a__n"/></e>
     <e lm="etnografia"><i>etnografi</i><par n="filozofi/a__n"/></e>
-    <e lm="euforia"><i>eufori</i><par n="filozofi/a__n"/></e>
     <e lm="filologia"><i>filologi</i><par n="filozofi/a__n"/></e>
     <e lm="filozofia"><i>filozofi</i><par n="filozofi/a__n"/></e>
     <e lm="fobia"><i>fobi</i><par n="filozofi/a__n"/></e>
     <e lm="fotografia"><i>fotografi</i><par n="filozofi/a__n"/></e>
-    <e lm="galanteria"><i>galanteri</i><par n="filozofi/a__n"/></e>
     <e lm="galeria"><i>galeri</i><par n="filozofi/a__n"/></e>
     <e lm="geografia"><i>geografi</i><par n="filozofi/a__n"/></e>
     <e lm="geologia"><i>geologi</i><par n="filozofi/a__n"/></e>
-    <e lm="geometria"><i>geometri</i><par n="filozofi/a__n"/></e>
-    <e lm="gwardia"><i>gwardi</i><par n="filozofi/a__n"/></e>
     <e lm="harmonia"><i>harmoni</i><par n="filozofi/a__n"/></e>
     <e lm="hierarchia"><i>hierarchi</i><par n="filozofi/a__n"/></e>
     <e lm="historia"><i>histori</i><par n="filozofi/a__n"/></e>
@@ -47869,13 +47799,8 @@
     <e lm="konsorcjum"><i>konsorcj</i><par n="muze/um__n"/></e>
     <e lm="millenium"><i>milleni</i><par n="muze/um__n"/></e>
     <e lm="językoznawstwo"><i>językoznawstw</i><par n="nieb/o__n"/></e>
-    <e lm="oszczerstwo"><i>oszczerstw</i><par n="nieb/o__n"/></e>
-    <e lm="oszustwo"><i>oszustw</i><par n="nieb/o__n"/></e>
     <e lm="szkliwo"><i>szkliw</i><par n="nieb/o__n"/></e>
-    <e lm="warzywo"><i>warzyw</i><par n="nieb/o__n"/></e>
     <e lm="wędkarstwo"><i>wędkarstw</i><par n="nieb/o__n"/></e>
-    <e lm="widmo"><i>widm</i><par n="nieb/o__n"/></e>
-    <e lm="zastępstwo"><i>zastępstw</i><par n="nieb/o__n"/></e>
     <e lm="żeliwo"><i>żeliw</i><par n="nieb/o__n"/></e>
     <e lm="przewóz"><i>przew</i><par n="ob/óz__n"/></e>
     <e lm="arkada"><i>arkad</i><par n="od/a__n"/></e>
@@ -47906,15 +47831,11 @@
     <e lm="weranda"><i>werand</i><par n="od/a__n"/></e>
     <e lm="zdrada"><i>zdrad</i><par n="od/a__n"/></e>
     <e lm="kasta"><i>ka</i><par n="pa/sta__n"/></e>
-    <e lm="językoznawstwo"><i>językoznawstw</i><par n="piw/o__n"/></e>
     <e lm="oszczerstwo"><i>oszczerstw</i><par n="piw/o__n"/></e>
     <e lm="oszustwo"><i>oszustw</i><par n="piw/o__n"/></e>
-    <e lm="szkliwo"><i>szkliw</i><par n="piw/o__n"/></e>
     <e lm="warzywo"><i>warzyw</i><par n="piw/o__n"/></e>
-    <e lm="wędkarstwo"><i>wędkarstw</i><par n="piw/o__n"/></e>
     <e lm="widmo"><i>widm</i><par n="piw/o__n"/></e>
     <e lm="zastępstwo"><i>zastępstw</i><par n="piw/o__n"/></e>
-    <e lm="żeliwo"><i>żeliw</i><par n="piw/o__n"/></e>
     <e lm="alchemik"><i>alchemi</i><par n="Pola/k__n"/></e>
     <e lm="buntownik"><i>buntowni</i><par n="Pola/k__n"/></e>
     <e lm="dziwak"><i>dziwa</i><par n="Pola/k__n"/></e>
@@ -48876,12 +48797,7 @@
     <e lm="pobliże"><i>pobliż</i><par n="pnącz/e__n"/></e>
     <e lm="podnóże"><i>podnóż</i><par n="pnącz/e__n"/></e>
     <e lm="podłoże"><i>podłoż</i><par n="pnącz/e__n"/></e>
-    <e lm="pogranicze"><i>pogranicz</i><par n="pnącz/e__n"/></e>
     <e lm="pomorze"><i>pomorz</i><par n="pnącz/e__n"/></e>
-    <e lm="powietrze"><i>powietrz</i><par n="pnącz/e__n"/></e>
-    <e lm="średniowiecze"><i>średniowiecz</i><par n="pnącz/e__n"/></e>
-    <e lm="wybrzeże"><i>wybrzeż</i><par n="pnącz/e__n"/></e>
-    <e lm="zaplecze"><i>zaplecz</i><par n="pnącz/e__n"/></e>
     <e lm="zbocze"><i>zbocz</i><par n="pnącz/e__n"/></e>
     <e lm="czytelnik"><i>czytelni</i><par n="Pola/k__n"/></e>
     <e lm="katolik"><i>katoli</i><par n="Pola/k__n"/></e>
@@ -48962,7 +48878,6 @@
     <e lm="krajobraz"><i>krajobraz</i><par n="sklep__n"/></e>
     <e lm="kurs"><i>kurs</i><par n="sklep__n"/></e>
     <e lm="legion"><i>legion</i><par n="sklep__n"/></e>
-    <e lm="los"><i>los</i><par n="sklep__n"/></e>
     <e lm="masyw"><i>masyw</i><par n="sklep__n"/></e>
     <e lm="motyw"><i>motyw</i><par n="sklep__n"/></e>
     <e lm="napis"><i>napis</i><par n="sklep__n"/></e>
@@ -49165,7 +49080,6 @@
     <e lm="miejsce"><i>miejsc</i><par n="wesel/e__n"/></e>
     <e lm="miłosierdzie"><i>miłosierdzi</i><par n="wesel/e__n"/></e>
     <e lm="nadwozie"><i>nadwozi</i><par n="wesel/e__n"/></e>
-    <e lm="narzędzie"><i>narzędzi</i><par n="wesel/e__n"/></e>
     <e lm="podwozie"><i>podwozi</i><par n="wesel/e__n"/></e>
     <e lm="podziemie"><i>podziemi</i><par n="wesel/e__n"/></e>
     <e lm="południe"><i>południ</i><par n="wesel/e__n"/></e>
@@ -49202,7 +49116,6 @@
     <e lm="czcionka"><i>czcion</i><par n="mat/ka__n"/></e>
     <e lm="dwójka"><i>dwój</i><par n="mat/ka__n"/></e>
     <e lm="fajka"><i>faj</i><par n="mat/ka__n"/></e>
-    <e lm="fotka"><i>fot</i><par n="mat/ka__n"/></e>
     <e lm="jednostka"><i>jednost</i><par n="mat/ka__n"/></e>
     <e lm="komórka"><i>komór</i><par n="mat/ka__n"/></e>
     <e lm="kostka"><i>kost</i><par n="mat/ka__n"/></e>
@@ -49305,7 +49218,6 @@
     <e lm="materia"><i>materi</i><par n="anatomi/a__n"/></e>
     <e lm="podeszwa"><i>podesz</i><par n="bit/wa__n"/></e>
     <e lm="biuro"><i>biur</i><par n="cygar/o__n"/></e>
-    <e lm="jezioro"><i>jezior</i><par n="cygar/o__n"/></e>
     <e lm="pióro"><i>piór</i><par n="cygar/o__n"/></e>
     <e lm="browar"><i>browar</i><par n="mur__n"/></e>
     <e lm="cedr"><i>cedr</i><par n="mur__n"/></e>
@@ -49581,13 +49493,11 @@
     <e lm="żółtko"><i>żółt</i><par n="jabł/ko__n"/></e>
     <e lm="mleko"><i>mlek</i><par n="wojsk/o__n"/></e>
     <e lm="auto"><i>au</i><par n="au/to__n"/></e>
-    <e lm="niebo"><i>nieb</i><par n="nieb/o__n"/></e>
     <e lm="niebiosa"><i>niebi</i><par n="niebi/osa__n"/></e>
     <e lm="lato"><i>l</i><par n="l/ato__n"/></e>
     <e lm="piwo"><i>piw</i><par n="piw/o__n"/></e>
     <e lm="prawo"><i>praw</i><par n="piw/o__n"/></e>
     <e lm="rano"><i>ran</i><par n="piw/o__n"/></e>
-    <e lm="drzewo"><i>drzew</i><par n="piw/o__n"/></e>
     <e lm="bóstwo"><i>bóstw</i><par n="piw/o__n"/></e>
     <e lm="kasyno"><i>kasyn</i><par n="piw/o__n"/></e>
     <e lm="kino"><i>kin</i><par n="piw/o__n"/></e>
@@ -49621,7 +49531,6 @@
     <e lm="wór"><i>w</i><par n="w/ór__n"/></e>
     <e lm="topór"><i>top</i><par n="w/ór__n"/></e>
     <e lm="śpiwór"><i>śpiw</i><par n="w/ór__n"/></e>
-    <e lm="gwiazdozbiór"><i>gwiazdozbi</i><par n="gwiazdozbi/ór__n"/></e>
     <e lm="dwór"><i>dw</i><par n="gwiazdozbi/ór__n"/></e>
     <e lm="otwór"><i>otw</i><par n="gwiazdozbi/ór__n"/></e>
     <e lm="wybór"><i>wyb</i><par n="gwiazdozbi/ór__n"/></e>
@@ -49650,7 +49559,6 @@
     <e lm="koło"><i>k</i><par n="k/oło__n"/></e>
     <e lm="ciało"><i>ci</i><par n="ci/ało__n"/></e>
     <e lm="sto"><i>s</i><par n="s/to__n"/></e>
-    <e lm="cygaro"><i>cygar</i><par n="cygar/o__n"/></e>
     <e lm="przysłowie"><i>przysł</i><par n="przysł/owie__n"/></e>
     <e lm="szkło"><i>szk</i><par n="szk/ło__n"/></e>
     <e lm="ziele"><i>zi</i><par n="zi/ele__n"/></e>
@@ -49787,13 +49695,10 @@
     <e lm="dziwka"><i>dziw</i><par n="mat/ka__n"/></e>
     <e lm="ławka"><i>ław</i><par n="mat/ka__n"/></e>
     <e lm="książka"><i>książ</i><par n="mat/ka__n"/></e>
-    <e lm="dwójka"><i>dwój</i><par n="mat/ka__n"/></e>
-    <e lm="fajka"><i>faj</i><par n="mat/ka__n"/></e>
     <e lm="fotka"><i>fot</i><par n="mat/ka__n"/></e>
     <e lm="fizyka"><i>fizy</i><par n="rze/ka__n"/></e>
     <e lm="ciocia"><i>cio</i><par n="cio/cia__n"/></e>
     <e lm="babcia"><i>bab</i><par n="cio/cia__n"/></e>
-    <e lm="ulica"><i>ulic</i><par n="ulic/a__n"/></e>
     <e lm="gąsienica"><i>gąsienic</i><par n="ulic/a__n"/></e>
     <e lm="cukrzyca"><i>cukrzyc</i><par n="ulic/a__n"/></e>
     <e lm="błyskawica"><i>błyskawic</i><par n="ulic/a__n"/></e>
@@ -49820,7 +49725,6 @@
     <e lm="pizza"><i>pizz</i><par n="ulic/a__n"/></e>
     <e lm="plaża"><i>plaż</i><par n="ulic/a__n"/></e>
     <e lm="rękawica"><i>rękawic</i><par n="ulic/a__n"/></e>
-    <e lm="różnica"><i>różnic</i><par n="ulic/a__n"/></e>
     <e lm="samica"><i>samic</i><par n="ulic/a__n"/></e>
     <e lm="soczewica"><i>soczewic</i><par n="ulic/a__n"/></e>
     <e lm="spódnica"><i>spódnic</i><par n="ulic/a__n"/></e>
@@ -49958,7 +49862,6 @@
     <e lm="temperatura"><i>temperatur</i><par n="viagr/a__n"/></e>
     <e lm="góra"><i>gór</i><par n="viagr/a__n"/></e>
     <e lm="doba"><i>d</i><par n="d/oba__n"/></e>
-    <e lm="osoba"><i>os</i><par n="d/oba__n"/></e>
     <e lm="gra"><i>g</i><par n="g/ra__n"/></e>
     <e lm="rzeka"><i>rze</i><par n="rze/ka__n"/></e>
     <e lm="biblioteka"><i>bibliote</i><par n="rze/ka__n"/></e>
@@ -50007,7 +49910,6 @@
     <e lm="czasownik"><i>czasownik</i><par n="kajak__n"/></e>
     <e lm="guzik"><i>guzik</i><par n="kajak__n"/></e>
     <e lm="hak"><i>hak</i><par n="kajak__n"/></e>
-    <e lm="język"><i>język</i><par n="kajak__n"/></e>
     <e lm="krzak"><i>krzak</i><par n="kajak__n"/></e>
     <e lm="licznik"><i>licznik</i><par n="kajak__n"/></e>
     <e lm="miejscownik"><i>miejscownik</i><par n="kajak__n"/></e>
@@ -50128,7 +50030,6 @@
     <e a="kurnik" lm="krypton"><i>krypton</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="okultyzm"><i>okultyzm</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="mikroorganizm"><i>mikroorganizm</i><par n="sklep__n"/></e>
-    <e a="kurnik" lm="organizm"><i>organizm</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="antyneutron"><i>antyneutron</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="neutron"><i>neutron</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="nikielin"><i>nikielin</i><par n="sklep__n"/></e>
@@ -50138,16 +50039,13 @@
     <e a="kurnik" lm="ciupas"><i>ciupas</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="girokompas"><i>girokompas</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="impas"><i>impas</i><par n="sklep__n"/></e>
-    <e a="kurnik" lm="kompas"><i>kompas</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="pampas"><i>pampas</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="paseizm"><i>paseizm</i><par n="sklep__n"/></e>
-    <e a="kurnik" lm="pas"><i>pas</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="passus"><i>passus</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="pasywizm"><i>pasywizm</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="popas"><i>popas</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="aeroklub"><i>aeroklub</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="biurokratyzm"><i>biurokratyzm</i><par n="sklep__n"/></e>
-    <e a="kurnik" lm="girokompas"><i>girokompas</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="hydroksybenzen"><i>hydroksybenzen</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="kroksztyn"><i>kroksztyn</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="makrokosmos"><i>makrokosmos</i><par n="sklep__n"/></e>
@@ -50157,7 +50055,6 @@
     <e a="kurnik" lm="paroksyzm"><i>paroksyzm</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="drzewostan"><i>drzewostan</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="ksenon"><i>ksenon</i><par n="sklep__n"/></e>
-    <e a="kurnik" lm="ksylofon"><i>ksylofon</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="absolutyzm"><i>absolutyzm</i><par n="sklep__n"/></e>
     <e lm="festiwal"><i>festiwal</i><par n="hotel__n"/></e>
     <e lm="koktajl"><i>koktajl</i><par n="hotel__n"/></e>
@@ -50245,7 +50142,6 @@
     <e lm="współpraca"><i>współprac</i><par n="ulic/a__n"/></e>
     <e lm="procedura"><i>procedur</i><par n="viagr/a__n"/></e>
     <e lm="bezrobocie"><i>bezroboci</i><par n="wesel/e__n"/></e>
-    <e lm="miejsce"><i>miejsc</i><par n="wesel/e__n"/></e>
     <e lm="zdrowie"><i>zdrowi</i><par n="wesel/e__n"/></e>
     <e lm="swoboda"><i>swob</i><par n="w/oda__n"/></e>
     <e lm="zgoda"><i>zg</i><par n="w/oda__n"/></e>
@@ -50873,7 +50769,6 @@
     <e lm="halucynacja"><i>halucynac</i><par n="dysertac/ja__n"/></e>
     <e lm="inflacja"><i>inflac</i><par n="dysertac/ja__n"/></e>
     <e lm="inkubacja"><i>inkubac</i><par n="dysertac/ja__n"/></e>
-    <e lm="integracja"><i>integrac</i><par n="dysertac/ja__n"/></e>
     <e lm="plutokracja"><i>plutokrac</i><par n="dysertac/ja__n"/></e>
     <e lm="symulacja"><i>symulac</i><par n="dysertac/ja__n"/></e>
     <e lm="aerodynamika"><i>aerodynami</i><par n="rze/ka__n"/></e>
@@ -51070,7 +50965,6 @@
     <e lm="zakrystia"><i>zakrysti</i><par n="filozofi/a__n"/></e>
     <e a="kurnik" lm="brom"><i>brom</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="antymon"><i>antymon</i><par n="sklep__n"/></e>
-    <e a="kurnik" lm="bursztyn"><i>bursztyn</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="faszyzm"><i>faszyzm</i><par n="sklep__n"/></e>
     <e lm="jesiotr"><i>jesiotr</i><par n="tur__n"/></e>
     <e lm="ichtiozaur"><i>ichtiozaur</i><par n="tur__n"/></e>
@@ -51126,7 +51020,6 @@
     <e lm="waranozaur"><i>waranozaur</i><par n="tur__n"/></e>
     <e lm="amur"><i>amur</i><par n="tur__n"/></e>
     <e a="kurnik" lm="medium"><i>medi</i><par n="muze/um__n"/></e>
-    <e a="kurnik" lm="neologizm"><i>neologizm</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="omnibus"><i>omnibus</i><par n="sklep__n"/></e>
     <e a="kurnik" lm="wolność"><i>wolnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="marskość wątroby"><i>marskoś</i><par n="miłoś/ć__n"/><p><l><b/>wątroby</l><r><g><b/>wątroby</g></r></p></e>
@@ -51143,7 +51036,6 @@
     <e lm="akceptowalność"><i>akceptowalnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="akcyjność"><i>akcyjnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="aktualność"><i>aktualnoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="aktywność"><i>aktywnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="akuratność"><i>akuratnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="alegoryczność"><i>alegorycznoś</i><par n="miłoś/ć__n"/></e>
     <e lm="alkaliczność"><i>alkalicznoś</i><par n="miłoś/ć__n"/></e>
@@ -51159,8 +51051,6 @@
     <e lm="apatyczność"><i>apatycznoś</i><par n="miłoś/ć__n"/></e>
     <e lm="apodyktyczność"><i>apodyktycznoś</i><par n="miłoś/ć__n"/></e>
     <e lm="apolityczność"><i>apolitycznoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="archaiczność"><i>archaicznoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="asertywność"><i>asertywnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="asocjatywność"><i>asocjatywnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="asymetryczność"><i>asymetrycznoś</i><par n="miłoś/ć__n"/></e>
     <e lm="asynchroniczność"><i>asynchronicznoś</i><par n="miłoś/ć__n"/></e>
@@ -51180,7 +51070,6 @@
     <e lm="bezpartyjność"><i>bezpartyjnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="bezpieczność"><i>bezpiecznoś</i><par n="miłoś/ć__n"/></e>
     <e lm="bezprawność"><i>bezprawnoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="bezradność"><i>bezradnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="bezsenność"><i>bezsennoś</i><par n="miłoś/ć__n"/></e>
     <e lm="bezwładność"><i>bezwładnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="białość"><i>białoś</i><par n="miłoś/ć__n"/></e>
@@ -51321,7 +51210,6 @@
     <e lm="łaskawość"><i>łaskawoś</i><par n="miłoś/ć__n"/></e>
     <e lm="lekkomyślność"><i>lekkomyślnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="lekkość"><i>lekkoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="leniwość"><i>leniwoś</i><par n="miłoś/ć__n"/></e>
     <e lm="lojalność"><i>lojalnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="lubość"><i>luboś</i><par n="miłoś/ć__n"/></e>
     <e lm="mądrość"><i>mądroś</i><par n="miłoś/ć__n"/></e>
@@ -51372,23 +51260,18 @@
     <e lm="zgubność"><i>zgubnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="złość"><i>złoś</i><par n="miłoś/ć__n"/></e>
     <e lm="zwykłość"><i>zwykłoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="agresywność"><i>agresywnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="aktywność"><i>aktywnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="anonimowość"><i>anonimowoś</i><par n="miłoś/ć__n"/></e>
     <e lm="archaiczność"><i>archaicznoś</i><par n="miłoś/ć__n"/></e>
     <e lm="grywalność"><i>grywalnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="asertywność"><i>asertywnoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="autentyczność"><i>autentycznoś</i><par n="miłoś/ć__n"/></e>
     <e lm="bankowość"><i>bankowoś</i><par n="miłoś/ć__n"/></e>
     <e lm="tchórzliwość"><i>tchórzliwoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="bojaźliwość"><i>bojaźliwoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="bezbożność"><i>bezbożnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="obojętność"><i>obojętnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="nieczułość"><i>nieczułoś</i><par n="miłoś/ć__n"/></e>
     <e lm="niegodziwość"><i>niegodziwoś</i><par n="miłoś/ć__n"/></e>
     <e lm="bezradność"><i>bezradnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="legalność"><i>legalnoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="lekkomyślność"><i>lekkomyślnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="łatwowierność"><i>łatwowiernoś</i><par n="miłoś/ć__n"/></e>
     <e lm="ludzkość"><i>ludzkoś</i><par n="miłoś/ć__n"/></e>
     <e lm="leniwość"><i>leniwoś</i><par n="miłoś/ć__n"/></e>
@@ -51420,10 +51303,8 @@
     <e lm="czytelność"><i>czytelnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="niedostępność"><i>niedostępnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="dokładność"><i>dokładnoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="dostępność"><i>dostępnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="śmieszność"><i>śmiesznoś</i><par n="miłoś/ć__n"/></e>
     <e lm="ciemność"><i>ciemnoś</i><par n="miłoś/ć__n"/></e>
-    <e lm="czerwoność"><i>czerwonoś</i><par n="miłoś/ć__n"/></e>
     <e lm="jasność"><i>jasnoś</i><par n="miłoś/ć__n"/></e>
     <e lm="Serb"><i>Serb</i><par n="astronom__n"/></e>
     <e lm="Australijka"><i>Australij</i><par n="mat/ka__n"/></e>

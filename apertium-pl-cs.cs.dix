@@ -21604,7 +21604,7 @@
       <e><p>          <l>es</l><r>ést<s n="vbser"/></r></p><par n="BASE__udrž"/></e>
       <e><p>          <l>es</l><r>ést<s n="vblex"/><s n="perf"/><s n="pres"/></r></p><par n="BASE__čtu"/></e>
       <e><p>          <l>es</l><r>ést<s n="vblex"/><s n="perf"/><s n="fti"/></r></p><par n="BASE__čtu"/></e>
-      <e><p>          <l>esen</l><r>ést<s n="vblex"/><s n="perf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>esl</l><r>ést<s n="vblex"/><s n="perf"/></r></p><par n="BASE__napsal"/></e>
       <e><p>          <l>es</l><r>ést<s n="vblex"/><s n="perf"/></r></p><par n="BASE__měv"/></e>
     </pardef>
     <pardef n="pod/epsat__vblex">
@@ -21618,12 +21618,7 @@
       <e><p>          <l>píšou</l><r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
       <e r="LR"><p>   <l>píší</l><r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>epsal</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>epsala</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>epsalo</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
-      <e><p>          <l>epsali</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p>          <l>epsaly</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
-      <e><p>          <l>epsala</l><r>epsat<s n="vblex"/><s n="perf"/><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+      <e><p>          <l>epsal</l><r>ést<s n="vblex"/><s n="perf"/></r></p><par n="BASE__napsal"/></e>
 	</pardef>
 
     <!-- Prepositions -->
