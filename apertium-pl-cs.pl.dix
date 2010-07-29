@@ -12716,6 +12716,18 @@
           <r><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r>
         </p>
       </e>
+      <e r="RL">
+        <p>
+          <l>li</l>
+          <r><s n="past"/><s n="p3"/><s n="mi"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>li</l>
+          <r><s n="past"/><s n="p3"/><s n="ma"/><s n="pl"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>łyśmy</l>
@@ -14011,7 +14023,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="BASE__mógłem">
+    <pardef n="BASE__mogłem">
       <e>
         <p>
           <l>łem</l>
@@ -14932,7 +14944,7 @@
           <l>og</l>
           <r>óc<s n="vaux"/><s n="imperf"/></r>
         </p>
-        <par n="BASE__mógłem"/>
+        <par n="BASE__mogłem"/>
       </e>
       <e>
         <p>
@@ -15298,6 +15310,68 @@
         <p>
           <l>awszy</l>
           <r>ać<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="stra/cić__vblex">
+      <e><p><l>cić</l><r>cić<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
+      <e>
+        <p>
+          <l>cę</l>
+          <r>cić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>cić<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>cą</l>
+          <r>cić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ć</l>
+          <r>cić<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>cić<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytałem"/>
+      </e>
+      <e>
+        <p>
+          <l>ce</l>
+          <r>cić<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>c</l>
+          <r>cić<s n="vblex"/><s n="perf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>cono</l>
+          <r>cić<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iwszy</l>
+          <r>cić<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
         </p>
       </e>
     </pardef>
@@ -16666,20 +16740,20 @@
       <e>
         <p>
           <l>ę</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+          <r>yć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>y</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+          <r>yć<s n="vblex"/><s n="perf"/><s n="fti"/></r>
         </p>
         <par n="BASE__czyta"/>
       </e>
       <e>
         <p>
           <l>ą</l>
-          <r>ać<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+          <r>yć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
       <e>
@@ -42199,6 +42273,7 @@
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
 
+    <e lm="stracić"><i>stra</i><par n="stra/cić__vblex"/></e>
     <e lm="zatytułować"><i>zatytuł</i><par n="namal/ować__vblex"/></e>
     <e lm="zrównoważyć"><i>zrównoważ</i><par n="uwierz/yć__vblex"/></e>
     <e lm="zapewniać"><i>zapewni</i><par n="czyt/ać__vblex"/></e>
@@ -51421,6 +51496,9 @@
     <!-- Proper Nouns -->
     <e lm="Kosowo"><i>Kosow</i><par n="Wiln/o__np"/></e>
     <e lm="Brenda"><i>Brend</i><par n="Wand/a__np"/></e>
+    <e lm="Linda"><i>Lind</i><par n="Wand/a__np"/></e>
+    <e lm="Sonja"><i>Sonj</i><par n="Wand/a__np"/></e>
+    <e lm="Breda"><i>Bred</i><par n="Wand/a__np"/></e>
     <e lm="Gertruda"><i>Gertrud</i><par n="Wand/a__np"/></e>
     <e lm="Magda"><i>Magd</i><par n="Wand/a__np"/></e>
     <e lm="Ida"><i>Id</i><par n="Wand/a__np"/></e>
@@ -51622,6 +51700,7 @@
     <e lm="Zuzanna"><i>Zuzan</i><par n="Joan/ka__np_dim"/></e>
     <e lm="Beata"><i>Bea</i><par n="Bea/ta__np"/></e>
     <e lm="Beata"><i>Bea</i><par n="Bea/tka__np_dim"/></e>
+    <e lm="Alžběta"><i>Alžbě</i><par n="Bea/ta__np"/></e>
     <e lm="Elżbieta"><i>Elżbie</i><par n="Bea/ta__np"/></e>
     <e lm="Elżbieta"><i>Elżbie</i><par n="Bea/tka__np_dim"/></e>
     <e lm="Elżbieta I"><i>Elżbie</i><par n="Bea/ta__np"/><p><l><b/>I</l><r><g><b/>I</g></r></p></e>
@@ -51756,6 +51835,8 @@
     <e lm="Eva"><i>Ev</i><par n="Iz/ka__np_dim"/></e>
     <e lm="Adina"><i>Adin</i><par n="Iz/a__np"/></e>
     <e lm="Adina"><i>Adin</i><par n="Iz/ka__np_dim"/></e>
+    <e lm="Ada"><i>Ad</i><par n="Iz/a__np"/></e>
+    <e lm="Alma"><i>Alm</i><par n="Iz/a__np"/></e>
     <e lm="Adriana"><i>Adrian</i><par n="Iz/a__np"/></e>
     <e lm="Adriana"><i>Adrian</i><par n="Iz/ka__np_dim"/></e>
     <e lm="Alana"><i>Alan</i><par n="Iz/a__np"/></e>
@@ -51869,8 +51950,9 @@
     <e lm="Zuzana"><i>Zuzan</i><par n="Iz/a__np"/></e>
     <e lm="Zuzana"><i>Zuzan</i><par n="Iz/ka__np_dim"/></e>
     <e lm="Wanda"><i>Wand</i><par n="Wand/a__np"/></e>
+    <e lm="Vanda"><i>Vand</i><par n="Wand/a__np"/></e>
+    <e lm="Amanda"><i>Amand</i><par n="Wand/a__np"/></e>
     <e lm="Wanda"><i>Wand</i><par n="Iz/ka__np_dim"/></e>
-
     <e lm="Mikulicz"><i>Mikulicz</i><par n="Mikulicz__np"/></e>
     <e lm="Kozyra"><i>Kozyr</i><par n="Kozyr/a__np"/></e>
 

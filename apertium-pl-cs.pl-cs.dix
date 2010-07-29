@@ -802,7 +802,6 @@
     <e r="LR"><p><l>dziewięćset<s n="num"/><s n="qnt"/><s n="mp"/></l><r>devět<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
     <e><p><l>dziewięćset<s n="num"/><s n="qnt"/><s n="nm"/></l><r>devět<b/>set<s n="num"/><s n="qnt"/><s n="mf"/></r></p></e>
 -->
-
     <e><p><l>sto<s n="n"/><s n="nt"/><s n="sg"/></l><r>sto<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>sto<s n="n"/><s n="nt"/><s n="pl"/></l><r>sto<s n="n"/><s n="nt"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>sto<s n="n"/><s n="nt"/><s n="pl"/></l><r>sto<s n="n"/><s n="nt"/><s n="du"/></r></p></e>
@@ -13432,7 +13431,8 @@
     <e><p><l>Belgia<s n="np"/><s n="top"/><s n="f"/></l><r>Belgie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Francja<s n="np"/><s n="top"/><s n="f"/></l><r>Francie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Warszawa<s n="np"/><s n="top"/><s n="f"/></l><r>Varšava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Kosowo<s n="np"/><s n="top"/><s n="nt"/></l><r>Kosovo<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Kosowo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></l><r>Kosovo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>Kosowo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></l><r>Kosovo<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/></r></p></e>
     <e><p><l>Bielsko-Biała<s n="np"/><s n="top"/><s n="nt"/></l><r>Bílsko-Bělá<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Poznań<s n="np"/><s n="top"/><s n="mi"/></l><r>Poznaň<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Toruń<s n="np"/><s n="top"/><s n="mi"/></l><r>Toruň<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -13443,8 +13443,8 @@
     <e r="RL"><p><l>Czechy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Česko<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/></r></p></e>
     <e><p><l>Niemcy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Německo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>Niemcy<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Německo<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/></r></p></e>
-    <e><p><l>Węgry<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/></l><r>Maďarsko<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>Węgry<s n="np"/><s n="top"/><s n="mi"/><s n="pl"/></l><r>Maďarsko<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/></r></p></e>
+    <e><p><l>Węgry<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Maďarsko<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>Węgry<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Maďarsko<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/></r></p></e>
     <e><p><l>Grecja<s n="np"/><s n="top"/><s n="f"/></l><r>Řecko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Hiszpania<s n="np"/><s n="top"/><s n="f"/></l><r>Španělsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
     <e><p><l>Dania<s n="np"/><s n="top"/><s n="f"/></l><r>Dánsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>

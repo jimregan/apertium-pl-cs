@@ -93,6 +93,7 @@
     <sdef n="po"     c=""/>
     <sdef n="percent" c=""/>
     <sdef n="ord" c=""/>
+    <sdef n="impers" c=""/>
   </sdefs>
 
   <pardefs>
@@ -21077,14 +21078,14 @@
       <e r="LR"><p>   <l>lyť</l><r><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="BASE__četl">  <!-- fmorph s1 -->
-      <e><p>          <l></l><r><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p>          <l>a</l><r><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p>          <l>o</l><r><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
-      <e><p>          <l>i</l><r><s n="past"/><s n="ma"/><s n="pl"/></r></p></e>
-      <e><p>          <l>y</l><r><s n="past"/><s n="mi"/><s n="pl"/></r></p></e>
-      <e r="RL"><p>   <l>y</l><r><s n="past"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p>          <l>y</l><r><s n="past"/><s n="f"/><s n="pl"/></r></p></e>
-      <e><p>          <l>a</l><r><s n="past"/><s n="nt"/><s n="pl"/></r></p></e>
+      <e><p>          <l></l><r><s n="m"/><s n="sg"/></r></p></e>
+      <e><p>          <l>a</l><r><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>o</l><r><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>i</l><r><s n="ma"/><s n="pl"/></r></p></e>
+      <e><p>          <l>y</l><r><s n="mi"/><s n="pl"/></r></p></e>
+      <e r="RL"><p>   <l>y</l><r><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>y</l><r><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>a</l><r><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="BASE__chtěn">
       <e><p>          <l></l><r><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
@@ -21198,7 +21199,7 @@
       <e><p>          <l>še</l><r><s n="tgv"/><s n="pp"/><s n="nt"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="BASE__pohostím">  <!-- fmorph itxd -->
-      <e><p>          <l>il</l><r></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>il</l><r><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>iv</l><r></r></p><par n="BASE__měv"/></e>
 
       <e><p>          <l>ím</l><r><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -21224,7 +21225,7 @@
       <e><p>          <l>budete</l><r>být<s n="vbser"/><s n="fti"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p>          <l>budou</l><r>být<s n="vbser"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>byl</l><r>být<s n="vbser"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>byl</l><r>být<s n="vbser"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>jsouc</l><r>být<s n="vbser"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
       <e><p>          <l>buď</l><r>být<s n="vbser"/></r></p><par n="BASE__udrž"/></e>
       <e><p>          <l>js</l><r>být<s n="vbser"/></r></p><par n="BASE__jsa"/></e>
@@ -21239,7 +21240,7 @@
       <e><p>          <l>áte</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p>          <l>ájí</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>ěl</l><r>ít<s n="vbhaver"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>ěl</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>ěv</l><r>ít<s n="vbhaver"/><s n="imperf"/></r></p><par n="BASE__měv"/></e>
 
       <e><p>          <l>aje</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
@@ -21268,7 +21269,7 @@
       <e><p>          <l>ůžou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
       <e r="LR"><p>   <l>ohou</l><r>oci<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>ohl</l><r>oci<s n="vaux"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>ohl</l><r>oci<s n="vaux"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>oha</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
       <e><p>          <l>oha</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
       <e><p>          <l>ohouc</l><r>oci<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
@@ -21288,7 +21289,7 @@
       <e><p>          <l>ejí</l><r>et<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
       <e r="LR"><p>   <l>í</l><r>et<s n="vaux"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>el</l><r>et<s n="vaux"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>el</l><r>et<s n="vaux"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>ejíc</l><r>et<s n="vaux"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
 
       <e><p>          <l>eje</l><r>et<s n="vaux"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
@@ -21364,7 +21365,7 @@
     <pardef n="č/íst__vblex">
       <e><p>          <l>íst</l><r>íst<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
       <e><p>          <l>t</l><r>íst<s n="vblex"/><s n="imperf"/><s n="pres"/></r></p><par n="BASE__čtu"/></e>
-      <e><p>          <l>etl</l><r>íst<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>etl</l><r>íst<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
 	  <e><p>		  <l>t</l><r>íst<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__čti"/></e>
 	  <e><p>		  <l></l><r>íst<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__čtě"/></e>
       <e><p>          <l>tění</l><r>íst<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
@@ -21386,7 +21387,7 @@
     <pardef n="přeč/íst__vblex">
       <e><p>          <l>íst</l><r>íst<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
       <e><p>          <l>t</l><r>íst<s n="vblex"/><s n="perf"/><s n="fti"/></r></p><par n="BASE__čtu"/></e>
-      <e><p>          <l>etl</l><r>íst<s n="vblex"/><s n="perf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>etl</l><r>íst<s n="vblex"/><s n="perf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>tev</l><r>íst<s n="vblex"/><s n="perf"/></r></p><par n="BASE__měv"/></e>
 
       <e><p>          <l>tění</l><r>íst<s n="vblex"/><s n="perf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
@@ -21400,7 +21401,7 @@
     <pardef n="kr/ýt__vblex">
       <e><p>          <l>ýt</l><r>ýt<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
       <e><p>          <l>yj</l><r>ýt<s n="vblex"/><s n="imperf"/><s n="pres"/></r></p><par n="BASE__kryji"/></e>
-      <e><p>          <l>yl</l><r>ýt<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>yl</l><r>ýt<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>yj</l><r>ýt<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
 
       <e><p>          <l>yje</l><r>ýt<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
@@ -21419,7 +21420,7 @@
     <pardef n="ž/ít__vblex">
       <e><p>          <l>ít</l><r>ít<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
       <e><p>          <l>ij</l><r>ýt<s n="vblex"/><s n="imperf"/><s n="pres"/></r></p><par n="BASE__kryji"/></e>
-      <e><p>          <l>il</l><r>ít<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>il</l><r>ít<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>ij</l><r>ýt<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
 
       <e><p>          <l>ije</l><r>ít<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
@@ -21438,7 +21439,7 @@
     <pardef n="hr/át__vblex">
       <e><p>          <l>át</l><r>át<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
       <e><p>          <l>aj</l><r>át<s n="vblex"/><s n="imperf"/><s n="pres"/></r></p><par n="BASE__kryji"/></e>
-      <e><p>          <l>ál</l><r>át<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>ál</l><r>át<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>aj</l><r>ýt<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
       <e r="LR"><p>   <l>ej</l><r>ýt<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
 
@@ -21457,7 +21458,7 @@
     </pardef>
     <pardef n="/hnát__vblex">
       <e><p>          <l>hnát</l><r>hnát<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
-      <e><p>          <l>hnál</l><r>hnát<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>hnál</l><r>hnát<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>žeň</l><r>hnát<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
 
       <e><p>          <l>ženu</l><r>hnát<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -21475,7 +21476,7 @@
     </pardef>
     <pardef n="pro/sit__vblex">
       <e><p>          <l>sit</l><r>sit<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
-      <e><p>          <l>sil</l><r>sit<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>sil</l><r>sit<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>aj</l><r>ýt<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
 
       <e><p>          <l>sím</l><r>sit<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -21500,7 +21501,7 @@
     </pardef>
     <pardef n="pr/dět__vblex">
       <e><p>          <l>dět</l><r>dět<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
-      <e><p>          <l>děl</l><r>dět<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>děl</l><r>dět<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>ď</l><r>dět<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
 
       <e><p>          <l>dím</l><r>dět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -21532,7 +21533,7 @@
       <e><p>          <l>ní</l><r>nit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e> <!-- check -->
 
       <e><p>          <l>něn</l><r>nit<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
-      <e><p>          <l>nil</l><r>nit<s n="vblex"/><s n="perf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>nil</l><r>nit<s n="vblex"/><s n="perf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
     </pardef>
     <pardef n="mi/nout__vblex"> <!-- ger missing -->
       <e><p>          <l>nout</l><r>nout<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
@@ -21546,7 +21547,7 @@
       <e><p>          <l>nete</l><r>nout<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p>          <l>nou</l><r>nout<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>nul</l><r>nout<s n="vblex"/><s n="perf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>nul</l><r>nout<s n="vblex"/><s n="perf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>nut</l><r>nout<s n="vblex"/><s n="perf"/></r></p><par n="BASE__chtěn"/></e>
 
       <e><p>          <l>nul</l><r>nout<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
@@ -21562,7 +21563,7 @@
       <e><p>          <l>íte</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p>          <l>ědí</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>ěděl</l><r>ědět<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>ěděl</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>ěděn</l><r>ědět<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
       <e><p>          <l>ědění</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
       <e><p>          <l>ědouc</l><r>ědět<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
@@ -21580,7 +21581,7 @@
       <e><p>          <l>ezete</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p>          <l>ezou</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>ezl</l><r>ézt<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>ezl</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>ezen</l><r>ézt<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
       <e><p>          <l>ezení</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
       <e><p>          <l>ezouc</l><r>ézt<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
@@ -21599,7 +21600,7 @@
       <e><p>          <l>ějí</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
       <e r="LR"><p>          <l>í</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>ěl</l><r>ět<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>ěl</l><r>ět<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>ěn</l><r>ět<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
       <e><p>          <l>ění</l><r>ět<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
       <e><p>          <l>ějíc</l><r>ět<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
@@ -21628,7 +21629,7 @@
       <e><p>          <l>ují</l><r>ovat<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
       <e r="LR"><p>   <l>ujou</l><r>ovat<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>oval</l><r>ovat<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>oval</l><r>ovat<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>ován</l><r>ovat<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
       <e><p>          <l>ování</l><r>ovat<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
       <e><p>          <l>ujíc</l><r>ovat<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
@@ -21657,7 +21658,7 @@
       <e><p>          <l>ují</l><r>ovat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
       <e r="LR"><p>   <l>ujou</l><r>ovat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>oval</l><r>ovat<s n="vblex"/><s n="perf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>oval</l><r>ovat<s n="vblex"/><s n="perf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>ován</l><r>ovat<s n="vblex"/><s n="perf"/></r></p><par n="BASE__chtěn"/></e>
       <e><p>          <l>ování</l><r>ovat<s n="vblex"/><s n="perf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
       <e><p>          <l>ován</l><r>ovat<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
@@ -21674,7 +21675,7 @@
       <e><p>          <l>áte</l><r>at<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p>          <l>ají</l><r>at<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>al</l><r>at<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>al</l><r>at<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>án</l><r>at<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
       <e><p>          <l>ání</l><r>at<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
       <e><p>          <l>ajíc</l><r>at<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
@@ -21702,7 +21703,7 @@
       <e><p>          <l>ečete</l><r>éci<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p>          <l>ečou</l><r>éci<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>ekl</l><r>éci<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>ekl</l><r>éci<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>ečen</l><r>éci<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
       <e><p>          <l>ečení</l><r>éci<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
       <e><p>          <l>ekouc</l><r>éci<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
@@ -21731,7 +21732,7 @@
       <e><p>          <l>slejí</l><r>slet<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
       <e r="LR"><p>   <l>slí</l><r>slet<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>slel</l><r>slet<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>slel</l><r>slet<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>šlen</l><r>slet<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
       <e><p>          <l>šlení</l><r>slet<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
       <e><p>          <l>slejíc</l><r>slet<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
@@ -21759,7 +21760,7 @@
       <e><p>          <l>cete</l><r>tít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p>          <l>tějí</l><r>tít<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e><p>          <l>těl</l><r>tít<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>těl</l><r>tít<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l>těn</l><r>tít<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
       <e><p>          <l>těn</l><r>tít<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
       <e><p>          <l>tějíc</l><r>tít<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
@@ -21821,7 +21822,7 @@
       <e><p>          <l>tit</l><r>tit<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
       <e><p>          <l>tiv</l><r>tit<s n="vblex"/><s n="perf"/></r></p><par n="BASE__měv"/></e>
       <e><p>          <l>cení</l><r>tit<s n="vblex"/><s n="perf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
-      <e><p>          <l>til</l><r>tit<s n="vblex"/><s n="perf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>til</l><r>tit<s n="vblex"/><s n="perf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l></l><r>tit<s n="vblex"/><s n="perf"/></r></p><par n="BASE__plať"/></e>
 
       <e><p>          <l>tím</l><r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -21843,7 +21844,7 @@
       <e><p>          <l>tit</l><r>tit<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
 	  <e><p>		  <l></l><r>tit<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__čtě"/></e>
       <e><p>          <l>cení</l><r>tit<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
-      <e><p>          <l>til</l><r>tit<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>til</l><r>tit<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l></l><r>tit<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__plať"/></e>
 
       <e><p>          <l>tím</l><r>tit<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -21865,7 +21866,7 @@
       <e><p>          <l>it</l><r>it<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
       <e><p>          <l>iv</l><r>it<s n="vblex"/><s n="perf"/></r></p><par n="BASE__měv"/></e>
       <e><p>          <l>ení</l><r>it<s n="vblex"/><s n="perf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
-      <e><p>          <l>il</l><r>it<s n="vblex"/><s n="perf"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>il</l><r>it<s n="vblex"/><s n="perf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
       <e><p>          <l></l><r>it<s n="vblex"/><s n="perf"/></r></p><par n="BASE__udrž"/></e>
 
       <e><p>          <l>ím</l><r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
@@ -21896,6 +21897,7 @@
       <e><p>          <l>áž</l><r>ážit<s n="vblex"/><s n="perf"/></r></p><par n="BASE__pohostím"/></e>
       <e><p>          <l>áž</l><r>ážit<s n="vblex"/><s n="perf"/></r></p><par n="BASE__udrž"/></e>
       <e><p>          <l>ážěn</l><r>ážit<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
+      <e><p>          <l>ážen</l><r>ážit<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/></r></p><par n="BASE__četl"/></e>
 	</pardef>
     <pardef n="zv/ýšit__vblex"> 
       <e><p>          <l>ýšit</l><r>ýšit<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
@@ -21904,7 +21906,6 @@
       <e><p>          <l>ýš</l><r>ýšit<s n="vblex"/><s n="perf"/></r></p><par n="BASE__udrž"/></e>
       <e><p>          <l>ýšený</l><r>ýšit<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
 	</pardef>
-
 
     <!-- Prepositions -->
     <pardef n="za__pr">
