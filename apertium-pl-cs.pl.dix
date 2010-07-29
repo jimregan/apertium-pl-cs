@@ -15313,6 +15313,137 @@
         </p>
       </e>
     </pardef>
+    <pardef n="upro/ścić__vblex">
+      <e><p><l>ścić</l><r>ścić<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
+      <e>
+        <p>
+          <l>szczę</l>
+          <r>ścić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ści</l>
+          <r>ścić<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>szczą</l>
+          <r>ścić<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ść</l>
+          <r>ścić<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>ści</l>
+          <r>ścić<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytałem"/>
+      </e>
+      <e>
+        <p>
+          <l>szcze</l>
+          <r>ścić<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>szcz</l>
+          <r>ścić<s n="vblex"/><s n="perf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>szczono</l>
+          <r>ścić<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ściwszy</l>
+          <r>ścić<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="pła/cić__vblex">
+      <e><p><l>cić</l><r>cić<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+      <e>
+        <p>
+          <l>cę</l>
+          <r>cić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>cić<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>cą</l>
+          <r>cić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ć</l>
+          <r>cić<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>cić<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytałem"/>
+      </e>
+      <e>
+        <p>
+          <l>ce</l>
+          <r>cić<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>c</l>
+          <r>cić<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>cono</l>
+          <r>cić<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cąc</l>
+          <r>cić<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+      <e>
+        <p>
+          <l>cąc</l>
+          <r>cić<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="stra/cić__vblex">
       <e><p><l>cić</l><r>cić<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
       <e>
@@ -40000,6 +40131,9 @@
 
     <!-- Adjectives -->
     <!-- Synthetic adjectives -->
+    <e lm="szanowny"><i>szanown</i><par n="now/y__adj"/></e>
+    <e lm="szanowny"><p><l>szanowniej</l><r>szanowny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="szanowny"><p><l>najszanowniej</l><r>szanowny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="czerstwy"><i>czerstw</i><par n="now/y__adj"/></e>
     <e lm="czerstwy"><p><l>czerstwiej</l><r>czerstwy</r></p><par n="lep/szy__adj"/></e>
     <e lm="czerstwy"><p><l>najczerstwiej</l><r>czerstwy</r></p><par n="najlep/szy__adj"/></e>
@@ -41020,6 +41154,888 @@
     <e lm="żółciejszy" r="LR"><p><l>żółciej</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
     <e lm="najżółciejszy" r="LR"><p><l>najżółciej</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
 
+    <e lm="czołowy"><i>czołow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wiarołomny"><i>wiarołomn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="grubiański"><i>grubiańs</i><par n="mors/ki__adj"/></e>
+    <e lm="pakistański"><i>pakistańs</i><par n="pols/ki__adj"/></e>
+    <e lm="żyliński"><i>żylińs</i><par n="pols/ki__adj"/></e>
+    <e lm="absolutystyczny"><i>absolutystyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="abstrakcyjny"><i>abstrakcyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="absurdalny"><i>absurdaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="adaptatywny"><i>adaptatywn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="aerobowy"><i>aerobow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="aerodynamiczny"><i>aerodynamiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="akcyjny"><i>akcyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="akrobatyczny"><i>akrobatyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="akustyczny"><i>akustyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="akwizycyjny"><i>akwizycyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="alegoryczny"><i>alegoryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="alkaliczny"><i>alkaliczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="alkoholowy"><i>alkoholow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ambicjonalny"><i>ambicjonaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="analityczny"><i>analityczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="analogowy"><i>analogow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="anarchistyczny"><i>anarchistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="anatomiczny"><i>anatomiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="anonimowy"><i>anonimow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="antarktyczny"><i>antarktyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="antyczny"><i>antyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="antykorupcyjny"><i>antykorupcyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="antynarkotykowy"><i>antynarkotykow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="antywirusowy"><i>antywirusow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="apokaliptyczny"><i>apokaliptyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="architektoniczny"><i>architektoniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="archiwalny"><i>archiwaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="arytmetyczny"><i>arytmetyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ascetyczny"><i>ascetyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="asertywny"><i>asertywn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="astronomiczny"><i>astronomiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="atmosferyczny"><i>atmosferyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="atomowy"><i>atomow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="atramentowy"><i>atramentow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="autobusowy"><i>autobusow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="autonomiczny"><i>autonomiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bakteryjny"><i>bakteryjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="baletowy"><i>baletow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="balistyczny"><i>balistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bazowy"><i>bazow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="beletrystyczny"><i>beletrystyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezbożny"><i>bezbożn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezbramkowy"><i>bezbramkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezdzietny"><i>bezdzietn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezprzewodowy"><i>bezprzewodow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezwartościowy"><i>bezwartościow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezwarunkowy"><i>bezwarunkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezwładny"><i>bezwładn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezzasadny"><i>bezzasadn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="biblijny"><i>biblijn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bilateralny"><i>bilateraln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="binarny"><i>binarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="biologiczny"><i>biologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="biurowy"><i>biurow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="blaszany"><i>blaszan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="blokowy"><i>blokow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bombowy"><i>bombow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="botaniczny"><i>botaniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bryłowy"><i>bryłow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="budowlany"><i>budowlan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bujny"><i>bujn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bulwarowy"><i>bulwarow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bursztynowy"><i>bursztynow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="błyskawiczny"><i>błyskawiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="błędny"><i>błędn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="całodniowy"><i>całodniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="całoroczny"><i>całoroczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ceglany"><i>ceglan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="celowy"><i>celow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="centralny"><i>centraln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ceramiczny"><i>ceramiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="charytatywny"><i>charytatywn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="chemiczny"><i>chemiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="chmurny"><i>chmurn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="chroniczny"><i>chroniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="chłodny"><i>chłodn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="cieplarniany"><i>cieplarnian</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="cieplny"><i>ciepln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="cmentarny"><i>cmentarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="codzienny"><i>codzienn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="cukrowy"><i>cukrow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="cyfrowy"><i>cyfrow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="cykliczny"><i>cykliczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="cyniczny"><i>cyniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="cyrkowy"><i>cyrkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="cytrynowy"><i>cytrynow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="cywilny"><i>cywiln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="czarny"><i>czarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="czerwcowy"><i>czerwcow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="czerwony"><i>czerwon</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="czosnkowy"><i>czosnkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="czołgowy"><i>czołgow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="czterodniowy"><i>czterodniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="cząstkowy"><i>cząstkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dawny"><i>dawn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="demograficzny"><i>demograficzn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="demonstracyjny"><i>demonstracyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="denny"><i>denn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="deszczowy"><i>deszczow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="diagnostyczny"><i>diagnostyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dialektyczny"><i>dialektyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dialogowy"><i>dialogow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="diamentowy"><i>diamentow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="diecezjalny"><i>diecezjaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dobowy"><i>dobow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dobrowolny"><i>dobrowoln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dochodowy"><i>dochodow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dodatkowy"><i>dodatkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dojazdowy"><i>dojazdow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dokumentalny"><i>dokumentaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dolny"><i>doln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dowolny"><i>dowoln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="drobny"><i>drobn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="drogeryjny"><i>drogeryjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="drogowy"><i>drogow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="drugorzędny"><i>drugorzędn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="drużynowy"><i>drużynow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dualny"><i>dualn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="duchowny"><i>duchown</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="duchowy"><i>duchow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dwucyfrowy"><i>dwucyfrow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dwukierunkowy"><i>dwukierunkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dwustronny"><i>dwustronn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dwuznaczny"><i>dwuznaczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dyplomatyczny"><i>dyplomatyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dyskontowy"><i>dyskontow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dyskowy"><i>dyskow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dyskusyjny"><i>dyskusyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dystrybucyjny"><i>dystrybucyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dywersyjny"><i>dywersyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dziesiętny"><i>dziesiętn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dziurawy"><i>dziuraw</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dziękczynny"><i>dziękczynn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="długowłosy"><i>długowłos</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="dźwiękowy"><i>dźwiękow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="edukacyjny"><i>edukacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="egoistyczny"><i>egoistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="egzogenny"><i>egzogenn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="egzystencjalny"><i>egzystencjaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ekologiczny"><i>ekologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="eksperymentalny"><i>eksperymentaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="eksportowy"><i>eksportow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ekspresjonistyczny"><i>ekspresjonistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ekumeniczny"><i>ekumeniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="elektromagnetyczny"><i>elektromagnetyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="elektronowy"><i>elektronow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="elektrostatyczny"><i>elektrostatyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="elektryczny"><i>elektryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="eliptyczny"><i>eliptyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="elitarny"><i>elitarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="emerytalny"><i>emerytaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="emigracyjny"><i>emigracyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="emocjonalny"><i>emocjonaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="encyklopedyczny"><i>encyklopedyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="energetyczny"><i>energetyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="entuzjastyczny"><i>entuzjastyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="epokowy"><i>epokow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="erotyczny"><i>erotyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="etniczny"><i>etniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ewolucyjny"><i>ewolucyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="falowy"><i>falow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="farmaceutyczny"><i>farmaceutyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fazowy"><i>fazow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="federalny"><i>federaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fenomenalny"><i>fenomenaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="filatelistyczny"><i>filatelistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="filmowy"><i>filmow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="filozoficzny"><i>filozoficzn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fioletowy"><i>fioletow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="firmowy"><i>firmow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fiskalny"><i>fiskaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fizjologiczny"><i>fizjologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fizyczny"><i>fizyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fizykalny"><i>fizykaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="flagowy"><i>flagow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="folklorystyczny"><i>folklorystyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fonetyczny"><i>fonetyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="formalny"><i>formaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fotogeniczny"><i>fotogeniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fotograficzny"><i>fotograficzn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fundamentalistyczny"><i>fundamentalistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="galaktyczny"><i>galaktyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="galwaniczny"><i>galwaniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="genetyczny"><i>genetyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="geograficzny"><i>geograficzn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="geologiczny"><i>geologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="geometryczny"><i>geometryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="giełdowy"><i>giełdow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="gitarowy"><i>gitarow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="globalny"><i>globaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="godzinny"><i>godzinn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="golfowy"><i>golfow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="graficzny"><i>graficzn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="gramotny"><i>gramotn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="graniczny"><i>graniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="granitowy"><i>granitow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="grawitacyjny"><i>grawitacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="groteskowy"><i>groteskow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="grudniowy"><i>grudniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="grupowy"><i>grupow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="gwiazdowy"><i>gwiazdow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="głodny"><i>głodn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="głośny"><i>głośn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="głuchoniemy"><i>głuchoniem</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="górny"><i>górn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="halowy"><i>halow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="halucynogenny"><i>halucynogenn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="handlowy"><i>handlow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="harmonijny"><i>harmonijn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="hazardowy"><i>hazardow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="hermetyczny"><i>hermetyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="hierarchiczny"><i>hierarchiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="histeryczny"><i>histeryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="historyczny"><i>historyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="hokejowy"><i>hokejow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="honorowy"><i>honorow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="hormonalny"><i>hormonaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="horrendalny"><i>horrendaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="humanitarny"><i>humanitarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="hydrauliczny"><i>hydrauliczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="hydrologiczny"><i>hydrologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="idealistyczny"><i>idealistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="identyczny"><i>identyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ideologiczny"><i>ideologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="iluzoryczny"><i>iluzoryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="immunologiczny"><i>immunologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="imperialistyczny"><i>imperialistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="imperialny"><i>imperialn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="impresjonistyczny"><i>impresjonistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="informacyjny"><i>informacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="infraczerwony"><i>infraczerwon</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="instalacyjny"><i>instalacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="instrumentalny"><i>instrumentaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="integralny"><i>integraln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="intelektualny"><i>intelektualn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="interaktywny"><i>interaktywn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="interkontynentalny"><i>interkontynentaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="inwestycyjny"><i>inwestycyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="irracjonalny"><i>irracjonaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jabłkowy"><i>jabłkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jajeczny"><i>jajeczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jarmarczny"><i>jarmarczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jaskiniowy"><i>jaskiniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jednodniowy"><i>jednodniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jednoizbowy"><i>jednoizbow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jednokierunkowy"><i>jednokierunkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jednokomórkowy"><i>jednokomórkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jednomyślny"><i>jednomyśln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jednorazowy"><i>jednorazow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jednostkowy"><i>jednostkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jedwabny"><i>jedwabn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jonowy"><i>jonow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="jądrowy"><i>jądrow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="językowy"><i>językow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kablowy"><i>kablow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kaflowy"><i>kaflow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kamienny"><i>kamienn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kanalizacyjny"><i>kanalizacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kanoniczny"><i>kanoniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kapitałowy"><i>kapitałow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="karciany"><i>karcian</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="karkołomny"><i>karkołomn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kartograficzny"><i>kartograficzn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="katastralny"><i>katastraln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="katastrofalny"><i>katastrofaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="katastroficzny"><i>katastroficzn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kategoryczny"><i>kategoryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kawowy"><i>kawow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="klasyczny"><i>klasyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="klawiszowy"><i>klawiszow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="klimatyczny"><i>klimatyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kliniczny"><i>kliniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="klonowy"><i>klonow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kluczowy"><i>kluczow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="koalicyjny"><i>koalicyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kognitywny"><i>kognitywn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kokosowy"><i>kokosow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kolejowy"><i>kolejow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kolonialny"><i>kolonialn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kolosalny"><i>kolosaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="komandytowy"><i>komandytow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="komercyjny"><i>komercyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="komfortowy"><i>komfortow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kompaktowy"><i>kompaktow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kompatybilny"><i>kompatybiln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kompleksowy"><i>kompleksow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="komplementarny"><i>komplementarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kompletny"><i>kompletn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kompromisowy"><i>kompromisow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="komputerowy"><i>komputerow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="komunalny"><i>komunaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="komunikacyjny"><i>komunikacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="komunistyczny"><i>komunistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="komórkowy"><i>komórkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="konceptualny"><i>konceptualn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="koncertowy"><i>koncertow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="konferencyjny"><i>konferencyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="konfliktowy"><i>konfliktow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="konkurencyjny"><i>konkurencyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="konstytucyjny"><i>konstytucyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="konsumpcyjny"><i>konsumpcyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kontaktowy"><i>kontaktow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kontemplacyjny"><i>kontemplacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kontrastowy"><i>kontrastow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kontrolny"><i>kontroln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kontrowersyjny"><i>kontrowersyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kontynentalny"><i>kontynentaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="konwencjonalny"><i>konwencjonaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="konwersacyjny"><i>konwersacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kopalny"><i>kopaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="koralowy"><i>koralow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="korkowy"><i>korkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="koronny"><i>koronn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="korupcyjny"><i>korupcyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kosmetyczny"><i>kosmetyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kosmiczny"><i>kosmiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kosmologiczny"><i>kosmologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kołowy"><i>kołow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kościelny"><i>kościeln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="końcowy"><i>końcow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="krajobrazowy"><i>krajobrazow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kredowy"><i>kredow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kredytowy"><i>kredytow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="krewny"><i>krewn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="krokowy"><i>krokow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="krwawy"><i>krwaw</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kryminalistyczny"><i>kryminalistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="krystaliczny"><i>krystaliczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kryształowy"><i>kryształow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kryzysowy"><i>kryzysow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="krzemowy"><i>krzemow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="krzywy"><i>krzyw</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="krzyżowy"><i>krzyżow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="krótkowłosy"><i>krótkowłos</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="księżycowy"><i>księżycow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kuchenny"><i>kuchenn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kulowy"><i>kulow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kultowy"><i>kultow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kulturowy"><i>kulturow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kuluarowy"><i>kuluarow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kuriozalny"><i>kuriozaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kwantowy"><i>kwantow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kwiatowy"><i>kwiatow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kąpielowy"><i>kąpielow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kątowy"><i>kątow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="kłamliwy"><i>kłamliw</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="labilny"><i>labiln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="laboratoryjny"><i>laboratoryjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="laserowy"><i>laserow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="leksykalny"><i>leksykaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="leniwy"><i>leniw</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="leśny"><i>leśn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="licencyjny"><i>licencyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ligowy"><i>ligow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="linearny"><i>linearn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="liturgiczny"><i>liturgiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="lniany"><i>lnian</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="lodowy"><i>lodow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="logistyczny"><i>logistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="losowy"><i>losow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="lotniskowy"><i>lotniskow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ludowy"><i>ludow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="luksusowy"><i>luksusow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="lustracyjny"><i>lustracyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mafijny"><i>mafijn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="magazynowy"><i>magazynow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="magiczny"><i>magiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="magnetofonowy"><i>magnetofonow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="magnetyczny"><i>magnetyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="makowy"><i>makow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="makroekonomiczny"><i>makroekonomiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="maksymalny"><i>maksymaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mandatowy"><i>mandatow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="marcowy"><i>marcow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="marginalny"><i>marginaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="marionetkowy"><i>marionetkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="marketingowy"><i>marketingow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="markowy"><i>markow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="marmurowy"><i>marmurow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="martwy"><i>martw</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="masowy"><i>masow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="maszynowy"><i>maszynow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="matematyczny"><i>matematyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="małomiasteczkowy"><i>małomiasteczkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mechaniczny"><i>mechaniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="medialny"><i>medialn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="melodramatyczny"><i>melodramatyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="melodyczny"><i>melodyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="metaboliczny"><i>metaboliczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="metaforyczny"><i>metaforyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="metalowy"><i>metalow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="meteorologiczny"><i>meteorologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="metropolitalny"><i>metropolitaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="metryczny"><i>metryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mgielny"><i>mgieln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="miedziany"><i>miedzian</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mierzalny"><i>mierzaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="migowy"><i>migow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="migracyjny"><i>migracyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mikołajkowy"><i>mikołajkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mikroskopijny"><i>mikroskopijn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="milionowy"><i>milionow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mineralny"><i>mineraln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="miniaturowy"><i>miniaturow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="minimalistyczny"><i>minimalistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="minimalny"><i>minimaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="minowy"><i>minow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mistyczny"><i>mistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="misyjny"><i>misyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mityczny"><i>mityczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="międzykontynentalny"><i>międzykontynentaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="międzyplanetarny"><i>międzyplanetarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mleczny"><i>mleczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mniejszościowy"><i>mniejszościow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mobilny"><i>mobiln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="moczowy"><i>moczow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="modelowy"><i>modelow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="modlitewny"><i>modlitewn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="molekularny"><i>molekularn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="monarchiczny"><i>monarchiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="monetarny"><i>monetarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="monopolowy"><i>monopolow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="monotematyczny"><i>monotematyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="monstrualny"><i>monstrualn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="monumentalny"><i>monumentaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="morfologiczny"><i>morfologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="morowy"><i>morow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mosiężny"><i>mosiężn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="motorowy"><i>motorow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="motywacyjny"><i>motywacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mroźny"><i>mroźn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="multimedialny"><i>multimedialn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="muzealny"><i>muzealn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="muzyczny"><i>muzyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mydlany"><i>mydlan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mylny"><i>myln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mączny"><i>mączn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="mózgowy"><i>mózgow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nacjonalistyczny"><i>nacjonalistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="naddźwiękowy"><i>naddźwiękow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nadmierny"><i>nadmiern</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nadworny"><i>nadworn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="naftowy"><i>naftow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="namacalny"><i>namacaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="naoczny"><i>naoczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="napędowy"><i>napędow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="następny"><i>następn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="naziemny"><i>naziemn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="neonowy"><i>neonow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nerkowy"><i>nerkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nerwowy"><i>nerwow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="neutralny"><i>neutraln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="niemy"><i>niem</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nieokiełznany"><i>nieokiełznan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nieskazitelny"><i>nieskaziteln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="niezłomny"><i>niezłomn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="niskopodłogowy"><i>niskopodłogow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nocny"><i>nocn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nominalny"><i>nominaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="notoryczny"><i>notoryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="noworoczny"><i>noworoczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nowotworowy"><i>nowotworow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nudny"><i>nudn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nuklearny"><i>nuklearn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="numeryczny"><i>numeryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nurkowy"><i>nurkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="nylonowy"><i>nylonow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="obcojęzyczny"><i>obcojęzyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="obecny"><i>obecn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="obligatoryjny"><i>obligatoryjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="obrazkowy"><i>obrazkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="obrotowy"><i>obrotow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="obserwacyjny"><i>obserwacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="oceaniczny"><i>oceaniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ochronny"><i>ochronn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="octowy"><i>octow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="odczuwalny"><i>odczuwaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="oddechowy"><i>oddechow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="odnawialny"><i>odnawialn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="odpadowy"><i>odpadow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="odpływowy"><i>odpływow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="odrębny"><i>odrębn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="odwracalny"><i>odwracaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="odwrotny"><i>odwrotn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="odwykowy"><i>odwykow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ogólnoświatowy"><i>ogólnoświatow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="okienny"><i>okienn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="okoliczny"><i>okoliczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="okrężny"><i>okrężn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="omylny"><i>omyln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ontologiczny"><i>ontologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="operacyjny"><i>operacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="operowy"><i>operow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="opisowy"><i>opisow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="opiumowy"><i>opiumow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="optyczny"><i>optyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="optymalny"><i>optymaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="optymistyczny"><i>optymistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="oralny"><i>oraln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="organiczny"><i>organiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="organizacyjny"><i>organizacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="orientacyjny"><i>orientacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="orientalny"><i>orientaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="osiowy"><i>osiow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="osiągalny"><i>osiągaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="osobny"><i>osobn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="owalny"><i>owaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="owocowy"><i>owocow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ozonowy"><i>ozonow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ośrodkowy"><i>ośrodkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="paliwowy"><i>paliwow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="palmowy"><i>palmow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="palny"><i>paln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pamiątkowy"><i>pamiątkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pamięciowy"><i>pamięciow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pancerny"><i>pancern</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="paniczny"><i>paniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="papierowy"><i>papierow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="parkingowy"><i>parkingow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="parlamentarny"><i>parlamentarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="parny"><i>parn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="patologiczny"><i>patologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="patrolowy"><i>patrolow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="październikowy"><i>październikow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="perfekcyjny"><i>perfekcyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="perkusyjny"><i>perkusyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="permanentny"><i>permanentn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="personalny"><i>personaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="peryferyjny"><i>peryferyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pesymistyczny"><i>pesymistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pełnowartościowy"><i>pełnowartościow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="piaskowcowy"><i>piaskowcow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="piaskowy"><i>piaskow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="piekielny"><i>piekieln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pieniężny"><i>pieniężn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pierwszomajowy"><i>pierwszomajow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pierwszoplanowy"><i>pierwszoplanow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pierwszorzędny"><i>pierwszorzędn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pionowy"><i>pionow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="piątkowy"><i>piątkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="piętrowy"><i>piętrow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="planszowy"><i>planszow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="plastikowy"><i>plastikow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="plastyczny"><i>plastyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="platoniczny"><i>platoniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="platynowy"><i>platynow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="plażowy"><i>plażow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pleśniowy"><i>pleśniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pluszowy"><i>pluszow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pneumatyczny"><i>pneumatyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pochmurny"><i>pochmurn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pociągowy"><i>pociągow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pocztowy"><i>pocztow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="poczytalny"><i>poczytaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="początkowy"><i>początkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="podatkowy"><i>podatkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="podręcznikowy"><i>podręcznikow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="podskórny"><i>podskórn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="podsłuchowy"><i>podsłuchow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="podwładny"><i>podwładn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="podzielny"><i>podzieln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="podziemny"><i>podziemn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="podzwrotnikowy"><i>podzwrotnikow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pogrzebowy"><i>pogrzebow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pokarmowy"><i>pokarmow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pokojowy"><i>pokojow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pokrewny"><i>pokrewn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="polarny"><i>polarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="polny"><i>poln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pomarańczowy"><i>pomarańczow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ponadczasowy"><i>ponadczasow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ponadnarodowy"><i>ponadnarodow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ponadstandardowy"><i>ponadstandardow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ponowny"><i>ponown</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pornograficzny"><i>pornograficzn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="porównywalny"><i>porównywaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pospieszny"><i>pospieszn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="postmodernistyczny"><i>postmodernistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="postępowy"><i>postępow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="potencjalny"><i>potencjaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="powietrzny"><i>powietrzn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="powitalny"><i>powitaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="powtarzalny"><i>powtarzaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="połowiczny"><i>połowiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="południowy"><i>południow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pośmiertny"><i>pośmiertn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pracochłonny"><i>pracochłonn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="prasowy"><i>prasow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="prawicowy"><i>prawicow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="prawomocny"><i>prawomocn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="prawy"><i>praw</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="prehistoryczny"><i>prehistoryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="prestiżowy"><i>prestiżow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="prewencyjny"><i>prewencyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="procentowy"><i>procentow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="profesjonalny"><i>profesjonaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="programowalny"><i>programowaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="progresywny"><i>progresywn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="protestacyjny"><i>protestacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="prowizoryczny"><i>prowizoryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="prymitywny"><i>prymitywn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przeciwczołgowy"><i>przeciwczołgow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przeciwpowodziowy"><i>przeciwpowodziow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przeciwpożarowy"><i>przeciwpożarow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przedwojenny"><i>przedwojenn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przegubowy"><i>przegubow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przejściowy"><i>przejściow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przekupny"><i>przekupn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przeliczalny"><i>przeliczaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przemakalny"><i>przemakaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przemienny"><i>przemienn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przemysłowy"><i>przemysłow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przenośny"><i>przenośn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przepiękny"><i>przepiękn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przestrzenny"><i>przestrzenn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przestępny"><i>przestępn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przymusowy"><i>przymusow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="przysłowiowy"><i>przysłowiow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pręgowany"><i>pręgowan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="próbny"><i>próbn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="próżniowy"><i>próżniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="psychiczny"><i>psychiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="psychodeliczny"><i>psychodeliczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="psychologiczny"><i>psychologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="punkowy"><i>punkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="punktowy"><i>punktow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="pustynny"><i>pustynn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="północny"><i>północn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="półprofesjonalny"><i>półprofesjonaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rabunkowy"><i>rabunkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="radioaktywny"><i>radioaktywn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="radiowy"><i>radiow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rakietowy"><i>rakietow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ranny"><i>rann</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rapowy"><i>rapow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ratuszowy"><i>ratuszow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rdzawy"><i>rdzaw</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="referencyjny"><i>referencyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="reformacyjny"><i>reformacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="regionalny"><i>regionaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rejestracyjny"><i>rejestracyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="reklamowy"><i>reklamow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rekreacyjny"><i>rekreacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="renesansowy"><i>renesansow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="retoryczny"><i>retoryczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rewolucyjny"><i>rewolucyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rockowy"><i>rockow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="roczny"><i>roczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="roześmiany"><i>roześmian</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rozpoznawalny"><i>rozpoznawaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rozłączny"><i>rozłączn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ryżowy"><i>ryżow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rzeczny"><i>rzeczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rzeczowy"><i>rzeczow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rzekomy"><i>rzekom</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rządowy"><i>rządow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="rzędowy"><i>rzędow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="równikowy"><i>równikow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="równinny"><i>równinn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="różniczkowy"><i>różniczkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="samochodowy"><i>samochodow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="samolubny"><i>samolubn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="samoobsługowy"><i>samoobsługow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="samorządowy"><i>samorządow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="samowolny"><i>samowoln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="satelitarny"><i>satelitarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sceptyczny"><i>sceptyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="secesyjny"><i>secesyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="seksualny"><i>seksualn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="semantyczny"><i>semantyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sensacyjny"><i>sensacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="seryjny"><i>seryjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sezamowy"><i>sezamow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="siarkowy"><i>siarkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sieciowy"><i>sieciow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="silnikowy"><i>silnikow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="siostrzany"><i>siostrzan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="siłowy"><i>siłow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="skalny"><i>skaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="skroniowy"><i>skroniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="skrzypcowy"><i>skrzypcow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="skórzany"><i>skórzan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="smutny"><i>smutn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="smyczkowy"><i>smyczkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="socjalistyczny"><i>socjalistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="socjalny"><i>socjaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sojowy"><i>sojow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="solny"><i>soln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="solowy"><i>solow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="specjalistyczny"><i>specjalistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="spektakularny"><i>spektakularn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="spektralny"><i>spektraln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="spiralny"><i>spiraln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sporadyczny"><i>sporadyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sporny"><i>sporn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sportowy"><i>sportow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="srebrny"><i>srebrn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="stabilizacyjny"><i>stabilizacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="stalowy"><i>stalow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="standardowy"><i>standardow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="starodawny"><i>starodawn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="startowy"><i>startow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="statyczny"><i>statyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="statystyczny"><i>statystyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="stepowy"><i>stepow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sterylny"><i>steryln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="strukturalny"><i>strukturaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="strzałkowy"><i>strzałkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="stylistyczny"><i>stylistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="surrealistyczny"><i>surrealistyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sylwestrowy"><i>sylwestrow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="symboliczny"><i>symboliczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="symfoniczny"><i>symfoniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="syntetyczny"><i>syntetyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sypialny"><i>sypialn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="systemowy"><i>systemow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="szachowy"><i>szachow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="szczegółowy"><i>szczegółow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sześcienny"><i>sześcienn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="szkoleniowy"><i>szkoleniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="szkolny"><i>szkoln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="szpitalny"><i>szpitaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="szturmowy"><i>szturmow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="słodkowodny"><i>słodkowodn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="słonecznikowy"><i>słonecznikow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="słony"><i>słon</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="służbowy"><i>służbow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="taneczny"><i>taneczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="teatralny"><i>teatraln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="technologiczny"><i>technologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tegoroczny"><i>tegoroczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tekstowy"><i>tekstow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tektoniczny"><i>tektoniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="telefoniczny"><i>telefoniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="telekomunikacyjny"><i>telekomunikacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="telewizyjny"><i>telewizyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tenisowy"><i>tenisow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="teoretyczny"><i>teoretyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="terapeutyczny"><i>terapeutyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="terenowy"><i>terenow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="termalny"><i>termaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="terrorystyczny"><i>terrorystyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="toaletowy"><i>toaletow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="toksyczny"><i>toksyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tonalny"><i>tonaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="torowy"><i>torow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="torpedowy"><i>torpedow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="totalitarny"><i>totalitarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="totalny"><i>totaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="transcendentalny"><i>transcendentaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="transportowy"><i>transportow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tranzytowy"><i>tranzytow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="traumatyczny"><i>traumatyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="trefny"><i>trefn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tropikalny"><i>tropikaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="trzyosobowy"><i>trzyosobow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tunelowy"><i>tunelow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="turkusowy"><i>turkusow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="turystyczny"><i>turystyczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="twarzowy"><i>twarzow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tylny"><i>tyln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tymczasowy"><i>tymczasow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="typograficzny"><i>typograficzn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tytoniowy"><i>tytoniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="tytułowy"><i>tytułow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="udany"><i>udan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="udziałowy"><i>udziałow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="uleczalny"><i>uleczaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="uliczny"><i>uliczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ultradźwiękowy"><i>ultradźwiękow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="umiarkowany"><i>umiarkowan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="unikalny"><i>unikaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="urodzinowy"><i>urodzinow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="utalentowany"><i>utalentowan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="utopijny"><i>utopijn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wadliwy"><i>wadliw</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="walencyjny"><i>walencyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="waniliowy"><i>waniliow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wapienny"><i>wapienn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wegetacyjny"><i>wegetacyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wejściowy"><i>wejściow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wektorowy"><i>wektorow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="werbalny"><i>werbaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wiatrowy"><i>wiatrow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wieczny"><i>wieczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wiekowy"><i>wiekow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wielkoszlemowy"><i>wielkoszlemow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wielofunkcyjny"><i>wielofunkcyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wielokulturowy"><i>wielokulturow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wigilijny"><i>wigilijn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wirtualny"><i>wirtualn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="witalny"><i>witaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wizualny"><i>wizualn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="więzienny"><i>więzienn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wodociągowy"><i>wodociągow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wodorowy"><i>wodorow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wojenny"><i>wojenn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wojskowy"><i>wojskow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wolnocłowy"><i>wolnocłow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="woskowy"><i>woskow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wsadowy"><i>wsadow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="współmierny"><i>współmiern</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wstępny"><i>wstępn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wszechwładny"><i>wszechwładn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wtorkowy"><i>wtorkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wulkaniczny"><i>wulkaniczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wybaczalny"><i>wybaczaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wybuchowy"><i>wybuchow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wycieczkowy"><i>wycieczkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wyjątkowy"><i>wyjątkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wykopaliskowy"><i>wykopaliskow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wymienny"><i>wymienn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wymierny"><i>wymiern</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wyobrażalny"><i>wyobrażaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wzajemny"><i>wzajemn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wzorowy"><i>wzorow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wzrokowy"><i>wzrokow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wzrostowy"><i>wzrostow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zagadkowy"><i>zagadkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zakaźny"><i>zakaźn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zakonny"><i>zakonn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zakulisowy"><i>zakulisow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zależny"><i>zależn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zamkowy"><i>zamkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zaopatrzeniowy"><i>zaopatrzeniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zarodkowy"><i>zarodkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zbiorowy"><i>zbiorow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zbrojny"><i>zbrojn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zdrowotny"><i>zdrowotn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zegarowy"><i>zegarow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zerowy"><i>zerow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ziemniaczany"><i>ziemniaczan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ziemny"><i>ziemn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zimny"><i>zimn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zmienny"><i>zmienn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="znajomy"><i>znajom</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zniszczalny"><i>zniszczaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zoologiczny"><i>zoologiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="zwyczajowy"><i>zwyczajow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="śmiertelny"><i>śmierteln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="środkowy"><i>środkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="środowiskowy"><i>środowiskow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="śródlądowy"><i>śródlądow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="światowy"><i>światow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="źródłowy"><i>źródłow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="żartobliwy"><i>żartobliw</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="życiodajny"><i>życiodajn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="żywieniowy"><i>żywieniow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezpański"><i>bezpańs</i><par n="mors/ki__adj"/></e>
+    <e lm="elegancki"><i>eleganc</i><par n="mors/ki__adj"/></e>
+    <e lm="międzyludzki"><i>międzyludz</i><par n="mors/ki__adj"/></e>
+    <e lm="mistrzowski"><i>mistrzows</i><par n="mors/ki__adj"/></e>
+    <e lm="nadbałtycki"><i>nadbałtyc</i><par n="mors/ki__adj"/></e>
+    <e lm="nadmorski"><i>nadmors</i><par n="mors/ki__adj"/></e>
+    <e lm="pakistański"><i>pakistańs</i><par n="pols/ki__adj"/></e>
+    <e lm="panieński"><i>panieńs</i><par n="mors/ki__adj"/></e>
+    <e lm="podmorski"><i>podmors</i><par n="mors/ki__adj"/></e>
+    <e lm="pozamałżeński"><i>pozamałżeńs</i><par n="mors/ki__adj"/></e>
+    <e lm="pozaziemski"><i>pozaziems</i><par n="mors/ki__adj"/></e>
+    <e lm="wszędobylski"><i>wszędobyls</i><par n="mors/ki__adj"/></e>
+    <e lm="żyliński"><i>żylińs</i><par n="mors/ki__adj"/></e>
+    <e lm="adwentowy"><i>adwentow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="agrarny"><i>agrarn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="alternatywny"><i>alternatywn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="anaerobowy"><i>anaerobow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="antymonopolowy"><i>antymonopolow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="audiowizualny"><i>audiowizualn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bagienny"><i>bagienn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bankowy"><i>bankow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="barokowy"><i>barokow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="biodrowy"><i>biodrow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezkonfliktowy"><i>bezkonfliktow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="bezkonkurencyjny"><i>bezkonkurencyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="absolutny"><i>absolutn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="emerytowany"><i>emerytowan</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="fikcyjny"><i>fikcyjn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="sądowy"><i>sądow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="wilgotny"><i>wilgotn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="sztywny"><i>sztywn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="bezdźwięczny"><i>bezdźwięczn</i><par n="egzotermiczn/y__adj"/></e>
@@ -42273,6 +43289,13 @@
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
 
+    <e lm="numerować"><i>numer</i><par n="mal/ować__vblex"/></e>
+    <e lm="cywilizować"><i>cywiliz</i><par n="mal/ować__vblex"/></e>
+    <e lm="zapaczkować"><i>zapaczk</i><par n="namal/ować__vblex"/></e>
+    <e lm="angażować"><i>angaż</i><par n="mal/ować__vblex"/></e>
+    <e lm="definiować"><i>defini</i><par n="mal/ować__vblex"/></e>
+    <e lm="płacić"><i>pła</i><par n="pła/cić__vblex"/></e>
+    <e lm="uprościć"><i>upro</i><par n="upro/ścić__vblex"/></e>
     <e lm="stracić"><i>stra</i><par n="stra/cić__vblex"/></e>
     <e lm="zatytułować"><i>zatytuł</i><par n="namal/ować__vblex"/></e>
     <e lm="zrównoważyć"><i>zrównoważ</i><par n="uwierz/yć__vblex"/></e>
@@ -50527,7 +51550,6 @@
     <e lm="zadanie"><i>zada</i><par n="trzęsie/nie__n"/></e>
     <e lm="zainteresowanie"><i>zainteresowa</i><par n="trzęsie/nie__n"/></e>
     <e lm="zdanie"><i>zda</i><par n="trzęsie/nie__n"/></e>
-    <e lm="zapewnianie" c="FMT: CHECK"><i>zapewnia</i><par n="trzęsie/nie__n"/></e>
     <e lm="zdrobnienie"><i>zdrobnie</i><par n="trzęsie/nie__n"/></e>
     <e lm="zmartwienie"><i>zmartwie</i><par n="trzęsie/nie__n"/></e>
     <e lm="zmartwychwstanie"><i>zmartwychwsta</i><par n="trzęsie/nie__n"/></e>
@@ -52016,7 +53038,7 @@
     <e lm="USA"><i>USA</i><par n="UE__np"/></e>
     <e lm="U.S."><i>U.S.</i><par n="UE__np"/></e>
     <e lm="Węgry"><i>Węg</i><par n="Węg/ry__np"/></e>
-  
+
   </section>
   <section id="multiwords" type="standard">
     <e lm="Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej">

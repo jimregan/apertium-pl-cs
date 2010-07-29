@@ -742,57 +742,62 @@
     </def-macro>
 
     <def-macro n="degreeadj" npar="1">
-        <let>
-          <var n="adv_adjectiu"/>
-          <lit v=""/>
-        </let>
-	<choose>
-	  <when>
-	    <test>
-	      <and>
-		<equal caseless="yes">
-		  <clip pos="1" side="sl" part="a_adj"/> 
-		  <lit-tag v="adj.comp"/>
-		</equal>
-                <not>
- 		  <equal>
-		    <clip pos="1" side="tl" part="a_adj"/> 
-		    <lit-tag v="adj.sint"/>
-		  </equal>
-                </not>
-	      </and>
-	    </test>
-	    <let>
-              <clip pos="1" side="tl" part="a_adj"/>
-              <lit-tag v="adj"/>
-	    </let>
-	    <let>
-	      <var n="adv_adjectiu"/>
-		<concat>
-                  <lit v="bardzo"/>
-                  <lit-tag v="adv.sint.comp"/>
-                  <lit v="$ ^"/>
-		  <clip pos="1" side="tl" part="lemh"/> 
-		  <clip pos="1" side="tl" part="a_adj"/>
-                  <lit-tag v="2.3.4"/>
-		  <clip pos="1" side="tl" part="lemq"/> 
-		</concat>
-	    </let>
-	  </when>
-	  <otherwise>
-	    <let>
-	      <var n="adv_adjectiu"/>
-		<concat>
-		  <clip pos="1" side="tl" part="lemh"/> 
-		  <clip pos="1" side="tl" part="a_adj"/>
-                  <lit-tag v="2.3.4"/>
-		  <clip pos="1" side="tl" part="lemq"/> 
-		</concat>
-	    </let>
-	  </otherwise>
-	</choose>
-		
-</def-macro>
+      <let>
+        <var n="adv_adjectiu"/>
+        <lit v=""/>
+      </let>
+	  <choose>
+	    <when>
+	      <test>
+	        <and>
+		      <equal caseless="yes">
+		  	    <clip pos="1" side="sl" part="a_adj"/> 
+		  		<lit-tag v="adj.comp"/>
+			  </equal>
+              <not>
+ 		  	   <equal>
+		         <clip pos="1" side="tl" part="a_adj"/> 
+		   	 	 <lit-tag v="adj.sint"/>
+		  	   </equal>
+              </not>
+              <not>
+ 		  	   <equal>
+		         <clip pos="1" side="tl" part="a_adj"/> 
+		   	 	 <lit-tag v="adj.sint.comp"/>
+		  	   </equal>
+              </not>
+	        </and>
+	      </test>
+	      <let>
+          	<clip pos="1" side="tl" part="a_adj"/>
+            <lit-tag v="adj"/>
+	      </let>
+	      <let>
+	      	<var n="adv_adjectiu"/>
+			<concat>
+              <lit v="bardzo"/>
+              <lit-tag v="adv.sint.comp"/>
+              <lit v="$ ^"/>
+		  	  <clip pos="1" side="tl" part="lemh"/> 
+		  	  <clip pos="1" side="tl" part="a_adj"/>
+              <lit-tag v="2.3.4"/>
+		      <clip pos="1" side="tl" part="lemq"/> 
+			</concat>
+	      </let>
+	    </when>
+	    <otherwise>
+	      <let>
+	        <var n="adv_adjectiu"/>
+		    <concat>
+		  	  <clip pos="1" side="tl" part="lemh"/> 
+		  	  <clip pos="1" side="tl" part="a_adj"/>
+              <lit-tag v="2.3.4"/>
+		      <clip pos="1" side="tl" part="lemq"/> 
+			</concat>
+	      </let>
+	    </otherwise>
+	  </choose>		
+   </def-macro>
 
 </section-def-macros>
 <section-rules>
@@ -921,7 +926,7 @@
          <with-param pos="1"/>
        </call-macro>
        <out>
-         <chunk name="adj" case="caseFirstWord">
+         <chunk name="adj1" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SA"/></tag>
              <tag><clip pos="1" side="tl" part="gen"/></tag>
@@ -935,6 +940,7 @@
        </out>
      </action>
   </rule>
+
   <rule comment="REGLA: part">
      <pattern>
        <pattern-item n="part"/>
