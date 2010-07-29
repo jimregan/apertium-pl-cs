@@ -2016,6 +2016,7 @@
     <e><p><l>włókiennictwo<s n="n"/><s n="nt"/></l><r>textilnictví<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>włóknik<s n="n"/><s n="mi"/></l><r>fibrin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>zabezpieczenie<s n="n"/><s n="nt"/></l><r>obsah<s n="n"/><s n="mi"/></r></p></e>
+    <e c="FMT: CHECK"><p><l>zapewnianie<s n="n"/><s n="nt"/></l><r>zajišťování<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>zabijak<s n="n"/><s n="mi"/></l><r>zabiják<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>zaburzenie<s n="n"/><s n="nt"/></l><r>porucha<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zachmurzenie<s n="n"/><s n="nt"/></l><r>zamračit<s n="n"/><s n="mi"/></r></p></e>
@@ -7509,7 +7510,7 @@
     <e><p><l>rzadki<s n="adj"/><s n="sint"/></l><r>řídký<s n="adj"/><s n="sint"/></r></p></e>
 
 
-    <e><p><l>karalny<s n="adj"/></l><r>trestný<s n="adj"/></r></p></e>
+    <e c="FMT: CHECK"><p><l>karalny<s n="adj"/></l><r>trestný<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>mocny<s n="adj"/><s n="sint"/></l><r>mocný<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>indywidualny<s n="adj"/></l><r>individuální<s n="adj"/></r></p></e>
     <e><p><l>aerobowy<s n="adj"/></l><r>aerobní<s n="adj"/></r></p></e>

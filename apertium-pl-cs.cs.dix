@@ -25004,6 +25004,7 @@
     <e lm="tónový"><par n="nej__adv"/><i>tónov</i><par n="nov/ý__adj"/></e>
     <e lm="travnatý"><par n="nej__adv"/><i>travnat</i><par n="nov/ý__adj"/></e>
     <e lm="trefný"><par n="nej__adv"/><i>trefn</i><par n="nov/ý__adj"/></e>
+    <e lm="trestný" c="FMT: CHECK"><par n="nej__adv"/><i>trestn</i><par n="nov/ý__adj"/></e>
     <e lm="trhový"><par n="nej__adv"/><i>trhov</i><par n="nov/ý__adj"/></e>
     <e lm="tříčlenný" r="LR"><par n="nej__adv"/><p><l>tříčlen</l><r>tříčlenn</r></p><par n="nov/ý__adj"/></e>
     <e lm="tříčlenný"><par n="nej__adv"/><i>tříčlenn</i><par n="nov/ý__adj"/></e>
@@ -33475,6 +33476,7 @@
     <e lm="šíje"><i>šíj</i><par n="alergi/e__n"/></e>
     <e lm="ťuhýk"><i>ťuhý</i><par n="ťuhý/k__n"/></e>
     <e lm="žalud"><i>žalud</i><par n="bor__n"/></e>
+    <e lm="zajišťování"><i>zajišťování</i><par n="úterý__n"/></e>
     <e lm="žaves"><i>žaves</i><par n="bor__n"/></e>
     <e lm="železo"><i>želez</i><par n="aut/o__n"/></e>
     <e lm="želva"><i>želv</i><par n="dob/a__n"/></e>
