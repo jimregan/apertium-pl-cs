@@ -88,6 +88,30 @@
     <sdef n="pres" /> 
   </sdefs>
   <pardefs>
+    <pardef n="sp_sgpl">
+    <e r="LR">
+      <p>
+        <l><s n="sp"/></l>
+        <r><s n="ND"/></r>
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l><s n="sp"/></l>
+        <r><s n="sg"/></r>
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l><s n="sp"/></l>
+        <r><s n="pl"/></r>
+      </p>
+    </e>
+
+    </pardef>
+
     <pardef n="sg_sgpl">
     <e r="LR">
       <p>
@@ -617,6 +641,13 @@
     <e><p><l>jak<s n="rel"/><s n="adv"/></l><r>jak<s n="rel"/><s n="adv"/></r></p></e>
 
     <!-- Determiners -->
+
+    <e r="LR"><p><l>jej<s n="det"/><s n="pos"/><s n="sp"/></l><r>její<s n="det"/><s n="pos"/><s n="ND"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>jej<s n="det"/><s n="pos"/></l><r>její<s n="det"/><s n="pos"/><s n="mi"/></r></p><par n="sp_sgpl"/></e>
+    <e r="RL"><p><l>jej<s n="det"/><s n="pos"/></l><r>její<s n="det"/><s n="pos"/><s n="ma"/></r></p><par n="sp_sgpl"/></e>
+    <e r="RL"><p><l>jej<s n="det"/><s n="pos"/></l><r>její<s n="det"/><s n="pos"/><s n="nt"/></r></p><par n="sp_sgpl"/></e>
+    <e r="RL"><p><l>jej<s n="det"/><s n="pos"/></l><r>její<s n="det"/><s n="pos"/><s n="f"/></r></p><par n="sp_sgpl"/></e>
+
     <e><p><l>każdy<s n="det"/><s n="ind"/><s n="mp"/><s n="sg"/></l><r>každý<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/></r></p></e>
     <e><p><l>każdy<s n="det"/><s n="ind"/></l><r>každý<s n="det"/><s n="ind"/></r></p></e>
     <e r="RL"><p><l>wszyscy<s n="det"/><s n="ind"/><s n="mp"/><s n="pl"/></l><r>každý<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/></r></p></e>
@@ -649,11 +680,9 @@
     <e><p><l>swój<s n="det"/><s n="pos"/></l><r>svůj<s n="det"/><s n="pos"/></r></p></e>
     <e r="LR"><p><l>swój<s n="det"/><s n="pos"/><s n="uns"/><s n="mp"/></l><r>svůj<s n="det"/><s n="pos"/><s n="uns"/><s n="ma"/></r></p></e>
     <e r="LR"><p><l>swój<s n="det"/><s n="pos"/><s n="uns"/><s n="nm"/></l><r>svůj<s n="det"/><s n="pos"/><s n="uns"/><s n="mf"/></r></p></e>
-    <e r="RL"><p><l>jej<s n="det"/><s n="pos"/></l><r>její<s n="det"/><s n="pos"/></r></p></e>
     <e r="RL"><p><l>ich<s n="det"/><s n="pos"/></l><r>jejich<s n="det"/><s n="pos"/></r></p></e>
 
 	<!-- for verification -->
-    <e r="LR"><p><l>jej<s n="det"/><s n="pos"/><s n="sp"/></l><r>její<s n="det"/><s n="pos"/><s n="ND"/><s n="GD"/></r></p></e>
     <e r="LR"><p><l>ich<s n="det"/><s n="pos"/><s n="sp"/></l><r>jejich<s n="det"/><s n="pos"/><s n="ND"/><s n="GD"/></r></p></e>
 
 	<e><p><l>jego<s n="det"/></l><r>jeho<s n="det"/></r></p></e>
