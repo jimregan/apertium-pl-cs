@@ -253,6 +253,7 @@
      <attr-item tags="det.itg"/>
      <attr-item tags="det.pos"/>
      <attr-item tags="det.qnt"/>
+     <attr-item tags="det.qnt.adv"/>
      <attr-item tags="det.ord"/>
   </def-attr>
 
