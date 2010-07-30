@@ -66,6 +66,8 @@
 
      <cat-item tags="vbhaver.imperf.tgv.pp"/>
      <cat-item tags="vbhaver.imperf.tgv.pp.*"/>
+     <cat-item tags="vbhaver.imperf.tgv.pprs"/>
+     <cat-item tags="vbhaver.imperf.tgv.pprs.*"/>
      <cat-item tags="vaux.imperf.tgv.pp"/>
      <cat-item tags="vaux.imperf.tgv.pp.*"/>
      <cat-item tags="vaux.imperf.tgv.pprs"/>
@@ -799,6 +801,29 @@
 	  </choose>		
    </def-macro>
 
+   <def-macro n="elimina_mi_ma" npar="1">
+        <choose>
+          <when>
+            <test>
+		      <or>
+                <equal>
+                  <clip pos="1" side="sl" part="gen"/>
+                  <lit-tag v="mi"/>
+                </equal>
+                 <equal>
+                  <clip pos="1" side="sl" part="gen"/>
+                  <lit-tag v="ma"/>
+                </equal>
+  		      </or>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="gen"/>
+              <lit-tag v="m"/>
+            </let>
+          </when>
+        </choose>
+    </def-macro>
+
 </section-def-macros>
 <section-rules>
 
@@ -1112,6 +1137,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="elimina_mi_ma">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="verb" case="caseFirstWord">
            <tags>
@@ -1136,12 +1164,16 @@
         </out>
      </action>
   </rule>
+
   <rule comment="byl -> był">
      <pattern>
        <pattern-item n="bytpast"/>
      </pattern>
      <action>
        <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_mi_ma">
          <with-param pos="1"/>
        </call-macro>
        <out>
@@ -1193,6 +1225,36 @@
               <clip pos="1" side="tl" part="gen" link-to="3"/>
               <clip pos="1" side="tl" part="nbr" link-to="4"/>
               <clip pos="1" side="tl" part="cas" link-to="5"/>
+              <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+       </out>
+     </action>
+  </rule>
+
+  <rule comment="REGLA: byttgv">
+     <pattern>
+       <pattern-item n="byttgv"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="canvi_tgv">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="part" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SA"/></tag>
+             <tag><clip pos="1" side="tl" part="a_tgv"/></tag>
+             <tag><clip pos="1" side="tl" part="gen"/></tag>
+             <tag><clip pos="1" side="tl" part="nbr"/></tag>
+           </tags>
+           <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <clip pos="1" side="tl" part="a_tgv"/>
               <clip pos="1" side="tl" part="lemq"/>
            </lu>
          </chunk>
