@@ -555,8 +555,6 @@
     <e r="LR"><p><l>obydwa<s n="prn"/><s n="ind"/></l><r>oba<s n="prn"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>obydwa<s n="prn"/><s n="ind"/><s n="mp"/></l><r>oba<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
     <e><p><l>nic<s n="prn"/><s n="ind"/><s n="nt"/></l><r>nic<s n="prn"/><s n="ind"/><s n="nt"/></r></p></e>
-    <e r="LR"><p><l>każdy<s n="prn"/><s n="ind"/><s n="mp"/></l><r>každý<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
-    <e><p><l>każdy<s n="prn"/><s n="ind"/></l><r>každý<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>nikt<s n="prn"/><s n="ind"/><s n="mp"/></l><r>nikdo<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
     <e><p><l>wiele<s n="prn"/><s n="ind"/><s n="mp"/></l><r>mnoho<s n="prn"/><s n="ind"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>wiele<s n="prn"/><s n="ind"/><s n="nm"/></l><r>mnoho<s n="prn"/><s n="ind"/><s n="mf"/></r></p></e>
@@ -585,8 +583,14 @@
     <e r="LR"><p><l>ile<b/>bądź<s n="prn"/><s n="ind"/></l><r>kolikkoliv<s n="prn"/><s n="ind"/></r></p><par n="ilekolwiek__det"/></e>
 
 	<!-- for verification -->
-    <e><p><l>wszyscy<s n="prn"/><s n="ind"/><s n="mp"/></l><r>všechen<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
-    <e><p><l>wszystkie<s n="prn"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>všechen<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/></r></p></e>
+    <e><p><l>wszyscy<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/></l><r>všechen<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/></r></p></e>
+    <e><p><l>wszyscy<s n="prn"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>všechen<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>wszyscy<s n="prn"/><s n="ind"/><s n="mp"/><s n="pl"/></l><r>každý<s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>wszyscy<s n="prn"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>každý<s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>wszyscy<s n="prn"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>každý<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>wszyscy<s n="prn"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>každý<s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/></r></p></e>
+    <e><p><l>każdy<s n="prn"/><s n="ind"/><s n="mp"/></l><r>každý<s n="prn"/><s n="ind"/><s n="ma"/></r></p></e>
+    <e><p><l>każdy<s n="prn"/><s n="ind"/></l><r>každý<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>wszystko<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></l><r>všechen<s n="prn"/><s n="ind"/><s n="GD"/><s n="sg"/></r></p></e>
 
 <!--
@@ -613,9 +617,14 @@
     <e><p><l>jak<s n="rel"/><s n="adv"/></l><r>jak<s n="rel"/><s n="adv"/></r></p></e>
 
     <!-- Determiners -->
-    <e r="LR"><p><l>każdy<s n="det"/><s n="ind"/><s n="mp"/></l><r>každý<s n="det"/><s n="ind"/><s n="ma"/></r></p></e>
+    <e><p><l>każdy<s n="det"/><s n="ind"/><s n="mp"/><s n="sg"/></l><r>každý<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/></r></p></e>
     <e><p><l>każdy<s n="det"/><s n="ind"/></l><r>každý<s n="det"/><s n="ind"/></r></p></e>
-	<!-- TODO: každý plural -> wszyscy/wszystkie -->
+    <e r="RL"><p><l>wszyscy<s n="det"/><s n="ind"/><s n="mp"/><s n="pl"/></l><r>každý<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>wszyscy<s n="det"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>každý<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>wszyscy<s n="det"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>každý<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>wszyscy<s n="det"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>každý<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/></r></p></e>
+    <e><p><l>wszyscy<s n="det"/><s n="ind"/><s n="mp"/><s n="pl"/></l><r>všechen<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/></r></p></e>
+    <e><p><l>wszyscy<s n="det"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>všechen<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/></r></p></e>
 
     <e r="LR"><p><l>inny<s n="det"/><s n="ind"/><s n="mp"/></l><r>jiný<s n="det"/><s n="ind"/><s n="ma"/></r></p></e>
     <e r="LR"><p><l>inny<s n="det"/><s n="ind"/><s n="nm"/></l><r>jiný<s n="det"/><s n="ind"/><s n="ma"/></r></p></e>
@@ -623,11 +632,13 @@
     <e r="LR"><p><l>żaden<s n="det"/><s n="ind"/><s n="mp"/></l><r>žádný<s n="det"/><s n="ind"/><s n="ma"/></r></p></e>
     <e r="LR"><p><l>żaden<s n="det"/><s n="ind"/><s n="nm"/></l><r>žádný<s n="det"/><s n="ind"/><s n="mi"/></r></p></e>
     <e><p><l>żaden<s n="det"/><s n="ind"/></l><r>žádný<s n="det"/><s n="ind"/></r></p></e>
+
     <e r="LR"><p><l>mój<s n="det"/><s n="pos"/><s n="mp"/></l><r>můj<s n="det"/><s n="pos"/><s n="ma"/></r></p></e>
     <e r="LR"><p><l>mój<s n="det"/><s n="pos"/><s n="nm"/></l><r>můj<s n="det"/><s n="pos"/><s n="mf"/></r></p></e>
     <e><p><l>mój<s n="det"/><s n="pos"/></l><r>můj<s n="det"/><s n="pos"/></r></p></e>
     <e r="LR"><p><l>mój<s n="det"/><s n="pos"/><s n="uns"/><s n="mp"/></l><r>můj<s n="det"/><s n="pos"/><s n="uns"/><s n="ma"/></r></p></e>
     <e r="LR"><p><l>mój<s n="det"/><s n="pos"/><s n="uns"/><s n="nm"/></l><r>můj<s n="det"/><s n="pos"/><s n="uns"/><s n="mi"/></r></p></e>
+
     <e r="LR"><p><l>twój<s n="det"/><s n="pos"/><s n="mp"/></l><r>tvůj<s n="det"/><s n="pos"/><s n="ma"/></r></p></e>
     <e r="LR"><p><l>twój<s n="det"/><s n="pos"/><s n="nm"/></l><r>tvůj<s n="det"/><s n="pos"/><s n="mf"/></r></p></e>
     <e><p><l>twój<s n="det"/><s n="pos"/></l><r>tvůj<s n="det"/><s n="pos"/></r></p></e>
@@ -717,8 +728,11 @@
     <e r="LR"><p><l>ów<s n="det"/><s n="dem"/></l><r>tamto<s n="det"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>ów<s n="det"/><s n="dem"/><s n="mp"/></l><r>tamto<s n="det"/><s n="dem"/><s n="ma"/></r></p></e>
     <e><p><l>taki<s n="det"/><s n="dem"/></l><r>takový<s n="det"/><s n="dem"/></r></p></e>
-    <e r="LR"><p><l>taki<s n="det"/><s n="dem"/><s n="mp"/></l><r>takový<s n="det"/><s n="dem"/><s n="ma"/></r></p></e>
+    <e><p><l>taki<s n="det"/><s n="dem"/><s n="mp"/></l><r>takový<s n="det"/><s n="dem"/><s n="ma"/></r></p></e>
     <e r="LR"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/></l><r>takový<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/><s n="pl"/></l><r>takový<s n="det"/><s n="dem"/><s n="mi"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/><s n="pl"/></l><r>takový<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/><s n="pl"/></l><r>takový<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>co<s n="det"/><s n="ind"/></l><r>co<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>co<s n="det"/><s n="itg"/></l><r>co<s n="det"/><s n="itg"/></r></p></e>
     <e r="LR"><p><l>czyj<s n="det"/><s n="itg"/><s n="mp"/></l><r>čí<s n="det"/><s n="itg"/><s n="ma"/></r></p></e>
@@ -9640,9 +9654,9 @@
     <e><p><l>definitywnie<s n="adv"/></l><r>definitivně<s n="adv"/></r></p></e>
     <e><p><l>demonstracyjnie<s n="adv"/></l><r>demonstrativně<s n="adv"/></r></p></e>
     <e><p><l>dobrowolnie<s n="adv"/></l><r>dobrovolně<s n="adv"/></r></p></e>
-    <e><p><l>ewidentnie<s n="adv"/></l><r>evidentně<s n="adv"/></r></p></e>
-    <e><p><l>gorączkowo<s n="adv"/></l><r>horečně<s n="adv"/></r></p></e>
-    <e><p><l>groteskowo<s n="adv"/></l><r>groteskně<s n="adv"/></r></p></e>
+    <e><p><l>ewidentnie<s n="adv"/></l><r>evidentně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>gorączkowo<s n="adv"/></l><r>horečně<s n="adv"/><s n="sint"/></r></p></e>
+    <e><p><l>groteskowo<s n="adv"/></l><r>groteskně<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>groźnie<s n="adv"/></l><r>hrozivě<s n="adv"/></r></p></e>
     <e><p><l>ideowo<s n="adv"/></l><r>ideově<s n="adv"/></r></p></e>
     <e><p><l>istotnie<s n="adv"/></l><r>podstatně<s n="adv"/></r></p></e>

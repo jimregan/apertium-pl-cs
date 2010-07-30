@@ -157,7 +157,6 @@
      <cat-item tags="pr"/>
      <cat-item tags="pr.*"/>
   </def-cat>
-
   <def-cat n="mezi">
      <cat-item lemma="mezi" tags="pr"/>
   </def-cat>
@@ -169,7 +168,6 @@
      <cat-item tags="num"/>
      <cat-item tags="num.*"/>
   </def-cat>
-
   <def-cat n="det">
      <cat-item tags="det"/>
      <cat-item tags="det.*"/>
@@ -247,6 +245,15 @@
      <attr-item tags="prn"/>
      <attr-item tags="prn.ind"/>
      <attr-item tags="prn.itg"/>
+  </def-attr>
+
+  <def-attr n="a_det">
+     <attr-item tags="det"/>
+     <attr-item tags="det.ind"/>
+     <attr-item tags="det.itg"/>
+     <attr-item tags="det.pos"/>
+     <attr-item tags="det.qnt"/>
+     <attr-item tags="det.ord"/>
   </def-attr>
 
   <def-attr n="tns">
@@ -827,6 +834,27 @@
 </section-def-macros>
 <section-rules>
 
+  <rule comment="REGLA: det">
+     <pattern>
+       <pattern-item n="det"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="det" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="DET"/></tag>
+           </tags>
+           <lu>
+             <clip pos="1" side="tl" part="whole"/>
+           </lu>
+         </chunk>
+       </out>
+     </action>
+  </rule>
+
 <!-- Reguły rzeczownikowe -->
 
   <rule comment="REGLA: nom">
@@ -857,6 +885,7 @@
        </out>
      </action>
   </rule>
+
   <rule comment="REGLA: adj nom">
      <pattern>
        <pattern-item n="adj"/>
@@ -919,6 +948,7 @@
        </out>
      </action>
   </rule>
+
   <rule comment="REGLA: adjcpd">
      <pattern>
        <pattern-item n="adjcpd"/>
@@ -939,6 +969,7 @@
        </out>
      </action>
   </rule>
+
   <rule comment="REGLA: adj">
      <pattern>
        <pattern-item n="adj"/>
