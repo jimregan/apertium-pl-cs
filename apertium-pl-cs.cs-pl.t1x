@@ -251,6 +251,7 @@
      <attr-item tags="det"/>
      <attr-item tags="det.ind"/>
      <attr-item tags="det.itg"/>
+     <attr-item tags="det.dem"/>
      <attr-item tags="det.pos"/>
      <attr-item tags="det.qnt"/>
      <attr-item tags="det.qnt.adv"/>
@@ -264,13 +265,14 @@
   </def-attr>
 
   <def-attr n="gen">
-     <attr-item tags="mp"/>
-     <attr-item tags="ma"/>
-     <attr-item tags="mi"/>
-     <attr-item tags="m"/>
      <attr-item tags="f"/>
-     <attr-item tags="nt"/>
+     <attr-item tags="m"/>
+     <attr-item tags="ma"/>
      <attr-item tags="mf"/>
+     <attr-item tags="mi"/>
+     <attr-item tags="mn"/>
+     <attr-item tags="mp"/>
+     <attr-item tags="nt"/>
   </def-attr>
 
   <def-attr n="prs">
@@ -863,12 +865,7 @@
              <tag><lit-tag v="DET"/></tag>
            </tags>
            <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="tl" part="a_det"/>
-             <clip pos="1" side="tl" part="gen"/>
-             <clip pos="1" side="tl" part="nbr"/>
-             <clip pos="1" side="tl" part="cas"/>
-             <clip pos="1" side="tl" part="lemq"/>
+             <clip pos="1" side="tl" part="whole"/>
            </lu>
          </chunk>
        </out>

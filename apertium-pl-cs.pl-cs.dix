@@ -695,6 +695,7 @@
 
     <e r="LR"><p><l>ile<s n="det"/><s n="qnt"/><s n="mp"/></l><r>kolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
     <e><p><l>ile<s n="det"/><s n="qnt"/><s n="nm"/></l><r>kolik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
+
     <e><p><l>dużo<s n="det"/><s n="qnt"/></l><r>mnoho<s n="det"/><s n="qnt"/></r></p><par n="det_adv"/></e>
     <e><p><l>tyle<s n="det"/><s n="qnt"/></l><r>tolik<s n="det"/><s n="qnt"/></r></p><par n="det_adv"/></e>
     <e r="LR"><p><l>kilka<s n="det"/><s n="qnt"/><s n="mp"/></l><r>několik<s n="det"/><s n="qnt"/><s n="mf"/></r></p></e>
@@ -756,12 +757,17 @@
     <e><p><l>tamto<s n="det"/><s n="dem"/></l><r>tamto<s n="det"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>ów<s n="det"/><s n="dem"/></l><r>tamto<s n="det"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>ów<s n="det"/><s n="dem"/><s n="mp"/></l><r>tamto<s n="det"/><s n="dem"/><s n="ma"/></r></p></e>
+
     <e><p><l>taki<s n="det"/><s n="dem"/></l><r>takový<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>taki<s n="det"/><s n="dem"/><s n="mp"/></l><r>takový<s n="det"/><s n="dem"/><s n="ma"/></r></p></e>
     <e r="LR"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/></l><r>takový<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/><s n="sg"/></l><r>takový<s n="det"/><s n="dem"/><s n="mi"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/><s n="sg"/></l><r>takový<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/><s n="sg"/></l><r>takový<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/><s n="pl"/></l><r>takový<s n="det"/><s n="dem"/><s n="mi"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/><s n="pl"/></l><r>takový<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>taki<s n="det"/><s n="dem"/><s n="nm"/><s n="pl"/></l><r>takový<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+
     <e><p><l>co<s n="det"/><s n="ind"/></l><r>co<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>co<s n="det"/><s n="itg"/></l><r>co<s n="det"/><s n="itg"/></r></p></e>
     <e r="LR"><p><l>czyj<s n="det"/><s n="itg"/><s n="mp"/></l><r>čí<s n="det"/><s n="itg"/><s n="ma"/></r></p></e>
