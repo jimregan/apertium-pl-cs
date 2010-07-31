@@ -859,6 +859,20 @@
            </let>
          </when>
        </choose>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="gen"/>
+               <lit v="mf"/> 
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="gen"/>
+             <lit v="nm"/>
+           </let>
+         </when>
+       </choose>
        <out>
          <chunk name="det" case="caseFirstWord">
            <tags>
