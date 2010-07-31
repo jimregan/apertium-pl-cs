@@ -864,12 +864,12 @@
            <test>
              <equal>
                <clip pos="1" side="sl" part="gen"/>
-               <lit v="mf"/> 
+               <lit-tag v="mf"/> 
              </equal>
            </test>
            <let>
              <clip pos="1" side="tl" part="gen"/>
-             <lit v="nm"/>
+             <lit-tag v="nm"/>
            </let>
          </when>
        </choose>

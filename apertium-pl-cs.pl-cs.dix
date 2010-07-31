@@ -657,6 +657,11 @@
     <e r="RL"><p><l>wszyscy<s n="det"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>každý<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>wszyscy<s n="det"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>každý<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>wszyscy<s n="det"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>každý<s n="det"/><s n="ind"/><s n="nt"/><s n="pl"/></r></p></e>
+
+    <e><p><l>wszyscy<s n="det"/><s n="ind"/><s n="ma"/></l><r>všechen<s n="det"/><s n="ind"/><s n="ma"/></r></p></e>
+    <e><p><l>wszyscy<s n="det"/><s n="ind"/><s n="mi"/></l><r>všechen<s n="det"/><s n="ind"/><s n="mi"/></r></p></e>
+    <e><p><l>wszyscy<s n="det"/><s n="ind"/><s n="nt"/></l><r>všechen<s n="det"/><s n="ind"/><s n="nt"/></r></p></e>
+    <e><p><l>wszyscy<s n="det"/><s n="ind"/><s n="f"/></l><r>všechen<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
     <e><p><l>wszyscy<s n="det"/><s n="ind"/><s n="mp"/><s n="pl"/></l><r>všechen<s n="det"/><s n="ind"/><s n="ma"/><s n="pl"/></r></p></e>
     <e><p><l>wszyscy<s n="det"/><s n="ind"/><s n="nm"/><s n="pl"/></l><r>všechen<s n="det"/><s n="ind"/><s n="mi"/><s n="pl"/></r></p></e>
 
