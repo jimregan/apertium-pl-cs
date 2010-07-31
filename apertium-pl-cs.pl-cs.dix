@@ -9612,7 +9612,7 @@
     <e><p><l>obecnie<s n="adv"/></l><r>aktuálně<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>często<s n="adv"/><s n="sint"/></l><r>často<s n="adv"/><s n="sint"/></r></p></e>
     <e><p><l>ciężko<s n="adv"/></l><r>těžko<s n="adv"/></r></p></e>
-    <e><p><l>ciężko<s n="adv"/></l><r>trapně<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>ciężko<s n="adv"/></l><r>trapně<s n="adv"/></r></p></e>
     <e><p><l>dodatkowo<s n="adv"/></l><r>dodatečně<s n="adv"/></r></p></e>
     <e><p><l>dokładnie<s n="adv"/></l><r>důkladně<s n="adv"/></r></p></e>
     <e><p><l>jedynie<s n="adv"/></l><r>jedině<s n="adv"/><s n="sint"/></r></p></e>
