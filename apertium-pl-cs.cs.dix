@@ -34238,6 +34238,7 @@
     <e lm="pumpovat"><par n="v_neg"/><i>pump</i><par n="mil/ovat__vblex"/></e>
     <e lm="napumpovat"><par n="v_neg"/><i>napump</i><par n="napump/ovat__vblex"/></e>
     <e lm="dávat"><par n="v_neg"/><i>dáv</i><par n="dáv/at__vblex"/></e>
+    <e lm="zpívat"><par n="v_neg"/><i>zpív</i><par n="dáv/at__vblex"/></e>
     <e lm="péci"><par n="v_neg"/><i>p</i><par n="p/éci__vblex"/></e>
     <e lm="vézt"><par n="v_neg"/><i>v</i><par n="v/ézt__vblex"/></e>
     <e lm="hnát"><par n="v_neg"/><i></i><par n="/hnát__vblex"/></e>
