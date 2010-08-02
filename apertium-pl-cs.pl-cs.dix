@@ -9907,6 +9907,7 @@
     <e><p><l>leżeć<s n="vblex"/><s n="imperf"/></l><r>ležet<s n="vblex"/><s n="imperf"/></r></p></e>
 
     <e><p><l>iść<s n="vblex"/><s n="imperf"/></l><r>jít<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>chodzić<g><b/>o</g><s n="vblex"/><s n="imperf"/></l><r>jít<g><b/>o</g><s n="vblex"/><s n="imperf"/></r></p></e>
     <e r="LR"><p><l>pójść<s n="vblex"/><s n="perf"/></l><r>jít<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>pójść<s n="vblex"/><s n="perf"/><s n="fti"/></l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/></r></p></e>
     <e><p><l>pójść<s n="vblex"/><s n="perf"/><s n="imp"/></l><r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/></r></p></e>
@@ -13940,6 +13941,7 @@
     <e r="RL"><p><l>na<b/>przykład<s n="adv"/></l><r>na<b/>příklad<s n="adv"/></r></p></e>
     <e><p><l>niedawno<s n="adv"/></l><r>nedávno<s n="adv"/></r></p></e>
     <e><p><l>niedostępny<s n="adj"/></l><r>nedostupný<s n="adj"/></r></p></e>
+    <e><p><l>dwujęzyczny<s n="adj"/></l><r>dvoujazyčný<s n="adj"/></r></p></e>
     <e><p><l>jednocześnie<s n="adv"/></l><r>zároveň<s n="adv"/></r></p></e>
 
     <!-- Pre-adverbs -->

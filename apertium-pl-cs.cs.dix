@@ -25936,6 +25936,7 @@
     <e lm="žlutý"><par n="nej__adv"/><i>žlut</i><par n="nov/ý__adj"/></e>
     <e lm="zuřivý"><par n="nej__adv"/><i>zuřiv</i><par n="nov/ý__adj"/></e>
     <e lm="zvědavý"><par n="nej__adv"/><i>zvědav</i><par n="nov/ý__adj"/></e>
+    <e lm="dvoujazyčný"><par n="nej__adv"/><i>dvoujazyčn</i><par n="nov/ý__adj"/></e>
     <e lm="periodický"><par n="nej__adv"/><i>periodi</i><par n="exotermi/cký__adj"/></e>
     <e lm="politický"><par n="nej__adv"/><i>politi</i><par n="exotermi/cký__adj"/></e>
     <e lm="praktický"><par n="nej__adv"/><i>prakti</i><par n="exotermi/cký__adj"/></e>
@@ -34176,6 +34177,7 @@
     <e lm="umožňovat"><par n="v_neg"/><i>umožň</i><par n="mil/ovat__vblex"/></e>
     <e lm="spekulovat"><par n="v_neg"/><i>špekul</i><par n="mil/ovat__vblex"/></e>
     <e lm="jít"><par n="v_neg"/><i></i><par n="/jít__vblex"/></e>
+    <e lm="jít o"><par n="v_neg"/><i></i><par n="/jít__vblex"/><p><l><b/>o</l><r><g><b/>o</g></r></p></e>
     <e lm="číst"><par n="v_neg"/><i>č</i><par n="č/íst__vblex"/></e>
     <e lm="přečíst"><par n="v_neg"/><i>přeč</i><par n="přeč/íst__vblex"/></e>
     <e lm="vědět"><par n="v_neg"/><i>v</i><par n="v/ědět__vblex"/></e>
