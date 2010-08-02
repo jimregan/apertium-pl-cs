@@ -55827,6 +55827,262 @@
       <r>Arabia<b/>Saudyjska<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
     </p>
   </e>
+  <!-- język angielski -->
+  <e>
+    <p>
+      <l>język<b/>angielski</l>
+      <r>język<b/>angielski<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języka<b/>angielskiego</l>
+      <r>język<b/>angielski<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językowi<b/>angielskiemu</l>
+      <r>język<b/>angielski<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>język<b/>angielski</l>
+      <r>język<b/>angielski<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językiem<b/>angielskim</l>
+      <r>język<b/>angielski<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języku<b/>angielskim</l>
+      <r>język<b/>angielski<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języku<b/>angielski</l>
+      <r>język<b/>angielski<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>angielkie</l>
+      <r>język<b/>angielki<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języków<b/>angielkich</l>
+      <r>język<b/>angielki<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językom<b/>angielkim</l>
+      <r>język<b/>angielki<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>angielkie</l>
+      <r>język<b/>angielki<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językami<b/>angielkimi</l>
+      <r>język<b/>angielki<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językach<b/>angielkich</l>
+      <r>język<b/>angielki<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>angielkie</l>
+      <r>język<b/>angielki<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- język francuski -->
+  <e>
+    <p>
+      <l>język<b/>francuski</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języka<b/>francuskiego</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językowi<b/>francuskiemu</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>język<b/>francuski</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językiem<b/>francuskim</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języku<b/>francuskim</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języku<b/>francuski</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>francuskie</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języków<b/>francuskich</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językom<b/>francuskim</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>francuskie</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językami<b/>francuskimi</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językach<b/>francuskich</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>francuskie</l>
+      <r>język<b/>francuski<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- język słoweński -->
+  <e>
+    <p>
+      <l>język<b/>słoweński</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języka<b/>słoweńskiego</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językowi<b/>słoweńskiemu</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>język<b/>słoweński</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językiem<b/>słoweńskim</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języku<b/>słoweńskim</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języku<b/>słoweński</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>słoweńskie</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języków<b/>słoweńskich</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językom<b/>słoweńskim</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>słoweńskie</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językami<b/>słoweńskimi</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językach<b/>słoweńskich</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>słoweńskie</l>
+      <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+
   </section>
   <section id="tokens" type="inconditional">
     <e><par n="numeros"/></e>

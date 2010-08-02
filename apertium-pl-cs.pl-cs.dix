@@ -6497,7 +6497,8 @@
     <e r="LR"><p><l>anegdotka<s n="n"/><s n="f"/></l><r>anekdota<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aneksja<s n="n"/><s n="f"/></l><r>anexe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anemia<s n="n"/><s n="f"/></l><r>anémie<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>angielszczyzna<s n="n"/><s n="f"/></l><r>angličtina<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>angielszczyzna<s n="n"/><s n="f"/></l><r>angličtina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>język<b/>angielski<s n="n"/><s n="mi"/></l><r>angličtina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>animacja<s n="n"/><s n="f"/></l><r>animace<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>animator<s n="n"/><s n="mp"/></l><r>animátor<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>ankieta<s n="n"/><s n="f"/></l><r>anketa<s n="n"/><s n="f"/></r></p></e>
@@ -13249,7 +13250,7 @@
     <e><p><l>konferencja<b/>prasowa<s n="n"/></l><r>tiskovka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>roślina<b/>wieloletnia<s n="n"/></l><r>trvalka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dział<b/>wód<s n="n"/></l><r>rozvodí<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>język<b/>afrikaans<s n="n"/></l><r>afrikánština<s n="n"/><s n="f"/></r></p></e>
+    <e c="check inflection"><p><l>język<b/>afrikaans<s n="n"/></l><r>afrikánština<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>język<b/>czeski<s n="n"/></l><r>čeština<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>język<b/>kataloński<s n="n"/></l><r>katalánština<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>język<b/>niderlandzki<s n="n"/></l><r>nizozemština<s n="n"/><s n="f"/></r></p></e>
