@@ -20539,6 +20539,7 @@
     </pardef>
 
     <!-- Proper nouns -->
+
     <pardef n="Ann/a__np"> 
       <e>       <p><l>a</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e>       <p><l>u</l><r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -20939,6 +20940,27 @@
         </p>
       </e>
     </pardef>
+
+    <pardef n="Kanad/a__np"> 
+      <e>       <p><l>a</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>u</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>y</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>ě</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>ě</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>ou</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>o</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>y</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>y</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l></l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>ám</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>ách</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>ami</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>y</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+
+
+
     <!-- FIXME: not sure if the 'ý' should be 'i' instead -->
     <pardef n="Kowals/ki__np">
       <e>
@@ -25944,6 +25966,7 @@
     <e lm="přírodní"><par n="nej__adv"/><i>přírodn</i><par n="finančn/í__adj"/></e>
     <e lm="původní"><par n="nej__adv"/><i>původn</i><par n="finančn/í__adj"/></e>
     <e lm="speciální"><par n="nej__adv"/><i>speciáln</i><par n="finančn/í__adj"/></e>
+    <e lm="oficiální" c="FMT: CHECK"><par n="nej__adv"/><i>oficiáln</i><par n="finančn/í__adj"/></e>
     <e lm="tradiční"><par n="nej__adv"/><i>tradičn</i><par n="finančn/í__adj"/></e>
     <e lm="zvláštní"><par n="nej__adv"/><i>zvláštn</i><par n="finančn/í__adj"/></e>
 
@@ -32931,6 +32954,7 @@
     <e lm="kartografie"><i>kartografi</i><par n="alergi/e__n"/></e>
     <e lm="kartuše"><i>kartuš</i><par n="alergi/e__n"/></e>
     <e lm="kasace"><i>kasac</i><par n="alergi/e__n"/></e>
+    <e lm="francouzština"><i>francouzštin</i><par n="dob/a__n"/></e>
     <e lm="katalánština"><i>katalánštin</i><par n="dob/a__n"/></e>
     <e lm="kazimrd"><i>kazimrd</i><par n="man__n"/></e>
     <e lm="kazišuk"><i>kazišu</i><par n="ťuhý/k__n"/></e>
@@ -34515,6 +34539,7 @@
     <e lm="Poznaň"><i>Pozna</i><par n="Pozna/ň__np"/></e>
     <e lm="Toruň"><i>Toru</i><par n="Pozna/ň__np"/></e>
     <e lm="Budapešť"><i>Budapeš</i><par n="Budapeš/ť__np"/></e>
+    <e lm="Kanada"><i>Kanad</i><par n="Kanad/a__np"/></e>
     <e lm="Jizerské hory"><i>Jizersk</i><par n="Jizersk/é_hory__np"/></e>
     <e lm="Orlické hory"><i>Orlick</i><par n="Jizersk/é_hory__np"/></e>
     <e lm="Rychlebské hory"><i>Rychlebsk</i><par n="Jizersk/é_hory__np"/></e>

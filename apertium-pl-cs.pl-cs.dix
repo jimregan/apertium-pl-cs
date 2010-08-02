@@ -7504,6 +7504,7 @@
     <e><p><l>ewangeliarz<s n="n"/><s n="mi"/></l><r>evangeliář<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>tokamak<s n="n"/><s n="mi"/></l><r>tokamak<s n="n"/><s n="mi"/></r></p></e>
     <e c="check"><p><l>język<b/>słoweński<s n="n"/><s n="mi"/></l><r>slovinština<s n="n"/><s n="f"/></r></p></e>
+    <e c="check"><p><l>język<b/>francuski<s n="n"/><s n="mi"/></l><r>francouzština<s n="n"/><s n="f"/></r></p></e>
 
     <!-- Adjectives -->
     <e><p><l>bazowy<s n="adj"/></l><r>základní<s n="adj"/><s n="sint"/></r></p></e>
@@ -7622,6 +7623,7 @@
     <e r="RL"><p><l>olbrzymi<s n="adj"/></l><r>velkolepý<s n="adj"/></r></p></e>
     <e><p><l>pionowy<s n="adj"/></l><r>vertikální<s n="adj"/></r></p></e>
     <e><p><l>osamotniony<s n="adj"/></l><r>osamocený<s n="adj"/></r></p></e>
+    <e><p><l>oficjalny<s n="adj"/></l><r>oficiální<s n="adj"/></r></p></e>
     <e><p><l>satelitarny<s n="adj"/></l><r>satelitní<s n="adj"/></r></p></e>
     <e><p><l>sterowany<s n="adj"/></l><r>ovládaný<s n="adj"/></r></p></e>
     <e><p><l>strzeżony<s n="adj"/></l><r>střežený<s n="adj"/></r></p></e>
@@ -13575,6 +13577,7 @@
 
 	<!-- Toponyms  -->
     <e><p><l>Belgia<s n="np"/><s n="top"/><s n="f"/></l><r>Belgie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Kanada<s n="np"/><s n="top"/><s n="f"/></l><r>Kanada<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Francja<s n="np"/><s n="top"/><s n="f"/></l><r>Francie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Warszawa<s n="np"/><s n="top"/><s n="f"/></l><r>Varšava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Kosowo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></l><r>Kosovo<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></r></p></e>
