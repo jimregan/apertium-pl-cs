@@ -27172,6 +27172,7 @@
     <e lm="svinstvo"><i>svinst</i><par n="obyvatelst/vo__n"/></e>
     <e lm="sádlo"><i>sád</i><par n="más/lo__n"/></e>
     <e lm="veto"><i>vet</i><par n="práv/o__n"/></e>
+    <e lm="víno" c="FMT: CHECK"><i>vín</i><par n="práv/o__n"/></e>
     <e lm="čelist"><i>čelist</i><par n="věc__n"/></e>
     <e lm="žezlo" r="LR"><p><l>žež</l><r>žez</r></p><par n="más/lo__n"/></e>
     <e lm="žezlo"><i>žez</i><par n="más/lo__n"/></e>
