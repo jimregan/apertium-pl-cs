@@ -41452,6 +41452,9 @@
     <e lm="twardy"><i>tward</i><par n="młod/y__adj"/></e>
     <e lm="twardy"><p><l>najtward</l><r>twardy</r></p><par n="najlep/szy__adj"/></e>
     <e lm="twardy"><p><l>tward</l><r>twardy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ciasny"><i>cia</i><par n="ja/sny__adj"/></e>
+    <e lm="ciasny"><p><l>ciaśniej</l><r>ciasny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="ciasny"><p><l>najciaśniej</l><r>ciasny</r></p><par n="najlep/szy__adj"/></e>
 
     <!-- Non-synthetic adjectives -->
     <!-- non-synthetic, with obsolete comparatives -->
@@ -41470,6 +41473,8 @@
     <e lm="zachodni"><i>zachodni</i><par n="stuletni__adj"/></e>
     <e lm="wschodni"><i>wschodni</i><par n="stuletni__adj"/></e>
     <e lm="stuletni"><i>stuletni</i><par n="stuletni__adj"/></e>
+    <e lm="oficjalny"><i>oficjaln</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="wojskowy"><i>wojskow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="powiązany"><i>powiązan</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="znajomy"><i>znajom</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="naczelny"><i>naczeln</i><par n="egzotermiczn/y__adj"/></e>
