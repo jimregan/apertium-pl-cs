@@ -17,6 +17,8 @@
      <cat-item tags="vaux.imperf.pprs.*"/>
      <cat-item tags="vbhaver.imperf.pprs"/>
      <cat-item tags="vbhaver.imperf.pprs.*"/>
+     <cat-item tags="vbhaver.imperf.pp"/>
+     <cat-item tags="vbhaver.imperf.pp.*"/>
      <cat-item tags="vblex.perf.pp"/>
      <cat-item tags="vblex.perf.pp.*"/>
   </def-cat>
@@ -54,6 +56,10 @@
   <def-cat n="bycimp">
      <cat-item lemma="być" tags="vbser.imp"/>
      <cat-item lemma="być" tags="vbser.imp.*"/>
+  </def-cat>
+  <def-cat n="bycpart">
+     <cat-item lemma="być" tags="vbser.pprs"/>
+     <cat-item lemma="być" tags="vbser.pprs.*"/>
   </def-cat>
   <def-cat n="vblex">
      <cat-item tags="vblex.*"/>
@@ -758,6 +764,9 @@
        <call-macro n="elimina_mp">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="elimina_nm">
+         <with-param pos="1"/>
+       </call-macro>
        <call-macro n="canvi_part">
          <with-param pos="1"/>
        </call-macro>
@@ -1294,6 +1303,46 @@
        </choose>
      </action>
   </rule>
+
+  <rule comment="bycpart">
+     <pattern>
+       <pattern-item n="bycpart"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_mp">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_nm">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="canvi_part">
+         <with-param pos="1"/>
+       </call-macro>
+	   <out>
+         <chunk name="part" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SA"/></tag>
+             <tag><clip pos="1" side="tl" part="asp"/></tag>
+             <tag><clip pos="1" side="tl" part="a_part"/></tag>
+             <tag><lit-tag v="GD"/></tag>
+             <tag><lit-tag v="ND"/></tag>
+           </tags>
+           <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <clip pos="1" side="tl" part="asp" link-to="2"/>
+              <clip pos="1" side="tl" part="a_part"/>
+              <lit-tag v="5.6"/>
+              <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+	   </out>
+     </action>
+  </rule>
+
 
   <rule comment="bądź -> buď">
      <pattern>

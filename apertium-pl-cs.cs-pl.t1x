@@ -253,6 +253,7 @@
      <attr-item tags="det.itg"/>
      <attr-item tags="det.dem"/>
      <attr-item tags="det.pos"/>
+     <attr-item tags="det.pos.uns"/>
      <attr-item tags="det.qnt"/>
      <attr-item tags="det.qnt.adv"/>
      <attr-item tags="det.ord"/>
@@ -270,7 +271,7 @@
      <attr-item tags="ma"/>
      <attr-item tags="mf"/>
      <attr-item tags="mi"/>
-     <attr-item tags="mn"/>
+     <attr-item tags="nm"/>
      <attr-item tags="mp"/>
      <attr-item tags="nt"/>
   </def-attr>
@@ -848,10 +849,16 @@
        <choose>
          <when>
            <test>
-             <equal caseless="yes">
-               <clip pos="1" side="tl" part="lem"/>
-               <lit v="jej"/> 
-             </equal>
+			 <or>
+               <equal caseless="yes">
+                 <clip pos="1" side="tl" part="lem"/>
+                 <lit v="jej"/>
+               </equal>
+               <equal caseless="yes">
+                 <clip pos="1" side="tl" part="lem"/>
+                 <lit v="jego"/>
+               </equal>
+		     </or>
            </test>
            <let>
              <clip pos="1" side="tl" part="cas"/>
@@ -864,7 +871,7 @@
            <test>
              <equal>
                <clip pos="1" side="sl" part="gen"/>
-               <lit-tag v="mf"/> 
+               <lit-tag v="mf"/>
              </equal>
            </test>
            <let>
@@ -1013,7 +1020,7 @@
          <with-param pos="1"/>
        </call-macro>
        <out>
-         <chunk name="adj1" case="caseFirstWord">
+         <chunk name="adj" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SA"/></tag>
              <tag><clip pos="1" side="tl" part="gen"/></tag>
