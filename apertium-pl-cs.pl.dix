@@ -28728,6 +28728,15 @@
         <par n="BASE__oda"/>
       </e>
     </pardef>
+    <pardef n="Kanad/a__np">
+      <e>
+        <p>
+          <l></l>
+          <r>a<s n="np"/><s n="top"/></r>
+        </p>
+        <par n="BASE__oda"/>
+      </e>
+    </pardef>
     <pardef n="analiz/a__n">
       <e>
         <p>
@@ -53400,6 +53409,7 @@
     <e lm="Turcja"><i>Turc</i><par n="Słowac/ja__np"/></e>
     <e lm="Francja"><i>Franc</i><par n="Słowac/ja__np"/></e>
     <e lm="Grecja"><i>Grec</i><par n="Słowac/ja__np"/></e>
+    <e lm="Kanada"><i>Kanad</i><par n="Kanad/a__np"/></e>
     <e lm="Gruzja"><i>Gruz</i><par n="Słowac/ja__np"/></e>
     <e lm="Gambia"><i>Gambi</i><par n="Irlandi/a__np"/></e>
     <e lm="Belgia"><i>Belgi</i><par n="Irlandi/a__np"/></e>
