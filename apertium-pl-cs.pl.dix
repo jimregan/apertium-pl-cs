@@ -51464,6 +51464,7 @@
     <e lm="cześć"><i>cz</i><par n="cz/eść__n"/></e>
     <e lm="ćma"><i></i><par n="/ćma__n"/></e>
     <e lm="język"><i>język</i><par n="kajak__n"/></e>
+    <e lm="język afrikaans"><i>język</i><par n="kajak__n"/><p><l><b/>afrikaans</l><r><g><b/>arikaans</g></r></p></e>
     <e lm="kajak"><i>kajak</i><par n="kajak__n"/></e>
     <e lm="akademik"><i>akademik</i><par n="kajak__n"/></e>
     <e lm="jajnik"><i>jajnik</i><par n="kajak__n"/></e>
@@ -56080,6 +56081,91 @@
     <p>
       <l>języki<b/>słoweńskie</l>
       <r>język<b/>słoweński<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+    </p>
+  </e>
+  <!-- język afrykanerski -->
+  <e>
+    <p>
+      <l>język<b/>afrykanerski</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języka<b/>afrykanerskiego</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językowi<b/>afrykanerskiemu</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>język<b/>afrykanerski</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językiem<b/>afrykanerskim</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języku<b/>afrykanerskim</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języku<b/>afrykanerski</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>afrykanerskie</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języków<b/>afrykanerskich</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językom<b/>afrykanerskim</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>afrykanerskie</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językami<b/>afrykanerskimi</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>językach<b/>afrykanerskich</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+    </p>
+  </e>
+  <e>
+    <p>
+      <l>języki<b/>afrykanerskie</l>
+      <r>język<b/>afrykanerski<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
     </p>
   </e>
 

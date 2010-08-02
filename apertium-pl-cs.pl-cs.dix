@@ -13250,7 +13250,8 @@
     <e><p><l>konferencja<b/>prasowa<s n="n"/></l><r>tiskovka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>roślina<b/>wieloletnia<s n="n"/></l><r>trvalka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dział<b/>wód<s n="n"/></l><r>rozvodí<s n="n"/><s n="nt"/></r></p></e>
-    <e c="check inflection"><p><l>język<b/>afrikaans<s n="n"/></l><r>afrikánština<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>język<g><b/>afrikaans</g><s n="n"/></l><r>afrikánština<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>język<b/>afrykanerski<s n="n"/></l><r>afrikánština<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>język<b/>czeski<s n="n"/></l><r>čeština<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>język<b/>kataloński<s n="n"/></l><r>katalánština<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>język<b/>niderlandzki<s n="n"/></l><r>nizozemština<s n="n"/><s n="f"/></r></p></e>
