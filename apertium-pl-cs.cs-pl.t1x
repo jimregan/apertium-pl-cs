@@ -816,6 +816,74 @@
 	  </choose>		
    </def-macro>
 
+    <def-macro n="degreeadv" npar="1">
+      <let>
+        <var n="adv_adjectiu"/>
+        <lit v=""/>
+      </let>
+	  <choose>
+	    <when>
+	      <test>
+	        <and>
+		      <or>
+		        <equal caseless="yes">
+		  	      <clip pos="1" side="sl" part="a_adv"/> 
+		  		  <lit-tag v="adv.sint.comp"/>
+			    </equal>
+		        <equal caseless="yes">
+		  	      <clip pos="1" side="sl" part="a_adv"/> 
+		  		  <lit-tag v="adv.sint.sup"/>
+			    </equal>
+		      </or>
+              <not>
+ 		  	   <equal>
+		         <clip pos="1" side="tl" part="a_adv"/> 
+		   	 	 <lit-tag v="adv.sint"/>
+		  	   </equal>
+              </not>
+              <not>
+ 		  	   <equal>
+		         <clip pos="1" side="tl" part="a_adv"/> 
+		   	 	 <lit-tag v="adv.sint.comp"/>
+		  	   </equal>
+              </not>
+              <not>
+ 		  	   <equal>
+		         <clip pos="1" side="tl" part="a_adv"/> 
+		   	 	 <lit-tag v="adv.sint.sup"/>
+		  	   </equal>
+              </not>
+	        </and>
+	      </test>
+	      <let>
+          	<clip pos="1" side="tl" part="a_adv"/>
+            <lit-tag v="adv"/>
+	      </let>
+	      <let>
+	      	<var n="adv_adjectiu"/>
+			<concat>
+              <lit v="bardzo"/>
+		  	  <clip pos="1" side="sl" part="a_adv"/> 
+              <lit v="$ ^"/>
+		  	  <clip pos="1" side="tl" part="lemh"/> 
+		  	  <clip pos="1" side="tl" part="a_adv"/>
+		      <clip pos="1" side="tl" part="lemq"/> 
+			</concat>
+	      </let>
+	    </when>
+	    <otherwise>
+	      <let>
+	        <var n="adv_adjectiu"/>
+		    <concat>
+		  	  <clip pos="1" side="tl" part="lemh"/> 
+		  	  <clip pos="1" side="tl" part="a_adv"/>
+		      <clip pos="1" side="tl" part="lemq"/> 
+			</concat>
+	      </let>
+	    </otherwise>
+	  </choose>		
+   </def-macro>
+
    <def-macro n="elimina_mi_ma" npar="1">
         <choose>
           <when>
@@ -1030,6 +1098,30 @@
              <tag><clip pos="1" side="tl" part="gen"/></tag>
              <tag><clip pos="1" side="tl" part="nbr"/></tag>
              <tag><clip pos="1" side="tl" part="cas"/></tag>
+           </tags>
+           <lu>
+             <var n="adv_adjectiu"/>
+           </lu>
+         </chunk>
+       </out>
+     </action>
+  </rule>
+
+  <rule comment="REGLA: adv">
+     <pattern>
+       <pattern-item n="adv"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="degreeadv">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="adj" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="ADV"/></tag>
            </tags>
            <lu>
              <var n="adv_adjectiu"/>

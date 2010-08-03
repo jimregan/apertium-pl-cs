@@ -8893,6 +8893,108 @@
         </p>
       </e>
     </pardef>
+    <pardef n="BASE__głuchy">
+      <e>       <p><l>chy</l><r><s n="mp"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>chego</l><r><s n="mp"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>chemu</l><r><s n="mp"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>chego</l><r><s n="mp"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="mp"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="mp"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>chy</l><r><s n="mp"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>si</l><r><s n="mp"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>chych</l><r><s n="mp"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="mp"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="mp"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>chymi</l><r><s n="mp"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="mp"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>si</l><r><s n="mp"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>chy</l><r><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>chego</l><r><s n="ma"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>chemu</l><r><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>chego</l><r><s n="ma"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="ma"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>chy</l><r><s n="ma"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>chych</l><r><s n="ma"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>chymi</l><r><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="ma"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="ma"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>chy</l><r><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>chego</l><r><s n="mi"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>chemu</l><r><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>chy</l><r><s n="mi"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="mi"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="mi"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>chy</l><r><s n="mi"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="mi"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>chych</l><r><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>chymi</l><r><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>cha</l><r><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>chej</l><r><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>chej</l><r><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>chą</l><r><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>chą</l><r><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>chej</l><r><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>cha</l><r><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>chych</l><r><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>chymi</l><r><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>chych</l><r><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>chego</l><r><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>chemu</l><r><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="nt"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>chych</l><r><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>chymi</l><r><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>chym</l><r><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>che</l><r><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="głu/chy__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>chy<s n="adj"/><s n="sint"/></r>
+        </p>
+        <par n="BASE__głuchy"/>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>chy<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="białou/chy__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>chy<s n="adj"/></r>
+        </p>
+        <par n="BASE__głuchy"/>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>chy<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__stuletni">
       <e>       <p><l></l><r><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
       <e>       <p><l>ego</l><r><s n="ma"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -12844,6 +12946,21 @@
         </p>
       </e>
     </pardef>
+    <pardef n="puszy/sty__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>sty<s n="adj"/></r>
+        </p>
+        <par n="BASE__szósty"/>
+      </e>
+      <e>
+        <p>
+          <l>sto</l>
+          <r>sty<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="żół/ty__adj">
       <e>
         <p>
@@ -15113,7 +15230,6 @@
       	  <r>być<s n="vbser"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
-
       <e>
         <p>
           <l>bądź</l>
@@ -15148,13 +15264,6 @@
         <p>
           <l>bądźcież</l>
           <r>być<s n="vbser"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-
-      <e>
-        <p>
-          <l>byto</l>
-          <r>być<s n="vbser"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
       <e>
@@ -16161,7 +16270,7 @@
       <e>
         <p>
           <l>edzono</l>
-          <r>eść<s n="vbser"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+          <r>eść<s n="vblex"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
         </p>
       </e>
     </pardef>
@@ -40083,7 +40192,6 @@
     <e lm="ponadto"><p><l>ponadto</l><r>ponadto<s n="pr"/></r></p></e>
     <e lm="poza tym"><p><l>poza<b/>tym</l><r>poza<b/>tym<s n="pr"/></r></p></e>
     <e lm="co więcej"><p><l>co<b/>więcej</l><r>co<b/>więcej<s n="pr"/></r></p></e>
-    <e lm="dodatkowo"><p><l>dodatkowo</l><r>dodatkowo<s n="pr"/></r></p></e>
     <e lm="włącznie z"><p><l>włącznie<b/>z</l><r>włącznie<b/>z<s n="pr"/></r></p></e>
     <e lm="łącznie z"><p><l>łącznie<b/>z</l><r>łącznie<b/>z<s n="pr"/></r></p></e>
     <e lm="w tym"><p><l>w<b/>tym</l><r>w<b/>tym<s n="pr"/></r></p></e>
@@ -40435,6 +40543,27 @@
 
     <!-- Adjectives -->
     <!-- Synthetic adjectives -->
+    <e lm="prosty"><i>pro</i><par n="czy/sty__adj"/></e>
+    <e lm="prosty"><p><l>prost</l><r>prosty</r></p><par n="lep/szy__adj"/></e>
+    <e lm="prosty"><p><l>najprost</l><r>prosty</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="gęsty"><i>gę</i><par n="czy/sty__adj"/></e>
+    <e lm="gęsty"><p><l>gęst</l><r>częsty</r></p><par n="lep/szy__adj"/></e>
+    <e lm="gęsty"><p><l>najgęst</l><r>częsty</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="częsty"><i>czę</i><par n="czy/sty__adj"/></e>
+    <e lm="częsty"><p><l>częst</l><r>częsty</r></p><par n="lep/szy__adj"/></e>
+    <e lm="częsty"><p><l>najczęst</l><r>częsty</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="kruchy"><i>kru</i><par n="głu/chy__adj"/></e>
+    <e lm="kruchy"><p><l>kruch</l><r>kruchy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="kruchy"><p><l>najkruch</l><r>kruchy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="cichy"><i>ci</i><par n="głu/chy__adj"/></e>
+    <e lm="cichy"><p><l>cich</l><r>cichy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="cichy"><p><l>najcich</l><r>cichy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="głuchy"><i>głu</i><par n="głu/chy__adj"/></e>
+    <e lm="głuchy"><p><l>głuch</l><r>głuchy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="głuchy"><p><l>najgłuch</l><r>głuchy</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="suchy"><i>su</i><par n="głu/chy__adj"/></e>
+    <e lm="suchy"><p><l>such</l><r>suchy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="suchy"><p><l>najsuch</l><r>suchy</r></p><par n="najlep/szy__adj"/></e>
     <e lm="szanowny"><i>szanown</i><par n="now/y__adj"/></e>
     <e lm="szanowny"><p><l>szanowniej</l><r>szanowny</r></p><par n="lep/szy__adj"/></e>
     <e lm="szanowny"><p><l>najszanowniej</l><r>szanowny</r></p><par n="najlep/szy__adj"/></e>
@@ -41473,6 +41602,9 @@
     <e lm="żółciejszy" r="LR"><p><l>żółciej</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
     <e lm="najżółciejszy" r="LR"><p><l>najżółciej</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
 
+    <e lm="wszędobylski"><i>wszędobyls</i><par n="mors/ki__adj"/></e>
+    <e lm="rzeczywisty"><i>rzeczywi</i><par n="puszy/sty__adj"/></e>
+    <e lm="puszysty"><i>puszy</i><par n="puszy/sty__adj"/></e>
     <e lm="własny"><i>wła</i><par n="wła/sny__adj"/></e>
     <e lm="przedni"><i>przedni</i><par n="stuletni__adj"/></e>
     <e lm="poprzedni"><i>poprzedni</i><par n="stuletni__adj"/></e>
@@ -42982,6 +43114,27 @@
     <e lm="ile razy"><i>ile<b/>razy</i><par n="gdzie__adv"/></e>
 
     <!-- Synthetic adverbs -->
+    <e lm="mgliście"><i>mgliście</i><par n="dobrze__adv"/></e>
+    <e lm="mgliście"><p><l>mgliściej</l><r>mgliście</r></p><par n="lepiej__adv"/></e>
+    <e lm="mgliście"><p><l>najmgliściej</l><r>mgliście</r></p><par n="najlepiej__adv"/></e>
+    <e lm="łaskawie"><p><l>łaskawiej</l><r>łaskawie</r></p><par n="lepiej__adv"/></e>
+    <e lm="łaskawie"><p><l>łaskawie</l><r>łaskawie</r></p><par n="dobrze__adv"/></e>
+    <e lm="łaskawie"><p><l>najłaskawiej</l><r>łaskawie</r></p><par n="najlepiej__adv"/></e>
+    <e lm="kulturalnie"><p><l>kulturalnie</l><r>kulturalnie</r></p><par n="dobrze__adv"/></e>
+    <e lm="kulturalnie"><p><l>kulturalniej</l><r>kulturalnie</r></p><par n="lepiej__adv"/></e>
+    <e lm="kulturalnie"><p><l>najkulturalniej</l><r>kulturalnie</r></p><par n="najlepiej__adv"/></e>
+    <e lm="gęsto"><p><l>gęsto</l><r>gęsto</r></p><par n="dobrze__adv"/></e>
+    <e lm="gęsto"><p><l>gęściej</l><r>gęsto</r></p><par n="lepiej__adv"/></e>
+    <e lm="gęsto"><p><l>najgęściej</l><r>gęsto</r></p><par n="najlepiej__adv"/></e>
+    <e lm="hojnie"><i>hojnie</i><par n="dobrze__adv"/></e>
+    <e lm="hojnie"><p><l>hojniej</l><r>hojnie</r></p><par n="lepiej__adv"/></e>
+    <e lm="hojnie"><p><l>najhojniej</l><r>hojnie</r></p><par n="najlepiej__adv"/></e>
+    <e lm="widocznie"><i>widocznie</i><par n="dobrze__adv"/></e>
+    <e lm="widocznie"><p><l>najwidoczniej</l><r>widocznie</r></p><par n="najlepiej__adv"/></e>
+    <e lm="widocznie"><p><l>widoczniej</l><r>widocznie</r></p><par n="lepiej__adv"/></e>
+    <e lm="jawnie"><i>jawnie</i><par n="dobrze__adv"/></e>
+    <e lm="jawnie"><p><l>jawniej</l><r>jawnie</r></p><par n="lepiej__adv"/></e>
+    <e lm="jawnie"><p><l>najjawniej</l><r>jawnie</r></p><par n="najlepiej__adv"/></e>
     <e lm="ceremonialnie"><i>ceremonialnie</i><par n="dobrze__adv"/></e>
     <e lm="ceremonialnie"><p><l>ceremonialniej</l><r>ceremonialnie</r></p><par n="lepiej__adv"/></e>
     <e lm="ceremonialnie"><p><l>najceremonialniej</l><r>ceremonialnie</r></p><par n="najlepiej__adv"/></e>
@@ -43368,6 +43521,15 @@
     <e lm="ciężko"><p><l>najciężej</l><r>ciężko</r></p><par n="najlepiej__adv"/></e>
 
     <!-- Non-synthetic adverbs -->
+    <e lm="nieodwracalnie"><i>nieodwracalnie</i><par n="tu__adv"/></e>
+    <e lm="podświadomie"><i>podświadomie</i><par n="tu__adv"/></e>
+    <e lm="mglisto"><i>mglisto</i><par n="tu__adv"/></e>
+    <e lm="dodatkowo"><i>dodatkowo</i><par n="tu__adv"/></e>
+    <e lm="niewątpliwie"><i>niewątpliwie</i><par n="tu__adv"/></e>
+    <e lm="łącznie"><i>łącznie</i><par n="tu__adv"/></e>
+    <e lm="ogółem"><i>ogółem</i><par n="tu__adv"/></e>
+    <e lm="bezzwłocznie"><i>bezzwłocznie</i><par n="tu__adv"/></e>
+    <e lm="migiem"><i>migiem</i><par n="tu__adv"/></e>
     <e lm="prawie"><i>prawie</i><par n="tu__adv"/></e>
     <e lm="jednakowo"><i>jednakowo</i><par n="tu__adv"/></e>
     <e lm="jednako"><i>jednako</i><par n="tu__adv"/></e>
@@ -43529,6 +43691,7 @@
     <e lm="częściowo"><i>częściowo</i><par n="tu__adv"/></e>
     <e lm="czterokrotnie"><i>czterokrotnie</i><par n="tu__adv"/></e>
     <e lm="dopiero"><i>dopiero</i><par n="tu__adv"/></e>
+    <e lm="dopiero co"><i>dopiero<b/>co</i><par n="tu__adv"/></e>
     <e lm="dosłownie"><i>dosłownie</i><par n="tu__adv"/></e>
     <e lm="dotychczas"><i>dotychczas</i><par n="tu__adv"/></e>
     <e lm="dziennie"><i>dziennie</i><par n="tu__adv"/></e>
@@ -43542,6 +43705,7 @@
     <e lm="maksymalnie"><i>maksymalnie</i><par n="tu__adv"/></e>
     <e lm="masowo"><i>masowo</i><par n="tu__adv"/></e>
     <e lm="nadal"><i>nadal</i><par n="tu__adv"/></e>
+    <e lm="w dalszym ciągu"><i>w<b/>dalszym<b/>ciągu</i><par n="tu__adv"/></e>
     <e lm="naprawdę"><i>naprawdę</i><par n="tu__adv"/></e>
     <e lm="następująco"><i>następująco</i><par n="tu__adv"/></e>
     <e lm="nawzajem"><i>nawzajem</i><par n="tu__adv"/></e>
@@ -43677,6 +43841,8 @@
 
     <!-- Pre-adverbs -->
     <e lm="zbyt"><i>zbyt</i><par n="zbyt__preadv"/></e>
+    <e lm="zbytnio"><i>zbytnio</i><par n="zbyt__preadv"/></e>
+    <e lm="nazbyt"><i>nazbyt</i><par n="zbyt__preadv"/></e>
     <e lm="za"><i>za</i><par n="zbyt__preadv"/></e>
 
 	<!-- Verbs -->
@@ -44751,6 +44917,7 @@
     <e lm="znacjonalizować"><i>znacjonaliz</i><par n="namal/ować__vblex"/></e>
     <e lm="znać"><i>zn</i><par n="czyt/ać__vblex"/></e>
     <e lm="znaleźć"><i>zna</i><par n="wyna/leźć__vblex"/></e>
+    <e lm="odnaleźć"><i>odna</i><par n="wyna/leźć__vblex"/></e>
     <e lm="zniewalać"><i>zniewal</i><par n="czyt/ać__vblex"/></e>
     <e lm="zniszczyć"><i>zniszcz</i><par n="uwierz/yć__vblex"/></e>
     <e lm="znosić"><i>zno</i><par n="pro/sić__vblex"/></e>
@@ -45128,6 +45295,7 @@
     <e lm="kazać" r="LR"><i>ka</i><par n="ka/zać__vblex_perf"/></e>
 
     <!-- Nouns -->
+    <e lm="emisariusz"><i>emisariusz</i><par n="dorsz__n"/></e>
     <e lm="powód"><i>pow</i><par n="samoch/ód__n"/></e>
     <e lm="połowa"><i>poł</i><par n="poł/owa__n"/></e>
     <e lm="drążek"><i>drąż</i><par n="młot/ek__n"/></e>

@@ -7442,7 +7442,7 @@
           <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>rové</l>
           <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
@@ -7460,7 +7460,7 @@
           <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>ru</l>
           <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
@@ -7490,6 +7490,12 @@
           <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
+      <e r="LR">
+        <p>
+          <l>ře</l>
+          <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>re</l>
@@ -7502,13 +7508,13 @@
           <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>rové</l>
           <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
+      <e r="LR">
         <p>
           <l>ru</l>
           <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
@@ -8963,110 +8969,6 @@
         <p>
           <l>ří</l>
           <r>rus<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="emisa/r__n">
-      <e>
-        <p>
-          <l>r</l>
-          <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ři</l>
-          <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>rové</l>
-          <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ra</l>
-          <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>rů</l>
-          <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ru</l>
-          <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>rovi</l>
-          <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>rům</l>
-          <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ra</l>
-          <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ry</l>
-          <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>re</l>
-          <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ři</l>
-          <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ru</l>
-          <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>rovi</l>
-          <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>rech</l>
-          <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>rem</l>
-          <r>r<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ry</l>
-          <r>r<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
     </pardef>
@@ -23742,6 +23644,7 @@
     <e lm="díky"><i>díky</i><par n="za__pr"/></e>
     <e lm="dokola"><i>dokola</i><par n="za__pr"/></e>
     <e lm="k"><i>k</i><par n="za__pr"/></e>
+    <e lm="ku"><i>ku</i><par n="za__pr"/></e>
     <e lm="kolem"><i>kolem</i><par n="za__pr"/></e>
     <e lm="krom"><i>krom</i><par n="za__pr"/></e>
     <e lm="kromě"><i>kromě</i><par n="za__pr"/></e>
@@ -26607,6 +26510,12 @@
     <e lm="kolikrát"><i>kolikrát</i><par n="jak__adv"/></e>
 
 	<!-- Synthetic adverbs -->
+    <e lm="viditelně"><i>viditelně</i><par n="daleko__adv"/></e>
+    <e lm="viditelně"><p><l>viditelněji</l><r>viditelně</r></p><par n="dál__adv"/></e>
+    <e lm="viditelně"><p><l>nejviditelněji</l><r>viditelně</r></p><par n="nejdál__adv"/></e>
+    <e lm="patrně"><i>patrně</i><par n="daleko__adv"/></e>
+    <e lm="patrně"><p><l>patrněji</l><r>patrně</r></p><par n="dál__adv"/></e>
+    <e lm="patrně"><p><l>nejpatrněji</l><r>patrně</r></p><par n="nejdál__adv"/></e>
     <e lm="aktuálně"><i>aktuálně</i><par n="daleko__adv"/></e>
     <e lm="aktuálně"><p><l>aktuálněji</l><r>aktuálně</r></p><par n="dál__adv"/></e>
     <e lm="aktuálně"><p><l>nejaktuálněji</l><r>aktuálně</r></p><par n="nejdál__adv"/></e>
@@ -26724,18 +26633,12 @@
     <e lm="mužně"><i>mužně</i><par n="daleko__adv"/></e>
     <e lm="mužně"><p><l>mužněji</l><r>mužně</r></p><par n="dál__adv"/></e>
     <e lm="mužně"><p><l>nejmužněji</l><r>mužně</r></p><par n="nejdál__adv"/></e>
-    <e lm="místně"><i>místně</i><par n="daleko__adv"/></e>
-    <e lm="místně"><p><l>místněji</l><r>místně</r></p><par n="dál__adv"/></e>
-    <e lm="místně"><p><l>nejmístněji</l><r>místně</r></p><par n="nejdál__adv"/></e>
     <e lm="měsíčně"><i>měsíčně</i><par n="daleko__adv"/></e>
     <e lm="měsíčně"><p><l>měsíčněji</l><r>měsíčně</r></p><par n="dál__adv"/></e>
     <e lm="měsíčně"><p><l>nejměsíčněji</l><r>měsíčně</r></p><par n="nejdál__adv"/></e>
     <e lm="nervózně"><i>nervózně</i><par n="daleko__adv"/></e>
     <e lm="nervózně"><p><l>nejnervózněji</l><r>nervózně</r></p><par n="nejdál__adv"/></e>
     <e lm="nervózně"><p><l>nervózněji</l><r>nervózně</r></p><par n="dál__adv"/></e>
-    <e lm="neúprosně"><i>neúprosně</i><par n="daleko__adv"/></e>
-    <e lm="neúprosně"><p><l>nejneúprosněji</l><r>neúprosně</r></p><par n="nejdál__adv"/></e>
-    <e lm="neúprosně"><p><l>neúprosněji</l><r>neúprosně</r></p><par n="dál__adv"/></e>
     <e lm="oboustranně"><i>oboustranně</i><par n="daleko__adv"/></e>
     <e lm="oboustranně"><p><l>nejoboustranněji</l><r>oboustranně</r></p><par n="nejdál__adv"/></e>
     <e lm="oboustranně"><p><l>oboustranněji</l><r>oboustranně</r></p><par n="dál__adv"/></e>
@@ -26751,9 +26654,6 @@
     <e lm="okamžitě"><i>okamžitě</i><par n="daleko__adv"/></e>
     <e lm="okamžitě"><p><l>nejokamžitěji</l><r>okamžitě</r></p><par n="nejdál__adv"/></e>
     <e lm="okamžitě"><p><l>okamžitěji</l><r>okamžitě</r></p><par n="dál__adv"/></e>
-    <e lm="omezeně"><i>omezeně</i><par n="daleko__adv"/></e>
-    <e lm="omezeně"><p><l>nejomezeněji</l><r>omezeně</r></p><par n="nejdál__adv"/></e>
-    <e lm="omezeně"><p><l>omezeněji</l><r>omezeně</r></p><par n="dál__adv"/></e>
     <e lm="omylně"><i>omylně</i><par n="daleko__adv"/></e>
     <e lm="omylně"><p><l>nejomylněji</l><r>omylně</r></p><par n="nejdál__adv"/></e>
     <e lm="omylně"><p><l>omylněji</l><r>omylně</r></p><par n="dál__adv"/></e>
@@ -27020,7 +26920,6 @@
     <e lm="vpravo" r="LR"><p><l>doprava</l><r>vpravo</r></p><par n="tehdy__adv"/></e>
     <e lm="vtom"><i>vtom</i><par n="tehdy__adv"/></e>
     <e lm="zase"><i>zase</i><par n="tehdy__adv"/></e>
-    <e lm="zeširoka"><i>zeširoka</i><par n="tehdy__adv"/></e>
     <e lm="zhruba"><i>zhruba</i><par n="tehdy__adv"/></e>
     <e lm="naopak"><i>naopak</i><par n="tehdy__adv"/></e>
     <e lm="údajně"><i>údajně</i><par n="tehdy__adv"/></e>
@@ -27033,7 +26932,6 @@
     <e lm="ještě"><i>ještě</i><par n="tehdy__adv"/></e>
     <e lm="velmi"><i>velmi</i><par n="tehdy__adv"/></e>
     <e lm="velice"><i>velice</i><par n="tehdy__adv"/></e>
-    <e lm="příliš"><i>příliš</i><par n="tehdy__adv"/></e>
     <e lm="ne"><i>ne</i><par n="tehdy__adv"/></e>
     <e lm="tak"><i>tak</i><par n="tehdy__adv"/></e>
     <e lm="jo"><i>jo</i><par n="tehdy__adv"/></e>
@@ -27119,6 +27017,7 @@
     <e lm="znovu"><i>znovu</i><par n="tehdy__adv"/></e>
     <e lm="zpět"><i>zpět</i><par n="tehdy__adv"/></e>
     <e lm="zrovna"><i>zrovna</i><par n="tehdy__adv"/></e>
+    <e lm="zrovna teď"><i>zrovna<b/>teď</i><par n="tehdy__adv"/></e>
     <e lm="zvolna"><i>zvolna</i><par n="tehdy__adv"/></e>
     <e lm="zítra"><i>zítra</i><par n="tehdy__adv"/></e>
 
@@ -27126,6 +27025,7 @@
     <e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
 
     <!-- Nouns -->
+    <e lm="bratr"><i>brat</i><par n="amu/r__n"/></e>
     <e lm="podnikatel"><i>podnikatel</i><par n="obyvatel__n"/></e>
     <e lm="zmínka"><i>zmín</i><par n="dív/ka__n"/></e>
     <e lm="oblast"><i>oblast</i><par n="věc__n"/></e>
@@ -32628,7 +32528,7 @@
     <e lm="echinacea"><i>echinace</i><par n="echinace/a__n"/></e>
     <e lm="einsteinium"><i>einsteini</i><par n="bary/um__n"/></e>
     <e lm="ekologie"><i>ekologi</i><par n="alergi/e__n"/></e>
-    <e lm="emisar"><i>emisa</i><par n="emisa/r__n"/></e>
+    <e lm="emisař" r="LR"><p><l>emisar</l><r>emisař</r></p><par n="muž__n"/></e>
     <e lm="emisař"><i>emisař</i><par n="muž__n"/></e>
     <e lm="empatie"><i>empati</i><par n="alergi/e__n"/></e>
     <e lm="emzák"><i>emzá</i><par n="akademi/k__n"/></e>
