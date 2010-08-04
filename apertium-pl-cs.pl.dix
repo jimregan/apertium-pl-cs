@@ -44955,6 +44955,7 @@
     <e lm="rozpocząć"><i>rozpocz</i><par n="zacz/ąć__vblex"/></e>
     <e lm="posiadać"><i>posiad</i><par n="czyt/ać__vblex"/></e>
     <e lm="należeć"><i>należ</i><par n="należ/eć__vblex"/></e>
+    <e lm="należeć do"><i>należ</i><par n="należ/eć__vblex"/><p><l><b/>do</l><r><g><b/>do</g></r></p></e>
     <e lm="przynależeć"><i>przynależ</i><par n="należ/eć__vblex"/></e>
     <e lm="uwierzyć"><i>uwierz</i><par n="uwierz/yć__vblex"/></e>
     <e lm="zobaczyć"><i>zobacz</i><par n="uwierz/yć__vblex"/></e>

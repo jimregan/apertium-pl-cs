@@ -23689,8 +23689,10 @@
     <e lm="až do"><i>až<b/>do</i><par n="za__pr"/></e>
     <e lm="díky"><i>díky</i><par n="za__pr"/></e>
     <e lm="dokola"><i>dokola</i><par n="za__pr"/></e>
-    <e lm="k"><i>k</i><par n="za__pr"/></e>
-    <e lm="ku"><i>ku</i><par n="za__pr"/></e>
+    <e lm="ku" r="LR"><p><l>ku</l><r>k</r></p><par n="za__pr"/></e>
+    <e lm="k" r="LR"><p><l>k</l><r>k</r></p><par n="za__pr"/></e>
+    <e lm="ke" r="LR"><p><l>ke</l><r>k</r></p><par n="za__pr"/></e>
+    <e lm="k" r="RL"><p><l><a/>k</l><r>k</r></p><par n="za__pr"/></e>
     <e lm="kolem"><i>kolem</i><par n="za__pr"/></e>
     <e lm="krom"><i>krom</i><par n="za__pr"/></e>
     <e lm="kromě"><i>kromě</i><par n="za__pr"/></e>
@@ -34136,6 +34138,12 @@
     <e lm="předepsat" c="catch spelling errors" r="LR"><par n="v_neg"/><i>předep</i><par n="nap/sat__vblex"/></e>
     <e lm="předepsat"><par n="v_neg"/><i>před</i><par n="pod/epsat__vblex"/></e>
     <e lm="chtít"><par n="v_neg"/><i>ch</i><par n="ch/tít__vblex"/></e>
+    <e lm="psát"><par n="v_neg"/><i>p</i><par n="p/sát__vblex"/></e>
+    <e lm="patřit"><par n="v_neg"/><i>patř</i><par n="patř/it__vblex"/></e>
+    <e lm="patřit k" r="LR"><par n="v_neg"/><i>patř</i><par n="patř/it__vblex"/><p><l>k</l><r><g><b/>k</g></r></p></e>
+    <e lm="patřit k" r="LR"><par n="v_neg"/><i>patř</i><par n="patř/it__vblex"/><p><l>ke</l><r><g><b/>k</g></r></p></e>
+    <e lm="patřit k" r="LR"><par n="v_neg"/><i>patř</i><par n="patř/it__vblex"/><p><l>ku</l><r><g><b/>k</g></r></p></e>
+    <e lm="patřit k" r="RL"><par n="v_neg"/><i>patř</i><par n="patř/it__vblex"/><p><l><a/>k</l><r><g><b/>k</g></r></p></e>
     <e lm="absorbovat"><par n="v_neg"/><i>absorb</i><par n="mil/ovat__vblex"/></e>
     <e lm="adaptovat"><par n="v_neg"/><i>adapt</i><par n="mil/ovat__vblex"/></e>
     <e lm="adresovat"><par n="v_neg"/><i>adres</i><par n="mil/ovat__vblex"/></e>
@@ -34272,6 +34280,7 @@
     <e lm="pumpovat"><par n="v_neg"/><i>pump</i><par n="mil/ovat__vblex"/></e>
     <e lm="napumpovat"><par n="v_neg"/><i>napump</i><par n="napump/ovat__vblex"/></e>
     <e lm="dávat"><par n="v_neg"/><i>dáv</i><par n="dáv/at__vblex"/></e>
+    <e lm="vydávat"><par n="v_neg"/><i>vydáv</i><par n="dáv/at__vblex"/></e>
     <e lm="zpívat"><par n="v_neg"/><i>zpív</i><par n="dáv/at__vblex"/></e>
     <e lm="péci"><par n="v_neg"/><i>p</i><par n="p/éci__vblex"/></e>
     <e lm="vézt"><par n="v_neg"/><i>v</i><par n="v/ézt__vblex"/></e>

@@ -10009,6 +10009,7 @@
     <e><p><l>dochować<s n="vblex"/></l><r>dochovat<s n="vblex"/></r></p></e>
     <e><p><l>doczekać<s n="vblex"/></l><r>dočkat<s n="vblex"/></r></p></e>
     <e><p><l>dodawać<s n="vblex"/></l><r>přidávat<s n="vblex"/></r></p></e>
+    <e><p><l>wydawać<s n="vblex"/></l><r>vydávat<s n="vblex"/></r></p></e>
     <e><p><l>dogotować<s n="vblex"/></l><r>dovařit<s n="vblex"/></r></p></e>
     <e><p><l>dokończyć<s n="vblex"/></l><r>dokončit<s n="vblex"/></r></p></e>
     <e><p><l>dolewać<s n="vblex"/></l><r>dolévat<s n="vblex"/></r></p></e>
@@ -10086,6 +10087,7 @@
     <e><p><l>nacjonalizować<s n="vblex"/></l><r>znárodňovat<s n="vblex"/></r></p></e>
     <e><p><l>nadarzyć<s n="vblex"/></l><r>naskytnout<s n="vblex"/></r></p></e>
     <e><p><l>nadpisać<s n="vblex"/></l><r>přepsat<s n="vblex"/></r></p></e>
+    <e><p><l>pisać<s n="vblex"/></l><r>psát<s n="vblex"/></r></p></e>
     <e><p><l>nagrać<s n="vblex"/></l><r>nahrát<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>nagrać<s n="vblex"/></l><r>vypálit<s n="vblex"/></r></p></e>
     <e><p><l>nalewać<s n="vblex"/></l><r>nalévat<s n="vblex"/></r></p></e>
@@ -10632,8 +10634,9 @@
     <e><p><l>zmienić<s n="vblex"/></l><r>změnit<s n="vblex"/></r></p></e>
     <e><p><l>przeczytać<s n="vblex"/><s n="perf"/></l><r>přečíst<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>otrzymać<s n="vblex"/></l><r>obdržet<s n="vblex"/></r></p></e>
-    <e><p><l>należeć<s n="vblex"/><s n="imperf"/></l><r>náležet<s n="vblex"/><s n="imperf"/></r></p></e>
-    <e r="RL"><p><l>należeć<s n="vblex"/><s n="imperf"/></l><r>patřit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e r="RL"><p><l>należeć<s n="vblex"/><s n="imperf"/></l><r>náležet<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>należeć<s n="vblex"/><s n="imperf"/></l><r>patřit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>należeć<g><b/>do</g><s n="vblex"/><s n="imperf"/></l><r>patřit<g><b/>k</g><s n="vblex"/><s n="imperf"/></r></p></e>
     <e r="LR"><p><l>przynależeć<s n="vblex"/><s n="imperf"/></l><r>patřit<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>stawać<s n="vblex"/><s n="imperf"/></l><r>stávat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zobaczyć<s n="vblex"/><s n="perf"/></l><r>zahlédnout<s n="vblex"/><s n="perf"/></r></p></e>
