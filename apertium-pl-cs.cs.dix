@@ -21810,7 +21810,7 @@
       <e><p>          <l>těj</l><r>tít<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
       <e><p>          <l>těn</l><r>tít<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/></r></p><par n="BASE__četl"/></e>
     </pardef>
-    <pardef n="p/sat__vblex"> <!--FIXME-->
+    <pardef n="p/sát__vblex"> <!--FIXME-->
       <e><p>          <l>sát</l><r>sát<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
       <e><p>          <l>sání</l><r>sát<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
       <e><p>          <l>iš</l><r>sát<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
