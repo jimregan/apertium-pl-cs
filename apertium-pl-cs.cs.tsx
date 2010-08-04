@@ -34,6 +34,7 @@
   <def-label name="REL" closed="true">
     <tags-item tags="rel.adv"/>
     <tags-item lemma="co" tags="rel.an.nt.sg"/>
+    <tags-item lemma="což" tags="rel.an.nt.sg"/>
   </def-label> 
   <def-label name="SE" closed="true">
     <tags-item lemma="se" tags="prn.ref.acc"/>
