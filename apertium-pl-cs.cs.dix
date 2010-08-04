@@ -21436,6 +21436,25 @@
       <e><p>          <l>ijíc</l><r>ít<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
       <e><p>          <l>it</l><r>ít<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
     </pardef>
+    <pardef n="patř/it__vblex">
+      <e><p>          <l>ít</l><r>it<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+      <e><p>          <l></l><r>it<s n="vblex"/><s n="imperf"/><s n="pres"/></r></p><par n="BASE__udržím"/></e>
+      <e><p>          <l>il</l><r>it<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l></l><r>it<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__čti"/></e>
+
+      <e><p>          <l>e</l><r>it<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>e</l><r>it<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íc</l><r>it<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íc</l><r>it<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íce</l><r>it<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>íce</l><r>it<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>íce</l><r>it<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ení</l><r>it<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
+      <e><p>          <l>en</l><r>it<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__chtěn"/></e>
+      <e><p>          <l>íc</l><r>it<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
+      <e><p>          <l>en</l><r>it<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
+    </pardef>
     <pardef n="hr/át__vblex">
       <e><p>          <l>át</l><r>át<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
       <e><p>          <l>aj</l><r>át<s n="vblex"/><s n="imperf"/><s n="pres"/></r></p><par n="BASE__kryji"/></e>
