@@ -195,8 +195,12 @@
     <tags-item tags="pr"/>
   </def-label> 
   <def-label name="P3DETPOS" closed="true">
-    <tags-item lemma="jeho" tags="det.pos.adv"/>
-    <tags-item lemma="ich" tags="det.pos.adv"/>
+    <tags-item lemma="jeho" tags="det.pos.sp"/>
+    <tags-item lemma="ich" tags="det.pos.sp"/>
+  </def-label> 
+
+  <def-label name="PRNINDSHIT" closed="true">
+    <tags-item tags="prn.ind"/>
   </def-label> 
 
 <!--
@@ -207,30 +211,37 @@
   <def-label name="QNTNOM" closed="true">
     <tags-item tags="det.qnt.mf.pl.nom"/>
     <tags-item tags="num.qnt.mf.pl.nom"/>
+    <tags-item tags="prn.ind.mf.pl.nom"/>
   </def-label> 
   <def-label name="QNTGEN" closed="true">
     <tags-item tags="det.qnt.mf.pl.gen"/>
     <tags-item tags="num.qnt.mf.pl.gen"/>
+    <tags-item tags="prn.ind.mf.pl.gen"/>
   </def-label> 
   <def-label name="QNTDAT" closed="true">
     <tags-item tags="det.qnt.mf.pl.dat"/>
     <tags-item tags="num.qnt.mf.pl.dat"/>
+    <tags-item tags="prn.ind.mf.pl.dat"/>
   </def-label> 
   <def-label name="QNTACC" closed="true">
     <tags-item tags="det.qnt.mf.pl.acc"/>
     <tags-item tags="num.qnt.mf.pl.acc"/>
+    <tags-item tags="prn.ind.mf.pl.acc"/>
   </def-label> 
   <def-label name="QNTINS" closed="true">
     <tags-item tags="det.qnt.mf.pl.ins"/>
     <tags-item tags="num.qnt.mf.pl.ins"/>
+    <tags-item tags="prn.ind.mf.pl.ins"/>
   </def-label> 
   <def-label name="QNTLOC" closed="true">
     <tags-item tags="det.qnt.mf.pl.loc"/>
     <tags-item tags="num.qnt.mf.pl.loc"/>
+    <tags-item tags="prn.ind.mf.pl.loc"/>
   </def-label> 
   <def-label name="QNTVOC" closed="true">
     <tags-item tags="det.qnt.mf.pl.voc"/>
     <tags-item tags="num.qnt.mf.pl.voc"/>
+    <tags-item tags="prn.ind.mf.pl.voc"/>
   </def-label> 
 
 
@@ -2205,6 +2216,8 @@
 </enforce-rules>
 
 <preferences>
+  <prefer tags="vbser.pres.p3.sg"/>
+  <prefer tags="vbhaver.imperf.pres.p3.sg"/>
   <prefer tags="prn.emph.p3.nt.sg.gen"/>
   <prefer tags="prn.emph.p3.nt.sg.dat"/>
   <prefer tags="prn.emph.p3.nt.sg.acc"/>
@@ -2216,8 +2229,6 @@
   <prefer tags="prn.emph.p3.ma.pl.ins"/>
   <prefer tags="prn.emph.p3.ma.pl.loc"/>
   <prefer tags="prn.emph.p3.f.sg.nom"/>
-  <prefer tags="vbhaver.imperf.pres.p3.sg"/>
-  <prefer tags="vbser.pres.p3.sg"/>
 </preferences>
 
  <discard-on-ambiguity>
