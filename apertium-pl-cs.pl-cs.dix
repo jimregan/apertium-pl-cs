@@ -13585,6 +13585,16 @@
     <e><p><l>Sokrates<s n="np"/><s n="ant"/><s n="mp"/></l><r>Sókratés<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
 
 	<!-- Toponyms  -->
+
+    <e c="FMT:CHECK"><p><l>Warszawa<s n="np"/><s n="top"/><s n="f"/></l><r>Varšava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="FMT:CHECK"><p><l>Ekwador<s n="np"/><s n="top"/><s n="mi"/></l><r>Ekvádor<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e c="FMT:CHECK"><p><l>Cypr<s n="np"/><s n="top"/><s n="mi"/></l><r>Kypr<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e c="FMT:CHECK"><p><l>Gruzja<s n="np"/><s n="top"/><s n="f"/></l><r>Gruzie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="FMT:CHECK"><p><l>Gambia<s n="np"/><s n="top"/><s n="f"/></l><r>Gambie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="FMT:CHECK"><p><l>Erytrea<s n="np"/><s n="top"/><s n="f"/></l><r>Eritrea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e c="FMT:CHECK"><p><l>Daleki<b/>Wschód<s n="np"/><s n="top"/><s n="mi"/></l><r>Dálný<b/>Východ<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+
+
     <e><p><l>Belgia<s n="np"/><s n="top"/><s n="f"/></l><r>Belgie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Kanada<s n="np"/><s n="top"/><s n="f"/></l><r>Kanada<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Francja<s n="np"/><s n="top"/><s n="f"/></l><r>Francie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -13732,6 +13742,7 @@
     <e><p><l>Alaska<s n="np"/><s n="top"/><s n="f"/></l><r>Aljaška<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Algier<s n="np"/><s n="top"/><s n="mi"/></l><r>Alžír<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
     <e><p><l>Algieria<s n="np"/><s n="top"/><s n="f"/></l><r>Alžírsko<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Algierska<b/>Republika<b/>Ludowo-Demokratyczna<s n="np"/><s n="top"/><s n="f"/></l><r>Alžírská<b/>demokratická<b/>a<b/>lidová<b/>republika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Arabia<b/>Saudyjska<s n="np"/><s n="top"/><s n="f"/></l><r>Saúdská<b/>Arábie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Argentyna<s n="np"/><s n="top"/><s n="f"/></l><r>Argentina<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Armenia<s n="np"/><s n="top"/><s n="f"/></l><r>Arménie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
