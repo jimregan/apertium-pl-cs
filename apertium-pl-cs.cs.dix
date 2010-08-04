@@ -21789,8 +21789,35 @@
       <e r="LR"><p>   <l>tíce</l><r>tít<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
 
       <e><p>          <l>těj</l><r>tít<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
-      <e><p>          <l>těn</l><r>tít<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>těn</l><r>tít<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/></r></p><par n="BASE__četl"/></e>
     </pardef>
+    <pardef n="p/sat__vblex"> <!--FIXME-->
+      <e><p>          <l>sát</l><r>sát<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+      <e><p>          <l>sání</l><r>sát<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
+      <e><p>          <l>iš</l><r>sát<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__udrž"/></e>
+
+      <e><p>          <l>íše</l><r>sát<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íše</l><r>sát<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íšíc</l><r>sát<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íšíc</l><r>sát<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íšíce</l><r>sát<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>íšíce</l><r>sát<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>íšíce</l><r>sát<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="nt"/><s n="pl"/></r></p></e>
+      <e><p>          <l>íšíc</l><r>sát<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
+
+      <e><p>          <l>íšu</l><r>sát<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e r="LR"><p>          <l>íši</l><r>sát<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íši</l><r>sát<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íšeš</l><r>sát<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>íšeme</l><r>sát<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>íšete</l><r>sát<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>íšou</l><r>sát<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="LR"><p>   <l>íší</l><r>sát<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>sal</l><r>sát<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__napsal"/></e>
+      <e><p>          <l>sán</l><r>sát<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
+      <e><p>          <l>sán</l><r>sát<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/></r></p><par n="BASE__četl"/></e>
+	</pardef>
     <pardef n="nap/sat__vblex">
       <e><p>          <l>sat</l><r>sat<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
       <e><p>          <l>sání</l><r>sat<s n="vblex"/><s n="perf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
@@ -21827,7 +21854,7 @@
       <e r="LR"><p>   <l>píší</l><r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
 
       <e><p>          <l>epsal</l><r>epsat<s n="vblex"/><s n="perf"/></r></p><par n="BASE__napsal"/></e>
-      <e><p>          <l>epsan</l><r>epsat<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
+      <e><p>          <l>epsán</l><r>epsat<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
       <e><p>          <l>epsán</l><r>epsat<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/></r></p><par n="BASE__četl"/></e>
 	</pardef>
     <pardef n="ztra/tit__vblex"> <!-- fmorph tidd -->
