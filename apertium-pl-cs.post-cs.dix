@@ -131,6 +131,11 @@
       <e>
         <i>k</i>
       </e>
+    </pardef>
+    <pardef n="ku">
+      <e>
+        <i>prv</i>
+      </e>
       <e>
         <i>mn</i>
       </e>
@@ -191,6 +196,27 @@
       <p>
         <l><a/>s<b/></l>
         <r>s<b/></r>
+      </p>
+    </e>
+    <!-- ku before [bpm] + consonant (not liquids), ke before other consonant groups, k otherwise -->
+    <e>
+      <p>
+        <l><a/>k<b/></l>
+        <r>ke<b/></r>
+      </p>
+      <par n="ze"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>k<b/></l>
+        <r>ku<b/></r>
+      </p>
+      <par n="zu"/>
+    </e>
+    <e>
+      <p>
+        <l><a/>k<b/></l>
+        <r>k<b/></r>
       </p>
     </e>
     <e>
