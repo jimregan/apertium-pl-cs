@@ -730,6 +730,455 @@
     <tags-item tags="adj.sint.dim.nt.pl.voc"/>
     <tags-item tags="adj.sint.nt.pl.voc"/>
   </def-label> 
+  <def-label name="VPARTFSGNOM">
+    <tags-item tags="vaux.imperf.pp.adj.f.sg.nom"/>
+    <tags-item tags="vaux.imperf.pprs.adj.f.sg.nom"/>
+    <tags-item tags="vbser.pprs.adj.f.sg.nom"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.sg.nom"/>
+    <tags-item tags="vblex.perf.pp.adj.f.sg.nom"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.sg.nom"/>
+    <tags-item tags="vbhaver.imperf.pprs.adj.f.sg.nom"/>
+  </def-label> 
+  <def-label name="VPARTMASGNOM">
+    <tags-item tags="vaux.imperf.pp.adj.ma.sg.nom"/>
+    <tags-item tags="vbser.pprs.adj.ma.sg.nom"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.sg.nom"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.sg.nom"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.sg.nom"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.sg.nom"/>
+  </def-label> 
+  <def-label name="VPARTMISGNOM">
+    <tags-item tags="vaux.imperf.pp.adj.mi.sg.nom"/>
+    <tags-item tags="vbser.pprs.adj.mi.sg.nom"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.sg.nom"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.sg.nom"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.sg.nom"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.sg.nom"/>
+  </def-label> 
+  <def-label name="VPARTNTSGNOM">
+    <tags-item tags="vaux.imperf.pp.adj.nt.sg.nom"/>
+    <tags-item tags="vbser.pprs.adj.nt.sg.nom"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.sg.nom"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.sg.nom"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.sg.nom"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.sg.nom"/>
+  </def-label> 
+  <def-label name="VPARTFSGGEN">
+    <tags-item tags="vaux.imperf.pp.adj.f.sg.gen"/>
+    <tags-item tags="vbser.pprs.adj.f.sg.gen"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.sg.gen"/>
+    <tags-item tags="vblex.perf.pp.adj.f.sg.gen"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.sg.gen"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.sg.gen"/>
+  </def-label> 
+  <def-label name="VPARTMASGGEN">
+    <tags-item tags="vaux.imperf.pp.adj.ma.sg.gen"/>
+    <tags-item tags="vbser.pprs.adj.ma.sg.gen"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.sg.gen"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.sg.gen"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.sg.gen"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.sg.gen"/>
+  </def-label> 
+  <def-label name="VPARTMISGGEN">
+    <tags-item tags="vaux.imperf.pp.adj.mi.sg.gen"/>
+    <tags-item tags="vbser.pprs.adj.mi.sg.gen"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.sg.gen"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.sg.gen"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.sg.gen"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.sg.gen"/>
+  </def-label> 
+  <def-label name="VPARTNTSGGEN">
+    <tags-item tags="vaux.imperf.pp.adj.nt.sg.gen"/>
+    <tags-item tags="vbser.pprs.adj.nt.sg.gen"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.sg.gen"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.sg.gen"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.sg.gen"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.sg.gen"/>
+  </def-label> 
+  <def-label name="VPARTFSGDAT">
+    <tags-item tags="vaux.imperf.pp.adj.f.sg.dat"/>
+    <tags-item tags="vbser.pprs.adj.f.sg.dat"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.sg.dat"/>
+    <tags-item tags="vblex.perf.pp.adj.f.sg.dat"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.sg.dat"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.sg.dat"/>
+  </def-label> 
+  <def-label name="VPARTMASGDAT">
+    <tags-item tags="vaux.imperf.pp.adj.ma.sg.dat"/>
+    <tags-item tags="vbser.pprs.adj.ma.sg.dat"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.sg.dat"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.sg.dat"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.sg.dat"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.sg.dat"/>
+  </def-label> 
+  <def-label name="VPARTMISGDAT">
+    <tags-item tags="vaux.imperf.pp.adj.mi.sg.dat"/>
+    <tags-item tags="vbser.pprs.adj.mi.sg.dat"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.sg.dat"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.sg.dat"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.sg.dat"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.sg.dat"/>
+  </def-label> 
+  <def-label name="VPARTNTSGDAT">
+    <tags-item tags="vaux.imperf.pp.adj.nt.sg.dat"/>
+    <tags-item tags="vbser.pprs.adj.nt.sg.dat"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.sg.dat"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.sg.dat"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.sg.dat"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.sg.dat"/>
+  </def-label> 
+  <def-label name="VPARTFSGACC">
+    <tags-item tags="vaux.imperf.pp.adj.f.sg.acc"/>
+    <tags-item tags="vbser.pprs.adj.f.sg.acc"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.sg.acc"/>
+    <tags-item tags="vblex.perf.pp.adj.f.sg.acc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.sg.acc"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.sg.acc"/>
+  </def-label> 
+  <def-label name="VPARTMASGACC">
+    <tags-item tags="vaux.imperf.pp.adj.ma.sg.acc"/>
+    <tags-item tags="vbser.pprs.adj.ma.sg.acc"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.sg.acc"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.sg.acc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.sg.acc"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.sg.acc"/>
+  </def-label> 
+  <def-label name="VPARTMISGACC">
+    <tags-item tags="vaux.imperf.pp.adj.mi.sg.acc"/>
+    <tags-item tags="vbser.pprs.adj.mi.sg.acc"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.sg.acc"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.sg.acc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.sg.acc"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.sg.acc"/>
+  </def-label> 
+  <def-label name="VPARTNTSGACC">
+    <tags-item tags="vaux.imperf.pp.adj.nt.sg.acc"/>
+    <tags-item tags="vbser.pprs.adj.nt.sg.acc"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.sg.acc"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.sg.acc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.sg.acc"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.sg.acc"/>
+  </def-label> 
+  <def-label name="VPARTFSGINS">
+    <tags-item tags="vaux.imperf.pp.adj.f.sg.ins"/>
+    <tags-item tags="vbser.pprs.adj.f.sg.ins"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.sg.ins"/>
+    <tags-item tags="vblex.perf.pp.adj.f.sg.ins"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.sg.ins"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.sg.ins"/>
+  </def-label> 
+  <def-label name="VPARTMASGINS">
+    <tags-item tags="vaux.imperf.pp.adj.ma.sg.ins"/>
+    <tags-item tags="vbser.pprs.adj.ma.sg.ins"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.sg.ins"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.sg.ins"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.sg.ins"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.sg.ins"/>
+  </def-label> 
+  <def-label name="VPARTMISGINS">
+    <tags-item tags="vaux.imperf.pp.adj.mi.sg.ins"/>
+    <tags-item tags="vbser.pprs.adj.mi.sg.ins"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.sg.ins"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.sg.ins"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.sg.ins"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.sg.ins"/>
+  </def-label> 
+  <def-label name="VPARTNTSGINS">
+    <tags-item tags="vaux.imperf.pp.adj.nt.sg.ins"/>
+    <tags-item tags="vbser.pprs.adj.nt.sg.ins"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.sg.ins"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.sg.ins"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.sg.ins"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.sg.ins"/>
+  </def-label> 
+  <def-label name="VPARTFSGLOC">
+    <tags-item tags="vaux.imperf.pp.adj.f.sg.loc"/>
+    <tags-item tags="vbser.pprs.adj.f.sg.loc"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.sg.loc"/>
+    <tags-item tags="vblex.perf.pp.adj.f.sg.loc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.sg.loc"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.sg.loc"/>
+  </def-label> 
+  <def-label name="VPARTMASGLOC">
+    <tags-item tags="vaux.imperf.pp.adj.ma.sg.loc"/>
+    <tags-item tags="vbser.pprs.adj.ma.sg.loc"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.sg.loc"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.sg.loc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.sg.loc"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.sg.loc"/>
+  </def-label> 
+  <def-label name="VPARTMISGLOC">
+    <tags-item tags="vaux.imperf.pp.adj.mi.sg.loc"/>
+    <tags-item tags="vbser.pprs.adj.mi.sg.loc"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.sg.loc"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.sg.loc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.sg.loc"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.sg.loc"/>
+  </def-label> 
+  <def-label name="VPARTNTSGLOC">
+    <tags-item tags="vaux.imperf.pp.adj.nt.sg.loc"/>
+    <tags-item tags="vbser.pprs.adj.nt.sg.loc"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.sg.loc"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.sg.loc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.sg.loc"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.sg.loc"/>
+  </def-label> 
+  <def-label name="VPARTFSGVOC">
+    <tags-item tags="vaux.imperf.pp.adj.f.sg.voc"/>
+    <tags-item tags="vbser.pprs.adj.f.sg.voc"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.sg.voc"/>
+    <tags-item tags="vblex.perf.pp.adj.f.sg.voc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.sg.voc"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.sg.voc"/>
+  </def-label> 
+  <def-label name="VPARTMASGVOC">
+    <tags-item tags="vaux.imperf.pp.adj.ma.sg.voc"/>
+    <tags-item tags="vbser.pprs.adj.ma.sg.voc"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.sg.voc"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.sg.voc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.sg.voc"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.sg.voc"/>
+  </def-label> 
+  <def-label name="VPARTMISGVOC">
+    <tags-item tags="vaux.imperf.pp.adj.mi.sg.voc"/>
+    <tags-item tags="vbser.pprs.adj.mi.sg.voc"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.sg.voc"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.sg.voc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.sg.voc"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.sg.voc"/>
+  </def-label> 
+  <def-label name="VPARTNTSGVOC">
+    <tags-item tags="vaux.imperf.pp.adj.nt.sg.voc"/>
+    <tags-item tags="vbser.pprs.adj.nt.sg.voc"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.sg.voc"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.sg.voc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.sg.voc"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.sg.voc"/>
+  </def-label> 
+  <def-label name="VPARTFPLNOM">
+    <tags-item tags="vaux.imperf.pp.adj.f.pl.nom"/>
+    <tags-item tags="vbser.pprs.adj.f.pl.nom"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.pl.nom"/>
+    <tags-item tags="vblex.perf.pp.adj.f.pl.nom"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.pl.nom"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.pl.nom"/>
+  </def-label> 
+  <def-label name="VPARTMAPLNOM">
+    <tags-item tags="vaux.imperf.pp.adj.ma.pl.nom"/>
+    <tags-item tags="vbser.pprs.adj.ma.pl.nom"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.pl.nom"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.pl.nom"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.pl.nom"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.pl.nom"/>
+  </def-label> 
+  <def-label name="VPARTMIPLNOM">
+    <tags-item tags="vaux.imperf.pp.adj.mi.pl.nom"/>
+    <tags-item tags="vbser.pprs.adj.mi.pl.nom"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.pl.nom"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.pl.nom"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.pl.nom"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.pl.nom"/>
+  </def-label> 
+  <def-label name="VPARTNTPLNOM">
+    <tags-item tags="vaux.imperf.pp.adj.nt.pl.nom"/>
+    <tags-item tags="vbser.pprs.adj.nt.pl.nom"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.pl.nom"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.pl.nom"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.pl.nom"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.pl.nom"/>
+  </def-label> 
+  <def-label name="VPARTFPLGEN">
+    <tags-item tags="vaux.imperf.pp.adj.f.pl.gen"/>
+    <tags-item tags="vbser.pprs.adj.f.pl.gen"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.pl.gen"/>
+    <tags-item tags="vblex.perf.pp.adj.f.pl.gen"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.pl.gen"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.pl.gen"/>
+  </def-label> 
+  <def-label name="VPARTMAPLGEN">
+    <tags-item tags="vaux.imperf.pp.adj.ma.pl.gen"/>
+    <tags-item tags="vbser.pprs.adj.ma.pl.gen"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.pl.gen"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.pl.gen"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.pl.gen"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.pl.gen"/>
+  </def-label> 
+  <def-label name="VPARTMIPLGEN">
+    <tags-item tags="vaux.imperf.pp.adj.mi.pl.gen"/>
+    <tags-item tags="vbser.pprs.adj.mi.pl.gen"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.pl.gen"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.pl.gen"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.pl.gen"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.pl.gen"/>
+  </def-label> 
+  <def-label name="VPARTNTPLGEN">
+    <tags-item tags="vaux.imperf.pp.adj.nt.pl.gen"/>
+    <tags-item tags="vbser.pprs.adj.nt.pl.gen"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.pl.gen"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.pl.gen"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.pl.gen"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.pl.gen"/>
+  </def-label> 
+  <def-label name="VPARTFPLDAT">
+    <tags-item tags="vaux.imperf.pp.adj.f.pl.dat"/>
+    <tags-item tags="vbser.pprs.adj.f.pl.dat"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.pl.dat"/>
+    <tags-item tags="vblex.perf.pp.adj.f.pl.dat"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.pl.dat"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.pl.dat"/>
+  </def-label> 
+  <def-label name="VPARTMAPLDAT">
+    <tags-item tags="vaux.imperf.pp.adj.ma.pl.dat"/>
+    <tags-item tags="vbser.pprs.adj.ma.pl.dat"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.pl.dat"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.pl.dat"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.pl.dat"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.pl.dat"/>
+  </def-label> 
+  <def-label name="VPARTMIPLDAT">
+    <tags-item tags="vaux.imperf.pp.adj.mi.pl.dat"/>
+    <tags-item tags="vbser.pprs.adj.mi.pl.dat"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.pl.dat"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.pl.dat"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.pl.dat"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.pl.dat"/>
+  </def-label> 
+  <def-label name="VPARTNTPLDAT">
+    <tags-item tags="vaux.imperf.pp.adj.nt.pl.dat"/>
+    <tags-item tags="vbser.pprs.adj.nt.pl.dat"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.pl.dat"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.pl.dat"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.pl.dat"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.pl.dat"/>
+  </def-label> 
+  <def-label name="VPARTFPLACC">
+    <tags-item tags="vaux.imperf.pp.adj.f.pl.acc"/>
+    <tags-item tags="vbser.pprs.adj.f.pl.acc"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.pl.acc"/>
+    <tags-item tags="vblex.perf.pp.adj.f.pl.acc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.pl.acc"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.pl.acc"/>
+  </def-label> 
+  <def-label name="VPARTMAPLACC">
+    <tags-item tags="vaux.imperf.pp.adj.ma.pl.acc"/>
+    <tags-item tags="vbser.pprs.adj.ma.pl.acc"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.pl.acc"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.pl.acc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.pl.acc"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.pl.acc"/>
+  </def-label> 
+  <def-label name="VPARTMIPLACC">
+    <tags-item tags="vaux.imperf.pp.adj.mi.pl.acc"/>
+    <tags-item tags="vbser.pprs.adj.mi.pl.acc"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.pl.acc"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.pl.acc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.pl.acc"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.pl.acc"/>
+  </def-label> 
+  <def-label name="VPARTNTPLACC">
+    <tags-item tags="vaux.imperf.pp.adj.nt.pl.acc"/>
+    <tags-item tags="vbser.pprs.adj.nt.pl.acc"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.pl.acc"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.pl.acc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.pl.acc"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.pl.acc"/>
+  </def-label> 
+  <def-label name="VPARTFPLINS">
+    <tags-item tags="vaux.imperf.pp.adj.f.pl.ins"/>
+    <tags-item tags="vbser.pprs.adj.f.pl.ins"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.pl.ins"/>
+    <tags-item tags="vblex.perf.pp.adj.f.pl.ins"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.pl.ins"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.pl.ins"/>
+  </def-label> 
+  <def-label name="VPARTMAPLINS">
+    <tags-item tags="vaux.imperf.pp.adj.ma.pl.ins"/>
+    <tags-item tags="vbser.pprs.adj.ma.pl.ins"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.pl.ins"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.pl.ins"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.pl.ins"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.pl.ins"/>
+  </def-label> 
+  <def-label name="VPARTMIPLINS">
+    <tags-item tags="vaux.imperf.pp.adj.mi.pl.ins"/>
+    <tags-item tags="vbser.pprs.adj.mi.pl.ins"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.pl.ins"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.pl.ins"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.pl.ins"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.pl.ins"/>
+  </def-label> 
+  <def-label name="VPARTNTPLINS">
+    <tags-item tags="vaux.imperf.pp.adj.nt.pl.ins"/>
+    <tags-item tags="vbser.pprs.adj.nt.pl.ins"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.pl.ins"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.pl.ins"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.pl.ins"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.pl.ins"/>
+  </def-label> 
+  <def-label name="VPARTFPLLOC">
+    <tags-item tags="vaux.imperf.pp.adj.f.pl.loc"/>
+    <tags-item tags="vbser.pprs.adj.f.pl.loc"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.pl.loc"/>
+    <tags-item tags="vblex.perf.pp.adj.f.pl.loc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.pl.loc"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.pl.loc"/>
+  </def-label> 
+  <def-label name="VPARTMAPLLOC">
+    <tags-item tags="vaux.imperf.pp.adj.ma.pl.loc"/>
+    <tags-item tags="vbser.pprs.adj.ma.pl.loc"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.pl.loc"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.pl.loc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.pl.loc"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.pl.loc"/>
+  </def-label> 
+  <def-label name="VPARTMIPLLOC">
+    <tags-item tags="vaux.imperf.pp.adj.mi.pl.loc"/>
+    <tags-item tags="vbser.pprs.adj.mi.pl.loc"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.pl.loc"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.pl.loc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.pl.loc"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.pl.loc"/>
+  </def-label> 
+  <def-label name="VPARTNTPLLOC">
+    <tags-item tags="vaux.imperf.pp.adj.nt.pl.loc"/>
+    <tags-item tags="vbser.pprs.adj.nt.pl.loc"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.pl.loc"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.pl.loc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.pl.loc"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.pl.loc"/>
+  </def-label> 
+  <def-label name="VPARTFPLVOC">
+    <tags-item tags="vaux.imperf.pp.adj.f.pl.voc"/>
+    <tags-item tags="vbser.pprs.adj.f.pl.voc"/>
+    <tags-item tags="vblex.imperf.pp.adj.f.pl.voc"/>
+    <tags-item tags="vblex.perf.pp.adj.f.pl.voc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.f.pl.voc"/>
+    <tags-item tags="vbhaver.imperf.pprs.f.pl.voc"/>
+  </def-label> 
+  <def-label name="VPARTMAPLVOC">
+    <tags-item tags="vaux.imperf.pp.adj.ma.pl.voc"/>
+    <tags-item tags="vbser.pprs.adj.ma.pl.voc"/>
+    <tags-item tags="vblex.imperf.pp.adj.ma.pl.voc"/>
+    <tags-item tags="vblex.perf.pp.adj.ma.pl.voc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.ma.pl.voc"/>
+    <tags-item tags="vbhaver.imperf.pprs.ma.pl.voc"/>
+  </def-label> 
+  <def-label name="VPARTMIPLVOC">
+    <tags-item tags="vaux.imperf.pp.adj.mi.pl.voc"/>
+    <tags-item tags="vbser.pprs.adj.mi.pl.voc"/>
+    <tags-item tags="vblex.imperf.pp.adj.mi.pl.voc"/>
+    <tags-item tags="vblex.perf.pp.adj.mi.pl.voc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.mi.pl.voc"/>
+    <tags-item tags="vbhaver.imperf.pprs.mi.pl.voc"/>
+  </def-label> 
+  <def-label name="VPARTNTPLVOC">
+    <tags-item tags="vaux.imperf.pp.adj.nt.pl.voc"/>
+    <tags-item tags="vbser.pprs.adj.nt.pl.voc"/>
+    <tags-item tags="vblex.imperf.pp.adj.nt.pl.voc"/>
+    <tags-item tags="vblex.perf.pp.adj.nt.pl.voc"/>
+    <tags-item tags="vblex.imperf.pprs.adj.nt.pl.voc"/>
+    <tags-item tags="vbhaver.imperf.pprs.nt.pl.voc"/>
+  </def-label> 
 
   <def-label name="DETFSGNOM">
     <tags-item tags="det.pos.f.sg.nom"/>
@@ -2043,6 +2492,342 @@
       <label-item label="ADJNTPLVOC"/>
     </sequence>
   </def-mult>
+  <def-mult name="NEVPARTFSGNOM">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFSGNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFSGGEN">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFSGGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFSGDAT">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFSGDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFSGACC">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFSGACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFSGINS">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFSGINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFSGLOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFSGLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFSGVOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFSGVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMASGNOM">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMASGNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMASGGEN">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMASGGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMASGDAT">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMASGDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMASGACC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMASGACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMASGINS">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMASGINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMASGLOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMASGLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMASGVOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMASGVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMISGNOM">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMISGNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMISGGEN">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMISGGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMISGDAT">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMISGDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMISGACC">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMISGACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMISGINS">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMISGINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMISGLOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMISGLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMISGVOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMISGVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTSGNOM">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTSGNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTSGGEN">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTSGGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTSGDAT">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTSGDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTSGACC">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTSGACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTSGINS">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTSGINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTSGLOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTSGLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTSGVOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTSGVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFPLNOM">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFPLNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFPLGEN">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFPLGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFPLDAT">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFPLDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFPLACC">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFPLACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFPLINS">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFPLINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFPLLOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFPLLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTFPLVOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTFPLVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMAPLNOM">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMAPLNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMAPLGEN">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMAPLGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMAPLDAT">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMAPLDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMAPLACC">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMAPLACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMAPLINS">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMAPLINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMAPLLOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMAPLLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMAPLVOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMAPLVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMIPLNOM">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMIPLNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMIPLGEN">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMIPLGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMIPLDAT">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMIPLDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMIPLACC">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMIPLACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMIPLINS">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMIPLINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMIPLLOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMIPLLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTMIPLVOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTMIPLVOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTPLNOM">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTPLNOM"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTPLGEN">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTPLGEN"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTPLDAT">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTPLDAT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTPLACC">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTPLACC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTPLINS">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTPLINS"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTPLLOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTPLLOC"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEVPARTNTPLVOC">
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="VPARTNTPLVOC"/>
+    </sequence>
+  </def-mult>
 </tagset>
 
 <forbid>
@@ -2097,6 +2882,46 @@
   <label-sequence>
     <label-item label="INSPR"/>
     <label-item label="NEJADJNTPLDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="NOMPR"/>
+    <label-item label="VPARTMASGACC"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="NOMPR"/>
+    <label-item label="NEVPARTMASGACC"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="NOMPR"/>
+    <label-item label="VPARTMAPLACC"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="NOMPR"/>
+    <label-item label="NEVPARTMAPLACC"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="VPARTMASGDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="NEVPARTMASGDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="VPARTMISGDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="NEVPARTMISGDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="VPARTNTPLDAT"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="INSPR"/>
+    <label-item label="NEVPARTNTPLDAT"/>
   </label-sequence>
   <label-sequence>
     <label-item label="NOM"/>
