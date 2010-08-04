@@ -84,6 +84,7 @@
   <def-label name="ADJCPD">
     <tags-item tags="adj.cpd"/>
     <tags-item tags="adj.sint.cpd"/>
+    <tags-item tags="adj.sint.dim.cpd"/>
   </def-label> 
   <def-label name="ADJPO">
     <tags-item tags="adj.po"/>
