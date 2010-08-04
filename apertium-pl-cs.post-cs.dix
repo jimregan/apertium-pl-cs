@@ -112,6 +112,27 @@
       <e>
         <i>mn</i>
       </e>
+      <e>
+        <i>dn</i>
+      </e>
+      <e>
+        <i>dv</i>
+      </e>
+      <e>
+        <i>čt</i>
+      </e>
+      <e>
+        <i>tch</i>
+      </e>
+      <e>
+        <i>tv</i>
+      </e>
+      <e>
+        <i>vs</i>
+      </e>
+      <e>
+        <i>vz</i>
+      </e>
     </pardef>
     <pardef n="ze">
       <e>
@@ -126,6 +147,30 @@
       <e>
         <i>mn</i>
       </e>
+      <e>
+        <i>dn</i>
+      </e>
+      <e>
+        <i>dv</i>
+      </e>
+      <e>
+        <i>čt</i>
+      </e>
+      <e>
+        <i>tch</i>
+      </e>
+      <e>
+        <i>tv</i>
+      </e>
+      <e>
+        <i>vs</i>
+      </e>
+      <e>
+        <i>vz</i>
+      </e>
+      <e>
+        <i>zv</i>
+      </e>
     </pardef>
     <pardef n="ke">
       <e>
@@ -135,7 +180,22 @@
         <i>g</i>
       </e>
       <e>
+        <i>dn</i>
+      </e>
+      <e>
+        <i>dv</i>
+      </e>
+      <e>
+        <i>čt</i>
+      </e>
+      <e c="check">
+        <i>sk</i>
+      </e>
+      <e>
         <i>sm</i>
+      </e>
+      <e c="check">
+        <i>sp</i>
       </e>
       <e>
         <i>st</i>
@@ -143,8 +203,35 @@
       <e>
         <i>sv</i>
       </e>
+      <e>
+        <i>tch</i>
+      </e>
+      <e>
+        <i>tv</i>
+      </e>
+      <e>
+        <i>vs</i>
+      </e>
+      <e>
+        <i>vz</i>
+      </e>
+      <e>
+        <i>zv</i>
+      </e>
     </pardef>
     <pardef n="ku">
+      <e>
+        <i>md</i>
+      </e>
+      <e>
+        <i>mn</i>
+      </e>
+      <e>
+        <i>ms</i>
+      </e>
+      <e>
+        <i>pn</i>
+      </e>
       <e>
         <i>prv</i>
       </e>
@@ -152,7 +239,10 @@
         <i>př</i>
       </e>
       <e>
-        <i>mn</i>
+        <i>ps</i>
+      </e>
+      <e>
+        <i>pt</i>
       </e>
     </pardef>
     <pardef n="ode">
@@ -161,6 +251,27 @@
       </e>
       <e>
         <i>mn</i>
+      </e>
+      <e>
+        <i>dv</i>
+      </e>
+      <e>
+        <i>čt</i>
+      </e>
+      <e>
+        <i>tch</i>
+      </e>
+      <e>
+        <i>tv</i>
+      </e>
+      <e>
+        <i>vs</i>
+      </e>
+      <e>
+        <i>vz</i>
+      </e>
+      <e>
+        <i>zv</i>
       </e>
     </pardef>
   </pardefs>
