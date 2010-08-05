@@ -45236,7 +45236,7 @@
     <e lm="rozpocząć"><i>rozpocz</i><par n="zacz/ąć__vblex"/></e>
     <e lm="posiadać"><i>posiad</i><par n="czyt/ać__vblex"/></e>
     <e lm="należeć"><i>należ</i><par n="należ/eć__vblex"/></e>
-    <e lm="należeć do"><i>należ</i><par n="należ/eć__vblex"/><p><l><b/>do</l><r><g><b/>do</g></r></p></e>
+<!--    <e lm="należeć do"><i>należ</i><par n="należ/eć__vblex"/><p><l><b/>do</l><r><g><b/>do</g></r></p></e>-->
     <e lm="przynależeć"><i>przynależ</i><par n="należ/eć__vblex"/></e>
     <e lm="uwierzyć"><i>uwierz</i><par n="uwierz/yć__vblex"/></e>
     <e lm="zobaczyć"><i>zobacz</i><par n="uwierz/yć__vblex"/></e>
@@ -45376,6 +45376,18 @@
     <e lm="symbolizować"><i>symboliz</i><par n="mal/ować__vblex"/></e>
     <e lm="sympatyzować"><i>sympatyz</i><par n="mal/ować__vblex"/></e>
     <e lm="telegrafować"><i>telegraf</i><par n="mal/ować__vblex"/></e>
+
+    <e lm="abdykować" c="FMT:CHECK"><i>abdyk</i><par n="mal/ować__vblex"/></e>
+    <e lm="bojować" c="FMT:CHECK"><i>boj</i><par n="mal/ować__vblex"/></e>
+    <e lm="debatować" c="FMT:CHECK"><i>debat</i><par n="mal/ować__vblex"/></e>
+    <e lm="dezerterować" c="FMT:CHECK"><i>dezerter</i><par n="mal/ować__vblex"/></e>
+    <e lm="figurować" c="FMT:CHECK"><i>figur</i><par n="mal/ować__vblex"/></e>
+    <e lm="koncertować" c="FMT:CHECK"><i>koncert</i><par n="mal/ować__vblex"/></e>
+    <e lm="kulminować" c="FMT:CHECK"><i>kulmin</i><par n="mal/ować__vblex"/></e>
+    <e lm="oscylować" c="FMT:CHECK"><i>oscyl</i><par n="mal/ować__vblex"/></e>
+    <e lm="współdecydować" c="FMT:CHECK"><i>współdecyd</i><par n="mal/ować__vblex"/></e>
+    <e lm="surfować" c="FMT:CHECK"><i>surf</i><par n="mal/ować__vblex"/></e>
+
     <e lm="triumfować"><i>triumf</i><par n="mal/ować__vblex"/></e>
     <e lm="akredytować"><i>akredyt</i><par n="mal/ować__vblex"/></e>
     <e lm="amputować"><i>amput</i><par n="mal/ować__vblex"/></e>
@@ -45509,9 +45521,9 @@
     <e lm="pisać"><i>pis</i><par n="pis/ać__vblex"/></e>
     <e lm="napisać"><i>napis</i><par n="napis/ać__vblex"/></e>
     <e lm="iść"><i></i><par n="/iść__vblex"/></e>
-    <e lm="iść o"><i></i><par n="/iść__vblex"/><p><l><b/>o</l><r><g><b/>o</g></r></p></e>
+<!--    <e lm="iść o"><i></i><par n="/iść__vblex"/><p><l><b/>o</l><r><g><b/>o</g></r></p></e>-->
     <e lm="chodzić"><i>chod</i><par n="chod/zić__vblex"/></e>
-    <e lm="chodzić o"><i>chod</i><par n="chod/zić__vblex"/><p><l><b/>o</l><r><g><b/>o</g></r></p></e>
+<!--    <e lm="chodzić o"><i>chod</i><par n="chod/zić__vblex"/><p><l><b/>o</l><r><g><b/>o</g></r></p></e>-->
     <e lm="wziąć"><i>w</i><par n="w/ziąć__vblex"/></e>
     <e lm="brać"><i>b</i><par n="b/rać__vblex"/></e>
     <e lm="odpowiadać"><i>odpowiad</i><par n="czyt/ać__vblex"/></e>

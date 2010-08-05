@@ -6,6 +6,10 @@
      <cat-item tags="n.*"/>
      <cat-item tags="np.*"/>
   </def-cat>
+  <def-cat n="inf">
+     <cat-item tags="vblex.*.inf"/>
+     <cat-item tags="vblex.*.inf.*"/>
+  </def-cat>
   <def-cat n="part">
      <cat-item tags="vblex.imperf.pp"/>
      <cat-item tags="vblex.imperf.pp.*"/>
@@ -1642,6 +1646,35 @@
         </choose>
      </action>
   </rule>
+
+
+  <rule comment="patřit k -> należeć do">
+     <pattern>
+       <pattern-item n="inf"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="inf" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="asp"/></tag>
+             <tag><lit-tag v="inf"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <clip pos="1" side="tl" part="asp"/>
+              <clip pos="1" side="tl" part="tns"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
 
   <rule>
      <pattern>
