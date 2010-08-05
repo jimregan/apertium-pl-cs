@@ -21011,6 +21011,80 @@
         <par n="BASE__będący"/>
       </e>
     </pardef>
+    <pardef n="wid/zieć__vblex">
+      <e>
+        <p>
+          <l>zieć</l>
+          <r>zieć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zę</l>
+          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zi</l>
+          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>zą</l>
+          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ź</l>
+          <r>zieć<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>zi</l>
+          <r>zieć<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__wiedziałem"/>
+      </e>
+      <e>
+        <p>
+          <l>ziano</l>
+          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zian</l>
+          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__kochany"/>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r>zieć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>ząc</l>
+          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ząc</l>
+          <r>zieć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+    </pardef>
     <pardef n="kar/ać__vblex">
       <e>
         <p>
@@ -21111,7 +21185,7 @@
         <par n="BASE__będący"/>
       </e>
     </pardef>
-    <pardef n="ka/zać__vblex_imperf">
+    <pardef n="ka/zać__vblex">
       <e>
         <p>
           <l>zać</l>
@@ -21185,7 +21259,7 @@
         <par n="BASE__będący"/>
       </e>
     </pardef>
-    <pardef n="ka/zać__vblex_perf">
+    <pardef n="ska/zać__vblex"> 
       <e>
         <p>
           <l>zać</l>
@@ -21251,8 +21325,20 @@
           <r>zać<s n="vblex"/><s n="perf"/><s n="pprs"/><s n="adv"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l>zując</l>
+          <r>zać<s n="vblex"/><s n="perf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zując</l>
+          <r>zać<s n="vblex"/><s n="perf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
     </pardef>
-
     <pardef n="PBASE__mp_pl">
       <e c="Regular nominal plurals">
         <p>
@@ -22377,6 +22463,22 @@
       <e><p><l>iach</l><r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>ie</l><r>ia<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
+    <pardef n="l/as__n">
+      <e><p><l>as</l><r>as<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>asu</l><r>as<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>asowi</l><r>as<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>as</l><r>as<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>asem</l><r>as<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p><l>esie</l><r>as<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>esie</l><r>as<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>asy</l><r>as<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>asów</l><r>as<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>asom</l><r>as<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>asy</l><r>as<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>asami</l><r>as<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>asach</l><r>as<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p><l>asy</l><r>as<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
     <pardef n="ha/sło__n">
       <e><p><l>sło</l><r>sło<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>sła</l><r>sło<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -22825,14 +22927,13 @@
         <par n="BASE__piwo"/>
       </e>
     </pardef>
-    <pardef n="jut/ro__n">
+    <pardef n="lust/ro__n">
       <e>
         <p>
           <l>rze</l>
           <r>ro<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
-      <!-- http://slowniki.pwn.pl/poradnia/lista.php?szukaj=juter&kat=18 -->
       <e r="LR">
         <p>
           <l>r</l>
@@ -40543,12 +40644,15 @@
 
     <!-- Adjectives -->
     <!-- Synthetic adjectives -->
+    <e lm="tani"><i>tan</i><par n="głup/i__adj"/></e>
+    <e lm="tani"><p><l>tań</l><r>tani</r></p><par n="lep/szy__adj"/></e>
+    <e lm="tani"><p><l>najtań</l><r>tani</r></p><par n="najlep/szy__adj"/></e>
     <e lm="prosty"><i>pro</i><par n="czy/sty__adj"/></e>
     <e lm="prosty"><p><l>prost</l><r>prosty</r></p><par n="lep/szy__adj"/></e>
     <e lm="prosty"><p><l>najprost</l><r>prosty</r></p><par n="najlep/szy__adj"/></e>
     <e lm="gęsty"><i>gę</i><par n="czy/sty__adj"/></e>
-    <e lm="gęsty"><p><l>gęst</l><r>częsty</r></p><par n="lep/szy__adj"/></e>
-    <e lm="gęsty"><p><l>najgęst</l><r>częsty</r></p><par n="najlep/szy__adj"/></e>
+    <e lm="gęsty"><p><l>gęst</l><r>gęsty</r></p><par n="lep/szy__adj"/></e>
+    <e lm="gęsty"><p><l>najgęst</l><r>gęsty</r></p><par n="najlep/szy__adj"/></e>
     <e lm="częsty"><i>czę</i><par n="czy/sty__adj"/></e>
     <e lm="częsty"><p><l>częst</l><r>częsty</r></p><par n="lep/szy__adj"/></e>
     <e lm="częsty"><p><l>najczęst</l><r>częsty</r></p><par n="najlep/szy__adj"/></e>
@@ -43114,6 +43218,21 @@
     <e lm="ile razy"><i>ile<b/>razy</i><par n="gdzie__adv"/></e>
 
     <!-- Synthetic adverbs -->
+    <e lm="chłodno"><p><l>chłodniej</l><r>chłodno</r></p><par n="lepiej__adv"/></e>
+    <e lm="chłodno"><p><l>chłodno</l><r>chłodno</r></p><par n="dobrze__adv"/></e>
+    <e lm="chłodno"><p><l>najchłodniej</l><r>chłodno</r></p><par n="najlepiej__adv"/></e>
+    <e lm="ozięble"><i>ozięble</i><par n="dobrze__adv"/></e>
+    <e lm="ozięble"><p><l>najozięblej</l><r>ozięble</r></p><par n="najlepiej__adv"/></e>
+    <e lm="ozięble"><p><l>ozięblej</l><r>ozięble</r></p><par n="lepiej__adv"/></e>
+    <e lm="radośnie"><i>radośnie</i><par n="dobrze__adv"/></e>
+    <e lm="radośnie"><p><l>najradośniej</l><r>radośnie</r></p><par n="najlepiej__adv"/></e>
+    <e lm="radośnie"><p><l>radośniej</l><r>radośnie</r></p><par n="lepiej__adv"/></e>
+    <e lm="smutno"><i>smutno</i><par n="dobrze__adv"/></e>
+    <e lm="smutno"><p><l>najsmutniej</l><r>smutno</r></p><par n="najlepiej__adv"/></e>
+    <e lm="smutno"><p><l>smutniej</l><r>smutno</r></p><par n="lepiej__adv"/></e>
+    <e lm="prędko"><i>prędko</i><par n="dobrze__adv"/></e>
+    <e lm="prędko"><p><l>najprędzej</l><r>prędko</r></p><par n="najlepiej__adv"/></e>
+    <e lm="prędko"><p><l>prędzej</l><r>prędko</r></p><par n="lepiej__adv"/></e>
     <e lm="mgliście"><i>mgliście</i><par n="dobrze__adv"/></e>
     <e lm="mgliście"><p><l>mgliściej</l><r>mgliście</r></p><par n="lepiej__adv"/></e>
     <e lm="mgliście"><p><l>najmgliściej</l><r>mgliście</r></p><par n="najlepiej__adv"/></e>
@@ -43855,6 +43974,11 @@
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
 
+    <e lm="pokazać"><i>poka</i><par n="ska/zać__vblex"/></e>
+    <e lm="widzieć"><i>wid</i><par n="wid/zieć__vblex"/></e>
+    <e lm="wyglądać"><i>wygląd</i><par n="czyt/ać__vblex"/></e>
+    <e lm="naciągać"><i>naciąg</i><par n="czyt/ać__vblex"/></e>
+    <e lm="kapować"><i>kap</i><par n="mal/ować__vblex"/></e>
     <e lm="ugościć"><i>ugo</i><par n="upro/ścić__vblex"/></e>
     <e lm="numerować"><i>numer</i><par n="mal/ować__vblex"/></e>
     <e lm="cywilizować"><i>cywiliz</i><par n="mal/ować__vblex"/></e>
@@ -45292,17 +45416,18 @@
     <e lm="orać"><i></i><par n="/orać__vblex"/></e>
     <e lm="słać"><i></i><par n="/słać__vblex"/></e>
     <e lm="karać"><i>kar</i><par n="kar/ać__vblex"/></e>
-    <e lm="kazać"><i>ka</i><par n="ka/zać__vblex_imperf"/></e>
-    <e lm="kazać" r="LR"><i>ka</i><par n="ka/zać__vblex_perf"/></e>
+    <e lm="kazać"><i>ka</i><par n="ka/zać__vblex"/></e>
+    <e lm="kazać" r="LR"><i>ka</i><par n="ska/zać__vblex"/></e>
 
     <!-- Nouns -->
-
+    <e lm="przypadek"><i>przypad</i><par n="stat/ek__n"/></e>
+    <e lm="las"><i>l</i><par n="l/as__n"/></e>
     <e lm="plastik"><i>plastik</i><par n="brzeg__n"/></e>
     <e lm="genom"><i>genom</i><par n="sklep__n"/></e>
     <e lm="grom"><i>grom</i><par n="sklep__n"/></e>
     <e lm="mechanik"><i>mechani</i><par n="Pola/k__n"/></e>
     <e lm="cierpienie"><i>cierpie</i><par n="trzęsie/nie__n"/></e>
-
+    <e lm="lustro"><i>lust</i><par n="lust/ro__n"/></e>
     <e lm="emisariusz"><i>emisariusz</i><par n="dorsz__n"/></e>
     <e lm="powód"><i>pow</i><par n="samoch/ód__n"/></e>
     <e lm="połowa"><i>poł</i><par n="poł/owa__n"/></e>

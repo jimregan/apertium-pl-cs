@@ -221,7 +221,6 @@
      <attr-item tags="adj.itg"/>
      <attr-item tags="adj.cpd"/>
      <attr-item tags="adj.sint.cpd"/>
-     <attr-item tags="adj.po"/>
   </def-attr>
 
   <def-attr n="a_part">
@@ -335,9 +334,24 @@
   <def-list n="dat_prep">
     <list-item v="ku"/>
     <list-item v="dzięki"/>
+    <list-item v="wbrew"/>
+    <list-item v="przeciw"/>
+    <list-item v="przeciwko"/>
   </def-list>
   <def-list n="ins_prep">
     <list-item v="między"/>
+  </def-list>
+  <def-list n="gen_prep">
+    <list-item v="podczas"/>
+    <list-item v="mimo"/>
+    <list-item v="pomimo"/>
+    <list-item v="według"/>
+    <list-item v="wedle"/>
+    <list-item v="niedaleko"/>
+    <list-item v="zamiast"/>
+    <list-item v="w czasie"/>
+    <list-item v="w trakcie"/>
+    <list-item v="w przeciągu"/>
   </def-list>
   <def-list n="insacc_prep">
     <list-item v="nad"/>
