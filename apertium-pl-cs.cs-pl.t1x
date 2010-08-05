@@ -6,6 +6,9 @@
      <cat-item tags="n.*"/>
      <cat-item tags="np.*"/>
   </def-cat>
+  <def-cat n="povinen">
+     <cat-item lemma="povinen" tags="vaux.**"/>
+  </def-cat>
   <def-cat n="vblex">
      <cat-item tags="vblex.*"/>
      <cat-item tags="vbhaver.*"/>
@@ -1447,6 +1450,179 @@
      </action>
   </rule>
 
+  <rule comment="povinen jsem -> powinienem">
+     <pattern>
+       <pattern-item n="povinen"/>
+       <pattern-item n="bytpres"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="nbr"/>
+               <lit-tag v="pl"/>
+             </equal>
+           </test>
+           <choose>
+             <when>
+               <test>
+                 <equal>
+                   <clip pos="1" side="sl" part="gen"/>
+                   <lit-tag v="ma"/>
+                 </equal>
+               </test>
+               <let>
+                 <clip pos="1" side="tl" part="gen"/>
+                 <lit-tag v="mp"/>
+               </let>
+             </when>
+             <otherwise>
+               <let>
+                 <clip pos="1" side="tl" part="gen"/>
+                 <lit-tag v="nm"/>
+               </let>
+             </otherwise>
+           </choose>
+         </when>
+       </choose>
+       <out>
+         <chunk name="vaux" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="2" side="tl" part="prs"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="2" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <clip pos="2" side="tl" part="prs" link-to="2"/>
+              <clip pos="1" side="tl" part="gen" link-to="3"/>
+              <clip pos="2" side="tl" part="nbr" link-to="4"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+  <rule comment="jsem povinen -> powinienem">
+     <pattern>
+       <pattern-item n="bytpres"/>
+       <pattern-item n="povinen"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="2" side="sl" part="nbr"/>
+               <lit-tag v="pl"/>
+             </equal>
+           </test>
+           <choose>
+             <when>
+               <test>
+                 <equal>
+                   <clip pos="2" side="sl" part="gen"/>
+                   <lit-tag v="ma"/>
+                 </equal>
+               </test>
+               <let>
+                 <clip pos="2" side="tl" part="gen"/>
+                 <lit-tag v="mp"/>
+               </let>
+             </when>
+             <otherwise>
+               <let>
+                 <clip pos="2" side="tl" part="gen"/>
+                 <lit-tag v="nm"/>
+               </let>
+             </otherwise>
+           </choose>
+         </when>
+       </choose>
+       <out>
+         <chunk name="vaux" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="prs"/></tag>
+              <tag><clip pos="2" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_vrb"/>
+              <clip pos="1" side="tl" part="prs" link-to="2"/>
+              <clip pos="2" side="tl" part="gen" link-to="3"/>
+              <clip pos="1" side="tl" part="nbr" link-to="4"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+  <rule comment="povinen -> powinien">
+     <pattern>
+       <pattern-item n="povinen"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="nbr"/>
+               <lit-tag v="pl"/>
+             </equal>
+           </test>
+           <choose>
+             <when>
+               <test>
+                 <equal>
+                   <clip pos="1" side="sl" part="gen"/>
+                   <lit-tag v="ma"/>
+                 </equal>
+               </test>
+               <let>
+                 <clip pos="1" side="tl" part="gen"/>
+                 <lit-tag v="mp"/>
+               </let>
+             </when>
+             <otherwise>
+               <let>
+                 <clip pos="1" side="tl" part="gen"/>
+                 <lit-tag v="nm"/>
+               </let>
+             </otherwise>
+           </choose>
+         </when>
+       </choose>
+       <out>
+         <chunk name="vaux" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="p3"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <lit-tag v="2"/>
+              <clip pos="1" side="tl" part="gen" link-to="3"/>
+              <clip pos="1" side="tl" part="nbr" link-to="4"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
   <rule comment="čítal som -> czytałem">
      <pattern>
        <pattern-item n="verbpast"/>
@@ -1700,7 +1876,6 @@
         </out>
      </action>
   </rule>
-
   <rule comment="patřit k -> należeć do">
      <pattern>
        <pattern-item n="inf"/>
@@ -1727,6 +1902,7 @@
         </out>
      </action>
   </rule>
+
   <rule comment="haverpres">
      <pattern>
        <pattern-item n="haverpres"/>

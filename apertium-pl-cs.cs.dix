@@ -21334,6 +21334,18 @@
       <e><p>          <l>ějme</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p>          <l>ějte</l><r>ít<s n="vbhaver"/><s n="imperf"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="povin/en__vaux"> 
+      <e><p>          <l>en</l><r>en<s n="vaux"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p>   <l>en</l><r>en<s n="vaux"/><s n="mi"/><s n="sg"/></r></p></e>
+      <e r="RL"><p>   <l>en</l><r>en<s n="vaux"/><s n="ma"/><s n="sg"/></r></p></e>
+      <e><p>          <l>na</l><r>en<s n="vaux"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p>          <l>no</l><r>en<s n="vaux"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ni</l><r>en<s n="vaux"/><s n="ma"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ny</l><r>en<s n="vaux"/><s n="mi"/><s n="pl"/></r></p></e>
+      <e r="RL"><p>   <l>ny</l><r>en<s n="vaux"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ny</l><r>en<s n="vaux"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p>          <l>na</l><r>en<s n="vaux"/><s n="nt"/><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="m/oci__vaux">
       <e><p>          <l>oci</l><r>oci<s n="vaux"/><s n="imperf"/><s n="inf"/></r></p></e>
 
@@ -34162,6 +34174,7 @@
     <e><p><l>není</l><r>ne<s n="adv"/><j/>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="mít"><par n="v_neg"/><i>m</i><par n="m/ít__vbhaver"/></e>
     <e lm="moci"><par n="v_neg"/><i>m</i><par n="m/oci__vaux"/></e>
+    <e lm="povinen"><par n="v_neg"/><i>povin</i><par n="povin/en__vaux"/></e>
     <e lm="muset"><par n="v_neg"/><i>mus</i><par n="mus/et__vaux"/></e>
     <e lm="třeba"><par n="v_neg"/><i>třeba</i><par n="třeba__vaux"/></e>
     <e lm="možna"><par n="v_neg"/><i>možna</i><par n="třeba__vaux"/></e>
