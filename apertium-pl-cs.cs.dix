@@ -21336,8 +21336,6 @@
     </pardef>
     <pardef n="povin/en__vaux"> 
       <e><p>          <l>en</l><r>en<s n="vaux"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="RL"><p>   <l>en</l><r>en<s n="vaux"/><s n="mi"/><s n="sg"/></r></p></e>
-      <e r="RL"><p>   <l>en</l><r>en<s n="vaux"/><s n="ma"/><s n="sg"/></r></p></e>
       <e><p>          <l>na</l><r>en<s n="vaux"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p>          <l>no</l><r>en<s n="vaux"/><s n="nt"/><s n="sg"/></r></p></e>
       <e><p>          <l>ni</l><r>en<s n="vaux"/><s n="ma"/><s n="pl"/></r></p></e>
@@ -34587,6 +34585,17 @@
     <e lm="změnit"><par n="v_neg"/><i>změ</i><par n="obr/nit__vblex"/></e>
     <e lm="minout"><par n="v_neg"/><i>mi</i><par n="mi/nout__vblex"/></e>
     <e lm="milovat"><par n="v_neg"/><i>mil</i><par n="mil/ovat__vblex"/></e>
+    <e lm="brakovat"><par n="v_neg"/><i>brak</i><par n="mil/ovat__vblex"/></e>
+    <e lm="biřmovat"><par n="v_neg"/><i>biřm</i><par n="mil/ovat__vblex"/></e>
+    <e lm="kralovat"><par n="v_neg"/><i>kral</i><par n="mil/ovat__vblex"/></e>
+    <e lm="skalpovat"><par n="v_neg"/><i>skalp</i><par n="mil/ovat__vblex"/></e>
+    <e lm="demoralizovat"><par n="v_neg"/><i>demoraliz</i><par n="mil/ovat__vblex"/></e>
+    <e lm="penzionovat"><par n="v_neg"/><i>penzion</i><par n="mil/ovat__vblex"/></e>
+    <e lm="homogenizovat"><par n="v_neg"/><i>homogeniz</i><par n="mil/ovat__vblex"/></e>
+    <e lm="ionizovat"><par n="v_neg"/><i>ioniz</i><par n="mil/ovat__vblex"/></e>
+    <e lm="kanonizovat"><par n="v_neg"/><i>kanoniz</i><par n="mil/ovat__vblex"/></e>
+    <e lm="manévrovat"><par n="v_neg"/><i>manévr</i><par n="mil/ovat__vblex"/></e>
+    <e lm="mapovat"><par n="v_neg"/><i>map</i><par n="mil/ovat__vblex"/></e>
     <e lm="malovat"><par n="v_neg"/><i>mal</i><par n="mil/ovat__vblex"/></e>
     <e lm="ostřelovat"><par n="v_neg"/><i>ostřel</i><par n="mil/ovat__vblex"/></e>
     <e lm="datovat"><par n="v_neg"/><i>dat</i><par n="mil/ovat__vblex"/></e>
