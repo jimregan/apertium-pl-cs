@@ -10729,6 +10729,8 @@
     <e><p><l>planować<s n="vblex"/><s n="imperf"/></l><r>plánovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>programować<s n="vblex"/><s n="imperf"/></l><r>programovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>wygrać<s n="vblex"/><s n="perf"/></l><r>vyhrát<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>elektryzować<s n="vblex"/><s n="imperf"/></l><r>elektrizovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>drukować<s n="vblex"/><s n="imperf"/></l><r>otiskovat<s n="vblex"/><s n="imperf"/></r></p></e>
 	<e c="check"><p><l>odświeżać<s n="vblex"/></l><r>obnovit<s n="vblex"/></r></p></e>
     <e c="check" r="RL"><p><l>miotać<s n="vblex"/></l><r>metat<s n="vblex"/></r></p></e>
     <e c="check" r="RL"><p><l>tłumić<s n="vblex"/></l><r>potlačovat<s n="vblex"/></r></p></e>

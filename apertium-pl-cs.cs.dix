@@ -34183,6 +34183,9 @@
     <e lm="hlasovat"><par n="v_neg"/><i>hlas</i><par n="mil/ovat__vblex"/></e>
     <e lm="plánovat"><par n="v_neg"/><i>plán</i><par n="mil/ovat__vblex"/></e>
     <e lm="programovat"><par n="v_neg"/><i>program</i><par n="mil/ovat__vblex"/></e>
+    <e lm="otiskovat"><par n="v_neg"/><i>otisk</i><par n="mil/ovat__vblex"/></e>
+    <e lm="elektrizovat"><par n="v_neg"/><i>elektriz</i><par n="mil/ovat__vblex"/></e>
+    <e lm="elektrizovat" r="LR"><par n="v_neg"/><p><l>elektris</l><r>elektriz</r></p><par n="mil/ovat__vblex"/></e>
     <e lm="nabalit"><par n="v_neg"/><i>nabal</i><par n="zruš/it__vblex"/></e>
     <e lm="autorizovat" r="LR"><par n="v_neg"/><p><l>autoris</l><r>autoriz</r></p><par n="mil/ovat__vblex"/></e>
     <e lm="autorizovat"><par n="v_neg"/><i>autoriz</i><par n="mil/ovat__vblex"/></e>
