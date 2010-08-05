@@ -9947,6 +9947,8 @@
 
 	<!-- Verbs -->
     <e><p><l>ugościć<s n="vblex"/><s n="perf"/></l><r>pohostit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wątpić<s n="vblex"/><s n="imperf"/></l><r>pochybovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>informować<s n="vblex"/><s n="imperf"/></l><r>informować<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>znajdować<s n="vblex"/><s n="imperf"/></l><r>nacházet<s n="vblex"/><s n="imperf"/></r></p></e>
     <e r="RL"><p><l>znajdować<s n="vblex"/><s n="imperf"/></l><r>nalézat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>cywilizować<s n="vblex"/><s n="imperf"/></l><r>civilizovat<s n="vblex"/><s n="imperf"/></r></p></e>

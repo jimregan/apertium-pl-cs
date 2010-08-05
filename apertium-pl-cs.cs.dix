@@ -33989,7 +33989,7 @@
     <e lm="zdokumentovat"><par n="v_neg"/><i>zdokument</i><par n="mil/ovat__vblex"/></e>
     <e lm="zprostředkovat"><par n="v_neg"/><i>zprostředk</i><par n="mil/ovat__vblex"/></e>
     <e lm="zranit"><par n="v_neg"/><i>zra</i><par n="obr/nit__vblex"/></e>
-    <e lm="zúčastnit"><par n="v_neg"/><i>súčast</i><par n="obr/nit__vblex"/></e>
+    <!--<e lm="zúčastnit"><par n="v_neg"/><i>súčast</i><par n="obr/nit__vblex"/></e>-->
     <e lm="zúčastnit"><par n="v_neg"/><i>zúčast</i><par n="obr/nit__vblex"/></e>
     <e lm="ocenit"><par n="v_neg"/><i>oce</i><par n="obr/nit__vblex"/></e>
     <e lm="podmanit"><par n="v_neg"/><i>podma</i><par n="obr/nit__vblex"/></e>
