@@ -20689,6 +20689,73 @@
         </p>
       </e>
     </pardef>
+    <pardef n="usi/ąść__vblex">
+      <e>
+        <p>
+          <l>ąść</l>
+          <r>ąść<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ądę</l>
+          <r>ąść<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ądzie</l>
+          <r>ąść<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>ądą</l>
+          <r>ąść<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ądź</l>
+          <r>ąść<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ąść<s n="vblex"/><s n="perf"/><s n="past"/></r>
+        </p>
+        <par n="BASE__jadłem"/>
+      </e>
+      <e c="niepop">
+        <p>
+          <l>ądziono</l>
+          <r>ąść<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e c="niepop">
+        <p>
+          <l>ądzion</l>
+          <r>ąść<s n="vblex"/><s n="perf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e c="niepop">
+        <p>
+          <l>ądze</l>
+          <r>ąść<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>adłszy</l>
+          <r>eźć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="obl/eźć__vblex">
       <e>
         <p>
@@ -22495,6 +22562,24 @@
       <e><p><l>słami</l><r>sło<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>słach</l><r>sło<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>sła</l><r>sło<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="/oko__n">
+      <e><p><l>oko</l><r>oko<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>oka</l><r>oko<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>oku</l><r>oko<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>oko</l><r>oko<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>okiem</l><r>oko<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p><l>oku</l><r>oko<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>oko</l><r>oko<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>oczy</l><r>oko<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>oczu</l><r>oko<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e r="LR"><p><l>ócz</l><r>oko<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>oczom</l><r>oko<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>oczy</l><r>oko<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>oczami</l><r>oko<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e r="LR"><p><l>oczyma</l><r>oko<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>oczach</l><r>oko<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p><l>oczy</l><r>oko<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
     <pardef n="woj/na__n">
       <e><p><l>na</l><r>na<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -43151,6 +43236,7 @@
 	<!-- Relatives -->
     <e lm="jak"><i>jak</i><par n="gdzie__rel"/></e>
     <e lm="kiedy"><i>kiedy</i><par n="gdzie__rel"/></e>
+    <e lm="gdy"><i>gdy</i><par n="gdzie__rel"/></e>
     <e lm="dokąd"><i>dokąd</i><par n="gdzie__rel"/></e>
     <e lm="jak tylko"><i>jak<b/>tylko</i><par n="gdzie__rel"/></e>
     <e lm="skąd"><i>skąd</i><par n="gdzie__rel"/></e>
@@ -43974,6 +44060,7 @@
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
 
+    <e lm="usiąść"><i>usi</i><par n="usi/ąść__vblex"/></e>
     <e lm="pokazać"><i>poka</i><par n="ska/zać__vblex"/></e>
     <e lm="widzieć"><i>wid</i><par n="wid/zieć__vblex"/></e>
     <e lm="wyglądać"><i>wygląd</i><par n="czyt/ać__vblex"/></e>
@@ -45420,6 +45507,8 @@
     <e lm="kazać" r="LR"><i>ka</i><par n="ska/zać__vblex"/></e>
 
     <!-- Nouns -->
+    <e lm="piesek"><i>pies</i><par n="pantofel/ek__n"/></e>
+    <e lm="oko"><i></i><par n="/oko__n"/></e>
     <e lm="przypadek"><i>przypad</i><par n="stat/ek__n"/></e>
     <e lm="las"><i>l</i><par n="l/as__n"/></e>
     <e lm="plastik"><i>plastik</i><par n="brzeg__n"/></e>

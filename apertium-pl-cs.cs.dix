@@ -542,7 +542,8 @@
       <e><p><l>ých</l><r><s n="ma"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>ým</l><r><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
       <e><p><l>é</l><r><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p><l>ýma</l><r><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e r="LR"><p><l>ýma</l><r><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>ými</l><r><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ých</l><r><s n="ma"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>í</l><r><s n="ma"/><s n="pl"/><s n="voc"/></r></p></e>
 
@@ -557,7 +558,8 @@
       <e><p><l>ých</l><r><s n="mi"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>ým</l><r><s n="mi"/><s n="pl"/><s n="dat"/></r></p></e>
       <e><p><l>é</l><r><s n="mi"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p><l>ýma</l><r><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e r="LR"><p><l>ýma</l><r><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>ými</l><r><s n="mi"/><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ých</l><r><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>é</l><r><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
 
@@ -572,7 +574,8 @@
       <e><p><l>ých</l><r><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>ým</l><r><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
       <e><p><l>é</l><r><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p><l>ýma</l><r><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e r="LR"><p><l>ýma</l><r><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>ými</l><r><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ých</l><r><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>é</l><r><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
 
@@ -587,7 +590,8 @@
       <e><p><l>ých</l><r><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>ým</l><r><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
       <e><p><l>á</l><r><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p><l>ýma</l><r><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e r="LR"><p><l>ýma</l><r><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>ými</l><r><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ých</l><r><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>á</l><r><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
 	</pardef>
@@ -2125,6 +2129,22 @@
       <e>       <p>          <l>nech</l><r>no<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
       <e>       <p>          <l>na</l><r>no<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
+    <pardef n="cent/rum__n">
+      <e>       <p>          <l>rum</l><r>rum<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ra</l><r>rum<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>ru</l><r>rum<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>rum</l><r>rum<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>rem</l><r>rum<s n="n"/><s n="nt"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>ru</l><r>rum<s n="n"/><s n="nt"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>rum</l><r>rum<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>ra</l><r>rum<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>er</l><r>rum<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>rům</l><r>rum<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>ra</l><r>rum<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ry</l><r>rum<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>rech</l><r>rum<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>ra</l><r>rum<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
     <pardef n="les__n">
       <e>       <p>          <l></l><r><s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
       <e>       <p>          <l>a</l><r><s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -2142,6 +2162,22 @@
       <e>       <p>          <l>ích</l><r><s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
       <e r="LR"><p>          <l>ech</l><r><s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r></p></e>
       <e>       <p>          <l>y</l><r><s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="př/ítel__n">
+      <e>       <p>          <l>ítel</l><r>ítel<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>ítele</l><r>ítel<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>íteli</l><r>ítel<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>ítele</l><r>ítel<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>ítelem</l><r>ítel<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>íteli</l><r>ítel<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>íteli</l><r>ítel<s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p>          <l>átelé</l><r>ítel<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p>          <l>átel</l><r>ítel<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p>          <l>átelům</l><r>ítel<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p>          <l>átele</l><r>ítel<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p>          <l>áteli</l><r>ítel<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p>          <l>átelích</l><r>ítel<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p>          <l>átelé</l><r>ítel<s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
     <pardef n="d/ům__n">
       <e>       <p>          <l>ům</l><r>ům<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -24082,7 +24118,9 @@
     <e lm="její"><i>jej</i><par n="jej/í__det"/></e>
     <e lm="jeho"><i>jeho</i><par n="jeho__det"/></e>
     <e lm="náš"><i>ná</i><par n="ná/š__det"/></e>
+    <e lm="náš" r="LR"><p><l>na</l><r>ná</r></p><par n="ná/š__det"/></e>
     <e lm="váš"><i>vá</i><par n="ná/š__det"/></e>
+    <e lm="váš" r="LR"><p><l>va</l><r>vá</r></p><par n="ná/š__det"/></e>
     <e lm="jiný"><i>jin</i><par n="jin/ý__det"/></e>
     <e lm="kolik"><i>kolik</i><par n="kolik__det"/></e>
     <e lm="několik"><i>několik</i><par n="kolik__det"/></e>
@@ -24418,6 +24456,9 @@
     <e lm="hluboký"><par n="nej__adv"/><p><l>hlubš</l><r>hluboký</r></p><par n="menš/í__adj"/></e>
     <e lm="hluchý"><i>hluch</i><par n="mal/ý__adj"/></e>
     <e lm="hluchý"><par n="nej__adv"/><p><l>hlušš</l><r>hluchý</r></p><par n="menš/í__adj"/></e>
+    <e lm="dobrý"><i>dobr</i><par n="mal/ý__adj"/></e>
+    <e lm="dobrý" r="LR"><par n="nej__adv"/><p><l>dobřejš</l><r>dobrý</r></p><par n="menš/í__adj"/></e>
+    <e lm="dobrý"><par n="nej__adv"/><p><l>lepš</l><r>dobrý</r></p><par n="menš/í__adj"/></e>
     <e lm="horký"><i>hork</i><par n="mal/ý__adj"/></e>
     <e lm="horký"><par n="nej__adv"/><p><l>horčejš</l><r>horký</r></p><par n="menš/í__adj"/></e>
     <e lm="hořký"><i>hořk</i><par n="mal/ý__adj"/></e>
@@ -27140,7 +27181,9 @@
 
 	<!-- dříve seems to have the same basic and comparative form -->
     <e lm="dříve"><i>dříve</i><par n="daleko__adv"/></e>
+    <e lm="dříve" r="LR"><p><l>dřív</l><r>dříve</r></p><par n="daleko__adv"/></e>
     <e lm="dříve"><p><l>dříve</l><r>dříve</r></p><par n="dál__adv"/></e>
+    <e lm="dříve" r="LR"><p><l>dřív</l><r>dříve</r></p><par n="dál__adv"/></e>
     <e lm="dříve"><p><l>nejdříve</l><r>dříve</r></p><par n="nejdál__adv"/></e>
 
 	<!-- Non-synthetic adverbs -->
@@ -27285,6 +27328,9 @@
     <e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
 
     <!-- Nouns -->
+    <e lm="centrum"><i>cent</i><par n="cent/rum__n"/></e>
+    <e lm="pejsek"><i>pejs</i><par n="nác/ek__n"/></e>
+    <e lm="přítel"><i>př</i><par n="př/ítel__n"/></e>
     <e lm="les"><i>les</i><par n="les__n"/></e>
     <e lm="zrcadlo"><i>zrcad</i><par n="más/lo__n"/></e>
     <e lm="bratr"><i>brat</i><par n="amu/r__n"/></e>
@@ -34107,6 +34153,7 @@
     <e lm="možna"><par n="v_neg"/><i>možna</i><par n="třeba__vaux"/></e>
     <e lm="lze"><par n="v_neg"/><i>lze</i><par n="třeba__vaux"/></e>
 
+    <e lm="čekat"><par n="v_neg"/><i>ček</i><par n="vypad/at__vblex"/></e>
     <e lm="ukázat"><par n="v_neg"/><i>uk</i><par n="uk/ázat__vblex"/></e>
     <e lm="závidět"><par n="v_neg"/><i>závi</i><par n="vi/dět__vblex"/></e>
     <e lm="vidět"><par n="v_neg"/><i>vi</i><par n="vi/dět__vblex"/></e>

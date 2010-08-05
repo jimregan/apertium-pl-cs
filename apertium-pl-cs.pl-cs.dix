@@ -396,8 +396,8 @@
     <e><p><l>niedaleko<s n="pr"/></l><r>nedaleko<s n="pr"/></r></p></e>
     <e><p><l>daleko<b/>od<s n="pr"/></l><r>daleko<b/>od<s n="pr"/></r></p></e>
     <e><p><l>przy<s n="pr"/></l><r>při<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>przeciw<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
-    <e><p><l>przeciwko<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
+    <e><p><l>przeciw<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>przeciwko<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
     <e r="LR"><p><l>wbrew<s n="pr"/></l><r>proti<s n="pr"/></r></p></e>
     <e r="RL"><p><l>wbrew<s n="pr"/></l><r>v<b/>rozporu<s n="pr"/></r></p></e>
     <e r="RL"><p><l>wbrew<s n="pr"/></l><r>navzdory<s n="pr"/></r></p></e>
@@ -660,7 +660,8 @@
     <e><p><l>gdzie<s n="rel"/><s n="adv"/></l><r>kde<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>dlaczego<s n="rel"/><s n="adv"/></l><r>proč<s n="rel"/><s n="adv"/></r></p></e>
     <e r="LR"><p><l>po<b/>co<s n="rel"/><s n="adv"/></l><r>proč<s n="rel"/><s n="adv"/></r></p></e>
-    <e><p><l>kiedy<s n="rel"/><s n="adv"/></l><r>kdy<s n="rel"/><s n="adv"/></r></p></e>
+    <e r="LR"><p><l>kiedy<s n="rel"/><s n="adv"/></l><r>kdy<s n="rel"/><s n="adv"/></r></p></e>
+    <e><p><l>gdy<s n="rel"/><s n="adv"/></l><r>kdy<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>jak<b/>tylko<s n="rel"/><s n="adv"/></l><r>jakmile<s n="rel"/><s n="adv"/></r></p></e>
     <e r="RL"><p><l>jak<b/>tylko<s n="rel"/><s n="adv"/></l><r>jak<b/>mile<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>dokąd<s n="rel"/><s n="adv"/></l><r>dokud<s n="rel"/><s n="adv"/></r></p></e>
@@ -3008,6 +3009,8 @@
     <e><p><l>zootechnika<s n="n"/><s n="f"/></l><r>zootechnika<s n="n"/><s n="f"/></r></p></e>
 	<!-- end: cs gender to be checked -->
 
+    <e><p><l>piesek<s n="n"/><s n="ma"/></l><r>pejsek<s n="n"/><s n="ma"/></r></p></e> 
+    <e><p><l>przyjaciel<s n="n"/><s n="mp"/></l><r>přítel<s n="n"/><s n="ma"/></r></p></e> 
     <e><p><l>lustro<s n="n"/><s n="nt"/></l><r>zrcadlo<s n="n"/><s n="nt"/></r></p></e> 
     <e r="LR"><p><l>zwierciadło<s n="n"/><s n="nt"/></l><r>zrcadlo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>emisariusz<s n="n"/><s n="ma"/></l><r>emisař<s n="n"/><s n="ma"/></r></p></e> 
@@ -9136,7 +9139,8 @@
     <e><p><l>głupi<s n="adj"/></l><r>hloupý<s n="adj"/></r></p></e>
     <e><p><l>gwałtowny<s n="adj"/></l><r>zuřivý<s n="adj"/></r></p></e>
     <e><p><l>intensywny<s n="adj"/><s n="sint"/></l><r>intenzívní<s n="adj"/></r></p></e>
-    <e><p><l>istotny<s n="adj"/></l><r>důležitý<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>istotny<s n="adj"/></l><r>důležitý<s n="adj"/></r></p></e>
+    <e><p><l>ważny<s n="adj"/></l><r>důležitý<s n="adj"/></r></p></e>
     <e><p><l>jednakowy<s n="adj"/></l><r>jednotný<s n="adj"/></r></p></e>
     <e><p><l>kompetentny<s n="adj"/></l><r>kompetentní<s n="adj"/></r></p></e>
     <e><p><l>konieczny<s n="adj"/></l><r>nutný<s n="adj"/></r></p></e>
@@ -9220,7 +9224,6 @@
     <e><p><l>trudny<s n="adj"/></l><r>obtížný<s n="adj"/></r></p></e>
     <e r="LR" ><p><l>wartościowy<s n="adj"/></l><r>cenný<s n="adj"/></r></p></e>
     <e><p><l>wartościowy<s n="adj"/></l><r>hodnotný<s n="adj"/></r></p></e>
-    <e r="LR" ><p><l>ważny<s n="adj"/></l><r>důležitý<s n="adj"/></r></p></e>
     <e><p><l>widoczny<s n="adj"/></l><r>patrný<s n="adj"/></r></p></e>
     <e><p><l>widoczny<s n="adj"/></l><r>viditelný<s n="adj"/></r></p></e>
     <e><p><l>wierny<s n="adj"/></l><r>věrný<s n="adj"/></r></p></e>
@@ -10011,7 +10014,6 @@
     <e><p><l>cieszyć<s n="vblex"/></l><r>těšit<s n="vblex"/></r></p></e>
     <e><p><l>cukrować<s n="vblex"/></l><r>cukrovat<s n="vblex"/></r></p></e>
     <e><p><l>cywilizować<s n="vblex"/></l><r>civilizovat<s n="vblex"/></r></p></e>
-    <e><p><l>czekać<s n="vblex"/></l><r>čekat<s n="vblex"/></r></p></e>
     <e><p><l>dedukować<s n="vblex"/></l><r>dedukovat<s n="vblex"/></r></p></e>
     <e><p><l>defragmentować<s n="vblex"/></l><r>defragmentovat<s n="vblex"/></r></p></e>
     <e><p><l>defraudować<s n="vblex"/></l><r>defraudovat<s n="vblex"/></r></p></e>
@@ -10088,7 +10090,6 @@
     <e><p><l>machać<s n="vblex"/></l><r>mávat<s n="vblex"/></r></p></e>
     <e><p><l>masakrować<s n="vblex"/></l><r>masakrovat<s n="vblex"/></r></p></e>
     <e><p><l>mieszać<s n="vblex"/></l><r>míšit<s n="vblex"/></r></p></e>
-    <e><p><l>mieszkać<s n="vblex"/></l><r>bydlet<s n="vblex"/></r></p></e>
     <e><p><l>mieścić<s n="vblex"/></l><r>sídlit<s n="vblex"/></r></p></e>
     <e><p><l>miewać<s n="vblex"/></l><r>mívat<s n="vblex"/></r></p></e>
     <e><p><l>migać<s n="vblex"/></l><r>blikač<s n="vblex"/></r></p></e>
@@ -10129,7 +10130,6 @@
     <e><p><l>obsłużyć<s n="vblex"/></l><r>obsloužit<s n="vblex"/></r></p></e>
     <e><p><l>obwiniać<s n="vblex"/></l><r>vínit<s n="vblex"/></r></p></e>
     <e><p><l>oczarować<s n="vblex"/></l><r>očarovat<s n="vblex"/></r></p></e>
-    <e><p><l>oczekiwać<s n="vblex"/></l><r>očekávat<s n="vblex"/></r></p></e>
     <e><p><l>oczernić<s n="vblex"/></l><r>očernit<s n="vblex"/></r></p></e>
     <e><p><l>odebrać<s n="vblex"/></l><r>přijímat<s n="vblex"/></r></p></e>
     <e><p><l>odbierać<s n="vblex"/></l><r>přijmout<s n="vblex"/></r></p></e>
@@ -10657,7 +10657,6 @@
     <e><p><l>stawać<s n="vblex"/><s n="imperf"/></l><r>stávat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zobaczyć<s n="vblex"/><s n="perf"/></l><r>zahlédnout<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>uwierzyć<s n="vblex"/><s n="perf"/></l><r>uvěřit<s n="vblex"/><s n="perf"/></r></p></e>
-    <e><p><l>zamieszkiwać<s n="vblex"/><s n="imperf"/></l><r>bydlet<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>wynosić<s n="vblex"/><s n="imperf"/></l><r>vynosit<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>bać<s n="vblex"/></l><r>strachovat<s n="vblex"/></r></p></e>
     <e><p><l>badać<s n="vblex"/></l><r>prošetřovat<s n="vblex"/></r></p></e>
@@ -10733,7 +10732,6 @@
     <e c="check"><p><l>bujać<s n="vblex"/></l><r>bujet<s n="vblex"/></r></p></e>
     <e c="check"><p><l>bzykać<s n="vblex"/></l><r>bzikat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>całować<s n="vblex"/></l><r>líbat<s n="vblex"/></r></p></e>
-    <e c="check"><p><l>czekać<s n="vblex"/></l><r>čekat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>dmuchać<s n="vblex"/></l><r>foukat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>dogotować<s n="vblex"/></l><r>dovařit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>dojść<s n="vblex"/></l><r>dojít<s n="vblex"/></r></p></e>
@@ -10771,7 +10769,6 @@
     <e c="check"><p><l>licytować<s n="vblex"/></l><r>dražit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>machać<s n="vblex"/></l><r>mávat<s n="vblex"/></r></p></e>
     <e c="check"><p><l>mieszać<s n="vblex"/></l><r>míšit<s n="vblex"/></r></p></e>
-    <e c="check"><p><l>mieszkać<s n="vblex"/></l><r>bydlet<s n="vblex"/></r></p></e>
     <e c="check"><p><l>mieścić<s n="vblex"/></l><r>sídlit<s n="vblex"/></r></p></e>
     <e c="check"><p><l>migać<s n="vblex"/></l><r>blikač<s n="vblex"/></r></p></e>
     <e c="check"><p><l>mijać<s n="vblex"/></l><r>míjet<s n="vblex"/></r></p></e>
@@ -11334,6 +11331,7 @@
     <e><p><l>umożliwiać<s n="vblex"/><s n="imperf"/></l><r>umožňovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zdradzać<s n="vblex"/><s n="imperf"/></l><r>prozrazovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>czekać<s n="vblex"/><s n="imperf"/></l><r>čekat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>oczekiwać<s n="vblex"/></l><r>očekávat<s n="vblex"/></r></p></e>
     <e><p><l>wieźć<s n="vblex"/><s n="imperf"/></l><r>vézt<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>piec<s n="vblex"/><s n="imperf"/></l><r>péci<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>grzać<s n="vblex"/><s n="imperf"/></l><r>hřát<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -11370,14 +11368,14 @@
     <e><p><l>buczeć<s n="vblex"/></l><r>bučet<s n="vblex"/></r></p></e>
     <e><p><l>budzić<s n="vblex"/></l><r>budit<s n="vblex"/></r></p></e>
     <e><p><l>bujać<s n="vblex"/></l><r>bujet<s n="vblex"/></r></p></e>
-    <e><p><l>mieszkać<s n="vblex"/></l><r>bydlit<s n="vblex"/></r></p></e>
+    <e><p><l>mieszkać<s n="vblex"/><s n="imperf"/></l><r>bydlet<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e r="LR"><p><l>zamieszkiwać<s n="vblex"/><s n="imperf"/></l><r>bydlet<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>podróżować<s n="vblex"/></l><r>cestovat<s n="vblex"/></r></p></e>
     <e><p><l>bzykać<s n="vblex"/></l><r>bzikat<s n="vblex"/></r></p></e>
     <e><p><l>czuć<s n="vblex"/></l><r>cítit<s n="vblex"/></r></p></e>
     <e><p><l>cytować<s n="vblex"/></l><r>citovat<s n="vblex"/></r></p></e>
     <e><p><l>cywilizować<s n="vblex"/></l><r>civilizovat<s n="vblex"/></r></p></e>
     <e><p><l>clić<s n="vblex"/></l><r>clít<s n="vblex"/></r></p></e>
-    <e><p><l>czekać<s n="vblex"/></l><r>čekat<s n="vblex"/></r></p></e>
     <e><p><l>czernieć<s n="vblex"/></l><r>černat<s n="vblex"/></r></p></e>
     <e><p><l>orać<s n="vblex"/><s n="imperf"/></l><r>orat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>malować<s n="vblex"/><s n="imperf"/></l><r>malovat<s n="vblex"/><s n="imperf"/></r></p></e>
