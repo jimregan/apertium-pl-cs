@@ -45296,6 +45296,13 @@
     <e lm="kazać" r="LR"><i>ka</i><par n="ka/zać__vblex_perf"/></e>
 
     <!-- Nouns -->
+
+    <e lm="plastik"><i>plastik</i><par n="brzeg__n"/></e>
+    <e lm="genom"><i>genom</i><par n="sklep__n"/></e>
+    <e lm="grom"><i>grom</i><par n="sklep__n"/></e>
+    <e lm="mechanik"><i>mechani</i><par n="Pola/k__n"/></e>
+    <e lm="cierpienie"><i>cierpie</i><par n="trzęsie/nie__n"/></e>
+
     <e lm="emisariusz"><i>emisariusz</i><par n="dorsz__n"/></e>
     <e lm="powód"><i>pow</i><par n="samoch/ód__n"/></e>
     <e lm="połowa"><i>poł</i><par n="poł/owa__n"/></e>

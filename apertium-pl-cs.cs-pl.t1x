@@ -128,6 +128,11 @@
      <cat-item lemma="aby" tags="cnjsub"/>
      <cat-item lemma="kdyby" tags="cnjsub"/>
   </def-cat>
+  <def-cat n="prnpers">
+     <cat-item tags="prn.p1.*"/>
+     <cat-item tags="prn.p2.*"/>
+     <cat-item tags="prn.p3.*"/>
+  </def-cat>
   <def-cat n="prn">
      <cat-item tags="prn.*"/>
   </def-cat>
@@ -1787,6 +1792,38 @@
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: PRN PERS">
+      <pattern>
+        <pattern-item n="prnpers"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="prnpers" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PRN"/></tag>
+              <tag><clip pos="1" side="tl" part="prs"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+              <tag><clip pos="1" side="tl" part="cas"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <clip pos="1" side="tl" part="prs"/>
+              <clip pos="1" side="tl" part="gen"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="cas"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>

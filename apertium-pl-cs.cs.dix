@@ -29740,7 +29740,7 @@
     <e lm="štáb"><i>štáb</i><par n="arak__n"/></e>
     <e lm="štít"><i>štít</i><par n="byt__n"/></e>
     <e lm="šum"><i>šum</i><par n="arak__n"/></e>
-    <e lm="švanda"><i>švand</i><par n="dob/a__n"/></e>
+    <!--<e lm="švanda"><i>švand</i><par n="dob/a__n"/></e>-->
     <e lm="šířka"><i>šíř</i><par n="dív/ka__n"/></e>
     <e lm="šířka"><i>šíř</i><par n="mříž__n"/></e>
     <e lm="žaloba"><i>žalob</i><par n="dob/a__n"/></e>
@@ -34708,6 +34708,68 @@
     <e lm="Romy"><i>Romy</i><par n="Britney__np"/></e>
     <e lm="Sharon"><i>Sharon</i><par n="Britney__np"/></e>
     <e lm="Steffi"><i>Steffi</i><par n="Britney__np"/></e>
+
+  </section>
+
+  <section id="pending" type="standard">
+
+    <e lm="akrobat" c="FMT:CHECK"><i>akrobat</i><par n="dív/ka__n"/></e>
+    <e lm="bolest" c="FMT:CHECK"><i>bolest</i><par n="věc__n"/></e>
+    <e lm="bratrstvo" c="FMT:CHECK"><i>bratrst</i><par n="obyvatelst/vo__n"/></e>
+    <e lm="budoucnost" c="FMT:CHECK"><i>budoucnost</i><par n="věc__n"/></e>
+    <e lm="bumerang" c="FMT:CHECK"><i>bumeran</i><par n="windsurfin/g__n"/></e>
+    <e lm="čerpadlo" c="FMT:CHECK"><i>čerpad</i><par n="más/lo__n"/></e>
+    <e lm="demo" c="FMT:CHECK"><i>dem</i><par n="práv/o__n"/></e>
+    <e lm="divoch" c="FMT:CHECK"><i>divoš</i><par n="dív/ka__n"/></e>
+    <e lm="grotesknost" c="FMT:CHECK"><i>grotesknost</i><par n="věc__n"/></e>
+    <e lm="koberec" c="FMT:CHECK"><i>kober</i><par n="vál/ec__n"/></e>
+    <e lm="kormidlo" c="FMT:CHECK"><i>kormid</i><par n="más/lo__n"/></e>
+    <e lm="křídlo" c="FMT:CHECK"><i>kříd</i><par n="más/lo__n"/></e>
+    <e lm="lepidlo" c="FMT:CHECK"><i>lepid</i><par n="más/lo__n"/></e>
+    <e lm="lídr" c="FMT:CHECK"><i>líd</i><par n="amu/r__n"/></e>
+    <e lm="magistr" c="FMT:CHECK"><i>magist</i><par n="amu/r__n"/></e>
+    <e lm="námořnictvo" c="FMT:CHECK"><i>námořnict</i><par n="obyvatelst/vo__n"/></e>
+    <e lm="národnost" c="FMT:CHECK"><i>národnost</i><par n="věc__n"/></e>
+    <e lm="neschopnost" c="FMT:CHECK"><i>neschopnost</i><par n="věc__n"/></e>
+    <e lm="objev" c="FMT:CHECK"><i>objev</i><par n="arak__n"/></e>
+    <e lm="obr" c="FMT:CHECK"><i>ob</i><par n="amu/r__n"/></e>
+    <e lm="okolnost" c="FMT:CHECK"><i>okolnost</i><par n="věc__n"/></e>
+    <e lm="osobnost" c="FMT:CHECK"><i>osobnost</i><par n="věc__n"/></e>
+    <e lm="palivo" c="FMT:CHECK"><i>paliv</i><par n="práv/o__n"/></e>
+    <e lm="parazit" c="FMT:CHECK"><i>parasit</i><par n="man__n"/></e>
+    <e lm="pěst" c="FMT:CHECK"><i>pěst</i><par n="věc__n"/></e>
+    <e lm="podloží" c="FMT:CHECK"><i>podloží</i><par n="hospodářství__n"/></e>
+    <e lm="pověst" c="FMT:CHECK"><i>pověst</i><par n="věc__n"/></e>
+    <e lm="prádlo" c="FMT:CHECK"><i>prád</i><par n="más/lo__n"/></e>
+    <e lm="růženec" c="FMT:CHECK"><i>růžen</i><par n="vál/ec__n"/></e>
+    <e lm="sága" c="FMT:CHECK"><i>sá</i><par n="li/ga__n"/></e>
+    <e lm="sesuv" c="FMT:CHECK"><i>sesuv</i><par n="arak__n"/></e>
+    <e lm="sídlo" c="FMT:CHECK"><i>síd</i><par n="más/lo__n"/></e>
+    <e lm="sirotčinec" c="FMT:CHECK"><i>sirotčin</i><par n="vál/ec__n"/></e>
+    <e lm="skladatel" c="FMT:CHECK"><i>skladatel</i><par n="obyvatel__n"/></e>
+    <e lm="slabika" c="FMT:CHECK"><i>slabi</i><par n="dý/ka__n"/></e>
+    <e lm="soustrast" c="FMT:CHECK"><i>soustrast</i><par n="věc__n"/></e>
+    <e lm="spravedlnost" c="FMT:CHECK"><i>spravedlnost</i><par n="věc__n"/></e>
+    <e lm="starost" c="FMT:CHECK"><i>starost</i><par n="věc__n"/></e>
+    <e lm="sukně" c="FMT:CHECK"><i>sukýn</i><par n="dív/ka__n"/></e>
+    <e lm="synagoga" c="FMT:CHECK"><i>synago</i><par n="li/ga__n"/></e>
+    <e lm="sýr" c="FMT:CHECK"><i>sýr</i><par n="kostel__n"/></e>
+    <e lm="tábor" c="FMT:CHECK"><i>tábor</i><par n="kostel__n"/></e>
+    <e lm="tanec" c="FMT:CHECK"><i>tan</i><par n="vál/ec__n"/></e>
+    <e lm="tíže" c="FMT:CHECK"><i>tíž</i><par n="mříž__n"/></e>
+    <e lm="tygr" c="FMT:CHECK"><i>tyg</i><par n="amu/r__n"/></e>
+    <e lm="účast" c="FMT:CHECK"><i>účast</i><par n="věc__n"/></e>
+    <e lm="umyvadlo" c="FMT:CHECK"><i>umyvad</i><par n="más/lo__n"/></e>
+    <e lm="uživatel" c="FMT:CHECK"><i>uživatel</i><par n="obyvatel__n"/></e>
+    <e lm="uživatel" r="LR"><p><l>použivatel</l><r>uživatel</r></p><par n="obyvatel__n"/></e>
+    <e lm="věno" c="FMT:CHECK"><i>věn</i><par n="práv/o__n"/></e>
+    <e lm="vlastnost" c="FMT:CHECK"><i>vlastnost</i><par n="věc__n"/></e>
+    <e lm="výrobce" c="FMT:CHECK"><i>vyrábitel</i><par n="obyvatel__n"/></e>
+    <e lm="žádost" c="FMT:CHECK"><i>žádost</i><par n="věc__n"/></e>
+    <e lm="zkušenost" c="FMT:CHECK"><i>zkušenost</i><par n="věc__n"/></e>
+    <e lm="zrcadlo" c="FMT:CHECK"><i>zrcad</i><par n="más/lo__n"/></e>
+    <e lm="zubr" c="FMT:CHECK"><i>zub</i><par n="amu/r__n"/></e>
+
 
   </section>
   <section id="multiwords" type="standard">
