@@ -15828,6 +15828,75 @@
         </p>
       </e>
     </pardef>
+    <pardef n="chod/zić__vblex">
+      <e><p><l>zić</l><r>zić<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+      <e>
+        <p>
+          <l>zę</l>
+          <r>zić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zi</l>
+          <r>zić<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>zą</l>
+          <r>zić<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ź</l>
+          <r>zić<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l>zi</l>
+          <r>zić<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytałem"/>
+      </e>
+      <e>
+        <p>
+          <l>ze</l>
+          <r>zić<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>z</l>
+          <r>zić<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>zono</l>
+          <r>zić<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ząc</l>
+          <r>zić<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+      <e>
+        <p>
+          <l>ząc</l>
+          <r>zić<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="stra/cić__vblex">
       <e><p><l>cić</l><r>cić<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
       <e>
@@ -45440,6 +45509,8 @@
     <e lm="napisać"><i>napis</i><par n="napis/ać__vblex"/></e>
     <e lm="iść"><i></i><par n="/iść__vblex"/></e>
     <e lm="iść o"><i></i><par n="/iść__vblex"/><p><l><b/>o</l><r><g><b/>o</g></r></p></e>
+    <e lm="chodzić"><i>chod</i><par n="chod/zić__vblex"/></e>
+    <e lm="chodzić o"><i>chod</i><par n="chod/zić__vblex"/><p><l><b/>o</l><r><g><b/>o</g></r></p></e>
     <e lm="wziąć"><i>w</i><par n="w/ziąć__vblex"/></e>
     <e lm="brać"><i>b</i><par n="b/rać__vblex"/></e>
     <e lm="odpowiadać"><i>odpowiad</i><par n="czyt/ać__vblex"/></e>
