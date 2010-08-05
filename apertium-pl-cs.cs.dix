@@ -34585,6 +34585,7 @@
     <e lm="změnit"><par n="v_neg"/><i>změ</i><par n="obr/nit__vblex"/></e>
     <e lm="minout"><par n="v_neg"/><i>mi</i><par n="mi/nout__vblex"/></e>
     <e lm="milovat"><par n="v_neg"/><i>mil</i><par n="mil/ovat__vblex"/></e>
+    <e lm="představovat"><par n="v_neg"/><i>představ</i><par n="mil/ovat__vblex"/></e>
     <e lm="brakovat"><par n="v_neg"/><i>brak</i><par n="mil/ovat__vblex"/></e>
     <e lm="biřmovat"><par n="v_neg"/><i>biřm</i><par n="mil/ovat__vblex"/></e>
     <e lm="kralovat"><par n="v_neg"/><i>kral</i><par n="mil/ovat__vblex"/></e>
@@ -34605,6 +34606,8 @@
     <e lm="slibovat"><par n="v_neg"/><i>slib</i><par n="mil/ovat__vblex"/></e>
     <e lm="pumpovat"><par n="v_neg"/><i>pump</i><par n="mil/ovat__vblex"/></e>
     <e lm="napumpovat"><par n="v_neg"/><i>napump</i><par n="napump/ovat__vblex"/></e>
+    <e lm="přesměrovat"><par n="v_neg"/><i>přesměr</i><par n="napump/ovat__vblex"/></e>
+    <e lm="ohlupovat"><par n="v_neg"/><i>ohlup</i><par n="napump/ovat__vblex"/></e>
     <e lm="dávat"><par n="v_neg"/><i>dáv</i><par n="dáv/at__vblex"/></e>
     <e lm="kýchat"><par n="v_neg"/><i>kých</i><par n="dáv/at__vblex"/></e>
     <e lm="vydávat"><par n="v_neg"/><i>vydáv</i><par n="dáv/at__vblex"/></e>
