@@ -10724,6 +10724,11 @@
     <e><p><l>zgadzać<s n="vblex"/></l><r>shodovat<s n="vblex"/></r></p></e>
     <e><p><l>zranić<s n="vblex"/></l><r>zranit<s n="vblex"/></r></p></e>
     <e><p><l>posiadać<s n="vblex"/></l><r>vlastnit<s n="vblex"/></r></p></e>
+    <e><p><l>głosować<s n="vblex"/><s n="imperf"/></l><r>hlasovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>kichać<s n="vblex"/><s n="imperf"/></l><r>kýchat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>planować<s n="vblex"/><s n="imperf"/></l><r>plánovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>programować<s n="vblex"/><s n="imperf"/></l><r>programovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wygrać<s n="vblex"/><s n="perf"/></l><r>vyhrát<s n="vblex"/><s n="perf"/></r></p></e>
 	<e c="check"><p><l>odświeżać<s n="vblex"/></l><r>obnovit<s n="vblex"/></r></p></e>
     <e c="check" r="RL"><p><l>miotać<s n="vblex"/></l><r>metat<s n="vblex"/></r></p></e>
     <e c="check" r="RL"><p><l>tłumić<s n="vblex"/></l><r>potlačovat<s n="vblex"/></r></p></e>

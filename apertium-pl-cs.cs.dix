@@ -21554,6 +21554,19 @@
       <e><p>          <l>ajíc</l><r>át<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
       <e><p>          <l>an</l><r>át<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
     </pardef>
+    <pardef n="vyhr/át__vblex">
+      <e><p>          <l>át</l><r>át<s n="vblex"/><s n="perf"/><s n="inf"/></r></p></e>
+      <e><p>          <l>aj</l><r>át<s n="vblex"/><s n="perf"/><s n="fti"/></r></p><par n="BASE__kryji"/></e>
+      <e><p>          <l>ál</l><r>át<s n="vblex"/><s n="perf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l>aj</l><r>ýt<s n="vblex"/><s n="perf"/></r></p><par n="BASE__udrž"/></e>
+      <e r="LR"><p>   <l>ej</l><r>ýt<s n="vblex"/><s n="perf"/></r></p><par n="BASE__udrž"/></e>
+
+      <e><p>          <l>áv</l><r>át<s n="vblex"/><s n="perf"/></r></p><par n="BASE__měv"/></e>
+
+      <e><p>          <l>aní</l><r>át<s n="vblex"/><s n="perf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
+      <e><p>          <l>án</l><r>át<s n="vblex"/><s n="perf"/></r></p><par n="BASE__chtěn"/></e>
+      <e><p>          <l>an</l><r>át<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
+    </pardef>
     <pardef n="/hnát__vblex">
       <e><p>          <l>hnát</l><r>hnát<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
       <e><p>          <l>hnál</l><r>hnát<s n="vblex"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__četl"/></e>
@@ -34167,6 +34180,9 @@
     <e lm="mluvit"><par n="v_neg"/><i>mluv</i><par n="mluv/it__vblex"/></e>
     <e lm="nacházet"><par n="v_neg"/><i>nacház</i><par n="nacház/et__vblex"/></e>
     <e lm="číslovat"><par n="v_neg"/><i>čísl</i><par n="mil/ovat__vblex"/></e>
+    <e lm="hlasovat"><par n="v_neg"/><i>hlas</i><par n="mil/ovat__vblex"/></e>
+    <e lm="plánovat"><par n="v_neg"/><i>plán</i><par n="mil/ovat__vblex"/></e>
+    <e lm="programovat"><par n="v_neg"/><i>program</i><par n="mil/ovat__vblex"/></e>
     <e lm="nabalit"><par n="v_neg"/><i>nabal</i><par n="zruš/it__vblex"/></e>
     <e lm="autorizovat" r="LR"><par n="v_neg"/><p><l>autoris</l><r>autoriz</r></p><par n="mil/ovat__vblex"/></e>
     <e lm="autorizovat"><par n="v_neg"/><i>autoriz</i><par n="mil/ovat__vblex"/></e>
@@ -34552,12 +34568,14 @@
     <e lm="pumpovat"><par n="v_neg"/><i>pump</i><par n="mil/ovat__vblex"/></e>
     <e lm="napumpovat"><par n="v_neg"/><i>napump</i><par n="napump/ovat__vblex"/></e>
     <e lm="dávat"><par n="v_neg"/><i>dáv</i><par n="dáv/at__vblex"/></e>
+    <e lm="kýchat"><par n="v_neg"/><i>kých</i><par n="dáv/at__vblex"/></e>
     <e lm="vydávat"><par n="v_neg"/><i>vydáv</i><par n="dáv/at__vblex"/></e>
     <e lm="zpívat"><par n="v_neg"/><i>zpív</i><par n="dáv/at__vblex"/></e>
     <e lm="péci"><par n="v_neg"/><i>p</i><par n="p/éci__vblex"/></e>
     <e lm="vézt"><par n="v_neg"/><i>v</i><par n="v/ézt__vblex"/></e>
     <e lm="hnát"><par n="v_neg"/><i></i><par n="/hnát__vblex"/></e>
     <e lm="hrát"><par n="v_neg"/><i>hr</i><par n="hr/át__vblex"/></e>
+    <e lm="vyhrát"><par n="v_neg"/><i>vyhr</i><par n="vyhr/át__vblex"/></e>
     <e lm="žít"><par n="v_neg"/><i>ž</i><par n="ž/ít__vblex"/></e>
     <e lm="krýt"><par n="v_neg"/><i>kr</i><par n="kr/ýt__vblex"/></e>
 
