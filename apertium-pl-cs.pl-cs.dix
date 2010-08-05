@@ -4740,7 +4740,8 @@
     <e><p><l>matura<s n="n"/><s n="f"/></l><r>maturita<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mauzoleum<s n="n"/><s n="nt"/></l><r>mauzoleum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>mąka<s n="n"/><s n="f"/></l><r>mouka<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>mąż<s n="n"/><s n="mp"/></l><r>muž<s n="n"/><s n="ma"/></r></p></e>
+    <e r="LR"><p><l>mąż<s n="n"/><s n="mp"/></l><r>muž<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>mężczyzna<s n="n"/><s n="mp"/></l><r>muž<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>mechanika<s n="n"/><s n="f"/></l><r>mechanik<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>mechanizm<s n="n"/><s n="mi"/></l><r>mechanismus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>mecz<s n="n"/><s n="mi"/></l><r>zápas<s n="n"/><s n="mi"/></r></p></e>
@@ -7497,7 +7498,6 @@
     <e><p><l>ławka<s n="n"/><s n="f"/></l><r>lavice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dzięgiel<s n="n"/><s n="mi"/></l><r>andělika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prognoza<s n="n"/><s n="f"/></l><r>pranostika<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>mężczyzna<s n="n"/><s n="mp"/></l><r>muž<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>plan<s n="n"/><s n="mi"/></l><r>plán<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>akt<s n="n"/><s n="mi"/></l><r>akt<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>minus<s n="n"/><s n="mi"/></l><r>minus<s n="n"/><s n="mi"/></r></p></e>
