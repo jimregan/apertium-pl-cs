@@ -58241,6 +58241,7 @@
     <e lm="monitorovat"><par n="v_neg"/><i>monitor</i><par n="mil/ovat__vblex"/></e>
     <e lm="montovat"><par n="v_neg"/><i>mont</i><par n="mil/ovat__vblex"/></e>
     <e lm="nabalit"><par n="v_neg"/><i>nabal</i><par n="zruš/it__vblex"/></e>
+    <e lm="nakrmit"><par n="v_neg"/><i>nakrm</i><par n="zruš/it__vblex"/></e>
     <e lm="nacházet"><par n="v_neg"/><i>nacház</i><par n="nacház/et__vblex"/></e>
     <e lm="nadepsat"><par n="v_neg"/><i>nad</i><par n="pod/epsat__vblex"/></e>
     <e lm="nadejít"><par n="v_neg"/><i>nade</i><par n="do/jít__vblex"/></e>
