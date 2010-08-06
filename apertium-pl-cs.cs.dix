@@ -5168,6 +5168,22 @@
         <par n="BASE__alergie"/>
       </e>
     </pardef>
+    <pardef n="konver/zace__n">
+      <e>
+        <p>
+          <l>zac</l>
+          <r>zac</r>
+        </p>
+        <par n="alergi/e__n"/>
+      </e>
+      <e r="LR">
+        <p>
+          <l>sac</l>
+          <r>zac</r>
+        </p>
+        <par n="alergi/e__n"/>
+      </e>
+    </pardef>
     <pardef n="Belgi/e__np">
       <e>
         <p>
@@ -31679,9 +31695,99 @@
     <e lm="kontemplace"><i>kontemplac</i><par n="alergi/e__n"/></e>
     <e lm="konvence"><i>konvenc</i><par n="alergi/e__n"/></e>
     <e lm="konvergence"><i>konvergenc</i><par n="alergi/e__n"/></e>
-    <e lm="konverzace"><i>konverzac</i><par n="alergi/e__n"/></e>
-    <e lm="konverzace" r="LR"><p><l>konversac</l><r>konverzac</r></p><par n="alergi/e__n"/></e>
-    <e lm="konzervace"><i>konservac</i><par n="alergi/e__n"/></e>
+    <e lm="absolutizace"><i>absoluti</i><par n="konver/zace__n"/></e>
+    <e lm="afrikanizace"><i>afrikani</i><par n="konver/zace__n"/></e>
+    <e lm="alfabetizace"><i>alfabeti</i><par n="konver/zace__n"/></e>
+    <e lm="animizace"><i>animi</i><par n="konver/zace__n"/></e>
+    <e lm="anonymizace"><i>anonymi</i><par n="konver/zace__n"/></e>
+    <e lm="aridizace"><i>aridi</i><par n="konver/zace__n"/></e>
+    <e lm="atomizace"><i>atomi</i><par n="konver/zace__n"/></e>
+    <e lm="austenitizace"><i>austeniti</i><par n="konver/zace__n"/></e>
+    <e lm="autorizace"><i>autori</i><par n="konver/zace__n"/></e>
+    <e lm="autostabilizace"><i>autostabili</i><par n="konver/zace__n"/></e>
+    <e lm="autostylizace"><i>autostyli</i><par n="konver/zace__n"/></e>
+    <e lm="bagatelizace"><i>bagateli</i><par n="konver/zace__n"/></e>
+    <e lm="bakterizace"><i>bakteri</i><par n="konver/zace__n"/></e>
+    <e lm="barokizace"><i>baroki</i><par n="konver/zace__n"/></e>
+    <e lm="bastardizace"><i>bastardi</i><par n="konver/zace__n"/></e>
+    <e lm="bohemizace"><i>bohemi</i><par n="konver/zace__n"/></e>
+    <e lm="christianizace"><i>christiani</i><par n="konver/zace__n"/></e>
+    <e lm="decimalizace"><i>decimali</i><par n="konver/zace__n"/></e>
+    <e lm="deetatizace"><i>deetati</i><par n="konver/zace__n"/></e>
+    <e lm="defeminizace"><i>defemini</i><par n="konver/zace__n"/></e>
+    <e lm="demonetizace"><i>demoneti</i><par n="konver/zace__n"/></e>
+    <e lm="denaturalizace"><i>denaturali</i><par n="konver/zace__n"/></e>
+    <e lm="depalatalizace"><i>depalatali</i><par n="konver/zace__n"/></e>
+    <e lm="deratizace"><i>derati</i><par n="konver/zace__n"/></e>
+    <e lm="detronizace"><i>detroni</i><par n="konver/zace__n"/></e>
+    <e lm="devalorizace"><i>devalori</i><par n="konver/zace__n"/></e>
+    <e lm="egalizace"><i>egali</i><par n="konver/zace__n"/></e>
+    <e lm="ekologizace"><i>ekologi</i><par n="konver/zace__n"/></e>
+    <e lm="epizace"><i>epi</i><par n="konver/zace__n"/></e>
+    <e lm="etiolizace"><i>etioli</i><par n="konver/zace__n"/></e>
+    <e lm="fluidizace"><i>fluidi</i><par n="konver/zace__n"/></e>
+    <e lm="fonetizace"><i>foneti</i><par n="konver/zace__n"/></e>
+    <e lm="formalizace"><i>formali</i><par n="konver/zace__n"/></e>
+    <e lm="fosilizace"><i>fosili</i><par n="konver/zace__n"/></e>
+    <e lm="generalizace"><i>generali</i><par n="konver/zace__n"/></e>
+    <e lm="hominizace"><i>homini</i><par n="konver/zace__n"/></e>
+    <e lm="humanizace"><i>humani</i><par n="konver/zace__n"/></e>
+    <e lm="hydratizace"><i>hydrati</i><par n="konver/zace__n"/></e>
+    <e lm="imunizace"><i>imuni</i><par n="konver/zace__n"/></e>
+    <e lm="industrializace"><i>industriali</i><par n="konver/zace__n"/></e>
+    <e lm="interiorizace"><i>interiori</i><par n="konver/zace__n"/></e>
+    <e lm="inventarizace"><i>inventari</i><par n="konver/zace__n"/></e>
+    <e lm="karbonizace"><i>karboni</i><par n="konver/zace__n"/></e>
+    <e lm="kauterizace"><i>kauteri</i><par n="konver/zace__n"/></e>
+    <e lm="klimetizace"><i>klimeti</i><par n="konver/zace__n"/></e>
+    <e lm="konverzace"><i>konver</i><par n="konver/zace__n"/></e>
+    <e lm="aklimatizace"><i>aklimati</i><par n="konver/zace__n"/></e>
+    <e lm="aktualizace"><i>aktuali</i><par n="konver/zace__n"/></e>
+    <e lm="amerikanizace"><i>amerikani</i><par n="konver/zace__n"/></e>
+    <e lm="amortizace"><i>amorti</i><par n="konver/zace__n"/></e>
+    <e lm="arizace"><i>ari</i><par n="konver/zace__n"/></e>
+    <e lm="centralizace"><i>centrali</i><par n="konver/zace__n"/></e>
+    <e lm="civilizace"><i>civili</i><par n="konver/zace__n"/></e>
+    <e lm="decentralizace"><i>decentrali</i><par n="konver/zace__n"/></e>
+    <e lm="dekarbonizace"><i>dekarboni</i><par n="konver/zace__n"/></e>
+    <e lm="dematerializace"><i>demateriali</i><par n="konver/zace__n"/></e>
+    <e lm="demilitarizace"><i>demilitari</i><par n="konver/zace__n"/></e>
+    <e lm="demineralizace"><i>deminerali</i><par n="konver/zace__n"/></e>
+    <e lm="demobilizace"><i>demobili</i><par n="konver/zace__n"/></e>
+    <e lm="demonopolizace"><i>demonopoli</i><par n="konver/zace__n"/></e>
+    <e lm="demoralizace"><i>demorali</i><par n="konver/zace__n"/></e>
+    <e lm="depersonalizace"><i>depersonali</i><par n="konver/zace__n"/></e>
+    <e lm="depolymerizace"><i>depolymeri</i><par n="konver/zace__n"/></e>
+    <e lm="derealizace"><i>dereali</i><par n="konver/zace__n"/></e>
+    <e lm="desorganizace"><i>desorgani</i><par n="konver/zace__n"/></e>
+    <e lm="destabilizace"><i>destabili</i><par n="konver/zace__n"/></e>
+    <e lm="digitalizace"><i>digitali</i><par n="konver/zace__n"/></e>
+    <e lm="dramatizace"><i>dramati</i><par n="konver/zace__n"/></e>
+    <e lm="eutrofizace"><i>eutrofi</i><par n="konver/zace__n"/></e>
+    <e lm="evangelizace"><i>evangeli</i><par n="konver/zace__n"/></e>
+    <e lm="exteriorizace"><i>exteriori</i><par n="konver/zace__n"/></e>
+    <e lm="feminizace"><i>femini</i><par n="konver/zace__n"/></e>
+    <e lm="fluorizace"><i>fluori</i><par n="konver/zace__n"/></e>
+    <e lm="galvanizace"><i>galvani</i><par n="konver/zace__n"/></e>
+    <e lm="germanizace"><i>germani</i><par n="konver/zace__n"/></e>
+    <e lm="globalizace"><i>globali</i><par n="konver/zace__n"/></e>
+    <e lm="grafitizace"><i>grafiti</i><par n="konver/zace__n"/></e>
+    <e lm="harmonizace"><i>harmoni</i><par n="konver/zace__n"/></e>
+    <e lm="homogenizace"><i>homogeni</i><par n="konver/zace__n"/></e>
+    <e lm="homologizace"><i>homologi</i><par n="konver/zace__n"/></e>
+    <e lm="hospitalizace"><i>hospitali</i><par n="konver/zace__n"/></e>
+    <e lm="hybridizace"><i>hybridi</i><par n="konver/zace__n"/></e>
+    <e lm="idealizace"><i>ideali</i><par n="konver/zace__n"/></e>
+    <e lm="improvizace"><i>improvi</i><par n="konver/zace__n"/></e>
+    <e lm="informatizace"><i>informati</i><par n="konver/zace__n"/></e>
+    <e lm="internalizace"><i>internali</i><par n="konver/zace__n"/></e>
+    <e lm="ionizace"><i>ioni</i><par n="konver/zace__n"/></e>
+    <e lm="kanonizace"><i>kanoni</i><par n="konver/zace__n"/></e>
+    <e lm="kategorizace"><i>kategori</i><par n="konver/zace__n"/></e>
+    <e lm="kolektivizace"><i>kolektivi</i><par n="konver/zace__n"/></e>
+    <e lm="kolonizace"><i>koloni</i><par n="konver/zace__n"/></e>
+    <e lm="komercializace"><i>komerciali</i><par n="konver/zace__n"/></e>
+    <e lm="konservace" r="LR"><p><l>konservac</l><r>konzervac</r></p><par n="alergi/e__n"/></e>
     <e lm="konzervace"><i>konzervac</i><par n="alergi/e__n"/></e>
     <e lm="konzultace"><i>konzultac</i><par n="alergi/e__n"/></e>
     <e lm="kooperace"><i>kooperac</i><par n="alergi/e__n"/></e>
@@ -32935,8 +33041,7 @@
     <e lm="germanium"><i>germani</i><par n="bary/um__n"/></e>
     <e lm="gerontologie"><i>gerontologi</i><par n="alergi/e__n"/></e>
     <e lm="gigolo"><i>gigol</i><par n="zamb/o__n"/></e>
-    <e lm="globalisace"><i>globalisac</i><par n="alergi/e__n"/></e>
-    <e lm="globalizace"><i>globalizac</i><par n="alergi/e__n"/></e>
+    <e lm="globalizace"><i>globali</i><par n="konver/zace__n"/></e>
     <e lm="glyptika"><i>glypti</i><par n="dý/ka__n"/></e>
     <e lm="gotika"><i>goti</i><par n="dý/ka__n"/></e>
     <e lm="gram"><i>gram</i><par n="bor__n"/></e>
@@ -32972,8 +33077,7 @@
     <e lm="homosexuál"><i>homosexuál</i><par n="man__n"/></e>
     <e lm="hora"><i>ho</i><par n="ho/ra__n"/></e>
     <e lm="hormon"><i>hormon</i><par n="bor__n"/></e>
-    <e lm="hospitalisace"><i>hospitalisac</i><par n="alergi/e__n"/></e>
-    <e lm="hospitalizace"><i>hospitalizac</i><par n="alergi/e__n"/></e>
+    <e lm="hospitalizace"><i>hospitali</i><par n="konver/zace__n"/></e>
     <e lm="hospodářství"><i>hospodářství</i><par n="hospodářství__n"/></e>
     <e lm="cizoložství"><i>cizoložství</i><par n="hospodářství__n"/></e>
     <e lm="počasí"><i>počasí</i><par n="svědomí__n"/></e>
@@ -33221,8 +33325,7 @@
     <e lm="computer" r="LR"><p><l>computer</l><r>komputer</r></p><par n="bor__n"/></e>
     <e lm="komunismus"><i>komunism</i><par n="ile/us__n"/></e>
     <e lm="komunizmus" r="LR"><p><l>komunizm</l><r>komunism</r></p><par n="ile/us__n"/></e>
-    <e lm="kondensace" r="LR"><p><l>kondensac</l><r>kondenzac</r></p><par n="alergi/e__n"/></e>
-    <e lm="kondenzace"><i>kondenzac</i><par n="alergi/e__n"/></e>
+    <e lm="kondenzace"><i>konden</i><par n="konver/zace__n"/></e>
     <e lm="konfident"><i>konfident</i><par n="man__n"/></e>
     <e lm="konfirmace"><i>konfirmac</i><par n="alergi/e__n"/></e>
     <e lm="konfraternie"><i>konfraterni</i><par n="alergi/e__n"/></e>
@@ -33325,8 +33428,7 @@
     <e lm="matematika"><i>matemati</i><par n="dý/ka__n"/></e>
     <e lm="mazlíček"><i>mazlíč</i><par n="nác/ek__n"/></e>
     <e lm="meandr"><i>meandr</i><par n="bor__n"/></e>
-    <e lm="mechanisace"><i>mechanisac</i><par n="alergi/e__n"/></e>
-    <e lm="mechanizace"><i>mechanizac</i><par n="alergi/e__n"/></e>
+    <e lm="mechanizace"><i>mechani</i><par n="konver/zace__n"/></e>
     <e lm="meitnerium"><i>meitneri</i><par n="bary/um__n"/></e>
     <e lm="meliorace"><i>meliorac</i><par n="alergi/e__n"/></e>
     <e lm="melouch"><i>melouch</i><par n="bor__n"/></e>
