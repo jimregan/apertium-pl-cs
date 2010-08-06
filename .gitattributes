@@ -51,6 +51,7 @@ dev/cs.cnj-missing.txt -text
 dev/czech-top1000 -text
 dev/debian/license.cs-pl.tmx -text
 dev/debian/social-contract.cs-pl.tmx -text
+dev/eval/eval.cs-pl.2010-08-06 -text
 dev/fmorph_adjectives -text
 dev/fmorph_adverbs -text
 dev/fmorph_nouns -text
