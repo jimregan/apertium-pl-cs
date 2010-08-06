@@ -10151,7 +10151,7 @@
     <e><p><l>nadpisać<s n="vblex"/></l><r>přepsat<s n="vblex"/></r></p></e>
     <e><p><l>pisać<s n="vblex"/></l><r>psát<s n="vblex"/></r></p></e>
     <e><p><l>nagrać<s n="vblex"/></l><r>nahrát<s n="vblex"/></r></p></e>
-    <e><p><l>nagrać<s n="vblex"/></l><r>vypálit<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>nagrać<s n="vblex"/></l><r>vypálit<s n="vblex"/></r></p></e>
     <e><p><l>nalewać<s n="vblex"/></l><r>nalévat<s n="vblex"/></r></p></e>
     <e><p><l>naliczyć<s n="vblex"/></l><r>napočítat<s n="vblex"/></r></p></e>
     <e><p><l>namalować<s n="vblex"/></l><r>namalovat<s n="vblex"/></r></p></e>
@@ -10281,7 +10281,7 @@
     <e><p><l>popędzać<s n="vblex"/></l><r>pohánět<s n="vblex"/></r></p></e>
     <e><p><l>popękać<s n="vblex"/></l><r>popraskat<s n="vblex"/></r></p></e>
     <e><p><l>popijać<s n="vblex"/></l><r>popíjet<s n="vblex"/></r></p></e>
-    <e><p><l>popijać<s n="vblex"/></l><r>upíjet<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>popijać<s n="vblex"/></l><r>upíjet<s n="vblex"/></r></p></e>
     <e><p><l>porównać<s n="vblex"/></l><r>porovnat<s n="vblex"/></r></p></e>
     <e><p><l>porównywać<s n="vblex"/></l><r>srovnávat<s n="vblex"/></r></p></e>
     <e><p><l>poruszyć<s n="vblex"/></l><r>pohnout<s n="vblex"/></r></p></e>
@@ -10590,7 +10590,7 @@
     <e><p><l>zaatakować<s n="vblex"/></l><r>zaútočit<s n="vblex"/></r></p></e>
     <e><p><l>zabezpieczyć<s n="vblex"/></l><r>zabezpečit<s n="vblex"/></r></p></e>
     <e><p><l>zabijać<s n="vblex"/></l><r>zabíjet<s n="vblex"/></r></p></e>
-    <e><p><l>zablokować<s n="vblex"/></l><r>uzamknout<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>zablokować<s n="vblex"/></l><r>uzamknout<s n="vblex"/></r></p></e>
     <e><p><l>zablokować<s n="vblex"/></l><r>zablokovat<s n="vblex"/></r></p></e>
     <e><p><l>zachmurzyć<s n="vblex"/></l><r>zamračit<s n="vblex"/></r></p></e>
     <e><p><l>zachorować<s n="vblex"/></l><r>onemocnět<s n="vblex"/></r></p></e>
