@@ -58136,6 +58136,7 @@
     <e lm="dotovat"><par n="v_neg"/><i>dot</i><par n="mil/ovat__vblex"/></e>
     <e lm="dovolovat"><par n="v_neg"/><i>dovol</i><par n="mil/ovat__vblex"/></e>
     <e lm="dávat"><par n="v_neg"/><i>dáv</i><par n="dáv/at__vblex"/></e>
+    <e lm="dělat"><par n="v_neg"/><i>děl</i><par n="dáv/at__vblex"/></e>
     <e lm="děkovat"><par n="v_neg"/><i>děk</i><par n="mil/ovat__vblex"/></e>
     <e r="LR" lm="elektrizovat"><par n="v_neg"/><p><l>elektris</l><r>elektriz</r></p><par n="mil/ovat__vblex"/></e>
     <e lm="elektrizovat"><par n="v_neg"/><i>elektriz</i><par n="mil/ovat__vblex"/></e>
