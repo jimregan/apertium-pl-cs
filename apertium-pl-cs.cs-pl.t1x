@@ -1750,6 +1750,7 @@
         </out>
      </action>
   </rule>
+
   <rule comment="som byl -> byłem">
      <pattern>
        <pattern-item n="bytpres"/>
@@ -1780,6 +1781,76 @@
         </out>
      </action>
   </rule>
+
+  <rule comment="jsem byl povinen -> powinienem był">
+     <pattern>
+       <pattern-item n="bytpres"/>
+       <pattern-item n="bytpast"/>
+       <pattern-item n="povinen"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="3" side="sl" part="nbr"/>
+               <lit-tag v="pl"/>
+             </equal>
+           </test>
+           <choose>
+             <when>
+               <test>
+                 <equal>
+                   <clip pos="3" side="sl" part="gen"/>
+                   <lit-tag v="ma"/>
+                 </equal>
+               </test>
+               <let>
+                 <clip pos="3" side="tl" part="gen"/>
+                 <lit-tag v="mp"/>
+               </let>
+             </when>
+             <otherwise>
+               <let>
+                 <clip pos="3" side="tl" part="gen"/>
+                 <lit-tag v="nm"/>
+               </let>
+             </otherwise>
+           </choose>
+         </when>
+       </choose>
+       <out>
+         <chunk name="vaux" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="prs"/></tag>
+              <tag><clip pos="3" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_vrb"/>
+              <clip pos="1" side="tl" part="prs" link-to="2"/>
+              <clip pos="3" side="tl" part="gen" link-to="3"/>
+              <clip pos="1" side="tl" part="nbr" link-to="4"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_vrb"/>
+              <lit-tag v="past"/>
+              <lit-tag v="p3"/>
+              <clip pos="3" side="tl" part="gen" link-to="3"/>
+              <clip pos="1" side="tl" part="nbr" link-to="4"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
   <rule comment="byl by som -> byłbym">
      <pattern>
        <pattern-item n="bytpast"/>

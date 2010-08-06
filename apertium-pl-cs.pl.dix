@@ -13107,6 +13107,12 @@
           <r><s n="past"/><s n="p1"/><s n="m"/><s n="pl"/></r>
         </p>
       </e>
+      <e r="RL">
+        <p>
+          <l>liśmy</l>
+          <r><s n="past"/><s n="p1"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
       <e r="LR" c="niepop">
         <p>
           <l>limy</l>
@@ -13119,6 +13125,12 @@
           <r><s n="past"/><s n="p2"/><s n="m"/><s n="pl"/></r>
         </p>
       </e>
+      <e r="RL">
+        <p>
+          <l>liście</l>
+          <r><s n="past"/><s n="p2"/><s n="mp"/><s n="pl"/></r>
+        </p>
+      </e>
       <e r="LR" c="niepop">
         <p>
           <l>licie</l>
@@ -13129,6 +13141,12 @@
         <p>
           <l>li</l>
           <r><s n="past"/><s n="p3"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l>li</l>
+          <r><s n="past"/><s n="p3"/><s n="mp"/><s n="pl"/></r>
         </p>
       </e>
       <e>
