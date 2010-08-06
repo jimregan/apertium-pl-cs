@@ -29741,12 +29741,6 @@
       </e>
       <e>
         <p>
-          <l>i</l>
-          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>e</l>
           <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
@@ -39777,12 +39771,6 @@
           <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="Wysp/y__np"> <!-- for use in multiwords -->
       <e>
@@ -41972,7 +41960,6 @@
     <e lm="cyrkowy"><i>cyrkow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="cytrynowy"><i>cytrynow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="cywilny"><i>cywiln</i><par n="egzotermiczn/y__adj"/></e>
-    <e lm="czarny"><i>czarn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="czerwcowy"><i>czerwcow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="czerwony"><i>czerwon</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="czosnkowy"><i>czosnkow</i><par n="egzotermiczn/y__adj"/></e>
@@ -42682,7 +42669,6 @@
     <e lm="wodociągowy"><i>wodociągow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="wodorowy"><i>wodorow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="wojenny"><i>wojenn</i><par n="egzotermiczn/y__adj"/></e>
-    <e lm="wojskowy"><i>wojskow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="wolnocłowy"><i>wolnocłow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="woskowy"><i>woskow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="wsadowy"><i>wsadow</i><par n="egzotermiczn/y__adj"/></e>
@@ -42720,7 +42706,6 @@
     <e lm="ziemny"><i>ziemn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="zimny"><i>zimn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="zmienny"><i>zmienn</i><par n="egzotermiczn/y__adj"/></e>
-    <e lm="znajomy"><i>znajom</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="zniszczalny"><i>zniszczaln</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="zoologiczny"><i>zoologiczn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="zwyczajowy"><i>zwyczajow</i><par n="egzotermiczn/y__adj"/></e>
@@ -42739,12 +42724,10 @@
     <e lm="mistrzowski"><i>mistrzows</i><par n="mors/ki__adj"/></e>
     <e lm="nadbałtycki"><i>nadbałtyc</i><par n="mors/ki__adj"/></e>
     <e lm="nadmorski"><i>nadmors</i><par n="mors/ki__adj"/></e>
-    <e lm="pakistański"><i>pakistańs</i><par n="pols/ki__adj"/></e>
     <e lm="panieński"><i>panieńs</i><par n="mors/ki__adj"/></e>
     <e lm="podmorski"><i>podmors</i><par n="mors/ki__adj"/></e>
     <e lm="pozamałżeński"><i>pozamałżeńs</i><par n="mors/ki__adj"/></e>
     <e lm="pozaziemski"><i>pozaziems</i><par n="mors/ki__adj"/></e>
-    <e lm="wszędobylski"><i>wszędobyls</i><par n="mors/ki__adj"/></e>
     <e lm="żyliński"><i>żylińs</i><par n="mors/ki__adj"/></e>
     <e lm="adwentowy"><i>adwentow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="agrarny"><i>agrarn</i><par n="egzotermiczn/y__adj"/></e>
@@ -43037,7 +43020,6 @@
     <e lm="miejski"><i>miejs</i><par n="mors/ki__adj"/></e>
     <e lm="niebieski"><i>niebies</i><par n="mors/ki__adj"/></e>
     <e lm="błękitny"><i>błękitn</i><par n="egzotermiczn/y__adj"/></e>
-    <e lm="wszędobylski"><i>wszędobyls</i><par n="mors/ki__adj"/></e>
     <e lm="polski"><i>pols</i><par n="pols/ki__adj"/></e>
     <e lm="czeski"><i>czes</i><par n="pols/ki__adj"/></e>
     <e lm="duński"><i>duńs</i><par n="pols/ki__adj"/></e>
@@ -44066,7 +44048,7 @@
     <e lm="dość"><i>dość</i><par n="tu__adv"/></e>
     <e lm="nieco"><i>nieco</i><par n="tu__adv"/></e>
     <e lm="niemal"><i>niemal</i><par n="tu__adv"/></e>
-    <e lm="nieomal"><i>niemal</i><par n="tu__adv"/></e>
+    <e lm="nieomal"><i>nieomal</i><par n="tu__adv"/></e>
     <e lm="niemalże"><i>niemalże</i><par n="tu__adv"/></e>
     <e lm="wystarczająco"><i>wystarczająco</i><par n="tu__adv"/></e>
     <e lm="bezpowrotnie"><i>bezpowrotnie</i><par n="tu__adv"/></e>
@@ -44194,7 +44176,6 @@
     <e lm="cieniować"><i>cieni</i><par n="mal/ować__vblex"/></e>
     <e lm="cieszyć"><i>ciesz</i><par n="uwierz/yć__vblex"/></e>
     <e lm="cukrować"><i>cukr</i><par n="mal/ować__vblex"/></e>
-    <e lm="cywilizować"><i>cywiliz</i><par n="mal/ować__vblex"/></e>
     <e lm="czekać"><i>czek</i><par n="czyt/ać__vblex"/></e>
     <e lm="czesać"><i>czes</i><par n="pis/ać__vblex"/></e>
     <e lm="ćwiartować"><i>ćwiart</i><par n="mal/ować__vblex"/></e>
