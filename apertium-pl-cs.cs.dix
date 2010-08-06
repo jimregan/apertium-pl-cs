@@ -38010,57 +38010,14 @@
         <par n="BASE__měv"/> 
     </e>
 
-
-
-    <e>
-      <p>
-        <l>ím</l>
-        <r><s n="fti"/><s n="p1"/><s n="sg"/></r>
-      </p>
-    </e>
-
-
-    <e>
-      <p>
-        <l>íš</l>
-        <r><s n="fti"/><s n="p2"/><s n="sg"/></r>
-      </p>
-    </e>
-
-
-    <e>
-      <p>
-        <l>í</l>
-        <r><s n="fti"/><s n="p3"/><s n="sg"/></r>
-      </p>
-    </e>
-
-
-    <e>
-      <p>
-        <l>íme</l>
-        <r><s n="fti"/><s n="p1"/><s n="pl"/></r>
-      </p>
-    </e>
-
-
-    <e>
-      <p>
-        <l>íte</l>
-        <r><s n="fti"/><s n="p2"/><s n="pl"/></r>
-      </p>
-    </e>
-
-
-    <e>
-      <p>
-        <l>í</l>
-        <r><s n="fti"/><s n="p3"/><s n="pl"/></r>
-      </p>
-    </e>
-
-
+    <e><p><l></l><r><s n="fti"/></r></p><par n="BASE__udržím"/></e>
     </pardef>
+    <pardef n="BASE__blázním">  <!-- fmorph itxn -->
+      <e><p>          <l>il</l><r><s n="past"/></r></p><par n="BASE__četl"/></e>
+      <e><p>          <l></l><r><s n="pres"/></r></p><par n="BASE__udržím"/></e>
+    </pardef>
+
+
     <pardef n="/být__vbser">
     <e>
       <p>
@@ -43795,7 +43752,7 @@
     <e>
       <p>
         <l>díc</l>
-        <r>at<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r>
+        <r>dět<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r>
       </p>
         <par n="BASE__další"/> 
     </e>
@@ -43804,7 +43761,7 @@
     <e>
       <p>
         <l>den</l>
-        <r>at<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r>
+        <r>dět<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r>
       </p>
         <par n="BASE__nov/ý"/> 
     </e>
@@ -43820,6 +43777,18 @@
 
 
     </pardef>
+
+    <pardef n="blázn/it__vblex">
+      <e><p>          <l>it</l><r>it<s n="vblex"/><s n="imperf"/><s n="inf"/></r></p></e>
+      <e><p>          <l></l><r>it<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__čti"/></e>
+      <e><p>          <l></l><r>it<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__blázním"/></e>
+      <e><p>          <l></l><r>it<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__vidíce"/></e>
+      <e><p>          <l>ení</l><r>it<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
+      <e><p>          <l>íc</l><r>it<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
+      <e><p>          <l>en</l><r>it<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
+      <e><p>          <l>ěn</l><r>it<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/></r></p><par n="BASE__četl"/></e>
+    </pardef>
+
     <pardef n="uk/ázat__vblex">
     <e>
       <p>
@@ -43895,7 +43864,7 @@
     <e>
       <p>
         <l>ázujíc</l>
-        <r>at<s n="vblex"/><s n="perf"/><s n="pprs"/><s n="adj"/></r>
+        <r>ázat<s n="vblex"/><s n="perf"/><s n="pprs"/><s n="adj"/></r>
       </p>
         <par n="BASE__další"/> 
     </e>
@@ -58137,6 +58106,7 @@
     <e lm="debatovat"><par n="v_neg"/><i>debat</i><par n="mil/ovat__vblex"/></e>
     <e lm="definovat"><par n="v_neg"/><i>defin</i><par n="mil/ovat__vblex"/></e>
 
+    <e lm="bláznit"><par n="v_neg"/><i>blázn</i><par n="blázn/it__vblex"/></e>
     <e lm="deformovat"><par n="v_neg"/><i>deform</i><par n="mil/ovat__vblex"/></e>
     <e lm="degenerovat"><par n="v_neg"/><i>degener</i><par n="mil/ovat__vblex"/></e>
     <e lm="deklasovat"><par n="v_neg"/><i>deklas</i><par n="mil/ovat__vblex"/></e>

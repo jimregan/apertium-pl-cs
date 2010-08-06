@@ -2856,3 +2856,30 @@
     <e lm="žehrat"><par n="v_neg"/><i>žehr</i><par n="vypad/at__vblex"/></e>
     <e lm="žvýkat"><par n="v_neg"/><i>žvýk</i><par n="vypad/at__vblex"/></e>
     <e lm="žádat"><par n="v_neg"/><i>žád</i><par n="vypad/at__vblex"/></e>
+    <e lm="básnit"><par n="v_neg"/><i>básn</i><par n="blázn/it__vblex"/></e>
+    <e lm="bláznit"><par n="v_neg"/><i>blázn</i><par n="blázn/it__vblex"/></e>
+    <e lm="cejtit"><par n="v_neg"/><i>cejt</i><par n="blázn/it__vblex"/></e>
+    <e lm="dláždit"><par n="v_neg"/><i>dlážd</i><par n="blázn/it__vblex"/></e>
+    <e lm="dráždit"><par n="v_neg"/><i>drážd</i><par n="blázn/it__vblex"/></e>
+    <e lm="fandit"><par n="v_neg"/><i>fand</i><par n="blázn/it__vblex"/></e>
+    <e lm="hnízdit"><par n="v_neg"/><i>hnízd</i><par n="blázn/it__vblex"/></e>
+    <e lm="kamarádit"><par n="v_neg"/><i>kamarád</i><par n="blázn/it__vblex"/></e>
+    <e lm="klidnit"><par n="v_neg"/><i>klidn</i><par n="blázn/it__vblex"/></e>
+    <e lm="křivdit"><par n="v_neg"/><i>křivd</i><par n="blázn/it__vblex"/></e>
+    <e lm="mírnit"><par n="v_neg"/><i>mírn</i><par n="blázn/it__vblex"/></e>
+    <e lm="mocnit"><par n="v_neg"/><i>mocn</i><par n="blázn/it__vblex"/></e>
+    <e lm="pádit"><par n="v_neg"/><i>pád</i><par n="blázn/it__vblex"/></e>
+    <e lm="plachtit"><par n="v_neg"/><i>placht</i><par n="blázn/it__vblex"/></e>
+    <e lm="plísnit"><par n="v_neg"/><i>plísn</i><par n="blázn/it__vblex"/></e>
+    <e lm="postit"><par n="v_neg"/><i>post</i><par n="blázn/it__vblex"/></e>
+    <e lm="pyšnit"><par n="v_neg"/><i>pyšn</i><par n="blázn/it__vblex"/></e>
+    <e lm="řečnit"><par n="v_neg"/><i>řečn</i><par n="blázn/it__vblex"/></e>
+    <e lm="různit"><par n="v_neg"/><i>různ</i><par n="blázn/it__vblex"/></e>
+    <e lm="šlechtit"><par n="v_neg"/><i>šlecht</i><par n="blázn/it__vblex"/></e>
+    <e lm="tísnit"><par n="v_neg"/><i>tísn</i><par n="blázn/it__vblex"/></e>
+    <e lm="tříštit"><par n="v_neg"/><i>tříšt</i><par n="blázn/it__vblex"/></e>
+    <e lm="trůnit"><par n="v_neg"/><i>trůn</i><par n="blázn/it__vblex"/></e>
+    <e lm="trýznit"><par n="v_neg"/><i>trýzn</i><par n="blázn/it__vblex"/></e>
+    <e lm="vlastnit"><par n="v_neg"/><i>vlastn</i><par n="blázn/it__vblex"/></e>
+    <e lm="vraždit"><par n="v_neg"/><i>vražd</i><par n="blázn/it__vblex"/></e>
+    <e lm="zatraktivnit"><par n="v_neg"/><i>zatraktivn</i><par n="blázn/it__vblex"/></e>

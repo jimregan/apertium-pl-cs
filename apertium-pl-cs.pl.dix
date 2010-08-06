@@ -12643,6 +12643,22 @@
         </p>
       </e>
     </pardef>
+    <pardef n="szal/ony__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>ony<s n="adj"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>ono</l>
+          <r>ony<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="BASE__nowy">
       <e>
         <p>
@@ -20125,6 +20141,80 @@
           <l>ąwszy</l>
           <r>ąć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="szal/eć__vblex">
+      <e>
+        <p>
+          <l>eć</l>
+          <r>eć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ęję</l>
+          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eje</l>
+          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>eją</l>
+          <r>eć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ej</l>
+          <r>eć<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>eć<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__wiedziałem"/>
+      </e>
+      <e c="niepopr">
+        <p>
+          <l>ano</l>
+          <r>eć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ejąc</l>
+          <r>eć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>eć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>ejąc</l>
+          <r>eć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>eć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
       </e>
     </pardef>
     <pardef n="grzmi/eć__vblex">
@@ -41848,6 +41938,7 @@
     <e lm="żółciejszy" r="LR"><p><l>żółciej</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
     <e lm="najżółciejszy" r="LR"><p><l>najżółciej</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
 
+    <e lm="szalony"><i>szal</i><par n="szal/ony__adj"/></e>
     <e lm="wszędobylski"><i>wszędobyls</i><par n="mors/ki__adj"/></e>
     <e lm="rzeczywisty"><i>rzeczywi</i><par n="puszy/sty__adj"/></e>
     <e lm="puszysty"><i>puszy</i><par n="puszy/sty__adj"/></e>
@@ -44112,6 +44203,7 @@
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
 
+    <e lm="szaleć"><i>szal</i><par n="szal/eć__vblex"/></e>
     <e lm="usiąść"><i>usi</i><par n="usi/ąść__vblex"/></e>
     <e lm="pokazać"><i>poka</i><par n="ska/zać__vblex"/></e>
     <e lm="widzieć"><i>wid</i><par n="wid/zieć__vblex"/></e>

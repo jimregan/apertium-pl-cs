@@ -271,6 +271,9 @@
   <def-label name="MUSET" closed="true">
     <tags-item lemma="muset" tags="vaux.imperf.*"/>
   </def-label> 
+  <def-label name="POVINEN" closed="true">
+    <tags-item lemma="povinen" tags="vaux.*"/>
+  </def-label> 
   <def-label name="MIT" closed="true">
     <tags-item lemma="mít" tags="vbhaver.imperf.*"/>
   </def-label> 
@@ -2121,6 +2124,12 @@
     <sequence>
       <label-item label="NE"/>
       <label-item label="MIT"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEPOVINEN" closed="true">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="POVINEN"/>
     </sequence>
   </def-mult>
   <def-mult name="NEIMPERF" closed="true">  
