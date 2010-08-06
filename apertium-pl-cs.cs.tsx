@@ -267,6 +267,9 @@
   <def-label name="MOCI" closed="true">
     <tags-item lemma="moci" tags="vaux.imperf.*"/>
   </def-label> 
+  <def-label name="MUSET" closed="true">
+    <tags-item lemma="muset" tags="vaux.imperf.*"/>
+  </def-label> 
   <def-label name="MIT" closed="true">
     <tags-item lemma="mít" tags="vbhaver.imperf.*"/>
   </def-label> 
@@ -2105,6 +2108,12 @@
     <sequence>
       <label-item label="NE"/>
       <label-item label="MOCI"/>
+    </sequence>
+  </def-mult>
+  <def-mult name="NEMUSET" closed="true">  
+    <sequence>
+      <label-item label="NE"/>
+      <label-item label="MUSET"/>
     </sequence>
   </def-mult>
   <def-mult name="NEMIT" closed="true">  
