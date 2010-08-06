@@ -44203,6 +44203,19 @@
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
 
+    <e lm="napompować"><i>napomp</i><par n="namal/ować__vblex"/></e>
+    <e lm="odczytać"><i>odczyta</i><par n="przeczyt/ać__vblex"/></e>
+    <e lm="ogłupiać"><i>ogłupi</i><par n="czyt/ać__vblex"/></e>
+    <e lm="posyłać"><i>posył</i><par n="czyt/ać__vblex"/></e>
+    <e lm="ślubować"><i>ślub</i><par n="mal/ować__vblex"/></e>
+    <e lm="sytuować"><i>sytu</i><par n="mal/ować__vblex"/></e>
+    <e lm="transportować"><i>transport</i><par n="mal/ować__vblex"/></e>
+    <e lm="utkać"><i>utka</i><par n="przeczyt/ać__vblex"/></e>
+    <e lm="weryfikować"><i>weryfik</i><par n="mal/ować__vblex"/></e>
+    <e lm="wstawiać"><i>wstawi</i><par n="czyt/ać__vblex"/></e>
+    <e lm="zachować"><i>zachowa</i><par n="przeczyt/ać__vblex"/></e>
+
+
     <e lm="szaleć"><i>szal</i><par n="szal/eć__vblex"/></e>
     <e lm="usiąść"><i>usi</i><par n="usi/ąść__vblex"/></e>
     <e lm="pokazać"><i>poka</i><par n="ska/zać__vblex"/></e>

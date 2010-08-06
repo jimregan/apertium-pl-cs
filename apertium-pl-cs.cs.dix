@@ -39725,7 +39725,7 @@
     <e>
       <p>
         <l>aj</l>
-        <r>ýt<s n="vblex"/><s n="imperf"/></r>
+        <r>át<s n="vblex"/><s n="imperf"/></r>
       </p>
         <par n="BASE__udrž"/> 
     </e>
@@ -39734,7 +39734,7 @@
     <e r="LR">
       <p>
         <l>ej</l>
-        <r>ýt<s n="vblex"/><s n="imperf"/></r>
+        <r>át<s n="vblex"/><s n="imperf"/></r>
       </p>
         <par n="BASE__udrž"/> 
     </e>
@@ -39865,7 +39865,7 @@
     <e>
       <p>
         <l>aj</l>
-        <r>ýt<s n="vblex"/><s n="perf"/></r>
+        <r>át<s n="vblex"/><s n="perf"/></r>
       </p>
         <par n="BASE__udrž"/> 
     </e>
@@ -39874,7 +39874,7 @@
     <e r="LR">
       <p>
         <l>ej</l>
-        <r>ýt<s n="vblex"/><s n="perf"/></r>
+        <r>át<s n="vblex"/><s n="perf"/></r>
       </p>
         <par n="BASE__udrž"/> 
     </e>
@@ -40798,7 +40798,7 @@
     <e>
       <p>
         <l>ezen</l>
-        <r>ězt<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/></r>
+        <r>ézt<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/></r>
       </p>
         <par n="BASE__četl"/> 
     </e>
@@ -42427,7 +42427,7 @@
     <e>
       <p>
         <l>sán</l>
-        <r>ést<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/></r>
+        <r>sat<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/></r>
       </p>
         <par n="BASE__četl"/> 
     </e>
@@ -58106,7 +58106,7 @@
     <e lm="debatovat"><par n="v_neg"/><i>debat</i><par n="mil/ovat__vblex"/></e>
     <e lm="definovat"><par n="v_neg"/><i>defin</i><par n="mil/ovat__vblex"/></e>
 
-    <e lm="bláznit"><par n="v_neg"/><i>blázn</i><par n="blázn/it__vblex"/></e>
+    <!--<e lm="bláznit"><par n="v_neg"/><i>blázn</i><par n="blázn/it__vblex"/></e>-->
     <e lm="deformovat"><par n="v_neg"/><i>deform</i><par n="mil/ovat__vblex"/></e>
     <e lm="degenerovat"><par n="v_neg"/><i>degener</i><par n="mil/ovat__vblex"/></e>
     <e lm="deklasovat"><par n="v_neg"/><i>deklas</i><par n="mil/ovat__vblex"/></e>
@@ -58944,6 +58944,210 @@
     <e lm="mít"><par n="v_neg"/><i>m</i><par n="m/ít__vbhaver"/></e>
   </section>
   <section id="pending" type="standard">
+    <e lm="bádat"><par n="v_neg"/><i>bád</i><par n="vypad/at__vblex"/></e>
+    <e lm="bujet"><par n="v_neg"/><i>buj</i><par n="nacház/et__vblex"/></e>
+    <e lm="líbat"><par n="v_neg"/><i>líb</i><par n="vypad/at__vblex"/></e>
+    <e lm="schovávat"><par n="v_neg"/><i>schováv</i><par n="vypad/at__vblex"/></e>
+    <e lm="česat"><par n="v_neg"/><i>čes</i><par n="vypad/at__vblex"/></e>
+    <e lm="foukat"><par n="v_neg"/><i>fouk</i><par n="vypad/at__vblex"/></e>
+    <e lm="přidávat"><par n="v_neg"/><i>přidáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="připlácet"><par n="v_neg"/><i>připlác</i><par n="nacház/et__vblex"/></e>
+    <e lm="vyzvídat"><par n="v_neg"/><i>vyzvíd</i><par n="vypad/at__vblex"/></e>
+    <e lm="dostávat"><par n="v_neg"/><i>dostáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="dožívat"><par n="v_neg"/><i>dožív</i><par n="vypad/at__vblex"/></e>
+    <e lm="kochat"><par n="v_neg"/><i>koch</i><par n="vypad/at__vblex"/></e>
+    <e lm="hlásat"><par n="v_neg"/><i>hlás</i><par n="vypad/at__vblex"/></e>
+    <e lm="kousat"><par n="v_neg"/><i>kous</i><par n="vypad/at__vblex"/></e>
+    <e lm="štípat"><par n="v_neg"/><i>štíp</i><par n="vypad/at__vblex"/></e>
+    <e lm="kupovat"><par n="v_neg"/><i>kup</i><par n="mil/ovat__vblex"/></e>
+    <e lm="pokoušet"><par n="v_neg"/><i>pokouš</i><par n="nacház/et__vblex"/></e>
+    <e lm="mávat"><par n="v_neg"/><i>máv</i><par n="vypad/at__vblex"/></e>
+    <e lm="mívat"><par n="v_neg"/><i>mív</i><par n="vypad/at__vblex"/></e>
+    <e lm="míjet"><par n="v_neg"/><i>míj</i><par n="nacház/et__vblex"/></e>
+    <e lm="metat"><par n="v_neg"/><i>met</i><par n="vypad/at__vblex"/></e>
+    <e lm="nabírat"><par n="v_neg"/><i>nabír</i><par n="vypad/at__vblex"/></e>
+    <e lm="nalévat"><par n="v_neg"/><i>nalév</i><par n="vypad/at__vblex"/></e>
+    <e lm="naměřit"><par n="v_neg"/><i>naměř</i><par n="zruš/it__vblex"/></e>
+    <e lm="narušit"><par n="v_neg"/><i>naruš</i><par n="zruš/it__vblex"/></e>
+    <e lm="naučit"><par n="v_neg"/><i>nauč</i><par n="zruš/it__vblex"/></e>
+    <e lm="navlékat"><par n="v_neg"/><i>navlék</i><par n="vypad/at__vblex"/></e>
+    <e lm="vyjednávat"><par n="v_neg"/><i>vyjednáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="obíhat"><par n="v_neg"/><i>obíh</i><par n="vypad/at__vblex"/></e>
+    <e lm="otáčet"><par n="v_neg"/><i>otáč</i><par n="nacház/et__vblex"/></e>
+    <e lm="otáčet" r="LR"><par n="v_neg"/><p><l>votáč</l><r>otáč</r></p><par n="nacház/et__vblex"/></e>
+    <e lm="očekávat"><par n="v_neg"/><i>očekáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="konat"><par n="v_neg"/><i>kon</i><par n="vypad/at__vblex"/></e>
+    <e lm="odečítat"><par n="v_neg"/><i>odečít</i><par n="vypad/at__vblex"/></e>
+    <e lm="odehrávat"><par n="v_neg"/><i>odehráv</i><par n="vypad/at__vblex"/></e>
+    <e lm="odpojit"><par n="v_neg"/><i>odpoj</i><par n="zruš/it__vblex"/></e>
+    <e lm="odpočítávat"><par n="v_neg"/><i>odpočítáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="odmítat"><par n="v_neg"/><i>odmít</i><par n="vypad/at__vblex"/></e>
+    <e lm="naměřit"><par n="v_neg"/><i>naměř</i><par n="zruš/it__vblex"/></e>
+    <e lm="odpovídat"><par n="v_neg"/><i>odpovíd</i><par n="vypad/at__vblex"/></e>
+    <e lm="odročit"><par n="v_neg"/><i>odroč</i><par n="zruš/it__vblex"/></e>
+    <e lm="odnaučit"><par n="v_neg"/><i>odnauč</i><par n="zruš/it__vblex"/></e>
+    <e lm="odvolávat"><par n="v_neg"/><i>odvoláv</i><par n="vypad/at__vblex"/></e>
+    <e lm="ohlížet"><par n="v_neg"/><i>ohlíž</i><par n="nacház/et__vblex"/></e>
+    <e lm="okrádat"><par n="v_neg"/><i>okrád</i><par n="vypad/at__vblex"/></e>
+    <e lm="opadat"><par n="v_neg"/><i>opad</i><par n="vypad/at__vblex"/></e>
+    <e lm="oplakávat"><par n="v_neg"/><i>oplakáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="publikovat"><par n="v_neg"/><i>publik</i><par n="mil/ovat__vblex"/></e>
+    <e lm="orat"><par n="v_neg"/><i>or</i><par n="vypad/at__vblex"/></e>
+    <e lm="osušit"><par n="v_neg"/><i>osuš</i><par n="zruš/it__vblex"/></e>
+    <e lm="znamenat"><par n="v_neg"/><i>znamen</i><par n="vypad/at__vblex"/></e>
+    <e lm="označit"><par n="v_neg"/><i>označ</i><par n="zruš/it__vblex"/></e>
+    <e lm="hlídat"><par n="v_neg"/><i>hlíd</i><par n="vypad/at__vblex"/></e>
+    <e lm="hlídat"><par n="v_neg"/><i>hlíd</i><par n="vypad/at__vblex"/></e>
+    <e lm="drbat"><par n="v_neg"/><i>drb</i><par n="vypad/at__vblex"/></e>
+    <e lm="počínat"><par n="v_neg"/><i>počín</i><par n="vypad/at__vblex"/></e>
+    <e lm="podezírat"><par n="v_neg"/><i>podezír</i><par n="vypad/at__vblex"/></e>
+    <e lm="podkopávat"><par n="v_neg"/><i>podkopáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="připojit"><par n="v_neg"/><i>připoj</i><par n="zruš/it__vblex"/></e>
+    <e lm="dráždit"><par n="v_neg"/><i>drážd</i><par n="blázn/it__vblex"/></e>
+    <e lm="odposlouchávat"><par n="v_neg"/><i>odposloucháv</i><par n="vypad/at__vblex"/></e>
+    <e lm="ponořit"><par n="v_neg"/><i>ponoř</i><par n="zruš/it__vblex"/></e>
+    <e lm="vnímat"><par n="v_neg"/><i>vním</i><par n="vypad/at__vblex"/></e>
+    <e lm="pokořit"><par n="v_neg"/><i>pokoř</i><par n="zruš/it__vblex"/></e>
+    <e lm="překonávat"><par n="v_neg"/><i>překonáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="propojit"><par n="v_neg"/><i>propoj</i><par n="zruš/it__vblex"/></e>
+    <e lm="spoléhat"><par n="v_neg"/><i>spoléh</i><par n="vypad/at__vblex"/></e>
+    <e lm="pomáhat"><par n="v_neg"/><i>pomáh</i><par n="vypad/at__vblex"/></e>
+    <e lm="vyčíslovat"><par n="v_neg"/><i>vyčísl</i><par n="mil/ovat__vblex"/></e>
+    <e lm="popíjet"><par n="v_neg"/><i>popíj</i><par n="nacház/et__vblex"/></e>
+    <e lm="srovnávat"><par n="v_neg"/><i>srovnáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="podezírat"><par n="v_neg"/><i>podezír</i><par n="vypad/at__vblex"/></e>
+    <e lm="vlastnit"><par n="v_neg"/><i>vlastn</i><par n="blázn/it__vblex"/></e>
+    <e lm="vnímat"><par n="v_neg"/><i>vním</i><par n="vypad/at__vblex"/></e>
+    <e lm="potřásat"><par n="v_neg"/><i>potřás</i><par n="vypad/at__vblex"/></e>
+    <e lm="půjčit"><par n="v_neg"/><i>půjč</i><par n="zruš/it__vblex"/></e>
+    <e lm="probíhat"><par n="v_neg"/><i>probíh</i><par n="vypad/at__vblex"/></e>
+    <e lm="převlékat"><par n="v_neg"/><i>převlék</i><par n="vypad/at__vblex"/></e>
+    <e lm="pobývat"><par n="v_neg"/><i>pobýv</i><par n="vypad/at__vblex"/></e>
+    <e lm="uchovávat"><par n="v_neg"/><i>uchováv</i><par n="vypad/at__vblex"/></e>
+    <e lm="protínat"><par n="v_neg"/><i>protín</i><par n="vypad/at__vblex"/></e>
+    <e lm="procházet"><par n="v_neg"/><i>procház</i><par n="nacház/et__vblex"/></e>
+    <e lm="prohrávat"><par n="v_neg"/><i>prohráv</i><par n="vypad/at__vblex"/></e>
+    <e lm="prohrávat"><par n="v_neg"/><i>prohráv</i><par n="vypad/at__vblex"/></e>
+    <e lm="přejímat"><par n="v_neg"/><i>přejím</i><par n="vypad/at__vblex"/></e>
+    <e lm="proklínat"><par n="v_neg"/><i>proklín</i><par n="vypad/at__vblex"/></e>
+    <e lm="překročit"><par n="v_neg"/><i>překroč</i><par n="zruš/it__vblex"/></e>
+    <e lm="pronikat"><par n="v_neg"/><i>pronik</i><par n="vypad/at__vblex"/></e>
+    <e lm="přenášet"><par n="v_neg"/><i>přenáš</i><par n="nacház/et__vblex"/></e>
+    <e lm="probírat"><par n="v_neg"/><i>probír</i><par n="vypad/at__vblex"/></e>
+    <e lm="přeskočit"><par n="v_neg"/><i>přeskoč</i><par n="zruš/it__vblex"/></e>
+    <e lm="přesouvat"><par n="v_neg"/><i>přesouv</i><par n="vypad/at__vblex"/></e>
+    <e lm="prohledávat"><par n="v_neg"/><i>prohledáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="transportovat"><par n="v_neg"/><i>transport</i><par n="mil/ovat__vblex"/></e>
+    <e lm="přibírat"><par n="v_neg"/><i>přibír</i><par n="vypad/at__vblex"/></e>
+    <e lm="připomínat"><par n="v_neg"/><i>připomín</i><par n="vypad/at__vblex"/></e>
+    <e lm="domnívat"><par n="v_neg"/><i>domnív</i><par n="vypad/at__vblex"/></e>
+    <e lm="rozdávat"><par n="v_neg"/><i>rozdáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="odpojit"><par n="v_neg"/><i>odpoj</i><par n="zruš/it__vblex"/></e>
+    <e lm="rozprostírat"><par n="v_neg"/><i>rozprostír</i><par n="vypad/at__vblex"/></e>
+    <e lm="rozsévat"><par n="v_neg"/><i>rozsév</i><par n="vypad/at__vblex"/></e>
+    <e lm="zvážit"><par n="v_neg"/><i>zv</i><par n="vyv/ážit__vblex"/></e>
+    <e lm="rozevírat"><par n="v_neg"/><i>rozevír</i><par n="vypad/at__vblex"/></e>
+    <e lm="házet"><par n="v_neg"/><i>ház</i><par n="nacház/et__vblex"/></e>
+    <e lm="stírat"><par n="v_neg"/><i>stír</i><par n="vypad/at__vblex"/></e>
+    <e lm="stíhat"><par n="v_neg"/><i>stíh</i><par n="vypad/at__vblex"/></e>
+    <e lm="ztišit"><par n="v_neg"/><i>ztiš</i><par n="zruš/it__vblex"/></e>
+    <e lm="zaměřit"><par n="v_neg"/><i>zaměř</i><par n="zruš/it__vblex"/></e>
+    <e lm="podplatit"><par n="v_neg"/><i>podpla</i><par n="ztra/tit__vblex"/></e>
+    <e lm="procházet"><par n="v_neg"/><i>procház</i><par n="nacház/et__vblex"/></e>
+    <e lm="sbalit"><par n="v_neg"/><i>sbal</i><par n="zruš/it__vblex"/></e>
+    <e lm="spařit"><par n="v_neg"/><i>spař</i><par n="zruš/it__vblex"/></e>
+    <e lm="zpeněžit"><par n="v_neg"/><i>zpeněž</i><par n="zruš/it__vblex"/></e>
+    <e lm="setkávat"><par n="v_neg"/><i>setkáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="zastávat"><par n="v_neg"/><i>zastáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="prodávat"><par n="v_neg"/><i>prodáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="používat"><par n="v_neg"/><i>použív</i><par n="vypad/at__vblex"/></e>
+    <e lm="střílet"><par n="v_neg"/><i>stříl</i><par n="nacház/et__vblex"/></e>
+    <e lm="vydírat"><par n="v_neg"/><i>vydír</i><par n="vypad/at__vblex"/></e>
+    <e lm="hledat"><par n="v_neg"/><i>hled</i><par n="vypad/at__vblex"/></e>
+    <e lm="přenášet"><par n="v_neg"/><i>přenáš</i><par n="nacház/et__vblex"/></e>
+    <e lm="praskat"><par n="v_neg"/><i>prask</i><par n="vypad/at__vblex"/></e>
+    <e lm="oblékat"><par n="v_neg"/><i>oblék</i><par n="vypad/at__vblex"/></e>
+    <e lm="prohýbat"><par n="v_neg"/><i>prohýb</i><par n="vypad/at__vblex"/></e>
+    <e lm="uvařit"><par n="v_neg"/><i>uvař</i><par n="zruš/it__vblex"/></e>
+    <e lm="skrývat"><par n="v_neg"/><i>skrýv</i><par n="vypad/at__vblex"/></e>
+    <e lm="umírat"><par n="v_neg"/><i>umír</i><par n="vypad/at__vblex"/></e>
+    <e lm="situovat"><par n="v_neg"/><i>situ</i><par n="mil/ovat__vblex"/></e>
+    <e lm="utržit"><par n="v_neg"/><i>utrž</i><par n="zruš/it__vblex"/></e>
+    <e lm="utkat"><par n="v_neg"/><i>utk</i><par n="vypad/at__vblex"/></e>
+    <e lm="pokládat"><par n="v_neg"/><i>poklád</i><par n="vypad/at__vblex"/></e>
+    <e lm="uvěřit"><par n="v_neg"/><i>uvěř</i><par n="zruš/it__vblex"/></e>
+    <e lm="používat"><par n="v_neg"/><i>použív</i><par n="vypad/at__vblex"/></e>
+    <e lm="čichat"><par n="v_neg"/><i>čich</i><par n="vypad/at__vblex"/></e>
+    <e lm="kolísat"><par n="v_neg"/><i>kolís</i><par n="vypad/at__vblex"/></e>
+    <e lm="vstřebávat"><par n="v_neg"/><i>vstřebáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="ověřit"><par n="v_neg"/><i>ověř</i><par n="zruš/it__vblex"/></e>
+    <e lm="vídávat"><par n="v_neg"/><i>vídáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="vítat"><par n="v_neg"/><i>vít</i><par n="vypad/at__vblex"/></e>
+    <e lm="rozčilit"><par n="v_neg"/><i>rozčil</i><par n="zruš/it__vblex"/></e>
+    <e lm="povolit"><par n="v_neg"/><i>povol</i><par n="zruš/it__vblex"/></e>
+    <e lm="vlévat"><par n="v_neg"/><i>vlév</i><par n="vypad/at__vblex"/></e>
+    <e lm="volat"><par n="v_neg"/><i>vol</i><par n="vypad/at__vblex"/></e>
+    <e lm="strkat"><par n="v_neg"/><i>strk</i><par n="vypad/at__vblex"/></e>
+    <e lm="vracet"><par n="v_neg"/><i>vrac</i><par n="nacház/et__vblex"/></e>
+    <e lm="napomáhat"><par n="v_neg"/><i>napomáh</i><par n="vypad/at__vblex"/></e>
+    <e lm="vložit"><par n="v_neg"/><i>vlož</i><par n="zruš/it__vblex"/></e>
+    <e lm="vybírat"><par n="v_neg"/><i>vybír</i><par n="vypad/at__vblex"/></e>
+    <e lm="vyčkávat"><par n="v_neg"/><i>vyčkáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="přednášet"><par n="v_neg"/><i>přednáš</i><par n="nacház/et__vblex"/></e>
+    <e lm="vykonávat"><par n="v_neg"/><i>vykonáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="používat"><par n="v_neg"/><i>použív</i><par n="vypad/at__vblex"/></e>
+    <e lm="vymlouvat"><par n="v_neg"/><i>vymlouv</i><par n="vypad/at__vblex"/></e>
+    <e lm="vylévat"><par n="v_neg"/><i>vylév</i><par n="vypad/at__vblex"/></e>
+    <e lm="zvracet"><par n="v_neg"/><i>zvrac</i><par n="nacház/et__vblex"/></e>
+    <e lm="vynořit"><par n="v_neg"/><i>vynoř</i><par n="zruš/it__vblex"/></e>
+    <e lm="vypařit"><par n="v_neg"/><i>vypař</i><par n="zruš/it__vblex"/></e>
+    <e lm="vyplašit"><par n="v_neg"/><i>vyplaš</i><par n="zruš/it__vblex"/></e>
+    <e lm="vyčerpávat"><par n="v_neg"/><i>vyčerpáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="propůjčit"><par n="v_neg"/><i>propůjč</i><par n="zruš/it__vblex"/></e>
+    <e lm="vyptávat"><par n="v_neg"/><i>vyptáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="vystrašit"><par n="v_neg"/><i>vystraš</i><par n="zruš/it__vblex"/></e>
+    <e lm="posílat"><par n="v_neg"/><i>posíl</i><par n="vypad/at__vblex"/></e>
+    <e lm="hledat"><par n="v_neg"/><i>hled</i><par n="vypad/at__vblex"/></e>
+    <e lm="odolávat"><par n="v_neg"/><i>odoláv</i><par n="vypad/at__vblex"/></e>
+    <e lm="vytvářet"><par n="v_neg"/><i>vytvář</i><par n="nacház/et__vblex"/></e>
+    <e lm="vyznačit"><par n="v_neg"/><i>vyznač</i><par n="zruš/it__vblex"/></e>
+    <e lm="vzrůstat"><par n="v_neg"/><i>vzrůst</i><par n="vypad/at__vblex"/></e>
+    <e lm="zaútočit"><par n="v_neg"/><i>zaútoč</i><par n="zruš/it__vblex"/></e>
+    <e lm="zabezpečit"><par n="v_neg"/><i>zabezpeč</i><par n="zruš/it__vblex"/></e>
+    <e lm="zabíjet"><par n="v_neg"/><i>zabíj</i><par n="nacház/et__vblex"/></e>
+    <e lm="zamračit"><par n="v_neg"/><i>zamrač</i><par n="zruš/it__vblex"/></e>
+    <e lm="zachovat"><par n="v_neg"/><i>zachov</i><par n="vypad/at__vblex"/></e>
+    <e lm="kochat"><par n="v_neg"/><i>koch</i><par n="vypad/at__vblex"/></e>
+    <e lm="zadlužit"><par n="v_neg"/><i>zadluž</i><par n="zruš/it__vblex"/></e>
+    <e lm="zaručit"><par n="v_neg"/><i>zaruč</i><par n="zruš/it__vblex"/></e>
+    <e lm="zabývat"><par n="v_neg"/><i>zabýv</i><par n="vypad/at__vblex"/></e>
+    <e lm="zakládat"><par n="v_neg"/><i>zaklád</i><par n="vypad/at__vblex"/></e>
+    <e lm="zaklínat"><par n="v_neg"/><i>zaklín</i><par n="vypad/at__vblex"/></e>
+    <e lm="zakrývat"><par n="v_neg"/><i>zakrýv</i><par n="vypad/at__vblex"/></e>
+    <e lm="přiložit"><par n="v_neg"/><i>přilož</i><par n="zruš/it__vblex"/></e>
+    <e lm="připojit"><par n="v_neg"/><i>připoj</i><par n="zruš/it__vblex"/></e>
+    <e lm="zanedbávat"><par n="v_neg"/><i>zanedbáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="ponořit"><par n="v_neg"/><i>ponoř</i><par n="zruš/it__vblex"/></e>
+    <e lm="zajišťovat"><par n="v_neg"/><i>zajišť</i><par n="mil/ovat__vblex"/></e>
+    <e lm="uložit"><par n="v_neg"/><i>ulož</i><par n="zruš/it__vblex"/></e>
+    <e lm="předplatit"><par n="v_neg"/><i>předpla</i><par n="ztra/tit__vblex"/></e>
+    <e lm="popírat"><par n="v_neg"/><i>popír</i><par n="vypad/at__vblex"/></e>
+    <e lm="ucpávat"><par n="v_neg"/><i>ucpáv</i><par n="vypad/at__vblex"/></e>
+    <e lm="použít"><par n="v_neg"/><i>použ</i><par n="pob/ít__vblex"/></e>
+    <e lm="zatarasit"><par n="v_neg"/><i>zataras</i><par n="zruš/it__vblex"/></e>
+    <e lm="sbírat"><par n="v_neg"/><i>sbír</i><par n="vypad/at__vblex"/></e>
+    <e lm="nabývat"><par n="v_neg"/><i>nabýv</i><par n="vypad/at__vblex"/></e>
+    <e lm="obměkčit"><par n="v_neg"/><i>obměkč</i><par n="zruš/it__vblex"/></e>
+    <e lm="naměřit"><par n="v_neg"/><i>naměř</i><par n="zruš/it__vblex"/></e>
+    <e lm="zničit"><par n="v_neg"/><i>znič</i><par n="zruš/it__vblex"/></e>
+    <e lm="snášet"><par n="v_neg"/><i>snáš</i><par n="nacház/et__vblex"/></e>
+    <e lm="ověřit"><par n="v_neg"/><i>ověř</i><par n="zruš/it__vblex"/></e>
+    <e lm="svěřit"><par n="v_neg"/><i>svěř</i><par n="zruš/it__vblex"/></e>
+    <e lm="svíjet"><par n="v_neg"/><i>svíj</i><par n="nacház/et__vblex"/></e>
+    <e lm="získávat"><par n="v_neg"/><i>získáv</i><par n="vypad/at__vblex"/></e>
+
+
+
     <e lm="bolest" c="FMT:CHECK"><i>bolest</i><par n="věc__n"/></e>
     <e lm="bratrstvo" c="FMT:CHECK"><i>bratrst</i><par n="obyvatelst/vo__n"/></e>
     <e lm="budoucnost" c="FMT:CHECK"><i>budoucnost</i><par n="věc__n"/></e>
