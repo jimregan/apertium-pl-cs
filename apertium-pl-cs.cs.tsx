@@ -25,6 +25,9 @@
   <def-label name="BYTPRES" closed="true">
     <tags-item tags="vbser.pres.*"/>
   </def-label> 
+  <def-label name="BYTIMP" closed="true">
+    <tags-item tags="vbser.imp.*"/>
+  </def-label> 
   <def-label name="IJ">
     <tags-item tags="ij"/>
   </def-label> 
