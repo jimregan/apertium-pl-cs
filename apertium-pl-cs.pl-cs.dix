@@ -10185,7 +10185,7 @@
     <e><p><l>odciążyć<s n="vblex"/></l><r>odlehčit<s n="vblex"/></r></p></e>
     <e><p><l>odcinać<s n="vblex"/></l><r>odřezávat<s n="vblex"/></r></p></e>
     <e><p><l>odcinać<s n="vblex"/></l><r>odtrhávat<s n="vblex"/></r></p></e>
-    <e><p><l>odczytać<s n="vblex"/></l><r>odečítat<s n="vblex"/></r></p></e>
+    <e><p><l>odczytać<s n="vblex"/><s n="perf"/></l><r>odečítat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>odegrać<s n="vblex"/></l><r>odehrát<s n="vblex"/></r></p></e>
     <e><p><l>odganiać<s n="vblex"/></l><r>zahánět<s n="vblex"/></r></p></e>
     <e><p><l>odgrywać<s n="vblex"/></l><r>odehrávat<s n="vblex"/></r></p></e>
@@ -10498,7 +10498,7 @@
     <e><p><l>usypiać<s n="vblex"/></l><r>uspávat<s n="vblex"/></r></p></e>
     <e><p><l>uszczelnić<s n="vblex"/></l><r>utěsnit<s n="vblex"/></r></p></e>
     <e><p><l>utargować<s n="vblex"/></l><r>utržit<s n="vblex"/></r></p></e>
-    <e><p><l>utkać<s n="vblex"/></l><r>utkat<s n="vblex"/></r></p></e>
+    <e><p><l>utkać<s n="vblex"/><s n="perf"/></l><r>utkat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>utorować<s n="vblex"/></l><r>vydláždit<s n="vblex"/></r></p></e>
     <e><p><l>utożsamiać<s n="vblex"/></l><r>ztotožnovat<s n="vblex"/></r></p></e>
     <e><p><l>uważać<s n="vblex"/></l><r>pokládat<s n="vblex"/></r></p></e>
@@ -10512,7 +10512,7 @@
     <e><p><l>wchłaniać<s n="vblex"/></l><r>vstřebávat<s n="vblex"/></r></p></e>
     <e><p><l>wepchać<s n="vblex"/></l><r>vecpat<s n="vblex"/></r></p></e>
     <e><p><l>werbować<s n="vblex"/></l><r>verbovat<s n="vblex"/></r></p></e>
-    <e><p><l>weryfikować<s n="vblex"/></l><r>ověřit<s n="vblex"/></r></p></e>
+    <e><p><l>weryfikować<s n="vblex"/><s n="imperf"/></l><r>ověřit<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>widywać<s n="vblex"/></l><r>vídávat<s n="vblex"/></r></p></e>
     <e><p><l>wikłać<s n="vblex"/></l><r>viklat<s n="vblex"/></r></p></e>
     <e><p><l>witać<s n="vblex"/></l><r>vítat<s n="vblex"/></r></p></e>
@@ -10531,7 +10531,7 @@
     <e><p><l>wspomagać<s n="vblex"/></l><r>napomáhat<s n="vblex"/></r></p></e>
     <e><p><l>wspomnieć<s n="vblex"/></l><r>vzpomenout<s n="vblex"/></r></p></e>
     <e><p><l>wstać<s n="vblex"/></l><r>vstat<s n="vblex"/></r></p></e>
-    <e><p><l>wstawiać<s n="vblex"/></l><r>vložit<s n="vblex"/></r></p></e>
+    <e><p><l>wstawiać<s n="vblex"/><s n="imperf"/></l><r>vložit<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>wstrzymać<s n="vblex"/></l><r>pozastavit<s n="vblex"/></r></p></e>
     <e><p><l>wszczepiać<s n="vblex"/></l><r>implantovat<s n="vblex"/></r></p></e>
     <e><p><l>wybierać<s n="vblex"/></l><r>vybírat<s n="vblex"/></r></p></e>
@@ -10594,7 +10594,7 @@
     <e><p><l>zablokować<s n="vblex"/></l><r>zablokovat<s n="vblex"/></r></p></e>
     <e><p><l>zachmurzyć<s n="vblex"/></l><r>zamračit<s n="vblex"/></r></p></e>
     <e><p><l>zachorować<s n="vblex"/></l><r>onemocnět<s n="vblex"/></r></p></e>
-    <e><p><l>zachować<s n="vblex"/></l><r>zachovat<s n="vblex"/></r></p></e>
+    <e><p><l>zachować<s n="vblex"/><s n="perf"/></l><r>zachovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zachwycać<s n="vblex"/></l><r>kochat<s n="vblex"/></r></p></e>
     <e><p><l>zadłużyć<s n="vblex"/></l><r>zadlužit<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>zagrać<s n="vblex"/></l><r>přehrát<s n="vblex"/></r></p></e>
@@ -10705,7 +10705,7 @@
     <e><p><l>zobaczyć<s n="vblex"/><s n="perf"/></l><r>zahlédnout<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>uwierzyć<s n="vblex"/><s n="perf"/></l><r>uvěřit<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>wynosić<s n="vblex"/><s n="imperf"/></l><r>vynosit<s n="vblex"/><s n="imperf"/></r></p></e>
-    <e><p><l>ogłupiać<s n="vblex"/><s n="perf"/></l><r>ohlupovat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>ogłupiać<s n="vblex"/><s n="imperf"/></l><r>ohlupovat<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>przekierować<s n="vblex"/><s n="perf"/></l><r>přesměrovat<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>brakować<s n="vblex"/><s n="imperf"/></l><r>brakovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>bierzmować<s n="vblex"/><s n="imperf"/></l><r>biřmovat<s n="vblex"/><s n="imperf"/></r></p></e>
