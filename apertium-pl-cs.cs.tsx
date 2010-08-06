@@ -127,6 +127,7 @@
 
   <def-label name="ADVAUX" closed="true">
     <tags-item tags="vaux"/>
+    <tags-item tags="vaux.*"/>
   </def-label> 
 
   <def-label name="AUXINF" closed="true">
