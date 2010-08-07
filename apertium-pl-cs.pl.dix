@@ -40942,6 +40942,9 @@
     <e lm="nawet jeśli"><i>nawet<b/>jeśli</i><par n="jeśli__cnjadv"/></e>
     <e lm="nawet jeżeli"><i>nawet<b/>jeżeli</i><par n="jeśli__cnjadv"/></e>
     <e lm="w ramach"><i>w<b/>ramach</i><par n="jeśli__cnjadv"/></e>
+    <e lm="w tym zakresie"><i>w<b/>tym<b/>zakresie</i><par n="jeśli__cnjadv"/></e>
+    <e lm="we własnym zakresie"><i>we<b/>własnym<b/>zakresie</i><par n="jeśli__cnjadv"/></e>
+    <e lm="w ograniczonym zakresie"><i>w<b/>ograniczonym<b/>zakresie</i><par n="jeśli__cnjadv"/></e>
 
 	<!-- Pronouns -->
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
@@ -52455,6 +52458,7 @@
     <e lm="bank"><i>bank</i><par n="brzeg__n"/></e>
     <e lm="buk"><i>buk</i><par n="brzeg__n"/></e>
     <e lm="brzeg"><i>brzeg</i><par n="brzeg__n"/></e>
+    <e lm="brzeg obszaru"><i>brzeg</i><par n="brzeg__n"/><p><l><b/>obszaru</l><r><g><b/>obszaru</g></r></p></e>
     <e lm="analiza"><i>analiz</i><par n="analiz/a__n"/></e>
     <e lm="ochrona"><i>ochron</i><par n="analiz/a__n"/></e>
     <e lm="podstawa"><i>podstaw</i><par n="analiz/a__n"/></e>

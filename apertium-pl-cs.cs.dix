@@ -48076,6 +48076,9 @@
     <e lm="třebaže"><i>třebaže</i><par n="jestli__cnjadv"/></e>
 
     <e lm="v rámci"><i>v<b/>rámci</i><par n="jestli__cnjadv"/></e>
+    <e lm="v omezené oblasti"><i>v<b/>omezené<b/>oblasti</i><par n="jestli__cnjadv"/></e>
+    <e lm="v této oblasti"><i>v<b/>této<b/>oblasti</i><par n="jestli__cnjadv"/></e>
+    <e lm="ve vlastní oblasti"><i>ve<b/>vlastní<b/>oblasti</i><par n="jestli__cnjadv"/></e>
     <e lm="však"><i>však</i><par n="jestli__cnjadv"/></e>
     <!-- ******************************
           group pr_symbol
@@ -50110,6 +50113,7 @@
     <e lm="hraběnka"><i>hraběn</i><par n="dív/ka__n"/></e>
     <e lm="hrad"><i>hrad</i><par n="byt__n"/></e>
     <e lm="hranice"><i>hranic</i><par n="plotic/e__n"/></e>
+    <e lm="hranice oblasti"><i>hranic</i><par n="plotic/e__n"/><p><l><b/>oblasti</l><r><g><b/>oblasti</g></r></p></e>
     <e lm="hranolek"><i>hranol</i><par n="zin/ek__n"/></e>
     <e lm="hračka"><i>hrač</i><par n="dív/ka__n"/></e>
     <e lm="hrdlo"><i>hrd</i><par n="más/lo__n"/></e>

@@ -338,6 +338,9 @@
     <e><p><l>zarówno<s n="cnjcoo"/></l><r>jakož<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>w<b/>ramach<s n="cnjadv"/></l><r>v<b/>rámci<s n="cnjadv"/></r></p></e>
+    <e><p><l>w<b/>tym<b/>zakresie<s n="cnjadv"/></l><r>v<b/>této<b/>oblasti<s n="cnjadv"/></r></p></e>
+    <e><p><l>we<b/>tym<b/>zakresie<s n="cnjadv"/></l><r>ve<b/>vlastní<b/>oblasti<s n="cnjadv"/></r></p></e>
+    <e><p><l>w<b/>ograniczonym<b/>zakresie<s n="cnjadv"/></l><r>v<b/>omezené<b/>oblasti<s n="cnjadv"/></r></p></e>
     <e><p><l>nie<b/>wspominając<s n="cnjadv"/></l><r>nemluvě<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>nie<b/>wspominając<b/>już<s n="cnjadv"/></l><r>nemluvě<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>nie<b/>mówiąc<b/>już<s n="cnjadv"/></l><r>nemluvě<s n="cnjadv"/></r></p></e>
@@ -9951,6 +9954,7 @@
     <e><p><l>broda<s n="n"/></l><r>brada<s n="n"/></r></p></e>
     <e><p><l>broń<g><b/>masowego<b/>rażenia</g><s n="n"/><s n="f"/></l><r>zbraň<g><b/>hromadného<b/>ničení</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>brzeg<s n="n"/><s n="mi"/></l><r>břeh<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>brzeg<g><b/>obszaru</g><s n="n"/><s n="mi"/></l><r>hranice<g><b/>oblasti</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rozumieć<s n="vblex"/></l><r>rozumět<s n="vblex"/></r></p></e>
     <e><p><l>leżeć<s n="vblex"/><s n="imperf"/></l><r>ležet<s n="vblex"/><s n="imperf"/></r></p></e>
 
