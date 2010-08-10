@@ -17,6 +17,10 @@
       <cat-item tags="SV"/>
       <cat-item tags="SV.*"/>
     </def-cat>
+    <def-cat n="SA">
+      <cat-item tags="SA"/>
+      <cat-item tags="SA.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -52,6 +56,20 @@
       <attr-item tags="pl"/>
       <attr-item tags="sp"/>
       <attr-item tags="ND"/>
+    </def-attr>
+    <def-attr n="pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+      <attr-item tags="PD"/>
+    </def-attr>
+    <def-attr n="gnr">
+      <attr-item tags="mp"/>
+      <attr-item tags="ma"/>
+      <attr-item tags="mi"/>
+      <attr-item tags="f"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="GD"/>
     </def-attr>
   </section-def-attrs>
 
@@ -121,6 +139,66 @@
             <clip pos="2" part="tags"/>
             <clip pos="2" part="chcontent"/>
             <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SN SV SA">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="SV"/>
+        <pattern-item n="SA"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" part="gnr"/>
+                <lit-tag v="GD"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" part="gnr"/>
+              <clip pos="2" part="gnr"/>
+            </let>
+            <let>
+              <clip pos="3" part="gnr"/>
+              <clip pos="2" part="gnr"/>
+            </let>
+          </when>
+          <otherwise>
+            <let>
+              <clip pos="2" part="gnr"/>
+              <clip pos="1" part="gnr"/>
+            </let>
+            <let>
+              <clip pos="3" part="gnr"/>
+              <clip pos="1" part="gnr"/>
+            </let>
+          </otherwise>
+        </choose>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lemh"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+            <clip pos="3" part="lemq"/>
           </chunk>
         </out>
       </action>
