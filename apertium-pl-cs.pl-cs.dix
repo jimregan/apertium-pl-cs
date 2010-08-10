@@ -7563,6 +7563,7 @@
     <e c="check"><p><l>język<b/>francuski<s n="n"/><s n="mi"/></l><r>francouzština<s n="n"/><s n="f"/></r></p></e>
 
     <!-- Adjectives -->
+    <e><p><l>gorący<s n="adj"/><s n="sint"/></l><r>žhavý<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>bazowy<s n="adj"/></l><r>základní<s n="adj"/><s n="sint"/></r></p></e>
     <e r="LR"><p><l>fundamentalny<s n="adj"/></l><r>základní<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>fundamentalistyczny<s n="adj"/></l><r>fundamentalistický<s n="adj"/></r></p></e>
@@ -8296,8 +8297,6 @@
     <e><p><l>naftowy<s n="adj"/></l><r>petrolejový<s n="adj"/></r></p></e>
     <e><p><l>najciemniejszy<s n="adj"/></l><r>tmavý<s n="adj"/></r></p></e>
     <e><p><l>najdrobniejszy<s n="adj"/></l><r>sebemenší<s n="adj"/></r></p></e>
-    <e><p><l>najlepszy<s n="adj"/></l><r>dobrý<s n="adj"/></r></p></e>
-    <e><p><l>najmniejszy<s n="adj"/></l><r>sebemenší<s n="adj"/></r></p></e>
     <e><p><l>namacalny<s n="adj"/></l><r>hmatatelný<s n="adj"/></r></p></e>
     <e><p><l>naoczny<s n="adj"/></l><r>očitý<s n="adj"/></r></p></e>
     <e><p><l>napędowy<s n="adj"/></l><r>hnací<s n="adj"/></r></p></e>
@@ -9994,7 +9993,12 @@
     <e><p><l>królestwo<s n="n"/><s n="nt"/></l><r>království<s n="n"/><s n="nt"/></r></p></e>
 
 	<!-- Verbs -->
-
+    <e><p><l>zabić<s n="vblex"/><s n="perf"/></l><r>zabít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>tańczyć<s n="vblex"/><s n="imperf"/></l><r>tančit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>przełożyć<s n="vblex"/><s n="perf"/></l><r>přeložit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>podobać<s n="vblex"/><s n="imperf"/></l><r>líbit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>usiąść<s n="vblex"/><s n="perf"/></l><r>usednout<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>kuć<s n="vblex"/><s n="imperf"/></l><r>kout<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>deformować<s n="vblex"/><s n="imperf"/></l><r>deformovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>demonstrować<s n="vblex"/><s n="imperf"/></l><r>demonstrovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>dokumentować<s n="vblex"/><s n="imperf"/></l><r>dokumentovat<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -10424,7 +10428,6 @@
     <e><p><l>sformować<s n="vblex"/></l><r>zformovat<s n="vblex"/></r></p></e>
     <e><p><l>sfotografować<s n="vblex"/></l><r>ofotografovat<s n="vblex"/></r></p></e>
     <e><p><l>sfotografować<s n="vblex"/></l><r>vyfotografovat<s n="vblex"/></r></p></e>
-    <e><p><l>siać<s n="vblex"/></l><r>sít<s n="vblex"/></r></p></e>
     <e><p><l>skanować<s n="vblex"/></l><r>skenovat<s n="vblex"/></r></p></e>
     <e><p><l>skasować<s n="vblex"/></l><r>smazat<s n="vblex"/></r></p></e>
     <e><p><l>skierować<s n="vblex"/></l><r>cílit<s n="vblex"/></r></p></e>
@@ -11001,7 +11004,6 @@
     <e><p><l>kopać<s n="vblex"/></l><r>bagrovat<s n="vblex"/></r></p></e>
     <e><p><l>bać<s n="vblex"/></l><r>bát<s n="vblex"/></r></p></e>
     <e><p><l>bilansować<s n="vblex"/></l><r>bilancovat<s n="vblex"/></r></p></e>
-    <e><p><l>bić<s n="vblex"/></l><r>bít<s n="vblex"/></r></p></e>
     <e><p><l>blednąć<s n="vblex"/></l><r>blednout<s n="vblex"/></r></p></e>
     <e><p><l>błądzić<s n="vblex"/></l><r>bloudit<s n="vblex"/></r></p></e>
     <e><p><l>błysnąć<s n="vblex"/></l><r>blýsknut<s n="vblex"/></r></p></e>
@@ -11198,7 +11200,6 @@
     <e><p><l>izolować<s n="vblex"/></l><r>izolovat<s n="vblex"/></r></p></e>
     <e><p><l>jęczeć<s n="vblex"/></l><r>ječet<s n="vblex"/></r></p></e>
     <e><p><l>jeździć<s n="vblex"/></l><r>jezdit<s n="vblex"/></r></p></e>
-    <e><p><l>jeść<s n="vblex"/></l><r>jíst<s n="vblex"/></r></p></e>
     <e><p><l>kalkulować<s n="vblex"/></l><r>kalkulovat<s n="vblex"/></r></p></e>
     <e><p><l>kamieniować<s n="vblex"/></l><r>kamenovat<s n="vblex"/></r></p></e>
     <e><p><l>kandydować<s n="vblex"/></l><r>kandidovat<s n="vblex"/></r></p></e>
@@ -13067,6 +13068,7 @@
     <e c="FMT:CHECK"><p><l>Daleki<b/>Wschód<s n="np"/><s n="top"/><s n="mi"/></l><r>Dálný<b/>Východ<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
 
 
+    <e><p><l>Praga<s n="np"/><s n="top"/><s n="f"/></l><r>Praha<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Belgia<s n="np"/><s n="top"/><s n="f"/></l><r>Belgie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Kanada<s n="np"/><s n="top"/><s n="f"/></l><r>Kanada<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Francja<s n="np"/><s n="top"/><s n="f"/></l><r>Francie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -13483,6 +13485,7 @@
 	  </p>
 	</e>
 -->
+    <e><p><l>przyjść<s n="vblex"/><s n="perf"/></l><r>přijít<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>powinien<s n="vaux"/></l><r>povinen<s n="vaux"/></r></p></e>
     <e><p><l>móc<s n="vaux"/><s n="imperf"/></l><r>moci<s n="vaux"/><s n="imperf"/></r></p></e>
     <e><p><l>musieć<s n="vaux"/><s n="imperf"/></l><r>muset<s n="vaux"/><s n="imperf"/></r></p></e>
@@ -13493,6 +13496,10 @@
     <e><p><l>wiedzieć<s n="vblex"/><s n="imperf"/></l><r>vědět<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>chcieć<s n="vblex"/><s n="imperf"/></l><r>chtít<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>jeść<s n="vblex"/><s n="imperf"/></l><r>jíst<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>pić<s n="vblex"/><s n="imperf"/></l><r>pít<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>bić<s n="vblex"/></l><r>bít<s n="vblex"/></r></p></e>
+    <e><p><l>szyć<s n="vblex"/></l><r>šít<s n="vblex"/></r></p></e>
+    <e><p><l>siać<s n="vblex"/></l><r>sít<s n="vblex"/></r></p></e>
     <e><p><l>brać<s n="vblex"/><s n="imperf"/></l><r>brát<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>wziąć<s n="vblex"/><s n="perf"/></l><r>vzít<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>pojechać<s n="vblex"/><s n="perf"/></l><r>projet<s n="vblex"/><s n="perf"/></r></p></e>

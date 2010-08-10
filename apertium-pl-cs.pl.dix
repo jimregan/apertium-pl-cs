@@ -13007,7 +13007,36 @@
         </p>
       </e>
     </pardef>
-
+    <pardef n="gorąc/y__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>y<s n="adj"/><s n="sint"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>y<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="badawcz/y__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>y<s n="adj"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>y<s n="adj"/><s n="cpd"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__czytaj">
        <e>
          <p>
@@ -17378,6 +17407,170 @@
         </p>
       </e>
     </pardef>
+    <pardef n="podoba/ć__vblex">
+      <e>
+         <p>
+          <l>ć</l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>m</l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sz</l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>my</l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cie</l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ją</l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l>j</l>
+          <r>ć<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+
+      <e>
+        <p>
+          <l></l>
+          <r>ć<s n="vblex"/><s n="imperf"/></r>
+        </p>
+        <par n="BASE__czytałem"/>
+      </e>
+
+      <e>
+        <p>
+          <l>jąc</l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__będący"/>
+      </e>
+
+      <e>
+        <p>
+          <l>jąc</l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adv"/></r>
+        </p>
+      </e>
+
+      <e>
+        <p>
+          <l></l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+
+      <e>
+        <p>
+          <l>n</l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__kochany"/>
+      </e>
+      <e>
+        <p>
+          <l>no</l>
+          <r>ć<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="zabi/ć__vblex">
+      <e>
+        <p>
+          <l>ć</l>
+          <r>ć<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ję</l>
+          <r>ć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>je</l>
+          <r>ć<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>ją</l>
+          <r>ć<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>j</l>
+          <r>ć<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ć<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytałem"/>
+      </e>
+      <e>
+        <p>
+          <l>to</l>
+          <r>ć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ty</l>
+          <r>ć<s n="vblex"/><s n="perf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__wzięty"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ć<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__picie"/>
+      </e>
+      <e>
+        <p>
+          <l>lwszy</l>
+          <r>ć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="bi/ć__vblex">
       <e>
          <p>
@@ -21148,7 +21341,7 @@
       <e>
         <p>
           <l>adłszy</l>
-          <r>eźć<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+          <r>ąść<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
         </p>
       </e>
     </pardef>
@@ -21255,7 +21448,7 @@
       <e>
         <p>
           <l></l>
-          <r>eść<s n="vblex"/><s n="imperf"/><s n="past"/></r>
+          <r>eść<s n="vblex"/><s n="imperf"/></r>
         </p>
         <par n="BASE__niosłem"/>
       </e>
@@ -21291,6 +21484,73 @@
           <r>eść<s n="vblex"/><s n="imperf"/><s n="pprs"/></r>
         </p>
         <par n="BASE__będący"/>
+      </e>
+    </pardef>
+    <pardef n="przyni/eść__vblex">
+      <e>
+        <p>
+          <l>eść</l>
+          <r>eść<s n="vblex"/><s n="perf"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>osę</l>
+          <r>eść<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esie</l>
+          <r>eść<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        </p>
+        <par n="BASE__czyta"/>
+      </e>
+      <e>
+        <p>
+          <l>osą</l>
+          <r>eść<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eś</l>
+          <r>eść<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__czytaj"/>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>eść<s n="vblex"/><s n="perf"/></r>
+        </p>
+        <par n="BASE__niosłem"/>
+      </e>
+      <e>
+        <p>
+          <l>esiono</l>
+          <r>eść<s n="vblex"/><s n="perf"/><s n="pp"/><s n="impers"/><s n="nt"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esi</l>
+          <r>eść<s n="vblex"/><s n="perf"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__jedzony"/>
+      </e>
+      <e>
+        <p>
+          <l>esie</l>
+          <r>eść<s n="vblex"/><s n="perf"/><s n="ger"/></r>
+        </p>
+        <par n="BASE__zdanie"/>
+      </e>
+      <e>
+        <p>
+          <l>esiąwszy</l>
+          <r>eść<s n="vblex"/><s n="perf"/><s n="pp"/><s n="adv"/></r>
+        </p>
       </e>
     </pardef>
     <pardef n="/orać__vblex">
@@ -29834,6 +30094,15 @@
         <p>
           <l></l>
           <r>ga<s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__flaga"/>
+      </e>
+    </pardef>
+    <pardef n="Pra/ga__np">
+      <e>
+        <p>
+          <l></l>
+          <r>ga<s n="np"/><s n="top"/></r>
         </p>
         <par n="BASE__flaga"/>
       </e>
@@ -41116,6 +41385,9 @@
 
     <!-- Adjectives -->
     <!-- Synthetic adjectives -->
+    <e lm="gorący"><i>gorąc</i><par n="gorąc/y__adj"/></e>
+    <e lm="gorący"><p><l>goręt</l><r>gorący</r></p><par n="lep/szy__adj"/></e>
+    <e lm="gorący"><p><l>najgoręt</l><r>gorący</r></p><par n="najlep/szy__adj"/></e>
     <e lm="tani"><i>tan</i><par n="głup/i__adj"/></e>
     <e lm="tani"><p><l>tań</l><r>tani</r></p><par n="lep/szy__adj"/></e>
     <e lm="tani"><p><l>najtań</l><r>tani</r></p><par n="najlep/szy__adj"/></e>
@@ -44443,6 +44715,14 @@
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
 
+    <e lm="zabić"><i>zabi</i><par n="zabi/ć__vblex"/></e>
+    <e lm="przynieść"><i>przyni</i><par n="przyni/eść__vblex"/></e>
+    <e lm="tańczyć"><i>tańcz</i><par n="wierz/yć__vblex"/></e>
+    <e lm="obawiać"><i>obawia</i><par n="podoba/ć__vblex"/></e>
+    <e lm="podobać"><i>podoba</i><par n="podoba/ć__vblex"/></e>
+    <e lm="kuć"><i>ku</i><par n="bi/ć__vblex"/></e>
+    <e lm="pić"><i>pi</i><par n="bi/ć__vblex"/></e>
+    <e lm="szyć"><i>szy</i><par n="bi/ć__vblex"/></e>
     <e lm="napompować"><i>napomp</i><par n="namal/ować__vblex"/></e>
     <e lm="odczytać"><i>odczyta</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="ogłupiać"><i>ogłupi</i><par n="czyt/ać__vblex"/></e>
@@ -44454,7 +44734,6 @@
     <e lm="weryfikować"><i>weryfik</i><par n="mal/ować__vblex"/></e>
     <e lm="wstawiać"><i>wstawi</i><par n="czyt/ać__vblex"/></e>
     <e lm="zachować"><i>zachowa</i><par n="przeczyt/ać__vblex"/></e>
-
 
     <e lm="szaleć"><i>szal</i><par n="szal/eć__vblex"/></e>
     <e lm="usiąść"><i>usi</i><par n="usi/ąść__vblex"/></e>
@@ -44836,7 +45115,7 @@
     <e lm="pochłaniać"><i>pochłani</i><par n="czyt/ać__vblex"/></e>
     <e lm="pocieszać"><i>pociesz</i><par n="czyt/ać__vblex"/></e>
     <e lm="począć"><i>pocz</i><par n="przekl/ąć__vblex"/></e>
-    <e lm="poczekać"><i>poczek</i><par n="czyt/ać__vblex"/></e>
+    <e lm="poczekać"><i>poczek</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="poczynać"><i>poczyn</i><par n="czyt/ać__vblex"/></e>
     <e lm="podawać"><i>poda</i><par n="da/wać__vblex"/></e>
     <e lm="podejrzewać"><i>podejrzew</i><par n="czyt/ać__vblex"/></e>
@@ -53746,6 +54025,7 @@
     <e lm="Tybetanka"><i>Tybetan</i><par n="mat/ka__n"/></e>
 
     <!-- Proper Nouns -->
+    <e lm="Praga"><i>Pra</i><par n="Pra/ga__np"/></e>
     <e lm="Kosowo"><i>Kosow</i><par n="Wiln/o__np"/></e>
     <e lm="Brenda"><i>Brend</i><par n="Wand/a__np"/></e>
     <e lm="Linda"><i>Lind</i><par n="Wand/a__np"/></e>

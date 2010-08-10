@@ -1278,6 +1278,80 @@
      </action>
   </rule>
 
+  <rule comment="powinienem był -> jsem byl povinen">
+     <pattern>
+       <pattern-item n="powinien"/>
+       <pattern-item n="bycpast"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="nbr"/>
+               <lit-tag v="pl"/>
+             </equal>
+           </test>
+           <choose>
+             <when>
+               <test>
+                 <equal>
+                   <clip pos="1" side="sl" part="gen"/>
+                   <lit-tag v="mp"/>
+                 </equal>
+               </test>
+               <let>
+                 <clip pos="1" side="tl" part="gen"/>
+                 <lit-tag v="ma"/>
+               </let>
+             </when>
+             <otherwise>
+               <let>
+                 <clip pos="1" side="tl" part="gen"/>
+                 <lit-tag v="GD"/>
+               </let>
+             </otherwise>
+           </choose>
+         </when>
+       </choose>
+       <out>
+         <chunk name="vaux" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+             <tag><clip pos="1" side="sl" part="prs"/></tag>
+             <tag><clip pos="1" side="tl" part="gen"/></tag>
+             <tag><clip pos="1" side="tl" part="nbr"/></tag>
+           </tags>
+           <lu>
+             <lit v="být"/>
+             <lit-tag v="vbser"/>
+             <lit-tag v="pres"/>
+             <clip pos="1" side="sl" part="prs" link-to="2"/>
+             <clip pos="1" side="tl" part="nbr" link-to="4"/>
+           </lu>
+           <b/>
+           <lu>
+             <lit v="být"/>
+             <lit-tag v="vbser"/>
+             <lit-tag v="past"/>
+             <clip pos="1" side="tl" part="gen" link-to="3"/>
+             <clip pos="1" side="tl" part="nbr" link-to="4"/>
+           </lu>
+           <b/>
+           <lu>
+             <clip pos="1" side="tl" part="lem"/>
+             <clip pos="1" side="tl" part="a_vrb"/>
+             <clip pos="1" side="tl" part="gen" link-to="3"/>
+             <clip pos="1" side="tl" part="nbr" link-to="4"/>
+           </lu>
+         </chunk>
+       </out>
+     </action>
+  </rule>
+
   <rule comment="był -> byl">
      <pattern>
        <pattern-item n="bycpast"/>

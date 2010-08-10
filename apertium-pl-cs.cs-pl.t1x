@@ -790,10 +790,16 @@
 	    <when>
 	      <test>
 	        <and>
+	          <or>
+		      <equal caseless="yes">
+		  	    <clip pos="1" side="sl" part="a_adj"/> 
+		  		<lit-tag v="adj.sint.comp"/>
+			  </equal>
 		      <equal caseless="yes">
 		  	    <clip pos="1" side="sl" part="a_adj"/> 
 		  		<lit-tag v="adj.comp"/>
 			  </equal>
+	          </or>
               <not>
  		  	   <equal>
 		         <clip pos="1" side="tl" part="a_adj"/> 
