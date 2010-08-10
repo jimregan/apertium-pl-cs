@@ -137,7 +137,9 @@
      <cat-item tags="prn.p3.*"/>
   </def-cat>
   <def-cat n="prn">
-     <cat-item tags="prn.*"/>
+     <cat-item tags="prn.ind.*"/>
+     <cat-item tags="prn.pos.*"/>
+     <cat-item tags="prn.itg.*"/>
   </def-cat>
   <def-cat n="neg">
      <cat-item lemma="ne" tags="adv"/>
@@ -350,6 +352,7 @@
     <list-item v="między"/>
   </def-list>
   <def-list n="gen_prep">
+    <list-item v="do"/>
     <list-item v="podczas"/>
     <list-item v="mimo"/>
     <list-item v="pomimo"/>
@@ -2233,7 +2236,7 @@
               <tag><lit-tag v="ins"/></tag>
             </tags>
             <lu>
-              <lit v="pomiędzy"/>
+              <lit v="między"/>
               <lit-tag v="pr"/>
             </lu>
             <b pos="1"/>
@@ -2253,7 +2256,6 @@
         </out>
       </action>
     </rule>
-
 
     <rule> <!-- REGLA: reset variables-->
       <pattern>

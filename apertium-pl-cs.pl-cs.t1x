@@ -78,7 +78,9 @@
      <cat-item tags="num.*"/>
   </def-cat>
   <def-cat n="prn">
-     <cat-item tags="prn.*"/>
+     <cat-item tags="prn.ind.*"/>
+     <cat-item tags="prn.pos.*"/>
+     <cat-item tags="prn.itg.*"/>
   </def-cat>
   <def-cat n="prnref">
      <cat-item tags="prn.ref.*"/>

@@ -8,6 +8,7 @@
     </def-cat>
     <def-cat n="PREP">
       <cat-item tags="PREP"/>
+      <cat-item tags="PREP.*"/>
     </def-cat>
     <def-cat n="SN">
       <cat-item tags="SN"/>
@@ -71,11 +72,58 @@
       <attr-item tags="nt"/>
       <attr-item tags="GD"/>
     </def-attr>
+    <def-attr n="cas">
+       <attr-item tags="nom"/>
+       <attr-item tags="gen"/>
+       <attr-item tags="dat"/>
+       <attr-item tags="acc"/>
+       <attr-item tags="ins"/>
+       <attr-item tags="loc"/>
+       <attr-item tags="voc"/>
+       <attr-item tags="CD"/>
+       <attr-item tags="indecl"/>
+    </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
     <def-var n="numero"/>
   </section-def-vars>
+
+  <section-def-lists>
+    <def-list n="gen_prep">
+      <list-item v="do"/>
+      <list-item v="podczas"/>
+      <list-item v="mimo"/>
+      <list-item v="pomimo"/>
+      <list-item v="według"/>
+      <list-item v="wedle"/>
+      <list-item v="niedaleko"/>
+      <list-item v="zamiast"/>
+      <list-item v="w czasie"/>
+      <list-item v="w trakcie"/>
+      <list-item v="w przeciągu"/>
+    </def-list>
+    <def-list n="dat_prep">
+      <list-item v="ku"/>
+      <list-item v="dzięki"/>
+      <list-item v="wbrew"/>
+      <list-item v="przeciw"/>
+      <list-item v="przeciwko"/>
+    </def-list>
+    <def-list n="ins_prep">
+      <list-item v="między"/>
+    </def-list>
+    <def-list n="insacc_prep">
+      <list-item v="nad"/>
+      <list-item v="pod"/>
+      <list-item v="przed"/>
+    </def-list>
+    <def-list n="locacc_prep">
+      <list-item v="o"/>
+      <list-item v="w"/>
+      <list-item v="na"/>
+    </def-list>
+  </section-def-lists>
 
   <section-def-macros>
     <def-macro n="set_number" npar="1">
@@ -193,6 +241,68 @@
           <clip pos="2" part="tipus_prn"/>
           <lit-tag v="obj"/>
         </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: PREP SN">
+      <pattern>
+        <pattern-item n="PREP"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <in caseless="yes">
+                <clip pos="1" part="lem"/>
+              	<list n="gen_prep"/>
+              </in>
+            </test> 
+            <let>
+                <clip pos="2" part="cas"/>
+                <lit-tag v="gen"/>
+            </let>
+          </when>
+          <when>
+            <test>
+              <in caseless="yes">
+                <clip pos="1" part="lem"/>
+              	<list n="dat_prep"/>
+              </in>
+            </test> 
+            <let>
+                <clip pos="2" part="cas"/>
+                <lit-tag v="dat"/>
+            </let>
+          </when>
+          <when>
+            <test>
+              <in caseless="yes">
+                <clip pos="1" part="lem"/>
+              	<list n="ins_prep"/>
+              </in>
+            </test> 
+            <let>
+                <clip pos="2" part="cas"/>
+                <lit-tag v="ins"/>
+            </let>
+          </when>
+        </choose>
         <out>
           <chunk>
             <clip pos="1" part="lemh"/>
