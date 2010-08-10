@@ -11,6 +11,9 @@
     <def-cat n="nom">
       <cat-item name="nom"/>
     </def-cat>
+    <def-cat n="adv">
+      <cat-item name="adv"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -19,6 +22,8 @@
     </def-attr>
     <def-attr n="gen">
       <attr-item tags="m"/>
+      <attr-item tags="mi"/>
+      <attr-item tags="ma"/>
       <attr-item tags="f"/>
       <attr-item tags="mf"/>
       <attr-item tags="nt"/>
@@ -46,6 +51,9 @@
       <attr-item tags="CD"/>
       <attr-item tags="indecl"/>
     </def-attr>
+    <def-attr n="a_adv">
+       <attr-item tags="adv"/>
+    </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
@@ -71,53 +79,117 @@
         <pattern-item n="verb"/>
       </pattern>
       <action>
-        <choose>
-          <when>
-            <test>
+      <choose>
+        <when>
+          <test>
+            <not>
               <equal>
-                <clip pos="1" part="pers"/>
-                <lit-tag v="PD"/>
+                <clip pos="1" part="a_adv"/>
+                <lit-tag v="adv"/>
               </equal>
-            </test>
-            <let>
-              <clip pos="1" part="pers"/>
-              <lit-tag v="p3"/>
-            </let>
-          </when>
-        </choose>
-        <choose>
-          <when>
-            <test>
-              <and>
+            </not>
+          </test>
+          <choose>
+            <when>
+              <test>
                 <equal>
-                  <clip pos="1" part="nbr"/>
-                  <lit-tag v="pl"/>
+                  <clip pos="1" part="pers"/>
+                  <lit-tag v="PD"/>
                 </equal>
-                <or>
+              </test>
+              <let>
+                <clip pos="1" part="pers"/>
+                <lit-tag v="p3"/>
+              </let>
+            </when>
+          </choose>
+          <choose>
+            <when>
+              <test>
+                <and>
                   <equal>
-                    <clip pos="1" part="gen"/>
-                    <lit-tag v="nt"/>
+                    <clip pos="1" part="nbr"/>
+                    <lit-tag v="pl"/>
                   </equal>
+                  <or>
+                    <equal>
+                      <clip pos="1" part="gen"/>
+                      <lit-tag v="nt"/>
+                    </equal>
+                    <equal>
+                      <clip pos="1" part="gen"/>
+                      <lit-tag v="f"/>
+                    </equal>
+                  </or>
+                </and>
+              </test>
+              <let>
+                <clip pos="1" part="gen"/>
+                <lit-tag v="nm"/>
+              </let>
+            </when>
+          </choose>
+          <out>
+            <lu>
+              <clip pos="1" part="whole"/>
+            </lu>
+          </out>
+        </when>
+        <otherwise>
+          <choose>
+            <when>
+              <test>
+                <equal>
+                  <clip pos="2" part="pers"/>
+                  <lit-tag v="PD"/>
+                </equal>
+              </test>
+              <let>
+                <clip pos="2" part="pers"/>
+                <lit-tag v="p3"/>
+              </let>
+            </when>
+          </choose>
+          <choose>
+            <when>
+              <test>
+                <and>
                   <equal>
-                    <clip pos="1" part="gen"/>
-                    <lit-tag v="f"/>
+                    <clip pos="2" part="nbr"/>
+                    <lit-tag v="pl"/>
                   </equal>
-                </or>
-              </and>
-            </test>
-            <let>
-              <clip pos="1" part="gen"/>
-              <lit-tag v="nm"/>
-            </let>
-          </when>
-        </choose>
-        <out>
-          <lu>
-            <clip pos="1" part="whole"/>
-          </lu>
-        </out>
+                  <or>
+                    <equal>
+                      <clip pos="2" part="gen"/>
+                      <lit-tag v="nt"/>
+                    </equal>
+                    <equal>
+                      <clip pos="2" part="gen"/>
+                      <lit-tag v="f"/>
+                    </equal>
+                  </or>
+                </and>
+              </test>
+              <let>
+                <clip pos="2" part="gen"/>
+                <lit-tag v="nm"/>
+              </let>
+            </when>
+          </choose>
+          <out>
+            <lu>
+              <clip pos="1" part="whole"/>
+            </lu>
+		    <b/>
+            <lu>
+              <clip pos="2" part="whole"/>
+            </lu>
+          </out>
+        </otherwise>
+      </choose>
       </action>
     </rule>
+
     <rule comment="CHUNK: verb">
       <pattern>
         <pattern-item n="aux_inf"/>

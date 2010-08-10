@@ -14,6 +14,14 @@
      <cat-item tags="vbhaver.*"/>
      <cat-item tags="vaux.*"/>
   </def-cat>
+  <def-cat n="verbpres">
+     <cat-item tags="vblex.imperf.pres"/>
+     <cat-item tags="vblex.imperf.pres.*"/>
+     <cat-item tags="vbhaver.imperf.pres"/>
+     <cat-item tags="vbhaver.imperf.pres.*"/>
+     <cat-item tags="vaux.imperf.pres"/>
+     <cat-item tags="vaux.imperf.pres.*"/>
+  </def-cat>
   <def-cat n="verbpast">
      <cat-item tags="vblex.imperf.past"/>
      <cat-item tags="vblex.imperf.past.*"/>
@@ -262,6 +270,7 @@
      <attr-item tags="prn"/>
      <attr-item tags="prn.ind"/>
      <attr-item tags="prn.itg"/>
+     <attr-item tags="prn.pos"/>
   </def-attr>
 
   <def-attr n="a_det">
@@ -1388,7 +1397,74 @@
 
 <!-- Reguły czasownikowe -->
 
-  <rule comment="čítal -> czytał">
+  <rule comment="čtu -> czyta">
+     <pattern>
+       <pattern-item n="verbpres"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="verb" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="asp"/></tag>
+              <tag><lit-tag v="pres"/></tag>
+              <tag><lit-tag v="PD"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <clip pos="1" side="tl" part="asp" link-to="2"/>
+              <clip pos="1" side="tl" part="tns" link-to="3"/>
+              <lit-tag v="4"/>
+              <clip pos="1" side="tl" part="nbr" link-to="5"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+  <rule comment="nečtu -> nie czyta">
+     <pattern>
+       <pattern-item n="neg"/>
+       <pattern-item n="verbpres"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="verb" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV.NEG"/></tag>
+              <tag><clip pos="2" side="tl" part="asp"/></tag>
+              <tag><lit-tag v="pres"/></tag>
+              <tag><lit-tag v="PD"/></tag>
+              <tag><clip pos="2" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_vrb"/>
+              <clip pos="2" side="tl" part="asp" link-to="3"/>
+              <clip pos="2" side="tl" part="tns" link-to="4"/>
+              <lit-tag v="5"/>
+              <clip pos="2" side="tl" part="nbr" link-to="6"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+  <rule comment="četl -> czytał">
      <pattern>
        <pattern-item n="verbpast"/>
      </pattern>
@@ -1418,6 +1494,47 @@
               <clip pos="1" side="tl" part="gen" link-to="5"/>
               <clip pos="1" side="tl" part="nbr" link-to="6"/>
               <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+  <rule comment="nečetl -> nie czytał">
+     <pattern>
+       <pattern-item n="neg"/>
+       <pattern-item n="verbpast"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_mi_ma">
+         <with-param pos="2"/>
+       </call-macro>
+       <out>
+         <chunk name="verb" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV.NEG"/></tag>
+              <tag><clip pos="2" side="tl" part="asp"/></tag>
+              <tag><lit-tag v="past"/></tag>
+              <tag><lit-tag v="PD"/></tag>
+              <tag><clip pos="2" side="tl" part="gen"/></tag>
+              <tag><clip pos="2" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_vrb"/>
+              <clip pos="2" side="tl" part="asp" link-to="3"/>
+              <clip pos="2" side="tl" part="tns" link-to="4"/>
+              <lit-tag v="5"/>
+              <clip pos="2" side="tl" part="gen" link-to="6"/>
+              <clip pos="2" side="tl" part="nbr" link-to="7"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -1694,7 +1811,8 @@
         </out>
      </action>
   </rule>
-  <rule comment="čítal som -> czytałem">
+
+  <rule comment="četl jsem -> czytałem">
      <pattern>
        <pattern-item n="verbpast"/>
        <pattern-item n="bytpres"/>
@@ -1726,7 +1844,49 @@
         </out>
      </action>
   </rule>
-  <rule comment="som čítal -> czytałem">
+
+  <rule comment="nečetl jsem -> nie czytałem">
+     <pattern>
+       <pattern-item n="neg"/>
+       <pattern-item n="verbpast"/>
+       <pattern-item n="bytpres"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_mi_ma">
+         <with-param pos="2"/>
+       </call-macro>
+       <out>
+         <chunk name="verb" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV.NEG"/></tag>
+              <tag><clip pos="2" side="tl" part="asp"/></tag>
+              <tag><lit-tag v="past"/></tag>
+              <tag><clip pos="3" side="tl" part="prs"/></tag>
+              <tag><clip pos="2" side="tl" part="gen"/></tag>
+              <tag><clip pos="3" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_vrb"/>
+              <clip pos="2" side="tl" part="asp" link-to="3"/>
+              <clip pos="2" side="tl" part="tns" link-to="4"/>
+              <clip pos="3" side="tl" part="prs" link-to="5"/>
+              <clip pos="2" side="tl" part="gen" link-to="6"/>
+              <clip pos="3" side="tl" part="nbr" link-to="7"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+  <rule comment="jsem četl -> czytałem">
      <pattern>
        <pattern-item n="bytpres"/>
        <pattern-item n="verbpast"/>
@@ -1734,6 +1894,9 @@
      <action>
        <call-macro n="firstWord">
          <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_mi_ma">
+         <with-param pos="2"/>
        </call-macro>
        <out>
          <chunk name="verb" case="caseFirstWord">
@@ -1758,6 +1921,48 @@
         </out>
      </action>
   </rule>
+
+  <rule comment="jsem nečetl -> nie czytałem">
+     <pattern>
+       <pattern-item n="bytpres"/>
+       <pattern-item n="neg"/>
+       <pattern-item n="verbpast"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_mi_ma">
+         <with-param pos="3"/>
+       </call-macro>
+       <out>
+         <chunk name="verb" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV.NEG"/></tag>
+              <tag><clip pos="3" side="tl" part="asp"/></tag>
+              <tag><lit-tag v="past"/></tag>
+              <tag><clip pos="1" side="tl" part="prs"/></tag>
+              <tag><clip pos="3" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_vrb"/>
+              <clip pos="3" side="tl" part="asp" link-to="3"/>
+              <clip pos="3" side="tl" part="tns" link-to="4"/>
+              <clip pos="1" side="tl" part="prs" link-to="5"/>
+              <clip pos="3" side="tl" part="gen" link-to="6"/>
+              <clip pos="1" side="tl" part="nbr" link-to="7"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
   <rule comment="čítal by som -> czytałbym">
      <pattern>
        <pattern-item n="verbpast"/>
