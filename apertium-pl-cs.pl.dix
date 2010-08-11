@@ -41452,6 +41452,9 @@
 
     <!-- Adjectives -->
     <!-- Synthetic adjectives -->
+    <e lm="głośny"><i>głośn</i><par n="now/y__adj"/></e>
+    <e lm="głośny"><p><l>głośniej</l><r>głośny</r></p><par n="lep/szy__adj"/></e>
+    <e lm="głośny"><p><l>najgłośniej</l><r>głośny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="gorący"><i>gorąc</i><par n="gorąc/y__adj"/></e>
     <e lm="gorący"><p><l>goręt</l><r>gorący</r></p><par n="lep/szy__adj"/></e>
     <e lm="gorący"><p><l>najgoręt</l><r>gorący</r></p><par n="najlep/szy__adj"/></e>
@@ -42744,7 +42747,6 @@
     <e lm="grupowy"><i>grupow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="gwiazdowy"><i>gwiazdow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="głodny"><i>głodn</i><par n="egzotermiczn/y__adj"/></e>
-    <e lm="głośny"><i>głośn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="głuchoniemy"><i>głuchoniem</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="górny"><i>górn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="halowy"><i>halow</i><par n="egzotermiczn/y__adj"/></e>

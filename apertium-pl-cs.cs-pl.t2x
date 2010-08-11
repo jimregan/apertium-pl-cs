@@ -26,6 +26,18 @@
       <cat-item tags="SA"/>
       <cat-item tags="SA.*"/>
     </def-cat>
+    <def-cat n="ADV">
+      <cat-item tags="ADV"/>
+      <cat-item tags="ADV.*"/>
+    </def-cat>
+    <def-cat n="NUM">
+      <cat-item tags="NUM"/>
+      <cat-item tags="NUM.*"/>
+    </def-cat>
+    <def-cat n="DET">
+      <cat-item tags="DET"/>
+      <cat-item tags="DET.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -69,6 +81,7 @@
       <attr-item tags="PD"/>
     </def-attr>
     <def-attr n="gnr">
+      <attr-item tags="m"/>
       <attr-item tags="mp"/>
       <attr-item tags="ma"/>
       <attr-item tags="mi"/>
@@ -96,6 +109,7 @@
   <section-def-lists>
     <def-list n="gen_prep">
       <list-item v="do"/>
+      <list-item v="dookoła"/>
       <list-item v="podczas"/>
       <list-item v="mimo"/>
       <list-item v="pomimo"/>
@@ -198,6 +212,78 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: SA SN">
+      <pattern>
+        <pattern-item n="SA"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" part="gnr"/>
+          <clip pos="2" part="gnr"/>
+        </let>
+        <let>
+          <clip pos="1" part="cas"/>
+          <clip pos="2" part="cas"/>
+        </let>
+        <let>
+          <clip pos="1" part="nbr"/>
+          <clip pos="2" part="nbr"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: DET SN">
+      <pattern>
+        <pattern-item n="DET"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" part="gnr"/>
+          <clip pos="2" part="gnr"/>
+        </let>
+        <let>
+          <clip pos="1" part="nbr"/>
+          <clip pos="2" part="nbr"/>
+        </let>
+        <let>
+          <clip pos="1" part="cas"/>
+          <clip pos="2" part="cas"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: SVNEG SN">
       <pattern>
         <pattern-item n="SVNEG"/>
@@ -265,6 +351,47 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: SN ADV SV">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="ADV"/>
+        <pattern-item n="SV"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="3" part="gnr"/>
+          <clip pos="1" part="gnr"/>
+        </let>
+        <let>
+          <clip pos="3" part="nbr"/>
+          <clip pos="1" part="nbr"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lemh"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+            <clip pos="3" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: PREP PRNPERS">
       <pattern>
         <pattern-item n="PREP"/>

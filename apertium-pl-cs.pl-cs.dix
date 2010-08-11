@@ -397,8 +397,8 @@
     <e r="LR"><p><l>chociażby<s n="cnjadv"/></l><r>alespoň<s n="cnjadv"/></r></p></e>
     <e><p><l>przynajmniej<s n="cnjadv"/></l><r>přinejmenším<s n="cnjadv"/></r></p></e>
     <e><p><l>co<b/>najmniej<s n="cnjadv"/></l><r>ne<b/>méně<b/>než<s n="cnjadv"/></r></p></e>
-    <e><p><l>zanim<s n="cnjadv"/></l><r>před<s n="cnjadv"/></r></p></e>
-    <e r="LR"><p><l>nim<s n="cnjadv"/></l><r>před<s n="cnjadv"/></r></p></e>
+    <e><p><l>zanim<s n="cnjadv"/></l><r>dříve<b/>než<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>nim<s n="cnjadv"/></l><r>dříve<b/>než<s n="cnjadv"/></r></p></e>
     <e><p><l>a<b/>tym<b/>bardziej<s n="cnjadv"/></l><r>natož<s n="cnjadv"/></r></p></e>
 
      <!-- Prepositions -->
@@ -7959,7 +7959,7 @@
     <e><p><l>giełdowy<s n="adj"/></l><r>burzovní<s n="adj"/></r></p></e>
     <e><p><l>gitarowy<s n="adj"/></l><r>kytarový<s n="adj"/></r></p></e>
     <e><p><l>globalny<s n="adj"/></l><r>globální<s n="adj"/></r></p></e>
-    <e><p><l>głośny<s n="adj"/></l><r>hlasitý<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>głośny<s n="adj"/><s n="sint"/></l><r>hlasitý<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>głuchoniemy<s n="adj"/></l><r>hluchoněmý<s n="adj"/></r></p></e>
     <e><p><l>godzinny<s n="adj"/></l><r>hodinový<s n="adj"/></r></p></e>
     <e><p><l>golfowy<s n="adj"/></l><r>golfový<s n="adj"/></r></p></e>

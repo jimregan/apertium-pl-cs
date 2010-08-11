@@ -48402,6 +48402,7 @@
     <!-- ******************************
           group cnjadv
       ****************************** -->
+    <e lm="dříve než"><i>dříve<b/>než</i><par n="jestli__cnjadv"/></e>
     <e lm="alespoň"><i>alespoň</i><par n="jestli__cnjadv"/></e>
     <e lm="anebo"><i>anebo</i><par n="jestli__cnjadv"/></e>
     <e lm="aspoň"><i>aspoň</i><par n="jestli__cnjadv"/></e>
@@ -48426,7 +48427,6 @@
     <e lm="proto"><i>proto</i><par n="jestli__cnjadv"/></e>
     <e lm="protože"><i>protože</i><par n="jestli__cnjadv"/></e>
     <e lm="přece"><i>přece</i><par n="jestli__cnjadv"/></e>
-    <e lm="před"><i>před</i><par n="jestli__cnjadv"/></e>
     <e lm="předtím"><i>předtím</i><par n="jestli__cnjadv"/></e>
     <e lm="přestože"><i>přestože</i><par n="jestli__cnjadv"/></e>
     <e lm="přinejmenším"><i>přinejmenším</i><par n="jestli__cnjadv"/></e>
@@ -49837,7 +49837,6 @@
     <e lm="délka"><i>dél</i><par n="dív/ka__n"/></e>
     <e lm="démon"><i>démon</i><par n="absolvent__n"/></e>
     <e lm="démonizace"><i>démonizac</i><par n="alergi/e__n"/></e>
-    <e lm="dík"><i>dí</i><par n="ro/k__n"/></e>
     <e lm="díl"><i>díl</i><par n="arak__n"/></e>
     <e lm="dívka"><i>dív</i><par n="dív/ka__n"/></e>
     <e lm="dóza"><i>dóz</i><par n="kos/a__n"/></e>
@@ -50723,7 +50722,6 @@
     <e lm="izolinie"><i>izolini</i><par n="alergi/e__n"/></e>
     <e lm="izomerizace"><i>izomerizac</i><par n="alergi/e__n"/></e>
     <e lm="izoterma"><i>izoter</i><par n="par/ma__n"/></e>
-    <e lm="jak"><i>ja</i><par n="akademi/k__n"/></e>
     <e lm="jablko"><i>jabl</i><par n="jabl/ko__n"/></e>
     <e lm="jachtař"><i>jachtař</i><par n="muž__n"/></e>
     <e lm="jahoda"><i>jahod</i><par n="dob/a__n"/></e>
@@ -59292,7 +59290,6 @@
     <e lm="dobrý den"><i>dobrý<b/>den</i><par n="ahoj__ij"/></e>
     <e lm="dobrý večer"><i>dobrý<b/>večer</i><par n="ahoj__ij"/></e>
     <e lm="dík"><i>dík</i><par n="ahoj__ij"/></e>
-    <e lm="díky"><i>díky</i><par n="ahoj__ij"/></e>
     <e lm="děkuji mockrát"><i>děkuji<b/>mockrát</i><par n="ahoj__ij"/></e>
     <e lm="haló"><i>haló</i><par n="ahoj__ij"/></e>
     <e lm="hezký den"><i>hezký<b/>den</i><par n="ahoj__ij"/></e>
