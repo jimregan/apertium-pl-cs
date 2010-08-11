@@ -126,6 +126,7 @@
      <attr-item tags="n"/>
      <attr-item tags="np"/>
      <attr-item tags="np.ant"/>
+     <attr-item tags="np.cog"/>
      <attr-item tags="np.top"/>
   </def-attr>
 
@@ -455,6 +456,28 @@
           </when>
         </choose>
     </def-macro>
+    <def-macro n="cog_elimina_mp" npar="1">
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="1" side="sl" part="a_nom"/>
+                  <lit-tag v="np.cog"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="gen"/>
+                  <lit-tag v="mp"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="gen"/>
+              <lit-tag v="ma"/>
+            </let>
+          </when>
+        </choose>
+    </def-macro>
     <def-macro n="elimina_nm" npar="1">
         <choose>
           <when>
@@ -716,6 +739,12 @@
        <pattern-item n="nom"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="cog_elimina_mp">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="nom" case="caseFirstWord">
            <tags>
@@ -742,6 +771,9 @@
        <pattern-item n="prn"/>
      </pattern>
      <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="prn" case="caseFirstWord">
            <tags>
@@ -881,6 +913,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="cog_elimina_mp">
+         <with-param pos="2"/>
+       </call-macro>
        <out>
          <chunk name="det_nom" case="caseFirstWord">
            <tags>
@@ -921,6 +956,9 @@
      <action>
        <call-macro n="firstWord">
          <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="cog_elimina_mp">
+         <with-param pos="2"/>
        </call-macro>
        <call-macro n="degreeadj">
          <with-param pos="1"/>

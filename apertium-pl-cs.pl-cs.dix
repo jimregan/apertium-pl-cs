@@ -72,6 +72,7 @@
     <sdef n="lpar" /> 
     <sdef n="rpar" /> 
     <sdef n="ant" /> 
+    <sdef n="cog" /> 
     <sdef n="top" /> 
     <sdef n="hyd" /> 
     <sdef n="al" /> 
@@ -13055,6 +13056,8 @@
     <e><p><l>Mojżesz<s n="np"/><s n="ant"/><s n="mp"/></l><r>Mojžíš<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
     <e><p><l>Morfeusz<s n="np"/><s n="ant"/><s n="mp"/></l><r>Morfeus<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
     <e><p><l>Sokrates<s n="np"/><s n="ant"/><s n="mp"/></l><r>Sókratés<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
+
+    <e><p><l>Kaczyński<s n="np"/><s n="cog"/></l><r>Kaczyński<s n="np"/><s n="cog"/></r></p></e>
 
 	<!-- Toponyms  -->
 

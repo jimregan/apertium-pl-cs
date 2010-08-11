@@ -211,6 +211,7 @@
      <attr-item tags="np"/>
      <attr-item tags="np.ant"/>
      <attr-item tags="np.top"/>
+     <attr-item tags="np.cog"/>
   </def-attr>
 
   <def-attr n="a_prp">
@@ -931,6 +932,22 @@
 	    </otherwise>
 	  </choose>		
    </def-macro>
+    <def-macro n="elimina_ma" npar="1">
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="sl" part="gen"/>
+                <lit-tag v="ma"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="gen"/>
+              <lit-tag v="mp"/>
+            </let>
+          </when>
+        </choose>
+    </def-macro>
 
    <def-macro n="elimina_mi_ma" npar="1">
         <choose>
@@ -1079,6 +1096,9 @@
      </pattern>
      <action>
        <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="elimina_ma">
          <with-param pos="1"/>
        </call-macro>
        <out>
