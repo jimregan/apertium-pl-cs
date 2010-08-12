@@ -23237,6 +23237,40 @@
       <e><p><l>ych</l><r><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>e</l><r><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
+    <pardef n="BASE__nadzieja">
+      <e><p><l>ja</l><r><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>i</l><r><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>i</l><r><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>ję</l><r><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ją</l><r><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p><l>i</l><r><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>jo</l><r><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>je</l><r><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>i</l><r><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>jom</l><r><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>je</l><r><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>jami</l><r><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>jach</l><r><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p><l>je</l><r><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="nadzie/ja__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ja<s n="n"/></r>
+        </p>
+        <par n="BASE__nadzieja"/>
+      </e>
+    </pardef>
+    <pardef n="Mary/ja__np">
+      <e>
+        <p>
+          <l></l>
+          <r>ja<s n="np"/><s n="ant"/></r>
+        </p>
+        <par n="BASE__nadzieja"/>
+      </e>
+    </pardef>
     <pardef n="ziem/ia__n">
       <e><p><l>ia</l><r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>i</l><r>ia<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -46278,6 +46312,7 @@
     <e lm="kazać" r="LR"><i>ka</i><par n="ska/zać__vblex"/></e>
 
     <!-- Nouns -->
+    <e lm="nadzieja"><i>nadzie</i><par n="nadzie/ja__n"/></e>
     <e lm="piesek"><i>pies</i><par n="pantofel/ek__n"/></e>
     <e lm="oko"><i></i><par n="/oko__n"/></e>
     <e lm="przypadek"><i>przypad</i><par n="stat/ek__n"/></e>
@@ -54557,8 +54592,6 @@
     <e lm="Wanda"><i>Wand</i><par n="Iz/ka__np_dim"/></e>
     <e lm="Mikulicz"><i>Mikulicz</i><par n="Mikulicz__np"/></e>
     <e lm="Kozyra"><i>Kozyr</i><par n="Kozyr/a__np"/></e>
-
-    <e lm="Kaczyński"><i>Kaczyńs</i><par n="Kowals/ki__np"/></e>
 
     <e lm="Bielsko-Biała"><i>Bielsk</i><par n="Bielsk/o-Biała__np"/></e>
     <e lm="Zjednoczone Królestwo"><i>Zjednoczon</i><par n="Zjednoczon/e_Królestwo__np"/></e>

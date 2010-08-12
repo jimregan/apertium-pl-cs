@@ -207,6 +207,10 @@
      <cat-item tags="det"/>
      <cat-item tags="det.*"/>
   </def-cat>
+  <def-cat n="je">
+     <cat-item lemma="být" tags="vbser.pres.p3.sg"/>
+     <cat-item lemma="prpers" tags="prn.p3.mf.pl.acc"/>
+  </def-cat>
   <def-cat n="sent">
      <cat-item tags="sent"/>
   </def-cat>
@@ -948,14 +952,20 @@
 	    </otherwise>
 	  </choose>		
    </def-macro>
-    <def-macro n="elimina_ma" npar="1">
+    <def-macro n="cog_elimina_ma" npar="1">
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="1" side="sl" part="gen"/>
-                <lit-tag v="ma"/>
-              </equal>
+              <and>
+                <equal>
+                  <clip pos="1" side="sl" part="a_nom"/>
+                  <lit-tag v="np.cog"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="gen"/>
+                  <lit-tag v="ma"/>
+                </equal>
+              </and>
             </test>
             <let>
               <clip pos="1" side="tl" part="gen"/>
@@ -1174,7 +1184,7 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
-       <call-macro n="elimina_ma">
+       <call-macro n="cog_elimina_ma">
          <with-param pos="1"/>
        </call-macro>
        <out>
@@ -1277,6 +1287,27 @@
            <lu>
              <clip pos="1" side="tl" part="whole"/>
            </lu>
+         </chunk>
+       </out>
+     </action>
+  </rule>
+
+  <rule comment="REGLA: je -> jest/ich, jest by default">
+     <pattern>
+       <pattern-item n="je"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="je" case="caseFirstWord">
+          <tags>
+             <tag><lit-tag v="JE"/></tag>
+          </tags>
+          <lu>
+             <clip pos="1" side="tl" part="whole"/>
+          </lu>
          </chunk>
        </out>
      </action>

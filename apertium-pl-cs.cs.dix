@@ -5150,6 +5150,104 @@
 
 
     </pardef>
+    <pardef n="naděj/e__n">
+    <e>
+      <p>
+        <l>e</l>
+        <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>í</l>
+        <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>í</l>
+        <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ím</l>
+        <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>im</l>
+        <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>emi</l>
+        <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>ema</l>
+        <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ích</l>
+        <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+      </p>
+    </e>
+    </pardef>
     <pardef n="l/éto__n">
     <e>
       <p>
@@ -5288,6 +5386,7 @@
 
 
     </pardef>
+
     <pardef n="ok/no__n">
     <e>
       <p>
@@ -49369,6 +49468,7 @@
     <e r="LR" lm="cenzura"><p><l>censu</l><r>cenzu</r></p><par n="sí/ra__n"/></e>
 
     <!-- Nouns -->
+    <e lm="naděje"><i>naděj</i><par n="naděj/e__n"/></e>
     <e lm="centrum"><i>cent</i><par n="cent/rum__n"/></e>
     <e lm="centimetr"><i>centimetr</i><par n="bor__n"/></e>
     <e lm="centralizace"><i>centrali</i><par n="konver/zace__n"/></e>
@@ -50722,6 +50822,7 @@
     <e lm="izolinie"><i>izolini</i><par n="alergi/e__n"/></e>
     <e lm="izomerizace"><i>izomerizac</i><par n="alergi/e__n"/></e>
     <e lm="izoterma"><i>izoter</i><par n="par/ma__n"/></e>
+    <e lm="jak"><i>ja</i><par n="akademi/k__n"/></e>
     <e lm="jablko"><i>jabl</i><par n="jabl/ko__n"/></e>
     <e lm="jachtař"><i>jachtař</i><par n="muž__n"/></e>
     <e lm="jahoda"><i>jahod</i><par n="dob/a__n"/></e>
@@ -59197,8 +59298,6 @@
     <e lm="Řecko"><i>Řec</i><par n="Čes/ko__np"/></e>
     <e lm="Španělsko"><i>Španěls</i><par n="Čes/ko__np"/></e>
     <e lm="Žitava"><i>Žitav</i><par n="Ann/a__np"/></e>
-
-    <e lm="Kaczyński"><i>Kaczyńs</i><par n="Kowals/ki__np"/></e>
     <!-- ******************************
           group abbr
       ****************************** -->

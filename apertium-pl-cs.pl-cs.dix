@@ -72,7 +72,6 @@
     <sdef n="lpar" /> 
     <sdef n="rpar" /> 
     <sdef n="ant" /> 
-    <sdef n="cog" /> 
     <sdef n="top" /> 
     <sdef n="hyd" /> 
     <sdef n="al" /> 
@@ -7924,7 +7923,7 @@
     <e><p><l>etniczny<s n="adj"/></l><r>etnický<s n="adj"/></r></p></e>
     <e><p><l>ewolucyjny<s n="adj"/></l><r>evoluční<s n="adj"/></r></p></e>
     <e><p><l>falowy<s n="adj"/></l><r>vlnový<s n="adj"/></r></p></e>
-    <e><p><l>fałszywy<s n="adj"/></l><r>falešný<s n="adj"/></r></p></e>
+    <e><p><l>fałszywy<s n="adj"/></l><r>falešný<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>farmaceutyczny<s n="adj"/></l><r>farmaceutický<s n="adj"/></r></p></e>
     <e><p><l>fazowy<s n="adj"/></l><r>fázový<s n="adj"/></r></p></e>
     <e><p><l>federalny<s n="adj"/></l><r>federální<s n="adj"/></r></p></e>
@@ -11270,7 +11269,7 @@
     <e><p><l>stopień<g><b/>Celsjusza</g><s n="n"/><s n="mi"/></l><r>stupeň<g><b/>Celsia</g><s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>temperatura<s n="n"/><s n="f"/></l><r>teplota<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lesbijka<s n="n"/></l><r>lesbička<s n="n"/></r></p></e>
-    <e><p><l>nadzieja<s n="n"/></l><r>naděje<s n="n"/></r></p></e>
+    <e><p><l>nadzieja<s n="n"/><s n="f"/></l><r>naděje<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arsen<s n="n"/><s n="mi"/></l><r>arzen<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>śniadanie<s n="n"/><s n="nt"/></l><r>snídaně<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>beletrystyka<s n="n"/><s n="f"/></l><r>beletrie<s n="n"/><s n="f"/></r></p></e>
@@ -13056,8 +13055,6 @@
     <e><p><l>Mojżesz<s n="np"/><s n="ant"/><s n="mp"/></l><r>Mojžíš<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
     <e><p><l>Morfeusz<s n="np"/><s n="ant"/><s n="mp"/></l><r>Morfeus<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
     <e><p><l>Sokrates<s n="np"/><s n="ant"/><s n="mp"/></l><r>Sókratés<s n="np"/><s n="ant"/><s n="ma"/></r></p></e>
-
-    <e><p><l>Kaczyński<s n="np"/><s n="cog"/></l><r>Kaczyński<s n="np"/><s n="cog"/></r></p></e>
 
 	<!-- Toponyms  -->
 
