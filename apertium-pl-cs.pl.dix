@@ -41486,6 +41486,9 @@
 
     <!-- Adjectives -->
     <!-- Synthetic adjectives -->
+    <e lm="lichy"><i>li</i><par n="głu/chy__adj"/></e>
+    <e lm="lichy"><p><l>lich</l><r>lichy</r></p><par n="lep/szy__adj"/></e>
+    <e lm="lichy"><p><l>najlich</l><r>lichy</r></p><par n="najlep/szy__adj"/></e>
     <e lm="głośny"><i>głośn</i><par n="now/y__adj"/></e>
     <e lm="głośny"><p><l>głośniej</l><r>głośny</r></p><par n="lep/szy__adj"/></e>
     <e lm="głośny"><p><l>najgłośniej</l><r>głośny</r></p><par n="najlep/szy__adj"/></e>
@@ -42554,6 +42557,7 @@
     <e lm="żółciejszy" r="LR"><p><l>żółciej</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
     <e lm="najżółciejszy" r="LR"><p><l>najżółciej</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
 
+    <e lm="cherlawy"><i>cherlaw</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="szalony"><i>szal</i><par n="szal/ony__adj"/></e>
     <e lm="wszędobylski"><i>wszędobyls</i><par n="mors/ki__adj"/></e>
     <e lm="rzeczywisty"><i>rzeczywi</i><par n="puszy/sty__adj"/></e>

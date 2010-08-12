@@ -45,6 +45,9 @@
     <def-cat n="JE">
       <cat-item tags="JE"/>
     </def-cat>
+    <def-cat n="NENI">
+      <cat-item tags="NENI"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -187,6 +190,141 @@
 			<lit v="$}"/>
           </chunk>
         </out>
+      </action>
+    </rule>
+
+	<!-- není -> nie ma -->
+    <rule comment="REGLA: NENI">
+      <pattern>
+        <pattern-item n="NENI"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+			<lit v="verb"/>
+			<lit-tag v="SV.NEG.pres.p3.sg"/>
+			<lit v="{^nie"/>
+            <lit-tag v="adv"/>
+            <lit v="$ ^mieć"/>
+            <lit-tag v="vbhaver.imperf.3.4.5"/>
+			<lit v="$}"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+	<!-- není to dobré -> nie jest to dobre -->
+    <rule comment="REGLA: NENI DET">
+      <pattern>
+        <pattern-item n="NENI"/>
+        <pattern-item n="DET"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+	<!-- není krásný -> nie jest piękny -->
+    <rule comment="REGLA: NENI SA">
+      <pattern>
+        <pattern-item n="NENI"/>
+        <pattern-item n="SA"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+			<lit v="być"/>
+			<lit-tag v="SV.NEG.pres.p3.sg"/>
+			<lit v="{^nie"/>
+            <lit-tag v="adv"/>
+            <lit v="$ ^być"/>
+            <lit-tag v="vbser.3.4.5"/>
+			<lit v="$}"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: NENI SN">
+      <pattern>
+        <pattern-item n="NENI"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="2" part="gnr"/>
+                <lit-tag v="ins"/>
+              </equal>
+            </test> 
+            <out>
+              <chunk>
+    			<lit v="być"/>
+    			<lit-tag v="SV.NEG.pres.p3.sg"/>
+    			<lit v="{^nie"/>
+                <lit-tag v="adv"/>
+                <lit v="$ ^być"/>
+                <lit-tag v="vbser.3.4.5"/>
+    			<lit v="$}"/>
+              </chunk>
+              <b pos="1"/>
+              <chunk>
+                <clip pos="2" part="lemh"/>
+                <clip pos="2" part="tags"/>
+                <clip pos="2" part="chcontent"/>
+                <clip pos="2" part="lemq"/>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <let>
+              <clip pos="2" part="cas"/>
+              <lit-tag v="gen"/>
+            </let>
+            <out>
+              <chunk>
+    			<lit v="verb"/>
+    			<lit-tag v="SV.NEG.pres.p3.sg"/>
+    			<lit v="{^nie"/>
+                <lit-tag v="adv"/>
+                <lit v="$ ^mieć"/>
+                <lit-tag v="vbhaver.imperf.3.4.5"/>
+    			<lit v="$}"/>
+              </chunk>
+              <b pos="1"/>
+              <chunk>
+                <clip pos="2" part="lemh"/>
+                <clip pos="2" part="tags"/>
+                <clip pos="2" part="chcontent"/>
+                <clip pos="2" part="lemq"/>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
       </action>
     </rule>
 
@@ -337,6 +475,43 @@
         </out>
       </action>
     </rule>
+    <!--nemohl změnit svůj život -> nie mógł zmienić swojego życia -->
+    <rule comment="REGLA: SVNEG SV SN">
+      <pattern>
+        <pattern-item n="SVNEG"/>
+        <pattern-item n="SV"/>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="3" part="cas"/>
+          <lit-tag v="gen"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lemh"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+            <clip pos="3" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 	
 	<!-- Nedávej mi to. -> Nie dawaj mi tego -->
     <rule comment="REGLA: SVNEG PRN DET">

@@ -1611,6 +1611,7 @@
 
 
     </pardef>
+
     <pardef n="mal/ý__adj">
     <e>
       <p>
@@ -1649,9 +1650,21 @@
       </p>
         <par n="BASE__malý"/> 
     </e>
-
-
+    <e>
+      <p>
+        <l>o</l>
+        <r>ý<s n="adj"/><s n="cpd"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ějš</l>
+        <r>ý<s n="adj"/><s n="comp"/></r>
+      </p>
+        <par n="BASE__další"/> 
+    </e>
     </pardef>
+
     <pardef n="PBASE__nový">
     <e>
       <p>
@@ -16610,6 +16623,120 @@
 
 
     </pardef>
+    <pardef n="BASE__reforma">
+    <e>
+      <p>
+        <l>ma</l>
+        <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>my</l>
+        <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>mě</l>
+        <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>mu</l>
+        <r><s n="f"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>mou</l>
+        <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>mě</l>
+        <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>mo</l>
+        <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>my</l>
+        <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>em</l>
+        <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>mám</l>
+        <r><s n="f"/><s n="pl"/><s n="dat"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>my</l>
+        <r><s n="f"/><s n="pl"/><s n="acc"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>mami</l>
+        <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>mách</l>
+        <r><s n="f"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+
+
+    <e>
+      <p>
+        <l>my</l>
+        <r><s n="f"/><s n="pl"/><s n="voc"/></r>
+      </p>
+    </e>
+
+    </pardef>
+
     <pardef n="BASE__doba">
     <e>
       <p>
@@ -16735,6 +16862,16 @@
 
 
     </pardef>
+    <pardef n="refor/ma__n">
+    <e>
+      <p>
+        <l></l>
+        <r>ma<s n="n"/></r>
+      </p>
+        <par n="BASE__reforma"/> 
+    </e>
+    </pardef>
+
     <pardef n="Barcelon/a__np">
     <e>
       <p>
@@ -48069,7 +48206,6 @@
 
 
     </pardef>
-
     <pardef n="finančn/í__adj">
     <e>
       <p>
@@ -49468,6 +49604,7 @@
     <e r="LR" lm="cenzura"><p><l>censu</l><r>cenzu</r></p><par n="sí/ra__n"/></e>
 
     <!-- Nouns -->
+    <e lm="reforma"><i>refor</i><par n="refor/ma__n"/></e>
     <e lm="naděje"><i>naděj</i><par n="naděj/e__n"/></e>
     <e lm="centrum"><i>cent</i><par n="cent/rum__n"/></e>
     <e lm="centimetr"><i>centimetr</i><par n="bor__n"/></e>
@@ -55467,6 +55604,8 @@
 
 	<!-- Adjectives -->
 	<!-- Non-synthetic adjectives -->
+    <e lm="zlý"><i>zl</i><par n="mal/ý__adj"/></e>
+    <e lm="zlý"><par n="nej__adv"/><p><l>horš</l><r>zlý</r></p><par n="menš/í__adj"/></e>
     <e lm="hlavní"><i>hlavn</i><par n="právn/í__adj"/></e>
     <e lm="hluboký"><i>hlubok</i><par n="mal/ý__adj"/></e>
     <e lm="hluchý"><i>hluch</i><par n="mal/ý__adj"/></e>
@@ -55530,6 +55669,8 @@
     <e lm="lichý"><i>lich</i><par n="mal/ý__adj"/></e>
 
 	<!-- Synthetic adjectives -->
+    <e lm="zlý"><i>zl</i><par n="mal/ý__adj"/></e>
+    <e lm="dokonalý"><par n="nej__adv"/><i>dokonal</i><par n="trestn/ý__adj"/></e>
     <e lm="žhavý"><par n="nej__adv"/><i>žhav</i><par n="nov/ý__adj"/></e>
     <e lm="malý"><i>mal</i><par n="mal/ý__adj"/></e>
     <e lm="mandátní"><i>mandátn</i><par n="právn/í__adj"/></e>

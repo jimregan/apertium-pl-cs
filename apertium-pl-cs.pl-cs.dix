@@ -3106,6 +3106,7 @@
     <e><p><l>zootechnika<s n="n"/><s n="f"/></l><r>zootechnika<s n="n"/><s n="f"/></r></p></e>
 	<!-- end: cs gender to be checked -->
 
+    <e><p><l>reforma<s n="n"/><s n="f"/></l><r>reforma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>piesek<s n="n"/><s n="ma"/></l><r>pejsek<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>przyjaciel<s n="n"/><s n="mp"/></l><r>přítel<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>lustro<s n="n"/><s n="nt"/></l><r>zrcadlo<s n="n"/><s n="nt"/></r></p></e>
@@ -7562,6 +7563,7 @@
     <e c="check"><p><l>język<b/>francuski<s n="n"/><s n="mi"/></l><r>francouzština<s n="n"/><s n="f"/></r></p></e>
 
     <!-- Adjectives -->
+    <e><p><l>zły<s n="adj"/><s n="sint"/></l><r>zlý<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>gorący<s n="adj"/><s n="sint"/></l><r>žhavý<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>bazowy<s n="adj"/></l><r>základní<s n="adj"/><s n="sint"/></r></p></e>
     <e r="LR"><p><l>fundamentalny<s n="adj"/></l><r>základní<s n="adj"/><s n="sint"/></r></p></e>
@@ -7962,7 +7964,8 @@
     <e><p><l>głuchoniemy<s n="adj"/></l><r>hluchoněmý<s n="adj"/></r></p></e>
     <e><p><l>godzinny<s n="adj"/></l><r>hodinový<s n="adj"/></r></p></e>
     <e><p><l>golfowy<s n="adj"/></l><r>golfový<s n="adj"/></r></p></e>
-    <e><p><l>gorszy<s n="adj"/></l><r>špatný<s n="adj"/></r></p></e>
+    <e><p><l>lichy<s n="adj"/><s n="sint"/></l><r>špatný<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="LR"><p><l>cherlawy<s n="adj"/></l><r>špatný<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>gospodarczy<s n="adj"/></l><r>hospodářský<s n="adj"/></r></p></e>
     <e><p><l>gotowy<s n="adj"/></l><r>hotový<s n="adj"/></r></p></e>
     <e><p><l>górniczy<s n="adj"/></l><r>hornický<s n="adj"/></r></p></e>
@@ -9138,7 +9141,8 @@
     <e><p><l>łamliwy<s n="adj"/></l><r>lámavý<s n="adj"/></r></p></e>
     <e><p><l>czuły<s n="adj"/><s n="sint"/></l><r>citlivý<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>demokratyczny<s n="adj"/></l><r>demokratický<s n="adj"/></r></p></e>
-    <e><p><l>doskonały<s n="adj"/></l><r>ideální<s n="adj"/></r></p></e>
+    <e><p><l>doskonały<s n="adj"/><s n="sint"/></l><r>dokonalý<s n="adj"/></r></p></e>
+    <e><p><l>idealny<s n="adj"/><s n="sint"/></l><r>ideální<s n="adj"/></r></p></e>
     <e><p><l>emerytowany<s n="adj"/></l><r>emeritní<s n="adj"/></r></p></e>
     <e r="RL"><p><l>emerytowany<s n="adj"/></l><r>penzionovaný<s n="adj"/></r></p></e>
     <e r="RL"><p><l>główny<s n="adj"/><s n="sint"/></l><r>majoritní<s n="adj"/></r></p></e>
@@ -9667,7 +9671,6 @@
     <e><p><l>ewidentny<s n="adj"/><s n="sint"/></l><r>evidentní<s n="adj"/></r></p></e>
     <e><p><l>fatalny<s n="adj"/><s n="sint"/></l><r>fatální<s n="adj"/></r></p></e>
     <e><p><l>frankofoński<s n="adj"/></l><r>frankofonní<s n="adj"/></r></p></e>
-    <e><p><l>idealny<s n="adj"/><s n="sint"/></l><r>ideální<s n="adj"/></r></p></e>
     <e><p><l>impulsywny<s n="adj"/><s n="sint"/></l><r>impulzívní<s n="adj"/></r></p></e>
     <e><p><l>inteligentny<s n="adj"/><s n="sint"/></l><r>inteligentní<s n="adj"/></r></p></e>
     <e><p><l>intymny<s n="adj"/><s n="sint"/></l><r>intimní<s n="adj"/></r></p></e>
@@ -13692,7 +13695,6 @@
     <e c="FMT:CHECK"><p><l>przejście<s n="n"/><s n="nt"/></l><r>přechod<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>przyjęcie<s n="n"/><s n="nt"/></l><r>recepce<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>przyszłość<s n="n"/><s n="f"/></l><r>budoucnost<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>reforma<s n="n"/><s n="f"/></l><r>transformace<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>rekin<s n="n"/><s n="ma"/></l><r>žralok<s n="n"/><s n="ma"/></r></p></e>
     <e c="FMT:CHECK"><p><l>rezerwat<s n="n"/><s n="mi"/></l><r>rezervace<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>robota<s n="n"/><s n="f"/></l><r>práce<s n="n"/><s n="f"/></r></p></e>

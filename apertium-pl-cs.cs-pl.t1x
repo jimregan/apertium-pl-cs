@@ -207,9 +207,18 @@
      <cat-item tags="det"/>
      <cat-item tags="det.*"/>
   </def-cat>
+  <def-cat n="detpos">
+     <cat-item tags="det.pos"/>
+     <cat-item tags="det.pos.*"/>
+     <cat-item tags="det.ord"/>
+     <cat-item tags="det.ord.*"/>
+  </def-cat>
   <def-cat n="je">
      <cat-item lemma="být" tags="vbser.pres.p3.sg"/>
      <cat-item lemma="prpers" tags="prn.p3.mf.pl.acc"/>
+  </def-cat>
+  <def-cat n="není">
+     <cat-item lemma="být" tags="vbser.pres.p3.sg"/>
   </def-cat>
   <def-cat n="sent">
      <cat-item tags="sent"/>
@@ -1053,20 +1062,6 @@
                </let>
              </when>
            </choose>
-           <choose>
-             <when>
-               <test>
-                 <equal>
-                   <clip pos="1" side="sl" part="gen"/>
-                   <lit-tag v="mf"/>
-                 </equal>
-               </test>
-               <let>
-                 <clip pos="1" side="tl" part="gen"/>
-                 <lit-tag v="nm"/>
-               </let>
-             </when>
-           </choose>
            <out>
              <chunk name="det" case="caseFirstWord">
                <tags>
@@ -1082,6 +1077,102 @@
                  <clip pos="1" side="tl" part="nbr" link-to="3"/>
                  <clip pos="1" side="tl" part="cas" link-to="4"/>
                  <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
+     </action>
+  </rule>
+
+  <rule comment="REGLA: det nom">
+     <pattern>
+       <pattern-item n="detpos"/>
+       <pattern-item n="nom"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+			 <or>
+               <equal caseless="yes">
+                 <clip pos="1" side="tl" part="lem"/>
+                 <lit v="jej"/>
+               </equal>
+               <equal caseless="yes">
+                 <clip pos="1" side="tl" part="lem"/>
+                 <lit v="jego"/>
+               </equal>
+		     </or>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="cas"/>
+             <lit v=""/>
+           </let>
+           <out>
+             <chunk name="det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                 <tag><clip pos="2" side="tl" part="cas"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="1" side="tl" part="whole"/>
+               </lu>
+			   <b pos="1"/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="gen"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="cas" link-to="3"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+           <choose>
+             <when>
+               <test>
+                 <equal>
+                   <clip pos="1" side="sl" part="gen"/>
+                   <lit-tag v="mf"/>
+                 </equal>
+               </test>
+               <let>
+                 <clip pos="1" side="tl" part="gen"/>
+                 <lit-tag v="nm"/>
+               </let>
+             </when>
+           </choose>
+           <out>
+             <chunk name="det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                  <tag><clip pos="1" side="tl" part="gen"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                  <tag><clip pos="1" side="tl" part="cas"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_det"/>
+                 <clip pos="1" side="tl" part="gen" link-to="2"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="1" side="tl" part="cas" link-to="4"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+			   <b pos="1"/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="gen"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="2" side="tl" part="cas" link-to="4"/>
+                 <clip pos="2" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
@@ -1292,7 +1383,7 @@
      </action>
   </rule>
 
-  <rule comment="REGLA: je -> jest/ich, jest by default">
+  <rule comment="REGLA: je -> jest/ich">
      <pattern>
        <pattern-item n="je"/>
      </pattern>
@@ -1307,6 +1398,32 @@
           </tags>
           <lu>
              <clip pos="1" side="tl" part="whole"/>
+          </lu>
+         </chunk>
+       </out>
+     </action>
+  </rule>
+
+  <rule comment="REGLA: není -> nie jest/nie ma">
+     <pattern>
+       <pattern-item n="neg"/>
+       <pattern-item n="není"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="neni" case="caseFirstWord">
+          <tags>
+             <tag><lit-tag v="NENI"/></tag>
+          </tags>
+          <lu>
+             <clip pos="1" side="tl" part="whole"/>
+          </lu>
+          <b pos="1"/>
+          <lu>
+             <clip pos="2" side="tl" part="whole"/>
           </lu>
          </chunk>
        </out>
