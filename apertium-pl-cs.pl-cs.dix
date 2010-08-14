@@ -535,8 +535,6 @@
     <e><p><l>pa<s n="ij"/></l><r>čau<s n="ij"/></r></p></e>
     <e><p><l>dobry<b/>wieczór<s n="ij"/></l><r>dobrý<b/>večer<s n="ij"/></r></p></e>
     <e><p><l>dziękuję<b/>bardzo<s n="ij"/></l><r>děkuji<b/>mockrát<s n="ij"/></r></p></e>
-    <e><p><l>dzięki<s n="ij"/></l><r>díky<s n="ij"/></r></p></e>
-    <e r="RL"><p><l>dzięki<s n="ij"/></l><r>dík<s n="ij"/></r></p></e>
     <e><p><l>nie<b/>ma<b/>za<b/>co<s n="ij"/></l><r>není<b/>zač<s n="ij"/></r></p></e>
     <e r="LR"><p><l>nie<b/>ma<b/>sprawy<s n="ij"/></l><r>není<b/>zač<s n="ij"/></r></p></e>
     <e><p><l>miłego<b/>dnia<s n="ij"/></l><r>hezký<b/>den<s n="ij"/></r></p></e>
@@ -7939,8 +7937,8 @@
     <e><p><l>fiskalny<s n="adj"/></l><r>fiskální<s n="adj"/></r></p></e>
     <e><p><l>fizjologiczny<s n="adj"/></l><r>fyziologický<s n="adj"/></r></p></e>
     <e><p><l>fizyczny<s n="adj"/></l><r>fyzický<s n="adj"/></r></p></e>
-    <e><p><l>fizyczny<s n="adj"/></l><r>fyzikální<s n="adj"/></r></p></e>
-    <e><p><l>fizykalny<s n="adj"/></l><r>fyzikální<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>fizyczny<s n="adj"/></l><r>fyzikální<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>fizykalny<s n="adj"/></l><r>fyzikální<s n="adj"/></r></p></e>
     <e><p><l>flagowy<s n="adj"/></l><r>vlajkový<s n="adj"/></r></p></e>
     <e><p><l>folklorystyczny<s n="adj"/></l><r>folklórní<s n="adj"/></r></p></e>
     <e><p><l>fonetyczny<s n="adj"/></l><r>fonetický<s n="adj"/></r></p></e>
@@ -13272,6 +13270,7 @@
   
     <!-- Adverbs -->
     <e r="LR"><p><l>łącznie<s n="adv"/></l><r>dohromady<s n="adv"/></r></p></e>
+    <e><p><l>łącznie<s n="adv"/></l><r>celkem<s n="adv"/></r></p></e>
     <e><p><l>ogółem<s n="adv"/></l><r>dohromady<s n="adv"/></r></p></e>
     <e><p><l>dotychczas<s n="adv"/></l><r>doposud<s n="adv"/></r></p></e>
     <e r="RL"><p><l>natychmiast<s n="adv"/></l><r>okamžitě<s n="adv"/><s n="sint"/></r></p></e>

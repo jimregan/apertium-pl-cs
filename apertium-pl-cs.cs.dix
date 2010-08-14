@@ -56494,6 +56494,7 @@
 
 	<!-- Adverbs -->
     <!-- Interrogative adverbs -->
+    <e lm="celkem"><i>celkem</i><par n="tehdy__adv"/></e>
     <e lm="jak"><i>jak</i><par n="jak__adv"/></e>
     <e lm="jamajský"><par n="nej__adv"/><i>jamaj</i><par n="če/ský__adj"/></e>
     <e lm="jantarový"><par n="nej__adv"/><i>jantarov</i><par n="nov/ý__adj"/></e>

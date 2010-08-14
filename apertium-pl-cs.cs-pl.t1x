@@ -1652,6 +1652,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="elimina_mi_ma">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="verb" case="caseFirstWord">
            <tags>

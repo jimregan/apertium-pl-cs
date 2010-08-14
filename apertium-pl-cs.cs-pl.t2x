@@ -277,8 +277,8 @@
           <when>
             <test>
               <equal>
-                <clip pos="2" part="gnr"/>
-                <lit-tag v="ins"/>
+                <clip pos="2" part="cas"/>
+                <lit-tag v="ND"/>
               </equal>
             </test> 
             <out>
@@ -354,10 +354,20 @@
         <pattern-item n="SV"/>
       </pattern>
       <action>
-        <let>
-          <clip pos="2" part="gnr"/>
-          <clip pos="1" part="gnr"/>
-        </let>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" part="cas"/>
+                <lit-tag v="nom"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="2" part="gnr"/>
+              <clip pos="1" part="gnr"/>
+            </let>
+          </when>
+        </choose>
         <out>
           <chunk>
             <clip pos="1" part="lemh"/>
@@ -783,6 +793,49 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: SN JE SA">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="JE"/>
+        <pattern-item n="SA"/>
+      </pattern>
+      <action>
+        <let>
+            <clip pos="3" part="gnr"/>
+            <clip pos="1" part="gnr"/>
+        </let>
+        <let>
+            <clip pos="3" part="nbr"/>
+            <clip pos="1" part="nbr"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <lit v="być"/>
+			<lit-tag v="SV.pres.p3.sg"/>
+			<lit v="{^"/>
+            <lit v="być"/>
+            <lit-tag v="vbser.2.3.4"/>
+			<lit v="$}"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lemh"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+            <clip pos="3" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: DET JE">
       <pattern>
