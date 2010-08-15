@@ -5261,6 +5261,92 @@
       </p>
     </e>
     </pardef>
+    <pardef n="pý/cha__n">
+    <e>
+      <p>
+        <l>cha</l>
+        <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>chy</l>
+        <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>še</l>
+        <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>chu</l>
+        <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>chou</l>
+        <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>še</l>
+        <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>cho</l>
+        <r>cha<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>chy</l>
+        <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ch</l>
+        <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>chám</l>
+        <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>chy</l>
+        <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>chami</l>
+        <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>chách</l>
+        <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>chy</l>
+        <r>cha<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+      </p>
+    </e>
+    </pardef>
     <pardef n="l/éto__n">
     <e>
       <p>
@@ -50084,7 +50170,9 @@
     <e lm="dým"><i>dým</i><par n="bor__n"/></e>
     <e lm="děd"><i>děd</i><par n="man__n"/></e>
     <e lm="dědic"><i>dědic</i><par n="muž__n"/></e>
-    <e lm="dědictví"><i>dědictví</i><par n="hospodářství__n"/></e>
+    <e lm="dědictví"><i>dědictví</i><par n="úterý__n"/></e>
+    <e lm="lakomství"><i>lakomství</i><par n="úterý__n"/></e>
+    <e lm="pýcha"><i>pý</i><par n="pý/cha__n"/></e>
     <e lm="dědic"><i>dědič</i><par n="dív/ka__n"/></e>
     <e lm="děj"><i>děj</i><par n="keř__n"/></e>
     <e lm="děkan"><i>děkan</i><par n="man__n"/></e>

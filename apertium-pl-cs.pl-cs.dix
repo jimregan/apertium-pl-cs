@@ -4388,7 +4388,7 @@
     <e><p><l>chaos<s n="n"/><s n="mi"/></l><r>chaos<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>charakter<s n="n"/><s n="mi"/></l><r>charakter<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>charytatywność<s n="n"/><s n="f"/></l><r>charita<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>chciwość<s n="n"/><s n="f"/></l><r>chtivost<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>chciwość<s n="n"/><s n="f"/></l><r>chtivost<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chodnik<s n="n"/><s n="mi"/></l><r>chodník<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chór<s n="n"/><s n="mi"/></l><r>sbor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chrześcijaństwo<s n="n"/><s n="nt"/></l><r>křesťanství<s n="n"/><s n="mi"/></r></p></e>
@@ -11270,6 +11270,7 @@
     <e><p><l>stopień<g><b/>Celsjusza</g><s n="n"/><s n="mi"/></l><r>stupeň<g><b/>Celsia</g><s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>temperatura<s n="n"/><s n="f"/></l><r>teplota<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zazdrość<s n="n"/><s n="f"/></l><r>závist<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pycha<s n="n"/><s n="f"/></l><r>pýcha<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lesbijka<s n="n"/></l><r>lesbička<s n="n"/></r></p></e>
     <e><p><l>nadzieja<s n="n"/><s n="f"/></l><r>naděje<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arsen<s n="n"/><s n="mi"/></l><r>arzen<s n="n"/><s n="mi"/></r></p></e>
@@ -11883,6 +11884,7 @@
     <e><p><l>dzieciństwo<s n="n"/><s n="nt"/></l><r>dětství<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>dziecko<s n="n"/><s n="nt"/></l><r>dítě<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>dziedzictwo<s n="n"/><s n="nt"/></l><r>dědictví<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>chciwość<s n="n"/><s n="f"/></l><r>lakomství<s n="n"/><s n="nt"/></r></p></e>
     <e r="LR"><p><l>szkło<s n="n"/><s n="nt"/></l><r>sklo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jabłko<s n="n"/><s n="nt"/></l><r>jablko<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jabłko<g><b/>Adama</g><s n="n"/><s n="nt"/></l><r>ohryzek<s n="n"/><s n="mi"/></r></p></e>
