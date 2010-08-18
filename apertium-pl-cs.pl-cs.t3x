@@ -80,12 +80,12 @@
             </let>
           </when>
         </choose>
+        <out>
+          <lu>
+            <clip pos="1" part="whole"/>
+          </lu>
+        </out>
       </action>
-      <out>
-        <lu>
-          <clip pos="1" part="whole"/>
-        </lu>
-      </out>
     </rule>
 
     <rule comment="CHUNK: part">
