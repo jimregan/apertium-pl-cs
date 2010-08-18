@@ -1446,7 +1446,8 @@
     <e><p><l>glinianka<s n="n"/><s n="f"/></l><r>hliněnka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>glob<s n="n"/><s n="mi"/></l><r>glób<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gondolier<s n="n"/><s n="f"/></l><r>gondoliér<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>gondoliera<s n="n"/><s n="f"/></l><r>gondoliér<s n="n"/><s n="mi"/></r></p></e>
+    <e r="LR"><p><l>barkarola<s n="n"/><s n="f"/></l><r>barkarola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gondoliera<s n="n"/><s n="f"/></l><r>barkarola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gong<s n="n"/><s n="mi"/></l><r>gong<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gołębnik<s n="n"/><s n="mi"/></l><r>holubník<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>goździk<s n="n"/><s n="mi"/></l><r>hrozdík<s n="n"/><s n="ma"/></r></p></e>
