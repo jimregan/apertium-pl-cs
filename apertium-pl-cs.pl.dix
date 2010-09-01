@@ -44821,6 +44821,14 @@
     <e lm="można"><i>można</i><par n="trzeba__vaux"/></e>
     <e lm="powinien"><i>powin</i><par n="powin/ien__vaux"/></e>
 
+    <e lm="wsiadać"><i>wsiada</i><par n="podoba/ć__vblex"/></e>
+    <e lm="świadczyć"><i>świadcz</i><par n="wierz/yć__vblex"/></e>
+    <e lm="zagrażać"><i>zagraża</i><par n="podoba/ć__vblex"/></e>
+    <e lm="lekceważyć"><i>lekceważ</i><par n="wierz/yć__vblex"/></e>
+    <e lm="wałęsać"><i>wałęsa</i><par n="podoba/ć__vblex"/></e>
+    <e lm="zgadzać"><i>zgadza</i><par n="podoba/ć__vblex"/></e>
+    <e lm="wysiadać"><i>wysiada</i><par n="podoba/ć__vblex"/></e>
+
     <e lm="przełożyć"><i>przeł</i><par n="przeł/ożyć__vblex"/></e>
     <e lm="zabić"><i>zabi</i><par n="zabi/ć__vblex"/></e>
     <e lm="przynieść"><i>przyni</i><par n="przyni/eść__vblex"/></e>
