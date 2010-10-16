@@ -68,6 +68,7 @@ dev/inconsistency.sh -text
 dev/interwiki.cs-pl -text
 dev/interwiki.pl-cs -text
 dev/missing-verbs-bil -text
+dev/modernise.pl -text
 dev/morfologik_adjectives -text
 dev/morfologik_adverbs -text
 dev/morfologik_nouns -text
