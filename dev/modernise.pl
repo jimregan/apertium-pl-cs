@@ -32,6 +32,7 @@ while (<>)
 	s/([dr])y([aeiouąęó])/$1i$2/g;
 
 	# końcówki
+	s/iejszem\b/iejszym/g;
 	s/(\pM[^kg])emi/$1ymi/g;
 	s/([kg])emi/$1imi/g;
 	print;
