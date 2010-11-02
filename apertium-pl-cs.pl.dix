@@ -12494,6 +12494,48 @@
       </e>
     </pardef>
     <pardef n="każd/y__prn">
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="prn"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l></l>
@@ -12503,6 +12545,48 @@
       </e>
     </pardef>
     <pardef n="każd/y__det">
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="det"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="det"/><s n="ind"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="det"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>en</l>
+          <r>y<s n="det"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l></l>
