@@ -57545,6 +57545,7 @@
     <e lm="statistický"><par n="nej__adv"/><i>statisti</i><par n="exotermi/cký__adj"/></e>
     <e lm="stavební"><par n="nej__adv"/><i>stavebn</i><par n="finančn/í__adj"/></e>
     <e lm="stavropolský"><par n="nej__adv"/><i>stavropol</i><par n="če/ský__adj"/></e>
+    <e lm="staropolský"><par n="nej__adv"/><i>staropol</i><par n="če/ský__adj"/></e>
     <e lm="stejný"><par n="nej__adv"/><i>stejn</i><par n="nov/ý__adj"/></e>
     <e lm="stejně"><i>stejně</i><par n="daleko__adv"/></e>
     <e lm="stejně tak"><i>stejně<b/>tak</i><par n="tehdy__adv"/></e>
@@ -58068,6 +58069,7 @@
     <e lm="patřit k" r="LR"><par n="v_neg"/><i>patř</i><par n="patř/it__vblex"/><p><l><b/>ke</l><r><g><b/>k</g></r></p></e>
     <e lm="patřit k" r="LR"><par n="v_neg"/><i>patř</i><par n="patř/it__vblex"/><p><l><b/>ku</l><r><g><b/>k</g></r></p></e>
     <e lm="patřit k" r="RL"><par n="v_neg"/><i>patř</i><par n="patř/it__vblex"/><p><l><b/><a/>k</l><r><g><b/>k</g></r></p></e>-->
+    <e lm="potřebovat"><par n="v_neg"/><i>potřeb</i><par n="mil/ovat__vblex"/></e>
     <e lm="absorbovat"><par n="v_neg"/><i>absorb</i><par n="mil/ovat__vblex"/></e>
     <e lm="adaptovat"><par n="v_neg"/><i>adapt</i><par n="mil/ovat__vblex"/></e>
     <e lm="adresovat"><par n="v_neg"/><i>adres</i><par n="mil/ovat__vblex"/></e>
