@@ -1190,13 +1190,13 @@
     <e><p><l>bilion<s n="n"/><s n="mi"/></l><r>bilion<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bilirubina<s n="n"/><s n="f"/></l><r>bilirubin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>biliwerdyna<s n="n"/><s n="f"/></l><r>biliverdin<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>billboard<s n="n"/><s n="mp"/></l><r>billboard<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>billboard<s n="n"/><s n="mi"/></l><r>billboard<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bima<s n="n"/><s n="f"/></l><r>bima<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>biocyd<s n="n"/><s n="mp"/></l><r>biocid<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>biofeedback<s n="n"/><s n="mi"/></l><r>biofeedback<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>bioindykator<s n="n"/><s n="ma"/></l><r>bioindikátor<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bioindykator<s n="n"/><s n="mi"/></l><r>bioindikátor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>biopreparat<s n="n"/><s n="mi"/></l><r>biopreparat<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>bioreaktor<s n="n"/><s n="ma"/></l><r>bioreaktor<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bioreaktor<s n="n"/><s n="mi"/></l><r>bioreaktor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>biosynteza<s n="n"/><s n="f"/></l><r>biosyntéza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>biotyna<s n="n"/><s n="f"/></l><r>biotin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>biotyt<s n="n"/><s n="mi"/></l><r>biotit<s n="n"/><s n="mi"/></r></p></e>
@@ -4711,8 +4711,8 @@
     <e><p><l>demon<s n="n"/><s n="ma"/></l><r>démon<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>departament<s n="n"/><s n="mi"/></l><r>departement<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>deser<s n="n"/><s n="mi"/></l><r>dezert<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>dialektyka<s n="n"/><s n="mp"/></l><r>dialektika<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>dialektyk<s n="n"/><s n="mp"/></l><r>dialektika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dialektyka<s n="n"/><s n="f"/></l><r>dialektika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dialektyk<s n="n"/><s n="mp"/></l><r>dialektik<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>długość<s n="n"/><s n="f"/></l><r>délka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dobrobyt<s n="n"/><s n="mi"/></l><r>blahobyt<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dodatek<s n="n"/><s n="mi"/></l><r>dodatek<s n="n"/><s n="mi"/></r></p></e>
@@ -13823,18 +13823,25 @@
     <e><p><l>kg<s n="n"/><s n="mi"/></l><r>kg<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>cm<s n="n"/><s n="mi"/></l><r>cm<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>km<s n="n"/><s n="mi"/></l><r>km<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>św<s n="abbr"/></l><r>sv<s n="abbr"/></r></p></e>
+    <e><p><l>św<s n="n"/><s n="mp"/></l><r>sv<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>św<s n="n"/><s n="f"/></l><r>sv<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nr<s n="n"/><s n="mi"/></l><r>č<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>nr<s n="abbr"/></l><r>no<s n="abbr"/></r></p></e>
     <e r="RL"><p><l>nr<s n="abbr"/></l><r>čís<s n="abbr"/></r></p></e>
     <e><p><l>br<s n="abbr"/></l><r>t.r.<s n="abbr"/></r></p></e>
-    <e><p><l>dr<s n="abbr"/></l><r>dr<s n="abbr"/></r></p></e>
-    <e><p><l>prof<s n="abbr"/></l><r>prof<s n="abbr"/></r></p></e>
+    <e><p><l>dr<s n="n"/><s n="mp"/></l><r>dr<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>dr<s n="n"/><s n="f"/></l><r>dr<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prof<s n="n"/><s n="mp"/></l><r>prof<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>prof<s n="n"/><s n="f"/></l><r>prof<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>s.a.<s n="abbr"/></l><r>a.s.<s n="abbr"/></r></p></e>
-    <e><p><l>n.p.m.<s n="abbr"/></l><r>n.m.<s n="abbr"/></r></p></e>
+    <e><p><l>n.p.m.<s n="adv"/></l><r>n.m.<s n="adv"/></r></p></e>
     <e><p><l>mld<s n="n"/><s n="mi"/></l><r>mld<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>kpt<s n="abbr"/></l><r>kpt<s n="abbr"/></r></p></e>
+    <e><p><l>prof<s n="n"/><s n="mp"/></l><r>prof<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>prof<s n="n"/><s n="f"/></l><r>prof<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mjr<s n="abbr"/></l><r>mjr<s n="abbr"/></r></p></e>
+    <e><p><l>prof<s n="n"/><s n="mp"/></l><r>prof<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>prof<s n="n"/><s n="f"/></l><r>prof<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>i<b/>in.<s n="abbr"/></l><r>aj<s n="abbr"/></r></p></e>
     <e><p><l>tzn<s n="adv"/></l><r>tzn<s n="adv"/></r></p></e>
     <e><p><l>hl<s n="abbr"/></l><r>hl<s n="abbr"/></r></p></e>
@@ -13847,10 +13854,10 @@
     <e><p><l>str<s n="abbr"/></l><r>str<s n="abbr"/></r></p></e>
     <e><p><l>tys<s n="abbr"/></l><r>tis<s n="abbr"/></r></p></e>
     <e><p><l>mg<s n="abbr"/></l><r>mg<s n="abbr"/></r></p></e>
-    <e><p><l>kcal<s n="abbr"/></l><r>kcal<s n="abbr"/></r></p></e>
+    <e><p><l>kcal<s n="n"/><s n="mi"/></l><r>kcal<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>www<s n="abbr"/></l><r>www<s n="abbr"/></r></p></e>
     <e><p><l>kb<s n="abbr"/></l><r>kb<s n="abbr"/></r></p></e>
-    <e><p><l>mies<s n="abbr"/></l><r>měs<s n="abbr"/></r></p></e>
+    <e><p><l>mies<s n="n"/><s n="mi"/></l><r>měs<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>tab<s n="abbr"/></l><r>tab<s n="abbr"/></r></p></e>
     <e><p><l>p.<s n="abbr"/></l><r>pí<s n="abbr"/></r></p></e>
     <e><p><l>r.<s n="abbr"/></l><r>r.<s n="abbr"/></r></p></e>
@@ -13860,12 +13867,18 @@
     <e><p><l>n.e.<s n="adv"/></l><r>n.l.<s n="adv"/></r></p></e>
     <e><p><l>gr<s n="abbr"/></l><r>gr<s n="abbr"/></r></p></e>
     <e><p><l>rep<s n="abbr"/></l><r>rep<s n="abbr"/></r></p></e>
-    <e><p><l>gen<s n="abbr"/></l><r>gen<s n="abbr"/></r></p></e>
-    <e><p><l>por<s n="abbr"/></l><r>por<s n="abbr"/></r></p></e>
-    <e><p><l>ppor<s n="abbr"/></l><r>ppor<s n="abbr"/></r></p></e>
-    <e><p><l>płk<s n="abbr"/></l><r>plk<s n="abbr"/></r></p></e>
-    <e><p><l>ppłk<s n="abbr"/></l><r>pplk<s n="abbr"/></r></p></e>
-    <e><p><l>bryg<s n="abbr"/></l><r>brig<s n="abbr"/></r></p></e>
+    <e><p><l>gen<s n="n"/><s n="mp"/></l><r>gen<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>gen<s n="n"/><s n="f"/></l><r>gen<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>por<s n="n"/><s n="mp"/></l><r>por<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>por<s n="n"/><s n="f"/></l><r>por<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ppor<s n="n"/><s n="mp"/></l><r>ppor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>ppor<s n="n"/><s n="f"/></l><r>ppor<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>płk<s n="n"/><s n="mp"/></l><r>plk<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>płk<s n="n"/><s n="f"/></l><r>plk<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ppłk<s n="n"/><s n="mp"/></l><r>pplk<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>ppłk<s n="n"/><s n="f"/></l><r>pplk<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bryg<s n="n"/><s n="mp"/></l><r>brig<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>bryg<s n="n"/><s n="f"/></l><r>brig<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>jpg<s n="abbr"/></l><r>jpg<s n="abbr"/></r></p></e>
     <e><p><l>ascii<s n="abbr"/></l><r>ascii<s n="abbr"/></r></p></e>
@@ -14134,7 +14147,6 @@
     <e c="FMT:CHECK"><p><l>wirus<s n="n"/><s n="ma"/></l><r>virus<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>włosek<s n="n"/><s n="mi"/></l><r>kadeř<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>wózek<s n="n"/><s n="mi"/></l><r>vozík<s n="n"/><s n="mi"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>wskaźnik<s n="n"/><s n="mi"/></l><r>indikátor<s n="n"/><s n="ma"/></r></p></e>
     <e c="FMT:CHECK"><p><l>wywiad<s n="n"/><s n="mi"/></l><r>interview<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>zjadliwość<s n="n"/><s n="f"/></l><r>virulence<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>zjawisko<s n="n"/><s n="nt"/></l><r>fenomén<s n="n"/><s n="ma"/></r></p></e>
