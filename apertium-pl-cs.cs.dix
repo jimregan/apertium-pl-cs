@@ -55322,6 +55322,7 @@
     <e r="LR" lm="náš"><p><l>na</l><r>ná</r></p><par n="ná/š__det"/></e>
     <e lm="náš"><i>ná</i><par n="ná/š__det"/></e>
     <e lm="několik"><i>několik</i><par n="kolik__det"/></e>
+    <e lm="několik"><i>několik</i><par n="kolik__prn"/></e>
     <e lm="oba"><i>ob</i><par n="ob/a__det"/></e>
     <e lm="osmý"><i>osm</i><par n="čtvrt/ý__det"/></e>
     <e lm="osmdesátý"><i>osmdesát</i><par n="čtvrt/ý__det"/></e>
