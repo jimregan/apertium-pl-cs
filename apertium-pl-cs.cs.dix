@@ -30171,8 +30171,14 @@
         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="indecl"/></r>
       </p>
     </e>
-
-
+    </pardef>
+    <pardef n="HTML__n">
+    <e>
+      <p>
+        <l></l>
+        <r><s n="n"/><s n="acr"/><s n="mi"/><s n="sp"/><s n="indecl"/></r>
+      </p>
+    </e>
     </pardef>
     <pardef n="čer/ň__n">
     <e>
@@ -54887,6 +54893,10 @@
     <e lm="vřídlo"><i>vříd</i><par n="vříd/lo__n"/></e>
     <e lm="vůle"><i>vůl</i><par n="alergi/e__n"/></e>
     <e lm="wasabi"><i>wasabi</i><par n="wasabi__n"/></e>
+    <e lm="HTML"><i>HTML</i><par n="HTML__n"/></e>
+    <e lm="SGML"><i>SGML</i><par n="HTML__n"/></e>
+    <e lm="XML"><i>XML</i><par n="HTML__n"/></e>
+    <e lm="XUL"><i>XUL</i><par n="HTML__n"/></e>
     <e lm="western"><i>western</i><par n="arak__n"/></e>
     <e lm="windsurfing"><i>windsurfin</i><par n="windsurfin/g__n"/></e>
     <e lm="workshop"><i>workshop</i><par n="arak__n"/></e>

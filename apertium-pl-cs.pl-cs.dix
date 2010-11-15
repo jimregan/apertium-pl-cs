@@ -15,6 +15,7 @@
     <sdef n="cnjsub" /> 
     <sdef n="cnjadv" /> 
     <sdef n="n" /> 
+    <sdef n="acr" /> 
     <sdef n="abbr" /> 
     <sdef n="rel" /> 
     <sdef n="np" /> 
@@ -95,24 +96,18 @@
         <r><s n="ND"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="sp"/></l>
         <r><s n="sg"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="sp"/></l>
         <r><s n="pl"/></r>
       </p>
     </e>
-
-
     </pardef>
 
     <pardef n="sg_sgpl">
@@ -122,24 +117,18 @@
         <r><s n="ND"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="sg"/></l>
         <r><s n="sg"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="sg"/></l>
         <r><s n="pl"/></r>
       </p>
     </e>
-
-
     </pardef>
 
     <pardef n="pl_sgpl">
@@ -149,24 +138,18 @@
         <r><s n="ND"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="pl"/></l>
         <r><s n="sg"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="pl"/></l>
         <r><s n="pl"/></r>
       </p>
     </e>
-
-
     </pardef>
 
     <pardef n="det_adv">
@@ -176,63 +159,98 @@
         <r><s n="mf"/><s n="pl"/><s n="CD"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="adv"/></l>
         <r><s n="mf"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="adv"/></l>
         <r><s n="mf"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="adv"/></l>
         <r><s n="mf"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="adv"/></l>
         <r><s n="mf"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="adv"/></l>
         <r><s n="mf"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="adv"/></l>
         <r><s n="mf"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
-
-
     <e r="RL">
       <p>
         <l><s n="adv"/></l>
         <r><s n="mf"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
-
+    </pardef>
+    <pardef n="HTML">
+    <e r="LR">
+      <p>
+        <l><s n="sg"/><s n="nom"/></l>
+        <r><s n="sp"/><s n="indecl"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l><s n="sg"/><s n="gen"/></l>
+        <r><s n="sp"/><s n="indecl"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l><s n="sg"/><s n="dat"/></l>
+        <r><s n="sp"/><s n="indecl"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l><s n="sg"/><s n="acc"/></l>
+        <r><s n="sp"/><s n="indecl"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l><s n="sg"/><s n="ins"/></l>
+        <r><s n="sp"/><s n="indecl"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l><s n="sg"/><s n="loc"/></l>
+        <r><s n="sp"/><s n="indecl"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l><s n="sg"/><s n="voc"/></l>
+        <r><s n="sp"/><s n="indecl"/></r>
+      </p>
+    </e>
+    <e r="RL">
+      <p>
+        <l><s n="sg"/><s n="CD"/></l>
+        <r><s n="sp"/><s n="indecl"/></r>
+      </p>
+    </e>
     </pardef>
 
     <pardef n="det_ord">
@@ -907,6 +925,10 @@
     <e><p><l>sto<s n="n"/><s n="nt"/><s n="sg"/></l><r>sto<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>sto<s n="n"/><s n="nt"/><s n="pl"/></l><r>sto<s n="n"/><s n="nt"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>sto<s n="n"/><s n="nt"/><s n="pl"/></l><r>sto<s n="n"/><s n="nt"/><s n="du"/></r></p></e>
+    <e><p><l>HTML<s n="n"/><s n="acr"/><s n="mi"/></l><r>HTML<s n="n"/><s n="acr"/><s n="mi"/></r></p><par n="HTML"/></e>
+    <e><p><l>SGML<s n="n"/><s n="acr"/><s n="mi"/></l><r>SGML<s n="n"/><s n="acr"/><s n="mi"/></r></p><par n="HTML"/></e>
+    <e><p><l>XML<s n="n"/><s n="acr"/><s n="mi"/></l><r>XML<s n="n"/><s n="acr"/><s n="mi"/></r></p><par n="HTML"/></e>
+    <e><p><l>XUL<s n="n"/><s n="acr"/><s n="mi"/></l><r>XUL<s n="n"/><s n="acr"/><s n="mi"/></r></p><par n="HTML"/></e>
 
     <!-- Nouns -->
     <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
