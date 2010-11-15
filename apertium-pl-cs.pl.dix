@@ -53931,7 +53931,6 @@
     <e lm="gruszka"><i>grusz</i><par n="mat/ka__n"/></e>
     <e lm="gumka"><i>gum</i><par n="mat/ka__n"/></e>
     <e lm="huśtawka"><i>huśtaw</i><par n="mat/ka__n"/></e>
-    <e lm="Jamajka"><i>Jamaj</i><par n="mat/ka__n"/></e>
     <e lm="jaskółka"><i>jaskół</i><par n="mat/ka__n"/></e>
     <e lm="jaszczurka"><i>jaszczur</i><par n="mat/ka__n"/></e>
     <e lm="jedynka"><i>jedyn</i><par n="mat/ka__n"/></e>
@@ -55095,6 +55094,7 @@
     <e lm="Polska"><i>Pols</i><par n="Pols/ka__np"/></e>
     <e lm="Izerka"><i>Izer</i><par n="Pols/ka__np"/></e>
     <e lm="Afryka"><i>Afry</i><par n="Pols/ka__np"/></e>
+    <e lm="Jamajka"><i>Jamaj</i><par n="Pols/ka__n"/></e>
     <e lm="Czechy"><i>Czech</i><par n="Czech/y__np"/></e>
     <e lm="Prusy"><i>Prus</i><par n="Czech/y__np"/></e>
     <e lm="Niemcy"><i>Niem</i><par n="Niem/cy__np"/></e>
