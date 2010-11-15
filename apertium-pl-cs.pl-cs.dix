@@ -13806,25 +13806,25 @@
 
 
      <!-- Abbreviations -->
-    <e><p><l>np<s n="abbr"/></l><r>např<s n="abbr"/></r></p></e>
-    <e r="RL"><p><l>np<s n="abbr"/></l><r>kupř<s n="abbr"/></r></p></e>
-    <e><p><l>tzw<s n="abbr"/></l><r>tzv<s n="abbr"/></r></p></e>
+    <e><p><l>np<s n="adv"/></l><r>např<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>np<s n="adv"/></l><r>kupř<s n="adv"/></r></p></e>
+    <e><p><l>tzw<s n="adv"/></l><r>tzv<s n="adv"/></r></p></e>
     <e r="LR"><p><l>ca<s n="abbr"/></l><r>cca<s n="abbr"/></r></p></e>
     <e><p><l>ok<s n="abbr"/></l><r>cca<s n="abbr"/></r></p></e>
-    <e><p><l>itd<s n="abbr"/></l><r>atd<s n="abbr"/></r></p></e>
-    <e><p><l>itp<s n="abbr"/></l><r>atp<s n="abbr"/></r></p></e>
-    <e><p><l>etc<s n="abbr"/></l><r>etc<s n="abbr"/></r></p></e>
-    <e r="RL"><p><l>itd<s n="abbr"/></l><r>apod<s n="abbr"/></r></p></e>
-    <e><p><l>tj<s n="abbr"/></l><r>tj<s n="abbr"/></r></p></e>
-    <e><p><l>mln<s n="abbr"/></l><r>mil<s n="abbr"/></r></p></e>
+    <e><p><l>itd<s n="adv"/></l><r>atd<s n="adv"/></r></p></e>
+    <e><p><l>itp<s n="adv"/></l><r>atp<s n="adv"/></r></p></e>
+    <e><p><l>etc<s n="adv"/></l><r>etc<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>itd<s n="adv"/></l><r>apod<s n="adv"/></r></p></e>
+    <e><p><l>tj<s n="adv"/></l><r>tj<s n="adv"/></r></p></e>
+    <e><p><l>mln<s n="n"/><s n="mi"/></l><r>mil<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>inż<s n="abbr"/></l><r>ing<s n="abbr"/></r></p></e>
-    <e><p><l>godz<s n="abbr"/></l><r>h<s n="abbr"/></r></p></e>
-    <e><p><l>tel<s n="abbr"/></l><r>tél<s n="abbr"/></r></p></e>
-    <e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
-    <e><p><l>cm<s n="abbr"/></l><r>cm<s n="abbr"/></r></p></e>
-    <e><p><l>km<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
+    <e><p><l>godz<s n="n"/><s n="f"/></l><r>h<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tel<s n="n"/><s n="mi"/></l><r>tél<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>kg<s n="n"/><s n="mi"/></l><r>kg<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>cm<s n="n"/><s n="mi"/></l><r>cm<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>km<s n="n"/><s n="mi"/></l><r>km<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>św<s n="abbr"/></l><r>sv<s n="abbr"/></r></p></e>
-    <e><p><l>nr<s n="abbr"/></l><r>č<s n="abbr"/></r></p></e>
+    <e><p><l>nr<s n="n"/><s n="mi"/></l><r>č<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>nr<s n="abbr"/></l><r>no<s n="abbr"/></r></p></e>
     <e r="RL"><p><l>nr<s n="abbr"/></l><r>čís<s n="abbr"/></r></p></e>
     <e><p><l>br<s n="abbr"/></l><r>t.r.<s n="abbr"/></r></p></e>
@@ -13832,11 +13832,11 @@
     <e><p><l>prof<s n="abbr"/></l><r>prof<s n="abbr"/></r></p></e>
     <e><p><l>s.a.<s n="abbr"/></l><r>a.s.<s n="abbr"/></r></p></e>
     <e><p><l>n.p.m.<s n="abbr"/></l><r>n.m.<s n="abbr"/></r></p></e>
-    <e><p><l>mld<s n="abbr"/></l><r>mld<s n="abbr"/></r></p></e>
+    <e><p><l>mld<s n="n"/><s n="mi"/></l><r>mld<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>kpt<s n="abbr"/></l><r>kpt<s n="abbr"/></r></p></e>
     <e><p><l>mjr<s n="abbr"/></l><r>mjr<s n="abbr"/></r></p></e>
     <e><p><l>i<b/>in.<s n="abbr"/></l><r>aj<s n="abbr"/></r></p></e>
-    <e><p><l>tzn<s n="abbr"/></l><r>tzn<s n="abbr"/></r></p></e>
+    <e><p><l>tzn<s n="adv"/></l><r>tzn<s n="adv"/></r></p></e>
     <e><p><l>hl<s n="abbr"/></l><r>hl<s n="abbr"/></r></p></e>
     <e><p><l>ha<s n="abbr"/></l><r>ha<s n="abbr"/></r></p></e>
     <e><p><l>fr<s n="abbr"/></l><r>fr<s n="abbr"/></r></p></e>
@@ -13855,9 +13855,9 @@
     <e><p><l>p.<s n="abbr"/></l><r>pí<s n="abbr"/></r></p></e>
     <e><p><l>r.<s n="abbr"/></l><r>r.<s n="abbr"/></r></p></e>
     <e><p><l>Kč<s n="abbr"/></l><r>Kč<s n="abbr"/></r></p></e>
-    <e><p><l>zł<s n="abbr"/></l><r>zl<s n="abbr"/></r></p></e>
-    <e><p><l>p.n.e.<s n="abbr"/></l><r>př.n.l.<s n="abbr"/></r></p></e>
-    <e><p><l>n.e.<s n="abbr"/></l><r>n.l.<s n="abbr"/></r></p></e>
+    <e><p><l>zł<s n="n"/><s n="mi"/></l><r>zl<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>p.n.e.<s n="adv"/></l><r>př.n.l.<s n="adv"/></r></p></e>
+    <e><p><l>n.e.<s n="adv"/></l><r>n.l.<s n="adv"/></r></p></e>
     <e><p><l>gr<s n="abbr"/></l><r>gr<s n="abbr"/></r></p></e>
     <e><p><l>rep<s n="abbr"/></l><r>rep<s n="abbr"/></r></p></e>
     <e><p><l>gen<s n="abbr"/></l><r>gen<s n="abbr"/></r></p></e>

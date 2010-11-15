@@ -30172,6 +30172,28 @@
       </p>
     </e>
     </pardef>
+    <pardef n="km__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="mi"/><s n="sp"/><s n="indecl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="sv__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="ma"/><s n="sp"/><s n="indecl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="sp"/><s n="indecl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="HTML__n">
     <e>
       <p>
@@ -58830,6 +58852,14 @@
     <!-- ******************************
           group abbr
       ****************************** -->
+    <e lm="km"><i>km</i><par n="km__n"/></e>
+    <e lm="kg"><i>kg</i><par n="km__n"/></e>
+    <e lm="cm"><i>cm</i><par n="km__n"/></e>
+    <e lm="no"><i>no</i><par n="km__n"/></e>
+    <e lm="sv"><i>sv</i><par n="sv__n"/></e>
+    <e lm="mil"><i>mil</i><par n="km__n"/></e>
+    <e lm="mld"><i>mld</i><par n="km__n"/></e>
+    <e lm="zl"><i>zl</i><par n="km__n"/></e>
     <e lm="Kč"><i>Kč</i><par n="např__abbr"/></e>
     <e lm="a.s."><i>a.s.</i><par n="např__abbr"/></e>
     <e lm="aj"><i>aj</i><par n="např__abbr"/></e>
@@ -58837,18 +58867,18 @@
     <e lm="api"><i>api</i><par n="např__abbr"/></e>
     <e r="LR" lm="atp"><p><l>apod</l><r>atp</r></p><par n="např__abbr"/></e>
     <e lm="ascii"><i>ascii</i><par n="např__abbr"/></e>
-    <e lm="atd"><i>atd</i><par n="např__abbr"/></e>
-    <e lm="atp"><i>atp</i><par n="např__abbr"/></e>
-    <e r="LR" lm="atp"><p><l>atpod</l><r>atp</r></p><par n="např__abbr"/></e>
+    <e lm="atd"><i>atd</i><par n="tehdy__adv"/></e>
+    <e lm="atp"><i>atp</i><par n="tehdy__adv"/></e>
+    <e r="LR" lm="atp"><p><l>atpod</l><r>atp</r></p><par n="tehdy__adv"/></e>
     <e lm="bmp"><i>bmp</i><par n="např__abbr"/></e>
-    <e lm="brig"><i>brig</i><par n="např__abbr"/></e>
+    <e lm="brig"><i>brig</i><par n="sv__n"/></e>
     <e lm="cca"><i>cca</i><par n="např__abbr"/></e>
-    <e lm="cm"><i>cm</i><par n="např__abbr"/></e>
+    <e lm="cm"><i>cm</i><par n="km__n"/></e>
     <e lm="dag"><i>dag</i><par n="např__abbr"/></e>
-    <e lm="dr"><i>dr</i><par n="např__abbr"/></e>
-    <e lm="etc"><i>etc</i><par n="např__abbr"/></e>
+    <e lm="dr"><i>dr</i><par n="sv__n"/></e>
+    <e lm="etc"><i>etc</i><par n="tehdy__adv"/></e>
     <e lm="fr"><i>fr</i><par n="např__abbr"/></e>
-    <e lm="gen"><i>gen</i><par n="např__abbr"/></e>
+    <e lm="gen"><i>gen</i><par n="sv__n"/></e>
     <e lm="gr"><i>gr</i><par n="např__abbr"/></e>
     <e lm="h"><i>h</i><par n="např__abbr"/></e>
     <e lm="ha"><i>ha</i><par n="např__abbr"/></e>
@@ -58859,50 +58889,50 @@
 
     <e lm="jpg"><i>jpg</i><par n="např__abbr"/></e>
     <e lm="kb"><i>kb</i><par n="např__abbr"/></e>
-    <e lm="kcal"><i>kcal</i><par n="např__abbr"/></e>
-    <e lm="kg"><i>kg</i><par n="např__abbr"/></e>
-    <e lm="km"><i>km</i><par n="např__abbr"/></e>
-    <e lm="kpt"><i>kpt</i><par n="např__abbr"/></e>
-    <e lm="kupř"><i>kupř</i><par n="např__abbr"/></e>
+    <e lm="kcal"><i>kcal</i><par n="km__n"/></e>
+    <e lm="kg"><i>kg</i><par n="km__n"/></e>
+    <e lm="km"><i>km</i><par n="km__n"/></e>
+    <e lm="kpt"><i>kpt</i><par n="sv__n"/></e>
+    <e lm="kupř"><i>kupř</i><par n="tehdy__adv"/></e>
     <e lm="max"><i>max</i><par n="např__abbr"/></e>
     <e lm="mg"><i>mg</i><par n="např__abbr"/></e>
     <e lm="mgr"><i>mgr</i><par n="např__abbr"/></e>
     <e lm="mil"><i>mil</i><par n="např__abbr"/></e>
     <e lm="min"><i>min</i><par n="např__abbr"/></e>		<!-- ministerstvo, minuta, minimum -->
-    <e lm="mjr"><i>mjr</i><par n="např__abbr"/></e>
+    <e lm="mjr"><i>mjr</i><par n="sv__n"/></e>
     <e lm="mld"><i>mld</i><par n="např__abbr"/></e>
-    <e lm="měs"><i>měs</i><par n="např__abbr"/></e>
+    <e lm="měs"><i>měs</i><par n="km__n"/></e>
     <e lm="n.l."><i>n.l.</i><par n="např__abbr"/></e>
     <e lm="n.m."><i>n.m.</i><par n="např__abbr"/></e>
 
     <!-- Abbreviations -->
     <e lm="např"><i>např</i><par n="např__abbr"/></e>
     <e lm="no"><i>no</i><par n="např__abbr"/></e>
-    <e lm="plk"><i>plk</i><par n="např__abbr"/></e>
-    <e lm="por"><i>por</i><par n="např__abbr"/></e>
-    <e lm="pplk"><i>pplk</i><par n="např__abbr"/></e>
-    <e lm="ppor"><i>ppor</i><par n="např__abbr"/></e>
-    <e lm="prof"><i>prof</i><par n="např__abbr"/></e>
+    <e lm="plk"><i>plk</i><par n="sv__n"/></e>
+    <e lm="por"><i>por</i><par n="sv__n"/></e>
+    <e lm="pplk"><i>pplk</i><par n="sv__n"/></e>
+    <e lm="ppor"><i>ppor</i><par n="sv__n"/></e>
+    <e lm="prof"><i>prof</i><par n="sv__n"/></e>
     <e lm="pí"><i>pí</i><par n="např__abbr"/></e>		<!-- paní -->
     <e lm="př.n.l."><i>př.n.l.</i><par n="např__abbr"/></e>
     <e lm="r."><i>r.</i><par n="např__abbr"/></e>		<!-- rok -->
     <e lm="rep"><i>rep</i><par n="např__abbr"/></e>
     <e lm="str"><i>str</i><par n="např__abbr"/></e>
-    <e lm="sv"><i>sv</i><par n="např__abbr"/></e>
+    <e lm="sv"><i>sv</i><par n="sv__n"/></e>
     <e lm="t.r."><i>t.r.</i><par n="např__abbr"/></e>
     <e lm="tab"><i>tab</i><par n="např__abbr"/></e>
     <e r="LR" lm="tél"><p><l>tel</l><r>tél</r></p><par n="např__abbr"/></e>
     <e lm="tis"><i>tis</i><par n="např__abbr"/></e>
-    <e lm="tj"><i>tj</i><par n="např__abbr"/></e>
-    <e lm="tzn"><i>tzn</i><par n="např__abbr"/></e>
-    <e lm="tzv"><i>tzv</i><par n="např__abbr"/></e>
-    <e lm="tél"><i>tél</i><par n="např__abbr"/></e>
+    <e lm="tj"><i>tj</i><par n="tehdy__adv"/></e>
+    <e lm="tzn"><i>tzn</i><par n="tehdy__adv"/></e>
+    <e lm="tzv"><i>tzv</i><par n="tehdy__adv"/></e>
+    <e lm="tél"><i>tél</i><par n="km__n"/></e>
     <e lm="utc"><i>utc</i><par n="např__abbr"/></e>
     <e lm="utf"><i>utf</i><par n="např__abbr"/></e>
     <e lm="www"><i>www</i><par n="např__abbr"/></e>
-    <e lm="zl"><i>zl</i><par n="např__abbr"/></e>
-    <e lm="č"><i>č</i><par n="např__abbr"/></e>
-    <e lm="čís"><i>čís</i><par n="např__abbr"/></e>
+    <e lm="zl"><i>zl</i><par n="km__n"/></e>
+    <e lm="č"><i>č</i><par n="wasabi__n"/></e>
+    <e lm="čís"><i>čís</i><par n="wasabi__n"/></e>
     <!-- ******************************
           group ij
       ****************************** -->
