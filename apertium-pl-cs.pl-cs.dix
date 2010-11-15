@@ -960,10 +960,10 @@
     <e><p><l>abwehra<s n="n"/><s n="f"/></l><r>abwehr<s n="n"/><s n="mi"/></r></p></e>
     <e r="LR"><p><l>abwera<s n="n"/><s n="f"/></l><r>abwehr<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>acetaldehyd<s n="n"/><s n="mi"/></l><r>acetaldehyd<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>acetamid<s n="n"/><s n="mi"/></l><r>acetamid<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>acetamid<s n="n"/><s n="mi"/></l><r>acetamid<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>acetylocholina<s n="n"/><s n="f"/></l><r>acetylcholin<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>achondryt<s n="n"/><s n="mi"/></l><r>achondrit<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>achromat<s n="n"/><s n="mi"/></l><r>achromát<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>achondryt<s n="n"/><s n="mi"/></l><r>achondrit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>achromat<s n="n"/><s n="mi"/></l><r>achromát<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>addycja<s n="n"/><s n="f"/></l><r>adice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adenina<s n="n"/><s n="f"/></l><r>adenin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>adenozyna<s n="n"/><s n="f"/></l><r>adenosin<s n="n"/><s n="mi"/></r></p></e>
@@ -981,13 +981,13 @@
     <e><p><l>afelium<s n="n"/><s n="nt"/></l><r>afélium<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>aflatoksyna<s n="n"/><s n="f"/></l><r>aflatoxin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>afrodyzjak<s n="n"/><s n="mi"/></l><r>afrodiziakum<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>agapant<s n="n"/><s n="mi"/></l><r>kalokvět<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>agapant<s n="n"/><s n="mi"/></l><r>kalokvět<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>agar<s n="n"/><s n="mi"/></l><r>agar<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>agawa<s n="n"/><s n="f"/></l><r>agáve<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agfa<s n="n"/><s n="f"/></l><r>agfa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agnacja<s n="n"/><s n="f"/></l><r>agnát<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>agrafa<s n="n"/><s n="f"/></l><r>agrafa<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>agranulocyt<s n="n"/><s n="mi"/></l><r>agranulocyt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>agranulocyt<s n="n"/><s n="mi"/></l><r>agranulocyt<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ahinsa<s n="n"/><s n="f"/></l><r>ahinsá<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>airbag<s n="n"/><s n="mi"/></l><r>airbag<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ajmak<s n="n"/><s n="mi"/></l><r>ajmag<s n="n"/><s n="mi"/></r></p></e>
@@ -1021,18 +1021,18 @@
     <e><p><l>altymetr<s n="n"/><s n="mi"/></l><r>výškoměr<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>amazonka<s n="n"/><s n="f"/></l><r>amazonka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ambicja<s n="n"/><s n="f"/></l><r>ambice<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>ambligonit<s n="n"/><s n="mi"/></l><r>amblygonit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>ambligonit<s n="n"/><s n="mi"/></l><r>amblygonit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ambra<s n="n"/><s n="f"/></l><r>ambra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ameba<s n="n"/><s n="f"/></l><r>améba<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ameryk<s n="n"/><s n="mi"/></l><r>americium<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>amfibolit<s n="n"/><s n="mi"/></l><r>amfibolit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>amfibolit<s n="n"/><s n="mi"/></l><r>amfibolit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>amfilada<s n="n"/><s n="f"/></l><r>enfiláda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amigdalina<s n="n"/><s n="f"/></l><r>amygdalin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>amniocenteza<s n="n"/><s n="f"/></l><r>amniocentéza<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>amniopunkcja<s n="n"/><s n="f"/></l><r>amniocentéza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amor<s n="n"/><s n="ma"/></l><r>amor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>amper<s n="n"/><s n="ma"/></l><r>ampér<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>ampersand<s n="n"/><s n="mi"/></l><r>ampersand<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>ampersand<s n="n"/><s n="mi"/></l><r>ampersand<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ampicylina<s n="n"/><s n="f"/></l><r>ampicilin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>amylaza<s n="n"/><s n="f"/></l><r>amyláza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anabaptyzm<s n="n"/><s n="mi"/></l><r>novokřtěnectví<s n="n"/><s n="mi"/></r></p></e>
@@ -1048,29 +1048,29 @@
     <e><p><l>angiotensyna<s n="n"/><s n="f"/></l><r>angiotenzin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>anglikanizm<s n="n"/><s n="mi"/></l><r>anglikánství<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>angloarab<s n="n"/><s n="ma"/></l><r>angloarab<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>anhydryt<s n="n"/><s n="mi"/></l><r>anhydrit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>anhydryt<s n="n"/><s n="mi"/></l><r>anhydrit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>anilina<s n="n"/><s n="f"/></l><r>anilin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>antepedium<s n="n"/><s n="nt"/></l><r>antependium<s n="n"/><s n="mi"/></r></p></e>
     <e r="LR"><p><l>antependium<s n="n"/><s n="nt"/></l><r>antependium<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>anterydium<s n="n"/><s n="nt"/></l><r>pelatka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antropozoonoza<s n="n"/><s n="f"/></l><r>zoonóza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antybiotyk<s n="n"/><s n="mi"/></l><r>antibiotikum<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>antydepresant<s n="n"/><s n="mi"/></l><r>antidepresivum<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>antykoagulant<s n="n"/><s n="mi"/></l><r>antikoagulans<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>antydepresant<s n="n"/><s n="mi"/></l><r>antidepresivum<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>antykoagulant<s n="n"/><s n="mi"/></l><r>antikoagulans<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>antykwa<s n="n"/><s n="f"/></l><r>antikva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antylogia<s n="n"/><s n="f"/></l><r>oxymóron<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>antymonit<s n="n"/><s n="mi"/></l><r>antimonit<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>antyoksydant<s n="n"/><s n="mi"/></l><r>antioxidant<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>antyoksydant<s n="n"/><s n="mi"/></l><r>antioxidant<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>antypapież<s n="n"/><s n="ma"/></l><r>vzdoropapež<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>antyperspirant<s n="n"/><s n="mi"/></l><r>antiperspirant<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>antyperspirant<s n="n"/><s n="mi"/></l><r>antiperspirant<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>antyseptyka<s n="n"/><s n="f"/></l><r>antiseptikum<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>antywitamina<s n="n"/><s n="f"/></l><r>antivitamín<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>anyżówka<s n="n"/><s n="f"/></l><r>anýzovka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>apatyt<s n="n"/><s n="mi"/></l><r>apatit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>apetyt<s n="n"/><s n="mi"/></l><r>chuť<s n="n"/><s n="mi"/></r></p></e>
     <e r="LR"><p><l>aphelium<s n="n"/><s n="nt"/></l><r>afélium<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>aplanat<s n="n"/><s n="mi"/></l><r>aplanát<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>aplet<s n="n"/><s n="mi"/></l><r>applet<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>aplanat<s n="n"/><s n="mi"/></l><r>aplanát<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>aplet<s n="n"/><s n="mi"/></l><r>applet<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>apofonia<s n="n"/><s n="f"/></l><r>střída<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>apogeum<s n="n"/><s n="nt"/></l><r>apogeum<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>apogeum<s n="n"/><s n="nt"/></l><r>apsida<s n="n"/><s n="f"/></r></p></e>
@@ -1107,7 +1107,7 @@
     <e><p><l>astrolabium<s n="n"/><s n="nt"/></l><r>astroláb<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>asygnata<s n="n"/><s n="f"/></l><r>asignát<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>atropina<s n="n"/><s n="f"/></l><r>atropin<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>audyt<s n="n"/><s n="mi"/></l><r>audit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>audyt<s n="n"/><s n="mi"/></l><r>audit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>autodydaktyka<s n="n"/><s n="f"/></l><r>autodidakt<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>autogiro<s n="n"/><s n="nt"/></l><r>vírník<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>autoklaw<s n="n"/><s n="mi"/></l><r>autokláv<s n="n"/><s n="mi"/></r></p></e>
@@ -1153,7 +1153,7 @@
     <e><p><l>basma<s n="n"/><s n="f"/></l><r>basma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>basset<s n="n"/><s n="ma"/></l><r>baset<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bastylia<s n="n"/><s n="f"/></l><r>bastila<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>batolit<s n="n"/><s n="mi"/></l><r>batolit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>batolit<s n="n"/><s n="mi"/></l><r>batolit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>batysfera<s n="n"/><s n="f"/></l><r>batysféra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>batyst<s n="n"/><s n="mi"/></l><r>batist<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bazooka<s n="n"/><s n="f"/></l><r>bazuka<s n="n"/><s n="f"/></r></p></e>
@@ -1162,10 +1162,10 @@
     <e><p><l>bażyna<s n="n"/><s n="f"/></l><r>šicha<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>becherovka<s n="n"/><s n="f"/></l><r>becherovka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bedłkowiec<s n="n"/><s n="mi"/></l><r>lupenotvaré<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>bekhend<s n="n"/><s n="mi"/></l><r>bekhend<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bekhend<s n="n"/><s n="mi"/></l><r>bekhend<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>belzebub<s n="n"/><s n="ma"/></l><r>belzebub<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>benedyktynka<s n="n"/><s n="f"/></l><r>bénédictine<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>bentonit<s n="n"/><s n="mi"/></l><r>bentonit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bentonit<s n="n"/><s n="mi"/></l><r>bentonit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>benzaldehyd<s n="n"/><s n="mi"/></l><r>benzaldehyd<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>benzydyna<s n="n"/><s n="f"/></l><r>benzidin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bestiarium<s n="n"/><s n="nt"/></l><r>bestiář<s n="n"/><s n="ma"/></r></p></e>
@@ -1182,7 +1182,7 @@
     <e><p><l>biernik<s n="n"/><s n="mi"/></l><r>akusativ<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>biernik<s n="n"/><s n="mi"/></l><r>akuzativ<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>biełucha<s n="n"/><s n="f"/></l><r>bělucha<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>bigbit<s n="n"/><s n="mi"/></l><r>bigbeat<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bigbit<s n="n"/><s n="mi"/></l><r>bigbeat<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bigos<s n="n"/><s n="mi"/></l><r>bigos<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bijekcja<s n="n"/><s n="f"/></l><r>bijekce<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bilharcjoza<s n="n"/><s n="f"/></l><r>schistosomóza<s n="n"/><s n="f"/></r></p></e>
@@ -1300,7 +1300,7 @@
     <e><p><l>chinolina<s n="n"/><s n="f"/></l><r>chinolin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chinook<s n="n"/><s n="mi"/></l><r>chinook<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chinowiec<s n="n"/><s n="mi"/></l><r>chinovník<s n="n"/><s n="ma"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>chipset<s n="n"/><s n="mi"/></l><r>čipset<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>chipset<s n="n"/><s n="mi"/></l><r>čipset<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chloramina<s n="n"/><s n="f"/></l><r>chloramin<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chlorella<s n="n"/><s n="f"/></l><r>chlorella<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chloroamina<s n="n"/><s n="f"/></l><r>chloramin<s n="n"/><s n="mi"/></r></p></e>
@@ -1308,11 +1308,11 @@
     <e><p><l>chloromycetyna<s n="n"/><s n="f"/></l><r>chloramfenikol<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chluba<s n="n"/><s n="f"/></l><r>chlouba<s n="n"/><s n="f"/></r></p></e>
     <e c="mp-mi!wtf!"><p><l>choleryk<s n="n"/><s n="mi"/></l><r>cholerik<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>chondrocyt<s n="n"/><s n="mi"/></l><r>chondrocyt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>chondrocyt<s n="n"/><s n="mi"/></l><r>chondrocyt<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chondryt<s n="n"/><s n="mi"/></l><r>chondrit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chrobotek<s n="n"/><s n="mi"/></l><r>dutohlávka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chromatyna<s n="n"/><s n="f"/></l><r>chromatin<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>chromit<s n="n"/><s n="mi"/></l><r>chromit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>chromit<s n="n"/><s n="mi"/></l><r>chromit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chromosfera<s n="n"/><s n="f"/></l><r>chromosféra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chryzolit<s n="n"/><s n="mi"/></l><r>chryzolit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>chryzolit<s n="n"/><s n="mi"/></l><r>forsterit<s n="n"/><s n="mi"/></r></p></e>
@@ -1353,7 +1353,7 @@
     <e><p><l>defibrylator<s n="n"/><s n="mi"/></l><r>defibrilátor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>deflator<s n="n"/><s n="ma"/></l><r>deflátor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dekonstrukcja<s n="n"/><s n="f"/></l><r>dekonstrukce<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>deltoid<s n="n"/><s n="mi"/></l><r>deltoid<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>deltoid<s n="n"/><s n="mi"/></l><r>deltoid<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>dendryt<s n="n"/><s n="mi"/></l><r>dendrit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>deoksyryboza<s n="n"/><s n="f"/></l><r>deoxyribóza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>depilator<s n="n"/><s n="mi"/></l><r>epilátor<s n="n"/><s n="mi"/></r></p></e>
@@ -1388,7 +1388,7 @@
     <e><p><l>dług<s n="n"/><s n="mi"/></l><r>dluh<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>długopis<s n="n"/><s n="mi"/></l><r>propiska<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>długopis<s n="n"/><s n="mi"/></l><r>propisovačka<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>dżihad<s n="n"/><s n="mi"/></l><r>džihád<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dżihad<s n="n"/><s n="mi"/></l><r>džihád<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ebola<s n="n"/><s n="f"/></l><r>ebola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ebonit<s n="n"/><s n="mi"/></l><r>ebonit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>edykt<s n="n"/><s n="mi"/></l><r>edikt<s n="n"/><s n="mi"/></r></p></e>
@@ -1447,11 +1447,11 @@
     <e c="mp-mi!wtf!"><p><l>finansista<s n="n"/><s n="mi"/></l><r>finančnik<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>fiołek<s n="n"/><s n="mi"/></l><r>violka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>flakon<s n="n"/><s n="mi"/></l><r>flakón<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>flawonoid<s n="n"/><s n="mi"/></l><r>flavonoid<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>flawonoid<s n="n"/><s n="mi"/></l><r>flavonoid<s n="n"/><s n="mi"/></r></p></e>
     <e c="mp-mi!wtf!"><p><l>flegmatyk<s n="n"/><s n="mi"/></l><r>flegmatik<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>fleksja<s n="n"/><s n="f"/></l><r>flexe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>florystka<s n="n"/><s n="f"/></l><r>flóristka<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>fluoryt<s n="n"/><s n="mi"/></l><r>fluorit<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>fluoryt<s n="n"/><s n="mi"/></l><r>fluorit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>folk<s n="n"/><s n="mi"/></l><r>folk<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>forsa<s n="n"/><s n="f"/></l><r>prach<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>fortel<s n="n"/><s n="mi"/></l><r>fortel<s n="n"/><s n="mi"/></r></p></e>
@@ -1481,7 +1481,7 @@
     <e><p><l>gradient<s n="n"/><s n="mi"/></l><r>gradient<s n="n"/><s n="ma"/></r></p></e>
     <e c="mp-mi!wtf!"><p><l>grafoman<s n="n"/><s n="mi"/></l><r>grafoman<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>granatnik<s n="n"/><s n="mi"/></l><r>granátomet<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>grant<s n="n"/><s n="mi"/></l><r>grant<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>grant<s n="n"/><s n="mi"/></l><r>grant<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gratis<s n="n"/><s n="mi"/></l><r>gratis<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>groch<s n="n"/><s n="mi"/></l><r>hrach<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>gruźlica<s n="n"/><s n="f"/></l><r>tuberkolóza<s n="n"/><s n="f"/></r></p></e>
@@ -7724,7 +7724,7 @@
     <e><p><l>relikt<s n="n"/><s n="mi"/></l><r>relikt<s n="n"/><s n="mi"/></r></p></e>
     <e r="LR"><p><l>respekt<s n="n"/><s n="mi"/></l><r>respekt<s n="n"/><s n="mi"/></r></p></e>
     <e r="LR"><p><l>rozum<s n="n"/><s n="mi"/></l><r>rozum<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>scenograf<s n="n"/><s n="mi"/></l><r>scénograf<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>scenograf<s n="n"/><s n="mp"/></l><r>scénograf<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>segment<s n="n"/><s n="mi"/></l><r>segment<s n="n"/><s n="mi"/></r></p></e>
     <e r="RL"><p><l>sejf<s n="n"/><s n="mi"/></l><r>sejf<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>sejf<s n="n"/><s n="mi"/></l><r>trezor<s n="n"/><s n="mi"/></r></p></e>
