@@ -45001,16 +45001,16 @@
     <e lm="pić"><i>pi</i><par n="bi/ć__vblex"/></e>
     <e lm="szyć"><i>szy</i><par n="bi/ć__vblex"/></e>
     <e lm="napompować"><i>napomp</i><par n="namal/ować__vblex"/></e>
-    <e lm="odczytać"><i>odczyta</i><par n="przeczyt/ać__vblex"/></e>
+    <e lm="odczytać"><i>odczyt</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="ogłupiać"><i>ogłupi</i><par n="czyt/ać__vblex"/></e>
     <e lm="posyłać"><i>posył</i><par n="czyt/ać__vblex"/></e>
     <e lm="ślubować"><i>ślub</i><par n="mal/ować__vblex"/></e>
     <e lm="sytuować"><i>sytu</i><par n="mal/ować__vblex"/></e>
     <e lm="transportować"><i>transport</i><par n="mal/ować__vblex"/></e>
-    <e lm="utkać"><i>utka</i><par n="przeczyt/ać__vblex"/></e>
+    <e lm="utkać"><i>utk</i><par n="przeczyt/ać__vblex"/></e>
     <e lm="weryfikować"><i>weryfik</i><par n="mal/ować__vblex"/></e>
     <e lm="wstawiać"><i>wstawi</i><par n="czyt/ać__vblex"/></e>
-    <e lm="zachować"><i>zachowa</i><par n="przeczyt/ać__vblex"/></e>
+    <e lm="zachować"><i>zachow</i><par n="przeczyt/ać__vblex"/></e>
 
     <e lm="szaleć"><i>szal</i><par n="szal/eć__vblex"/></e>
     <e lm="usiąść"><i>usi</i><par n="usi/ąść__vblex"/></e>
@@ -54923,6 +54923,7 @@
     <e lm="Monika"><i>Moni</i><par n="Domini/ka__np"/></e>
     <e lm="Ludwika"><i>Ludwi</i><par n="Domini/ka__np"/></e>
     <e lm="Agnieszka"><i>Agniesz</i><par n="Agniesz/ka__np"/></e>
+    <e lm="Katka"><i>Kat</i><par n="Agniesz/ka__np"/></e>
     <e lm="Blanka"><i>Blan</i><par n="Agniesz/ka__np"/></e>
     <e lm="Julia"><i>Juli</i><par n="Alicj/a__np"/></e>
     <e lm="Alicja"><i>Alicj</i><par n="Alicj/a__np"/></e>
