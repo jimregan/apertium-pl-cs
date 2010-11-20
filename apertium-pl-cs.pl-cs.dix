@@ -954,6 +954,7 @@
     <e><p><l>abakus<s n="n"/><s n="mi"/></l><r>abakus<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>abdukcja<s n="n"/><s n="f"/></l><r>abdukce<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abiturient<s n="n"/><s n="mp"/></l><r>abiturient<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>policjant<s n="n"/><s n="mp"/></l><r>policajt<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>ablucja<s n="n"/><s n="f"/></l><r>abluce<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abrakadabra<s n="n"/><s n="f"/></l><r>abrakadabra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>absyda<s n="n"/><s n="f"/></l><r>apsida<s n="n"/><s n="f"/></r></p></e>
@@ -7920,7 +7921,7 @@
     <e><p><l>śliski<s n="adj"/></l><r>slizký<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>spory<s n="adj"/></l><r>sporý<s n="adj"/><s n="sint"/></r></p></e>
     <e r="LR"><p><l>leciwy<s n="adj"/></l><r>starý<s n="adj"/><s n="sint"/></r></p></e>
-    <e r="LR"><p><l>czerstwy<s n="adj"/><s n="sint"/></l><r>starý<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>czerstwy<s n="adj"/><s n="sint"/></l><r>hřmotný<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>stary<s n="adj"/><s n="sint"/></l><r>starý<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>suchy<s n="adj"/><s n="sint"/></l><r>suchý<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>cienki<s n="adj"/></l><r>tenký<s n="adj"/><s n="sint"/></r></p></e>
@@ -10291,6 +10292,7 @@
     <e><p><l>pokazać<s n="vblex"/><s n="perf"/></l><r>ukázat<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>zazdrościć<s n="vblex"/><s n="imperf"/></l><r>závidět<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>widzieć<s n="vblex"/><s n="imperf"/></l><r>vidět<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>akceptować<s n="vblex"/><s n="imperf"/></l><r>souhlasit<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>powitać<s n="vblex"/><s n="perf"/></l><r>uvítat<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>przywitać<s n="vblex"/></l><r>přivítat<s n="vblex"/></r></p></e>
     <e><p><l>wyglądać<s n="vblex"/><s n="imperf"/></l><r>vypadat<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -11398,8 +11400,8 @@
     <e><p><l>manipulować<s n="vblex"/><s n="imperf"/></l><r>manipulovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>maskować<s n="vblex"/><s n="imperf"/></l><r>maskovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>masować<s n="vblex"/><s n="imperf"/></l><r>masírovat<s n="vblex"/><s n="imperf"/></r></p></e>
-    <e><p><l>mianować<s n="vblex"/><s n="imperf"/></l><r>jmenovat<s n="vblex"/><s n="imperf"/></r></p></e>
-    <e r="LR"><p><l>nazywać<s n="vblex"/><s n="imperf"/></l><r>jmenovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e r="LR"><p><l>mianować<s n="vblex"/><s n="imperf"/></l><r>jmenovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>nazywać<s n="vblex"/><s n="imperf"/></l><r>jmenovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>modelować<s n="vblex"/><s n="imperf"/></l><r>modelovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>modernizować<s n="vblex"/><s n="imperf"/></l><r>modernizovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>modyfikować<s n="vblex"/><s n="imperf"/></l><r>modifikovat<s n="vblex"/><s n="imperf"/></r></p></e>

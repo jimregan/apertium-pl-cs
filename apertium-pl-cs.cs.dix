@@ -49008,6 +49008,7 @@
     <e lm="abolice"><i>abolic</i><par n="alergi/e__n"/></e>
     <e lm="abolicionismus"><i>abolicionism</i><par n="ile/us__n"/></e>
     <e lm="abonent"><i>abonent</i><par n="absolvent__n"/></e>
+    <e lm="policajt"><i>policajt</i><par n="absolvent__n"/></e>
     <e lm="absces"><i>absces</i><par n="bor__n"/></e>
     <e lm="absence"><i>absenc</i><par n="alergi/e__n"/></e>
     <e lm="absint"><i>absint</i><par n="bor__n"/></e>
@@ -58446,6 +58447,7 @@
     <e lm="usuzovat"><par n="v_neg"/><i>usuz</i><par n="mil/ovat__vblex"/></e>
     <e lm="uvolňovat"><par n="v_neg"/><i>uvolň</i><par n="mil/ovat__vblex"/></e>
     <e lm="uvítat"><par n="v_neg"/><i>uvít</i><par n="uvít/at__vblex"/></e>
+    <e lm="souhlasit"><par n="v_neg"/><i>souhlas</i><par n="věř/it__vblex"/></e>
     <e lm="uvědomovat"><par n="v_neg"/><i>uvědom</i><par n="mil/ovat__vblex"/></e>
     <!--<e lm="upozorňovat"><par n="v_neg"/><i>upozorň</i><par n="mil/ovat__vblex"/></e>-->
     <e lm="uzákonit"><par n="v_neg"/><i>uzáko</i><par n="obr/nit__vblex"/></e>
