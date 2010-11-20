@@ -48378,16 +48378,12 @@
       </p>
         <par n="BASE__nov/ý"/> 
     </e>
-
-
     <e>
       <p>
         <l>o</l>
         <r>ý<s n="adj"/><s n="sint"/><s n="cpd"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>ějš</l>
@@ -48395,8 +48391,28 @@
       </p>
         <par n="BASE__další"/> 
     </e>
-
-
+    </pardef>
+    <pardef n="dialogov/ý__adj">
+    <e>
+      <p>
+        <l></l>
+        <r>ý<s n="adj"/></r>
+      </p>
+        <par n="BASE__nov/ý"/> 
+    </e>
+    <e>
+      <p>
+        <l>o</l>
+        <r>ý<s n="adj"/><s n="cpd"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ějš</l>
+        <r>ý<s n="adj"/><s n="comp"/></r>
+      </p>
+        <par n="BASE__další"/> 
+    </e>
     </pardef>
     <pardef n="chyt/rý__adj">
     <e>
@@ -55969,14 +55985,14 @@
     <e lm="dešťový"><par n="nej__adv"/><i>dešťov</i><par n="nov/ý__adj"/></e>
     <e lm="diagnostický"><par n="nej__adv"/><i>diagnosti</i><par n="exotermi/cký__adj"/></e>
     <e lm="dialektický"><par n="nej__adv"/><i>dialekti</i><par n="exotermi/cký__adj"/></e>
-    <e lm="dialogový"><par n="nej__adv"/><i>dialogov</i><par n="nov/ý__adj"/></e>
-    <e lm="diamantový"><par n="nej__adv"/><i>diamantov</i><par n="nov/ý__adj"/></e>
+    <e lm="dialogový"><par n="nej__adv"/><i>dialogov</i><par n="dialogov/ý__adj"/></e>
+    <e lm="diamantový"><par n="nej__adv"/><i>diamantov</i><par n="dialogov/ý__adj"/></e>
     <e r="LR" lm="diecézní"><par n="nej__adv"/><p><l>diecesn</l><r>diecézn</r></p><par n="finančn/í__adj"/></e>
     <e lm="diecézní"><par n="nej__adv"/><i>diecézn</i><par n="finančn/í__adj"/></e>
     <e lm="digitální"><par n="nej__adv"/><i>digitáln</i><par n="finančn/í__adj"/></e>
     <e lm="diplomatický"><par n="nej__adv"/><i>diplomati</i><par n="exotermi/cký__adj"/></e>
     <e lm="disidentský"><par n="nej__adv"/><i>disident</i><par n="če/ský__adj"/></e>
-    <e lm="diskový"><par n="nej__adv"/><i>diskov</i><par n="nov/ý__adj"/></e>
+    <e lm="diskový"><par n="nej__adv"/><i>diskov</i><par n="dialogov/ý__adj"/></e>
     <e lm="diskusní"><par n="nej__adv"/><i>diskusn</i><par n="finančn/í__adj"/></e>
     <e r="LR" lm="diskusní"><par n="nej__adv"/><p><l>diskuzn</l><r>diskusn</r></p><par n="finančn/í__adj"/></e>
     <e lm="divý"><par n="nej__adv"/><i>div</i><par n="nov/ý__adj"/></e>
@@ -58471,6 +58487,7 @@
     <e lm="vykřikovat"><par n="v_neg"/><i>vykřik</i><par n="mil/ovat__vblex"/></e>
     <e lm="vynořovat"><par n="v_neg"/><i>vynoř</i><par n="mil/ovat__vblex"/></e>
     <e lm="vypadat"><par n="v_neg"/><i>vypad</i><par n="vypad/at__vblex"/></e>
+    <e lm="pokrývat"><par n="v_neg"/><i>pokrýv</i><par n="vypad/at__vblex"/></e>
     <e lm="vyplnit"><par n="v_neg"/><i>vypl</i><par n="obr/nit__vblex"/></e>
     <e lm="vyslovovat"><par n="v_neg"/><i>vyslov</i><par n="mil/ovat__vblex"/></e>
     <e lm="vystavovat"><par n="v_neg"/><i>vystav</i><par n="mil/ovat__vblex"/></e>
