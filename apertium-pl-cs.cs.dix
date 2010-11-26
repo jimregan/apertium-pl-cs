@@ -49391,6 +49391,7 @@
     <e lm="baba"><i>bab</i><par n="dob/a__n"/></e>
     <e lm="babka"><i>bab</i><par n="dív/ka__n"/></e>
     <e lm="babice"><i>babic</i><par n="plotic/e__n"/></e>
+    <e lm="investice"><i>investic</i><par n="plotic/e__n"/></e>
     <e lm="babička"><i>babič</i><par n="dív/ka__n"/></e>
     <e lm="babyka"><i>baby</i><par n="dý/ka__n"/></e>
     <e lm="bachař"><i>bachař</i><par n="muž__n"/></e>
@@ -55986,6 +55987,7 @@
     <e lm="diagnostický"><par n="nej__adv"/><i>diagnosti</i><par n="exotermi/cký__adj"/></e>
     <e lm="dialektický"><par n="nej__adv"/><i>dialekti</i><par n="exotermi/cký__adj"/></e>
     <e lm="dialogový"><par n="nej__adv"/><i>dialogov</i><par n="dialogov/ý__adj"/></e>
+    <e lm="zpětný"><par n="nej__adv"/><i>zpětn</i><par n="dialogov/ý__adj"/></e>
     <e lm="diamantový"><par n="nej__adv"/><i>diamantov</i><par n="dialogov/ý__adj"/></e>
     <e r="LR" lm="diecézní"><par n="nej__adv"/><p><l>diecesn</l><r>diecézn</r></p><par n="finančn/í__adj"/></e>
     <e lm="diecézní"><par n="nej__adv"/><i>diecézn</i><par n="finančn/í__adj"/></e>

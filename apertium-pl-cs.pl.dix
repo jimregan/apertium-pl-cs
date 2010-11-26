@@ -42792,6 +42792,7 @@
     <e lm="bezprzewodowy"><i>bezprzewodow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="bezwartościowy"><i>bezwartościow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="bezwarunkowy"><i>bezwarunkow</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="offsetowy"><i>offsetow</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="bezwładny"><i>bezwładn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="bezzasadny"><i>bezzasadn</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="biblijny"><i>biblijn</i><par n="egzotermiczn/y__adj"/></e>
@@ -54534,7 +54535,6 @@
     <e lm="dialektyka"><i>dialekty</i><par n="rze/ka__n"/></e>
     <e lm="doskonałość"><i>doskonałoś</i><par n="miłoś/ć__n"/></e>
     <e lm="drapieżnik"><i>drapieżnik</i><par n="ptak__n"/></e>
-    <e lm="droga"><i>dr</i><par n="fla/ga__n"/></e>
     <e lm="dworek"><i>dwor</i><par n="stat/ek__n"/></e>
     <e lm="dydaktyka"><i>dydakty</i><par n="rze/ka__n"/></e>
     <e lm="dyplomatyka"><i>dyplomaty</i><par n="rze/ka__n"/></e>
