@@ -56494,7 +56494,7 @@
     <e lm="kravský"><par n="nej__adv"/><i>krav</i><par n="če/ský__adj"/></e>
     <e lm="kriminalistický"><par n="nej__adv"/><i>kriminalisti</i><par n="exotermi/cký__adj"/></e>
     <e lm="kritický"><par n="nej__adv"/><i>kriti</i><par n="exotermi/cký__adj"/></e>
-    <e lm="krizový"><par n="nej__adv"/><i>krizov</i><par n="nov/ý__adj"/></e>
+    <e lm="krizový"><par n="nej__adv"/><i>krizov</i><par n="dialogov/ý__adj"/></e>
     <e lm="krkolomný"><par n="nej__adv"/><i>krkolomn</i><par n="nov/ý__adj"/></e>
     <e lm="krokový"><par n="nej__adv"/><i>krokov</i><par n="nov/ý__adj"/></e>
     <e r="LR" lm="krotký"><par n="nej__adv"/><p><l>krotčejš</l><r>krotký</r></p><par n="menš/í__adj"/></e>
@@ -56616,7 +56616,7 @@
     <e lm="mafiánský"><par n="nej__adv"/><i>mafián</i><par n="če/ský__adj"/></e>
     <e lm="magický"><par n="nej__adv"/><i>magi</i><par n="exotermi/cký__adj"/></e>
     <e lm="magnetický"><par n="nej__adv"/><i>magneti</i><par n="exotermi/cký__adj"/></e>
-    <e lm="magnetofonový"><par n="nej__adv"/><i>magnetofonov</i><par n="nov/ý__adj"/></e>
+    <e lm="magnetofonový"><par n="nej__adv"/><i>magnetofonov</i><par n="dialogov/ý__adj"/></e>
     <e lm="majestátně"><i>majestátně</i><par n="daleko__adv"/></e>
     <e lm="majestátně"><p><l>majestátněji</l><r>majestátně</r></p><par n="dál__adv"/></e>
     <e lm="majoritní"><par n="nej__adv"/><i>majoritn</i><par n="finančn/í__adj"/></e>
@@ -56640,8 +56640,8 @@
     <e lm="maratónský"><par n="nej__adv"/><i>maratón</i><par n="če/ský__adj"/></e>
     <e lm="marginální"><par n="nej__adv"/><i>margináln</i><par n="finančn/í__adj"/></e>
     <e lm="mariánský"><par n="nej__adv"/><i>marián</i><par n="če/ský__adj"/></e>
-    <e lm="marketingový"><par n="nej__adv"/><i>marketingov</i><par n="nov/ý__adj"/></e>
-    <e lm="marketinkový"><par n="nej__adv"/><i>marketinkov</i><par n="nov/ý__adj"/></e>
+    <e lm="marketingový"><par n="nej__adv"/><i>marketingov</i><par n="dialogov/ý__adj"/></e>
+    <e lm="marketinkový" r="LR"><par n="nej__adv"/><p><l>marketinkov</l><r>marketingov</r><par n="dialogov/ý__adj"/></e>
     <e lm="marný"><par n="nej__adv"/><i>marn</i><par n="nov/ý__adj"/></e>
     <e lm="marně"><i>marně</i><par n="daleko__adv"/></e>
     <e lm="marně"><p><l>marněji</l><r>marně</r></p><par n="dál__adv"/></e>
