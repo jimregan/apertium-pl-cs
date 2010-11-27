@@ -7096,112 +7096,170 @@
         <r>ev<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>vu</l>
         <r>ev<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>vu</l>
         <r>ev<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>ev</l>
         <r>ev<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>vem</l>
         <r>ev<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>vu</l>
         <r>ev<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>ve</l>
         <r>ev<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>vy</l>
         <r>ev<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>vů</l>
         <r>ev<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>vům</l>
         <r>ev<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>vy</l>
         <r>ev<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>vy</l>
         <r>ev<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>vech</l>
         <r>ev<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>vy</l>
         <r>ev<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
-
-
+    </pardef>
+    <pardef n="poč/et__n">
+    <e>
+      <p>
+        <l>et</l>
+        <r>et<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>tu</l>
+        <r>et<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>tu</l>
+        <r>et<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>et</l>
+        <r>et<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>tem</l>
+        <r>et<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>tu</l>
+        <r>et<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>te</l>
+        <r>et<s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ty</l>
+        <r>et<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>tů</l>
+        <r>et<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>tům</l>
+        <r>et<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ty</l>
+        <r>et<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ty</l>
+        <r>et<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>tech</l>
+        <r>et<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ty</l>
+        <r>et<s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+      </p>
+    </e>
     </pardef>
     <pardef n="BASE__kostel">
     <e>
@@ -51747,6 +51805,7 @@
     <e lm="korespondent"><i>korespondent</i><par n="absolvent__n"/></e>
     <e r="LR" lm="koroze"><p><l>koros</l><r>koroz</r></p><par n="alergi/e__n"/></e>
     <e lm="korouhev"><i>korouh</i><par n="korouh/ev__n"/></e>
+    <e lm="počet"><i>poč</i><par n="poč/et__n"/></e>
     <e lm="koroze"><i>koroz</i><par n="alergi/e__n"/></e>
     <e lm="korporace"><i>korporac</i><par n="alergi/e__n"/></e>
     <e lm="korpus"><i>korpus</i><par n="arak__n"/></e>
