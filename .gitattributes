@@ -86,6 +86,10 @@ dev/undhr-cs.txt -text
 dev/undhr-pl.txt -text
 dev/wikt.full-form.pl -text
 dev/wikt.full-form.pl.dix -text
+freerbmt11/Makefile -text
+freerbmt11/freerbmt11.sty -text
+freerbmt11/plcs.bib -text
+freerbmt11/plcs.tex -text
 misc/bort.xsl -text
 /modes.xml -text
 /pending-tests.sh -text
