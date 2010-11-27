@@ -2484,6 +2484,32 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <choose>
+         <when>
+           <test>
+             <and>
+               <equal caseless="yes">
+                 <clip pos="2" side="sl" part="nbr"/>
+                 <lit-tag v="sg"/>
+               </equal>
+               <or>
+                 <equal caseless="yes">
+                   <clip pos="2" side="sl" part="gen"/>
+                   <lit-tag v="ma"/>
+                 </equal>
+                 <equal caseless="yes">
+                   <clip pos="2" side="sl" part="gen"/>
+                   <lit-tag v="mi"/>
+                 </equal>
+               </or>
+             </and>
+           </test>
+           <let>
+             <clip pos="2" side="tl" part="gen"/>
+             <lit-tag v="m"/>
+           </let>
+         </when>
+       </choose>
        <out>
          <chunk name="aux_inf" case="caseFirstWord">
            <tags>

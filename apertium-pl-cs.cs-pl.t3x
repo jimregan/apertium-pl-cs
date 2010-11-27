@@ -235,6 +235,32 @@
             </let>
           </when>
         </choose>
+       <choose>
+         <when>
+           <test>
+             <and>
+               <equal caseless="yes">
+                 <clip pos="1" part="lem"/>
+                 <lit v="powinien"/>
+               </equal>
+               <or>
+                 <equal caseless="yes">
+                   <clip pos="1" part="gen"/>
+                   <lit-tag v="ma"/>
+                 </equal>
+                 <equal caseless="yes">
+                   <clip pos="1" part="gen"/>
+                   <lit-tag v="mi"/>
+                 </equal>
+               </or>
+             </and>
+           </test>
+           <let>
+             <clip pos="1" part="gen"/>
+             <lit-tag v="m"/>
+           </let>
+         </when>
+       </choose>
         <out>
           <lu>
             <clip pos="1" part="whole"/>

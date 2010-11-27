@@ -39472,8 +39472,6 @@
         <r>íst<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>t</l>
@@ -39481,8 +39479,6 @@
       </p>
         <par n="BASE__čtu"/> 
     </e>
-
-
     <e>
       <p>
         <l>etl</l>
@@ -39490,8 +39486,6 @@
       </p>
         <par n="BASE__četl"/> 
     </e>
-
-
     <e>
       <p>
         <l>t</l>
@@ -39499,8 +39493,6 @@
       </p>
         <par n="BASE__čti"/> 
     </e>
-
-
     <e>
       <p>
         <l></l>
@@ -39508,8 +39500,6 @@
       </p>
         <par n="BASE__čtě"/> 
     </e>
-
-
     <e>
       <p>
         <l>tění</l>
@@ -39517,8 +39507,6 @@
       </p>
         <par n="BASE__úterý"/> 
     </e>
-
-
     <e>
       <p>
         <l>těn</l>
@@ -39526,8 +39514,6 @@
       </p>
         <par n="BASE__chtěn"/> 
     </e>
-
-
     <e>
       <p>
         <l>tíc</l>
@@ -39535,8 +39521,6 @@
       </p>
         <par n="BASE__další"/> 
     </e>
-
-
     <e>
       <p>
         <l>těn</l>
@@ -39544,8 +39528,70 @@
       </p>
         <par n="BASE__nov/ý"/> 
     </e>
-
-
+    </pardef>
+    <pardef n="ma/zat__vblex">
+    <e>
+      <p>
+        <l>zat</l>
+        <r>zat<s n="vblex"/><s n="imperf"/><s n="inf"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ž</l>
+        <r>zat<s n="vblex"/><s n="imperf"/><s n="pres"/></r>
+      </p>
+        <par n="BASE__čtu"/> 
+    </e>
+    <e>
+      <p>
+        <l>zal</l>
+        <r>zat<s n="vblex"/><s n="imperf"/><s n="past"/></r>
+      </p>
+        <par n="BASE__četl"/> 
+    </e>
+    <e>
+      <p>
+        <l>ž</l>
+        <r>zat<s n="vblex"/><s n="imperf"/></r>
+      </p>
+        <par n="BASE__čti"/> 
+    </e>
+    <e>
+      <p>
+        <l>ž</l>
+        <r>zat<s n="vblex"/><s n="imperf"/></r>
+      </p>
+        <par n="BASE__plavajíce"/> 
+    </e>
+    <e>
+      <p>
+        <l>zání</l>
+        <r>zat<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
+      </p>
+        <par n="BASE__úterý"/> 
+    </e>
+    <e>
+      <p>
+        <l>zán</l>
+        <r>zat<s n="vblex"/><s n="imperf"/></r>
+      </p>
+        <par n="BASE__chtěn"/> 
+    </e>
+    <e i="yes" c="FIXME">
+      <p>
+        <l>tíc</l>
+        <r>zat<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r>
+      </p>
+        <par n="BASE__další"/> 
+    </e>
+    <e>
+      <p>
+        <l>zán</l>
+        <r>zat<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r>
+      </p>
+        <par n="BASE__nov/ý"/> 
+    </e>
     </pardef>
     <pardef n="udrž/et__vblex"> <!-- to correct -->
     <e>
@@ -48320,6 +48366,28 @@
 
 
     </pardef>
+    <pardef n="moráln/í__adj">
+    <e>
+      <p>
+        <l></l>
+        <r>í<s n="adj"/><s n="sint"/></r>
+      </p>
+        <par n="BASE__další"/> 
+    </e>
+    <e>
+      <p>
+        <l>o</l>
+        <r>í<s n="adj"/><s n="sint"/><s n="cpd"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ějš</l>
+        <r>í<s n="adj"/><s n="sint"/><s n="comp"/></r>
+      </p>
+        <par n="BASE__další"/> 
+    </e>
+    </pardef>
     <pardef n="finančn/í__adj">
     <e>
       <p>
@@ -48328,16 +48396,12 @@
       </p>
         <par n="BASE__další"/> 
     </e>
-
-
     <e>
       <p>
         <l>o</l>
         <r>í<s n="adj"/><s n="cpd"/></r>
       </p>
     </e>
-
-
     <e>
       <p>
         <l>ějš</l>
@@ -48345,8 +48409,6 @@
       </p>
         <par n="BASE__další"/> 
     </e>
-
-
     </pardef>
     <pardef n="každ/ý__prn">
     <e>
@@ -56725,7 +56787,7 @@
     <e lm="morfologický"><par n="nej__adv"/><i>morfologi</i><par n="exotermi/cký__adj"/></e>
     <e lm="mormonský"><par n="nej__adv"/><i>mormon</i><par n="če/ský__adj"/></e>
     <e lm="morový"><par n="nej__adv"/><i>morov</i><par n="nov/ý__adj"/></e>
-    <e lm="morální"><par n="nej__adv"/><i>moráln</i><par n="finančn/í__adj"/></e>
+    <e lm="morální"><par n="nej__adv"/><i>moráln</i><par n="moráln/í__adj"/></e>
     <e lm="mosazný"><par n="nej__adv"/><i>mosazn</i><par n="nov/ý__adj"/></e>
     <e lm="moskevský"><par n="nej__adv"/><i>moskev</i><par n="če/ský__adj"/></e>
     <e lm="motivační"><par n="nej__adv"/><i>motivačn</i><par n="finančn/í__adj"/></e>
@@ -58122,6 +58184,7 @@
     <e lm="patřit k" r="LR"><par n="v_neg"/><i>patř</i><par n="patř/it__vblex"/><p><l><b/>ke</l><r><g><b/>k</g></r></p></e>
     <e lm="patřit k" r="LR"><par n="v_neg"/><i>patř</i><par n="patř/it__vblex"/><p><l><b/>ku</l><r><g><b/>k</g></r></p></e>
     <e lm="patřit k" r="RL"><par n="v_neg"/><i>patř</i><par n="patř/it__vblex"/><p><l><b/><a/>k</l><r><g><b/>k</g></r></p></e>-->
+    <e lm="mazat"><par n="v_neg"/><i>ma</i><par n="ma/zat__vblex"/></e>
     <e lm="potřebovat"><par n="v_neg"/><i>potřeb</i><par n="mil/ovat__vblex"/></e>
     <e lm="absorbovat"><par n="v_neg"/><i>absorb</i><par n="mil/ovat__vblex"/></e>
     <e lm="adaptovat"><par n="v_neg"/><i>adapt</i><par n="mil/ovat__vblex"/></e>
