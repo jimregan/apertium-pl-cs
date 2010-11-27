@@ -51741,7 +51741,8 @@
     <e lm="dyrektor"><i>dyrektor</i><par n="inżynier__n"/></e>
     <e lm="gubernator"><i>gubernator</i><par n="inżynier__n"/></e>
     <e lm="inicjator"><i>inicjator</i><par n="inżynier__n"/></e>
-    <e lm="inspektor"><i>inspektor</i><par n="inżynier__n"/></e>
+    <e lm="inspektor" r="LR"><i>inspektor</i><par n="inżynier__n"/></e>
+    <e lm="inspektor"><i>inspektor</i><par n="aktor__n"/></e>
     <e lm="obserwator"><i>obserwator</i><par n="inżynier__n"/></e>
     <e lm="oficer"><i>oficer</i><par n="inżynier__n"/></e>
     <e lm="organizator"><i>organizator</i><par n="inżynier__n"/></e>
@@ -52856,6 +52857,8 @@
     <e lm="marzec"><i>mar</i><par n="mar/zec__n"/></e>
     <e lm="chrzest"><i>chrz</i><par n="chrz/est__n"/></e>
     <e lm="chłopiec"><i>chłop</i><par n="chłop/iec__n"/></e>
+    <e lm="handlowiec"><i>handlow</i><par n="chłop/iec__n"/></e>
+    <e lm="myśliwiec"><i>myśliw</i><par n="chłop/iec__n"/></e>
     <e lm="błazen"><i>bła</i><par n="bła/zen__n"/></e>
     <e lm="Arab"><i>Arab</i><par n="Arab__n"/></e>
     <e lm="apostoł"><i>aposto</i><par n="aposto/ł__n"/></e>

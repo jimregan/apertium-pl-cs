@@ -56641,7 +56641,7 @@
     <e lm="marginální"><par n="nej__adv"/><i>margináln</i><par n="finančn/í__adj"/></e>
     <e lm="mariánský"><par n="nej__adv"/><i>marián</i><par n="če/ský__adj"/></e>
     <e lm="marketingový"><par n="nej__adv"/><i>marketingov</i><par n="dialogov/ý__adj"/></e>
-    <e lm="marketinkový" r="LR"><par n="nej__adv"/><p><l>marketinkov</l><r>marketingov</r><par n="dialogov/ý__adj"/></e>
+    <e lm="marketinkový" r="LR"><par n="nej__adv"/><p><l>marketinkov</l><r>marketingov</r></p><par n="dialogov/ý__adj"/></e>
     <e lm="marný"><par n="nej__adv"/><i>marn</i><par n="nov/ý__adj"/></e>
     <e lm="marně"><i>marně</i><par n="daleko__adv"/></e>
     <e lm="marně"><p><l>marněji</l><r>marně</r></p><par n="dál__adv"/></e>
