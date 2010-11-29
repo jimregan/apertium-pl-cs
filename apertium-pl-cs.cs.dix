@@ -49236,6 +49236,7 @@
     <e lm="aktinium"><i>aktini</i><par n="bary/um__n"/></e>
     <e lm="aktivace"><i>aktivac</i><par n="alergi/e__n"/></e>
     <e lm="aktivista"><i>aktivist</i><par n="nacist/a__n"/></e>
+    <e lm="anarchista"><i>anarchist</i><par n="nacist/a__n"/></e>
     <e lm="aktivita" c="check"><i>aktivit</i><par n="dob/a__n"/></e>
     <e lm="aktivizace"><i>aktivizac</i><par n="alergi/e__n"/></e>
     <e lm="aktovka"><i>aktov</i><par n="dív/ka__n"/></e>
@@ -50760,10 +50761,14 @@
     <e lm="fikce"><i>fikc</i><par n="alergi/e__n"/></e>
     <e lm="filantrop"><i>filantrop</i><par n="man__n"/></e>
     <e lm="filatelista"><i>filatelist</i><par n="nacist/a__n"/></e>
+    <e lm="violista"><i>violist</i><par n="nacist/a__n"/></e>
+    <e lm="altoviolista"><i>altoviolist</i><par n="nacist/a__n"/></e>
     <e lm="film"><i>film</i><par n="arak__n"/></e>
     <e lm="filologie"><i>filologi</i><par n="alergi/e__n"/></e>
-    <e r="LR" lm="filozofie"><p><l>filosofi</l><r>filozofi</r></p><par n="alergi/e__n"/></e>
-    <e lm="filozofie"><i>filozofi</i><par n="alergi/e__n"/></e>
+    <e r="LR" lm="filosofie"><p><l>filozofi</l><r>filosofi</r></p><par n="alergi/e__n"/></e>
+    <e lm="filosofie"><i>filosofi</i><par n="alergi/e__n"/></e>
+    <e lm="filosof"><i>filosf</i><par n="choreograf__n"/></e>
+    <e r="LR" lm="filosof"><p><l>filozof</l><r>filosof</r></p><par n="choreograf__n"/></e>
     <e lm="filtr"><i>filtr</i><par n="arak__n"/></e>
     <e lm="filtrace"><i>filtrac</i><par n="alergi/e__n"/></e>
     <e lm="finalista"><i>finalist</i><par n="nacist/a__n"/></e>
@@ -59126,6 +59131,7 @@
     <e lm="zůstat"><par n="v_neg"/><i>zůst</i><par n="zůst/at__vblex"/></e>
     <e lm="tančit"><par n="v_neg"/><i>tanč</i><par n="tanč/it__vblex"/></e>
     <e lm="věřit"><par n="v_neg"/><i>věř</i><par n="věř/it__vblex"/></e>
+    <e lm="zubr"><i>zub</i><par n="amu/r__n"/></e>
   </section>
   <section id="pending" type="standard">
     <e lm="bádat"><par n="v_neg"/><i>bád</i><par n="vypad/at__vblex"/></e>
@@ -59376,7 +59382,6 @@
     <e lm="vlastnost" c="FMT:CHECK"><i>vlastnost</i><par n="věc__n"/></e>
     <e lm="věno" c="FMT:CHECK"><i>věn</i><par n="práv/o__n"/></e>
     <e lm="zkušenost" c="FMT:CHECK"><i>zkušenost</i><par n="věc__n"/></e>
-    <e lm="zubr" c="FMT:CHECK"><i>zub</i><par n="amu/r__n"/></e>
 
  
     <e lm="účast" c="FMT:CHECK"><i>účast</i><par n="věc__n"/></e>
