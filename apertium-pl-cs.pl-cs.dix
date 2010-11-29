@@ -13912,57 +13912,56 @@
   <section id="pending" type="standard">
 
     <e c="FMT:CHECK"><p><l>agnostyk<s n="n"/><s n="mp"/></l><r>agnosticismus<s n="n"/><s n="mi"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>agrotechnika<s n="n"/><s n="f"/></l><r>agrotechnika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agrotechnika<s n="n"/><s n="f"/></l><r>agrotechnika<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>akrobatyka<s n="n"/><s n="f"/></l><r>akrobacie<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>altowiolista<s n="n"/><s n="mp"/></l><r>viola<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>anarchista<s n="n"/><s n="mp"/></l><r>anarchismus<s n="n"/><s n="mi"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>arytmetyka<s n="n"/><s n="f"/></l><r>aritmetika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>arytmetyka<s n="n"/><s n="f"/></l><r>aritmetika<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>bielizna<s n="n"/><s n="f"/></l><r>prádlo<s n="n"/><s n="nt"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>biocybernetyka<s n="n"/><s n="f"/></l><r>biokybernetika<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>biofizyka<s n="n"/><s n="f"/></l><r>biofyzika<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>bionika<s n="n"/><s n="f"/></l><r>bionika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biocybernetyka<s n="n"/><s n="f"/></l><r>biokybernetika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biofizyka<s n="n"/><s n="f"/></l><r>biofyzika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bionika<s n="n"/><s n="f"/></l><r>bionika<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>ból<s n="n"/><s n="mi"/></l><r>bolest<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>bóżnica<s n="n"/><s n="f"/></l><r>synagoga<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>bractwo<s n="n"/><s n="nt"/></l><r>bratrstvo<s n="n"/><s n="nt"/></r></p></e>
     <e c="FMT:CHECK"><p><l>braterstwo<s n="n"/><s n="nt"/></l><r>bratrstvo<s n="n"/><s n="nt"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>bumerang<s n="n"/><s n="mi"/></l><r>bumerang<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bumerang<s n="n"/><s n="mi"/></l><r>bumerang<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>cel<s n="n"/><s n="mi"/></l><r>gól<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>cel<s n="n"/><s n="mi"/></l><r>účel<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>chant<s n="n"/><s n="mp"/></l><r>chorál<s n="n"/><s n="mi"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>cukrzyca<s n="n"/><s n="f"/></l><r>diabetik<s n="n"/><s n="ma"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>cybernetyka<s n="n"/><s n="f"/></l><r>kybernetika<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>demo<s n="n"/><s n="nt"/></l><r>demo<s n="n"/><s n="nt"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>dezinflacja<s n="n"/><s n="f"/></l><r>inflace<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>dialektyka<s n="n"/><s n="f"/></l><r>dialektika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cybernetyka<s n="n"/><s n="f"/></l><r>kybernetika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>demo<s n="n"/><s n="nt"/></l><r>demo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>inflacja<s n="n"/><s n="f"/></l><r>inflace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dialektyka<s n="n"/><s n="f"/></l><r>dialektika<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>dopisek<s n="n"/><s n="mi"/></l><r>dopis<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>doświadczenie<s n="n"/><s n="nt"/></l><r>pokus<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>doświadczenie<s n="n"/><s n="nt"/></l><r>zkušenost<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>dworek<s n="n"/><s n="mi"/></l><r>dvorek<s n="n"/><s n="mi"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>dydaktyka<s n="n"/><s n="f"/></l><r>didaktika<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>dyplomatyka<s n="n"/><s n="f"/></l><r>diplomatika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dydaktyka<s n="n"/><s n="f"/></l><r>didaktika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dyplomatyka<s n="n"/><s n="f"/></l><r>diplomatika<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>dywan<s n="n"/><s n="mi"/></l><r>koberec<s n="n"/><s n="mi"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>dzwonek<s n="n"/><s n="mi"/></l><r>zvonek<s n="n"/><s n="mi"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>dzwonek<s n="n"/><s n="mi"/></l><r>zvon<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dzwonek<s n="n"/><s n="mi"/></l><r>zvonek<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dzwon<s n="n"/><s n="mi"/></l><r>zvon<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>filozof<s n="n"/><s n="mp"/></l><r>filozofie<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>geofizyka<s n="n"/><s n="f"/></l><r>geofyzika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geofizyka<s n="n"/><s n="f"/></l><r>geofyzika<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>granit<s n="n"/><s n="mi"/></l><r>žula<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>grób<s n="n"/><s n="mi"/></l><r>hrob<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>groteskowość<s n="n"/><s n="f"/></l><r>grotesknost<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>homiletyka<s n="n"/><s n="f"/></l><r>homiletika<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>język<s n="n"/><s n="mi"/>#</l><r>jazyk<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>homiletyka<s n="n"/><s n="f"/></l><r>homiletika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>język<s n="n"/><s n="mi"/></l><r>jazyk<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>klej<s n="n"/><s n="mi"/></l><r>lepidlo<s n="n"/><s n="nt"/></r></p></e>
     <e c="FMT:CHECK"><p><l>kompozytor<s n="n"/><s n="mp"/></l><r>skladatel<s n="n"/><s n="ma"/></r></p></e>
     <e c="FMT:CHECK"><p><l>kras<s n="n"/><s n="mi"/></l><r>kras<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>łącze<s n="n"/><s n="nt"/></l><r>odkaz<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>lider<s n="n"/><s n="mp"/></l><r>lídr<s n="n"/><s n="ma"/></r></p></e>
     <e c="FMT:CHECK"><p><l>łup<s n="n"/><s n="mi"/></l><r>kořist<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>magister<s n="n"/><s n="mp"/></l><r>magistr<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>magister<s n="n"/><s n="mp"/></l><r>magistr<s n="n"/><s n="ma"/></r></p></e>
     <e c="FMT:CHECK"><p><l>magnet<s n="n"/><s n="mp"/></l><r>magnet<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>marynarka<s n="n"/><s n="f"/></l><r>námořnictvo<s n="n"/><s n="nt"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>metafizyka<s n="n"/><s n="f"/></l><r>metafyzika<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>narodowość<s n="n"/><s n="f"/></l><r>národnost<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>metafizyka<s n="n"/><s n="f"/></l><r>metafyzika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>narodowość<s n="n"/><s n="f"/></l><r>národnost<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>niezdolność<s n="n"/><s n="f"/></l><r>neschopnost<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>numer<s n="n"/><s n="mi"/></l><r>číslo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>numer<s n="n"/><s n="mi"/></l><r>číslo<s n="n"/><s n="nt"/></r></p></e>
     <e c="FMT:CHECK"><p><l>obóz<s n="n"/><s n="mi"/></l><r>tábor<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>obraz<s n="n"/><s n="mi"/></l><r>obraz<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>obraz<s n="n"/><s n="mi"/></l><r>snímek<s n="n"/><s n="mi"/></r></p></e>
@@ -13982,13 +13981,13 @@
     <e c="FMT:CHECK"><p><l>pięściarz<s n="n"/><s n="ma"/></l><r>box<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>pięść<s n="n"/><s n="f"/></l><r>pěst<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>pisanka<s n="n"/><s n="f"/></l><r>kraslice<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>piżama<s n="n"/><s n="f"/></l><r>pyžamo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>piżama<s n="n"/><s n="f"/></l><r>pyžamo<s n="n"/><s n="nt"/></r></p></e>
     <e c="FMT:CHECK"><p><l>plemnik<s n="n"/><s n="mi"/></l><r>spermie<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>podanie<s n="n"/><s n="nt"/></l><r>žádost<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>podłoże<s n="n"/><s n="nt"/></l><r>podloží<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>podwozie<s n="n"/><s n="nt"/></l><r>podvozek<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>polanka<s n="n"/><s n="f"/></l><r>paseka<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>policjant<s n="n"/><s n="mp"/></l><r>policie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>policja<s n="n"/><s n="f"/></l><r>policie<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>pompa<s n="n"/><s n="f"/></l><r>čerpadlo<s n="n"/><s n="nt"/></r></p></e>
     <e c="FMT:CHECK"><p><l>posag<s n="n"/><s n="mi"/></l><r>věno<s n="n"/><s n="nt"/></r></p></e>
     <e c="FMT:CHECK"><p><l>posunięcie<s n="n"/><s n="nt"/></l><r>počin<s n="n"/><s n="mi"/></r></p></e>
