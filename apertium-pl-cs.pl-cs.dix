@@ -5451,7 +5451,7 @@
     <e><p><l>rezultat<s n="n"/><s n="mi"/></l><r>výsledek<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ręcznik<s n="n"/><s n="mi"/></l><r>ručník<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>rękawica<s n="n"/><s n="f"/></l><r>rukavice<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>robota<s n="n"/><s n="ma"/></l><r>práce<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>robota<s n="n"/><s n="f"/></l><r>práce<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>robotnik<s n="n"/><s n="mp"/></l><r>dělník<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>rodak<s n="n"/><s n="mp"/></l><r>rodák<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>rolnictwo<s n="n"/><s n="nt"/></l><r>zemědělství<s n="n"/><s n="mi"/></r></p></e>
@@ -13019,7 +13019,8 @@
     <e><p><l>wersja<g><b/>beta</g><s n="n"/><s n="f"/></l><r>betaverze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>czarna<b/>jagoda<s n="n"/></l><r>borůvka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>instytucja<b/>charytatywna<s n="n"/></l><r>charita<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>burak<b/>cukrowy<s n="n"/></l><r>cukrovka<s n="n"/><s n="f"/></r></p></e>
+    <e c="srl='burak_cukrowy'" r="LR"><p><l>burak<b/>cukrowy<s n="n"/></l><r>cukrovka<s n="n"/><s n="f"/></r></p></e>
+    <e c="srl='cukrzyca D'"><p><l>cukrzyca<s n="n"/><s n="f"/></l><r>cukrovka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>droga<b/>rowerowa<s n="n"/></l><r>cyklostezka<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>ścieżka<b/>rowerowa<s n="n"/></l><r>cyklostezka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orkiestra<b/>dęta<s n="n"/></l><r>dechovka<s n="n"/><s n="f"/></r></p></e>
@@ -13347,13 +13348,13 @@
 
 	<!-- Toponyms  -->
 
-    <e c="FMT:CHECK"><p><l>Warszawa<s n="np"/><s n="top"/><s n="f"/></l><r>Varšava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>Ekwador<s n="np"/><s n="top"/><s n="mi"/></l><r>Ekvádor<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>Cypr<s n="np"/><s n="top"/><s n="mi"/></l><r>Kypr<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>Gruzja<s n="np"/><s n="top"/><s n="f"/></l><r>Gruzie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>Gambia<s n="np"/><s n="top"/><s n="f"/></l><r>Gambie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>Erytrea<s n="np"/><s n="top"/><s n="f"/></l><r>Eritrea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>Daleki<b/>Wschód<s n="np"/><s n="top"/><s n="mi"/></l><r>Dálný<b/>Východ<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Warszawa<s n="np"/><s n="top"/><s n="f"/></l><r>Varšava<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Ekwador<s n="np"/><s n="top"/><s n="mi"/></l><r>Ekvádor<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Cypr<s n="np"/><s n="top"/><s n="mi"/></l><r>Kypr<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Gruzja<s n="np"/><s n="top"/><s n="f"/></l><r>Gruzie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Gambia<s n="np"/><s n="top"/><s n="f"/></l><r>Gambie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Erytrea<s n="np"/><s n="top"/><s n="f"/></l><r>Eritrea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Daleki<b/>Wschód<s n="np"/><s n="top"/><s n="mi"/></l><r>Dálný<b/>Východ<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
 
 
     <e><p><l>Praga<s n="np"/><s n="top"/><s n="f"/></l><r>Praha<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -13997,7 +13998,6 @@
     <e c="FMT:CHECK"><p><l>przyszłość<s n="n"/><s n="f"/></l><r>budoucnost<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>rekin<s n="n"/><s n="ma"/></l><r>žralok<s n="n"/><s n="ma"/></r></p></e>
     <e c="FMT:CHECK"><p><l>rezerwat<s n="n"/><s n="mi"/></l><r>rezervace<s n="n"/><s n="f"/></r></p></e>
-    <e c="FMT:CHECK"><p><l>robota<s n="n"/><s n="f"/></l><r>práce<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>różaniec<s n="n"/><s n="mi"/></l><r>růženec<s n="n"/><s n="mi"/></r></p></e>
     <e c="FMT:CHECK"><p><l>saga<s n="n"/><s n="f"/></l><r>sága<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>sanitarka<s n="n"/><s n="f"/></l><r>sanitka<s n="n"/><s n="f"/></r></p></e>
