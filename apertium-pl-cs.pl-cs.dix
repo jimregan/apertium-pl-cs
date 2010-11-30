@@ -11137,7 +11137,7 @@
     <e><p><l>zobowiązywać<s n="vblex"/></l><r>zavazovat<s n="vblex"/></r></p></e>
     <e><p><l>zoperować<s n="vblex"/></l><r>odoperovat<s n="vblex"/></r></p></e>
     <e><p><l>podporządkować<s n="vblex"/><s n="imperf"/></l><r>podmanit<s n="vblex"/><s n="perf"/></r></p></e>
-    <e><p><l>oceniać<s n="vblex"/><s n="imperf"/></l><r><s n="vblex"/><s n="imperf"/></r></p></e>
+    <e i="yes"><p><l>oceniać<s n="vblex"/><s n="imperf"/></l><r><s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>litować<s n="vblex"/><s n="imperf"/></l><r>litovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e r="LR"><p><l>żałować<s n="vblex"/><s n="imperf"/></l><r>litovat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>animować<s n="vblex"/><s n="imperf"/></l><r>animovaný<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -13943,7 +13943,8 @@
   </section>
   <section id="pending" type="standard">
 
-    <e c="FMT:CHECK"><p><l>akrobatyka<s n="n"/><s n="f"/></l><r>akrobacie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>akrobatyka<s n="n"/><s n="f"/></l><r>akrobacie<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>akrobatyka<s n="n"/><s n="f"/></l><r>akrobatika<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>bielizna<s n="n"/><s n="f"/></l><r>prádlo<s n="n"/><s n="nt"/></r></p></e>
     <e c="FMT:CHECK"><p><l>ból<s n="n"/><s n="mi"/></l><r>bolest<s n="n"/><s n="f"/></r></p></e>
     <e c="FMT:CHECK"><p><l>bóżnica<s n="n"/><s n="f"/></l><r>synagoga<s n="n"/><s n="f"/></r></p></e>

@@ -59341,8 +59341,8 @@
     <e lm="bolest" c="FMT:CHECK"><i>bolest</i><par n="věc__n"/></e>
     <e lm="bratrstvo" c="FMT:CHECK"><i>bratrst</i><par n="obyvatelst/vo__n"/></e>
     <e lm="budoucnost" c="FMT:CHECK"><i>budoucnost</i><par n="věc__n"/></e>
-    <e lm="bumerang" c="FMT:CHECK"><i>bumeran</i><par n="windsurfin/g__n"/></e>
-    <e lm="demo" c="FMT:CHECK"><i>dem</i><par n="práv/o__n"/></e>
+    <e lm="bumerang"><i>bumeran</i><par n="windsurfin/g__n"/></e>
+    <e lm="demo"><i>dem</i><par n="práv/o__n"/></e>
     <e lm="grotesknost" c="FMT:CHECK"><i>grotesknost</i><par n="věc__n"/></e>
     <e lm="koberec" c="FMT:CHECK"><i>kober</i><par n="vál/ec__n"/></e>
     <e lm="kormidlo" c="FMT:CHECK"><i>kormid</i><par n="más/lo__n"/></e>
@@ -59370,13 +59370,13 @@
     <e lm="slabika" c="FMT:CHECK"><i>slabi</i><par n="dý/ka__n"/></e>
     <e lm="soustrast" c="FMT:CHECK"><i>soustrast</i><par n="věc__n"/></e>
     <e lm="spravedlnost" c="FMT:CHECK"><i>spravedlnost</i><par n="věc__n"/></e>
-    <e lm="starost" c="FMT:CHECK"><i>starost</i><par n="věc__n"/></e>
-    <e lm="synagoga" c="FMT:CHECK"><i>synago</i><par n="li/ga__n"/></e>
+    <e lm="starost"><i>starost</i><par n="věc__n"/></e>
+    <e lm="synagoga"><i>synago</i><par n="li/ga__n"/></e>
     <e lm="sága" c="FMT:CHECK"><i>sá</i><par n="li/ga__n"/></e>
     <e lm="sídlo" c="FMT:CHECK"><i>síd</i><par n="más/lo__n"/></e>
     <e lm="sýr" c="FMT:CHECK"><i>sýr</i><par n="kostel__n"/></e>
     <e lm="tanec" c="FMT:CHECK"><i>tan</i><par n="vál/ec__n"/></e>
-    <e lm="tygr" c="FMT:CHECK"><i>tyg</i><par n="amu/r__n"/></e>
+    <e lm="tygr"><i>tyg</i><par n="amu/r__n"/></e>
     <e lm="tábor" c="FMT:CHECK"><i>tábor</i><par n="kostel__n"/></e>
     <e lm="umyvadlo" c="FMT:CHECK"><i>umyvad</i><par n="más/lo__n"/></e>
     <e lm="uživatel" c="FMT:CHECK"><i>uživatel</i><par n="obyvatel__n"/></e>
