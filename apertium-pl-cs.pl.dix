@@ -41776,9 +41776,6 @@
     <e lm="czynny"><i>czynn</i><par n="now/y__adj"/></e>
     <e lm="czynny"><p><l>czynniej</l><r>czynny</r></p><par n="lep/szy__adj"/></e>
     <e lm="czynny"><p><l>najczynniej</l><r>czynny</r></p><par n="najlep/szy__adj"/></e>
-    <e lm="ekonomiczny"><i>ekonomiczn</i><par n="now/y__adj"/></e>
-    <e lm="ekonomiczny"><p><l>ekonomiczniej</l><r>ekonomiczny</r></p><par n="lep/szy__adj"/></e>
-    <e lm="ekonomiczny"><p><l>najekonomiczniej</l><r>ekonomiczny</r></p><par n="najlep/szy__adj"/></e>
     <e lm="gwałtowny"><i>gwałtown</i><par n="now/y__adj"/></e>
     <e lm="gwałtowny"><p><l>gwałtowniej</l><r>gwałtowny</r></p><par n="lep/szy__adj"/></e>
     <e lm="gwałtowny"><p><l>najgwałtowniej</l><r>gwałtowny</r></p><par n="najlep/szy__adj"/></e>
@@ -42717,6 +42714,9 @@
     <e lm="najżółtszy" r="LR"><p><l>najżółt</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
     <e lm="żółciejszy" r="LR"><p><l>żółciej</l><r>żółty</r></p><par n="żółt/szy__adj"/></e>
     <e lm="najżółciejszy" r="LR"><p><l>najżółciej</l><r>żółty</r></p><par n="najżółt/szy__adj"/></e>
+    <e lm="ekonomiczny"><i>ekonomiczn</i><par n="egzotermiczn/y__adj"/></e>
+    <e lm="ekonomiczny"><p><l>ekonomiczniej</l><r>ekonomiczny</r></p><par n="żółt/szy__adj"/></e>
+    <e lm="ekonomiczny"><p><l>najekonomiczniej</l><r>ekonomiczny</r></p><par n="najżółt/szy__adj"/></e>
 
     <e lm="cherlawy"><i>cherlaw</i><par n="egzotermiczn/y__adj"/></e>
     <e lm="szalony"><i>szal</i><par n="szal/ony__adj"/></e>
