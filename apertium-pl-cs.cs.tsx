@@ -20,7 +20,7 @@
     <tags-item tags="vbser.past.*"/>
   </def-label> 
   <def-label name="BYTFUT" closed="true">
-    <tags-item tags="vbser.fti.*"/>
+    <tags-item tags="vbser.fut.*"/>
   </def-label> 
   <def-label name="BYTPRES" closed="true">
     <tags-item tags="vbser.pres.*"/>

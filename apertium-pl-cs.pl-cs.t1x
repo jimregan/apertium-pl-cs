@@ -187,7 +187,7 @@
   </def-attr>
 
   <def-attr n="tns">
-     <attr-item tags="fti"/>
+     <attr-item tags="fut"/>
      <attr-item tags="past"/>
      <attr-item tags="pp"/>
      <attr-item tags="inf"/>

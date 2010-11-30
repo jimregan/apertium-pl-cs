@@ -14,7 +14,7 @@
      <cat-item tags="vbhaver.*"/>
      <cat-item tags="vaux.*"/>
   </def-cat>
-  <def-cat n="verbpresfti">
+  <def-cat n="verbpresfut">
      <cat-item tags="vblex.imperf.pres"/>
      <cat-item tags="vblex.imperf.pres.*"/>
      <cat-item tags="vbhaver.imperf.pres"/>
@@ -22,8 +22,8 @@
      <cat-item tags="vaux.imperf.pres"/>
      <cat-item tags="vaux.imperf.pres.*"/>
 
-     <cat-item tags="vblex.perf.fti"/>
-     <cat-item tags="vblex.perf.fti.*"/>
+     <cat-item tags="vblex.perf.fut"/>
+     <cat-item tags="vblex.perf.fut.*"/>
 
      <cat-item tags="vblex.imperf.imp"/>
      <cat-item tags="vblex.imperf.imp.*"/>
@@ -318,7 +318,7 @@
 
   <def-attr n="tns">
      <attr-item tags="inf"/>
-     <attr-item tags="fti"/>
+     <attr-item tags="fut"/>
      <attr-item tags="pres"/>
      <attr-item tags="past"/>
      <attr-item tags="imp"/>
@@ -1646,7 +1646,7 @@
 
   <rule comment="čtu -> czytam">
      <pattern>
-       <pattern-item n="verbpresfti"/>
+       <pattern-item n="verbpresfut"/>
      </pattern>
      <action>
        <call-macro n="firstWord">
@@ -1681,7 +1681,7 @@
   <rule comment="nečtu -> nie czytam">
      <pattern>
        <pattern-item n="neg"/>
-       <pattern-item n="verbpresfti"/>
+       <pattern-item n="verbpresfut"/>
      </pattern>
      <action>
        <call-macro n="firstWord">

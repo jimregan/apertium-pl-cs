@@ -73,7 +73,7 @@
     <sdef n="pp" 	c=""/> 
     <sdef n="pprs" /> 
     <sdef n="pass" 	c=""/> 
-    <sdef n="fti" 	c=""/> 
+    <sdef n="fut" 	c=""/> 
     <sdef n="inf" 	c=""/> 
     <sdef n="imp" 	c="rozkazovací způsob"/> 
     <sdef n="indecl" 	c="indeclinable"/> 
@@ -38485,7 +38485,7 @@
         <par n="BASE__měv"/> 
     </e>
 
-    <e><p><l></l><r><s n="fti"/></r></p><par n="BASE__udržím"/></e>
+    <e><p><l></l><r><s n="fut"/></r></p><par n="BASE__udržím"/></e>
     </pardef>
     <pardef n="BASE__blázním">  <!-- fmorph itxn -->
       <e><p>          <l>il</l><r><s n="past"/></r></p><par n="BASE__četl"/></e>
@@ -38547,7 +38547,7 @@
     <e>
       <p>
         <l>budu</l>
-        <r>být<s n="vbser"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        <r>být<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -38555,7 +38555,7 @@
     <e>
       <p>
         <l>budeš</l>
-        <r>být<s n="vbser"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        <r>být<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -38563,7 +38563,7 @@
     <e>
       <p>
         <l>bude</l>
-        <r>být<s n="vbser"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        <r>být<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -38571,7 +38571,7 @@
     <e>
       <p>
         <l>budeme</l>
-        <r>být<s n="vbser"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>být<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -38579,7 +38579,7 @@
     <e>
       <p>
         <l>budete</l>
-        <r>být<s n="vbser"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        <r>být<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -38587,7 +38587,7 @@
     <e>
       <p>
         <l>budou</l>
-        <r>být<s n="vbser"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>být<s n="vbser"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -39192,7 +39192,7 @@
     <e>
       <p>
         <l>půjdu</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -39200,7 +39200,7 @@
     <e>
       <p>
         <l>půjdeš</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -39208,7 +39208,7 @@
     <e>
       <p>
         <l>půjde</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -39216,7 +39216,7 @@
     <e>
       <p>
         <l>půjdeme</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -39224,7 +39224,7 @@
     <e>
       <p>
         <l>půjdete</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -39232,7 +39232,7 @@
     <e>
       <p>
         <l>půjdou</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -39355,7 +39355,7 @@
     <e>
       <p>
         <l>pojď</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -39363,7 +39363,7 @@
     <e c="FIXME">
       <p>
         <l>pojďiž</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="sg"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -39371,7 +39371,7 @@
     <e>
       <p>
         <l>pojďme</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -39379,7 +39379,7 @@
     <e>
       <p>
         <l>pojďmež</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="emph"/><s n="p1"/><s n="pl"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="imp"/><s n="emph"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -39387,7 +39387,7 @@
     <e>
       <p>
         <l>pojďte</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -39395,7 +39395,7 @@
     <e>
       <p>
         <l>pojďtež</l>
-        <r>jít<s n="vblex"/><s n="imperf"/><s n="fti"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="pl"/></r>
+        <r>jít<s n="vblex"/><s n="imperf"/><s n="fut"/><s n="imp"/><s n="emph"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -39498,7 +39498,7 @@
     <e>
       <p>
         <l>jd</l>
-        <r>jít<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        <r>jít<s n="vblex"/><s n="perf"/><s n="fut"/></r>
       </p>
         <par n="BASE__čtu"/> 
     </e>
@@ -39745,7 +39745,7 @@
     <e>
       <p>
         <l>t</l>
-        <r>íst<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        <r>íst<s n="vblex"/><s n="perf"/><s n="fut"/></r>
       </p>
         <par n="BASE__čtu"/> 
     </e>
@@ -40477,7 +40477,7 @@
     <e>
       <p>
         <l>aj</l>
-        <r>át<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        <r>át<s n="vblex"/><s n="perf"/><s n="fut"/></r>
       </p>
         <par n="BASE__kryji"/> 
     </e>
@@ -40993,7 +40993,7 @@
     <e>
       <p>
         <l>ním</l>
-        <r>nit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        <r>nit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -41001,7 +41001,7 @@
     <e>
       <p>
         <l>níš</l>
-        <r>nit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        <r>nit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -41009,7 +41009,7 @@
     <e>
       <p>
         <l>ní</l>
-        <r>nit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        <r>nit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -41017,7 +41017,7 @@
     <e>
       <p>
         <l>níme</l>
-        <r>nit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>nit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -41025,7 +41025,7 @@
     <e>
       <p>
         <l>níte</l>
-        <r>nit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        <r>nit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -41033,7 +41033,7 @@
     <e>
       <p>
         <l>ní</l>
-        <r>nit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>nit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e> <!-- check -->
 
@@ -41080,7 +41080,7 @@
     <e>
       <p>
         <l>nu</l>
-        <r>nout<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        <r>nout<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -41088,7 +41088,7 @@
     <e>
       <p>
         <l>neš</l>
-        <r>nout<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        <r>nout<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -41096,7 +41096,7 @@
     <e>
       <p>
         <l>ne</l>
-        <r>nout<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        <r>nout<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -41104,7 +41104,7 @@
     <e>
       <p>
         <l>neme</l>
-        <r>nout<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>nout<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -41112,7 +41112,7 @@
     <e r="LR">
       <p>
         <l>nem</l>
-        <r>nout<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>nout<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -41120,7 +41120,7 @@
     <e>
       <p>
         <l>nete</l>
-        <r>nout<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        <r>nout<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -41128,7 +41128,7 @@
     <e>
       <p>
         <l>nou</l>
-        <r>nout<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>nout<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -41842,7 +41842,7 @@
     <e>
       <p>
         <l>uji</l>
-        <r>ovat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        <r>ovat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -41850,7 +41850,7 @@
     <e r="LR">
       <p>
         <l>uju</l>
-        <r>ovat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        <r>ovat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -41858,7 +41858,7 @@
     <e>
       <p>
         <l>uješ</l>
-        <r>ovat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        <r>ovat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -41866,7 +41866,7 @@
     <e>
       <p>
         <l>uje</l>
-        <r>ovat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        <r>ovat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -41874,7 +41874,7 @@
     <e>
       <p>
         <l>ujeme</l>
-        <r>ovat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>ovat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -41882,7 +41882,7 @@
     <e r="LR">
       <p>
         <l>ujem</l>
-        <r>ovat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>ovat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -41890,7 +41890,7 @@
     <e>
       <p>
         <l>ujete</l>
-        <r>ovat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        <r>ovat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -41898,7 +41898,7 @@
     <e>
       <p>
         <l>ují</l>
-        <r>ovat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>ovat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -41906,7 +41906,7 @@
     <e r="LR">
       <p>
         <l>ujou</l>
-        <r>ovat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>ovat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -43022,7 +43022,7 @@
     <e>
       <p>
         <l>an</l>
-        <r>at<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        <r>at<s n="vblex"/><s n="perf"/><s n="fut"/></r>
       </p>
         <par n="BASE__kryji"/> 
     </e>
@@ -43088,7 +43088,7 @@
     <e>
       <p>
         <l>íš</l>
-        <r>sat<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        <r>sat<s n="vblex"/><s n="perf"/><s n="fut"/></r>
       </p>
         <par n="BASE__kryji"/> 
     </e>
@@ -43161,7 +43161,7 @@
     <e>
       <p>
         <l>es</l>
-        <r>ést<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        <r>ést<s n="vblex"/><s n="perf"/><s n="fut"/></r>
       </p>
         <par n="BASE__čtu"/> 
     </e>
@@ -43244,7 +43244,7 @@
     <e>
       <p>
         <l>píšu</l>
-        <r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        <r>epsat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -43252,7 +43252,7 @@
     <e>
       <p>
         <l>píši</l>
-        <r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        <r>epsat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -43260,7 +43260,7 @@
     <e>
       <p>
         <l>píšeš</l>
-        <r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        <r>epsat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -43268,7 +43268,7 @@
     <e>
       <p>
         <l>píšeme</l>
-        <r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>epsat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -43276,7 +43276,7 @@
     <e>
       <p>
         <l>píšete</l>
-        <r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        <r>epsat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -43284,7 +43284,7 @@
     <e>
       <p>
         <l>píšou</l>
-        <r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>epsat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -43292,7 +43292,7 @@
     <e r="LR">
       <p>
         <l>píší</l>
-        <r>epsat<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>epsat<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -43375,7 +43375,7 @@
     <e>
       <p>
         <l>tím</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -43383,7 +43383,7 @@
     <e r="LR">
       <p>
         <l>tímť</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -43391,7 +43391,7 @@
     <e>
       <p>
         <l>tíš</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -43399,7 +43399,7 @@
     <e r="LR">
       <p>
         <l>tíšť</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -43407,7 +43407,7 @@
     <e>
       <p>
         <l>tí</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -43415,7 +43415,7 @@
     <e r="LR">
       <p>
         <l>tíť</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -43423,7 +43423,7 @@
     <e>
       <p>
         <l>tíme</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -43431,7 +43431,7 @@
     <e r="LR">
       <p>
         <l>tímeť</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -43439,7 +43439,7 @@
     <e>
       <p>
         <l>títe</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -43447,7 +43447,7 @@
     <e r="LR">
       <p>
         <l>títeť</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -43455,7 +43455,7 @@
     <e>
       <p>
         <l>tí</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -43463,7 +43463,7 @@
     <e r="LR">
       <p>
         <l>tíť</l>
-        <r>tit<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>tit<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -44507,7 +44507,7 @@
     <e>
       <p>
         <l>áž</l>
-        <r>ázat<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        <r>ázat<s n="vblex"/><s n="perf"/><s n="fut"/></r>
       </p>
         <par n="BASE__kryji"/> 
     </e>
@@ -44589,7 +44589,7 @@
     <e>
       <p>
         <l>ij</l>
-        <r>ít<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        <r>ít<s n="vblex"/><s n="perf"/><s n="fut"/></r>
       </p>
         <par n="BASE__kryji"/> 
     </e>
@@ -44680,7 +44680,7 @@
     <e>
       <p>
         <l></l>
-        <r>at<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        <r>at<s n="vblex"/><s n="perf"/><s n="fut"/></r>
       </p>
         <par n="BASE__mám"/> 
     </e>
@@ -44736,7 +44736,7 @@
     <e>
       <p>
         <l>n</l>
-        <r>nout<s n="vblex"/><s n="perf"/><s n="fti"/></r>
+        <r>nout<s n="vblex"/><s n="perf"/><s n="fut"/></r>
       </p>
         <par n="BASE__kryji"/> 
     </e>
@@ -44883,7 +44883,7 @@
     <e>
       <p>
         <l>ím</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -44891,7 +44891,7 @@
     <e r="LR">
       <p>
         <l>ímť</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -44899,7 +44899,7 @@
     <e>
       <p>
         <l>íš</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -44907,7 +44907,7 @@
     <e r="LR">
       <p>
         <l>íšť</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -44915,7 +44915,7 @@
     <e>
       <p>
         <l>í</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -44923,7 +44923,7 @@
     <e r="LR">
       <p>
         <l>íť</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -44931,7 +44931,7 @@
     <e>
       <p>
         <l>íme</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -44939,7 +44939,7 @@
     <e r="LR">
       <p>
         <l>ímeť</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -44947,7 +44947,7 @@
     <e>
       <p>
         <l>íte</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -44955,7 +44955,7 @@
     <e r="LR">
       <p>
         <l>íteť</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -44963,7 +44963,7 @@
     <e>
       <p>
         <l>í</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -44971,7 +44971,7 @@
     <e r="LR">
       <p>
         <l>íť</l>
-        <r>it<s n="vblex"/><s n="perf"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        <r>it<s n="vblex"/><s n="perf"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
