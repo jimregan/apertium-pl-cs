@@ -1231,8 +1231,10 @@
     <e><p><l>borówka<s n="n"/><s n="f"/></l><r>brusnice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bowling<s n="n"/><s n="mi"/></l><r>bowling<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bozon<s n="n"/><s n="mi"/></l><r>boson<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>bożnica<s n="n"/><s n="f"/></l><r>synagoga<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>brand<s n="n"/><s n="mi"/></l><r>brandy<s n="n"/><s n="mi"/></r></p></e>
+    <e r="LR"><p><l>bożnica<s n="n"/><s n="f"/></l><r>synagoga<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>synagoga<s n="n"/><s n="f"/></l><r>synagoga<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>brandy<s n="n"/><s n="mi"/></l><r>brandy<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>brand<s n="n"/><s n="mi"/></l><r>brand<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>breloczek<s n="n"/><s n="mi"/></l><r>klíčenka<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>brelok<s n="n"/><s n="mi"/></l><r>klíčenka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>brodaczka<s n="n"/><s n="f"/></l><r>provazovka<s n="n"/><s n="f"/></r></p></e>
@@ -13947,7 +13949,6 @@
     <e r="RL"><p><l>akrobatyka<s n="n"/><s n="f"/></l><r>akrobatika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bielizna<s n="n"/><s n="f"/></l><r>prádlo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ból<s n="n"/><s n="mi"/></l><r>bolest<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bóżnica<s n="n"/><s n="f"/></l><r>synagoga<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bractwo<s n="n"/><s n="nt"/></l><r>bratrstvo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>braterstwo<s n="n"/><s n="nt"/></l><r>bratrstvo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>gol<s n="n"/><s n="mi"/></l><r>gól<s n="n"/><s n="mi"/></r></p></e> 
@@ -13973,7 +13974,7 @@
     <e><p><l>niezdolność<s n="n"/><s n="f"/></l><r>neschopnost<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>obóz<s n="n"/><s n="mi"/></l><r>tábor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>obraz<s n="n"/><s n="mi"/></l><r>obraz<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>obraz<s n="n"/><s n="mi"/></l><r>snímek<s n="n"/><s n="mi"/></r></p></e>
+    <e r="RL"><p><l>obraz<s n="n"/><s n="mi"/></l><r>snímek<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>obrzęd<s n="n"/><s n="mi"/></l><r>obřad<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>odkrycie<s n="n"/><s n="nt"/></l><r>objev<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>ogródek<s n="n"/><s n="mi"/></l><r>zahrádka<s n="n"/><s n="f"/></r></p></e>
@@ -13987,7 +13988,8 @@
     <e><p><l>paliwo<s n="n"/><s n="nt"/></l><r>palivo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pęknięcie<s n="n"/><s n="nt"/></l><r>prasklina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>piana<s n="n"/><s n="f"/></l><r>pěna<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bokser<s n="n"/><s n="mp"/></l><r>box<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>boks<s n="n"/><s n="mi"/></l><r>box<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>bokser<s n="n"/><s n="mi"/></l><r>boxer<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>pięść<s n="n"/><s n="f"/></l><r>pěst<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pisanka<s n="n"/><s n="f"/></l><r>kraslice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>piżama<s n="n"/><s n="f"/></l><r>pyžamo<s n="n"/><s n="nt"/></r></p></e>
@@ -14009,7 +14011,8 @@
     <e><p><l>różaniec<s n="n"/><s n="mi"/></l><r>růženec<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>saga<s n="n"/><s n="f"/></l><r>sága<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>karetka<s n="n"/><s n="f"/></l><r>sanitka<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>sceptyk<s n="n"/><s n="mp"/></l><r>skepticismus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>sceptycyzm<s n="n"/><s n="mi"/></l><r>skepticismus<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>sceptyk<s n="n"/><s n="mp"/></l><r>skeptik<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>scholastyka<s n="n"/><s n="f"/></l><r>scholastika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>segregator<s n="n"/><s n="mi"/></l><r>deska<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>semantyka<s n="n"/><s n="f"/></l><r>sémantika<s n="n"/><s n="f"/></r></p></e>
