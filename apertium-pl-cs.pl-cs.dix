@@ -14033,7 +14033,9 @@
     <e><p><l>świt<s n="n"/><s n="mi"/></l><r>úsvit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>sylaba<s n="n"/><s n="f"/></l><r>slabika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>synagoga<s n="n"/><s n="f"/></l><r>synagoga<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>syrena<s n="n"/><s n="f"/></l><r>maják<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>latarnia<b/>morska<s n="n"/><s n="f"/></l><r>maják<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>syrena<s n="n"/><s n="f"/></l><r>siréna<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>syrena<s n="n"/><s n="f"/></l><r>ochechule<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>systematyka<s n="n"/><s n="f"/></l><r>systematika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sztab<s n="n"/><s n="mi"/></l><r>štáb<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>taniec<s n="n"/><s n="mi"/></l><r>tanec<s n="n"/><s n="mi"/></r></p></e>
@@ -14042,7 +14044,8 @@
     <e><p><l>uczestnictwo<s n="n"/><s n="nt"/></l><r>účast<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>umywalka<s n="n"/><s n="f"/></l><r>umyvadlo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>uraz<s n="n"/><s n="mi"/></l><r>úraz<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>użyteczność<s n="n"/><s n="nt"/></l><r>užitek<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>użyteczność<s n="n"/><s n="f"/></l><r>užitečnost<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>użytek<s n="n"/><s n="mi"/></l><r>užitek<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>użytkownik<s n="n"/><s n="mp"/></l><r>uživatel<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>wina<s n="n"/><s n="f"/></l><r>vina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>właściwość<s n="n"/><s n="f"/></l><r>vlastnost<s n="n"/><s n="f"/></r></p></e>
