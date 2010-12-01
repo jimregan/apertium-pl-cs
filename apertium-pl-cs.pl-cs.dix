@@ -5994,7 +5994,7 @@
     <e><p><l>kawałeczek<s n="n"/><s n="mi"/></l><r>kousíček<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>kawiarnia<s n="n"/><s n="f"/></l><r>kavárna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kieliszek<s n="n"/><s n="mi"/></l><r>pohárek<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>klawisz<s n="n"/><s n="ma"/></l><r>klávesa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>klawisz<s n="n"/><s n="mi"/></l><r>klávesa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kluczyk<s n="n"/><s n="mi"/></l><r>klíček<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>koala<s n="n"/><s n="f"/></l><r>koala<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>koalicja<s n="n"/><s n="f"/></l><r>koalice<s n="n"/><s n="f"/></r></p></e>
@@ -14107,7 +14107,8 @@
     <e><p><l>konfident<s n="n"/><s n="mp"/></l><r>konfident<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>kwarcyt<s n="n"/><s n="mp"/></l><r>křemenec<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>laleczka<s n="n"/><s n="f"/></l><r>fešačka<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>lotnik<s n="n"/><s n="mp"/></l><r>pilot<s n="n"/><s n="ma"/></r></p></e>
+    <e r="LR"><p><l>lotnik<s n="n"/><s n="mp"/></l><r>pilot<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>pilot<s n="n"/><s n="mp"/></l><r>pilot<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>magnificencja<s n="n"/><s n="f"/></l><r>magnificence<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>markiz<s n="n"/><s n="mp"/></l><r>markýz<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>maszynka<s n="n"/><s n="f"/></l><r>mašinka<s n="n"/><s n="f"/></r></p></e>
@@ -14123,7 +14124,9 @@
     <e><p><l>optyka<s n="n"/><s n="f"/></l><r>optika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ostrze<s n="n"/><s n="nt"/></l><r>frézka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>piaskowiec<s n="n"/><s n="mi"/></l><r>pískovec<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>piłka<s n="n"/><s n="f"/></l><r>balón<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>balon<s n="n"/><s n="mi"/></l><r>balón<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>piłka<s n="n"/><s n="f"/></l><r>míček<s n="n"/><s n="mi"/></r></p></e>
+    <e r="RL"><p><l>piłka<s n="n"/><s n="f"/></l><r>míč<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>pilot<s n="n"/><s n="ma"/></l><r>pilot<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>równina<s n="n"/><s n="f"/></l><r>planina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pluton<s n="n"/><s n="mi"/></l><r>četa<s n="n"/><s n="f"/></r></p></e>
