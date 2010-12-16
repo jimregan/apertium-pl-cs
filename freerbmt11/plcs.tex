@@ -16,22 +16,19 @@
 %\bibpunct{(}{)}{;}{A}{,}{,}
 %\bibdata{mybib.bib}
 
-\title{Shallow-transfer rule-based machine translation for Czech to Polish}
+\title{Shallow-transfer rule-based machine translation from Czech to Polish}
 
-%\author{Joanna Ruth\\
-%  Gdańsk University of Technology \\
-%  Poland \\
-%  \And
-%  Jimmy O'Regan \\
-%  Eolaistriu Technologies \\
-%  Thurles \\
-%  Ireland \\  
-%  {\tt joregan@gmail.com}}
+\author{Joanna Ruth\\
+  Gdańsk University of Technology \\
+  Gdańsk \\
+  Poland \\
+  \And
+  Jimmy O'Regan \\
+  Eolaistriu Technologies \\
+  Thurles \\
+  Ireland \\  
+  {\tt joregan@gmail.com}}
 
-\author{XXX\\
-  XXX \\
-  XXX \\
-}
 \date{}
 
 \begin{document}
@@ -39,7 +36,7 @@
 \maketitle
 
 \begin{abstract}
-This article describes the development of a shallow-transfer machine translation
+This article describes the development of an Open Source shallow-transfer machine translation
 system from Czech to Polish in the Apertium platform. It gives details of the
 methods and resources used in constructing the system. 
 \end{abstract}
@@ -62,9 +59,11 @@ masculine nouns, while Polish draws a further distinction with masculine animate
 nouns that refer to people\footnote{The same distinction is present in Czech, but
 as it serves no role in concordance, we chose not to treat it specially.}.
 
-Because these distinctions have a role in concordance, we chose to 
+We chose to 
 follow the example of the IPI PAN Corpus of Polish~\citep{prze:04ce} in treating these 
-as separate genders. Although this greatly reduces the complexity of transfer between 
+animacy differences
+as separate genders, to simplify concordance operations. 
+Although this greatly reduces the complexity of transfer between 
 the languages, it introduces a number of artificial ambiguities.
 
 We have been guided by earlier work on Czech--Polish rule-based machine translation~\citep{Debowski02}, 
@@ -173,6 +172,10 @@ transfer rules.
 \end{small}
 \caption{Paradigms for the singular parts of 
 \emph{matka} and \emph{droga}, written in full form.
+
+Each \textbf{e}ntry contains a \textbf{p}air, where the \textbf{l}eft contains
+the suffix to be analysed/generated, and the \textbf{r}ight contains the
+suffix of the lemma, along with the set of \textbf{s}ymbols to be attached.
 \label{fig:pardefs}}
 \end{figure*}
 \begin{figure*}
@@ -199,6 +202,8 @@ transfer rules.
 \end{small}
 \caption{Paradigms for the singular parts of \emph{matka} and \emph{droga}, redefined in terms of 
 a ``base paradigm'' containing the common parts of both.
+
+The \textbf{par} element contains a reference to another, previously defined, paradigm.
 \label{fig:basepardefs}}
 \end{figure*}
 
@@ -338,8 +343,8 @@ Czech and Polish are syntactically quite similar, though there are some divergen
 \begin{itemize}
 \item Preposition changes -- Some prepositions take different cases in Czech and Polish,
 such as \emph{pro} in Czech (accusative) to \emph{dla} in Polish (genitive). We handled
-these differences as second level operations, to pass the case change to a whole noun
-phrase at a time.
+these differences as second level transfer operations, to pass the case change to a whole noun
+phrase chunk at a time.
 \item Past and conditional tenses -- Czech uses the present tense of \emph{být} (``to be'') to 
 indicate person in the past and conditional tenses, while in Polish this has become
 lexicalised, so that an enclitic form of the equivalent \emph{być} is considered part
@@ -373,9 +378,9 @@ Monolingual dict. ({\tt cs})               & 11,378 lemmas \\
 \hline
 Transfer rules ({\tt cs $\rightarrow$ pl}) &  \\
 \hline
-Level 1                                    & 49 \\
-Level 2                                    & 20 \\
-Level 3                                    & 3 \\
+Transfer Level 1                                    & 49 \\
+Transfer Level 2                                    & 20 \\
+Transfer Level 3                                    & 3 \\
 \hline
 \end{tabular}
     \caption{Status of pair as of SVN revision 27271, 26th November 2010}
@@ -511,18 +516,44 @@ of the plural, as the result of tagging errors.
 Although the high number of unknowns accounts for a not insignificant amount
 of the errors encountered (words immediately following unknown words are treated
 as having begun the sentence, causing the word to be capitalised),
-most of the errors can be attributed to tagging errors. We do not consider this a problem
-with {\tt\small apertium-tagger} itself, merely a reflection that the Markov
-assumption that a word can be disambiguated by considering the preceding words 
-does not hold sufficiently true for languages with relatively free word order.
-\cite{Hajic_serial} use a combination of rule-based and statistical methods
-to achieve high accuracy in Czech tagging; the rule-based component 
+%most of the errors can be attributed to tagging errors. We do not consider this a problem
+%"bold" statement my ass
+%with {\tt\small apertium-tagger} itself, merely a reflection that the Markov
+%assumption that a word can be disambiguated by considering the preceding words 
+%does not hold sufficiently true for languages with relatively free word order.
+%\cite{Hajic_serial} use a combination of rule-based and statistical methods
+%to achieve high accuracy in Czech tagging; the rule-based component 
+most of the errors can be attributed to tagging errors. 
+Discounting unknowns, and non-errors such as different choices of synonyms,
+58\% of the remaining errors can be attributed directly to mistagging: 24\% 
+were due to selecting incorrect morphological forms, 18\% due to part of speech
+errors, and 16\% were due to incorrect agreements made with a word with an incorrect
+morphological form.
 
-There are several part-of-speech taggers available for Polish~\citep{Piasecki:07TQ, Acedanski09}, 
+There are several Open Source part-of-speech taggers available for 
+Polish\footnote{There are no full Open Source taggers available for Czech.}~\citep{Piasecki:07TQ, Acedanski09}, 
 though most are tied to a particular tagset, and not immediately suitable for use
 with Apertium. We are encouraged by initial results in the rule-based 
 disambiguator used in LanguageTool, which operates in a manner analogous to
 Apertium's transfer system, using shallow parsing.
+
+Another relatively common source of errors (12\%) were word order differences in noun phrases.
+Adjectives usuall preceed the noun in both Czech and Polish, but in certain fixed 
+multiwords in Polish, the adjective follows the noun (usually, the adjectives in
+these multiwords describe an inherent property). A separate project to add
+multiword processing to Apertium was begun at the same time as this work, but
+did not yield any useful results. 
+
+Chunking errors were not a significant source of errors in the test sets we used,
+though we anticipate that they will be a frequent source of errors. Apertium's
+chunker uses the left-to-right, longest match strategy in pattern matching,
+which can lead to over matching. To address this, we extended the chunking 
+modules, to allow backoff to the previous longest match when an exception
+to the rule currently being processed has been detected, but the change is
+still being tested\footnote{The version being tested is available from Apertium's SVN repository:
+\url{https://apertium.svn.sourceforge.net/svnroot/apertium/branches/apertium/jimregan}
+}, and rules to make use of this backoff mechanism have
+yet to be written. 
 
 \cite{Debowski02} mentions the problem of differences with T-V distinction; that is,
 Polish uses the words \emph{pan}, \emph{pani}, \emph{państwo} (sir, madam, ``people'')
