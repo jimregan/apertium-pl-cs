@@ -186,6 +186,18 @@
      <attr-item tags="prn.pos.uns"/>
   </def-attr>
 
+  <def-attr n="a_det">
+     <attr-item tags="det"/>
+     <attr-item tags="det.ind"/>
+     <attr-item tags="det.itg"/>
+     <attr-item tags="det.dem"/>
+     <attr-item tags="det.pos"/>
+     <attr-item tags="det.pos.uns"/>
+     <attr-item tags="det.qnt"/>
+     <attr-item tags="det.qnt.adv"/>
+     <attr-item tags="det.ord"/>
+  </def-attr>
+
   <def-attr n="tns">
      <attr-item tags="fut"/>
      <attr-item tags="past"/>

@@ -18,20 +18,20 @@
 
 \title{Shallow-transfer rule-based machine translation for Czech to Polish}
 
-\author{Joanna Ruth\\
-  Gdańsk University of Technology \\
-  Poland \\
-  \And
-  Jimmy O'Regan \\
-  Eolaistriu Technologies \\
-  Thurles \\
-  Ireland \\  
-  {\tt joregan@gmail.com}}
+%\author{Joanna Ruth\\
+%  Gdańsk University of Technology \\
+%  Poland \\
+%  \And
+%  Jimmy O'Regan \\
+%  Eolaistriu Technologies \\
+%  Thurles \\
+%  Ireland \\  
+%  {\tt joregan@gmail.com}}
 
-%\author{XXX\\
-%  XXX \\
-%  XXX \\
-%}
+\author{XXX\\
+  XXX \\
+  XXX \\
+}
 \date{}
 
 \begin{document}
@@ -41,12 +41,12 @@
 \begin{abstract}
 This article describes the development of a shallow-transfer machine translation
 system from Czech to Polish in the Apertium platform. It gives details of the
-methods and resources used in contructing the system. 
+methods and resources used in constructing the system. 
 \end{abstract}
 
 \section{Introduction}
 
-Polish and Czech are both Western Slavic languages. Polish is spoken by
+Czech and Polish are both Western Slavic languages. Polish is spoken by
 approximately 50 million, Czech by 12 million.
 ``In the 10th century, Czech and Polish were still basically the same language, 
 which then began to diverge from each other, but even until the 14 century, 
@@ -55,19 +55,19 @@ století byly čeština a polština v podstatě stále jeden jazyk, pak se zača
 od sebe rozcházet, ale ještě ve 14. století si Češi a Poláci bez problémů rozuměli.''
 Authors' translation.}.~\citep{wiki:polstina}
 
-Polish and Czech are typologically similar languages. They are both medium inflected 
+Czech and Polish are typologically similar languages. They are both medium inflected 
 languages with relatively free word order, sharing seven cases and three grammatical 
 genders. In addition, both languages draw a distinction between animate and inimate 
 masculine nouns, while Polish draws a further distinction with masculine animate 
-nouns that refer to people.\footnote{The same distinction is present in Czech, but
-as it serves no role in concordance, we chose not to treat it specially.}
+nouns that refer to people\footnote{The same distinction is present in Czech, but
+as it serves no role in concordance, we chose not to treat it specially.}.
 
 Because these distinctions have a role in concordance, we chose to 
 follow the example of the IPI PAN Corpus of Polish~\citep{prze:04ce} in treating these 
 as separate genders. Although this greatly reduces the complexity of transfer between 
 the languages, it introduces a number of artificial ambiguities.
 
-We have been guided by earlier work on Czech--Polish machine translation~\citep{Debowski02}, 
+We have been guided by earlier work on Czech--Polish rule-based machine translation~\citep{Debowski02}, 
 and used issues raised by that work as a guideline in creating our own. In addition, we 
 have also sought to follow the example of two previous Apertium-based projects, for Swedish to 
 Danish~\citep{tyers2009rfr} and Norwegian Nynorsk and Bokm{\aa}l~\citep{unhammer2009rfr}.
@@ -105,7 +105,7 @@ shows the main modules of a given system built upon the platform. A more complet
 of the platform may be found in \citet{armentano06p}.
 
 Two models of structural transfer are supported by the platform: a single-stage transfer, where only
-one set of transfer rules is used, and a three-stage transfer where transfer rules are also used to 
+one set of transfer rules is used, and a three-stage transfer where rules are also used to 
 group words into \emph{chunks}, on which later operations can be performed. The Czech--Polish
 pair uses three-stage transfer as a means of simplifying the problems of concordance
 and difference in case governed by preposition mentioned in \cite{Debowski02}.
@@ -172,7 +172,8 @@ transfer rules.
 \end{verbatim}
 \end{small}
 \caption{Paradigms for the singular parts of 
-\emph{matka} and \emph{droga}, written in full form.\label{fig:pardefs}}
+\emph{matka} and \emph{droga}, written in full form.
+\label{fig:pardefs}}
 \end{figure*}
 \begin{figure*}
 \begin{small}
@@ -204,7 +205,7 @@ a ``base paradigm'' containing the common parts of both.
 \subsection{Morphological analysis and generation}
 
 None of the Apertium ``incubator'' material were at a particularly advanced stage of development; in addition, both 
-analysis modules had serious problems that needed to be resolved. Compounding this, the 
+Czech and Polish analysis modules had serious problems that needed to be resolved. Compounding this, the 
 number of distinct paradigms for nouns and verbs\footnote{\citet{Jagodzinski08} lists 174 verb 
 paradigms and 146 noun paradigms; \citet{Bielec98} mentions more, and \citet{Futrega09}
 contains yet more, mostly proper nouns.}, along with the number of forms each 
@@ -220,7 +221,7 @@ tool~\citep{Hacic2004} to validate entries, and to generate missing entries.
 
 To extract entries for the monolingual dictionary, we used a similar process mentioned in \cite{Weiss05}
 on the development of Lametyzator:
-as both ispell dictionaries were created according to linguistic principles, there 
+as both Czech and Polish ispell dictionaries were created according to linguistic principles, there 
 was a one-to-one mapping between ispell ``flags'' with suffix, and paradigms in the 
 morphological dictionaries.
 
@@ -248,11 +249,11 @@ necessary tool in the empirical evaluation of rule hypotheses. We also
 wished to collect a set of test sentences to use as a set of ``regression 
 tests'', to ensure that additions of new rules or changes to existing rules
 did not accidentally cause mistranslations which had previously been
-properly handled.\footnote{The set of test sentences is available on the
-Apertium wiki \url{http://wiki.apertium.org/wiki/Polish_and_Czech/Pending_tests}}
+properly handled\footnote{The set of test sentences is available on the
+Apertium wiki \url{http://wiki.apertium.org/wiki/Polish_and_Czech/Pending_tests}}.
 
 Several multilingual corpora are available that feature both
-Polish and Czech, such as JRC Acquis~\citep{Steinberger2006}, 
+Czech and Polish, such as JRC Acquis~\citep{Steinberger2006}, 
 OPUS~\citep{Tiedemann2009}, etc.; however, in these corpora
 most, if not all, of the text has been translated from a third language
 (usually English)\footnote{Even if there were direct translations in those 
@@ -277,13 +278,14 @@ to contribute to the pool of freely available linguistic resources.
 For disambiguation we first chose to train a basic unsupervised bigram
 part-of-speech tagger using the {\tt\small apertium-tagger} tool.
 Although there are disambiguators available for both Polish and
-Czech in LanguageTool, the disambiguator is not integrated with 
-Apertium.
+Czech in LanguageTool, the disambiguators are not integrated with 
+Apertium, and the Czech disambiguator is far from complete.
 
 \subsection{Lexical transfer}
 
 We were able to, with slight modifications, reuse a set of initial
-transfer rules from a nascent Polish--Slovakian system under
+transfer rules from a nascent Polish--Slovakian system\footnote{Czech 
+and Slovakian are similar enough that word-to-word translation is sufficient~\citep{}.} under
 development for Apertium, though the rules were quite basic
 and many new rules were required.
 
@@ -331,7 +333,7 @@ process, and bad entries were modified or discarded.
 
 \subsection{Syntactic transfer}
 
-Polish and Czech are syntactically quite similar, though there are some divergences.
+Czech and Polish are syntactically quite similar, though there are some divergences.
 
 \begin{itemize}
 \item Preposition changes -- Some prepositions take different cases in Czech and Polish,
@@ -369,7 +371,7 @@ Monolingual dict. ({\tt pl})               & 13,973 lemmas \\
 Bilingual dict.                            & 12,419 lemmas \\
 Monolingual dict. ({\tt cs})               & 11,378 lemmas \\
 \hline
-Transfer rules ({\tt pl $\rightarrow$ cs}) &  \\
+Transfer rules ({\tt cs $\rightarrow$ pl}) &  \\
 \hline
 Level 1                                    & 49 \\
 Level 2                                    & 20 \\
@@ -410,7 +412,8 @@ Czech   & 17,165,777 & 10,925,926 & 63.65\%\\
 
 The quantitative evaluation involved the post-edition of 46 human translated
 sentences (486 words) from the Polish learner's guide to Czech. The sentences were selected from 
-news sources. As a secondary source, we used the text of the UN Universal Declaration of
+the portion which had been drawn from news sources. As a secondary source, we 
+used the text of the UN Universal Declaration of
 Human Rights (UDHR), although as the texts are not mutual translations, we can expect
 a greater degree of divergence.
 
@@ -435,13 +438,13 @@ UDHR & 88 \% & 68 \%  & 0 \%  & 22 \% \\
 Both word error rate (WER) and position-independent error rate (PWER) were 
 calculated by counting the number of insertions, substitutions and deletions
 between the post-editted text and the original translation. The tool used for
-calculating both WER and PWER was the freely available {\tt\small apertium-eval-translator}.\footnote{The
-package can be downloaded from Apertium SVN, for details see {\small \url{http://www.apertium.org/}}.}
+calculating both WER and PWER was the freely available {\tt\small apertium-eval-translator}\footnote{The
+package can be downloaded from Apertium SVN, for details see {\small \url{http://www.apertium.org/}}.}.
 
 The results of this evaluation are shown in table~\ref{table:quanteval} and 
 indicate that the system is still not ready for general use.
 
-\subsection{Comparative}
+\subsection{Comparison}
 
 \begin{table}
 \centering
@@ -512,6 +515,8 @@ most of the errors can be attributed to tagging errors. We do not consider this 
 with {\tt\small apertium-tagger} itself, merely a reflection that the Markov
 assumption that a word can be disambiguated by considering the preceding words 
 does not hold sufficiently true for languages with relatively free word order.
+\cite{Hajic_serial} use a combination of rule-based and statistical methods
+to achieve high accuracy in Czech tagging; the rule-based component 
 
 There are several part-of-speech taggers available for Polish~\citep{Piasecki:07TQ, Acedanski09}, 
 though most are tied to a particular tagset, and not immediately suitable for use
@@ -524,7 +529,7 @@ Polish uses the words \emph{pan}, \emph{pani}, \emph{państwo} (sir, madam, ``pe
 to express polite sentiments, while Czech uses \emph{vy} (you, plural). We made no
 attempt to address this.
 
-\section{Discussion}
+\section{Conclusion}
 
 We have presented results from the first free-software translator from Czech to 
 Polish. This is also the first translator between free-word order languages
