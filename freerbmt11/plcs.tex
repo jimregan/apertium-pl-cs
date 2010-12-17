@@ -39,7 +39,8 @@
 \begin{abstract}
 This article describes the development of an Open Source shallow-transfer machine translation
 system from Czech to Polish in the Apertium platform. It gives details of the
-methods and resources used in constructing the system. 
+methods and resources used in constructing the system. Although the resulting system
+has quite a high error rate, it is still competetive with other systems.
 \end{abstract}
 
 \section{Introduction}
@@ -48,17 +49,17 @@ Czech and Polish are both Western Slavic languages. Polish is spoken by
 approximately 50 million, Czech by 12 million.
 ``In the 10th century, Czech and Polish were still basically the same language, 
 which then began to diverge from each other, but even until the 14 century, 
-Czechs and Poles understood each other without problems''\footnote{``V 10. 
+Czechs and Poles understood each other without problems''.\footnote{``V 10. 
 století byly čeština a polština v podstatě stále jeden jazyk, pak se začaly 
 od sebe rozcházet, ale ještě ve 14. století si Češi a Poláci bez problémů rozuměli.''
-Authors' translation.}.~\citep{wiki:polstina}
+Authors' translation.}~\citep{wiki:polstina}
 
 Czech and Polish are typologically similar languages. They are both medium inflected 
 languages with relatively free word order, sharing seven cases and three grammatical 
 genders. In addition, both languages draw a distinction between animate and inimate 
 masculine nouns, while Polish draws a further distinction with masculine animate 
-nouns that refer to people\footnote{The same distinction is present in Czech, but
-as it serves no role in concordance, we chose not to treat it specially.}.
+nouns that refer to people.\footnote{The same distinction is present in Czech, but
+as it serves no role in concordance, we chose not to treat it specially.}
 We chose to 
 follow the example of the IPI PAN Corpus of Polish~\citep{prze:04ce} in treating these 
 animacy differences
@@ -66,8 +67,29 @@ as separate genders, to simplify concordance operations.
 Although this greatly reduces the complexity of transfer between 
 the languages, it introduces a number of artificial ambiguities.
 
+Several multilingual corpora are available that feature both
+Czech and Polish, such as JRC Acquis~\citep{Steinberger2006}, 
+OPUS~\citep{Tiedemann2009}, etc.; however, in these corpora
+most, if not all, of the text has been translated from a third language
+(usually English),\footnote{Even if there were direct translations in those 
+corpora, there's no indication in the metadata of the original language.}
+and we considered the potential for ``translation drift'' to be a 
+serious limiting factor in the creation of a statistical system.
+
+Further, as a primary goal of the project was to create a piece
+of Open Source \textit{software}, we felt more inclined towards
+investigating the rule-based paradigm. We were also interested
+in determining if the successes of previous projects based on
+the Apertium platform for closely-related languages in the Romance
+and Germanic families would apply to a Slavic language 
+pair. %\footnote{Another Slavic project, from Macedonian to Bulgarian,
+%was begun at the same time as this; we did not wait for results from
+%that work, as those languages are both typologically distant from the
+%rest of the Slavic family, and the results would not be directly
+%relevant.}
+
 We have been guided by earlier work on Czech--Polish rule-based machine translation~\citep{Debowski02}, 
-and used issues raised by that work as a guideline in creating our own. In addition, we 
+and used issues raised by that work as a guideline in creating an Open Source system. In addition, we 
 have also sought to follow the example of two previous Apertium-based projects, for Swedish to 
 Danish~\citep{tyers2009rfr} and Norwegian Nynorsk and Bokm{\aa}l~\citep{unhammer2009rfr}.
 
@@ -78,7 +100,8 @@ we felt more comfortable with.
 
 Also, as there has not yet been a translation system based on Apertium between
 medium inflected, free word order languages, to a certain degree we are testing
-the limits of the Apertium platform.
+the limits of the Apertium platform: part of the high error rate of the resulting
+system (73\%) could be reduced with some extensions to the Apertium platform.
 
 \section{Design}
 The Apertium machine translation platform uses a shallow-transfer model.
@@ -173,9 +196,9 @@ transfer rules.
 \caption{Paradigms for the singular parts of 
 \emph{matka} and \emph{droga}, written in full form.
 \label{fig:pardefs}\\
-\small{Each \textbf{e}ntry contains a \textbf{p}air, where the \textbf{l}eft contains
-the suffix to be analysed/generated, and the \textbf{r}ight contains the
-suffix of the lemma, along with the set of \textbf{s}ymbols to be attached.}}
+\small{Each \textit{e}ntry contains a \textit{p}air, where the \textbf{l}eft contains
+the suffix to be analysed/generated, and the \textit{r}ight contains the
+suffix of the lemma, along with the set of \textit{s}ymbols to be attached.}}
 \end{figure*}
 \begin{figure*}
 \begin{small}
@@ -227,23 +250,23 @@ To extract entries for the monolingual dictionary, we used a similar process men
 on the development of Lametyzator:
 as both Czech and Polish ispell dictionaries were created according to linguistic principles, there 
 was a one-to-one mapping between ispell ``flags'' with suffix, and paradigms in the 
-morphological dictionaries. Table~\ref{tab:paradigms} shows examples of paradigm mappings.
+morphological dictionaries. %Table~\ref{tab:paradigms} shows examples of paradigm mappings.
 
 
-\begin{table}
-\begin{center}
- \caption{Some example mappings between Polish ispell entries and paradigms.\label{tab:paradigms}}
- \begin{tabular}{ll}
-    \hline\noalign{\smallskip}
-    ispell      & Apertium\\
-    \noalign{\smallskip}\hline\noalign{\smallskip}
-    miłość$/$MN & miłoś$/$ć\_\_n\\
-    matka$/$mMN & mat$/$ka\_\_n\\
-    droga$/$mMN & fla$/$ga\_\_n\\
-    \hline\noalign{\smallskip}
- \end{tabular}
-\end{center}
-\end{table}
+%\begin{table}
+%\begin{center}
+% \caption{Some example mappings between Polish ispell entries and paradigms.\label{tab:paradigms}}
+% \begin{tabular}{ll}
+%    \hline\noalign{\smallskip}
+%    ispell      & Apertium\\
+%    \noalign{\smallskip}\hline\noalign{\smallskip}
+%    miłość$/$MN & miłoś$/$ć\_\_n\\
+%    matka$/$mMN & mat$/$ka\_\_n\\
+%    droga$/$mMN & fla$/$ga\_\_n\\
+%    \hline\noalign{\smallskip}
+% \end{tabular}
+%\end{center}
+%\end{table}
 
 \subsection{Corpus collection}
 \label{sect:corpus}
@@ -252,25 +275,18 @@ Although rule-based machine translation is not corpus based, a corpus is a
 necessary tool in the empirical evaluation of rule hypotheses. We also
 wished to collect a set of test sentences to use as a set of ``regression 
 tests'', to ensure that additions of new rules or changes to existing rules
-did not accidentally cause mistranslations which had previously been
-properly handled\footnote{The set of test sentences is available on the
-Apertium wiki \url{http://wiki.apertium.org/wiki/Polish_and_Czech/Pending_tests}}.
+do not accidentally introduce new errors.\footnote{The set of test sentences is available on the
+Apertium wiki \url{http://wiki.apertium.org/wiki/Polish_and_Czech/Pending_tests}}
 
-Several multilingual corpora are available that feature both
-Czech and Polish, such as JRC Acquis~\citep{Steinberger2006}, 
-OPUS~\citep{Tiedemann2009}, etc.; however, in these corpora
-most, if not all, of the text has been translated from a third language
-(usually English)\footnote{Even if there were direct translations in those 
-corpora, there's no indication in the metadata of the original language.}, 
-and we wished to avoid any potential ``translation drift''.
-
+Despite the availability of parallel text, we required \textit{direct} translations,
+and sought our own sources.
 We built an initial set of sentences from the example sentences given on
 the Polish edition of Wiktionary. Though there were few sentences (141), they
 were mostly useful for our purposes.
 
 We also found some material that had been translated from Czech to Polish
 at an online grammar 
-site\footnote{\url{http://www.finito.zanet.pl/czeski/ath/slawistyka/www.slawistyka.ath.bielsko.pl/czeski/index.html}}. 
+site.\footnote{\url{http://www.finito.zanet.pl/czeski/ath/slawistyka/www.slawistyka.ath.bielsko.pl/czeski/index.html}}
 We also found some public domain material from
 the Polish embassy in Prague, which provided us with a more substantial 
 set of direct translations. The Open Content parts of the collected
@@ -305,11 +321,11 @@ where a set of common transformations (such as \textit{v} to \textit{w}, \textit
 to \textit{ować}) are used on a source language list to produce a target language
 list of cognates, 
 but initial results were not promising. To increase accuracy in the induced lexicon,
-we restricted the process by limiting the search to words which, by their 
-suffixes\footnote{\emph{-ogia, -afia} in Polish to \emph{-ogie, -afie} in Czech}, 
+we limited the search to words which, by their 
+suffixes,\footnote{\emph{-ogia, -afia} in Polish to \emph{-ogie, -afie} in Czech}
 seemed likely Latin or Greek derivatives, to adjectives referring to 
-languages\footnote{Ending in \emph{-ski} in Polish, with a corresponding \emph{-sku} form,
-ending in \emph{-sky} in Czech with a corresponding \emph{-ský} form.}. While the
+languages.\footnote{Ending in \emph{-ski} in Polish, with a corresponding \emph{-sku} form,
+ending in \emph{-sky} in Czech with a corresponding \emph{-ský} form.} While the
 yield was low, the accuracy was much higher.
 
 \item Wordlists -- we used a number of Czech-Polish wordlists, to which part-of-speech 
@@ -317,7 +333,8 @@ and gender information was added. We also used a number of Polish--English and C
 wordlists via triangulation, with restrictions based on part-of-speech to filter the
 resulting lists.
 
-\item Wikipedia -- we used the process described in \cite{tyers2008}, although modified to
+\item Wikipedia -- we used the process described in \cite{tyers2008}, 
+of collecting translations using Wikipedia \textit{interwiki} links, although modified to
 remove the following of interwiki links, which, although it provided ``close'' concepts
 (such as providing \emph{diabetes} as a translation for \emph{diabetic}) lead to too
 many incorrect entries.
@@ -399,10 +416,11 @@ The vocabulary coverage of the system is calculated over an available corpus. He
 is defined as \emph{na\"ive coverage}, that is for any given surface form at least one analysis
 is returned. This may not be complete. Although we have concentrated on the Czech to Polish
 direction, we also provide results for the Polish to Czech direction as an indicator of
-future work.
-We used the database dumps of the corresponding Wikipedias\footnote{Czech: \url{http://cs.wikipedia.org}; Access date: 30th March 2010; Filename: 
+future work. The coverage figures roughly correspond to the first public versions of
+other Apertium systems.
+We used the database dumps of the corresponding Wikipedias.\footnote{Czech: \url{http://cs.wikipedia.org}; Access date: 30th March 2010; Filename: 
 {\small\tt cswiki-20100330-pages-articles.xml.bz2}. Polish: \url{http://pl.wikipedia.org}; Access date: 4th January 2010; Filename: 
-{\small\tt plwiki-20100104-pages-articles.xml.bz2}.}. The results are presented in table~\ref{table:coverage}.
+{\small\tt plwiki-20100104-pages-articles.xml.bz2}.} The results are presented in table~\ref{table:coverage}.
 
 \begin{table*}
 \centering
@@ -448,11 +466,10 @@ UDHR & 88 \% & 68 \%  & 0 \%  & 22 \% \\
 Both word error rate (WER) and position-independent error rate (PWER) were 
 calculated by counting the number of insertions, substitutions and deletions
 between the post-editted text and the original translation. The tool used for
-calculating both WER and PWER was the freely available {\tt\small apertium-eval-translator}\footnote{The
-package can be downloaded from Apertium SVN, for details see {\small \url{http://www.apertium.org/}}.}.
+calculating both WER and PWER was the freely available {\tt\small apertium-eval-translator}.\footnote{Available 
+from Apertium SVN, for details see {\small \url{http://www.apertium.org/}}.}
 
-The results of this evaluation are shown in table~\ref{table:quanteval} and 
-indicate that the system is still not ready for general use.
+The results of this evaluation are shown in table~\ref{table:quanteval}. 
 
 \subsection{Comparison}
 
@@ -508,10 +525,10 @@ found it instructive to compare the performance of our system with theirs, using
 the two example sentences they provide. The results
 of the comparison are shown in table~\ref{table:comparison}.
 
-In the first sentence, we have almost exactly the same output, with one difference
-that can be attributed to an error in their Polish generation module. In the second
-sentence, although we have the correct auxiliary verb, it is incorrectly inflected, 
-because gender agreement is being taken from the wrong chunk. We also have doubly
+In the first sentence, we have almost the same output, with one difference
+that can be attributed to an error in their Polish generator. In the second
+sentence, we have the correct auxiliary verb, though incorrectly inflected, 
+as agreement is being taken from the wrong chunk. We also have doubly
 incorrect output in the last noun chunk (\emph{pracujący użytkownika}) -- firstly,
 agreement has not been performed; secondly, the singular has been generated instead
 of the plural, as the result of tagging errors.
@@ -556,9 +573,9 @@ chunker uses the left-to-right, longest match strategy in pattern matching,
 which can lead to over-matching. To address this, we extended the chunking 
 module, to allow backoff to the previous longest match when an exception
 to the rule currently being processed has been detected, but the change is
-still being tested\footnote{The version being tested is available from Apertium's SVN repository:
+still being tested,\footnote{Available from Apertium's SVN repository:
 \url{https://apertium.svn.sourceforge.net/svnroot/apertium/branches/apertium/jimregan}
-}, and rules to make use of this backoff mechanism have
+} and rules to make use of this backoff mechanism have
 yet to be written. 
 
 \cite{Debowski02} mentions the problem of differences with T-V distinction; that is,
