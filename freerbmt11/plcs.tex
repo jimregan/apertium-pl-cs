@@ -58,7 +58,6 @@ genders. In addition, both languages draw a distinction between animate and inim
 masculine nouns, while Polish draws a further distinction with masculine animate 
 nouns that refer to people\footnote{The same distinction is present in Czech, but
 as it serves no role in concordance, we chose not to treat it specially.}.
-
 We chose to 
 follow the example of the IPI PAN Corpus of Polish~\citep{prze:04ce} in treating these 
 animacy differences
@@ -138,7 +137,7 @@ There are several tools available for both languages, many open source,
 which we were able to use in the creation or validation of resources.
 In particular, the Open Source Proofreading tool, LanguageTool~\citep{Milkowski10},
 includes both morphological analysis and disambiguation for both Polish and
-Czech.
+Czech, though the Czech disambiguator is incomplete.
 
 Aside from external resources, we were able to take advantage of the Open Source nature
 of the Apertium platform, and to draw upon other work being done within the project. In 
@@ -172,11 +171,10 @@ transfer rules.
 \end{small}
 \caption{Paradigms for the singular parts of 
 \emph{matka} and \emph{droga}, written in full form.
-
-Each \textbf{e}ntry contains a \textbf{p}air, where the \textbf{l}eft contains
+\label{fig:pardefs}\\
+\small{Each \textbf{e}ntry contains a \textbf{p}air, where the \textbf{l}eft contains
 the suffix to be analysed/generated, and the \textbf{r}ight contains the
-suffix of the lemma, along with the set of \textbf{s}ymbols to be attached.
-\label{fig:pardefs}}
+suffix of the lemma, along with the set of \textbf{s}ymbols to be attached.}}
 \end{figure*}
 \begin{figure*}
 \begin{small}
@@ -202,14 +200,14 @@ suffix of the lemma, along with the set of \textbf{s}ymbols to be attached.
 \end{small}
 \caption{Paradigms for the singular parts of \emph{matka} and \emph{droga}, redefined in terms of 
 a ``base paradigm'' containing the common parts of both.
-
-The \textbf{par} element contains a reference to another, previously defined, paradigm.
-\label{fig:basepardefs}}
+\label{fig:basepardefs} \\
+\small{The \textbf{par} element contains a reference to another, previously defined, paradigm.}
+}
 \end{figure*}
 
 \subsection{Morphological analysis and generation}
 
-None of the Apertium ``incubator'' material were at a particularly advanced stage of development; in addition, both 
+None of the Apertium ``incubator'' materials were at a particularly advanced stage of development; in addition, both 
 Czech and Polish analysis modules had serious problems that needed to be resolved. Compounding this, the 
 number of distinct paradigms for nouns and verbs\footnote{\citet{Jagodzinski08} lists 174 verb 
 paradigms and 146 noun paradigms; \citet{Bielec98} mentions more, and \citet{Futrega09}
@@ -228,12 +226,12 @@ To extract entries for the monolingual dictionary, we used a similar process men
 on the development of Lametyzator:
 as both Czech and Polish ispell dictionaries were created according to linguistic principles, there 
 was a one-to-one mapping between ispell ``flags'' with suffix, and paradigms in the 
-morphological dictionaries.
+morphological dictionaries. Table~\ref{tab:paradigms} shows examples of paradigm mappings.
 
 
 \begin{table}
 \begin{center}
- \caption{Some example mappings between Polish ispell entries and paradigms.}
+ \caption{Some example mappings between Polish ispell entries and paradigms.\label{tab:paradigms}}
  \begin{tabular}{ll}
     \hline\noalign{\smallskip}
     ispell      & Apertium\\
@@ -290,7 +288,8 @@ Apertium, and the Czech disambiguator is far from complete.
 
 We were able to, with slight modifications, reuse a set of initial
 transfer rules from a nascent Polish--Slovakian system\footnote{Czech 
-and Slovakian are similar enough that word-to-word translation is sufficient~\citep{}.} under
+and Slovakian are similar enough that word-for-word translation is sufficient~\citep{Hajic00},
+which allowed this reuse.} under
 development for Apertium, though the rules were quite basic
 and many new rules were required.
 
@@ -300,7 +299,10 @@ hand, while semi-automatic methods were used to add the open
 categories:
 
 \begin{itemize}
-\item Cognates -- we initially used the same process described in \cite{tyers2009rfr}, 
+\item Cognates -- we initially used the same process described in \cite{tyers2009rfr},
+where a set of common transformations (such as \textit{v} to \textit{w}, \textit{ovat} 
+to \textit{ować}) are used on a source language list to produce a target language
+list of cognates, 
 but initial results were not promising. To increase accuracy in the induced lexicon,
 we restricted the process by limiting the search to words which, by their 
 suffixes\footnote{\emph{-ogia, -afia} in Polish to \emph{-ogie, -afie} in Czech}, 
@@ -320,21 +322,23 @@ remove the following of interwiki links, which, although it provided ``close'' c
 many incorrect entries.
 
 \item poterminology -- we used the {\tt\small poterminology} tool, as described in
-\cite{unhammer2009rfr}, with the localisation data from the KDE project, to which
-we added part-of-speech information, as with the wordlists, above.
+\cite{unhammer2009rfr}, with the localisation data from the KDE project.%, to which
+%we added part-of-speech information, as with the wordlists, above.
 
 \item Probabilistic dictionary -- We trained a statistical machine translation system
-using Moses \citep{Koehn2007} on the JRC Acquis Corpus \citep{Steinberger2006}. From this
-we extracted the most probable translations, to which we added part-of-speech information
-as with the Wordlists, above.
+using Moses~\citep{Koehn2007} on the JRC Acquis Corpus~\citep{Steinberger2006},
+extracting the most probable translations.%, to which we added part-of-speech information
+%as with the Wordlists, above.
 
 \item ``Stupid'' word alignment -- we passed our parallel text sources though the
 analysers of both systems, taking sentences with one unknown word each, and selected
-them as the probable translation, adding information as with the wordlists.
+them as the probable translation.%, adding information as with the wordlists.
 \end{itemize}
 
 The bilingual dictionaries were manually checked at several stages of the development 
-process, and bad entries were modified or discarded. 
+process, and bad entries were modified or discarded. In addition, we used the intersection
+of multiple wordlists, along with output from Google Translate, to partially automate
+the validation process.
 
 \subsection{Syntactic transfer}
 
@@ -351,9 +355,9 @@ lexicalised, so that an enclitic form of the equivalent \emph{być} is considere
 of the conjugation.
 \item Different modal verbs -- Czech uses the conditional particle \emph{by}, the past tense
 of \emph{mít}, and the infinitive of the verb to express ``ought to'', while Polish uses
-the defect modal verb \emph{powinien} with the infinitive. (However, the word for word
-equivalent is used in colloquial Polish, so a rule to handle this was not strictly 
-necessary for the purposes of assimilation).
+the defect modal verb \emph{powinien} with the infinitive.% (However, the word for word
+%equivalent is used in colloquial Polish, so a rule to handle this was not strictly 
+%necessary for the purposes of assimilation).
 \item Transgressive -- The transgressive is a verb form specific to Czech and
 Slovak, which resembles a nominative-only adjective; the equivalent form in Polish is
 adverbial, so we need only to discard the extra morphological information.
@@ -513,9 +517,10 @@ of the plural, as the result of tagging errors.
 
 \section{Shortcomings of the system}
 
-Although the high number of unknowns accounts for a not insignificant amount
+Although the high number of unknowns accounts for% a not insignificant amount
+many
 of the errors encountered (words immediately following unknown words are treated
-as having begun the sentence, causing the word to be capitalised),
+as having begun the sentence, and are capitalised),
 %most of the errors can be attributed to tagging errors. We do not consider this a problem
 %"bold" statement my ass
 %with {\tt\small apertium-tagger} itself, merely a reflection that the Markov
@@ -530,12 +535,12 @@ were due to selecting incorrect morphological forms, 18\% due to part of speech
 errors, and 16\% were due to incorrect agreements made with a word with an incorrect
 morphological form.
 
-There are several Open Source part-of-speech taggers available for 
-Polish\footnote{There are no full Open Source taggers available for Czech.}~\citep{Piasecki:07TQ, Acedanski09}, 
-though most are tied to a particular tagset, and not immediately suitable for use
-with Apertium. We are encouraged by initial results in the rule-based 
-disambiguator used in LanguageTool, which operates in a manner analogous to
-Apertium's transfer system, using shallow parsing.
+%There are several Open Source part-of-speech taggers available for 
+%Polish\footnote{There are no full Open Source taggers available for Czech.}~\citep{Piasecki:07TQ, Acedanski09}, 
+%though most are tied to a particular tagset, and not immediately suitable for use
+%with Apertium. We are encouraged by initial results in the rule-based 
+%disambiguator used in LanguageTool, which operates in a manner analogous to
+%Apertium's transfer system, using shallow parsing.
 
 Another relatively common source of errors (12\%) were word order differences in noun phrases.
 Adjectives usuall preceed the noun in both Czech and Polish, but in certain fixed 
