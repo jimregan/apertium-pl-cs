@@ -12,6 +12,7 @@
 \usepackage{latexsym}
 \usepackage[T1]{fontenc}
 \usepackage{multirow}
+\usepackage[small,bf]{caption}
 
 %\bibpunct{(}{)}{;}{A}{,}{,}
 %\bibdata{mybib.bib}
@@ -207,7 +208,7 @@ a ``base paradigm'' containing the common parts of both.
 
 \subsection{Morphological analysis and generation}
 
-None of the Apertium ``incubator'' materials were at a particularly advanced stage of development; in addition, both 
+None of the Apertium ``incubator'' materials were at an advanced stage of development; in addition, both 
 Czech and Polish analysis modules had serious problems that needed to be resolved. Compounding this, the 
 number of distinct paradigms for nouns and verbs\footnote{\citet{Jagodzinski08} lists 174 verb 
 paradigms and 146 noun paradigms; \citet{Bielec98} mentions more, and \citet{Futrega09}
@@ -476,8 +477,8 @@ feel the results would be particularly instructive. For the puposes of a simple
 comparison, we translated the same test sets using Google Translate. The results
 of the comparison are shown in table~\ref{table:googlecompar}.
 
-The disparity in the results is somewhat surprising. It's possible that the UDHR
-was part of the training set used by Google; it's also possible that Google Translate
+The disparity in the results is somewhat surprising. It is possible that the UDHR
+was part of the training set used by Google; it is also possible that Google Translate
 simply performs better on material that has been translated from English, either
 directly, through the use of pivot languages~\citep{Kumar07}, or indirectly, through
 the use of corpora such as JRC Acquis~\citep{Steinberger2006} where both Polish and
@@ -517,7 +518,7 @@ of the plural, as the result of tagging errors.
 
 \section{Shortcomings of the system}
 
-Although the high number of unknowns accounts for% a not insignificant amount
+Although the high number of unknowns accounts for % a not insignificant amount
 many
 of the errors encountered (words immediately following unknown words are treated
 as having begun the sentence, and are capitalised),
@@ -543,17 +544,17 @@ morphological form.
 %Apertium's transfer system, using shallow parsing.
 
 Another relatively common source of errors (12\%) were word order differences in noun phrases.
-Adjectives usuall preceed the noun in both Czech and Polish, but in certain fixed 
-multiwords in Polish, the adjective follows the noun (usually, the adjectives in
-these multiwords describe an inherent property). A separate project to add
+Adjectives usually preceed the noun in both Czech and Polish, but in certain fixed 
+multiwords in Polish, the adjective follows the noun (normally describing an 
+inherent property). A separate project to add
 multiword processing to Apertium was begun at the same time as this work, but
 did not yield any useful results. 
 
 Chunking errors were not a significant source of errors in the test sets we used,
 though we anticipate that they will be a frequent source of errors. Apertium's
 chunker uses the left-to-right, longest match strategy in pattern matching,
-which can lead to over matching. To address this, we extended the chunking 
-modules, to allow backoff to the previous longest match when an exception
+which can lead to over-matching. To address this, we extended the chunking 
+module, to allow backoff to the previous longest match when an exception
 to the rule currently being processed has been detected, but the change is
 still being tested\footnote{The version being tested is available from Apertium's SVN repository:
 \url{https://apertium.svn.sourceforge.net/svnroot/apertium/branches/apertium/jimregan}
