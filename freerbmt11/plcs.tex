@@ -61,8 +61,8 @@ masculine nouns, while Polish draws a further distinction with masculine animate
 nouns that refer to people.\footnote{The same distinction is present in Czech, but
 as it serves no role in concordance, we chose not to treat it specially.}
 We chose to 
-follow the example of the IPI PAN Corpus of Polish~\citep{prze:04ce} in treating these 
-animacy differences
+%follow the example of the IPI PAN Corpus of Polish~\citep{prze:04ce} in treating these 
+treat these animacy differences
 as separate genders, to simplify concordance operations. 
 Although this greatly reduces the complexity of transfer between 
 the languages, it introduces a number of artificial ambiguities.
@@ -76,8 +76,8 @@ corpora, there's no indication in the metadata of the original language.}
 and we considered the potential for ``translation drift'' to be a 
 serious limiting factor in the creation of a statistical system.
 
-Further, as a primary goal of the project was to create a piece
-of Open Source \textit{software}, we felt more inclined towards
+Further, as the primary goal of the project was that it be Open Source, 
+we felt more inclined towards
 investigating the rule-based paradigm. We were also interested
 in determining if the successes of previous projects based on
 the Apertium platform for closely-related languages in the Romance
@@ -360,7 +360,7 @@ the validation process.
 
 \subsection{Syntactic transfer}
 
-Czech and Polish are syntactically quite similar, though there are some divergences.
+Czech and Polish are syntactically quite similar, though there are some divergences:
 
 \begin{itemize}
 \item Preposition changes -- Some prepositions take different cases in Czech and Polish,
@@ -573,7 +573,7 @@ chunker uses the left-to-right, longest match strategy in pattern matching,
 which can lead to over-matching. To address this, we extended the chunking 
 module, to allow backoff to the previous longest match when an exception
 to the rule currently being processed has been detected, but the change is
-still being tested,\footnote{Available from Apertium's SVN repository:
+still being tested,\footnote{Available from Apertium's SVN:
 \url{https://apertium.svn.sourceforge.net/svnroot/apertium/branches/apertium/jimregan}
 } and rules to make use of this backoff mechanism have
 yet to be written. 
@@ -589,13 +589,13 @@ We have presented results from the first free-software translator from Czech to
 Polish. This is also the first translator between free-word order languages
 developed for the Apertium platform. Although the current results are far from
 impressive, the problem with disambiguation is not an unsolveable one. As
-work has already begun on two other language pairs with similar features, we
+work has already begun on other, similar language pairs, we
 believe the solution to this problem will become more compelling.
 
 For future work, there are further subcategories of words from which cognates
 could be induced, as well as further sources of statistical data to be
 processed. As we made no attempt to use morphological analysis or stemming
-to maximise the available data, we believe our existing sources can yield
+to maximise the available data, we believe our sources can yield
 further vocabulary.
 
 \section{Acknowledgements}
@@ -603,10 +603,11 @@ further vocabulary.
 Development was funded as part of the Google Summer of Code\footnote{\url{http://code.google.com/soc/}} 
 programme. 
 We wish to acknowledge the debt we owe to the authors of \cite{tyers2009rfr}, which 
-we used as a template in how we approached the project, as well as in this article
-describing it.
+we used as a template for the project, and for this article.
 We also wish to acknowledge the contributions of Petr Homola and Francis Tyers, for their
-input and contributions to the development of the project.
+input and contributions to the development of the project; Jernej Vičič, for providing the
+Czech--Slovenian material; and Marcin Miłkowski, for discussions on the processing of Slavic 
+languages. We also wish to thank the anonymous reviewers for their useful comments.
 
 \bibliographystyle{apalike}
 \bibliography{plcs}
