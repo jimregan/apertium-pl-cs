@@ -49853,7 +49853,7 @@
     <e lm="emanace"><i>emanac</i><par n="alergi/e__n"/></e>
     <e lm="entropie"><i>entropi</i><par n="alergi/e__n"/></e>
     <e lm="epigram"><i>epigram</i><par n="arak__n"/></e>
-    <e lm="establishment"><i>establishment</i><par n="bor__n"/></e>
+    <!--<e lm="establishment"><i>establishment</i><par n="bor__n"/></e>-->
     <e lm="eucharistie"><i>eucharisti</i><par n="alergi/e__n"/></e>
     <e lm="existencializmus" r="LR"><p><l>existencialism</l><r>existencializm</r></p><par n="ile/us__n"/></e>
     <e lm="existencializmus"><i>existencializm</i><par n="ile/us__n"/></e>
