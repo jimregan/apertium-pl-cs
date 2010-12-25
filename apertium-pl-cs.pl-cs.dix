@@ -10373,7 +10373,7 @@
       <e><p><l>kaszmir<s n="n"/><s n="mi"/></l><r>kašmír<s n="n"/><s n="mi"/></r></p></e>
       <e><p><l>kastracja<s n="n"/><s n="f"/></l><r>kastrace<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>katoda<s n="n"/><s n="f"/></l><r>katoda<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>kinematografia<s n="n"/><s n="f"/></l><r>kinematograf<s n="n"/><s n="mi"/></r></p></e>
+      <e><p><l>kinematograf<s n="n"/><s n="mi"/></l><r>kinematograf<s n="n"/><s n="mi"/></r></p></e>
       <e><p><l>kłosek<s n="n"/><s n="mi"/></l><r>klásek<s n="n"/><s n="mi"/></r></p></e>
       <e><p><l>knedlik<s n="n"/><s n="mi"/></l><r>knedlík<s n="n"/><s n="mi"/></r></p></e>
       <e><p><l>księgarnia<s n="n"/><s n="f"/></l><r>knihkupectví<s n="n"/><s n="mi"/></r></p></e>
@@ -10385,7 +10385,7 @@
       <e><p><l>kołowrotek<s n="n"/><s n="mi"/></l><r>kolovrat<s n="n"/><s n="mi"/></r></p></e>
       <e><p><l>kompresor<s n="n"/><s n="mi"/></l><r>kompresor<s n="n"/><s n="mi"/></r></p></e>
       <e><p><l>koncesja<s n="n"/><s n="f"/></l><r>koncese<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>koncesjonariusz<s n="n"/><s n="ma"/></l><r>koncesionář<s n="n"/><s n="ma"/></r></p></e>
+      <e><p><l>koncesjonariusz<s n="n"/><s n="mp"/></l><r>koncesionář<s n="n"/><s n="ma"/></r></p></e>
       <e><p><l>kondensator<s n="n"/><s n="mi"/></l><r>kondenzátor<s n="n"/><s n="mi"/></r></p></e>
       <e><p><l>kongregacja<s n="n"/><s n="f"/></l><r>kongregace<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>konotacja<s n="n"/><s n="f"/></l><r>konotace<s n="n"/><s n="f"/></r></p></e>
@@ -10436,7 +10436,7 @@
       <e><p><l>młocarnia<s n="n"/><s n="f"/></l><r>mlátička<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>monstrancja<s n="n"/><s n="f"/></l><r>monstrance<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>motywacja<s n="n"/><s n="f"/></l><r>motivace<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>multiinstrumentalista<s n="n"/><s n="ma"/></l><r>multiinstrumentalista<s n="n"/><s n="ma"/></r></p></e>
+      <e><p><l>multiinstrumentalista<s n="n"/><s n="mp"/></l><r>multiinstrumentalista<s n="n"/><s n="ma"/></r></p></e>
       <e><p><l>muza<s n="n"/><s n="f"/></l><r>múza<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>łowiectwo<s n="n"/><s n="nt"/></l><r>myslivost<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>kolczyk<s n="n"/><s n="mi"/></l><r>náušnice<s n="n"/><s n="f"/></r></p></e>
@@ -10521,17 +10521,17 @@
       <e><p><l>restytucja<s n="n"/><s n="f"/></l><r>restituce<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rewaluacja<s n="n"/><s n="f"/></l><r>revalvace<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>residuum<s n="n"/><s n="nt"/></l><r>reziduum<s n="n"/><s n="nt"/></r></p></e>
-      <e><p><l>kierowca<s n="n"/><s n="ma"/></l><r>řidič<s n="n"/><s n="ma"/></r></p></e>
+      <e><p><l>kierowca<s n="n"/><s n="mp"/></l><r>řidič<s n="n"/><s n="ma"/></r></p></e>
       <e><p><l>rohacz<s n="n"/><s n="ma"/></l><r>roháč<s n="n"/><s n="ma"/></r></p></e>
-      <e><p><l>scenograf<s n="n"/><s n="ma"/></l><r>scenograf<s n="n"/><s n="ma"/></r></p></e>
+      <e><p><l>scenograf<s n="n"/><s n="mp"/></l><r>scenograf<s n="n"/><s n="ma"/></r></p></e>
       <e><p><l>separacja<s n="n"/><s n="f"/></l><r>separace<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>budowniczy<s n="n"/><s n="ma"/></l><r>stavitel<s n="n"/><s n="ma"/></r></p></e>
       <e><p><l>stwórca<s n="n"/><s n="ma"/></l><r>stvořitel<s n="n"/><s n="ma"/></r></p></e>
       <e><p><l>tkanina<s n="n"/><s n="f"/></l><r>textil<s n="n"/><s n="mi"/></r></p></e>
-      <e><p><l>tułów<s n="n"/><s n="mi"/></l><r>torso<s n="n"/><s n="nt"/></r></p></e>
+      <e i="yes" c="handle in analysis"><p><l>tułów<s n="n"/><s n="mi"/></l><r>torso<s n="n"/><s n="nt"/></r></p></e>
       <e><p><l>tułów<s n="n"/><s n="mi"/></l><r>torzo<s n="n"/><s n="nt"/></r></p></e>
-      <e><p><l>dowódca<s n="n"/><s n="ma"/></l><r>velitel<s n="n"/><s n="ma"/></r></p></e>
-      <e><p><l>wiolista<s n="n"/><s n="ma"/></l><r>violista<s n="n"/><s n="ma"/></r></p></e>
+      <e><p><l>dowódca<s n="n"/><s n="mp"/></l><r>velitel<s n="n"/><s n="ma"/></r></p></e>
+      <e><p><l>wiolista<s n="n"/><s n="mp"/></l><r>violista<s n="n"/><s n="ma"/></r></p></e>
 
 
 	<!-- Verbs -->
