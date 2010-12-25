@@ -50068,7 +50068,7 @@
     <e lm="stavitel"><i>stavitel</i><par n="obyvatel__n"/></e>
     <e lm="stvořitel"><i>stvořitel</i><par n="obyvatel__n"/></e>
     <e lm="textil"><i>textil</i><par n="arak__n"/></e>
-    <e lm="torzo"><i>tors</i><par n="práv/o__n"/></e>
+    <e lm="torzo" r="LR"><p><l>tors</l><r>torz</r></p><par n="práv/o__n"/></e>
     <e lm="torzo"><i>torz</i><par n="práv/o__n"/></e>
     <e lm="velitel"><i>velitel</i><par n="obyvatel__n"/></e>
     <e lm="činidlo"><i>činid</i><par n="más/lo__n"/></e>
