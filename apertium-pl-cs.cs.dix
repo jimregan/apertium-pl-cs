@@ -59006,7 +59006,6 @@
     <e lm="km"><i>km</i><par n="km__n"/></e>
     <e lm="kg"><i>kg</i><par n="km__n"/></e>
     <e lm="cm"><i>cm</i><par n="km__n"/></e>
-    <e lm="no"><i>no</i><par n="km__n"/></e>
     <e lm="sv"><i>sv</i><par n="sv__n"/></e>
     <e lm="mil"><i>mil</i><par n="km__n"/></e>
     <e lm="mld"><i>mld</i><par n="km__n"/></e>
@@ -59043,14 +59042,20 @@
     <e lm="kcal"><i>kcal</i><par n="km__n"/></e>
     <e lm="kg"><i>kg</i><par n="km__n"/></e>
     <e lm="km"><i>km</i><par n="km__n"/></e>
-    <e lm="kpt"><i>kpt</i><par n="sv__n"/></e>
     <e lm="kupř"><i>kupř</i><par n="tehdy__adv"/></e>
     <e lm="max"><i>max</i><par n="např__abbr"/></e>
     <e lm="mg"><i>mg</i><par n="např__abbr"/></e>
     <e lm="mgr"><i>mgr</i><par n="např__abbr"/></e>
     <e lm="mil"><i>mil</i><par n="např__abbr"/></e>
     <e lm="min"><i>min</i><par n="např__abbr"/></e>		<!-- ministerstvo, minuta, minimum -->
+
+<!--
+    <e lm="no"><i>no</i><par n="km__n"/></e>
     <e lm="mjr"><i>mjr</i><par n="sv__n"/></e>
+    <e lm="kpt"><i>kpt</i><par n="sv__n"/></e>
+    <e lm="čís"><i>čís</i><par n="wasabi__n"/></e>
+-->
+
     <e lm="mld"><i>mld</i><par n="např__abbr"/></e>
     <e lm="měs"><i>měs</i><par n="km__n"/></e>
     <e lm="n.l."><i>n.l.</i><par n="např__abbr"/></e>
@@ -59083,7 +59088,6 @@
     <e lm="www"><i>www</i><par n="např__abbr"/></e>
     <e lm="zl"><i>zl</i><par n="km__n"/></e>
     <e lm="č"><i>č</i><par n="wasabi__n"/></e>
-    <e lm="čís"><i>čís</i><par n="wasabi__n"/></e>
     <!-- ******************************
           group ij
       ****************************** -->
