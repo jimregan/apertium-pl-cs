@@ -11024,11 +11024,10 @@
     <e><p><l>ścigać<s n="vblex"/></l><r>stíhat<s n="vblex"/></r></p></e>
     <e><p><l>ścinać<s n="vblex"/></l><r>střihat<s n="vblex"/></r></p></e>
     <e><p><l>ściszyć<s n="vblex"/></l><r>ztišit<s n="vblex"/></r></p></e>
-    <e><p><l>śpiewać<s n="vblex"/></l><r>zpívat<s n="vblex"/></r></p></e>
     <e><p><l>tatuować<s n="vblex"/></l><r>tetovat<s n="vblex"/></r></p></e>
     <e><p><l>tkać<s n="vblex"/></l><r>tkát<s n="vblex"/></r></p></e>
     <e><p><l>tonizować<s n="vblex"/></l><r>tonizovat<s n="vblex"/></r></p></e>
-    <e><p><l>topić<s n="vblex"/></l><r>tát<s n="vblex"/></r></p></e>
+    <e><p><l>topić<g><b/>się</g><s n="vblex"/></l><r>tát<s n="vblex"/></r></p></e>
     <e><p><l>topić<s n="vblex"/></l><r>tavit<s n="vblex"/></r></p></e>
     <e><p><l>transmitować<s n="vblex"/></l><r>přenášet<s n="vblex"/></r></p></e>
     <e><p><l>trąbić<s n="vblex"/></l><r>troubit<s n="vblex"/></r></p></e>
@@ -11058,7 +11057,7 @@
     <e><p><l>usypiać<s n="vblex"/></l><r>uspávat<s n="vblex"/></r></p></e>
     <e><p><l>uszczelnić<s n="vblex"/></l><r>utěsnit<s n="vblex"/></r></p></e>
     <e><p><l>utargować<s n="vblex"/></l><r>utržit<s n="vblex"/></r></p></e>
-    <e><p><l>utkać<s n="vblex"/><s n="perf"/></l><r>utkat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e i="yes" c="what idiot mapped perf to imperf?"><p><l>utkać<s n="vblex"/><s n="perf"/></l><r>utkat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>utorować<s n="vblex"/></l><r>vydláždit<s n="vblex"/></r></p></e>
     <e><p><l>utożsamiać<s n="vblex"/></l><r>ztotožnovat<s n="vblex"/></r></p></e>
     <e><p><l>uważać<s n="vblex"/></l><r>pokládat<s n="vblex"/></r></p></e>
