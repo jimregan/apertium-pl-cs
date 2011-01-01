@@ -19116,8 +19116,92 @@
       </p>
         <par n="BASE__keř"/> 
     </e>
-
-
+    </pardef>
+    <pardef n="kněz__n">
+    <e>
+      <p>
+        <l></l>
+        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>í</l>
+        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ů</l>
+        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ům</l>
+        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>e</l>
+        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ích</l>
+        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>em</l>
+        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>i</l>
+        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+      </p>
+    </e>
     </pardef>
     <pardef n="Dimitrij__n">
     <e>
@@ -49711,6 +49795,8 @@
     <e lm="box"><i>box</i><par n="arak__n"/></e>
     <e lm="box"><i>box</i><par n="bor__n"/></e>
     <e lm="boxer"><i>boxe</i><par n="boxe/r__n"/></e>
+    <e lm="kněz"><i>kněz</i><par n="kněz__n"/></e>
+    <e lm="velekněz"><i>velekněz</i><par n="kněz__n"/></e>
     <e lm="božstvo"><i>božst</i><par n="obyvatelst/vo__n"/></e>
     <e r="LR" lm="vrabec"><p><l>brab</l><r>vrab</r></p><par n="chlap/ec__n"/></e>
     <e lm="brachiosaurus"><i>brachiosau</i><par n="dinosau/rus__n"/></e>
