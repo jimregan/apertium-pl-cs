@@ -2042,8 +2042,8 @@
     <e><p><l>tabulator<s n="n"/><s n="mi"/></l><r>tabulátor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>tachometr<s n="n"/><s n="mi"/></l><r>otáčkoměr<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>tajnik<s n="n"/><s n="mi"/></l><r>taj<s n="n"/><s n="mi"/></r></p></e>
-    <e r="LR"><p><l>taktyk<s n="n"/><s n="mp"/></l><r>taktik<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>taktyka<s n="n"/><s n="mi"/></l><r>taktik<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>taktyk<s n="n"/><s n="mp"/></l><r>taktik<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>taktyka<s n="n"/><s n="f"/></l><r>taktika<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tarantula<s n="n"/><s n="f"/></l><r>tarantule<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>targ<s n="n"/><s n="mi"/></l><r>trh<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>targowisko<s n="n"/><s n="nt"/></l><r>trhoviště<s n="n"/><s n="nt"/></r></p></e>
@@ -2054,19 +2054,20 @@
     <e><p><l>tensometr<s n="n"/><s n="mi"/></l><r>tenzometr<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>tensor<s n="n"/><s n="ma"/></l><r>tenzor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>teściowa<s n="n"/><s n="f"/></l><r>tchýně<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>tojad<s n="n"/><s n="mi"/></l><r>oměj<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>tojad<s n="n"/><s n="mi"/></l><r>šalamanek<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>tojad<s n="n"/><s n="mi"/></l><r>oměj<s n="n"/><s n="mi"/></r></p></e>
+    <e r="RL"><p><l>tojad<s n="n"/><s n="mi"/></l><r>šalamanek<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>tonik<s n="n"/><s n="mi"/></l><r>tonik<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>torcik<s n="n"/><s n="mi"/></l><r>dortík<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>torfowiec<s n="n"/><s n="mi"/></l><r>rašelinik<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>torreador<s n="n"/><s n="mi"/></l><r>toreador<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>toreador<s n="n"/><s n="mp"/></l><r>toreador<s n="n"/><s n="ma"/></r></p></e>
+    <e r="LR"><p><l>torreador<s n="n"/><s n="mp"/></l><r>toreador<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>toster<s n="n"/><s n="mi"/></l><r>topinkovač<s n="n"/><s n="mi"/></r></p></e>
-    <e><p><l>toster<s n="n"/><s n="mi"/></l><r>touster<s n="n"/><s n="mi"/></r></p></e>
+    <e r="RL"><p><l>toster<s n="n"/><s n="mi"/></l><r>touster<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>towaroznawstwo<s n="n"/><s n="nt"/></l><r>zbožíznalství<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>trabant<s n="n"/><s n="ma"/></l><r>Trabant<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>transdukcja<s n="n"/><s n="f"/></l><r>transdukce<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>transkryptaza<s n="n"/><s n="f"/></l><r>transkriptáza<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>transseksualista<s n="n"/><s n="mi"/></l><r>transsexuál<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>transseksualista<s n="n"/><s n="mp"/></l><r>transsexuál<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>trawka<s n="n"/><s n="f"/></l><r>tráva<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trawler<s n="n"/><s n="mi"/></l><r>trauler<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>trias<s n="n"/><s n="mi"/></l><r>trias<s n="n"/><s n="mi"/></r></p></e>

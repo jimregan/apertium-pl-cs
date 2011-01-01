@@ -49058,7 +49058,8 @@
     <e lm="tonika"><i>toni</i><par n="rze/ka__n"/></e>
     <e lm="torcik"><i>torcik</i><par n="kajak__n"/></e>
     <e lm="torfowiec"><i>torfow</i><par n="lip/iec__n"/></e>
-    <e lm="torreador"><i>torreador</i><par n="aktor__n"/></e>
+    <e lm="torreador" r="LR"><i>torreador</i><par n="aktor__n"/></e>
+    <e lm="toreador"><i>toreador</i><par n="aktor__n"/></e>
     <e lm="tortura"><i>tortur</i><par n="viagr/a__n"/></e>
     <e lm="toster"><i>toster</i><par n="telewizor__n"/></e>
     <e lm="towaroznawstwo"><i>towaroznawstw</i><par n="nieb/o__n"/></e>
