@@ -26338,6 +26338,57 @@
         <par n="PBASE__mężczyzna"/>
       </e>
     </pardef>
+    <pardef n="poe/ta__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ta<s n="n"/></r>
+        </p>
+        <par n="BASE__poeta"/>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tów</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tom</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tów</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tami</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tach</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>ta<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="BASE__artysta">
       <e>
         <p>
@@ -47146,6 +47197,8 @@
     <e lm="altymetr"><i>altymetr</i><par n="enter__n"/></e>
     <e lm="altimetr"><i>altimetr</i><par n="enter__n"/></e>
     <e lm="amatorszczyzna"><i>amatorszczy</i><par n="truci/zna__n"/></e>
+    <e lm="poeta"><i>poe</i><par n="poe/ta__n"/></e>
+    <e lm="autodydakta"><i>autodydak</i><par n="poe/ta__n"/></e>
     <e lm="amazonka"><i>amazon</i><par n="mat/ka__n"/></e>
     <e lm="ambicja"><i>ambic</i><par n="dysertac/ja__n"/></e>
     <e lm="ambligonit"><i>ambligoni</i><par n="zeni/t__n"/></e>
