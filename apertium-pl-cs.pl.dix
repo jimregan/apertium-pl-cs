@@ -26213,48 +26213,66 @@
         <par n="BASE__zenit"/>
       </e>
     </pardef>
+    <pardef n="PBASE__mężczyzna">
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="mp"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r><s n="mp"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r><s n="mp"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r><s n="mp"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r><s n="mp"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__mężczyzna">
+      <e>
+        <p>
+          <l>źnie</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>źnie</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>zn</l>
+          <r></r>
+        </p>
+        <par n="PBASE__mężczyzna"/>
+      </e>
+    </pardef>
     <pardef n="mężczy/zna__n">
       <e>
         <p>
-          <l>zna</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="nom"/></r>
+          <l></l>
+          <r>zna<s n="n"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l>zny</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>źnie</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>znę</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zną</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="ins"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>źnie</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="loc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>zno</l>
-          <r>zna<s n="n"/><s n="mp"/><s n="sg"/><s n="voc"/></r>
-        </p>
+        <par n="BASE__mężczyzna"/>
       </e>
       <e>
         <p>
@@ -26297,6 +26315,48 @@
           <l>źni</l>
           <r>zna<s n="n"/><s n="mp"/><s n="pl"/><s n="voc"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="BASE__poeta">
+      <e>
+        <p>
+          <l>cie</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cie</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>t</l>
+          <r></r>
+        </p>
+        <par n="PBASE__mężczyzna"/>
+      </e>
+    </pardef>
+    <pardef n="BASE__artysta">
+      <e>
+        <p>
+          <l>ście</l>
+          <r><s n="mp"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ście</l>
+          <r><s n="mp"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>st</l>
+          <r></r>
+        </p>
+        <par n="PBASE__mężczyzna"/>
       </e>
     </pardef>
     <pardef n="zwierz/ę__n">
