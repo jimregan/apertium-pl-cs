@@ -10245,6 +10245,8 @@
     <e><p><l>brzeg<g><b/>obszaru</g><s n="n"/><s n="mi"/></l><r>hranice<g><b/>oblasti</g><s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rozumieć<s n="vblex"/></l><r>rozumět<s n="vblex"/></r></p></e>
     <e><p><l>smarować<s n="vblex"/><s n="imperf"/></l><r>mazat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>dziękować<s n="vblex"/><s n="imperf"/></l><r>děkovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>podziękować<s n="vblex"/><s n="perf"/></l><r>poděkovat<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>leżeć<s n="vblex"/><s n="imperf"/></l><r>ležet<s n="vblex"/><s n="imperf"/></r></p></e>
 
     <e><p><l>iść<s n="vblex"/><s n="imperf"/></l><r>jít<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -11260,7 +11262,8 @@
     <e><p><l>należeć<g><b/>do</g><s n="vblex"/><s n="imperf"/></l><r>patřit<g><b/>k</g><s n="vblex"/><s n="imperf"/></r></p></e>
     <e r="LR"><p><l>przynależeć<s n="vblex"/><s n="imperf"/></l><r>patřit<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>stawać<s n="vblex"/><s n="imperf"/></l><r>stávat<s n="vblex"/><s n="imperf"/></r></p></e>
-    <e><p><l>zobaczyć<s n="vblex"/><s n="perf"/></l><r>zahlédnout<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>ujrzeć<s n="vblex"/><s n="perf"/></l><r>zahlédnout<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>zobaczyć<s n="vblex"/><s n="perf"/></l><r>uvidět<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>uwierzyć<s n="vblex"/><s n="perf"/></l><r>uvěřit<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>wynosić<s n="vblex"/><s n="imperf"/></l><r>vynosit<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>ogłupiać<s n="vblex"/><s n="imperf"/></l><r>ohlupovat<s n="vblex"/><s n="perf"/></r></p></e>
@@ -11713,6 +11716,7 @@
     <e><p><l>deklasować<s n="vblex"/></l><r>deklasovat<s n="vblex"/></r></p></e>
     <e><p><l>dziękować<s n="vblex"/></l><r>děkovat<s n="vblex"/></r></p></e>
     <e><p><l>robić<s n="vblex"/></l><r>dělat<s n="vblex"/></r></p></e>
+    <e><p><l>zrobić<s n="vblex"/></l><r>udělat<s n="vblex"/></r></p></e>
     <e><p><l>dzielić<s n="vblex"/></l><r>dělit<s n="vblex"/></r></p></e>
     <e><p><l>demaskować<s n="vblex"/></l><r>demaskovat<s n="vblex"/></r></p></e>
     <e><p><l>deportować<s n="vblex"/></l><r>deportovat<s n="vblex"/></r></p></e>
