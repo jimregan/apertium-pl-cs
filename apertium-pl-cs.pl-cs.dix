@@ -11858,6 +11858,12 @@
     <e><p><l>ćwiczyć<s n="vblex"/><s n="imperf"/></l><r>cvičit<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>poćwiczyć<s n="vblex"/><s n="perf"/></l><r>pocvičit<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>zaćwiczyć<s n="vblex"/><s n="perf"/></l><r>zacvičit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>grać<s n="vblex"/><s n="imperf"/></l><r>hrát<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zagrać<s n="vblex"/><s n="perf"/></l><r>zahrát<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wygrywać<s n="vblex"/><s n="imperf"/></l><r>vyhrávat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wygrać<s n="vblex"/><s n="perf"/></l><r>vyhrát<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>przegrywać<s n="vblex"/><s n="imperf"/></l><r>prohrávat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>przegrać<s n="vblex"/><s n="perf"/></l><r>prohrát<s n="vblex"/><s n="perf"/></r></p></e>
 
     <e><p><l>kogut<s n="n"/><s n="ma"/></l><r>kohout<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>stopień<s n="n"/><s n="mi"/></l><r>stupeň<s n="n"/><s n="mi"/></r></p></e>
