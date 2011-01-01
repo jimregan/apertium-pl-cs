@@ -11821,8 +11821,16 @@
     <e><p><l>ukraść<s n="vblex"/><s n="perf"/></l><r>ukrást<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>odpowiadać<s n="vblex"/><s n="imperf"/></l><r>odpovídat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>odpowiedzieć<s n="vblex"/><s n="perf"/></l><r>odpovědět<s n="vblex"/><s n="perf"/></r></p></e>
-    <e><p><l>prosić<s n="vblex"/></l><r>prosit<s n="vblex"/></r></p></e>
-    <e><p><l>wołać<s n="vblex"/></l><r>volat<s n="vblex"/></r></p></e>
+    <e><p><l>wstawać<s n="vblex"/><s n="imperf"/></l><r>vstávat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wstać<s n="vblex"/><s n="perf"/></l><r>vstát<s n="vblex"/><s n="perf"/></r></p></e>
+    <e r="LR"><p><l>występować<s n="vblex"/><s n="imperf"/></l><r>vystupovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e r="LR"><p><l>wystąpić<s n="vblex"/><s n="perf"/></l><r>vystoupit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wysiadać<s n="vblex"/><s n="imperf"/></l><r>vystupovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wysiąść<s n="vblex"/><s n="perf"/></l><r>vystoupit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>prosić<s n="vblex"/><s n="imperf"/></l><r>prosit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>poprosić<s n="vblex"/><s n="perf"/></l><r>poprosit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wołać<s n="vblex"/><s n="imperf"/></l><r>volat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zawołać<s n="vblex"/><s n="perf"/></l><r>zavolat<s n="vblex"/><s n="perf"/></r></p></e>
 
     <e><p><l>kogut<s n="n"/><s n="ma"/></l><r>kohout<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>stopień<s n="n"/><s n="mi"/></l><r>stupeň<s n="n"/><s n="mi"/></r></p></e>
