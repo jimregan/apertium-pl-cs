@@ -1091,13 +1091,13 @@
     <e><p><l>archaika<s n="n"/><s n="f"/></l><r>archaikum<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>archegonium<s n="n"/><s n="nt"/></l><r>zárodečník<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>archidiakonat<s n="n"/><s n="mi"/></l><r>arcijáhen<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>arcykapłan<s n="n"/><s n="mi"/></l><r>velekněz<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>arcykapłan<s n="n"/><s n="mp"/></l><r>velekněz<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>areometr<s n="n"/><s n="mi"/></l><r>hustoměr<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>arkadia<s n="n"/><s n="f"/></l><r>arcadia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arkan<s n="n"/><s n="mi"/></l><r>arkan<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>arkoza<s n="n"/><s n="f"/></l><r>arkóza<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arnika<s n="n"/><s n="f"/></l><r>prha<s n="n"/><s n="f"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>arogant<s n="n"/><s n="mi"/></l><r>drzoun<s n="n"/><s n="mi"/></r></p></e>
+    <e c="wrong. wrong translation, wrong animacy in czech"><p><l>arogant<s n="n"/><s n="mp"/></l><r>drzoun<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>arsenopiryt<s n="n"/><s n="mi"/></l><r>arzenopyrit<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>arthasiastra<s n="n"/><s n="f"/></l><r>arthašástra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asembler<s n="n"/><s n="ma"/></l><r>assembler<s n="n"/><s n="mi"/></r></p></e>
@@ -1142,7 +1142,7 @@
     <e><p><l>balsamowiec<s n="n"/><s n="mi"/></l><r>myrhovník<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>balustrada<s n="n"/><s n="f"/></l><r>balustráda<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>balustrada<s n="n"/><s n="f"/></l><r>zabradlí<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>banat<s n="n"/><s n="mi"/></l><r>banát<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>banat<s n="n"/><s n="mi"/></l><r>banát<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>banteng<s n="n"/><s n="mi"/></l><r>banteng<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bantustan<s n="n"/><s n="mi"/></l><r>bantustan<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>baptysterium<s n="n"/><s n="nt"/></l><r>baptisterium<s n="n"/><s n="mi"/></r></p></e>
@@ -1150,7 +1150,7 @@
     <e><p><l>barbituran<s n="n"/><s n="mi"/></l><r>barbiturát<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>barchan<s n="n"/><s n="mi"/></l><r>barchan<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>barium<s n="n"/><s n="nt"/></l><r>bari<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>baryt<s n="n"/><s n="mi"/></l><r>baryt<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>baryt<s n="n"/><s n="mi"/></l><r>baryt<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bas<s n="n"/><s n="mi"/></l><r>bas<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>basma<s n="n"/><s n="f"/></l><r>basma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>basset<s n="n"/><s n="ma"/></l><r>baset<s n="n"/><s n="mi"/></r></p></e>
@@ -1173,7 +1173,7 @@
     <e><p><l>bestiarium<s n="n"/><s n="nt"/></l><r>bestiář<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>bezdomność<s n="n"/><s n="f"/></l><r>bezdomovectví<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>bezkrólewie<s n="n"/><s n="nt"/></l><r>interregnum<s n="n"/><s n="mi"/></r></p></e>
-    <e c="mp-mi!wtf!"><p><l>białogwardzista<s n="n"/><s n="mi"/></l><r>bělogvardějci<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>białogwardzista<s n="n"/><s n="mp"/></l><r>bělogvardějec<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>bibliotekarz<s n="n"/><s n="mp"/></l><r>bibliotékář<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>bibułka<s n="n"/><s n="f"/></l><r>papírek<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>biceps<s n="n"/><s n="mi"/></l><r>biceps<s n="n"/><s n="mi"/></r></p></e>
