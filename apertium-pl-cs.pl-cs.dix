@@ -10638,12 +10638,13 @@
     <e><p><l>doliczyć<s n="vblex"/></l><r>dopočítat<s n="vblex"/></r></p></e>
     <e><p><l>dopasować<s n="vblex"/></l><r>upravit<s n="vblex"/></r></p></e>
     <e><p><l>dopłacać<s n="vblex"/></l><r>připlácet<s n="vblex"/></r></p></e>
-    <e><p><l>doprowadzać<s n="vblex"/></l><r>dolađovat<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>doprowadzać<s n="vblex"/></l><r>dolađovat<s n="vblex"/></r></p></e>
     <e><p><l>doprowadzać<s n="vblex"/></l><r>dovádět<s n="vblex"/></r></p></e>
     <e><p><l>dopytywać<s n="vblex"/></l><r>vyzvídat<s n="vblex"/></r></p></e>
     <e><p><l>dorabiać<s n="vblex"/></l><r>přivýdělávat<s n="vblex"/></r></p></e>
     <e><p><l>dorzucać<s n="vblex"/></l><r>přihodit<s n="vblex"/></r></p></e>
     <e><p><l>dostawać<s n="vblex"/></l><r>dostávat<s n="vblex"/></r></p></e>
+    <e><p><l>dostać<s n="vblex"/></l><r>dostat<s n="vblex"/></r></p></e>
     <e><p><l>doświadczyć<s n="vblex"/></l><r>zkušenost<s n="vblex"/></r></p></e>
     <e><p><l>dotrzymać<s n="vblex"/></l><r>dodržet<s n="vblex"/></r></p></e>
     <e><p><l>douczyć<s n="vblex"/></l><r>doučit<s n="vblex"/></r></p></e>
@@ -10712,7 +10713,7 @@
     <e r="RL"><p><l>nagrać<s n="vblex"/></l><r>vypálit<s n="vblex"/></r></p></e>
     <e><p><l>nalewać<s n="vblex"/></l><r>nalévat<s n="vblex"/></r></p></e>
     <e><p><l>naliczyć<s n="vblex"/></l><r>napočítat<s n="vblex"/></r></p></e>
-    <e><p><l>namalować<s n="vblex"/></l><r>namalovat<s n="vblex"/></r></p></e>
+    <e><p><l>namalować<s n="vblex"/><s n="perf"/></l><r>namalovat<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>namierzyć<s n="vblex"/></l><r>naměřit<s n="vblex"/></r></p></e>
     <e><p><l>nanosić<s n="vblex"/></l><r>nanosit<s n="vblex"/></r></p></e>
     <e><p><l>naruszyć<s n="vblex"/></l><r>narušit<s n="vblex"/></r></p></e>
@@ -10941,7 +10942,7 @@
     <e><p><l>przyznać<s n="vblex"/></l><r>doznat<s n="vblex"/></r></p></e>
     <e><p><l>przyznać<s n="vblex"/></l><r>udělit<s n="vblex"/></r></p></e>
     <e><p><l>przyzwyczajać<s n="vblex"/></l><r>přivýkat<s n="vblex"/></r></p></e>
-    <e><p><l>pytać<s n="vblex"/></l><r>ptát<s n="vblex"/></r></p></e>
+    <e><p><l>pytać<s n="vblex"/><s n="imperf"/></l><r>ptát<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>renderować<s n="vblex"/></l><r>vykreslit<s n="vblex"/></r></p></e>
     <e><p><l>resetować<s n="vblex"/></l><r>přenastavit<s n="vblex"/></r></p></e>
     <e><p><l>retuszować<s n="vblex"/></l><r>retušovat<s n="vblex"/></r></p></e>
@@ -11008,7 +11009,7 @@
     <e><p><l>spróbować<s n="vblex"/></l><r>pokusit<s n="vblex"/></r></p></e>
     <e><p><l>spróbować<s n="vblex"/></l><r>skusit<s n="vblex"/></r></p></e>
     <e><p><l>sprzedawać<s n="vblex"/></l><r>prodávat<s n="vblex"/></r></p></e>
-    <e><p><l>spytać<s n="vblex"/></l><r>zeptat<s n="vblex"/></r></p></e>
+    <e><p><l>spytać<s n="vblex"/><s n="perf"/></l><r>zeptat<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>stawić<s n="vblex"/></l><r>dostavit<s n="vblex"/></r></p></e>
     <e><p><l>strzelać<s n="vblex"/></l><r>střílet<s n="vblex"/></r></p></e>
     <e><p><l>szantażować<s n="vblex"/></l><r>vydírat<s n="vblex"/></r></p></e>
@@ -14121,6 +14122,7 @@
     <e><p><l>można<s n="vaux"/></l><r>možna<s n="vaux"/></r></p></e>
     <e r="RL"><p><l>można<s n="vaux"/></l><r>lze<s n="vaux"/></r></p></e>
     <e><p><l>czytać<s n="vblex"/><s n="imperf"/></l><r>číst<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>przeczytać<s n="vblex"/><s n="perf"/></l><r>přečíst<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>wiedzieć<s n="vblex"/><s n="imperf"/></l><r>vědět<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>chcieć<s n="vblex"/><s n="imperf"/></l><r>chtít<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>jeść<s n="vblex"/><s n="imperf"/></l><r>jíst<s n="vblex"/><s n="imperf"/></r></p></e>
