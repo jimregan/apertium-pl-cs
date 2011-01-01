@@ -11831,6 +11831,33 @@
     <e><p><l>poprosić<s n="vblex"/><s n="perf"/></l><r>poprosit<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>wołać<s n="vblex"/><s n="imperf"/></l><r>volat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zawołać<s n="vblex"/><s n="perf"/></l><r>zavolat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>piec<s n="vblex"/><s n="imperf"/></l><r>péct<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>upiec<s n="vblex"/><s n="perf"/></l><r>upéct<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>pić<s n="vblex"/><s n="imperf"/></l><r>pít<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wypić<s n="vblex"/><s n="perf"/></l><r>vypít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>planować<s n="vblex"/><s n="imperf"/></l><r>plánovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zaplanować<s n="vblex"/><s n="perf"/></l><r>naplánovat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>pomagać<s n="vblex"/><s n="imperf"/></l><r>pomáhat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>pomóc<s n="vblex"/><s n="perf"/></l><r>pomoct<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>rozwodzić<s n="vblex"/><s n="imperf"/></l><r>rozvádět<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>rozwieść<s n="vblex"/><s n="perf"/></l><r>rozvést<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>smażyć<s n="vblex"/><s n="imperf"/></l><r>smažit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>usmażyć<s n="vblex"/><s n="perf"/></l><r>usmažit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>umierać<s n="vblex"/><s n="imperf"/></l><r>umírat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>umrzeć<s n="vblex"/><s n="perf"/></l><r>umřít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>kąpać<s n="vblex"/><s n="imperf"/></l><r>koupat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wykąpać<s n="vblex"/><s n="perf"/></l><r>vykoupat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>odkurzać<s n="vblex"/><s n="imperf"/></l><r>luxovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>odkurzyć<s n="vblex"/><s n="perf"/></l><r>vyluxovat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wysyłać<s n="vblex"/><s n="imperf"/></l><r>posílat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wysłać<s n="vblex"/><s n="perf"/></l><r>poslat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e r="LR"><p><l>przekładać<s n="vblex"/><s n="imperf"/></l><r>překládat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e r="LR"><p><l>przełożyć<s n="vblex"/><s n="perf"/></l><r>přeložit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>tłumaczyć<s n="vblex"/><s n="imperf"/></l><r>překládat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>przetłumaczyć<s n="vblex"/><s n="perf"/></l><r>přeložit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>ćwiczyć<s n="vblex"/><s n="imperf"/></l><r>cvičit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>poćwiczyć<s n="vblex"/><s n="perf"/></l><r>pocvičit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>zaćwiczyć<s n="vblex"/><s n="perf"/></l><r>zacvičit<s n="vblex"/><s n="perf"/></r></p></e>
 
     <e><p><l>kogut<s n="n"/><s n="ma"/></l><r>kohout<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>stopień<s n="n"/><s n="mi"/></l><r>stupeň<s n="n"/><s n="mi"/></r></p></e>
