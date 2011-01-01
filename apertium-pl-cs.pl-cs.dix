@@ -11864,6 +11864,27 @@
     <e><p><l>wygrać<s n="vblex"/><s n="perf"/></l><r>vyhrát<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>przegrywać<s n="vblex"/><s n="imperf"/></l><r>prohrávat<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>przegrać<s n="vblex"/><s n="perf"/></l><r>prohrát<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>płacić<s n="vblex"/><s n="imperf"/></l><r>platit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zapłacić<s n="vblex"/><s n="perf"/></l><r>zaplatit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>sprzedawać<s n="vblex"/><s n="imperf"/></l><r>prodávat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>sprzedać<s n="vblex"/><s n="perf"/></l><r>prodat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e c="iffy"><p><l>przesiadać<s n="vblex"/><s n="imperf"/></l><r>přestupovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e c="iffy"><p><l>przesiąść<s n="vblex"/><s n="perf"/></l><r>přestoupit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e c="iffy"><p><l>przygotować<s n="vblex"/><s n="imperf"/></l><r>připravovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e c="iffy"><p><l>przygotowywać<s n="vblex"/><s n="perf"/></l><r>připravit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>zaczynać<s n="vblex"/><s n="imperf"/></l><r>začínat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zacząć<s n="vblex"/><s n="perf"/></l><r>začít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>kończyć<s n="vblex"/><s n="imperf"/></l><r>končit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>skończyć<s n="vblex"/><s n="perf"/></l><r>skončit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>zapraszać<s n="vblex"/><s n="imperf"/></l><r>zvát<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zaprosić<s n="vblex"/><s n="perf"/></l><r>pozvat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>prasować<s n="vblex"/><s n="imperf"/></l><r>žehlit<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wyprasować<s n="vblex"/><s n="perf"/></l><r>vyžehlit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e r="LR"><p><l>uprasować<s n="vblex"/><s n="perf"/></l><r>vyžehlit<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>śpiewać<s n="vblex"/><s n="imperf"/></l><r>zpívat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zaśpiewać<s n="vblex"/><s n="perf"/></l><r>zazpívat<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wyjaśniać<s n="vblex"/><s n="imperf"/></l><r>vysvětlovat<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wyjaśnić<s n="vblex"/><s n="perf"/></l><r>vysvětlit<s n="vblex"/><s n="perf"/></r></p></e>
 
     <e><p><l>kogut<s n="n"/><s n="ma"/></l><r>kohout<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>stopień<s n="n"/><s n="mi"/></l><r>stupeň<s n="n"/><s n="mi"/></r></p></e>
@@ -14104,9 +14125,12 @@
     <e><p><l>chcieć<s n="vblex"/><s n="imperf"/></l><r>chtít<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>jeść<s n="vblex"/><s n="imperf"/></l><r>jíst<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>pić<s n="vblex"/><s n="imperf"/></l><r>pít<s n="vblex"/><s n="imperf"/></r></p></e>
-    <e><p><l>bić<s n="vblex"/></l><r>bít<s n="vblex"/></r></p></e>
-    <e><p><l>szyć<s n="vblex"/></l><r>šít<s n="vblex"/></r></p></e>
-    <e><p><l>siać<s n="vblex"/></l><r>sít<s n="vblex"/></r></p></e>
+    <e><p><l>bić<s n="vblex"/><s n="imperf"/></l><r>bít<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>pobić<s n="vblex"/><s n="perf"/></l><r>pobít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>szyć<s n="vblex"/><s n="imperf"/></l><r>šít<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>uszyć<s n="vblex"/><s n="perf"/></l><r>ušít<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>siać<s n="vblex"/><s n="imperf"/></l><r>sít<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zasiać<s n="vblex"/><s n="perf"/></l><r>zasít<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>brać<s n="vblex"/><s n="imperf"/></l><r>brát<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>wziąć<s n="vblex"/><s n="perf"/></l><r>vzít<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>pojechać<s n="vblex"/><s n="perf"/></l><r>projet<s n="vblex"/><s n="perf"/></r></p></e>
