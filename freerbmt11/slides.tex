@@ -57,9 +57,11 @@ Czech is the language of beer!
 \begin{itemize}
 \item Dvo\v{r}ák
 \item Jan Hus
+\item Kafka
 \item Good King Wenceslas
 \item Eva Herzigová
 \item Petra Nem\v{c}ová
+\item Ivana Trump
 \end{itemize}
 \end{frame}
 
@@ -67,8 +69,9 @@ Czech is the language of beer!
 \begin{itemize}
 \item Chopin
 \item Pope John Paul II
-\item Ludwik Zamenhof (Esperanto)
+\item Copernicus
 \item Marie Curie (Maria Sk\l{}odowska)
+\item Ludwik Zamenhof (Esperanto)
 \item Joseph Conrad
 \item Roman Pola\'{n}ski
 \end{itemize}
@@ -178,7 +181,7 @@ Polish:
 
 \begin{frame}{Lexical differences: A little history}
 
-Germanisation of Bohemia began in 1620. Czech ceased to exist as a literary language.
+(``Accidental'') Germanisation of Bohemia began in 1620. Czech ceased to exist as a literary language.
 
 Poland was partitioned in the 18th century. Germanisation began in the Prussian partition.
 
@@ -230,16 +233,18 @@ Czech view of Polish: Archaic
 
 \begin{center}
 ``In Poland, a comical lisping language is spoken, dominated by different 
-variants of the sound 'sh'. Polish has 17 species of them and the exact 
+variants of the sound `sh'. Polish has 17 species of them and the exact 
 pronunciations are not known by the Poles themselves. \ldots
 The current pronunciation of the Polish language only stabilised during 
 World War II. \ldots To avoid German attacks, it could not be distinguished 
 from static.''
 \end{center}
 
-{\small\small
+\hbox{}
+
+{\footnotesize
 ``V Polsku se mluví komickým šišlavým jazykem, ve kterým prevládají ruzný 
-varianty hlásky "š". Polština jich má 17 druhu a jejich presnou výslovnost 
+varianty hlásky `š'. Polština jich má 17 druhu a jejich presnou výslovnost 
 neznají ani sami Poláci. \ldots
 Soucasná výslovnost polského jazyka se ustálila teprve až behem 2. svetové 
 války.
@@ -256,19 +261,416 @@ The Czech past form is sometimes referred to as the ``l-participle''.
 Whether or not it's a participle is arguable.
 
 \begin{itemize}
-\item Not fully periphrastic: past.p3 uses no auxiliary. (Sorbian does)
+\item Not fully periphrastic: past.p3 uses no auxiliary.\footnote{The Sorbian languages do}
 \item Not fully adjectival.
 \item Not a modifier.
 \end{itemize}
 \end{frame}
 
+\begin{frame}{An aside: The Traditional View of Czech}
+
+In addition to the ``l-participle'', there are a few other
+ways in which it was more helpful to avoid the Czech linguistic
+tradition:
+
+\textbf{Verbal nouns/adjectives}
+
+Typically considered to be entirely lexicalised.
+
+We chose to add them, in anticipation of the Polish $\rightarrow$ Czech
+direction; we don't consider the Czech case any more compelling
+than verbal substantives in other languages, and we want the data
+to be useful for future potential language pairs.
+
+\textbf{Synthetic adjectives}
+
+All regular adjectives are considered synthetic.
+
+In reality, analytic constructs using \emph{více/nejvíce} are
+used with many adjectives to form the comparative/superlative.
+
+Nejexotermictejší $\rightarrow$ ``Exothermicest''
+\end{frame}
+
+\begin{frame}{Some false friends}
+\begin{center}
+    \begin{tabular}{ | l | l | l |}
+    \hline
+     Polish & Czech & English \\ 
+     \hline
+     kwiecie\'{n} & duben & April \\
+     szuka\'{c} & hledat & to look for \\    
+     \hline
+     Czech & Polish & English \\ 
+     \hline
+     kveten & maj & May \\
+     \v{s}ukat & $\dots$ & $\dots$ \\
+    \hline
+    \end{tabular}
+\end{center}
+\end{frame}
+
+\begin{frame}{Czech View of Polish, Reprise}
+
+Polacy ``šukají'' cokolwiek, i to dlaczego jest cztery razy wiecej Polaków
+niz Czechów.\footnote{Przepraszam za mój marny polski.}
+
+{\footnotesize Poláci "šukají" kdeco a výsledkem tak je, že jich je 4x tolik co Cechu.}
+\end{frame}
+
+
+
+\begin{frame}{Why not SMT?}
+Reviewer's comment:
+
+\begin{quote}
+In section 3.4, the reader is told about the existence of a parallel corpus 
+including Czech and Polish. This should be mentioned in the introduction along 
+with the motivation of developing this rule-based system 
+(as opposed to a statistical one).
+\end{quote}
+
+%\pause
+%
+%SRSLY?
+%
+%\pause
+%
+%For this workshop?
+
+\end{frame}
+
 \begin{frame}{Why not SMT?}
 
-%SRSLY?
+First and foremost:
 
+This project was funded under Google Summer of Code: it had to produce a piece
+of Open Source {\em Software}. Apertium's rules include a programmatic element;
+SMT would be almost impossible to justify.
+
+\pause
+
+Secondly:
+
+It's an Apertium project. 'Nuff said.
+
+\end{frame}
+
+\begin{frame}{Why not SMT? Translation Drift}
+\begin{description}
+  \item[Original] \hfill \\
+  $[$He$]$ was seated at the breakfast table.
+  \item[Polish] \hfill \\
+  Jadl sniadanie.
+  \item[Polish (translation)] \hfill \\
+  He ate breakfast.
+  \item[Czech] \hfill \\
+  $[$S$]$edel práve u stolu, na nemž se snídávalo.
+  \item[Czech (translation)] \hfill \\
+  He sat right at the table, at which one breakfasts.
+\end{description}
+
+(The verb phrases ``jadl sniadanie'' and ``se snídávalo''
+{\it almost} align with each other).
+
+\end{frame}
+
+\begin{frame}{Why not SMT?}
+\begin{description}
+  \item[Data sparseness] \hfill \\
+  Compounded by relatively large amount of morphological forms.
+  \item[Lack of truly parallel text] \hfill \\
+  Most parallel text are mutual translations.
+  \item[Lack of true corpora] \hfill \\
+  JRC Acquis is not a corpus.
+\end{description}
+
+\end{frame}
+
+\begin{frame}{Aside: JRC Acquis is not a corpus}
+That might be considered a ``bold statement''.
+
+(It's not. Ask a corpus linguist.)
+
+\hbox{}
+
+{\footnotesize To be clear, we're referring to the {\em Corpus}, not the DGT's Translation
+Memory distribution, which, going by the Moses mailing list, is more often
+used.}
+\end{frame}
+
+\begin{frame}{Aside: JRC Acquis is not a corpus}
+
+JRC Acquis is:
+
+\begin{itemize}
+\item a dump of raw text
+\item full of encoding errors\footnote{At least, for Polish and Czech. YMMV.}
+\item not reliably sentence aligned: industry practice is to realign
+\item not annotated
+\item not maintained
+\end{itemize}
+
+{\footnotesize (For contrast, EuroParl is actively maintained, contains document origin annotation, 
+speaker's original language annotation, and PoS annotation. Unfortunately, it contains
+neither Czech nor Polish)}
+\end{frame}
+\begin{frame}{Why not SMT?}
+\begin{description}
+  \item[Hierarchical/Syntax Augmented] \hfill \\
+  No available tree parsers.
+  \item[Factored models] \hfill \\
+  {\em Seems} promising
+  \item[``Phrase'' Based] \hfill \\
+  The only real option
+\end{description}
+\end{frame}
+
+\begin{frame}{Why not SMT: Factored models}
+
+\begin{quote}
+One example to illustrate the short-comings of the
+traditional surface word approach in statistical machine
+translation is the poor handling of morphology.
+Each word form is treated as a token in itself.
+
+\ldots
+
+While this problem does not show up as strongly
+in English -- due to the very limited morphological
+inflection in English -- it does constitute a significant
+problem for morphologically rich languages
+such as Arabic, German, Czech, etc.
+\end{quote}
+
+{\footnotesize
+\textbf{Factored Translation Models}, {\em Philipp Koehn and Hieu Hoang}, EMNLP 2007, 
+\url{http://homepages.inf.ed.ac.uk/pkoehn/publications/emnlp2007-factored.pdf}.}
+\end{frame}
+
+\begin{frame}{Why not SMT: Factored models}
+
+The Official Version:
+
+\begin{quote}
+We reported on experiments that showed gains
+over standard phrase-based models, both in terms
+of automatic scores (gains of up to 2\% BLEU), as
+well as a measure of grammatical coherence. These
+experiments demonstrate that within the framework
+of factored translation models additional information
+can be successfully exploited to overcome some
+short-comings of the currently dominant phrase-based
+statistical approach.
+\end{quote}
+
+\hbox{}
+
+{\footnotesize\em Ibid.}
+\end{frame}
+
+\begin{frame}{Why not SMT: Factored models}
+Gains of up to 2\% BLEU!
+\end{frame}
+
+\begin{frame}[fragile]{Why not SMT: Factored models}
+
+The Unofficial Version:
+
+\begin{quote}
+``Factored models don't work.''
+\end{quote}
+
+\hbox{}
+
+{\footnotesize 
+-- {\tt \$WELL\_KNOWN\_SMT\_GUY}
+}
+
+\pause
+\hbox{}
+
+{\footnotesize
+Unfortunately, BibTeX does not allow:
+
+\begin{verbatim}
+@PubConversation{wmt2010,
+ author    = "$WELL_KNOWN_SMT_GUY",
+ topic     = "Factored Models",
+ year      =  2010,
+ pub       = "Lanigan's Plough"
+ where     = "Dublin",
+}
+\end{verbatim}
+}
+\end{frame}
+
+%\begin{frame}{Why not SMT: PBMT}
+%``Phrase'' Based MT.
+%
+%\pause
+%
+%Prayer Based MT \pause -- ever tried to train GIZA++?
+%
+%\pause
+%
+%\hbox{}
+%
+%{\footnotesize Skipping the obvious troll about blind faith in corpora...}
+%
+%\end{frame}
+
+\begin{frame}{Why not SMT: ``Phrase''-Based}
+
+We found nothing in the literature about PBMT between Slavic languages.
+
+Of closest relevance was work on Czech to English SMT, which typically
+uses ``stems'' (the first 4 characters of a word) of Czech words, to
+overcome the problem of morphological complexity.
+
+Though this reduces data sparseness, it loses case information, as
+well as person information in verbs. 
+
+This may be adequate for English, but Polish requires that information.
+\end{frame}
+
+\begin{frame}{An aside: SMT Terms}
+
+What's the deal with SMT people trying to redefine existing linguistic terms?
+
+\begin{description}
+  \item[Phrase] \hfill \\
+  a group of words functioning as a single unit in the syntax of a sentence
+  \item[``phrase''] \hfill \\
+  whole sequences of words, where the lengths may differ
+  \item[Stem] \hfill \\
+  the part of the word that is common to all its inflected variants
+  \item[``stem''] \hfill \\
+  the first {\em n} characters of a word
+\end{description}
+
+\footnotesize{Ok, stem is fair game}
+
+\end{frame}
+
+\begin{frame}{Why not SMT: Google Translate}
+
+Google Translate is the only online Czech to Polish PBMT system we found
+
+It is also the only online MT system we found of any kind.
+
+\end{frame}
+\begin{frame}{Why not SMT: Google Translate}
+Although few details are available generally, and none for particular language
+pairs, we can observe that Google translate:
+
+\begin{description}
+  \item[Strips diacritics] \hfill \\
+  The presence or absence makes no difference to the translation for Polish and Czech
+  (compare with Spanish: missing diacritics provide a different translation)
+  \item[Uses English as a pivot] \hfill \\
+  {\it Jsem} in Czech translates as the English {\it I}, instead of Polish {\it Jestem}
+  \item[Uses ``Stemming''] \hfill \\
+  Manually stemmed sentences translate the same as unstemmed.
+\end{description}
+
+\end{frame}
+\begin{frame}{Why not SMT: Google Translate}
+\begin{description}
+  \item[Uses unchecked online wordlists] \hfill \\
+  Google Dictionary for English-Polish and English-Czech contains many entries from
+  online wordlists, known generally to be poor quality\footnote{Ectaco, 
+  slovnik.zcu.cz, slovnyk.org, etc.}\footnote{I'm a language nerd, I take note 
+  of the source when I see bad translations}. Czech to Polish in Google
+  Translate produces several curious translations that could be explained by the
+  triangulation of these lists.
+\end{description}
+
+Google Translate's use of poor quality wordlists in particular convinced us 
+of the importance of not trusting our sources.
+\end{frame}
+
+\end{frame}
+\begin{frame}{Why not SMT: Google Translate}
+
+On the bright side:
+
+We can infer that Google Translate's Czech to Polish pair was not built 
+using data that's not generally available. \pause (That, or it has been 
+buried under the bad publicly available data).
+\end{frame}
+\begin{frame}{Yet Another Aside}
+
+The more astute of you will have noticed that I'm trying to talk about
+everything vaguely related to the system, and not about the system 
+itself.
+
+\pause
+
+(In fact, I'll be very surprised if I haven't been heckled for it.)
+
+\pause
+
+That's because it sucks.
+
+\end{frame}
+\end{section}
+
+\begin{section}{Development}
+\begin{frame}{Resources}
+There are many resources available for Czech and Polish.
+
+\pause
+
+For a given value of ``available''.
+
+\end{frame}
+\begin{frame}{Resources: Morphological analysis}
+
+Resources available in Apertium:
+
+Parts of a Polish morphological analyser from an unsuccessful attempt at 
+English to Polish.
+
+A corpus-derived Czech morphological analyser, from partial work on Czech to Slovenian.
+
+Other resources:
+
+Morfologik (Polish analysis).
+
+F-Morph (non-free: Czech)
+
+LanguageTool's Czech morphological dictionary (corpus derived).
+
+\texttt{ispell} dictionaries.
+\end{frame}
+
+\begin{frame}{Resources: ispell}
+
+Slavic \texttt{ispell} dictionaries are typically designed according to 
+linguistic principles. (This is also true of, e.g., Baltic dictionaries).
+
+This gives us an (almost) 1:1 correspondence between suffix $+$ flags in
+\texttt{ispell} and Apertium paradigms:
+
+\begin{table}
+\begin{center}
+ \caption{Sample mappings between Polish ispell entries and paradigms.}
+ \begin{tabular}{ll}
+    \hline\noalign{\smallskip}
+    ispell      & Apertium\\
+    \noalign{\smallskip}\hline\noalign{\smallskip}
+    milosc$/$MN & milos$/$c\_\_n\\
+    matka$/$mMN & mat$/$ka\_\_n\\
+    droga$/$mMN & fla$/$ga\_\_n\\
+    \hline\noalign{\smallskip}
+ \end{tabular}
+\end{center}
+\end{table}
 
 
 \end{frame}
+
 
 \end{section}
 
