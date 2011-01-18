@@ -55,12 +55,12 @@ Czech is the language of beer!
 
 \begin{frame}{Some Famous Czechs}
 \begin{itemize}
-\item Dvo\v{r}ák
+\item Dvo\v{r}Ã¡k
 \item Jan Hus
 \item Kafka
 \item Good King Wenceslas
-\item Eva Herzigová
-\item Petra Nem\v{c}ová
+\item Eva HerzigovÃ¡
+\item Petra Nem\v{c}ovÃ¡
 \item Ivana Trump
 \end{itemize}
 \end{frame}
@@ -243,13 +243,13 @@ from static.''
 \hbox{}
 
 {\footnotesize
-``V Polsku se mluví komickım šišlavım jazykem, ve kterım prevládají ruznı 
-varianty hlásky `š'. Polština jich má 17 druhu a jejich presnou vıslovnost 
-neznají ani sami Poláci. \ldots
-Soucasná vıslovnost polského jazyka se ustálila teprve a behem 2. svetové 
-války.
+``V Polsku se mluvÃ­ komickÃ½m Å¡iÅ¡lavÃ½m jazykem, ve kterÃ½m prevlÃ¡dajÃ­ ruznÃ½ 
+varianty hlÃ¡sky `Å¡'. PolÅ¡tina jich mÃ¡ 17 druhu a jejich presnou vÃ½slovnost 
+neznajÃ­ ani sami PolÃ¡ci. \ldots
+SoucasnÃ¡ vÃ½slovnost polskÃ©ho jazyka se ustÃ¡lila teprve aÅ¾ behem 2. svetovÃ© 
+vÃ¡lky.
 \ldots
-Aby nebylo pred Nemci nápadné, nesmelo bıt odlišitelné od statického šumu.''}
+Aby nebylo pred Nemci nÃ¡padnÃ©, nesmelo bÃ½t odliÅ¡itelnÃ© od statickÃ©ho Å¡umu.''}
 
 \url{http://necyklopedie.wikia.com/wiki/Polsztyna}
 
@@ -286,10 +286,10 @@ to be useful for future potential language pairs.
 
 All regular adjectives are considered synthetic.
 
-In reality, analytic constructs using \emph{více/nejvíce} are
+In reality, analytic constructs using \emph{vÃ­ce/nejvÃ­ce} are
 used with many adjectives to form the comparative/superlative.
 
-Nejexotermictejší $\rightarrow$ ``Exothermicest''
+NejexotermiÄtÄ›jÅ¡Ã­ $\rightarrow$ ``Exothermicest''
 \end{frame}
 
 \begin{frame}{Some false friends}
@@ -303,7 +303,7 @@ Nejexotermictejší $\rightarrow$ ``Exothermicest''
      \hline
      Czech & Polish & English \\ 
      \hline
-     kveten & maj & May \\
+     kvÄ›ten & maj & May \\
      \v{s}ukat & $\dots$ & $\dots$ \\
     \hline
     \end{tabular}
@@ -312,10 +312,10 @@ Nejexotermictejší $\rightarrow$ ``Exothermicest''
 
 \begin{frame}{Czech View of Polish, Reprise}
 
-Polacy ``šukají'' cokolwiek, i to dlaczego jest cztery razy wiecej Polaków
-niz Czechów.\footnote{Przepraszam za mój marny polski.}
+Polacy ``Å¡ukajÃ­'' cokolwiek, i to dlaczego jest cztery razy wiÄ™cej PolakÃ³w
+niÅ¼ CzechÃ³w.\footnote{Przepraszam za mÃ³j marny polski.}
 
-{\footnotesize Poláci "šukají" kdeco a vısledkem tak je, e jich je 4x tolik co Cechu.}
+{\footnotesize PolÃ¡ci "Å¡ukajÃ­" kdeco a vÃ½sledkem tak je, Å¾e jich je 4x tolik co ÄŒechÅ¯.}
 \end{frame}
 
 
@@ -361,16 +361,16 @@ It's an Apertium project. 'Nuff said.
   \item[Original] \hfill \\
   $[$He$]$ was seated at the breakfast table.
   \item[Polish] \hfill \\
-  Jadl sniadanie.
+  JadÅ‚ Å›niadanie.
   \item[Polish (translation)] \hfill \\
   He ate breakfast.
   \item[Czech] \hfill \\
-  $[$S$]$edel práve u stolu, na nem se snídávalo.
+  $[$S$]$edÄ›l prÃ¡vÄ› u stolu, na nÄ›mÅ¾ se snÃ­dÃ¡valo.
   \item[Czech (translation)] \hfill \\
   He sat right at the table, at which one breakfasts.
 \end{description}
 
-(The verb phrases ``jadl sniadanie'' and ``se snídávalo''
+(The verb phrases ``jadÅ‚ Å›niadanie'' and ``se snÃ­dÃ¡valo''
 {\it almost} align with each other).
 
 \end{frame}
@@ -660,17 +660,96 @@ This gives us an (almost) 1:1 correspondence between suffix $+$ flags in
     \hline\noalign{\smallskip}
     ispell      & Apertium\\
     \noalign{\smallskip}\hline\noalign{\smallskip}
-    milosc$/$MN & milos$/$c\_\_n\\
+    miÅ‚oÅ›Ä‡$/$MN & miÅ‚oÅ›$/$Ä‡\_\_n\\
     matka$/$mMN & mat$/$ka\_\_n\\
     droga$/$mMN & fla$/$ga\_\_n\\
     \hline\noalign{\smallskip}
  \end{tabular}
 \end{center}
 \end{table}
+\end{frame}
 
+\begin{frame}{Resources: Bilingual}
+
+We collected our own bilingual text for testing purposes. (The open content
+portion of this collection has been donated to the Open Content Text Corpus
+project).
 
 \end{frame}
 
+\begin{frame}{Resources: Other}
+We also had a set of rules for Slovakian to Polish and Polish to Slovakian.
+
+As Slovakian and Czech have almost identical syntax, these rules only needed
+slight modifications to apply to Czech, though the ruleset was far from 
+complete. 
+\end{frame}
+
+\begin{frame}{Morphological Analysis and Generation}
+Most of the sources we had were suitable for analysis, but not for generation.
+
+In addition, in the English-Polish project, we faced the problem of the large
+number of paradigms required for Polish. This made it difficult to edit, and
+to fix errors.
+
+At the beginning of this project, we decided to abstract the common portions 
+of the paradigms to both reduce the size of the files, and to make it easier
+to keep consistency in the event of modification.
+\end{frame}
+\begin{frame}{Paradigms: Before}
+\begin{figure*}
+\begin{small}
+\begin{verbatim}
+<pardef n="mat/ka__n">
+  <e><p><l>ka</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>ki</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e><p><l>ce</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e><p><l>kÄ™</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e><p><l>kÄ…</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+  <e><p><l>ce</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+  <e><p><l>ko</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+</pardef>
+<pardef n="dro/ga__n">
+  <e><p><l>ga</l><r>ga<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>gi</l><r>ga<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e><p><l>dze</l><r>ga<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e><p><l>gÄ™</l><r>ga<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e><p><l>gÄ…</l><r>ga<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+  <e><p><l>dze</l><r>ga<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+  <e><p><l>go</l><r>ga<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+</pardef>
+\end{verbatim}
+\end{small}
+\caption{Before: two paradigms with slight differences}
+\end{figure*}
+
+\end{frame}
+\begin{frame}{Paradigms: Before}
+\begin{figure*}
+\begin{small}
+\begin{verbatim}
+<pardef n="BASE__matka">
+  <e><p><l>a</l><r><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>i</l><r><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e><p><l>Ä™</l><r><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e><p><l>Ä…</l><r><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+  <e><p><l>o</l><r><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+</pardef>
+<pardef n="mat/ka__n">
+  <e><p><l>k</l><r>ka<s n="n"/></r></p><par n="BASE__matka"/></e>
+  <e><p><l>ce</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e><p><l>ce</l><r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+</pardef>
+<pardef n="dro/ga__n">
+  <e><p><l>g</l><r>ga<s n="n"/></r></p><par n="BASE__matka"/></e>
+  <e><p><l>dze</l><r>ga<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e><p><l>dze</l><r>ga<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+</pardef>
+\end{verbatim}
+\end{small}
+\caption{Those paradigms redefined in terms of a common base}
+\end{figure*}
+\end{frame}
 
 \end{section}
 
