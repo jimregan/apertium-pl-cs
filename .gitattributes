@@ -96,4 +96,8 @@ misc/bort.xsl -text
 /modes.xml -text
 /pending-tests.sh -text
 /pl-cs.prob -text svneol=unset#unset
+tagger-task/example-anmor.txt -text
+tagger-task/example-corrected.txt -text
+tagger-task/example-tagged.txt -text
+tagger-task/example-untagged.txt -text
 /wiki-tests.sh -text
