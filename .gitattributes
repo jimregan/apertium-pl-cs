@@ -98,6 +98,7 @@ misc/bort.xsl -text
 /pl-cs.prob -text svneol=unset#unset
 tagger-task/Radio_UWM_FM -text
 tagger-task/Radio_UWM_FM.anmor -text
+tagger-task/Radio_UWM_FM.corrected -text
 tagger-task/Radio_UWM_FM.tagger -text
 tagger-task/example-anmor.txt -text
 tagger-task/example-corrected.txt -text
