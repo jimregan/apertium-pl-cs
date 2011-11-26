@@ -103,4 +103,5 @@ tagger-task/example-anmor.txt -text
 tagger-task/example-corrected.txt -text
 tagger-task/example-tagged.txt -text
 tagger-task/example-untagged.txt -text
+tagger-task/tags -text
 /wiki-tests.sh -text
