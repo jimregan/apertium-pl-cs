@@ -4,6 +4,7 @@ mi	rodzaj męski, nieżywotny
 f	rodzaj żeński
 nt	rodzaj nijaki
 n	rzeczownik
+nm	nie męski
 nom	mianownik
 gen	dopełniacz
 dat	celownik
@@ -12,3 +13,5 @@ ins	narzędnik
 loc	miejscownik
 voc	wołacz
 adj	przymiotnik
+sg	l.p.
+pl	l.mn.
