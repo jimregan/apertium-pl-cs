@@ -1,12 +1,12 @@
 TAGGER_UNSUPERVISED_ITERATIONS=2
-BASENAME=apertium-pl-cs
-LANG1=cs
-LANG2=pl
+BASENAME=apertium-pol-ces
+LANG1=ces
+LANG2=pol
 TAGGER=$(LANG1)-tagger-data
 PREFIX=$(LANG1)-$(LANG2)
 
 TSX_FILE=$(BASENAME).$(LANG1).tsx
-#TSX_FILE=dev/generated-cs.tsx
+#TSX_FILE=dev/generated-ces.tsx
 
 all: $(PREFIX).prob
 
