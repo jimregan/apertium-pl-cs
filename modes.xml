@@ -1,309 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
-  <mode name="pol-ces" install="yes">
+  <mode name="pl-cs" install="yes">
     <pipeline>
       <program name="lt-proc">
-        <file name="pol-ces.automorf.bin"/>
+        <file name="pl-cs.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="pol-ces.prob"/>
+        <file name="pl-cs.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-pol-ces.pol-ces.t1x"/>
-        <file name="pol-ces.t1x.bin"/>
-        <file name="pol-ces.autobil.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t1x"/>
+        <file name="pl-cs.t1x.bin"/>
+        <file name="pl-cs.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-pol-ces.pol-ces.t2x"/>
-        <file name="pol-ces.t2x.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t2x"/>
+        <file name="pl-cs.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-pol-ces.pol-ces.t3x"/>
-        <file name="pol-ces.t3x.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t3x"/>
+        <file name="pl-cs.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="pol-ces.autogen.bin"/>
+        <file name="pl-cs.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="pol-ces.autopgen.bin"/>
+        <file name="pl-cs.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="pol-ces-anmor">
+  <mode name="pl-cs-anmor">
     <pipeline>
       <program name="lt-proc">
-        <file name="pol-ces.automorf.bin"/>
+        <file name="pl-cs.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="pol-ces-tagger">
+  <mode name="pl-cs-tagger">
     <pipeline>
       <program name="lt-proc">
-        <file name="pol-ces.automorf.bin"/>
+        <file name="pl-cs.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="pol-ces.prob"/>
+        <file name="pl-cs.prob"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="pol-ces-pretransfer">
+  <mode name="pl-cs-pretransfer">
     <pipeline>
       <program name="lt-proc">
-        <file name="pol-ces.automorf.bin"/>
+        <file name="pl-cs.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="pol-ces.prob"/>
+        <file name="pl-cs.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
 
-  <mode name="pol-ces-chunker">
+  <mode name="pl-cs-chunker">
     <pipeline>
       <program name="lt-proc">
-        <file name="pol-ces.automorf.bin"/>
+        <file name="pl-cs.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="pol-ces.prob"/>
+        <file name="pl-cs.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-pol-ces.pol-ces.t1x"/>
-        <file name="pol-ces.t1x.bin"/>
-        <file name="pol-ces.autobil.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t1x"/>
+        <file name="pl-cs.t1x.bin"/>
+        <file name="pl-cs.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
   
-  <mode name="pol-ces-interchunk">
+  <mode name="pl-cs-interchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="pol-ces.automorf.bin"/>
+        <file name="pl-cs.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="pol-ces.prob"/>
+        <file name="pl-cs.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-pol-ces.pol-ces.t1x"/>
-        <file name="pol-ces.t1x.bin"/>
-        <file name="pol-ces.autobil.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t1x"/>
+        <file name="pl-cs.t1x.bin"/>
+        <file name="pl-cs.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-pol-ces.pol-ces.t2x"/>
-        <file name="pol-ces.t2x.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t2x"/>
+        <file name="pl-cs.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="pol-ces-postchunk">
+  <mode name="pl-cs-postchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="pol-ces.automorf.bin"/>
+        <file name="pl-cs.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="pol-ces.prob"/>
+        <file name="pl-cs.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-pol-ces.pol-ces.t1x"/>
-        <file name="pol-ces.t1x.bin"/>
-        <file name="pol-ces.autobil.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t1x"/>
+        <file name="pl-cs.t1x.bin"/>
+        <file name="pl-cs.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-pol-ces.pol-ces.t2x"/>
-        <file name="pol-ces.t2x.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t2x"/>
+        <file name="pl-cs.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-pol-ces.pol-ces.t3x"/>
-        <file name="pol-ces.t3x.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t3x"/>
+        <file name="pl-cs.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="pol-ces-generador">
+  <mode name="pl-cs-generador">
     <pipeline>
       <program name="lt-proc">
-        <file name="pol-ces.automorf.bin"/>
+        <file name="pl-cs.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="pol-ces.prob"/>
+        <file name="pl-cs.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-pol-ces.pol-ces.t1x"/>
-        <file name="pol-ces.t1x.bin"/>
-        <file name="pol-ces.autobil.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t1x"/>
+        <file name="pl-cs.t1x.bin"/>
+        <file name="pl-cs.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-pol-ces.pol-ces.t2x"/>
-        <file name="pol-ces.t2x.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t2x"/>
+        <file name="pl-cs.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-pol-ces.pol-ces.t3x"/>
-        <file name="pol-ces.t3x.bin"/>
+        <file name="apertium-pl-cs.pl-cs.t3x"/>
+        <file name="pl-cs.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="pol-ces.autogen.bin"/>
+        <file name="pl-cs.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
   
 
   
-  <mode name="ces-pol" install="yes">
+  <mode name="cs-pl" install="yes">
     <pipeline>
       <program name="lt-proc">
-        <file name="ces-pol.automorf.bin"/>
+        <file name="cs-pl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="ces-pol.prob"/>
+        <file name="cs-pl.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-pol-ces.ces-pol.t1x"/>
-        <file name="ces-pol.t1x.bin"/>
-        <file name="ces-pol.autobil.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t1x"/>
+        <file name="cs-pl.t1x.bin"/>
+        <file name="cs-pl.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-pol-ces.ces-pol.t2x"/>
-        <file name="ces-pol.t2x.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t2x"/>
+        <file name="cs-pl.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-pol-ces.ces-pol.t3x"/>
-        <file name="ces-pol.t3x.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t3x"/>
+        <file name="cs-pl.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="ces-pol.autogen.bin"/>
+        <file name="cs-pl.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="ces-pol.autopgen.bin"/>
+        <file name="cs-pl.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ces-pol-anmor">
+  <mode name="cs-pl-anmor">
     <pipeline>
       <program name="lt-proc">
-        <file name="ces-pol.automorf.bin"/>
+        <file name="cs-pl.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ces-pol-tagger">
+  <mode name="cs-pl-tagger">
     <pipeline>
       <program name="lt-proc">
-        <file name="ces-pol.automorf.bin"/>
+        <file name="cs-pl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="ces-pol.prob"/>
+        <file name="cs-pl.prob"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ces-pol-pretransfer">
+  <mode name="cs-pl-pretransfer">
     <pipeline>
       <program name="lt-proc">
-        <file name="ces-pol.automorf.bin"/>
+        <file name="cs-pl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="ces-pol.prob"/>
+        <file name="cs-pl.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
 
-  <mode name="ces-pol-chunker">
+  <mode name="cs-pl-chunker">
     <pipeline>
       <program name="lt-proc">
-        <file name="ces-pol.automorf.bin"/>
+        <file name="cs-pl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="ces-pol.prob"/>
+        <file name="cs-pl.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-pol-ces.ces-pol.t1x"/>
-        <file name="ces-pol.t1x.bin"/>
-        <file name="ces-pol.autobil.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t1x"/>
+        <file name="cs-pl.t1x.bin"/>
+        <file name="cs-pl.autobil.bin"/>
       </program>
     </pipeline>
   </mode>                
                                           
-  <mode name="ces-pol-interchunk">
+  <mode name="cs-pl-interchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="ces-pol.automorf.bin"/>
+        <file name="cs-pl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="ces-pol.prob"/>
+        <file name="cs-pl.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-pol-ces.ces-pol.t1x"/>
-        <file name="ces-pol.t1x.bin"/>
-        <file name="ces-pol.autobil.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t1x"/>
+        <file name="cs-pl.t1x.bin"/>
+        <file name="cs-pl.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-pol-ces.ces-pol.t2x"/>
-        <file name="ces-pol.t2x.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t2x"/>
+        <file name="cs-pl.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ces-pol-postchunk">
+  <mode name="cs-pl-postchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="ces-pol.automorf.bin"/>
+        <file name="cs-pl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="ces-pol.prob"/>
+        <file name="cs-pl.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-pol-ces.ces-pol.t1x"/>
-        <file name="ces-pol.t1x.bin"/>
-        <file name="ces-pol.autobil.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t1x"/>
+        <file name="cs-pl.t1x.bin"/>
+        <file name="cs-pl.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-pol-ces.ces-pol.t2x"/>
-        <file name="ces-pol.t2x.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t2x"/>
+        <file name="cs-pl.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-pol-ces.ces-pol.t3x"/>
-        <file name="ces-pol.t3x.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t3x"/>
+        <file name="cs-pl.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ces-pol-generador">
+  <mode name="cs-pl-generador">
     <pipeline>
       <program name="lt-proc">
-        <file name="ces-pol.automorf.bin"/>
+        <file name="cs-pl.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="ces-pol.prob"/>
+        <file name="cs-pl.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-pol-ces.ces-pol.t1x"/>
-        <file name="ces-pol.t1x.bin"/>
-        <file name="ces-pol.autobil.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t1x"/>
+        <file name="cs-pl.t1x.bin"/>
+        <file name="cs-pl.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-pol-ces.ces-pol.t2x"/>
-        <file name="ces-pol.t2x.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t2x"/>
+        <file name="cs-pl.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-pol-ces.ces-pol.t3x"/>
-        <file name="ces-pol.t3x.bin"/>
+        <file name="apertium-pl-cs.cs-pl.t3x"/>
+        <file name="cs-pl.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="ces-pol.autogen.bin"/>
+        <file name="cs-pl.autogen.bin"/>
       </program>
     </pipeline>
   </mode>

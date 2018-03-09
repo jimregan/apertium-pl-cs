@@ -1,6 +1,6 @@
 VERSION=0.0.1
-LANG1=pol
-LANG2=ces
+LANG1=pl
+LANG2=cs
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
 
@@ -91,10 +91,10 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 #	touch $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG2).dix $(BASENAME).$(PREFIX1).dix
 #	rm $(BASENAME).$(LANG1).dix
 	
-apertium_pol_cesdir=$(prefix)/share/apertium/$(BASENAME)/
+apertium_pl_csdir=$(prefix)/share/apertium/$(BASENAME)/
 
 # Files which should be installed to $(prefix)/share/apertium/$(BASENAME)/:
-apertium_pol_ces_DATA=$(TARGETS_COMMON) \
+apertium_pl_cs_DATA=$(TARGETS_COMMON) \
 	$(BASENAME).$(PREFIX1).t1x \
 	$(BASENAME).$(PREFIX1).t2x \
 	$(BASENAME).$(PREFIX1).t3x \
